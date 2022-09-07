@@ -2,12 +2,54 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
+        <title></title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
       </titleStmt>
       <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability> <!-- ask SoA for copyright statement --> </availability>
       </publicationStmt>
       <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno> <!-- m-number --> </idno>
+          </msIdentifier>
+        </msDesc>
+        <physDesc>
+          <!-- <p> with description based on Berg catalogue descriptions -->
+        </physDesc>
       </sourceDesc>
     </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in <sic> / <corr> tags, wrapped in a <choice> element.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Where appropriate, spelling and punctuation have been modernised using <orig> / <reg> tags, wrapped in a <choice> element.</p>
+        </normalization>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in <rs> tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+      <listPrefixDef>
+        <prefixDef ident="psn"
+          matchpattern="([a-z]+)"
+          replacementpattern="../resources/personography.xml">
+          <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
+        </prefixDef>
+      </listPrefixDef>
+    </encodingDesc>
   </teiHeader>
   <text>
       <!--...-->
