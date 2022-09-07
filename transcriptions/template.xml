@@ -1,12 +1,13 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
-      <listPrefixDef>
-        <prefixDef ident="psn"
-          matchpattern="([a-z]+)"
-          replacementpattern="">
-          <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
-        </prefixDef>
-      </listPrefixDef>
+    <fileDesc>
+      <titleStmt>
+      </titleStmt>
+      <publicationStmt>
+      </publicationStmt>
+      <sourceDesc>
+      </sourceDesc>
+    </fileDesc>
   </teiHeader>
   <text>
       <!--...-->
