@@ -37,13 +37,13 @@
     <encodingDesc>
       <editorialDecl>
         <correction method="markup">
-          <p>Apparent errors have been explicitly corrected in <sic> / <corr> tags, wrapped in a <choice> element.</p>
+          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
         </correction>
         <normalization method="markup">
-          <p>Where appropriate, spelling and punctuation have been modernised using <orig> / <reg> tags, wrapped in a <choice> element.</p>
+          <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> / <reg></reg> tags, wrapped in a <choice></choice> element.</p>
         </normalization>
         <interpretation>
-          <p>Names and references to places and literary works have been wrapped in <rs> tags which link to annotations and secondary material.</p>
+          <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
         </interpretation>
       </editorialDecl>
       <projectDesc>
