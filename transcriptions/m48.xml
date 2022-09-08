@@ -37,13 +37,13 @@
     <encodingDesc>
       <editorialDecl>
         <correction method="markup">
-          <p>Apparent errors have been explicitly corrected in <sic> /<corr> tags, wrapped in a <choice> element.</p>
+          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
         </correction>
         <normalization method="markup">
-           <p>Where appropriate, spelling and punctuation have been modernised using <orig> /<reg> tags, wrapped in a <choice> element.</p>
+           <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> /<reg></reg> tags, wrapped in a <choice></choice> element.</p>
         </normalization>
         <interpretation>
-        <p>Names and references to places and literary works have been wrapped in <rs> tags which link to annotations and secondary material.</p>
+        <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
         </interpretation>
       </editorialDecl>
       <projectDesc>
@@ -66,17 +66,17 @@
             <corr>after</corr>
             <sic>afte</sic>
           </choice> Britain became an island "</lb>
-      <lb>the historian says, "the untamed forest was king."</lb>
-      <lb>He goes on to say that <del hand="ms">a</del>millions of birds, perched on</lb>
-      <lb>the top of those matted branches, sang their choruses.</lb>
-      <lb>Onl<add hand="ms">y</add> the skin clad hunters in the clearings heard the song.</lb>
-      <lb>The tree 
-        <choice>
-          <corr>had</corr>
-          <sic>h  </sic>
-        </choice> to be felled; and a hut made from its</lb>
-    <lb>branches , before the human voice sang too.</lb>
-    <p>
+        <lb>the historian says, "the untamed forest was king."</lb>
+        <lb>He goes on to say that <del hand="ms">a</del>millions of birds, perched on</lb>
+        <lb>the top of those matted branches, sang their choruses.</lb>
+        <lb>Onl<add hand="ms">y</add> the skin clad hunters in the clearings heard the song.</lb>
+        <lb>The tree 
+          <choice>
+            <corr>had</corr>
+            <sic>h  </sic>
+          </choice> to be felled; and a hut made from its</lb>
+      <lb>branches , before the human voice sang too.</lb>
+    </p>
       <p>
         <lb>By a bank as I lay</lb>
         <lb>Musing myself alone, <del hand="ms">j</del>
@@ -94,7 +94,7 @@
           <choice>
             <sic>brok</sic>
             <corr>broke</corr>
-          <choice> the
+          </choice> the
           <choice>
             <sic>silnec</sic>
             <corr>silence</corr>
@@ -129,7 +129,7 @@
             <sic>b cause</sic>
             <corr>because</corr>
           </choice> he loves; because he</lb>
-        <lb>is hungry; or lustful; or merry.<add hand="ms">]</hand> Everybody shares the
+        <lb>is hungry; or lustful; or merry.<add hand="ms">]</add> Everybody shares the</lb>
       </p>      
     </div>
     <div type="page" xml:id="m48.2">
@@ -149,7 +149,7 @@
             <corr>emotion</corr>
           </choice>; <add hand="ms" place="above">a <gap quantity="2" unit="word" reason="illegible" /></add> and knows the old story of <del hand="ms">the Nut brown maid.</del></lb>
         <lb><rs id="psn:anon">Anon</rs> is sometimes woman; sometimes man; he is the</lb>
-        <lb>common voice; <add hand="ms" place="above">He <unclear reason="illegible">hears</unclear><del>of</del> ??? - LOOK AGAIN LATER<add><rs id="psn:anon">Anon</rs> goes round the country singing.</lb>
+        <lb>common voice; <add hand="ms" place="above">He <unclear reason="illegible">hears</unclear><del>of</del> ??? - LOOK AGAIN LATER</add><rs id="psn:anon">Anon</rs> goes round the country singing.</lb>
         <lb><add hand="ms">[</add>He has a very quick eye, connected, for the eye is the</lb>
         <lb>youthful sense, rather with the body than the mind.<add hand="ms">]</add></lb>
         <lb><rs id="psn:anon">Anon</rs> <add hand="ms" place="above"><del hand="ms">He</del></add>has no house. He lives a roaming out of door</lb>
