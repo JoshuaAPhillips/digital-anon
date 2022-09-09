@@ -55,6 +55,16 @@
           replacementpattern="../resources/personography.xml">
           <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
         </prefixDef>
+        <prefixDef ident="lit"
+        matchpattern="([a-z]+)"
+        replacementpattern="../resources/literary-refs.xml">
+        <p>In the context of this project, private URIs with the prefix "lit" point to <gi>Person</gi> elements in the project's `literary-refs.xml` file</p>
+      </prefixDef>
+      <prefixDef ident="pla"
+      matchpattern="([a-z]+)"
+      replacementpattern="../resources/places.xml">
+      <p>In the context of this project, private URIs with the prefix "pla" point to <gi>Person</gi> elements in the project's `places.xml` file</p>
+    </prefixDef>
       </listPrefixDef>
     </encodingDesc>
   </teiHeader>
