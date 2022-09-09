@@ -26,11 +26,11 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
+            <idno>m49</idno>
           </msIdentifier>
         </msDesc>
         <physDesc>
-          <!-- <p> with description based on Berg catalogue descriptions -->
+          [Anon] Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p. Paginated 3-10. On verso of p. 8-9 her: People one would have liked to have met. Holograph fragment. 2p.
         </physDesc>
       </sourceDesc>
     </fileDesc>
@@ -59,6 +59,72 @@
     </encodingDesc>
   </teiHeader>
   <text>
-      <!--...-->
+      <div type="page" xml:id="m49.1">
+        <p>
+          <l>3</l>
+          <l><del hand="ms"><rs id="psn:anon">Anon</rs> died round 187<del hand="ms">8</del><add hand="ms" place="above">7</add>. It was the printed book</del></l>
+          <l><del hand="ms">with the authors name attached that killed him. After that></del></l>
+          <l><del hand="ms">the audience was separate from the singer. After that</del></l>
+          <l><del hand="ms">the song was attached to the singer. <rs id="psn:anon">Anon</rs> gives place to</del></l>
+          <l><del hand="ms"><gap quantity="8" unit="chars" reason="illegible" /> <rs id="psn:gcha">Geoffrey</rs> or <rs id="psn:jgow">
+            <choice>
+              <sic>Jogn</sic>
+              <corr>John</corr>
+            </choice></rs> or <rs id="psn:unkn">Peter</rs>; he lives in a house</del></l>
+            <l><del hand="ms">and he has books.</del></l>
+        </p>
+        <p>
+          <l>....<del hand="ms">2</del>....</l>
+          <l>The heart of this vast
+            <choice>
+              <sic>prolieferation</sic>
+              <corr>proliferation</corr>
+            </choice> of printed pages</l>
+          <l>remains the song. The song has the same power over the reader</l>
+          <l>in the 20th 
+            <choice>
+              <sic>cen ury</sic>
+              <corr>century</corr>
+            </choice> as over the hearer in the 11th. To enjoy</l>
+          <l>singing, to enjoy hearing the sing, must be the most</l>
+          <l>deep rooted, the toughest of human instincts comparable</l>
+          <l>for persistency with the instinct of self preservation</l>
+          <add hand="ms" place="margin">foreign to the bodies instinct</add>
+          <l>It is indeed the instinct of self preservation.</l>
+          <l>Only  when we put two and two together--two pencil strokes,</l>
+          <l>two written words, two bricks do we overcome
+            <choice>
+              <sic>doissolution</sic>
+              <corr>dissolution</corr>
+            </choice></l>
+          <l>and set up some stake against oblivion. The passion with</l>
+          <l>which we seek out these
+            <choice>
+              <sic>creation</sic>
+              <corr>creations</corr>
+            </choice> and attempt endlessly,</l>
+          <l>perpetually, to make them is of a piece with the instinct</l>
+          <l>that sets us preserving
+            <choice>
+              <sic>out</sic>
+              <corr>our</corr>
+            </choice> bodies, with clothes, food,</l>
+          <l>roofs, from destruction.</l>
+        </p>
+        <p>
+         <l><del hand="ms">But</del><add place="above" hand="pencil">With</add> the printing press <del hand="ms">brought</del><add place="above" hand="pencil">came</add> into existence</l>
+          <l>forces that cover over the original song--books themselves,</l>
+          <l>and the readers of books. If science were so advanced that</l>
+          <l>we could at this moment X ray the singers mind<add hand="pencil" place="above">as she moved</add> we should</l>
+          <l>find a nimbus surrounding the song; a 
+            <choice>
+              <sic>steeam</sic>
+              <corr>stream</corr>
+              <corr>steam</corr>
+            </choice> of</l>
+          <l>influences. Some we can name--education; class;</l>
+          <l>the pressure of society. But they are so many, and so</l>
+          </p>
+      </div>
   </text>
 </TEI>
