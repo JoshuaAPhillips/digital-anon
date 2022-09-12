@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -49,17 +51,6 @@
       <projectDesc>
         <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
       </projectDesc>
-      <listPrefixDef>
-        <prefixDef ident="psn" matchpattern="([a-z]+)" replacementpattern="../resources/personography.xml">
-          <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
-        </prefixDef>
-        <prefixDef ident="lit" matchpattern="([a-z]+)" replacementpattern="../resources/literary-refs.xml">
-          <p>In the context of this project, private URIs with the prefix "lit" point to <gi>Person</gi> elements in the project's `literary-refs.xml` file</p>
-        </prefixDef>
-        <prefixDef ident="pla" matchpattern="([a-z]+)" replacementpattern="../resources/places.xml">
-          <p>In the context of this project, private URIs with the prefix "pla" point to <gi>Person</gi> elements in the project's `places.xml` file</p>
-        </prefixDef>
-      </listPrefixDef>
     </encodingDesc>
   </teiHeader>
   <text>
@@ -110,7 +101,7 @@
             <sic>birds</sic>
             <corr>bird's</corr>
           </choice> voice, singing out of doors. It was</del> the voice of</l>
-        <l><rs id="psn:anon">Anon</rs>. <del hand="ms">He had no comfort indoors, little light</del></l>
+        <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>. <del hand="ms">He had no comfort indoors, little light</del></l>
         <l><del hand="ms">and no books.</del> He had 
           <choice>
             <sic>n</sic>
@@ -129,7 +120,7 @@
             <sic>th </sic>
             <corr>the</corr>
           </choice> pause<add hand="ms">s</add></l>
-        <l>helping out the <add hand="ms" place="above"><unclear reason="illegible">larger</unclear></add>meaning.<add hand="ms">[</add><rs id="psn:anon">Anon</rs> sings because spring has</l>
+        <l>helping out the <add hand="ms" place="above"><unclear reason="illegible">larger</unclear></add>meaning.<add hand="ms">[</add><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> sings because spring has</l>
         <l>come; or witer is gone; 
           <choice>
             <sic>b cause</sic>
@@ -154,11 +145,11 @@
             <sic>emition</sic>
             <corr>emotion</corr>
           </choice>; <add hand="ms" place="above">a <gap quantity="2" unit="word" reason="illegible" /></add> and knows the old story of <del hand="ms">the Nut brown maid.</del></l>
-        <l><rs id="psn:anon">Anon</rs> is sometimes woman; sometimes man; he is the</l>
-        <l>common voice; <add hand="ms" place="above">He <unclear reason="illegible">hears</unclear><del>of</del> ??? - LOOK AGAIN LATER</add><rs id="psn:anon">Anon</rs> goes round the country singing.</l>
+        <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> is sometimes woman; sometimes man; he is the</l>
+        <l>common voice; <add hand="ms" place="above">He <unclear reason="illegible">hears</unclear><del>of</del> ??? - LOOK AGAIN LATER</add><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> goes round the country singing.</l>
         <l><add hand="ms">[</add>He has a very quick eye, connected, for the eye is the</l>
         <l>youthful sense, rather with the body than the mind.<add hand="ms">]</add></l>
-        <l><rs id="psn:anon">Anon</rs> <add hand="ms" place="above"><del hand="ms">He</del></add>has no house. He lives a roaming out of door</l>
+        <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> <add hand="ms" place="above"><del hand="ms">He</del></add>has no house. He lives a roaming out of door</l>
         <l>country life, going from village to village,</l>
         <l>stopping 
           <choice>
@@ -179,7 +170,7 @@
           <choice>
             <sic>osome</sic>
             <corr>some</corr>
-          </choice>, or up on some down,</del> what <rs id="psn:anon">Anon</rs> saw.</l>
+          </choice>, or up on some down,</del> what <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> saw.</l>
         <l>the bird 
           <choice>
             <sic>ha unted</sic>
@@ -190,7 +181,7 @@
             <corr>reed</corr>
           </choice> whispering fen; the down covered</l>
         <l>with turf; and the scar, long healed, over the <del hand="ms">down</del><add hand="ms" place="above">hill</add></l>
-        <l>along which <rs id="psn:anon">Anon</rs> came when he made his journeys.</l>
+        <l>along which <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> came when he made his journeys.</l>
         <l>He was garrulous; 
           <choice>
             <sic>looe</sic>
