@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -49,23 +51,6 @@
       <projectDesc>
         <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
       </projectDesc>
-      <listPrefixDef>
-        <prefixDef ident="psn"
-          matchpattern="([a-z]+)"
-          replacementpattern="../resources/personography.xml">
-          <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
-        </prefixDef>
-        <prefixDef ident="lit"
-        matchpattern="([a-z]+)"
-        replacementpattern="../resources/literary-refs.xml">
-        <p>In the context of this project, private URIs with the prefix "lit" point to <gi>Person</gi> elements in the project's `literary-refs.xml` file</p>
-      </prefixDef>
-      <prefixDef ident="pla"
-      matchpattern="([a-z]+)"
-      replacementpattern="../resources/places.xml">
-      <p>In the context of this project, private URIs with the prefix "pla" point to <gi>Person</gi> elements in the project's `places.xml` file</p>
-    </prefixDef>
-      </listPrefixDef>
     </encodingDesc>
   </teiHeader>
   <text>
