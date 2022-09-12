@@ -50,14 +50,18 @@
         <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
       </projectDesc>
       <listPrefixDef>
-        <prefixDef ident="psn"
-          matchpattern="([a-z]+)"
-          replacementpattern="../resources/personography.xml">
+        <prefixDef ident="psn" matchpattern="([a-z]+)" replacementpattern="../resources/personography.xml">
           <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
         </prefixDef>
+        <prefixDef ident="lit" matchpattern="([a-z]+)" replacementpattern="../resources/literary-refs.xml">
+          <p>In the context of this project, private URIs with the prefix "lit" point to <gi>Person</gi> elements in the project's `literary-refs.xml` file</p>
+        </prefixDef>
+        <prefixDef ident="pla" matchpattern="([a-z]+)" replacementpattern="../resources/places.xml">
+          <p>In the context of this project, private URIs with the prefix "pla" point to <gi>Person</gi> elements in the project's `places.xml` file</p>
+        </prefixDef>
       </listPrefixDef>
-    </encodingDesc>
-  </teiHeader>
+</encodingDesc>
+</teiHeader>
   <text>
       <div type="page" xml:id="m49.1">
         <p>
@@ -196,7 +200,7 @@
               <sic>hthe</sic>
               <corr>the</corr>
             </choice> quiet of the parsonage. Like <rs id="psn:unkn">Cole</rs>, like <rs id="psn:unkn">Skinner</rs></l>
-          <l>Harrison the parson of <rs id="pla:rad">Radwinter</rs>, <add hand="ms" place="above">he</add>had a library; and dug up</l>
+          <l>Harrison the parson of <rs id="pla:radw">Radwinter</rs>, <add hand="ms" place="above">he</add>had a library; and dug up</l>
           <l>coins. He already sees the present against the background</l>
           <l>of the past. The past has 
             <choice>
@@ -232,6 +236,134 @@
               <sic>comparded</sic>
               <corr>compared</corr>
             </choice> with their ancestors.</l>
+        </p>
+        <p>
+          <l>But the English seen past as seen by <rs id="psn:whar">Harrison</rs> only served</l>
+          <l>to show up the physical, the material change --the</l>
+          <l>change that had come over houses, 
+            <choice>
+              <sic>furniuture</sic>
+              <corr>furniture</corr>
+            </choice> and clothing.</l>
+          <l>To show up the change in the mind, there was no</l>
+          <l><del hand="ms">English pattern</del>. There was no English literature, to show</l>
+          <l>up the decline of English literature. <quote source="">"English "</quote> says the</l>
+          <l><quote source="">historian " had gone 
+            <choice>
+              <sic>undergrounf</sic>
+              <corr>underground</corr>
+            </choice> for two centuries...</quote></l>
+          </p>
+      </div>
+      <div xml:id="m49.4">
+        <p>
+          <l>6</l>
+          <l>English had 
+            <choice>
+              <sic>gon </sic>
+              <corr>gone</corr>
+            </choice> down stairs into the kitchen, into the</l>
+            <l>farmyard. Anon had sung his song at the back door</l>
+            <l>in a jargon that was as uncouth to Harrison as to 
+              <choice>
+                <sic>ourslves</sic>
+                <corr>ourselves</corr>
+              </choice>:</l>
+            <l><quote source="">Icham for woing al forwake</quote></l>
+            <l><quote source="">Wery no water in wore</quote></l>
+            <l><quote source="">An hendy hap ichable yghent</quote></l>
+            <l><quote source="">Ichot from hevene it is me sent</quote></l>
+            <l>-- 
+              <choice>
+                <sic>yhhe</sic>
+                <corr>the</corr>
+              </choice> words were as difficult for him to spell out as</l>
+            <l>for ourselves; and more painful. For they reminded him of</l>
+            <l>his lack of intellectual 
+              <choice>
+                <sic>ansctery</sic>
+                <corr>ancestry</corr>
+              </choice>. He goes back <add hand="ms" place="above">a very little way -</add> to</l>
+            <l><rs type="person" ref="../resources/annotations.xml#psn-gcha">
+              <choice>
+                <sic>Cahucer</sic>
+                <corr>Chaucer</corr>
+              </choice></rs>, <rs type="person" ref="../resources/annotations.xml#psn-jlyd">Lydgate</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jwyc">Wycliffe</rs>. <del ms="hand">For him it was a very sxxxx</del></l>
+            <l><del hand="ms">little way</del>. So,   to have
+              <choice>
+                <sic>anscestors</sic>
+                <corr>ancestors</corr>
+              </choice>, he must cross the</l>
+            <l><rs type="place" ref="../resources/annotations.xml#pla-chan">
+              <choice>
+                <sic>chaneel</sic>
+                <corr>Channel</corr>
+              </choice></rs>; his ancestors by way
+                <choice>
+                  <sic>o  f</sic>
+                  <corr>of</corr>
+                </choice> the mind are</l>
+            <l>the Greeks and the Romans. His page is burdened <add hand="ms" place="above">?????</add>with these</l>
+            <l>proofs of good breeding. <gap quantity="1" unit="word" reason="illegible" /><rs type="person" ref="../resources/annotations.xml#psn-agrip">Henricus Cornelius</rs></l>
+            <l><rs type="person" ref="../resources/annotations.xml#psn-agrip">Agrippa</rs>, <rs type="person" ref="../resources/annotations.xml#psn-suet">
+              <choice>
+                <sic>Suetoniius</sic>
+                <corr>Suetonius</corr>
+              </choice></rs>; <rs type="person" ref="../resources/annotations.xml#psn-plin">Pliny</rs>; <rs type="person" ref="../resources/annotations.xml#psn-cice">Cicero</rs>--they prove his good</l>
+          <l>breeding, as we prove ours by going
+            <choice>
+              <sic>vback</sic>
+              <corr>back</corr>
+            </choice> to <rs type="person" ref="../resources/annotations.xml#psn-gcha"><choice>
+              <sic>Cahucer</sic>
+              <corr>Chaucer</corr>
+            </choice></rs>, to</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-tbro">Sir Thomas
+            <choice>
+              <sic>Brwone</sic>
+              <corr>Browne</corr>
+            </choice></rs>. The <choice>
+              <sic>anicents</sic>
+              <corr>ancients</corr>
+            </choice> occupied the same place in</l>
+          <l>
+            <choice>
+              <sic>Harrions</sic>
+              <corr>Harrison's'</corr>
+            </choice> mind that the Elizabethans occupy in ours.</l>
+          <l>Those were the great books that were chained to the</l>
+          <l>
+            <choice>
+              <sic>selves</sic>
+              <corr>shelves</corr>
+            </choice> of the college libraries. The learned read them.</l>
+          <l>And in Harrisons day the nobles. <quote source="">"...our ancient ladies"</quote></l>
+          <l><quote source="">of the court"</quote> were to be found reading 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> holy scriptures</l>
+          <l>as they did their 
+            <choice>
+              <sic>needlwwork</sic>
+              <corr>needlework</corr>;
+            </choice>; and histories. The noble</l>
+          <l>ladies <gap quantity="1" unit="word" reason="illegible" /> if they had a turn for 
+            <choice>
+              <sic>rading</sic>
+              <corr>reading</corr>
+            </choice>, must</l>
+          <l>read Latin and 
+            <choice>
+              <sic>reek</sic>
+              <corr>Greek</corr>
+            </choice>, for <gap quantity="1" unit="word" reason="illegible" /><del hand="ms">English literature</del></l>
+          <l><gap quantity="1" unit="word" reason="illegible"/>not 
+            <choice>
+              <sic>nough</sic>
+              <corr>enough</corr>
+            </choice> English</l>
+          <l>literature to keep a healthy appetite in being. They had <add hand="ms" place="after">to learn</add></l>    
         </p>
       </div>
   </text>
