@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -49,32 +51,21 @@
       <projectDesc>
         <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
       </projectDesc>
-      <listPrefixDef>
-        <prefixDef ident="psn" matchpattern="([a-z]+)" replacementpattern="../resources/personography.xml">
-          <p>In the context of this project, private URIs with the prefix "psn" point to <gi>Person</gi> elements in the project's `personography.xml` file</p>
-        </prefixDef>
-        <prefixDef ident="lit" matchpattern="([a-z]+)" replacementpattern="../resources/literary-refs.xml">
-          <p>In the context of this project, private URIs with the prefix "lit" point to <gi>Person</gi> elements in the project's `literary-refs.xml` file</p>
-        </prefixDef>
-        <prefixDef ident="pla" matchpattern="([a-z]+)" replacementpattern="../resources/places.xml">
-          <p>In the context of this project, private URIs with the prefix "pla" point to <gi>Person</gi> elements in the project's `places.xml` file</p>
-        </prefixDef>
-      </listPrefixDef>
 </encodingDesc>
 </teiHeader>
   <text>
       <div type="page" xml:id="m49.1">
         <p>
           <l>3</l>
-          <l><del hand="ms"><rs id="psn:anon">Anon</rs> died round 187<del hand="ms">8</del><add hand="ms" place="above">7</add>. It was the printed book</del></l>
+          <l><del hand="ms"><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> died round 187<del hand="ms">8</del><add hand="ms" place="above">7</add>. It was the printed book</del></l>
           <l><del hand="ms">with the authors name attached that killed him. After that></del></l>
           <l><del hand="ms">the audience was separate from the singer. After that</del></l>
-          <l><del hand="ms">the song was attached to the singer. <rs id="psn:anon">Anon</rs> gives place to</del></l>
-          <l><del hand="ms"><gap quantity="8" unit="chars" reason="illegible" /> <rs id="psn:gcha">Geoffrey</rs> or <rs id="psn:jgow">
+          <l><del hand="ms">the song was attached to the singer. <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> gives place to</del></l>
+          <l><del hand="ms"><gap quantity="8" unit="chars" reason="illegible" /> <rs type="person" ref="../resources/annotations.xml#psn-gcha">Geoffrey</rs> or <rs type="person" ref="../resources/annotations.xml#psn-jgow">
             <choice>
               <sic>Jogn</sic>
               <corr>John</corr>
-            </choice></rs> or <rs id="psn:unkn">Peter</rs>; he lives in a house</del></l>
+            </choice></rs> or <rs type="person" ref="../resources/annotations.xml#psn-unkn">Peter</rs>; he lives in a house</del></l>
             <l><del hand="ms">and he has books.</del></l>
         </p>
         <p>
@@ -134,7 +125,7 @@
         <p>
           <l>4</l>
           <l>interwoven and so obscure that it is simpler to invent</l>
-          <l>for them nonsense names--- say <rs id="psn:nin">Nin</rs> <rs id="psn:crot">Crot</rs> and <rs id="psn:pull">Pully</rs>. Nin</l>
+          <l>for them nonsense names--- say <rs type="person" ref="../resources/annotations.xml#psn-nin">Nin</rs> <rs type="person" ref="../resources/annotations.xml#psn-crot">Crot</rs> and <rs type="person" ref="../resources/annotations.xml#psn-pull">Pully</rs>. Nin</l>
           <l>Crot and Pully are always at their work, tugging, obscuring,</l>
           <l>distorting. Some are visible only to the writer. Others</l>
           <l>only to the reader. More and more 
@@ -173,7 +164,7 @@
             </choice> chorus</l>
           <l>To follow his fortunes further we must turn to one of those</l>
           <l>commentators who tell us us so much about the invisible</l>
-          <l>influences. about <rs id="psn:nin">Nin</rs> <rs id="psn:crot">Crot</rs> and <rs id="psn:pull">Pulley</rs>.</l>
+          <l>influences. about <rs type="person" ref="../resources/annotations.xml#psn-nin">Nin</rs> <rs type="person" ref="../resources/annotations.xml#psn-crot">Crot</rs> and <rs type="person" ref="../resources/annotations.xml#psn-pull">Pulley</rs>.</l>
           <l>But for him of course we have to wait until winter</l>
           <l>was past; until time has drawn its blue veil</l>
         </p>  
@@ -190,17 +181,17 @@
             <choice>
               <sic>adnthe</sic>
               <corr>and the</corr>
-            </choice> <del hand="ms">Pil</del> <rs id="lit:cant">Canterbury Pilgrims</rs> have gone</l>
+            </choice> <del hand="ms">Pil</del> <rs type="literary-work" ref="../resources/annotations.xml#lit-cant">Canterbury Pilgrims</rs> have gone</l>
           <l>their way, somebody looks back. He is a representative man,</l>
           <l><del ms="hand">that is</del> he h<gap quantity="4" unit="chars" reason="illegible" /> is often repeated, <add hand="pencil">and often <gap quantity="1" unit="word" reason="illegible" /></add>, with little variation.</l>
-          <l>He--<rs id="psn:whar">Harrison</rs> was his name-- is the first of that long line</l>
+          <l>He--<rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> was his name-- is the first of that long line</l>
           <l>of leisured and learned men who have time to think about the</l>
           <l>past in 
             <choice>
               <sic>hthe</sic>
               <corr>the</corr>
-            </choice> quiet of the parsonage. Like <rs id="psn:unkn">Cole</rs>, like <rs id="psn:unkn">Skinner</rs></l>
-          <l>Harrison the parson of <rs id="pla:radw">Radwinter</rs>, <add hand="ms" place="above">he</add>had a library; and dug up</l>
+            </choice> quiet of the parsonage. Like <rs type="person" ref="../resources/annotations.xml#psn-unkn">Cole</rs>, like <rs type="person" ref="../resources/annotations.xml#psn-unkn">Skinner</rs></l>
+          <l>Harrison the parson of <rs type="place" ref="../resources/annotations.xml#pla-radw">Radwinter</rs>, <add hand="ms" place="above">he</add>had a library; and dug up</l>
           <l>coins. He already sees the present against the background</l>
           <l>of the past. The past has 
             <choice>
@@ -213,7 +204,7 @@
               <corr>the</corr>
             </choice> present looks ungainly and degenerate against it.</l>
           <l>There is too much comfort; too much silver; too many pillows.</l>
-          <l>The young <rs id="psn:wsha">Shakespeares</rs>, <rs id="psn:cmar">Marlowes</rs> are not the men their 
+          <l>The young <rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeares</rs>, <rs type="person" ref="../resources/annotations.xml#psn-cmar">Marlowes</rs> are not the men their 
             <choice>
               <sic>father</sic>
               <corr>fathers</corr>
@@ -238,7 +229,7 @@
             </choice> with their ancestors.</l>
         </p>
         <p>
-          <l>But the English seen past as seen by <rs id="psn:whar">Harrison</rs> only served</l>
+          <l>But the English seen past as seen by <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> only served</l>
           <l>to show up the physical, the material change --the</l>
           <l>change that had come over houses, 
             <choice>
@@ -364,6 +355,68 @@
               <corr>enough</corr>
             </choice> English</l>
           <l>literature to keep a healthy appetite in being. They had <add hand="ms" place="after">to learn</add></l>    
+        </p>
+      </div>
+      <div xml:id="m49.5">
+        <p>
+          <l>7</l>
+          <l>French, and Latin, and many were driven by hunger to master</l>
+          <l>Greek.</l>
+        </p>
+        <p>
+          <l>In the minds background then stood the almost featureless</l>
+          <l>Roman busts-- Agrippa Suetonius, Pliny; Cicero;</l>
+          <l>overpowering Chaucer, and Lydgate and 
+            <choice>
+              <sic>Wyclicffe</sic>
+              <corr>Wycliffe</corr>
+            </choice>. And in</l>
+          <l>the foreground there is the house, no longer a hut made of</l>
+          <l>branches; no longer thick with smoke; There is a pillow now,</l>
+          <l>instead of the old log with the hollow in it; and glass</l>
+          <l>in the windows; and silver to drink from. The ceilings are</l>
+          <l>curiously worked . Beyond the house there is</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-lond">London</rs>; a fine city; and <add hand="ms" place="above">???</add> ships riding at anchor;</l>
+          <l>and Inns upon the 
+            <choice>
+              <sic>raod</sic>
+              <corr>road</corr>
+            </choice> and there though he cannot</l>
+          <l>see himself, is Harrison, querulous yet kindly, using 
+            <choice>
+              <sic>languag</sic>
+              <corr>language</corr>
+            </choice></l>
+          <l>to his patron <rs type="person" ref="../resources/annotations.xml#psn-wcob">Lord Cobham</rs> that would have 
+            <choice>
+              <sic>schoked</sic>
+              <corr>shocked</corr>
+            </choice> his</l>
+            <l>
+              <choice>
+                <sic>anecsotrs</sic>
+                <corr>ancestors</corr>
+              </choice> -- words as ornate as the carvings and</l>
+            <l>
+              <choice>
+                <sic>decorati s</sic>
+                <corr>decorations</corr>
+              </choice> that shocked him. And he digs in the earth for</l>
+            <l>coins has never gone more than forty miles from Radwinter</l>
+            <l>in <rs type="place" ref="../resources/annotations.xml#pla-ess">Essex</rs>; <add hand="ms" place="above">has a father</add>; and owns a mastiff. The age of anonymity is over</l>
+            <l>when we begin to furnish out the <del hand="ms">individual</del><add hand="ms" place="above">writer</add> with</l>
+            <l><gap quantity="1" unit="word" reason="illegible" /> his own private features.</l>
+            <add hand="ms" place="margin">
+              <quote source="">
+                <l>CXI</l>
+                <l>"with vain</l>
+                <l>affectation of</l>
+                <l>eloquence to</l>
+                <l>paint out a</l>
+                <l>rotten</l>
+                <l>sepulchre</l>
+              </quote>
+            </add>  
         </p>
       </div>
   </text>
