@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability> <!-- ask SoA for copyright statement --> </availability>
+      </publicationStmt>
+      <profileDesc>
+        <handNotes>
+          <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+            <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+          </handNote>
+        </handNotes>
+      </profileDesc>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>
+        </msDesc>
+        <physDesc>
+          <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+        </physDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> / <reg></reg> tags, wrapped in a <choice></choice> element.</p>
+        </normalization>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+      <div xml:id="m50.1">
+        <p>
+          <l>1</l>
+          <l>ANON.</l>
+        </p>
+        <p>
+          <l><quote source="">"For many centuries <choice>
+            <sic>afte</sic>
+            <corr>after</corr></choice> Britain became an island"</quote> the</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-whar">historian</rs> says ""<quote source="">the untamed forest was king. Its moist</quote></l>
+          <l><quote source="">and mossy floor was hidden from Heavens eye by a close drawn</quote></l>
+          <l><quote source="">curtain woven of innumerable tree tops."</quote> On those matted</l>
+          <l>boughs innumerable birds sang; but their song was only heard</l>
+          <l>by a few skin clad hunters in the <choice>
+            <sic>lcearings</sic>
+            <corr>clearings</corr>
+          </choice>. Did the desire</l>
+          <l>to sing come to one of those huntsmen because he heard the</l>
+          <l>birds sing, and so rested his axe against the tree for a</l>
+          <l>moment? But the tree had to be felled; and a hut made</l>
+          <l>from its branches before the human voice sang too.</l>
+        </p>
+        <p><quote source="">
+          <l>By a bank as I lay</l>
+          <l>Musing myself alone, hey ho!</l>
+          <l>A birdes voice</l>
+          <l>Did me rejoice,</l>
+          <l>Singing before the day</l>
+          <l>And me thought in her lay</l>
+          <l>She said, winter was past, hey ho!</l>
+        </quote></p>
+        <p>
+          <l>The voice that broke the <choice>
+            <sic>sielnce</sic>
+            <corr>silence</corr>
+          </choice> of the forests was</l>
+          <l>the voice of <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>. Some one heard the song and <choice>
+           <sic>re embered</sic>
+           <corr>remembered</corr>
+          </choice> it</l>
+         <l>for it was later <choice>
+            <sic>wrteen  </sic>
+            <corr>written</corr>
+          </choice> down, beautifully on parchment.</l>
+          <l>Thus the singer had his audience, but the audience was so</l>
+          <l>little interested in his name that he never thought to give</l>
+          <l>it. For the audience was itself the singer;   Terly terlow"</l>
+          <l>they sand; and "By, by lullay" filling in the pauses,</l>
+          <l>helping <add hand="ms" place="above">out</add> with a chorus. Every body shared in the emotion</l>
+          <l>of Anons song, and supplied the story. Anon sang because</l>
+          <l>spring has come; or winter is gone; because he loves; because</l>
+          <l>he is hungry, or lustful; or merry. or because he adores</l>
+          <l>some God. Anon is sometimes man; sometimes woman. He is the</l>
+        </p>
+      </div>
+  </text>
+</TEI>
