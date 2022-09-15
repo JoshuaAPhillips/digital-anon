@@ -54,6 +54,137 @@
     </encodingDesc>
   </teiHeader>
   <text>
-      <!--...-->
+      <div xml:id="m51.1">
+        <p>
+          <l>2</l>
+          <l>Anon.</l>
+        </p>
+        <p>
+          <l>common voice singing out of doors. he has no house. He lives</l>
+          <l>a roaming life, crossing the fields, 
+            <choice>
+              <sic>moutning</sic>
+              <corr>mounting</corr>
+            </choice> the hills,</l>
+          <l>and lying down by the hawthown to listen to 
+            <choice>
+              <sic>te</sic>
+              <corr>the</corr>
+            </choice> nightingale.</l>
+        </p>
+        <p>
+          <l>Still, by shutting out a 
+            <choice>
+              <sic>chimey</sic>
+              <corr>chimney</corr>
+            </choice> or a bungalow</l>
+          <l>we can see what <rs type="person" ref="../resources/annotations.xml#anon">Anon</rs> saw-- the bird haunted reed whispering</l>
+          <l>fen, the down, and the green scar never healed along which</l>
+          <l>he came when he made his journeys. He was a 
+            <choice>
+              <sic>simp le</sic>
+              <corr>simple</corr>
+            </choice> singer,</l>
+          <l>lifting a song or a story from other peoples lips, and 
+            <choice>
+              <sic>lettig</sic>
+              <corr>letting</corr>
+            </choice></l>
+          <l>the 
+            <choice>
+              <sic>auience</sic>
+              <corr>audience</corr>
+            </choice> join in the 
+            <choice>
+              <sic>chours</sic>
+              <corr>chorus</corr>
+            </choice>. Sometimes he made a few</l>  
+          <l>lines that exactly 
+            <choice>
+              <sic>matchedhis</sic>
+              <corr>matched his</corr>
+            </choice> 
+            <choice>
+              <sic>emtoin</sic>
+              <corr>emotion</corr>
+            </choice>--he was an 
+            <choice>
+              <sic>arist</sic>
+              <corr>artist</corr>
+            </choice>.</l>
+          <l> <!-- find a way to render blank lines --></l>
+          <l> </l>
+          <l> </l>
+          <l> </l>
+          <l> </l>
+          <l>But there is no name to that song.</l>
+        </p>
+        <p>
+          <l>When at last the house was built, he 
+            <choice>
+              <sic>song</sic>
+              <corr>sung</corr>
+            </choice> only at  the</l>
+          <l>back door.  Upstairs they spoke French; his song was sung</l>
+          <l>in English; and the words were so uncouth</l>
+          <quote source="">
+            <l>Icham for woing al forwake</l>
+            <l>Wery no water in wore</l>
+          </quote>
+          <l>that they 
+            <choice>
+              <sic>n ed</sic>
+              <corr>need</corr>
+            </choice> a 
+            <choice>
+              <sic>ditioc nary</sic>
+              <corr>dictionary</corr>
+            </choice> now.</l>
+          <quote source="">
+            <l>Icham for woing al forwake</l>
+            <l>Wery no water in wore</l>
+          </quote>
+          <l>
+            <choice>
+              <sic>Bu </sic>
+              <corr>But</corr>
+            </choice> to the listener then, to <rs type="person" ref="../resources/annotations/.xml#psn-whar">Harrison</rs> for 
+            <choice>
+              <sic> xample</sic>
+              <corr>example</corr>
+            </choice> in his</l>
+          <l>
+            <choice>
+              <sic>pasronage</sic>
+              <corr>parsonage</corr>
+            </choice>, they were not only difficult. They were painful.</l>
+          <l>They reminded him of his lack of intellectual <gap quantity="1" unit="word" reason="inkblot" /></l>
+          <l>His intellectual pedigree reached 
+            <choice>
+              <sic>vack</sic>
+              <corr>back</corr>
+            </choice> only to <rs type="person" ref="../resources/annotations.xml#psn-jgow">Gower</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wlan">Langland</rs>, <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs>, a bare 
+            <choice>
+              <sic>hundre</sic>
+              <corr>hundred</corr>
+            </choice> and fifty years.</l>
+          <l>To have 
+            <choice>
+              <sic>anscestors</sic>
+              <corr>ancestors</corr>
+            </choice> he must 
+            <choice>
+              <sic>ross</sic>
+              <corr>cross</corr>
+            </choice> the <rs type="place" ref="../resources/annotations.xml#pla-chan
+            ">channel</rs>. His ancestors</l>
+          <l>by way of the mind are Greeks and 
+            <choice>
+              <sic>Rla ns</sic>
+              <corr>Romans</corr>
+            </choice>. His page is</l>
+        </p>
+      </div>
   </text>
 </TEI>
