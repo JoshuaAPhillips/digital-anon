@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title></title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability> <!-- ask SoA for copyright statement --> </availability>
+      </publicationStmt>
+      <profileDesc>
+        <handNotes>
+          <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+            <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+          </handNote>
+        </handNotes>
+      </profileDesc>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m52</idno>
+          </msIdentifier>
+        </msDesc>
+        <physDesc>
+        <p>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</p>
+        </physDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> / <reg></reg> tags, wrapped in a <choice></choice> element.</p>
+        </normalization>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+      <div xml:id="m52.1">
+        <p>
+          <l>Anon.</l>
+          <l><quote source="">"For many centuries after Britain became an island"</quote> the <rs type="person" ref="../resources/annotations.xml#psn-gtre">hist</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-gtre"></rs>orian says " <quote source="">"the untamed forest was king."</quote> Its 
+            <choice>
+              <sic>mosit</sic>
+              <corr>moist</corr>
+            </choice> and</l>
+          <l>
+            <choice>
+              <sic>mssy</sic>
+              <corr>mossy</corr>
+            </choice> floor was hidden from heavens eye by a close drawn</l>
+          <l>curtain of innumerable treetops. " On the matted bough</l>
+          <l>innumerable birds 
+            <choice>
+              <sic>snag</sic>
+              <corr>sang</corr>
+            </choice>; but their song was only heard by a</l>
+          <l>few skin clad hunters in the 
+            <choice>
+              <sic>claetings</sic>
+              <corr>clearings</corr>
+            </choice>. Did the desire</l>
+          <l>to sing come to one of those <add hand="ms" place="above">barbarians</add> savages because he 
+            <choice>
+              <sic>geard</sic>
+              <corr>heard</corr>
+            </choice> the</l>
+          <l>birds sing, and so rested his axe against the tree for a</l>
+          <l>moment? Anyhow, the tree was felled; some sort of hut</l>
+          <l>was made from its branches; and the clearing became larger;</l>
+          <l>the birds 
+            <choice>
+              <sic>f   er</sic>
+              <corr>fewer</corr>
+            </choice>; and the human voice sang instead. The first</l>
+          <l>songs are out of door songs; spring songs; summer songs;</l>
+          <l>winter songs.</l>
+        </p>
+        <p>
+          <quote source="">
+            <l>Bytuene Mersh and Averil</l>
+            <l>When spray biginneth to springe,</l>
+            <l>The lutel foul hath hire wyl</l>
+            <l>on hyre lud to synge.</l>
+          </quote>
+        </p>
+        <p>
+          <quote source="">
+            <l>Sumer is icumen in,</l>
+            <l>Lhude sing cuccu</l>
+          </quote>
+        </p>
+        <p>
+          <quote source="">
+            <l>By a bank as I lay</l>
+            <l>Musing myself alone, hey ho!</l>
+            <l>A birdes voice</l>
+            <l>Did me rejoice,</l>
+            <l>Singing before the day;</l>
+            <l>And me thought in her lay</l>
+            <l>She said winter was past, hey ho!</l>
+          </quote>
+        </p>
+      </div>
+  </text>
+</TEI>
