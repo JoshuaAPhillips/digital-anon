@@ -54,6 +54,57 @@
     </encodingDesc>
   </teiHeader>
   <text>
-      <!--...-->
+      <div xml:id="m53.1">
+        <p>
+          <l>1  25th Nov. 1940</l>
+          <l>Anon.</l>
+          <l>@@@@@@@@@@@@@@</l>
+          <l><quote source="">For many centuries 
+            <choice>
+              <sic>aft</sic>
+              <corr>after</corr>
+            </choice></quote> Britain became an island</l>
+          <l>the <rs type="person" ref="../resources/annotations.xml#psn-gtre">historian</rs> says, <quote source="">the untamed forest was king.</quote></l>
+          <l>On the matted boughs of that forest innumerable birds sang;</l>
+          <l>but their song was only heard by a few skin clad hunters</l>
+          <l>in the clearings. Did the desire to sing come to one</l>
+          <l>of those savages because he heard the birds sing? <add hand="ms" place="above">&amp; did</add><del hand="ms">Did he</del></l>
+          <l>rest his stone axe against a tree for a moment> The tree</l>
+          <l>was felled; some sort of hut 
+            <choice>
+              <sic>ws</sic>
+              <corr>was</corr>
+            </choice> made from its branches, and</l>
+          <l>then by degrees, the clearing became larger; the birds</l>
+          <l>fewer; and the human voice sung instead. <add hand="ms" place="inline">&amp;</add> The first songs</l>
+          <l>are out of door songs; spring songs; summer songs; winter</l>
+          <l>songs. <add hand="ms" place="inline">&amp;</add> for there was no comfort 
+            <choice>
+              <sic>indoor</sic>
+              <corr>indoors</corr>
+            </choice>, little</l>
+          <l>light and no books.</l>
+        </p>
+        <p>
+          <l>The eye therefore was xxxx more active in the first sxxxxxxx</l>
+          <l>singers than in ourselves. And some parts of 
+            <choice>
+              <sic>Englab</sic>
+              <corr>England</corr>
+            </choice></l>
+          <l>can still be seen as they saw it. Now and then by choosing</l>
+          <l>a view carefully to shut out a chimney or a 
+            <choice>
+              <sic>bungalwo</sic>
+              <corr>bungalow</corr>
+            </choice>,</l>
+          <l>we can still see a flat fen, reed whispering, waterlogged;</l>
+          <l>or a down, covered w still with turf only <del hand="ms">And over</del><add hand="ms" place="above">??? on</add> the</l>
+          <l>down lies a green scar, along which the travellers came,</l>
+          <l>with the pack horses, dressed in wool, not in skins,</l>
+          <l>_____________________________________________________</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-hist">History of England</rs> by <rs type="person" ref="../resources/annotations.xml#psn-gtre">G. M. Trevelyan</rs> p. 3</l>
+        </p>
+      </div>
   </text>
 </TEI>
