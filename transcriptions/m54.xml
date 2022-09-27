@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54. [Anon] Typescript fragments, unsigned and undated, 33p. Fragmentary pagination and not consecutive with the other typescript fragments. On verso of p. 11  holograph draft fragment of 'A Legacy'</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability> <!-- ask SoA for copyright statement --> </availability>
+      </publicationStmt>
+      <profileDesc>
+        <handNotes>
+          <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+            <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+          </handNote>
+        </handNotes>
+      </profileDesc>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54</idno>
+          </msIdentifier>
+        </msDesc>
+        <physDesc>
+          <p>M54. [Anon] Typescript fragments, unsigned and undated, 33p. Fragmentary pagination and not consecutive with the other typescript fragments. On verso of p. 11  holograph draft fragment of 'A Legacy'</p>
+        </physDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
+        </correction>
+        <normalization method="markup">
+          <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> / <reg></reg> tags, wrapped in a <choice></choice> element.</p>
+        </normalization>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+      <!--...-->
+  </text>
+</TEI>
