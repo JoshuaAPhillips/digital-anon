@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M54. [Anon] Typescript fragments, unsigned and undated, 33p. Fragmentary pagination and not consecutive with the other typescript fragments. On verso of p. 11  holograph draft fragment of 'A Legacy'</title>
+        <title>M54. [Anon] Typescript fragments, unsigned and undated, 33p. Fragmentary pagination and not consecutive with the other typescript fragments. On verso of p. 11  unidentified holograph fragment.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -32,7 +32,7 @@
           </msIdentifier>
         </msDesc>
         <physDesc>
-          <p>M54. [Anon] Typescript fragments, unsigned and undated, 33p. Fragmentary pagination and not consecutive with the other typescript fragments. On verso of p. 11  holograph draft fragment of 'A Legacy'</p>
+          <p>M54. [Anon] Typescript fragments, unsigned and undated, 33p. Fragmentary pagination and not consecutive with the other typescript fragments. On verso of p. 11 unidentified holograph fragment.</p>
         </physDesc>
       </sourceDesc>
     </fileDesc>
@@ -54,6 +54,57 @@
     </encodingDesc>
   </teiHeader>
   <text>
-      <!--...-->
+      <div xml:id="m54.1">
+        <p>
+          <l>7</l>
+          <l>The printing press brought the past into existence.</l>
+          <l>It brought into existence the man who is conscious of the 
+            <choice>
+              <sic>pat</sic>
+              <corr>past</corr>
+            </choice></l>
+          <l>the man who sees his time, zzzzz against a back ground of</l>
+          <l>the past; the man who firsts sees himself and shows himself</l>
+          <l>to us. xmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmm The first</l>
+          <l>blow has been aimed at <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> when the authors name is attached</l>
+          <l>to the book. The 
+            <choice>
+              <sic>indivi al</sic>
+              <corr>individual</corr>
+            </choice> emerges. His name is <rs type="person" ref="../resources/annotations.xml#psn-rhol">
+              <choice>
+                <sic>Holigshed</sic>
+                <corr>Holinshed</corr>
+              </choice></rs>;</l>
+          <l>his 
+            <choice>
+              <sic>mae</sic>
+              <corr>name</corr>
+            </choice> is also <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs>. Harrison emerging from the past</l>
+          <l>tells us that he has a library; that he owns a mastiff;</l>
+          <l>that he digs up Roman coins. He tells us that he has 
+            <choice>
+              <sic>nev   ben</sic>
+              <corr>never been</corr>
+            </choice></l>
+          <l>more than forty miles from <rs type="place" ref="../resources/annotations.xml#pla-radw">radwinter</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse">Essex</rs>. Anon is</l>
+          <l>losing his ambiguity. The present is becoming visible.</l>
+          <l>Harrison sees the pxmxmxmxmsx the present 
+            <choice>
+              <sic>agains</sic>
+              <corr>against</corr>
+            </choice> the</l>
+          <l>settled 
+            <choice>
+              <sic>reroded</sic>
+              <corr>recorded</corr>
+            </choice> past. The past looks 
+            <choice>
+              <sic>degnerate</sic>
+              <corr>degenerate</corr>
+            </choice>, raw,</l>
+          <l>against that past.</l>
+        </p>
+      </div>
   </text>
 </TEI>
