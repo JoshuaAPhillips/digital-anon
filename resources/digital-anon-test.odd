@@ -41,15 +41,29 @@
             <param name="default" value="sic[1]"/>
             <param name="alternate" value="corr[1]"/>
             <outputRendition xml:space="preserve">
-            color: crimson
+            color: FireBrick
             </outputRendition>
         </model>
                 </elementSpec>
                 <elementSpec ident="add" mode="change">
-                    <model behaviour="inline">
+                    <model predicate="@place=&#34;above&#34;" behaviour="inline">
+            <desc>Marks up additions made above the line</desc>
             <param name="default"/>
             <outputRendition xml:space="preserve">
             color: green; text-decoration: underline; vertical-align: super; font-size: 0.9em
+            </outputRendition>
+        </model>
+                    <model predicate="@place=&#34;inline&#34;" behaviour="inline">
+            <desc>Marks up inline additions</desc>
+            <param name="default"/>
+            <outputRendition xml:space="preserve">
+            color: green; text-decoration: underline
+            </outputRendition>
+        </model>
+                    <model behaviour="alternate">
+            <param name="alternate" value="hand[0]"/>
+            <outputRendition xml:space="preserve">
+            
             </outputRendition>
         </model>
                 </elementSpec>
