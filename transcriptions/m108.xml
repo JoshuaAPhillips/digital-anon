@@ -370,7 +370,11 @@
           <l>part of the public when a new writer of genius appears?</l>
         </p>
         <p>
-          <l>Perhaps <rs type="person" ref="../resources/annotations.xml#psn-fbac">Bacon</rs> in his <rs type="literary-work" ref="../resources/annotations.xml#lit-baes">Essays</rs> supplys a reason.</l>
+          <l>Perhaps <rs type="person" ref="../resources/annotations.xml#psn-fbac">Bacon</rs> in his <rs type="literary-work" ref="../resources/annotations.xml#lit-baes">Essays</rs> 
+            <choice>
+              <sic>supplys</sic>
+              <corr>supplies</corr>
+            </choice> a reason.</l>
           <l><quote source="">These things be 
             <choice>
               <sic>b y</sic>
@@ -392,6 +396,104 @@
               <sic>Marloew</sic>
               <corr>Marlowe</corr>
             </choice> lying on the</l>
+        </p>
+      </div>
+      <div xml:id="m108.5">
+        <p>
+          <l>28</l>
+          <l>bed at <rs type="place" ref="../resources/annotations.xml#pla-dept">Deptford</rs> reached out and stabbed <rs type="person" ref="../resources/annotations.xml#psn-ifriz">Ingram</rs> in the head</l>
+          <l>whereupon Ingram gave 
+            <choice>
+              <sic>Mar loew</sic>
+              <corr>Marlowe</corr>
+            </choice> a mortal wound over the</l>
+          <l>right eye. <rs type="person" ref="../resources/annotations.xml#psn-bjon">Ben Jonson</rs> ran <rs type="person" ref="../resources/annotations.xml#psn-gspe">Gabriel Spenser</rs> through the body</l>
+          <l>with a sword that cost three and sixpence. <add hand="inline" place="margin"><rs type="person" ref="../resources/annotations.xml#psn-wkem">Kempe</rs>, one of the actors, <del hand="ms">danced to</del> went dancing to <rs type="place" ref="../resources/annotations.xml#pla-norw">Norwich</rs>.</add> If such had been</l>
+          <l>the behaviour of <rs type="person" ref="../resources/annotations.xml#psn-aten">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-rbro">Browning</rs>, <add><!-- come back to this --> </add>, thxmxmxmmxmxmxmxmxmxmxmx</l>
+          <l>xmxmxmxm <add><!-- come back to this --> there would have been a gulf between them and</add></l>
+          <l>the Court. So 
+            <choice>
+              <sic>com;lete</sic>
+              <corr>complete</corr>
+            </choice> was Bacons contempt for this under</l>
+          <l>world that he could be tolerant. <quote source="">"The Stage is more 
+            <choice>
+              <sic>behilding</sic>
+              <corr>beholding</corr>
+            </choice></quote></l>
+          <l><quote source="">to Love than the life of Man.... great spirits and great</quote></l>
+          <l><quote source="">businesse do keep out of this weak passion."</quote> The proper</l>
+          <l>place for the weak passion was the stage, for love <quote source="">"leads to</quote></l>
+          <l><quote source="">speaking in <add hand="typewriter" place="above">a</add> 
+            <choice>
+              <sic>perpetaul</sic>
+              <corr>perpetual</corr>
+            </choice> hyperbole."</quote></l>
+        </p>
+        <p>
+          <l>The proper topics of 
+            <choice>
+              <sic>discccuion</sic>
+              <corr>discussion</corr>
+            </choice> in the 
+            <choice>
+              <sic>pper</sic>
+              <corr>upper</corr>
+            </choice></l>
+          <l>world was not the Play at 
+            <choice>
+              <sic>t e</sic>
+              <corr>the</corr>
+            </choice> Bankside but the life of man.</l>
+          <l>The <add place="above" hand="typewriter">titles</add> xxxxxxx of the Essays 
+            <choice>
+              <sic>enumaerate</sic>
+              <corr>enumerate</corr>
+            </choice> <add hand="ms" place="above">the [illeg.] of those topics.</add></l>
+          <l>"Of Truth. Of Death. Of Unity in religion. Of Revenge.</l>
+          <l>Of Simulation and 
+            <choice>
+              <sic>Dissumlation</sic>
+              <corr>Dissimulation</corr>
+            </choice>." These were the subjects</l>
+          <l>that the rulers discussed at their high tables;</l>
+          <l>and the play was a diversion with which to relax the mind</l>
+          <l>after serious work. The sediment of that conversation is</l>
+          <l>to be found in the rich deposits of the essays. He is concern</l>
+          <l>with the great world of action; with government; with the</l>
+          <l>tortuous matures of Princes; with the arts by which Princes</l>
+          <l>can 
+            <choice>
+              <sic>way</sic>
+              <corr>sway</corr>
+            </choice>, can coax, can suppress. He lives entirely</l>
+          <l>in the world of great spirits and great business. The common</l>
+          <l>
+            <choice>
+              <sic>peopl</sic>
+              <corr>people</corr>
+            </choice> is contemptible. <quote source="">The master of superstition is</quote></l>
+          <l><quote source="">
+            <choice>
+              <sic>t e</sic>
+              <corr>the</corr>
+            </choice> people."</quote> Praise, <quote>"if it be from the common people,</quote></l>
+          <quote source="">
+            <l>it is commonly false and naught. The lowest virtues draw</l>
+            <l>praise from them; the middle virtues work in them astonish</l>
+          </quote>
+        </p>
+      </div>
+      <div xml:id="m108.6">
+        <p>
+          <quote source="">
+            <l>ment; and admiration; but of the highest vertues they have</l>
+            <l>no sense or 
+              <choice>
+                <sic>percebing</sic>
+                <corr>perceiving</corr>
+              </choice> at all."</l>
+          </quote>
         </p>
       </div>
   </text>
