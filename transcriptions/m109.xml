@@ -56,6 +56,25 @@
     </encodingDesc>
   </teiHeader>
   <text>
-      <!--...-->
+      <div xml:id="m109.1">
+        <p>
+          <l>26</l>
+        </p>
+        <p>
+          <l>But under the <choice>
+            <sic>celing</sic>
+            <corr>ceiling</corr>
+          </choice>, on the seats, there were gentlemen,</l>
+        <l>and noblemen, men versed in Latin and Greek; scholars,</l>
+        <l>courtiers, statesmen. Their silence was equally profound.</l>
+        <l>But their influence was also effective. ThxmxBaconsxxmxmx</l>
+        <l><rs type="literary-work" ref="../resources/annotations.xml#lit-stra">Elizabeth and Essex</rs> and <rs type="person" ref="../resources/annotations.xml#psn-fbac">Bacon</rs> found what suited them too</l>
+        <l>in the 
+          <choice>
+            <sic>plyhouse</sic>
+            <corr>playhouse</corr>
+          </choice></l>
+        </p>
+      </div>
   </text>
 </TEI>
