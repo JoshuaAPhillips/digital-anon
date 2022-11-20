@@ -8,4 +8,4 @@ PI: [Joshua Phillips](https://joshuaaphillips.github.io), University of Oxford. 
 
 Website under construction: accessible at [https://digitalanon.web.ox.ac.uk](https://digitalanon.web.ox.ac.uk).
 
-Archival material © Estate of Virginia Woolf 2022
+Archival material © Estate of Virginia Woolf 2022. My thanks to the Estate and the Society of Authors for their permission to use this material.
