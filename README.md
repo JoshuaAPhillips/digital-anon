@@ -7,3 +7,5 @@ In the final months of her life, Virginia Woolf started to write a history of En
 PI: [Joshua Phillips](https://joshuaaphillips.github.io), University of Oxford. Project funded by Leverhulme Grant ECF-2022-602.
 
 Website under construction: accessible at [https://digitalanon.web.ox.ac.uk](https://digitalanon.web.ox.ac.uk).
+
+Archival material © Estate of Virginia Woolf 2022
