@@ -55,6 +55,7 @@
     </encodingDesc>
   </teiHeader>
   <text>
+    <body>
       <div xml:id="m110.1">
         <p>
           <l>26</l>
@@ -501,5 +502,6 @@
           <l>reader. <add hand="ms" place="inline">Anon, <del hand="ms">when</del> is dead.</add></l>
         </p>
       </div>
+      </body>
   </text>
 </TEI>

@@ -54,9 +54,10 @@
     </encodingDesc>
   </teiHeader>
   <text>
+    <body>
     <div type="page" xml:id="m48.1">
       <p>i</p>
-      <p><rs id="psn:anon">Anon</rs>.</p>
+      <p><rs ref="../resources/annotations.xml#psn-anon">Anon</rs>.</p>
       <p>
         <l>For many centuries 
           <choice>
@@ -196,5 +197,6 @@
         <l><del hand="ms">finished.</del></l>
       </p>
     </div>
+    </body>
   </text>
 </TEI>
