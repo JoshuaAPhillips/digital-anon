@@ -14,39 +14,38 @@
       </titleStmt>
       <publicationStmt>
         <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
-        <availability>© Estate of Virginia Woolf 2022</availability>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
       </publicationStmt>
-      <profileDesc>
-        <handNotes>
-          <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
-            <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
-          </handNote>
-        </handNotes>
-      </profileDesc>
       <sourceDesc>
         <msDesc>
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
-          </msIdentifier>
+            <idno>m110</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M110 [The Reader]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 5p.</p>
+            <p>Paginated 26-30. On verso of p. 29, a fragment from Between the Acts, paginated 186.</p>
+          </physDesc>
         </msDesc>
-        <physDesc>
-          <p>M110 [The Reader]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 5p.</p>
-          <p>Paginated 26-30. On verso of p. 29, a fragment from Between the Acts, paginated 186.</p>
-        </physDesc>
       </sourceDesc>
     </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
     <encodingDesc>
       <editorialDecl>
         <correction method="markup">
-          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
         </correction>
-        <normalization method="markup">
-          <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> / <reg></reg> tags, wrapped in a <choice></choice> element.</p>
-        </normalization>
         <interpretation>
-          <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
         </interpretation>
       </editorialDecl>
       <projectDesc>

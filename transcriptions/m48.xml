@@ -14,7 +14,9 @@
       </titleStmt>
       <publicationStmt>
         <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
-        <availability>© Estate of Virginia Woolf 2022</availability>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -22,30 +24,27 @@
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
             <idno>m48</idno>
-          </msIdentifier>
+          </msIdentifier>        
+          <physDesc>
+            <p>M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p</p>
+          </physDesc>
         </msDesc>
-        <physDesc>
-          <p>Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p</p>
-        </physDesc>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <handNotes>
-        <handNote xml:id="ms" scribe="vwoo" script="handwritten">
-          <p>Holograph writing by the documents' main hand, Virginia Woolf.</p>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
         </handNote>
       </handNotes>
     </profileDesc>
     <encodingDesc>
       <editorialDecl>
         <correction method="markup">
-          <p>Apparent errors have been explicitly corrected in <sic></sic> / <corr></corr> tags, wrapped in a <choice></choice> element.</p>
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
         </correction>
-        <normalization method="markup">
-           <p>Where appropriate, spelling and punctuation have been modernised using <orig></orig> /<reg></reg> tags, wrapped in a <choice></choice> element.</p>
-        </normalization>
         <interpretation>
-        <p>Names and references to places and literary works have been wrapped in <rs></rs> tags which link to annotations and secondary material.</p>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
         </interpretation>
       </editorialDecl>
       <projectDesc>
@@ -132,10 +131,10 @@
     </div>
     <div type="page" xml:id="m48.2">
       <p>
-        <l hand="ms">??? - LOOK AT LATER</l>
-        <l hand="ms">She comes.</l>
-        <l hand="ms">Scene.</l>
-        <l hand="ms">their <unclear reason="illegible">searches</unclear></l>
+        <l>??? - LOOK AT LATER</l>
+        <l>She comes.</l>
+        <l>Scene.</l>
+        <l>their <unclear reason="illegible">searches</unclear></l>
       </p>
     </div>
     <div type="page" xml:id="m48.3">
