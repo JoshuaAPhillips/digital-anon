@@ -19,7 +19,7 @@
                         <xsl:value-of select="//tei:titleStmt/tei:title"/>
                     </xsl:element>
                 </xsl:element>
-                    <xsl:element name="body">  
+                    <xsl:element name="text">  
                         <xsl:apply-templates select="child::node()"/>
                     </xsl:element>
             </xsl:element>
