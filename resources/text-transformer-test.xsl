@@ -19,9 +19,9 @@
                 <script type="text/js" src="../resources/modal.js"/>
             </xsl:element>
             <xsl:element name="body">
-                <h1><em><xsl:value-of select="//tei:titleStmt/tei:title"/></em>
-                    <xsl:text>, by </xsl:text>
-                    <xsl:value-of select="//tei:author"/></h1>
+                <h1><em><xsl:value-of select="//tei:titleStmt/tei:title"/></em></h1>
+                    <xsl:element name="br"/>
+                    <h2><xsl:value-of select="//tei:author"/></h2>
                 <xsl:apply-templates/>
             </xsl:element> 
         </xsl:element>
@@ -34,7 +34,7 @@
     
     <xsl:template match="//tei:titleStmt/tei:title">
         <xsl:element name="h1">
-            <xsl:value-of select="//tei:titleStmt/tei:title"/>
+            <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
     
@@ -70,7 +70,7 @@
     
     <!-- choice tags -->
     
-    <xsl:template match="//tei:l/tei:choice">
+    <xsl:template match="//tei:choice">
         
         <!-- sic tooltip -->
         
@@ -82,7 +82,7 @@
         
         <!-- corr text --> 
         
-            <xsl:element name="span">
+            <xsl:element name="i">
                 <xsl:attribute name="class">
                     <xsl:text>corr</xsl:text>
                 </xsl:attribute>
@@ -90,24 +90,6 @@
             </xsl:element>
         </xsl:element>
     </xsl:template>
-
-    <!--<xsl:template match="//tei:choice/tei:corr">
-        <xsl:element name="span">
-            <xsl:attribute name="class">
-                <xsl:text>corr</xsl:text>
-            </xsl:attribute>
-            <xsl:apply-templates/>
-        </xsl:element>
-    </xsl:template>
-    
-    <xsl:template match="//tei:choice/tei:sic">
-        <xsl:element name="span">
-            <xsl:attribute name="title">
-                <xsl:apply-templates/>
-            </xsl:attribute>
-            
-        </xsl:element>
-    </xsl:template>-->
     
     <!-- del tags --> 
     
@@ -150,6 +132,17 @@
         <xsl:element name="a">
             <xsl:attribute name="href">
                 <xsl:value-of select="[@ref]"/>
+            </xsl:attribute>
+            <xsl:apply-templates/>
+        </xsl:element>
+    </xsl:template>
+    
+    <!-- quote tags -->
+    
+    <xsl:template match="//tei:l/tei:quote">
+        <xsl:element name="a">
+            <xsl:attribute name="href">
+                <xsl:value-of select="[@source]"/>
             </xsl:attribute>
             <xsl:apply-templates/>
         </xsl:element>
