@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <meta>
+        <filters directoryPatterns="" filePatterns="\Qdigital-anon.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>Git_client_plugin_preferences_page</String>
+                        <Boolean>false</Boolean>
+                    </entry>
+                    <entry>
+                        <String>scenario.associations</String>
+                        <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m113.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m112-2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m112-1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m111-3.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m111-2.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m111-1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m110.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m109.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m108.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m54.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m53.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m52.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m51.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m50.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m49.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m48.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>transcriptions/m112-3.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Digital Anon Test</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>../../Library/CloudStorage/OneDrive-Nexus365/TEI%20Training/XSLT_Exercises/xml/Dawn-1-1-1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>Dawn-1-1-1</String>
+                                        <String>Dawn-1-1-12</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                        </scenarioAssociation-array>
+                    </entry>
+                    <entry>
+                        <String>scenarios</String>
+                        <scenario-array>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>Dawn-1-1-1</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>file:/Users/joshua/Library/CloudStorage/OneDrive-Nexus365/TEI%20Training/XSLT_Exercises/xslt/transformer.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-PE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>Dawn-1-1-11</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>file:/Users/joshua/Library/CloudStorage/OneDrive-Nexus365/TEI%20Training/XSLT_Exercises/xslt/transformer.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-PE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <null/>
+                                </field>
+                                <field name="name">
+                                    <String>Dawn-1-1-12</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>file:/Users/joshua/Library/CloudStorage/OneDrive-Nexus365/TEI%20Training/XSLT_Exercises/xslt/transformer.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputResource">
+                                    <null/>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <null/>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-PE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                            <scenario>
+                                <field name="advancedOptionsMap">
+                                    <serializableOrderedMap>
+                                        <entry>
+                                            <String>Saxon-EE</String>
+                                            <xsltSaxonSAAdvancedOptions>
+                                                <field name="sourceValidation">
+                                                    <String>saxon.source.no.schema.based.validation</String>
+                                                </field>
+                                                <field name="schemaVersion">
+                                                    <String>1.0</String>
+                                                </field>
+                                                <field name="treatResultValidationErrorsAsWarnings">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="addCommentsForValidationErrors">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="streamingEnabled">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="isJITEnabled">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="allowCallsOnExtensionFunctions">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="registerSaxonCEExtensions">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="enableAssertions">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="allowSyntaxExtensions">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="showVersionWarnings">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="dtdSourceValidation">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="dtdSourceValidationRecover">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="lineNumbering">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="initialMode">
+                                                    <null/>
+                                                </field>
+                                                <field name="initialTemplate">
+                                                    <null/>
+                                                </field>
+                                                <field name="traceXPathExpression">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="expandAttributeDefaults">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="stripWS">
+                                                    <String>saxon.strip.ws.none</String>
+                                                </field>
+                                                <field name="optimizationEnabled">
+                                                    <Boolean>true</Boolean>
+                                                </field>
+                                                <field name="useConfigFile">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                                <field name="configSystemID">
+                                                    <null/>
+                                                </field>
+                                                <field name="initializer">
+                                                    <String></String>
+                                                </field>
+                                                <field name="profilingOutputFile">
+                                                    <String></String>
+                                                </field>
+                                                <field name="isProfilingEnabled">
+                                                    <Boolean>false</Boolean>
+                                                </field>
+                                            </xsltSaxonSAAdvancedOptions>
+                                        </entry>
+                                    </serializableOrderedMap>
+                                </field>
+                                <field name="name">
+                                    <String>Digital Anon Test</String>
+                                </field>
+                                <field name="baseURL">
+                                    <String></String>
+                                </field>
+                                <field name="footerURL">
+                                    <String></String>
+                                </field>
+                                <field name="fOPMethod">
+                                    <String>pdf</String>
+                                </field>
+                                <field name="fOProcessorName">
+                                    <String>Apache FOP</String>
+                                </field>
+                                <field name="headerURL">
+                                    <String></String>
+                                </field>
+                                <field name="inputXSLURL">
+                                    <String>${pdu}/resources/text-transformer-test.xsl</String>
+                                </field>
+                                <field name="inputXMLURL">
+                                    <String>${currentFileURL}</String>
+                                </field>
+                                <field name="defaultScenario">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="isFOPPerforming">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="type">
+                                    <String>XSL</String>
+                                </field>
+                                <field name="saveAs">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="openInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="outputResource">
+                                    <String>${pdu}/html/${cfn}.html</String>
+                                </field>
+                                <field name="openOtherLocationInBrowser">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="locationToOpenInBrowserURL">
+                                    <String>file:/Users/joshua/Documents/digital-anon/resources/text-transformer-test.xsl</String>
+                                </field>
+                                <field name="openInEditor">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInHTMLPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInXMLPane">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="showInSVGPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="showInResultSetPane">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="useXSLTInput">
+                                    <Boolean>true</Boolean>
+                                </field>
+                                <field name="xsltParams">
+                                    <list/>
+                                </field>
+                                <field name="cascadingStylesheets">
+                                    <String-array/>
+                                </field>
+                                <field name="xslTransformer">
+                                    <String>Saxon-EE</String>
+                                </field>
+                                <field name="extensionURLs">
+                                    <String-array/>
+                                </field>
+                            </scenario>
+                        </scenario-array>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
+    </meta>
+    <projectTree name="digital-anon.xpr">
+        <folder path="."/>
+        <folder path="html/"/>
+        <file name="index.html"/>
+    </projectTree>
+</project>
