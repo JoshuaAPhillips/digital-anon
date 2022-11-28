@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
     xmlns:tei="http://www.tei-c.org/ns/1.0"
     xmlns="http://www.w3.org/1999/xhtml"
     version="2.0">
     
     <xsl:output method="html" version="5.0" encoding="UTF-8" indent="yes"/>
-    <link rel="stylesheet" type="text/css" href="../resources/style.css"/>
-    <script type="text/js" src="../resources/modal.js"/>
+
     
     <!-- master template -->
     
     <xsl:template match="/">
-        <xsl:result-document href="../html/{tei:TEI/@xml:id}.html">
-            <xsl:element name="html">
-                <xsl:element name="head">
-                    <xsl:element name="title">
-                        <xsl:value-of select="//tei:titleStmt/tei:title"/>
-                    </xsl:element>
+        <xsl:element name="html">
+            <xsl:element name="head">
+                <xsl:element name="title">
+                    <xsl:value-of select="//tei:titleStmt/tei:title"/>
                 </xsl:element>
-                    <xsl:element name="text">  
-                        <xsl:apply-templates select="child::node()"/>
-                    </xsl:element>
+                <link rel="stylesheet" type="text/css" href="../resources/style.css"/>
+                <script type="text/js" src="../resources/modal.js"/>
             </xsl:element>
-        </xsl:result-document>
+            <xsl:element name="body">
+                <h1><em><xsl:value-of select="//tei:titleStmt/tei:title"/></em>
+                    <xsl:text>, by </xsl:text>
+                    <xsl:value-of select="//tei:author"/></h1>
+                <xsl:apply-templates/>
+            </xsl:element> 
+        </xsl:element>
+        
     </xsl:template>
+    
+    <xsl:template match="tei:teiHeader"/>
     
     <!-- title h1 -->
     
@@ -36,7 +40,7 @@
     
     <!-- author h2 -->
     
-    <xsl:template match="tei:titleStmt/tei:author">
+    <xsl:template match="//tei:titleStmt/tei:author">
         <xsl:element name="h2">
             <xsl:value-of select="//tei:titleStmt/tei:author"/>
         </xsl:element>
@@ -58,15 +62,36 @@
         <xsl:apply-templates/>
     </xsl:template>
     
-    <xsl:template match="tei:l">
+    <xsl:template match="//tei:l">
         <xsl:element name="p">
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
     
     <!-- choice tags -->
+    
+    <xsl:template match="//tei:l/tei:choice">
+        
+        <!-- sic tooltip -->
+        
+        <xsl:element name="span">
+            <xsl:attribute name="data-title">
+                <xsl:value-of select="(.)/tei:sic"/>
+            </xsl:attribute>
 
-    <xsl:template match="//tei:choice/tei:corr">
+        
+        <!-- corr text --> 
+        
+            <xsl:element name="span">
+                <xsl:attribute name="class">
+                    <xsl:text>corr</xsl:text>
+                </xsl:attribute>
+                <xsl:value-of select="(.)/tei:corr"/>
+            </xsl:element>
+        </xsl:element>
+    </xsl:template>
+
+    <!--<xsl:template match="//tei:choice/tei:corr">
         <xsl:element name="span">
             <xsl:attribute name="class">
                 <xsl:text>corr</xsl:text>
@@ -76,10 +101,13 @@
     </xsl:template>
     
     <xsl:template match="//tei:choice/tei:sic">
-        <xsl:element name="title">
-            <xsl:apply-templates/>
+        <xsl:element name="span">
+            <xsl:attribute name="title">
+                <xsl:apply-templates/>
+            </xsl:attribute>
+            
         </xsl:element>
-    </xsl:template>
+    </xsl:template>-->
     
     <!-- del tags --> 
     
