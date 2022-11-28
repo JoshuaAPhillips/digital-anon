@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?xml-stylesheet type="text/xsl" href="../resources/text-transformer-test.xsl"?>
+<?xml-stylesheet type="text/css" href="../resources/style.css"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -621,7 +624,7 @@
             </choice>. The actual object--it is a basket of xxxxx</l>
         </p>
       </div>
-      <div xml:id="m113.5"> <!-- come back to marginal addition -->
+      <div xml:id="m113.6"> <!-- come back to marginal addition -->
         <p>
           <l>25</l>
           <l>hates uttered. The world was made visible to them,</l>
@@ -826,7 +829,7 @@
             </choice></l>
         </p>
       </div>
-      <div xml:id="m113-7">
+      <div xml:id="m113.8">
         <p>
           <l>But as most of these attempts have only added to 
             <choice>
@@ -853,7 +856,7 @@
           <l>the one writer who is never completely read.</l>
         </p>
       </div>
-      <div xml:id="m113-8">
+      <div xml:id="m113.9">
         <p>
           <l>179</l>
           <l>pilgrims had bxxxxxd <add hand="typewriter" place="above">bruised</add> the grass. The stain wxxxx made a</l>
