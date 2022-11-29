@@ -61,12 +61,12 @@
           <l>ANON.</l>
         </p>
         <p>
-          <l><quote source="">"For many centuries <choice>
+          <l><quote source="#">"For many centuries <choice>
             <sic>afte</sic>
             <corr>after</corr></choice> Britain became an island"</quote> the</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-whar">historian</rs> says ""<quote source="">the untamed forest was king. Its moist</quote></l>
-          <l><quote source="">and mossy floor was hidden from Heavens eye by a close drawn</quote></l>
-          <l><quote source="">curtain woven of innumerable tree tops."</quote> On those matted</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-whar">historian</rs> says "#"<quote source="#">the untamed forest was king. Its moist</quote></l>
+          <l><quote source="#">and mossy floor was hidden from Heavens eye by a close drawn</quote></l>
+          <l><quote source="#">curtain woven of innumerable tree tops."</quote> On those matted</l>
           <l>boughs innumerable birds sang; but their song was only heard</l>
           <l>by a few skin clad hunters in the <choice>
             <sic>lcearings</sic>
@@ -77,7 +77,7 @@
           <l>moment? But the tree had to be felled; and a hut made</l>
           <l>from its branches before the human voice sang too.</l>
         </p>
-        <p><quote source="">
+        <p><quote source="#">
           <l>By a bank as I lay</l>
           <l>Musing myself alone, hey ho!</l>
           <l>A birdes voice</l>
@@ -96,13 +96,13 @@
            <corr>remembered</corr>
           </choice> it</l>
          <l>for it was later <choice>
-            <sic>wrteen  </sic>
+            <sic>wrteen</sic>
             <corr>written</corr>
           </choice> down, beautifully on parchment.</l>
           <l>Thus the singer had his audience, but the audience was so</l>
           <l>little interested in his name that he never thought to give</l>
-          <l>it. For the audience was itself the singer;   Terly terlow"</l>
-          <l>they sand; and "By, by lullay" filling in the pauses,</l>
+          <l>it. <del hand="ms">For</del> <add hand="ms" place="inline">T</add><del hand="ms">t</del>he audience was itself the singer; <quote source="#">Terly terlow"</quote></l>
+          <l>they sand; and <quote source="#">"By, by lullay"</quote> filling in the pauses,</l>
           <l>helping <add hand="ms" place="above">out</add> with a chorus. Every body shared in the emotion</l>
           <l>of Anons song, and supplied the story. Anon sang because</l>
           <l>spring has come; or winter is gone; because he loves; because</l>
@@ -111,8 +111,8 @@
         </p>
       </div>
       <div xml:id="m50.2">
-        <p><l>2</l></p>
         <p>
+          <l>2</l>
           <l>common voice singing out of doors, He has no house. He <choice>
             <sic>l ves</sic>
             <corr>lives</corr>
@@ -156,20 +156,20 @@
             <sic>lcearing</sic>
             <corr>clearing</corr>
           </choice> in a ring and roads, often flooded, often deep in</l>
-          <l>mud, led from hxxxx the cottage ot the Manor, from the Manor</l>
+          <l>mud, led from hxxxx the cottage to the Manor, from the Manor</l>
           <l>to the Church in the middle, along the roads came <choice>
             <sic>minstersl</sic>
             <corr>minstrels</corr>
-          </choice></l>
+          </choice> <add hand="ms" place="inline">came</add></l>
           <l>jugglers, bear leaders, singing their songs at the back door</l>
           <l>to the farm hands and the maid servants in the uncouth</l>
           <l>jargon of their native tongue.</l>
-          <quote source="">
+          <quote source="#">
             <l>Icham for woing al forwake</l>
             <l>Wery no water in wore</l>
           </quote>
           <l>Up stairs they spoke French. Anons words were as</l>
-          <l>uncouth to the master and mistress as to us.    Anon</l>
+          <l>uncouth to the master and mistress as to us. Anon</l>
           <l>singing at <choice>
             <sic>yhe</sic>
             <corr>the</corr>
@@ -178,7 +178,7 @@
             <corr>despised</corr>
           </choice>. He had no name;</l>
           <l>he had no place, yet even if they felt contempt for the</l>
-          <l><add hand="ms" place="above">singer ?????</add>man who made songs, they tolerated him. Even Kings and Queens</l>
+          <l><add hand="ms" place="above">singer whose body took its [illeg.] part in the [dance?]</add>man who made songs, they tolerated him. Even Kings and Queens</l>
         </p>
       </div>
       <div xml:id="m50.3">
@@ -188,11 +188,14 @@
               <sic>misntre</sic>
               <corr>minstrel</corr>
             </choice>. They must</l>
-          <l>have They needed his comment, his buffoonery. <add hand="ms" place="above">his ?????</add> They kept him</l>
-          <l>in <add hand="ms" place="above">the ?????</add> being, 
+          <l>have They needed his comment, his buffoonery. <add hand="ms" place="above">his [uncouth?] at [illeg.]</add> They kept him</l>
+          <l>in <add hand="ms" place="above">the [illeg.]</add> being, 
             <choice>
-              <sic>tolerting h m</sic>
-              <corr>tolerating him</corr>
+              <sic>tolerting</sic>
+              <corr>tolerating</corr>
+            </choice> <choice>
+              <sic>h m</sic>
+              <corr>him</corr>
             </choice>, as we tolerate those who say out</l>
           <l>loud what we feel but are too proud to admit. He used the</l>
           <l>outsiders privilege to co mock the 
@@ -200,15 +203,15 @@
               <sic>solmen</sic>
               <corr>solemn</corr>
             </choice>, to comment upon</l>
-          <l>the established. The  church men xxxxxxxxxx feared</l>
-          <l>and hated the 
+          <l>the established. The  church men hxmxmxmxmxmxmxxx feared</l>
+          <l>and hated <add hand="ms" place="above">hated the</add> the 
             <choice>
               <sic>anonymo s</sic>
               <corr>anonymous</corr>
-            </choice> singer. They did their best to <add hand="ms" position="after">???</add></l>
-          <l>If they could, they pressed him and his <add hand="ms" position="above">?????</add> actors gift into</l>
+            </choice> singer. They did their best to <add hand="ms" place="inline">[illeg.]</add></l>
+          <l>If they could, they pressed him and his <add hand="ms" place="above">[illeg.]</add> actors gift into</l>
           <l>the service of the church. He was to be found acting the</l>
-          <l>Mass in the church; but <add>, ?????</add> as he acted more and more his own</l>
+          <l>Mass in the church; but <add hand="ms" place="above">[illeg.]</add> as he acted more and more his own</l>
           <l>art, he left the church, and staged his pageant in the</l>
           <l>churchyard, or later was given a pitch for his drama in the</l>
           <l>market place. Still he remained nameless, often ribald,</l>
@@ -259,7 +262,7 @@
           </choice> time</l>
         </p>
       </div>
-      <div id="m50.4">
+      <div xml:id="m50.4">
         <p>
           <l>4</l>
           <l>we should see tracks across the fields 
@@ -283,7 +286,7 @@
               <corr>gather</corr>
             </choice> and plough together if they were not to be conquered</l>
           <l>by man and by nature. That connection xxxx as time goes on</l>
-          <l>and the <add hand="ms" place="above">?????</add><del hand="ms">classes separate themselves</del>, is still painfully</l>
+          <l>and the <add hand="ms" place="above">[he? her?] <del hand="ms">[illeg.]</del> records the daily struggle</add><del hand="ms">classes separate themselves</del>, is still painfully</l>
           <l>recorded in old letter books and ledgers. It makes the</l>
           <l>staple of the old 
             <choice>
@@ -296,14 +299,14 @@
           <l>village has been grown over<add hand="ms" place="inline">;-</add> like the track along which the</l>
           <l><rs type="literary-work" ref="../resources/annotations.xml#lit-cant">pilgrims</rs> rode to <rs type="place" ref="../resources/annotations.xml#pla-cant"></rs>.--no one rides that way now.</l>
           <l>But before Chaucers time thxxxxxxxxxxxxxxxxxxxx</l>
-          <l>it was trod daily.   It led <del hand="ms">the peasants</del> to the tree</l>
+          <l>it was trod daily. <add hand="ms" place="above">[illeg.]</add> It led <del hand="ms">the peasants</del> to the tree</l>
           <l>to the well. In spring it led to the Maypole, where they</l>
           <l>danced and sung Anons song. At Midsummer they lit the bon</l>
           <l>
             <choice>
               <sic>fir</sic>
               <corr>fire</corr>
-            </choice> on the hill. At Chrismas the mummers acted the old</l>
+            </choice> on the hill. At Christmas the mummers acted the old</l>
           <l>Anons old play; and the boys came singing his wassailing</l>  
           <l>song. The road led to the old graves, to the stones where</l>
           <l>in time past the English had done sacrifice. The <choice>
@@ -317,11 +320,11 @@
           <l>dancing through the houses, enacting their ancient parts.</l>
         </p>
         <p>
-          <l>It was the <rs type="object" ref="../resources/annotations.xml#obj-pres">printing press</rs> <del hand="type">in 1477</del> that finally <add hand="ms" place="above">finally was to kill</add></l>
+          <l>It was the <rs type="object" ref="../resources/annotations.xml#obj-pres">printing press</rs> <del hand="type">in 1477</del> that k <add hand="ms" place="above">finally was to kill</add></l>
           <l>Anon. but it was the press also that preserved him. When</l>
         </p>
       </div>
-      <div id="m50.5">
+      <div xml:id="m50.5">
         <p>
           <l>5</l>
           <l>in 1477 <rs type="person" ref="../resources/annotations.xml#psn-wcax">Caxton</rs> printed the twenty one <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte</rs></l>
@@ -339,15 +342,16 @@
           <l>we hear the voice of Anon murmuring still. Hexxxxxx</l>
           <l>If Caxton himself doubted--- <rs type="person" ref="../resources/annotations.xml#psn-kart">King Arthur</rs> he objected</l>
           <l>never lived-- there were still nobles and gentry who</l>
-          <l>xxxxxxxxxxxxxxxxxxxxx were positive . They said that</l>
+          <l>xxxxxxxxxxxxxxxxxxxxx were positive. They said that</l>
           <l>you 
             <choice>
               <sic>soulc</sic>
               <corr>could</corr>
             </choice> see <rs type="person" ref="../resources/annotations.xml#psn-gawa">Gawaines</rs> skull at <rs type="place" ref="../resources/annotations.xml#pla-dove">Dover</rs>; and the <rs type="object" ref="../resources/annotations.xml#obj-roun">Round Table</rs></l>
-          <l>at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs>; and <quote source="">"in other places <ref type="person" ref="../resources/annotations.xml#psn-lanc">Launcelots</ref> sword and</quote></l>
-          <l><quote source="">many other things."</quote> So Caxton printed the old dream. <add hand="ms" place="margin">He brought to the surface the old hidden world</add></l>
-          <l>It is still half fact. <add hand="ms" place="above">?????</add>
+          <l>at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs>; and <quote source="#">"in other places <rs type="person" ref="../resources/annotations.xml#psn-lanc">Launcelots</rs> sword and</quote></l>
+          <l><quote source="#">many other things."</quote> So Caxton printed the old dream.</l> 
+           <l><add hand="ms" place="margin">He brought to the surface the old hidden world</add></l>
+          <l>It is still half fact. <add hand="ms" place="above">[illeg.] It is a [buried?] world</add>
             <choice>
               <sic>Ythere</sic>
               <corr>There</corr>
@@ -358,7 +362,7 @@
             <choice>
               <sic>raods</sic>
               <corr>roads</corr>
-            </choice> lead past C<del hand="type">anterbury</del>London to castles where 
+            </choice> lead past CxmxmxxuLondon to castles where 
             <choice>
               <sic>Kinghts</sic>
               <corr>Knights</corr>
@@ -377,14 +381,15 @@
               <sic>truns</sic>
               <corr>turns</corr>
             </choice> herself to stone; and a hand rises from</l>
-          <l>a lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca">Excalibur</rs>. It has a childs implicit belief. <add hand="ms" place="after">?????</add></l>
+          <l>a lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca">Excalibur</rs>. <add hand="ms" place="above">The [illeg.]</add> It has a childs implicit belief. <add hand="ms" place="inline">in the [story?]</add></l>
           <l>It has a childs love of particularity. Txxxxxxxx Everything</l>
           <l>is stated. The beauty is in the statement, not in the</l>
-          <l>suggestion. <quote source="">"So he went in and searched from chamber to</quote></l>
-          <l><quote source="">chamber, and found his bed, but she was not there; then Balin</quote></l>
-          <l><quote source="">looked into a little garden, and under a laurel tree</quote></l>
-          <l><quote source="">he saw her lie upon a quilt of green samite and a knight with</quote></l>
-          <l><quote source="">her, and under their 
+          <l>suggestion. <quote source="#">"So he went in and searched from chamber to</quote></l>
+          <quote source="#">
+            <l>chamber, and found his bed, but she was not there; then Balin</l>
+            <l>looked into a little garden, and under a laurel tree</l>
+            <l>he saw her lie upon a quilt of green samite and a knight with</l></quote>
+          <l><quote source="#">her, and under their 
             <choice>
               <sic>hedads</sic>
               <corr>heads</corr>
@@ -401,7 +406,7 @@
           <l>raised its mirror, the men and women are ourselves, seen</l>
         </p>
       </div>
-      <div xml-id="m50.6">
+      <div xml:id="m50.6">
         <p>
           <l>6</l>
           <l>out of perspective, xxx elongated, foreshortened, but</l>
@@ -417,7 +422,7 @@
               <sic>luftful</sic>
               <corr>lustful</corr>
             </choice>. There never was, it seems, a time</l>
-          <l>when men and women were without memory; <del ms="hand">were innocent</del></l>
+          <l>when men and women were without memory; <del hand="ms">were innocent</del></l>
           <l>There 
             <choice>
               <sic>enver</sic>
@@ -427,7 +432,7 @@
             <choice>
               <sic>T is</sic>
               <corr>This</corr>
-            </choice> is the world beneath our</l>
+            </choice> <add place="above">That</add> is the world beneath our</l>
           <l>consciousness; the 
             <choice>
               <sic>anoymous</sic>
@@ -443,7 +448,7 @@
               <corr>return</corr>
             </choice>. Of the writer nothing is known. <add hand="ms" place="above">The scholar can find something. But</add> Malory is not</l>
           <l>distinct from his book. The voice is still the voice of</l>
-          <l>anon. murmuring about Kings and Queens who are base and</l>
+          <l>Anon. murmuring <add hand="ms" place="above">[illeg.]</add> about Kings and Queens who are base and</l>
           <l>heroic; vile and gentle, like 
             <choice>
               <sic>ourslves</sic>
@@ -470,9 +475,9 @@
           <choice>
             <sic>rmember</sic>
             <corr>remember</corr>
-          </choice> how <quote source="">" on the night</quote></l>
-          <l><quote source="">of the full moon King Arthur and his men ride round the</quote></l>
-          <l><quote source="">hill, and their horses are shod with silver."</quote> After</l>
+          </choice> how <quote source="#">" on the night</quote></l>
+          <l><quote source="#">of the full moon King Arthur and his men ride round the</quote></l>
+          <l><quote source="#">hill, and their horses are shod with silver."</quote> After</l>
           <l>that the audience became separate from the singer; <del hand="ms">After that</del><add hand="ms">For a time we</add></l>
           <l>we hxxxx find someone who looks back, who gathers</l>
           <l>together a 
@@ -488,8 +493,7 @@
             <choice>
               <sic>presn t</sic>
               <corr>present</corr>
-            </choice>, and the present looks raw, degenerate against</l>
-        </p>          
+            </choice>, and the present looks raw, degenerate against</l>        
         <add hand="ms" place="margin">
           <l>But The</l>
           <l>printed book</l>
@@ -503,15 +507,16 @@
           <l>the background</l>
           <l>of the past.</l>
           <l>it brings into being the</l>
-          <l>whole, the <gap unit="word" quantity="1" reason="illegible" />—</l>
+          <l>whole, the audience—</l>
           <l>a man like it.</l>
         </add>
+        </p>
       </div>
       <div xml:id="m49.7">
         <p>
           <l>7</l>
           <l>against the past. There is too much comfort now; <del hand="typewriter">too many</del></l>
-          <l>xxxxx the pillow has taken the place of the old log with</l>
+          <l>xmxmxx the pillow has taken the place of the old log with</l>
           <l>a dip in the middle; there are too many <choice>
             <sic>chimenys</sic>
             <corr>chimneys</corr>
@@ -558,7 +563,7 @@
             <choice>
               <sic>chnage</sic>
               <corr>change</corr>
-            </choice> in the mind. <add hand="ms" position="above">the English songs were ?????</add> Anons song at the back door was as</l>
+            </choice> in the mind. <add hand="ms" place="above">the English songs were ?????</add> Anons song at the back door was as</l>
           <l>difficult 
             <choice>
               <sic>cfor</sic>
@@ -599,7 +604,7 @@
           <l>he ignores the 
             <choice>
               <sic>acors</sic>
-              <choice>actors</choice>
+              <corr>actors</corr>
             </choice> who were acting their crude 
             <choice>
               <sic>daramas</sic>
@@ -678,7 +683,7 @@
             </choice> sermons from the <choice>
               <sic>pulpi;t</sic>
               <corr>pulpit</corr>
-            </choice> ; or state <choice>
+            </choice>; or state <choice>
               <sic>dosuments</sic>
               <corr>documents</corr>
             </choice>, <choice>
@@ -723,13 +728,13 @@
             <choice>
               <sic>insiutaions</sic>
               <corr>insinuations</corr>
-            </choice>. <quote source="">"I have sent them by the boy of my kitchen,</quote></l>
-          <l><quote source="">a shrewd witted boy and prettily 
+            </choice>. <quote source="#">"I have sent them by the boy of my kitchen,</quote></l>
+          <l><quote source="#">a shrewd witted boy and prettily 
             <choice>
               <sic>catchized</sic>
               <corr>catechized</corr>
             </choice> but yet an un</quote></l>
-          <l><quote source="">toward 
+          <l><quote source="#">toward 
             <choice>
               <sic>rcrafty</sic>
               <corr>crafty</corr>
@@ -737,29 +742,29 @@
               <sic>ex horts</sic>
               <corr>exhorts</corr>
             </choice>:</l>
-          <l><quote source="">"God keep us sound in faith the faith and send us 
+          <l><quote source="#">"God keep us sound in faith the faith and send us 
             <choice>
               <sic>h  lth</sic>
               <corr>health</corr>
             </choice></quote></l>
-          <l><quote source="">and a care to please God above all."</quote> She admonishes:</l>
-          <l><quote source="">"Be not speedy of speech, nor talk suddenly, but where</quote></l>
+          <l><quote source="#">and a care to please God above all."</quote> She admonishes:</l>
+          <l><quote source="#">"Be not speedy of speech, nor talk suddenly, but where</quote></l>
         </p>
       </div>
       <div xml:id="m50.9">
         <p>
           <l>9</l>
-          <l><quote source="">
+          <l><quote source="#">
             <choice>
               <sic>disctreion</sic>
               <corr>discretion</corr>
             </choice>
            requireth, and that soberly then...."</quote></l>
-          <l><quote source="">Let not Lawson that fox, be 
+          <l><quote source="#">Let not Lawson that fox, be 
             <choice>
               <sic>acqainted</sic>
               <corr>acquainted</corr>
-            </choice> with my letters....""</quote></l>
+            </choice> with my letters...."</quote></l>
           <l>So 
             <choice>
               <sic>Lthe</sic>
@@ -781,7 +786,7 @@
               <corr>no</corr>
             </choice> freedom no 
             <choice>
-              <sic>familairity</sic>
+              <sic>familairity</sic> <!-- that's a good typo -->
               <corr>familiarity</corr>
             </choice> in the world the live in. Only in</l>
           <l>extremity, of hate, of fear, do urges them to pick up the pen</l>
