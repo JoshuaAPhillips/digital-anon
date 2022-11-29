@@ -54,7 +54,7 @@
   </teiHeader>
   <text>
     <body>
-    <div type="page" xml:id="m48.1">
+    <div xml:id="m48.1">
       <p>i</p>
       <p><rs ref="../resources/annotations.xml#psn-anon">Anon</rs>.</p>
       <p>
@@ -75,14 +75,16 @@
       <l>branches , before the human voice sang too.</l>
     </p>
       <p>
-        <l>By a bank as I lay</l>
-        <l>Musing myself alone, <del hand="ms">j</del>
-          <add hand="ms" place="above">h</add>ey ho!</l>
-        <l>A birdes voice</l>
-        <l>Did me rejoice,</l>
-        <l>Singing before the day</l>
-        <l>And me thought in her lay</l>
-        <l>She said, winter was past, hey ho!</l>
+        <quote source="#">
+          <l>By a bank as I lay</l>
+          <l>Musing myself alone, <del hand="ms">j</del>
+            <add hand="ms" place="above">h</add>ey ho!</l>
+          <l>A birdes voice</l>
+          <l>Did me rejoice,</l>
+          <l>Singing before the day</l>
+          <l>And me thought in her lay</l>
+          <l>She said, winter was past, hey ho!</l>
+        </quote>
       </p>
       <p>
         <l><del hand="ms">The first songs are out of door songs; because there</del></l>
@@ -101,7 +103,7 @@
             <sic>birds</sic>
             <corr>bird's</corr>
           </choice> voice, singing out of doors. It was</del> the voice of</l>
-        <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>. <del hand="ms">He had no comfort indoors, little light</del></l>
+        <l>Anon. <del hand="ms">He had no comfort indoors, little light</del></l>
         <l><del hand="ms">and no books.</del> He had 
           <choice>
             <sic>n</sic>
@@ -114,53 +116,56 @@
           </choice> it, for it was later written down. <del hand="ms">The</del><add hand="ms" place="above">Thus</add>the singer</l>
         <l>had his audience <del hand="ms">thus</del>; but the audience was so little</l>
         <l>interested in his name that he never thought to give it.</l>
-        <l>The audience took part <del hand="ms">too</del> in the song. "Terly, terlow"</l>
-        <l>they sang: and "By, by lullay " filling in 
+        <l>The audience took part <del hand="ms">too</del> in the song. <quote source="#">"Terly, terlow"</quote></l>
+        <l>they sang: and <quote source="#">"By, by lullay"</quote> filling in 
           <choice>
             <sic>th </sic>
             <corr>the</corr>
           </choice> pause<add hand="ms">s</add></l>
-        <l>helping out the <add hand="ms" place="above"><unclear reason="illegible">larger</unclear></add>meaning.<add hand="ms">[</add><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> sings because spring has</l>
-        <l>come; or witer is gone; 
+        <l>helping out the <add hand="ms" place="above"><unclear reason="illegible">larger</unclear></add>meaning.<add hand="ms" place="inline">[</add><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> sings because spring has</l>
+        <l>come; or winter is gone; 
           <choice>
             <sic>b cause</sic>
             <corr>because</corr>
           </choice> he loves; because he</l>
-        <l>is hungry; or lustful; or merry.<add hand="ms">]</add> Everybody shares the</l>
+        <l>is hungry; or lustful; or merry.<add place="inline" hand="ms">]</add> Everybody shares the</l>
       </p>      
     </div>
-    <div type="page" xml:id="m48.2">
+    <div xml:id="m48.2">
       <p>
-        <l>??? - LOOK AT LATER</l>
+        <l>[illeg.]</l>
         <l>She comes.</l>
         <l>Scene.</l>
-        <l>their <unclear reason="illegible">searches</unclear></l>
+        <l>their [searches?]</l>
+      </p>
+      <p>
+        <l>[illeg.]</l>
       </p>
     </div>
-    <div type="page" xml:id="m48.3">
+    <div xml:id="m48.3">
       <p>
         <l>2</l>
         <l>
           <choice>
             <sic>emition</sic>
             <corr>emotion</corr>
-          </choice>; <add hand="ms" place="above">a <gap quantity="2" unit="word" reason="illegible" /></add> and knows the old story of <del hand="ms">the Nut brown maid.</del></l>
-        <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> is sometimes woman; sometimes man; he is the</l>
-        <l>common voice; <add hand="ms" place="above">He <unclear reason="illegible">hears</unclear><del>of</del> ??? - LOOK AGAIN LATER</add><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> goes round the country singing.</l>
-        <l><add hand="ms">[</add>He has a very quick eye, connected, for the eye is the</l>
-        <l>youthful sense, rather with the body than the mind.<add hand="ms">]</add></l>
-        <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> <add hand="ms" place="above"><del hand="ms">He</del></add>has no house. He lives a roaming out of door</l>
+          </choice>; <add hand="ms" place="above">a [illeg.]</add> and knows the old story of <del hand="ms">the Nut brown maid.</del></l>
+        <l>Anon is sometimes woman; sometimes man; he is the</l>
+        <l>common voice; <add hand="ms" place="above">He hears <del>of</del> them [illeg.]</add> Anon goes round the country singing.</l>
+        <l><add hand="ms" place="inline">[</add>He has a very quick eye, connected, for the eye is the</l>
+        <l>youthful sense, rather with the body than the mind.<add hand="ms" place="inline">]</add></l>
+        <l>Anon <add hand="ms" place="above"><del hand="ms">He</del></add>has no house. He lives a roaming out of door</l>
         <l>country life, going from village to village,</l>
         <l>stopping 
           <choice>
             <sic>a</sic>
             <corr>at</corr>
-          </choice> the back door <add hand="ms">,</add>oftener than at the front,</l>
+          </choice> the back door <add hand="ms" place="inline">,</add>oftener than at the front,</l>
         <l>going 
           <choice>
             <sic>alojg</sic>
             <corr>along</corr>
-          </choice> grassy paths over the hills. <add hand="ms">|</add> By choosing a view</l>
+          </choice> grassy paths over the hills. <add hand="ms" place="inline">|</add> By choosing a view</l>
         <l>carefully to shut out a chimney or a
           <choice>
             <sic>bungalwo</sic>
@@ -170,7 +175,7 @@
           <choice>
             <sic>osome</sic>
             <corr>some</corr>
-          </choice>, or up on some down,</del> what <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> saw.</l>
+          </choice>, or up on some down,</del> what Anon saw.</l>
         <l>the bird 
           <choice>
             <sic>ha unted</sic>
@@ -181,7 +186,7 @@
             <corr>reed</corr>
           </choice> whispering fen; the down covered</l>
         <l>with turf; and the scar, long healed, over the <del hand="ms">down</del><add hand="ms" place="above">hill</add></l>
-        <l>along which <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> came when he made his journeys.</l>
+        <l>along which Anon came when he made his journeys.</l>
         <l>He was garrulous; 
           <choice>
             <sic>looe</sic>
