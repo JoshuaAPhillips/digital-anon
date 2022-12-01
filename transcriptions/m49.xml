@@ -57,20 +57,24 @@
       <div type="page" xml:id="m49.1">
         <p>
           <l>3</l>
-          <l><del hand="ms"><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> died round 187<del hand="ms">8</del><add hand="ms" place="above">7</add>. It was the printed book</del></l>
-          <l><del hand="ms">with the authors name attached that killed him. After that></del></l>
-          <l><del hand="ms">the audience was separate from the singer. After that</del></l>
-          <l><del hand="ms">the song was attached to the singer. <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> gives place to</del></l>
-          <l><del hand="ms"><gap quantity="8" unit="chars" reason="illegible" /> <rs type="person" ref="../resources/annotations.xml#psn-gcha">Geoffrey</rs> or <rs type="person" ref="../resources/annotations.xml#psn-jgow">
-            <choice>
-              <sic>Jogn</sic>
-              <corr>John</corr>
-            </choice></rs> or <rs type="person" ref="../resources/annotations.xml#psn-unkn">Peter</rs>; he lives in a house</del></l>
-            <l><del hand="ms">and he has books.</del></l>
+        </p>
+        <p>
+          <del hand="ms">
+            <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> died round 187<del hand="ms">8</del><add hand="ms" place="above">7</add>. It was the printed book</l>
+            <l>with the authors name attached that killed him. After that></l>
+            <l>the audience was separate from the singer. After that</l>
+            <l>the song was attached to the singer. Anon gives place to</l>
+            <l>xmxmxmxmxmx <rs type="person" ref="../resources/annotations.xml#psn-gcha">Geoffrey</rs> or <rs type="person" ref="../resources/annotations.xml#psn-jgow">
+              <choice>
+                <sic>Jogn</sic>
+                <corr>John</corr>
+              </choice></rs> or <rs type="person" ref="../resources/annotations.xml#psn-unkn">Peter</rs>; he lives in a house</l>
+              <l>and he has books.</l>
+          </del>
         </p>
         <p>
           <l>....<del hand="ms">2</del>....</l>
-          <l>The heart of this vast
+          <l><add hand="ms" place="inline">[</add>The heart of this vast
             <choice>
               <sic>prolieferation</sic>
               <corr>proliferation</corr>
@@ -104,18 +108,17 @@
               <sic>out</sic>
               <corr>our</corr>
             </choice> bodies, with clothes, food,</l>
-          <l>roofs, from destruction.</l>
+          <l>roofs, from destruction.<add hand="ms" place="inline">]</add></l>
         </p>
         <p>
-         <l><del hand="ms">But</del><add place="above" hand="pencil">With</add> the <rs type="object" ref="../resources/annotations.xml#obj-pres">printing press</rs> <del hand="ms">brought</del><add place="above" hand="pencil">came</add> into existence</l>
+         <l><del hand="ms">But</del> <add place="above" hand="pencil">With</add> the <rs type="object" ref="../resources/annotations.xml#obj-pres">printing press</rs> <del hand="ms">brought</del><add place="above" hand="pencil">came</add> into existence</l>
           <l>forces that cover over the original song--books themselves,</l>
           <l>and the readers of books. If science were so advanced that</l>
-          <l>we could at this moment X ray the singers mind<add hand="pencil" place="above">as she moved</add> we should</l>
+          <l>we could at this moment X ray the singers mind <add hand="pencil" place="above">as she moved</add> we should</l>
           <l>find a nimbus surrounding the song; a 
             <choice>
               <sic>steeam</sic>
-              <corr>stream</corr>
-              <corr>steam</corr>
+              <corr>[stream? steam?]</corr>
             </choice> of</l>
           <l>influences. Some we can name--education; class;</l>
           <l>the pressure of society. But they are so many, and so</l>
@@ -155,7 +158,7 @@
               <sic> n </sic>
               <corr>and</corr>
             </choice> devout    singer, who was now and ag</l>
-          <l>a great artist died in 147<del hand="ms">8</del><add hand="ms">7</add>, And with him died</l>
+          <l>a great artist died in 147<del hand="ms">8</del><add hand="ms" place="above">7</add>, And with him died</l>
           <l>the part of his song that the audience sang--the voice that</l>
           <l>filled in pauses, and added sometimes a 
             <choice>
@@ -164,15 +167,15 @@
             </choice> chorus</l>
           <l>To follow his fortunes further we must turn to one of those</l>
           <l>commentators who tell us us so much about the invisible</l>
-          <l>influences. about <rs type="person" ref="../resources/annotations.xml#psn-nin">Nin</rs> <rs type="person" ref="../resources/annotations.xml#psn-crot">Crot</rs> and <rs type="person" ref="../resources/annotations.xml#psn-pull">Pulley</rs>.</l>
+          <l>influences. about Nin Crot and Pulley.</l>
           <l>But for him of course we have to wait until winter</l>
           <l>was past; until time has drawn its blue veil</l>
         </p>  
       </div>
-      <div xml:id="m49.3">
+      <div xml:id="m49.3"> <!-- find out who Cole and Skinner are! -->
         <p>
           <l>5</l>
-          <l>over the horizon; <del hand="ms">until there is a past</del>. <del ms="hand">Then</del><add hand="ms">W</add>hen <rs id="psn:anon">Anon</rs></l>
+          <l>over the horizon; <del hand="ms">until there is a past</del>. <del hand="ms">Then</del><add hand="ms">W</add>hen Anon</l>
           <l>is 
             <choice>
               <sic>lomg</sic>
@@ -183,7 +186,7 @@
               <corr>and the</corr>
             </choice> <del hand="ms">Pil</del> <rs type="literary-work" ref="../resources/annotations.xml#lit-cant">Canterbury Pilgrims</rs> have gone</l>
           <l>their way, somebody looks back. He is a representative man,</l>
-          <l><del ms="hand">that is</del> he h<gap quantity="4" unit="chars" reason="illegible" /> is often repeated, <add hand="pencil">and often <gap quantity="1" unit="word" reason="illegible" /></add>, with little variation.</l>
+          <l><del hand="ms">that is</del> he hxxxxx is often repeated, <add hand="pencil" place="above">in other centuries</add>, with little variation.</l>
           <l>He--<rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> was his name-- is the first of that long line</l>
           <l>of leisured and learned men who have time to think about the</l>
           <l>past in 
@@ -229,7 +232,7 @@
             </choice> with their ancestors.</l>
         </p>
         <p>
-          <l>But the English seen past as seen by <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> only served</l>
+          <l>But the English seen past as seen by Harrison only served</l>
           <l>to show up the physical, the material change --the</l>
           <l>change that had come over houses, 
             <choice>
@@ -238,8 +241,8 @@
             </choice> and clothing.</l>
           <l>To show up the change in the mind, there was no</l>
           <l><del hand="ms">English pattern</del>. There was no English literature, to show</l>
-          <l>up the decline of English literature. <quote source="">"English "</quote> says the</l>
-          <l><quote source="">historian " had gone 
+          <l>up the decline of English literature. <quote source="#" rend="inline">"English "</quote> says the</l>
+          <l><quote source="#" rend="inline">historian " had gone 
             <choice>
               <sic>undergrounf</sic>
               <corr>underground</corr>
@@ -260,10 +263,19 @@
                 <sic>ourslves</sic>
                 <corr>ourselves</corr>
               </choice>:</l>
-            <l><quote source="">Icham for woing al forwake</quote></l>
-            <l><quote source="">Wery no water in wore</quote></l>
-            <l><quote source="">An hendy hap ichable yghent</quote></l>
-            <l><quote source="">Ichot from hevene it is me sent</quote></l>
+          </p>
+          <p>
+            <quote source="#" rend="block">
+              <l>Icham for woing al forwake</l>
+              <l>Wery no water in wore</l>
+            </quote>
+          </p>
+          <p><quote source="#" rend="block">
+              <l>An hendy hap ichable yghent</l>
+              <l>Ichot from hevene it is me sent</l>
+          </quote>
+          </p>
+          <p>
             <l>-- 
               <choice>
                 <sic>yhhe</sic>
@@ -275,12 +287,12 @@
                 <sic>ansctery</sic>
                 <corr>ancestry</corr>
               </choice>. He goes back <add hand="ms" place="above">a very little way -</add> to</l>
-            <l><rs type="person" ref="../resources/annotations.xml#psn-gcha">
+            <l>
               <choice>
                 <sic>Cahucer</sic>
                 <corr>Chaucer</corr>
-              </choice></rs>, <rs type="person" ref="../resources/annotations.xml#psn-jlyd">Lydgate</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jwyc">Wycliffe</rs>. <del ms="hand">For him it was a very sxxxx</del></l>
-            <l><del hand="ms">little way</del>. So,   to have
+              </choice>, <rs type="person" ref="../resources/annotations.xml#psn-jlyd">Lydgate</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jwyc">Wycliffe</rs>. <del hand="ms">For him it was a very sxxxx</del></l>
+            <l><del hand="ms">little way</del>. So, to have
               <choice>
                 <sic>anscestors</sic>
                 <corr>ancestors</corr>
@@ -294,8 +306,8 @@
                   <sic>o  f</sic>
                   <corr>of</corr>
                 </choice> the mind are</l>
-            <l>the Greeks and the Romans. His page is burdened <add hand="ms" place="above">?????</add>with these</l>
-            <l>proofs of good breeding. <gap quantity="1" unit="word" reason="illegible" /><rs type="person" ref="../resources/annotations.xml#psn-agrip">Henricus Cornelius</rs></l>
+            <l>the Greeks and the Romans. His page is burdened <add hand="ms" place="above">[illeg.]</add>with these</l>
+            <l>proofs of good breeding. Hxmxmxmxmxmxmxmxm<rs type="person" ref="../resources/annotations.xml#psn-agrip">Henricus Cornelius</rs></l>
             <l><rs type="person" ref="../resources/annotations.xml#psn-agrip">Agrippa</rs>, <rs type="person" ref="../resources/annotations.xml#psn-suet">
               <choice>
                 <sic>Suetoniius</sic>
@@ -328,8 +340,8 @@
               <sic>selves</sic>
               <corr>shelves</corr>
             </choice> of the college libraries. The learned read them.</l>
-          <l>And in Harrisons day the nobles. <quote source="">"...our ancient ladies"</quote></l>
-          <l><quote source="">of the court"</quote> were to be found reading 
+            <l>And in Harrisons day the nobles. <quote source="#" rend="inline"> "...our ancient ladies</quote></l>
+            <l><quote source="#" rend="inline">of the court"</quote> were to be found reading 
             <choice>
               <sic>th</sic>
               <corr>the</corr>
@@ -337,9 +349,9 @@
           <l>as they did their 
             <choice>
               <sic>needlwwork</sic>
-              <corr>needlework</corr>;
+              <corr>needlework</corr>
             </choice>; and histories. The noble</l>
-          <l>ladies <gap quantity="1" unit="word" reason="illegible" /> if they had a turn for 
+          <l>ladies wxmxmxmmxmxx if they had a turn for 
             <choice>
               <sic>rading</sic>
               <corr>reading</corr>
@@ -348,8 +360,8 @@
             <choice>
               <sic>reek</sic>
               <corr>Greek</corr>
-            </choice>, for <gap quantity="1" unit="word" reason="illegible" /><del hand="ms">English literature</del></l>
-          <l><gap quantity="1" unit="word" reason="illegible"/>not 
+            </choice>, <del hand="ms">for xxxxmxmxmx English literature</del></l>
+          <l>xmxmxmmxmxmxmxxxxmxmxmxx not 
             <choice>
               <sic>nough</sic>
               <corr>enough</corr>
@@ -376,7 +388,7 @@
           <l>instead of the old log with the hollow in it; and glass</l>
           <l>in the windows; and silver to drink from. The ceilings are</l>
           <l>curiously worked . Beyond the house there is</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-lond">London</rs>; a fine city; and <add hand="ms" place="above">???</add> ships riding at anchor;</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-lond">London</rs>; a fine city; and <add hand="ms" place="above">[illeg.]</add> ships riding at anchor;</l>
           <l>and Inns upon the 
             <choice>
               <sic>raod</sic>
@@ -405,16 +417,16 @@
             <l>coins has never gone more than forty miles from Radwinter</l>
             <l>in <rs type="place" ref="../resources/annotations.xml#pla-ess">Essex</rs>; <add hand="ms" place="above">has a father</add>; and owns a mastiff. The age of anonymity is over</l>
             <l>when we begin to furnish out the <del hand="ms">individual</del><add hand="ms" place="above">writer</add> with</l>
-            <l><gap quantity="1" unit="word" reason="illegible" /> his own private features.</l>
+            <l>xmxmxxx his own private features.</l>
             <add hand="ms" place="margin">
-              <quote source="">
                 <l>CXI</l>
-                <l>"with vain</l>
-                <l>affectation of</l>
-                <l>eloquence to</l>
-                <l>paint out a</l>
-                <l>rotten</l>
-                <l>sepulchre</l>
+                <quote source="#" rend="block">
+                  <l>"with vain</l>
+                  <l>affectation of</l>
+                  <l>eloquence to</l>
+                  <l>paint out a</l>
+                  <l>rotten</l>
+                  <l>sepulchre</l>
               </quote>
             </add>  
         </p>
@@ -423,12 +435,16 @@
         <p>
           <l>8</l>
           <l>But how little even the most diligent, the most laborious,</l>
-          <l>of these searchers <del hand="ms">can find of the human being.</del></l>
+          <l>of these searchers <del hand="ms">can find 
+            <choice>
+              <sic>o</sic>
+              <corr>of</corr>
+            </choice> the human being.</del></l>
           <l><del hand="ms">They</del> polish the shell only. They <del hand="ms">linger</del><add hand="ms" place="above">remain</add> upon the habits and</l>
           <l>the furniture, the house itself, It is as if we were told</l>
           <l>that the novelist <rs type="person" ref="../resources/annotations.xml#psn-hjam">Henry James</rs> had a tweed suit,</l>
           <l>six hats, some bowlers some top hats; and <del hand="ms">used to</del></l>
-          <l>take a waling stick inhis hand and when he walked;</l>
+          <l>take a walking stick in his hand and when he walked;</l>
           <l>and had his meat cooked on a coal fire, by a woman whose</l>
           <l>name was perhaps Joan. It is the 
             <choice>
@@ -436,7 +452,7 @@
               <corr>house that</corr>
             </choice> they preserve with</l>
           <l><del hand="ms">all their friction</del>; not the tenant of the house. Save for</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> and <rs type="person" ref="../resources/annotations.xml#psn-jlyd">Lydgate</rs> and for the voice of <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> singing</l>
+          <l>Chaucer and Lydgate and for the voice of Anon singing</l>
           <l>at the back door the English might e be a dumb race who</l>
           <l>enjoyed and suffered tacitly; a race of merchants,</l>
           <l>soldiers and 
@@ -457,31 +473,31 @@
             </choice> and uncushioned.</l>
         </p>
         <p>
-          <l>At <rs type="place" ref="../resources/annotations.xml#pla-gorh">Gorhambury</rs><add hand="ms" place="above">?????</add>old <rs type="person" ref="../resources/annotations.xml#psn:abac">Lady Bacon</rs> sat at her table writing</l>
+          <l>At <rs type="place" ref="../resources/annotations.xml#pla-gorh">Gorhambury</rs><add hand="ms" place="above">[illeg.]</add>old <rs type="person" ref="../resources/annotations.xml#psn-abac">Lady Bacon</rs> sat at her table writing</l>
           <l>But her letter to <rs type="person" ref="../resources/annotations.xml#psn-fbac">her son</rs> is as intricate and 
             <choice>
               <sic>foral</sic>
               <corr>formal</corr>
-            </choice> as a <add hand="ms" place="above">?????</add></l>
+            </choice> as a <add hand="ms" place="above">[illeg.]</add></l>
           <l>state paper. <del hand="ms">It is a letter written from the pulpit</del></l>
           <l>She admonishes and preaches. She is violent and irate.</l>
-          <l><gap reason="illegible"/><del hand="ms">They are letters</del> from</l>
+          <l>xmxmxmxmmxmxmxmxmxmmmxmxmxmxmxmxmxmxmxmxm.<del hand="ms">They are letters</del> from</l>
           <l>a counsellor to a 
             <choice>
               <sic>conferedate</sic>
               <corr>confederate</corr>
-            </choice>; <add hand="ms" place="above">???</add> full of the wickedness of men,</l>
+            </choice>; <add hand="ms" place="above"><del>with</del> [admonishing?] a [illeg.]</add> full of the wickedness of men,</l>
           <l>the dangers and 
             <choice>
               <sic>decits</sic>
               <corr>deceits</corr>
-            </choice> of the world; and the praise of <add hand="ms" place="after">her ???</add></l>
-          <l>God. <quote source="">"God keep us sound 
+            </choice> of the world; and the praise of <add hand="ms" place="after">her [illeg.]</add></l>
+          <l>God. <quote source="#" rend="inline">"God keep us sound 
             <choice>
               <sic>inmthe</sic>
               <corr>in the</corr>
             </choice> faith and send us health</quote></l>
-          <l><quote source="">and a care to please God above all...."</quote> <add hand="ms" place="above">???</add> She drops into</l>
+          <l><quote source="#" rend="inline">and a care to please God above all...."</quote> <add hand="ms" place="above">[illeg.]</add> She drops into</l>
           <l>Greek and Latin. If she 
             <choice>
               <sic>ha </sic>
@@ -490,7 +506,7 @@
             <choice>
               <sic>decend</sic>
               <corr>descend</corr>
-            </choice> the actual <add hand="ms" place="above">in a ???</add> 
+            </choice> the actual <add hand="ms" place="above">in a [illeg.]</add> 
             <choice>
               <sic>starbeery</sic>
               <corr>strawberry</corr>
@@ -504,57 +520,69 @@
               <sic>w  h</sic>
               <corr>with</corr>
               <corr>wish</corr>
-            </choice> warning and craft. <quote source="">"I have sent them by</quote></l>
+            </choice> warning and craft. <quote source="#" rend="inline">"I have sent them by</quote></l>
         </p>
       </div>
-      <div xml:id="m49.7">
-        <p>People one <choice><sic>wd</sic><corr>would</corr> have liked to have met</choice></p>
-        <!-- Come back to this! -->
+      <div xml:id="m49.7"> <!-- come back to this? -->
+        <p>People one <choice>
+          <sic>wd</sic>
+          <corr>would</corr>
+        </choice> have liked to have met</p>
+        <l><rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen Elizabeth</rs>: not face to face; but with a pane</l>
+        <l>of glass between us <del>Not in her [illeg.], but</del> at</l>
+        <l><rs type="place" ref="../resources/annotations.xml#pla-gren">Grenwich</rs>: <del>passing [left?] &amp;</del> The first roads 
+          <choice>
+            <sic>wd</sic>
+            <corr>would</corr>
+          </choice> have</l> <!-- come back to this -->
       </div>
       <div xml:id="m49.8">
         <p>
           <l>9</l>
-          <l><quote source="">boy of my 
-            <choice>
-              <sic>kr chen</sic>
-              <corr>kitchen</corr>
-            </choice>, a 
-            <choice>
-              <sic>shrwed</sic>
-              <corr>shrewd</corr>
-            </choice>-witted boy and prettily ca</quote></l>
-          <l><quote source="">cachetizes, but yet an untoward crafty boy.... Be 
-            <choice>
-              <sic>bot</sic>
-              <corr>not</corr>
-            </choice>
-            <choice>
-              <sic>speddy</sic>
-            </choice></quote></l>
-          <l><quote source="">of speech, 
-            <choice>
-              <sic>not</sic>
-              <corr>nor</corr>
-            </choice> 
-            <choice>
-              <sic>tal</sic>
-              <corr>talk</corr>
-            </choice> suddenly, but where 
-            <choice>
-              <sic>disctretion</sic>
-              <corr>discretion</corr>
-            </choice></quote></l>
-          <l><quote source="">requireth, and that soberly then...Let not Lawson, that</quote></l>
-          <l><quote source="">fox, be 
-            <choice>
-              <sic>acquanited</sic>
-              <corr>acquainted</corr>
-            </choice> with my letters..."</quote></l>
+          <quote source="#" rend="inline">
+            <l>boy of my 
+              <choice>
+                <sic>kr chen</sic>
+                <corr>kitchen</corr>
+              </choice>, a 
+              <choice>
+                <sic>shrwed</sic>
+                <corr>shrewd</corr>
+              </choice>-witted boy and prettily ca</l>
+            <l>cachetizes, but yet an untoward crafty boy.... Be 
+              <choice>
+                <sic>bot</sic>
+                <corr>not</corr>
+              </choice>
+              <choice>
+                <sic>speddy</sic>
+                <corr>speedy</corr>
+              </choice></l>
+            <l>of speech, 
+              <choice>
+                <sic>not</sic>
+                <corr>nor</corr>
+              </choice> 
+              <choice>
+                <sic>tal</sic>
+                <corr>talk</corr>
+              </choice> suddenly, but where 
+              <choice>
+                <sic>disctretion</sic>
+                <corr>discretion</corr>
+              </choice></l>
+            <l>requireth, and that soberly then...Let not Lawson, that</l>
+            <l>fox, be 
+              <choice>
+                <sic>acquanited</sic>
+                <corr>acquainted</corr>
+              </choice> with my letters..." <add hand="ms" place="inline">&amp; [illeg.]</add></l>
+          </quote>
         </p>
         <p>
           <l>The sound of the Bible is in her ears, her prose takes</l>
           <l>its solemn pleats; and the prose of the bible will not</l>
-          <l>adapt <add hand="ms" place="above">???</add> itself to the natural, to the easy, to the colloquial.</l>
+          <l>adapt <add hand="ms" place="above">[illeg.]</add> itself to the natural, to the easy, to the colloquial.</l>
           <l>It is a garment to be put on when the mind is</l>
           <l>erect and dignified.</l>
         </p>
@@ -614,12 +642,12 @@
               <corr>anonymity</corr>
             </choice></l>
           <l>hesitated on the threshold of the great room. He was</l>
-          <l>now separate from his audience; but hewas after all,</l>
+          <l>now separate from his audience; but he was after all,</l>
           <l>
             <choice>
               <sic>cloesly</sic>
               <corr>closely</corr>
-            </choice> connected with it. He was <add hand="ms" place="above">???</add> still unspecialised,</l>
+            </choice> connected with it. He was <add hand="ms" place="above">[finally?]</add> still unspecialised,</l>
           <l>undifferentiated. The eye was stimulated by the crimsons</l>
           <l>and golds and <choice>
             <sic>greesn</sic>
@@ -630,20 +658,16 @@
         </p>
       </div>
       <div xml:id="m49.9">
-        <!-- come back to this -->
+        <!-- come back to this, possibly a continuation from m49.7 -->
       </div>
       <div xml:id="m49.10">
         <p>
           <l>10</l>
           <l>given sharpness and substance by the speaking voice.</l>
-          <l>And there was the pear shaped lute. Lilt, rhythm , melody</l>
-          <l>was added to the 
-            <choice>
-              <sic>substanc</sic>
-              <corr>substance</corr>
-           </choice> and sharpness of words. In his</l>
-          <l><del hand="ms">mind there was</del> a His mind was full of half born, <del ms="hand">still</del></l>
-          <l>adhesive, undifferentiated words; old words;</l>
+          <l>And there was the pear shaped lute. Lilt, rhythm, melody</l>
+          <l>was added to the substance and sharpness of words. In his</l>
+          <l><del hand="ms">mind there was</del> a His mind was full of half born, <del hand="ms">still</del></l>
+          <l>adhesive, undifferentiated words <add hand="ms" place="above">still</add>; old words;</l>
           <l>new words; French words; Latin words. No grammar bound</l>
           <l>them tightly <choice>
             <sic>ogether</sic>
@@ -656,7 +680,7 @@
             <sic>rhym</sic>
             <corr>rhythm</corr>
           </choice></l>
-          <l><del>of the lute</del>; they could xxxxxxxx be danced to, or sung to.</l>
+          <l><del>of the lute</del>; they could sxxxxxxxx be danced to, or sung to.</l>
           <l><add place="above">But </add>They could not yet <choice>
             <sic>rhtym</sic>
             <corr>rhythm</corr>
