@@ -15,13 +15,12 @@
                 <xsl:element name="title">
                     <xsl:value-of select="//tei:titleStmt/tei:title"/>
                 </xsl:element>
-                <link rel="stylesheet" type="text/css" href="../resources/style.css"/>
-                <script type="text/js" src="../resources/modal.js"/>
+                <link rel="stylesheet" type="text/css" href="../resources/style.css"></link>
             </xsl:element>
             <xsl:element name="body">
                 <h1><em><xsl:value-of select="//tei:titleStmt/tei:title"/></em></h1>
                     <xsl:element name="br"/>
-                    <h2><xsl:value-of select="//tei:author"/></h2>
+                <h2><xsl:value-of select="//tei:author"/></h2>
                 <xsl:apply-templates/>
             </xsl:element> 
         </xsl:element>
@@ -93,7 +92,7 @@
     
     <!-- del tags --> 
     
-    <xsl:template match="//tei:p/tei:l/tei:del">
+    <xsl:template match="//tei:del">
         <xsl:element name="span">
             <xsl:attribute name="class">
                 <xsl:text>del</xsl:text>
@@ -104,7 +103,10 @@
     
     <!-- add tags -->
     
-    <xsl:template match="//tei:l/tei:add">
+    <xsl:template match="//tei:add">
+        
+        <!-- add above -->
+        
         <xsl:if test="@place='above'">
             <xsl:element name="span">
                 <xsl:attribute name="class">
@@ -114,10 +116,23 @@
             </xsl:element>
         </xsl:if>
         
+        <!-- add inline -->
+        
         <xsl:if test="@place='inline'">
             <xsl:element name="span">
                 <xsl:attribute name="class">
                     <xsl:text>add-inline</xsl:text>
+                </xsl:attribute>
+                <xsl:apply-templates/>
+            </xsl:element>
+        </xsl:if>
+        
+        <!-- add margin -->
+        
+        <xsl:if test="@place='margin'">
+            <xsl:element name="span">
+                <xsl:attribute name="class">
+                    <xsl:text>add-margin</xsl:text>
                 </xsl:attribute>
                 <xsl:apply-templates/>
             </xsl:element>
@@ -139,11 +154,27 @@
     
     <!-- quote tags -->
     
-    <xsl:template match="//tei:l/tei:quote">
+    <xsl:template match="//tei:quote">
         <xsl:element name="a">
             <xsl:attribute name="href">
                 <xsl:value-of select="[@source]"/>
             </xsl:attribute>
+            
+            <!-- inline quote rendering -->
+            <xsl:if test="@rend='inline'">
+                <xsl:attribute name="class">
+                    <xsl:text>inline</xsl:text>
+                </xsl:attribute>
+            </xsl:if>
+            
+            <!-- block quote rendering -->
+            
+            <xsl:if test="@rend='block'">
+                <xsl:attribute name="class">
+                    <xsl:text>block</xsl:text>
+                </xsl:attribute>
+            </xsl:if>
+            
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
