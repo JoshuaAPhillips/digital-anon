@@ -241,8 +241,8 @@
             </choice> and clothing.</l>
           <l>To show up the change in the mind, there was no</l>
           <l><del hand="ms">English pattern</del>. There was no English literature, to show</l>
-          <l>up the decline of English literature. <quote source="#">"English "</quote> says the</l>
-          <l><quote source="#">historian " had gone 
+          <l>up the decline of English literature. <quote source="#" rend="inline">"English "</quote> says the</l>
+          <l><quote source="#" rend="inline">historian " had gone 
             <choice>
               <sic>undergrounf</sic>
               <corr>underground</corr>
@@ -265,12 +265,12 @@
               </choice>:</l>
           </p>
           <p>
-            <quote source="#">
+            <quote source="#" rend="block">
               <l>Icham for woing al forwake</l>
               <l>Wery no water in wore</l>
             </quote>
           </p>
-          <p><quote source="#">
+          <p><quote source="#" rend="block">
               <l>An hendy hap ichable yghent</l>
               <l>Ichot from hevene it is me sent</l>
           </quote>
@@ -340,8 +340,8 @@
               <sic>selves</sic>
               <corr>shelves</corr>
             </choice> of the college libraries. The learned read them.</l>
-          <l>And in Harrisons day the nobles. <quote source="#">"...our ancient ladies</quote></l>
-          <l><quote source="#">of the court"</quote> were to be found reading 
+            <l>And in Harrisons day the nobles. <quote source="#" rend="inline"> "...our ancient ladies</quote></l>
+            <l><quote source="#" rend="inline">of the court"</quote> were to be found reading 
             <choice>
               <sic>th</sic>
               <corr>the</corr>
@@ -419,14 +419,14 @@
             <l>when we begin to furnish out the <del hand="ms">individual</del><add hand="ms" place="above">writer</add> with</l>
             <l>xmxmxxx his own private features.</l>
             <add hand="ms" place="margin">
-              <quote source="#">
                 <l>CXI</l>
-                <l>"with vain</l>
-                <l>affectation of</l>
-                <l>eloquence to</l>
-                <l>paint out a</l>
-                <l>rotten</l>
-                <l>sepulchre</l>
+                <quote source="#" rend="block">
+                  <l>"with vain</l>
+                  <l>affectation of</l>
+                  <l>eloquence to</l>
+                  <l>paint out a</l>
+                  <l>rotten</l>
+                  <l>sepulchre</l>
               </quote>
             </add>  
         </p>
@@ -492,12 +492,12 @@
               <sic>decits</sic>
               <corr>deceits</corr>
             </choice> of the world; and the praise of <add hand="ms" place="after">her [illeg.]</add></l>
-          <l>God. <quote source="#">"God keep us sound 
+          <l>God. <quote source="#" rend="inline">"God keep us sound 
             <choice>
               <sic>inmthe</sic>
               <corr>in the</corr>
             </choice> faith and send us health</quote></l>
-          <l><quote source="#">and a care to please God above all...."</quote> <add hand="ms" place="above">[illeg.]</add> She drops into</l>
+          <l><quote source="#" rend="inline">and a care to please God above all...."</quote> <add hand="ms" place="above">[illeg.]</add> She drops into</l>
           <l>Greek and Latin. If she 
             <choice>
               <sic>ha </sic>
@@ -520,7 +520,7 @@
               <sic>w  h</sic>
               <corr>with</corr>
               <corr>wish</corr>
-            </choice> warning and craft. <quote source="#">"I have sent them by</quote></l>
+            </choice> warning and craft. <quote source="#" rend="inline">"I have sent them by</quote></l>
         </p>
       </div>
       <div xml:id="m49.7"> <!-- come back to this? -->
@@ -539,7 +539,7 @@
       <div xml:id="m49.8">
         <p>
           <l>9</l>
-          <quote source="#">
+          <quote source="#" rend="inline">
             <l>boy of my 
               <choice>
                 <sic>kr chen</sic>
