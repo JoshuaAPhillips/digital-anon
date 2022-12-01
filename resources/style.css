@@ -7,10 +7,10 @@
     scroll-behavior: smooth;
   }
 
-/* global rules */
+/* text */
 
 body {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     background: linen;
     padding-left: 3.0rem;
 }
@@ -26,7 +26,17 @@ p {
 
 a {
     color: DarkSlateBlue;
-    font-weight: bold;
+}
+
+a.block {
+    display: block;
+    line-height: 1.15rem;
+    margin-left: 2.0rem;
+    margin-top: 1.5rem;
+}
+
+a.inline {
+    display:inline;
 }
 
 .del {
@@ -45,9 +55,16 @@ a {
     font-size: 0.9rem;
 }
 
+.add-margin {
+    text-decoration: underline;
+    color: green;
+}
+
 .corr {
     color: firebrick;
 }
+
+/* tooltips */
 
 .data-title:hover {
     cursor: help;
