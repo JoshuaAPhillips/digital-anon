@@ -61,9 +61,9 @@
       <div xml:id="m111-1.1">
         <p>
           <l>29</l>
-          <l><add hand="ms" place="above">But</add> Her own passion, the disgrace, the humiliation of her<add>are all <!-- come back to this --></add></l>
+          <l><add hand="ms" place="above">But</add> Her own passion, the disgrace, the humiliation of her <add>are all [actual?] in dumb shows</add></l>
           <l>family are all hidden under silence itself; or such</l>
-          <l>flourishesand ornaments that reveal 
+          <l>flourishes and ornaments that reveal 
             <choice>
               <sic>notning</sic>
               <corr>nothing</corr>
@@ -88,8 +88,8 @@
               <sic>fanatsies</sic>
               <corr>fantasies</corr>
             </choice>, Mr <rs type="person" ref="../resources/annotations.xml#psn-fbea">Beaumont</rs> has indeed recourse</l>
-          <l>to poetry. After trying to explain <quote source="">My conceit of this</quote></l>
-          <l><quote source="">triple love, of affection passion and 
+          <l>to poetry. After trying to explain <quote source="#" rend="inline">My conceit of this</quote></l>
+          <l><quote source="#" rend="inline">triple love, of affection passion and 
             <choice>
               <sic>conjnuction</sic>
               <corr>conjunction</corr>
@@ -102,8 +102,8 @@
             <choice>
               <sic>welt th</sic>
               <corr>wealth</corr>
-            </choice> of imagery he quotes <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs>... <quote source="">"... of lae</quote></l>
-          <quote source="">
+            </choice> of imagery he quotes <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs>... <quote source="#" rend="inline">"... of lae</quote></l>
+          <quote source="#" rend="inline">
             <l>late I have light upon Mr 
               <choice>
                 <sic>Soensers</sic>
@@ -124,7 +124,7 @@
               </choice> me before, as the</l>
             <l>same might have been thought to have drawn out of his</l>
           </quote>
-          <l><quote source="">discipline."</quote> It is the poets still who speak for the</l>
+          <l><quote source="#" rend="inline">discipline."</quote> It is the poets still who speak for the</l>
           <l>squires 
             <choice>
               <sic>whocannot</sic>
@@ -200,11 +200,11 @@
               <sic>contrbutions</sic>
               <corr>contributions</corr>
             </choice> to our knowledge</l>
-          <l>of what 
+          <l>of what <rs type="person" ref="../resources/annotations.xml#psn-wsha">
             <choice>
               <sic>Shakespre</sic>
               <corr>Shakespeare</corr>
-            </choice> liiked like, if you see him through</l>
+            </choice></rs> looked like, if you see him through</l>
           <l>a certain 
             <choice>
               <sic>visoon</sic>
@@ -269,7 +269,7 @@
               <sic>motiinless</sic>
               <corr>motionless</corr>
             </choice>, to the enormous</l>
-          <l>possibilities of speed. One reading always superseds another</l>
+          <l>possibilities of speed. One reading always supersedes another</l>
           <l>Thus the 
             <choice>
               <sic>trueest</sic>
@@ -320,8 +320,8 @@
               <sic>Southmapton</sic>
               <corr>Southampton</corr>
             </choice> and Lord Rutland, <rs type="person" ref="../resources/annotations.xml#psn-rwhy">Roland White</rs> wrote to</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-rsid">Sir Robert Sidney</rs>, <quote source="">pass away the time in London, merely in</quote></l>
-          <l><quote source="">going to plays 
+          <l><rs type="person" ref="../resources/annotations.xml#psn-rsid">Sir Robert Sidney</rs>, <quote source="#" rend="inline">pass away the time in London, merely in</quote></l>
+          <l><quote source="#" rend="inline">going to plays 
             <choice>
               <sic>ev y</sic>
               <corr>every</corr>
@@ -372,7 +372,7 @@
               <corr>reenacted</corr>
             </choice>. But the <rs type="person" ref="../resources/annotations.xml#psn-stat">censor</rs></l>
           <l>was quick to control irreverence. And in fact the dramatist</l>
-          <l>wasnot destroying society. The indignation that, after the</l>
+          <l>wasn ot destroying society. The indignation that, after the</l>
           <l>first silent surprise, that <rs type="person" ref="../resources/annotations.xml#psn-hibs">Ibsen</rs> for example stirred in</l>
           <l>London was partly the rage of those who felt that</l>
         </p>
@@ -531,7 +531,7 @@
               <sic>partciualr</sic>
               <corr>particular</corr>
             </choice>.</l>
-          <l>It accounts too for the long pause <add hand="ms" place="above">between [sixteenth?] &amp; the 18th centuries</add> when the plays of</l>
+          <l>It accounts too for the long pause <add hand="ms" place="above">between [sixteenth? seventeenth?] &amp; the 18th centuries</add> when the plays of</l>
           <l>
             <choice>
               <sic>Shakepaere</sic>
@@ -629,8 +629,16 @@
               <sic>sppply</sic>
               <corr>supply</corr>
             </choice> what</l>
-          <l><del>is so obviously</del> the sunk part of the play. But he is perp</l>
-          <l>tually rebuffed. He is apt <add hand="ms" place="above">pat</add> to become not a reader but a</l>
+          <l><del>is so obviously</del> the sunk part of the play. But he is 
+            <choice>
+              <sic>perp</sic>
+              <corr>perpetually</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>tually</sic>
+              <corr>perpetually</corr>
+            </choice> rebuffed. He is apt <add hand="ms" place="above">pat</add> to become not a reader but a</l>
           <l>student; txmxmxmxmxmmxmxmxmmxmxmx a collector of</l>
           <l>scattered bones. At some point however in the Elizabethan</l>
           <l>drama the 
@@ -675,7 +683,11 @@
               <sic>hisotry</sic>
               <corr>history</corr>
             </choice> is an</l>
-          <l>obscure one. At some point his ear must have lost its a uten</l>
+          <l>obscure one. At some point his ear must have lost its 
+            <choice>
+              <sic>a uten</sic>
+              <corr>acuteness</corr>
+            </choice></l>
           <l>acuteness; then his eyes became dull. Then he became word</l>
           <l>conscious, aware of suggestions and echoes. As time 
             <choice>
@@ -690,14 +702,14 @@
           <l>unintended by the writer. A word spelt in the Elizabethan</l>
         </p>
       </div>
-      <div xml:id="m111-1.8">
+      <div xml:id="m111-1.7">
         <p>
           <l>155</l>
           <l>
             <choice>
               <sic>ho mes</sic>
               <corr>homes</corr>
-            </choice> will be built. <add hand="ms" place="above">Each flat</add> With refrigerators <del hand="ms">in each flat</del>?</l>
+            </choice> will be built. <add hand="ms" place="above">Each flat with</add> With refrigerators <del hand="ms">in each flat</del>?</l>
           <l>xmxmxmxmxmmxmxmxm xxxx <del>And churches</del>...</l>
           <l>The tune <del hand="ms">changed. It</del> chopped and changed. <del hand="ms">It broke off. It</del></l>
           <l>broke up. 
@@ -806,16 +818,16 @@
             <choice>
               <sic>agains</sic>
               <corr>again</corr>
-            </choice> is always changing. The cinema is now</l>
+            </choice> is always changing. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine">cinema</rs> is now</l>
           <l>
             <choice>
               <sic>develpojg</sic>
               <corr>developing</corr>
             </choice> his eyes, the 
-            <choice>
+            <rs type="literary-work" ref="../resources/annotations.xml#lit-broa"><choice>
               <sic>Braodcast</sic>
               <corr>Broadcast</corr>
-            </choice> is 
+            </choice></rs> is 
             <choice>
               <sic>dev pojg</sic>
               <corr>developing</corr>
