@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+    <title>osd test</title>
+</head>
+
+<body>
+    <p>argh</p>
+    <div id="openseadragon1" style="height: 1200px; width: 720px"></div>
+
+    <script src="/openseadragon/openseadragon.min.js"></script>
+    <script type="text/javascript">
+        var viewer = OpenSeadragon({
+            id: "openseadragon1",
+            tileSources: {
+                type: "image",
+                url: "/resources/images/no.jpg"
+            }
+        });
+
+        viewer();
+    </script>
+</body>
