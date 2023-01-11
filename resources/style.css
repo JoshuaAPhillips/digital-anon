@@ -1,18 +1,18 @@
-/* refresh */
+/* refresh 
 
 * {
     margin: 0;
     font-size: 18px;
     max-width: 100%;
     scroll-behavior: smooth;
-  }
+  }*/
 
 /* text */
 
 body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: linen;
-    padding-left: 3.0rem;
+    /*padding-left: 3.0rem;*/
 }
 
 h3 {
@@ -21,7 +21,7 @@ h3 {
 
 p {
     font-size: 1.0rem;
-    line-height: 1.5rem;
+    /*line-height: 1.5rem;*/
 }
 
 a {
