@@ -41,7 +41,7 @@
                 2p</em></h1><br><h2 xmlns:tei="http://www.tei-c.org/ns/1.0">Virginia Woolf</h2>
             <div class="col-lg-5">
                 <h1>Facsimile column</h1>
-                <div id="openseadragon1" style="width: 800px; height: 600px"><p>Argh why isn't this working</p></div>
+                <div id="openseadragon1"></div>
             </div>
             <div class="col-lg-4 overflow-auto h-100">
               <h3>Page: m48.1</h3>
@@ -193,12 +193,14 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
     <script src="/openseadragon/openseadragon.min.js"></script>
     <script type="text/javascript">
-        let viewer = OpenSeadragon({
+        var viewer = OpenSeadragon({
             id: "openseadragon1",
             tileSources: {
                 type: "image",
-                url: "./resources/images/facsimiles/no.jpg"
+                url: "https://joshuaaphillips.github.io/digital-anon/resources/images/no.jpg"
             }
         });
+
+        viewer();
     </script>
 </body>
