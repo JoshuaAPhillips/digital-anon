@@ -42,10 +42,19 @@
 
     <!-- main divs -->
 
+<<<<<<< HEAD
    <div class="container-fluid">
         <div class="row" style="height: 85vh">
             <div class="col-lg-7 border-end">
                 <div id="openseadragon1" style="height: 84vh"></div>
+=======
+    <div class="container-fluid">
+        <div class="row" style="height: 80vh">
+            <h1 xmlns:tei="http://www.tei-c.org/ns/1.0"><em>M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated.
+                2p</em></h1><br><h2 xmlns:tei="http://www.tei-c.org/ns/1.0">Virginia Woolf</h2>
+            <div class="col-lg-5">
+                <div id="openseadragon1" style="height: 80vh"></div>
+>>>>>>> 5ded9d1 (Having a hard time with DZI files)
             </div>
             <div class="col-lg-5 overflow-auto h-100">
                <h1>M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p</h1>
@@ -224,10 +233,13 @@
     <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="   crossorigin="anonymous"></script>
     <script src="../resources/modal.js"></script>
     <script src="../openseadragon/openseadragon.min.js"></script>
+
+    <!-- OpenSeadragon -->
     <script type="text/javascript">
         var viewer = OpenSeadragon({
             id: "openseadragon1",
             prefixUrl: "../openseadragon/images/",
+<<<<<<< HEAD
             tileSources: [
                   "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-1.pdf.png.dzi",
                   "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-2.pdf.png.dzi",
@@ -238,8 +250,12 @@
             showReferenceStrip: true,
             showNavigator: true,
             visibilityRatio: 1
+=======
+            showNavigator: true,
+            tileSources: "../resources/images/facsimiles/m48/m48.dzi",
+            sequenceMode: true
+>>>>>>> 5ded9d1 (Having a hard time with DZI files)
         });
-
         viewer();
     </script>
 </body>
