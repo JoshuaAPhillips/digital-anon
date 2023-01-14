@@ -34,8 +34,8 @@ h3 {
 }
 
 p {
-    font-size: 1.0rem;
-    /*line-height: 1.0rem;*/
+    font-size: 1.1rem;
+    line-height: 1.0rem;
 }
 
 a {
@@ -85,6 +85,10 @@ nav a {
 
 footer {
     font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+}
+
+footer p {
+    font-size: 1.0rem;
 }
 
 /* tooltips */
