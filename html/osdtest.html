@@ -12,10 +12,14 @@
         var viewer = OpenSeadragon({
             id: "openseadragon1",
             prefixUrl: "../openseadragon/images/",
-            tileSources: {
-                type: "image",
-                url: "https://joshuaaphillips.github.io/digital-anon/resources/images/no.jpg"
-            }
+            tileSources: ["https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-1.pdf.png.dzi",
+                    "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-2.pdf.png.dzi",
+                    "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-3.pdf.png.dzi",
+                    "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-4.pdf.png.dzi",
+        ], 
+            sequenceMode: true,
+            showReferenceStrip: true,
+            showNavigator: true,
         });
 
         viewer();

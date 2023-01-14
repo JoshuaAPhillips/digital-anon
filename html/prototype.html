@@ -40,8 +40,7 @@
             <h1 xmlns:tei="http://www.tei-c.org/ns/1.0"><em>M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated.
                 2p</em></h1><br><h2 xmlns:tei="http://www.tei-c.org/ns/1.0">Virginia Woolf</h2>
             <div class="col-lg-5">
-                <h1>Facsimile column</h1>
-                <div id="openseadragon1" style="height: 80vh; width: 70vw"></div>
+                <div id="openseadragon1" style="height: 80vh"></div>
             </div>
             <div class="col-lg-4 overflow-auto h-100">
               <h3>Page: m48.1</h3>
@@ -195,10 +194,15 @@
     <script type="text/javascript">
         var viewer = OpenSeadragon({
             id: "openseadragon1",
-            tileSources: {
-                type: "image",
-                url: "https://joshuaaphillips.github.io/digital-anon/resources/images/no.jpg"
-            }
+            prefixUrl: "../openseadragon/images/",
+            tileSources: ["https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-1.pdf.png.dzi",
+                    "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-2.pdf.png.dzi",
+                    "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-3.pdf.png.dzi",
+                    "https://joshuaaphillips.github.io/digital-anon/resources/facsimiles/m48-4.pdf.png.dzi",
+        ], 
+            sequenceMode: true,
+            showReferenceStrip: true,
+            showNavigator: true,
         });
 
         viewer();
