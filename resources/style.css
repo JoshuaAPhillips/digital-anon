@@ -10,7 +10,7 @@
 /* text */
 
 body {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
     /*background: linen;*/
     /*padding-left: 3.0rem;*/
 }
@@ -18,7 +18,7 @@ body {
 h1 {
     font-size: 1.5rem;
     padding: 1rem;
-    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
     font-weight: 400;
 }
 
@@ -79,11 +79,12 @@ a.inline {
 }
 
 nav a {
-    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
 }
 
 footer {
-    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Playfair Display', Georgia, 'Times New Roman', Times, serif;
 }
 
 /* tooltips */
