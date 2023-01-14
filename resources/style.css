@@ -18,6 +18,8 @@ body {
 h1 {
     font-size: 1.5rem;
     padding: 1rem;
+    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
 }
 
 h2 {
@@ -74,6 +76,14 @@ a.inline {
 
 .corr {
     color: firebrick;
+}
+
+nav a {
+    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
 }
 
 /* tooltips */
