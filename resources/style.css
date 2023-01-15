@@ -11,8 +11,6 @@
 
 body {
     font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
-    /*background: linen;*/
-    /*padding-left: 3.0rem;*/
 }
 
 h1 {
@@ -66,7 +64,6 @@ a.inline {
     text-decoration: underline;
     color: green;
     vertical-align: super;
-    font-size: 0.9rem;
 }
 
 .add-margin {
