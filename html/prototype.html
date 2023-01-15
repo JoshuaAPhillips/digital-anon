@@ -48,6 +48,7 @@
                 <div id="openseadragon1" style="height: 84vh"></div>
             </div>
             <div class="col-lg-5 overflow-auto h-100">
+               <button data-bs-target=""></button>
                 <h1>M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p</h1>
               <h3>Page: m48.1</h3>
               <p>i</p>
@@ -62,7 +63,7 @@
                  <span data-title="h  "><i class="corr">had</i></span> to be felled; and a hut made from its</p>
               <p>branches , before the human voice sang too.</p>
               <br>
-              <a href="#" class="block">
+              <a href="./anno-test.html" data-bs-toggle="modal" data-bs-target="#annoModal" class="block">
                  <p>By a bank as I lay</p>
                  
                  <p>Musing myself alone, <span class="del">j</span>
@@ -104,12 +105,12 @@
               
               <p>interested in his name that he never thought to give it.</p>
               
-              <p>The audience took part <span class="del">too</span> in the song. <a href="#" class="inline">"Terly, terlow"</a></p>
+              <p>The audience took part <span class="del">too</span> in the song. <a href="#" data-bs-toggle="modal" class="inline">"Terly, terlow"</a></p>
               
-              <p>they sang: and <a href="#" class="inline">"By, by lullay"</a> filling in 
+              <p>they sang: and <a href="#" data-bs-target="#annoModal" data-bs-toggle="modal" class="inline">"By, by lullay"</a> filling in 
                  <span data-title="th "><i class="corr">the</i></span> pause</p>
               
-              <p>helping out the <span class="add-above">larger</span>meaning.<span class="add-inline">[</span><a href="../resources/annotations.xml#psn-anon">Anon</a> sings because spring has</p>
+              <p>helping out the <span class="add-above">larger</span>meaning.<span class="add-inline">[</span><a data-bs-target="#annoModal" data-bs-toggle="modal" href="../resources/annotations.xml#psn-anon">Anon</a> sings because spring has</p>
               
               <p>come; or winter is gone; 
                  <span data-title="b cause"><i class="corr">because</i></span> he loves; because he</p>
@@ -188,6 +189,23 @@
          </div>
    </div>
 
+   <!-- modal content -->
+
+   <div class="modal fade" id="annoModal">
+      <div class="modal-dialog">
+         <div class="modal-content">
+           <div class="modal-header">
+             <h1 class="modal-title" id="exampleModalLabel">Annotation modal test</h1>
+             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+           </div>
+           <div class="modal-body">
+             ...
+           </div>
+           </div>
+         </div>
+       </div>
+   </div>
+
     <!-- footer -->
 
     <footer class="footer border-top">
@@ -198,6 +216,8 @@
     <!-- js -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.js" integrity="sha256-nQLuAZGRRcILA+6dMBOvcRh5Pe310sBpanc6+QBmyVM="   crossorigin="anonymous"></script>
+    <script src="../resources/modal.js"></script>
     <script src="../openseadragon/openseadragon.min.js"></script>
     <script type="text/javascript">
         var viewer = OpenSeadragon({
