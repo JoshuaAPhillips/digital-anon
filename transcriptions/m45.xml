@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M45. Anon. Holograph fragment, unsigned, dated Nov. 24, 1940. 9p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m45</idno>
+          </msIdentifier>        
+          <physDesc>
+          <!-- <p> with description based on Berg catalogue descriptions -->
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m45.1">
+        <p>
+          <l>Anon</l>
+        </p>
+      </div>
+      <div xml:id="m45.2">
+        <p>
+          <add place="margin">
+            <l>24th Nov</l>
+            <l>1940</l>
+          </add>
+        </p>
+        <p>
+          <l>Anon.</l>
+        </p>
+        <p>
+          <l>Introduction</l>
+          <l>"For many centuries after Britain became an island" the</l>
+          <l><rs type="person" ref="../resources/annotations.xml#gtre">historian</rs> says, "the untamed forest was king. " On the matted</l>
+          <l>branches of that forest innumerable birds sang; but</l>
+          <l>that song was heard only by <del>a few</del> <add><del>few</del> a few</add> skin clad hunters in</l>
+          <l><del>a few</del> <add place="above"><del>the</del></add> <del>clearings</del> an occasional clearing 
+            <choice>
+              <sic>wld</sic>
+              <corr>Would</corr>
+            </choice> the</l>
+          <l>desire to sing come to one of those savages because he</l>
+          <l>heard the birds sing? 
+            <choice>
+              <sic>Wld</sic>
+              <corr>Would</corr>
+            </choice> he rest his axe against a</l>
+          <l>tree for a moment <del>[illeg.]</del>?</l>
+        </p>
+        <p>
+          <add place="margin">
+            <l><rs>G. M. Trevelyan</rs></l>
+            <l>History of</l>
+            <l>England p. 3.</l>
+          </add>
+        </p>
+        <p>
+          <l>The tree was felled. Some [illeg.] hut was made</l>
+          <l>from its branches; &amp; then by degree, the clearing</l>
+          <l>gets larger &amp; larger, the birds fewer &amp; fewer, &amp; the human</l>
+          <l><add place="margin">being</add> sings instead. <add place="above"><del>of [these?]</del></add> The first songs are out of door songs,</l>
+          <l>[spring?] songs, summer songs, winter songs; <del>as they</del></l>
+          <l>for there was no comfort indoors; <del>no</del> little light, &amp; no</l>
+          <l>books.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
