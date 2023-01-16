@@ -38,6 +38,7 @@ p {
 
 a {
     color: DarkSlateBlue;
+    font-size: 1.1rem;
 }
 
 a.block {
@@ -73,6 +74,7 @@ a.inline {
 
 .corr {
     color: firebrick;
+    font-size: 1.1rem;
 }
 
 nav a {
