@@ -11,6 +11,7 @@
 
 body {
     font-family: 'EB Garamond', Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.1rem;
 }
 
 h1 {
@@ -54,6 +55,7 @@ a.inline {
 
 .del {
     text-decoration: line-through;
+    font-size: 1.1rem;
 }
 
 .add-inline {
@@ -114,13 +116,14 @@ footer p {
     font-size: 1.0rem;
     font-weight: normal !important;
     position: absolute;
-    padding: 0.33rem 0.66rem;
+    padding: 0.5rem 1.0rem;
     bottom: -1.6em;
     white-space: nowrap;
     left: 100%;
     z-index: 99999;
     visibility: hidden;
     border-radius: 0.5rem;
+    font-size: 1.1rem;
 }
 [data-title] {
     position: relative;
