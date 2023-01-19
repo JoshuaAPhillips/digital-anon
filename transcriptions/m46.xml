@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M46 [Anon]. Holograph fragment, undated. 9p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m46</idno>
+          </msIdentifier>        
+          <physDesc>
+          <!-- <p> with description based on Berg catalogue descriptions -->
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:base="m46.1">
+        <p>
+          <l>1</l>
+        </p>
+        <p>
+          <l>He has emerged then <del>from the</del> sufficiently from the <del>past</del></l>
+          <l><add place="margin">&amp; the undifferentiated voices of birds &amp; men singing [illeg.]</add></l>
+          <l>forest <add place="above">&amp;</add> from the floods, <del>from the</del> to <del>stand</del> to be seen</l>
+          <l><del>standing at the threshold of door, looking back,</del></l>
+          <l><del>even</del> <del>not [illeg.]</del> in outline; a man with a mastiff,</l>
+          <l>with a garden: <del>He is</del> His name may be <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs>;</l>
+          <l>it may be <rs>Paston</rs>. There is very little to distinguish him</l>
+          <l>from other people. He has no <del>l</del> particular expression; no</l>
+          <l>we <del>cannot imagine what will</del> he <del>[clings?]</del> to the <del>only</del></l>
+          <l>chiefly what his eye sees. <del>He makes us fal</del> suppose</l>
+          <l><del>that</del> the emptiness of England: the scarcity of people; the</l>
+          <l>predominance of individuals. <del>We can count the ships</del></l>
+          <l>Everything belongs to the <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs>. We can count her</l>
+          <l>possessions– a few ships, a few palaces. She is <del>the</del></l>
+          <l>parliament, press, society, law, order. But the</l>
+          <l>man himself, the individual, <del>has the</del> <del>greatest</del></l>
+          <l>is cumbered, <del>stiff, constrained, with</del> &amp; still: <del>Not so</del></l>
+          <l><del>very long ago,</del> <del>words are still</del> writing is still</l>
+          <l>an <del>expressive</del>, a <del>luxurious art. She does not</del></l>
+          <l><del>scribble words are</del> Writing is still an art that</l>
+          <l>requires great ceremony. <del>Their</del> What you make with the pen is</l>
+          <l>separate from what you say with the tongue.</l>
+          <l>Only a few years back, words were written beautifully</l>
+          <l><del>on</del> <del>in</del> by scribes on parchment; &amp; the leaves</l>
+          <l>when bound up, were chained to the lectern; &amp;</l>
+          <l><del>only</del> <del>you read</del> <add place="above"> &amp; read</add> in great physical discomfort,</l>
+          <l><del>seats</del> <del>at</del> on ahard bench, <del>in a</del> <del>in</del> in the cold.</l>
+          <l><del>What the Johns &amp; the Edwards write, even with</del></l>
+          <l><del>A</del> <del>And</del> <del>There is</del> <del>And</del> <del>Even now,</del> since</l>
+          <l><del>there is no vulgar public, even now,</del> Even now</l>
+          <l><del><add place="above">when words are printed</add> after the printed book has come into existence</del></l>
+          <l><del>there is no common</del> <del>the public is</del></l>
+          <l>the great public is not the reader, or the</l>
+          <l>paymaster. <del>Before the</del> The written words</l>
+          <l>must <del>pass the</del> <del>the</del> please <del>an</del> a senile man –</l>
+          <l>in the first place – &amp; to <del>it must do</del> the book</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
