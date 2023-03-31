@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8-4. [Anon: The loves &amp; hates of the Elizabethans themselves...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 8-16. 9p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-4</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-4. [Anon: The loves &amp; hates of the Elizabethans themselves...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 8-16. 9p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-4.1 [p. 8]">
+        <p>
+          <l><del>that the Court</del></l>
+        </p>
+        <p>
+          <l>The <del>hates</del> loves &amp; hates of the Elizabethans themselves</l>
+          <l><del>Yet the</del> The <del>actual words of the</del></l>
+          <l><del>that</del> <del>But</del> <del>Compared with their</del></l>
+          <l>If we <del>turn from the play to the model</del></l>
+          <l><del>It is a strange experience,</del> <del>this strange</del></l>
+          <l><del>The nobles, who spoke so</del> It is strange to turn from</l>
+          <l>the stage to the private house. On the stage,</l>
+        </p>
+        <p>
+          <del>
+            <l><del>Their inarticulateness is real</del></l>
+            <l>They spoke with great difficulty at the</l>
+            <l>court of <rs type="person" ref="../resources/annotations.xml#psn-eliz">Elizabeth</rs></l>
+          </del>
+        </p>
+        <p>
+          <l>Their own voices are <del>scarcely audible</del></l>
+          <l>scarcely to be heard. <del>If we look into the</del></l>
+          <del><l><del>heart of that</del> great room when Elizabeth sat</l></del>
+          <l><del><del>within her</del> we can make out</del>the <del>beautiful</del> <rs type="person" ref="../resources/annotations.xml#psn-mfyt">daughter</rs> <del>of a</del></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-efyt">Sir Edward Fylton</rs> knight, of Gawsworth in</l>
+          <l>Cheshre, <del>goes to Court</del> becomes one of Elizabeth's</l>
+          <l>maids of honour. <del>The court was</del> <rs type="person" ref="../resources/annotations.xml#psn-wkno">Sir William</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wkno">Knollys</rs> vows that he wil not <quote rend="inline" source="#">"fail to</quote></l>
+          <l><quote rend="inline" source="#">to fulfil your desire in playing the good</quote></l>
+          <l><quote rend="inline" source="#">shepherd &amp; will to thy power defend this</quote></l>
+          <l><quote rend="inline" source="#">innocent lamb from the wolvish cruelty &amp;</quote></l>
+          <l><quote rend="inline" source="#">foxlike subtlety of the tame beasts of this place..."</quote></l>
+          <l><del>And then, by a married man, falls in love with</del></l>
+          <l><del>her. And then</del> <del>Bit the</del> <del>No</del> Then there is</l>
+          <l>silence. <del>Had</del> The curtain lifts surprisingly at</l>
+          <l>odd intervals. <del>We see the</del> The old</l>
+          <l>[illeg.] is free to seduce the girl. Again</l>
+          <l>there is solence. The girl falls in love with</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wpem">Lord Pembroke</rs>. Gossip says she 
+            <choice>
+              <sic>wd.</sic>
+              <corr>would</corr>
+            </choice></l>
+          <l>dress up as a man in a large white</l>
+          <l>cloak &amp; <del>[match?]</del> meet the earl privately.</l>
+          <l>Silence falls. Then she has home a parted.</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-4.2 [p. 9]">
+        <p>
+          <l>She is taken home secretly by her father. Her mother</l>
+          <l>cries <quote source="#" rend="inline">"when a fresh [untaught?] is an [hoor?] "If it</quote></l>
+          <l><quote source="#" rend="inline">had pleased God when I did hear her that she &amp;</quote></l>
+          <l><quote source="#" rend="inline">I had been buried it had saved me from a</quote></l>
+          <l><quote source="#" rend="inline">great deal of sorrow &amp; grief &amp; her <del>..</del> from ....</quote></l>
+          <l><quote source="#" rend="inline">such shame as never had Cheshire woman, ....</quote></l>
+          <l><quote source="#" rend="inline">Write no more to me of her"</quote></l>
+        </p>
+        <p>
+          <l><del>But save for their sf</del> But the drama</l>
+          <l><del>of the</del> <del>abandoned girl</del> moves in darkness.</l>
+          <l><del>She moves through the court without speaking</del></l>
+          <l><del>seen <del>by an</del> only by a</del> She is solicited by Knollys;</l>
+          <l>seduced by Pembroke <del>without</del> <del>[dressed?]</del> up as a man</l>
+          <l><del>without opening her lips. We see her in the white</del></l>
+          <l>cloak only through the eyes of one Mrs [Maeken?]</l>
+          <l>who dwelt at the <rs type="place" ref="../resources/annotations.xml/pla-chop">Chopping Knife</rs> near</l>
+          <l>Ludgate". And her single letter to her sister,</l>
+          <l>only speaks ceremoniously of the passing of time.</l>
+          <l><del>So</del> <del>She</del> <del>The letters are all</del> <del>The common speech</del></l>
+        </p>
+        <p>
+          <l>Facts, <del>writing</del> She</l>
+        </p>
+        <p>
+          <l>Her own [passes?], the disgrace, the humiliation of the family</l>
+          <l>are all hidden under <del>the</del> flourishes &amp; ornament,</l>
+          <l>parables &amp; similes. <del><rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> is quoted</del>.</l>
+          <l>Spring &amp; summer: the frost that [illeg.] affection; the</l>
+          <l>flower of a garden – the <del>kn</del> <del>semblance</del></l>
+          <l><del>naturally</del> her, levity &amp; laughter in their old</l>
+          <l>metaphor; though the meaning – that the</l>
+          <l>man is in love with the girl &amp; wishes to</l>
+          <l>[breed?] from her <del>breaks</del> here &amp; again</l>
+          <l>Spenser is quoted. Indeed, the poets</l>
+          <l>have <del>taken from the pen</del> have made it</l>
+          <l>impossible for simple squires &amp; country</l>
+          <l>ladies to write English And behind their</l>
+          <l>florid decoration, their strained elegance,</l>
+          <l>the men &amp; women are [fallible?], crude,</l>
+          <l>[barbal?]; seducing each other; the</l>
+          <l>wolves &amp; foxes of the court pray &amp; raven.</l>
+          <l><del>Only we</del> The bastards are born. Reflections</l>
+          <l>are [illeg.] [Why?] what</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-4.3 [p. 10]">
+        <p>
+          <l>under cover of their flowery speech, the <del>real</del> Fitton &amp; the Knollys &amp;</l>
+          <l>the Pembrokes remain unseen. We only know of the [exchange?]</l>
+          <l>from the plays that were acted <del>at</del> <del>in</del> on the</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs> <del>that they felt</del> <del>excited</del> Anonymity</l>
+          <l><del>has</del> They too, like <del>Mar</del> the dramatist, are</l>
+          <l><del>nameless.</del> anonymous. <del>Only</del> <del>But all</del></l>
+          <l><del>But by a queer</del> <del>The</del> <del>The trappings are there.</del></l>
+          <l>No generation had more anxiety to preserve</l>
+          <l>the substance from decay. The tombs</l>
+          <l><del>tombs</del> They <del>seem to pretend</del> Their</l>
+          <l>graves are immaculately. <del>One</del> They defy death</l>
+          <l>with their great tombs. In life they</l>
+          <l>eat prodigously. They wear clothes that are</l>
+          <l>so heavy they can scarcely stand in them.</l>
+          <l>The outer life is as [illeg.]: as</l>
+          <l><del>great</del> cloth of gold &amp; marble can make it.</l>
+          <l><del>But the passions <del>that</del> <del>hunt in the</del> heart</del></l>
+          <l><del><del>are</del> within are <del>silent</del> Until the dramatists</del></l>
+          <l>speak <add place="above">for</add> them on the stage, they themselves are silent.</l>
+        </p>
+        <p>
+          <del>
+            <l><del>A literature</del> The nobles in the</l>
+            <l>upper part of the house then supplied</l>
+            <l>their 
+              <choice>
+                <sic>liverie</sic>
+                <corr>livery</corr>
+              </choice> the players &amp; the</l>
+          </del>
+        </p>
+        <p>
+          <l>Their attachment to the substance of the earth;</l>
+          <l><del>their</del> body; <del>their</del> the greed with which they</l>
+          <l>acquire; their catalogues of property of</l>
+          <l>furniture; their perpetual [illeg.] for</l>
+          <l>their estates. This has survived, in</l>
+          <l>inventories, in little supplicating places;</l>
+          <l><del>in the</del> For everything was their <del>at th</del> in</l>
+          <l>the gift of individuals, the family</l>
+          <l>It was the queen, or her nobles, who had the</l>
+          <l>[personal?] of patronage. <del>The</del> The</l>
+          <l>patron was in his prime. The book</l>
+          <l>depended on his favour. And yet in no</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-4.4 [p. 11]">
+        <p>
+          <l>age can there have been a deeper gulf between the writer &amp; <del>the</del></l>
+          <l>society. <del>The great</del> <del>who presumably</del> Who is</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-mrwh">Mr W. H.</rs> to whom a young poet has</l>
+          <l>dedicated his sonnets? No body troubles to</l>
+          <l>ask. It is not a matter of importance it seems in</l>
+          <l>court circles. The plays are not discussed.</l>
+          <l>The world of writers is too remote from the</l>
+          <l>court. The loves &amp; hates of these</l>
+          <l>descendants of the jugglers &amp; minstrels are too</l>
+          <l>have no bearing upon the life of the nobles.</l>
+          <l>And <del>the reason may be that</del> the</l>
+          <l>early works of 
+            <choice>
+              <sic>Shre.</sic>
+              <corr>Shakespeare</corr>
+            </choice> <del>call for no</del> breed no</l>
+          <l><del>out</del> comment. The reason may be that</l>
+          <l>the dramatists were not destroying anything:</l>
+          <l><del>If these</del> The indignation that, after the [fun?]</l>
+          <l>[illeg.]; then, the example created in</l>
+          <l>16th century <rs type="place" ref="../resources/annotations.xml#pla-lond">London</rs>, was in part the</l>
+          <l>rage of those who felt that their won</l>
+          <l>world was being [civilised?]. <del>People</del> <del>Great</del></l>
+          <l>The great might be mocked in some of the plays.</l>
+          <l>The censor was [flush?] to control any</l>
+          <l>irreverence. But <del>the releas</del> the</l>
+          <l>public at the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs> or the <rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs></l>
+          <l>could not <del>resent</del> feel, as the public in the 19th</l>
+          <l>century felt when <rs type="literary-work" ref="../resources/annotations.xml#lit-ghos">Ghosts</rs> was acted</l>
+          <l>that a writer had arisen who was</l>
+          <l>[distinguishing?] the old humbugs: who was</l>
+          <l><del>refle</del> <del>se</del> <del>holding</del> showing up <del>society</del></l>
+          <l>the unmoveable of society. And</l>
+          <l><del>the</del> after all, since prose was still</l>
+          <l>half poetry, <del>a</del> no separate birth, but</l>
+          <l><del>half</del> that function of the writer had</l>
+          <l>the critical spirit had no proper tool.</l>
+        </p>
+        </div>
+        <div xml:id="m1-8-4.5 [p. 12]">
+          <p>
+            <l><del>Then</del> <del>a</del><add place="inline">A</add>gain the curtain rises; <add place="inline">&amp;</add> the shadowy</l>
+            <l>insubstantial life that was <del>smothered</del> in</l>
+            <l><del>th</del> <del>in Cheshire, at [illeg.], invisible</del></l>
+            <l><del>ought to</del> of the country squire, of the maid of</l>
+            <l>honour is <del>visible to us</del> is revealed. The</l>
+            <l><del>all</del> in a round, almost before we have had</l>
+            <l>time to settle in our seats, we are</l>
+            <l>in the thick of <del>real powers</del>: of love; of adultery</l>
+            <l>of murder. Everything is on tip toe. The</l>
+            <l>mute silent <del>loves</del> figures are seen in all</l>
+            <l>their [bravery?]. The pressure of unexpressed</l>
+            <l>emotion, <del>of the things that</del> has embodied itself</l>
+            <l>into [illeg.], into the figures of <rs type="person" ref="../resources/annotations.xml#psn-frana">Frankland</rs> and <rs type="person" ref="../resources/annotations.xml#psn-franb">his wife</rs>:</l>
+            <l>in <rs type="person" ref="../resources/annotations.xml#psn-wend">Wendoll</rs> the adulterer; in <rs type="person" ref="../resources/annotations.xml#psn-acto">Acton</rs> the</l>
+            <l>the supper is laid; the cards are on the table; &amp;</l>
+            <l>the husband sees his wife lying [always?], in the</l>
+            <l>arms of her lover. <del>We</del> the old yellow pages,</l>
+            <l>with their blanks, their riddles, their [suppressions?]</l>
+            <l>that can no longer be deciphered, <del>are</del></l>
+            <l>give place to the outright downright speech.</l>
+            <l>In the play <add place="above">light</add> all is evident &amp; [outspoken?]. In</l>
+            <l>real life all is hidden <add place="above">&amp;</add> <del>covered</del> <del>over</del> suppressed:</l>
+            <l><del>the</del> <del>And</del> <del>The playwright has some of [colour?] in</del></l>
+          </p>
+          <p>
+            <add place="margin">
+              <l>all their concealed,</l>
+              <l>all their suppressed</l>
+              <l>[immediately?], as</l>
+            </add>
+          </p>
+          <p>
+            <l><del>But how far can</del></l>
+          </p>
+          <p>
+            <l>Anonymity is fast dispersing. The <del>play</del> dramatist</l>
+            <l>is <del>becoming self [anxious?]. The play is coming to be</del></l>
+            <l><del>the merits the</del> And <del>at some point, the</del></l>
+            <l>the dramatist is emerging from the <del>old</del></l>
+            <l>juggler &amp; the bear leader. He is <del>becoming</del></l>
+            <l>freeing himself from the compulsion of the audience.</l>
+            <l>He is <del>reserving</del> <del>A</del> <del>There is a</del> The</l>
+            <l><del>bodily, the actual,</del> If the body must still</l>
+            <l>dominate the little stage, if the</l>
+            <l>actual must be before the eye, &amp; the</l>
+          </p>
+      </div>
+      <div xml:id="m1-8-4.6 [p. 13]">
+        <p>
+          <l><del>bodies must move violently, killing, [kniving?], goint to bed,</del></l>
+          <l><del>there are</del></l>
+        </p>
+        <p>
+          <del>
+            <l>Killing, [kniving?], going to bed, adultery must still</l>
+            <l>be the staple of the play; but the staple of</l>
+            <l>of the <del>play</del> is    the <del>staple</del> there must be</l>
+            <l>action; murder; violence; adultery. But by degrees</l>
+            <l>the dramatist is freeing himself from the stage.</l>
+            <l>He is adding to his resources. There are</l>
+            <l>His <del>limits are still repressive.</del> There</l>
+            <l><del>is</del></l>
+          </del>
+        </p>
+        <p>
+          <l>And by degrees the dramatist sheds his</l>
+          <l>anonymity. He separates himself from his audience.</l>
+          <del>
+            <l>He wins <del>a</del> freedom. <del>Though the stage exacts</del></l>
+            <l><del>with an</del> in an <del>ande</del> <del>in the</del> to</l>
+          </del>
+          <l><del>He</del> He wins the right sometimes to fame, in an</l>
+          <l>[illeg.], sometimes to divert the mind from what</l>
+          <l>happens, to the motives, <del>the hidden passions.</del></l>
+          <l>behind the action. What, he broods, in a</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-woma">Woman Killed with Kindness</rs> <del>of</del> is the</l>
+          <l>effect of mercy? – if, the sword is withheld</l>
+          <l>if the adulterers are [empouted?] not with death,</l>
+          <l>but with a guilty conscience? –</l>
+          <l><del>and by degrees</del> <del>But</del> <del>The play has still</del></l>
+          <l><del>its <del>drag</del> <del>its</del> <add place="above">the</add> compulsion of <del>what</del> the</del></l>
+          <l><del>of the plot. It still.</del> But <del> here the reader</del></l>
+          <l><del>at some such point the reader is born:</del></l>
+          <l><del>the <del>close co</del> <del>actors</del> dramatists close</del></l>
+          <l><del>companion; <del>the</del> <del>detached</del> the reader, the</del></l>
+          <l><del>human being who writes</del>    So by degrees,</l>
+          <l>the reader too loses anonymity. The</l>
+          <l><del>reading the</del> As the plays comes</l>
+          <l>faster &amp; faster, as the curtin rises</l>
+          <l>yet again &amp; again – upon <rs type="person" ref="../resources/annotations.xml#psn-cmar">Marlowe</rs>, <rs type="person" ref="../resources/annotations.xml#psn-tkyd">Kyd</rs>,</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-they">Heywood</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jmar">Marston</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou">Tourneur</rs> – the</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-4.7 [p. 14]">
+        <p>
+          <l>reader <del>puts off</del> becomes <del>mould</del> differentiated,</l>
+          <l>say [an note?]; author that is, as a <del>great</del></l>
+          <l>world in which this is relevant, that not.</l>
+          <l>He chooses; discriminates. <del>He is not</del> And</l>
+          <l>the reader becomes himself aware</l>
+          <l>that there are <del>not</del>  in <del>this</del> in the</l>
+          <l>literature certain [connections?], things that</l>
+          <l>explain, that it may be, light up the</l>
+          <l>folds, give meaning to the house; curiosities;</l>
+          <l>knick knacks: <del>but also, <del>the is</del></del></l>
+          <l><del>what we recognise <del>as time</del> There are</del></l>
+          <l><del>people – whatever we mean when, by some</del></l>
+          <l>pattern of words, the [lot?] at the times, as</l>
+          <l>the great plays emerge out of the mist,</l>
+          <l>something that comes back to mind, in the</l>
+          <l>[illeg.] of the night: words that come to our</l>
+          <l>lips. <del>How we are in sight of that</del></l>
+          <l>we are coming into the current which is to</l>
+          <l><del>sweep aside the antiquary, which is to</del></l>
+          <l><del>crash over the</del></l>
+        </p>
+        <p>
+          <l>The reader indeed is soon to be [appreciated?].</l>
+          <l>This is one of the <del>delights</del> lures of the Elizabethans</l>
+          <l>that they [revive?] the seer, the hearer, the actor in us.</l>
+          <l><del>If by</del> <del>Our anonym</del> <del>At some point – it</del></l>
+          <l><del>differs from age to age, – the reader is born;</del></l>
+          <l><del>for in the</del>      <del>And anonymity</del></l>
+          <l>But <del>what we have</del> anonymity is a great power.</l>
+          <l>It <del>has made one</del> is a great possession –</l>
+          <l><del>a stage that has no</del> <del>writer</del> the Elizabethan page:</l>
+          <l><del>the</del> has kept the 
+            <choice>
+              <sic>Eth</sic>
+              <corr>Elizabethan</corr>
+            </choice> drama [vigour? vision?]</l>
+          <l>unattached; it has given it a general [state?]</l>
+          <l>vitality; a lack of personality; as</l>
+          <del>
+            <l>if all the [hours?] of the [19th?] century had been</l>
+            <l>cut away from W. &amp; [T?]. &amp; J. G. &amp; the B.</l>
+            <l>as if we could [slip?] the lives; the</l>
+            <l>[songs?]; the <del>as</del> a width, a bareness,</l>
+          </del>
+        </p>
+      </div>
+      <div xml:id="m1-8-4.8 [p. 15]">
+        <p>
+          <l>so that we forget something in ourselves when we</l>
+          <l>read it. <del>We</del> It gives us another being.</l>
+          <l>Only, as the unknown man who, it is said once</l>
+          <l>[held?] houses at the door, becomes more &amp;</l>
+          <l><del>more dominant, as [wine?] we fallen &amp;</del></l>
+          <l><del>stumble: we have to</del></l>
+        </p>
+        <p>
+          <l>Anonymity <del>h</del> gave us the ballads; it gave us the songs;</l>
+          <l>it <del>gave us</del> is a great preservative. To</l>
+          <l>know nothing except what is essential: to waste no</l>
+          <l>time prying &amp; peeping: <del>but to</del> to be</l>
+          <l>know nothing – who wrote <quote source="#" rend="inline">Lud Sing Cuccu</quote></l>
+          <l>who wrote <quote source="#" rend="inline">[Hilu Fan?]</quote> – who wrote the</l>
+          <l>[sonnets?] of [loys?], [mirthful], <del>who</del> but wrote to</l>
+          <l>[ful?] spring, <del>dea</del> love, death    <del>But</del>    That</l>
+          <l>And the stage with its bodies, its actors, taking</l>
+          <l>part for some time preserved this anonymous voice <del>only</del> until</l>
+          <l>when the <del>[senses?]</del> of the age, its hoard of</l>
+          <l>[unfilled?] patterns, the [illeg.] in the [armtials?]</l>
+          <l>of maids of [him?] &amp; [curtain?]; pressed so hard on the</l>
+          <l>dramatist that he invented a speech</l>
+          <l>that 
+            <choice>
+              <sic>cd.</sic>
+              <corr>could</corr>
+            </choice> give voice to everything.</l>
+          <l>Then, with 
+            <choice>
+              <sic>Shre</sic>
+              <corr>Shakespeare</corr>
+            </choice>, anonymity was destroyed..</l>
+          <l>Everything is known that can be known until</l>
+          <l>the stage becomes too small to act the</l>
+          <l>drama; &amp; <del>there is</del> the book takes the place of the</l>
+          <l><del>stage</del> play.</l>
+        </p>
+        <p>
+          <add place="margin">
+            <l>his [wright?] of</l>
+            <l>pause, <del>the</del></l>
+            <l><del>dumb like of the</del></l>
+            <l><del>king</del> held</l>
+          </add>
+        </p>
+        <p>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>, after all, has great privileges. He <del>can</del> is irrepressible.</l>
+          <l>He is not responsible. He is not self conscious. He is</l>
+          <l>free from infection. He can adventure &amp; experiment.</l>
+          <l>He can borrow. He can <del>jest</del> speak <add place="above">on &amp; on</add>. He can</l>
+          <l>say what everyone feels: the common experiences</l>
+          <l>are his. No one asks that he shall be</l>
+          <l>idiosyncratic: that he shall stamp his</l>
+          <l>[dull?] [illeg.] on the old feelings: He shapes</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-4.9 [p. 16]">
+        <p>
+          <add place="margin">
+            <l>And Anon the</l>
+            <l>dramatist also</l>
+            <l>speaks himself. For</l>
+            <l>the audience <del>requires</del></l>
+            <l>[feels?] still part of the</l>
+            <l>play, insists on</l>
+            <l>repetition: it must</l>
+            <l>be [adu?] to sit, a shad</l>
+            <l>[thorn?], have a</l>
+            <l>story: &amp; as poetry is</l>
+            <l>told in poetry, it</l>
+            <l>must have action:</l>
+            <l>[suicide?]: adultery.</l>
+            <l>The anticipation of the</l>
+            <l>audience to the</l>
+            <l>
+              <choice>
+                <sic>Ethn</sic>
+                <corr>Elizabethan</corr>
+              </choice> play was</l>
+            <l>[unfortunate?]. The</l>
+            <l>words will not</l>
+            <l>fit the speakers:</l>
+            <l>the [illeg.], the</l>
+            <l><del>[lapne?]</del> confusion:</l>
+            <l>no one feels what</l>
+            <l>they say, the</l>
+            <l>emotion is often</l>
+            <l>plastered onto a</l>
+            <l>inappropriate figures.</l>
+            <l>But if one must</l>
+            <l>have violence, how</l>
+            <l>avoid this</l>
+            <l>[illeg.]</l>
+          </add>
+        </p>
+        <p>
+          <l>at a distance from the moment. Nobody cares what</l>
+          <l>his own private experience is. And so the</l>
+          <l>songs of Anon repeat over &amp; over again what</l>
+          <l><del>that</del> Gather ye flowers while ye may; Death is</l>
+          <l>coming: Anon is never tired of celebrating</l>
+          <l>the Rose; <del>never</del> &amp; that his [illeg.] is white;</l>
+          <l>he is a repetitious, <del>co</del> And since he is</l>
+          <l>content to <del>say</del> go unnoted, we cannot</l>
+          <l>pin him down, we cannot</l>
+          <l>separate him from his song. He has</l>
+          <l>thus an anonymous vitality, drawn from</l>
+          <l>other bodies, a perennial, common vigour.</l>
+          <del>
+            <l>Nor is he dead in ourselves. The crude early</l>
+            <l>dramas still persuade us to read – not to</l>
+            <l><del>find</del> for the story. What comes next?</l>
+            <l>The <del>fil</del> <del>dramatist</del> Anon has little</l>
+          </del>
+          <l><del>care for the</del> <del>[Abound?]</del> So we become</l>
+          <l>anonymous, in the early literature.</l>
+          <l>It is only later, when the pressure of emotion had</l>
+          <l><del>ca</del> strewn up words, as <del>a</del> the fingers of a</l>
+          <l>the man at the <rs type="object" ref="../resources/annotations.xml#obj-mono">monotype machine</rs> cast</l>
+          <l>letters out of the bubbling metal, that</l>
+          <l>we lose this quality, to gain ––?––</l>
+          <l>everything it seems. For <del>there</del> <del>flocking</del></l>
+          <l>the curtain [gives?] on rising. And now it has</l>
+          <l>risen on <rs type="literary-work" ref="../resources/annotations.xml#lit-hen5">Henry the 5th</rs>; then on <rs type="literary-work" ref="../resources/annotations.xml#lit-mids">Midsummer Night</rs>:</l>
+          <l>on <rs type="literary-work" ref="../resources/annotations.xml#lit-rome">Romeo &amp; Juliet</rs>; on <rs>Hamlet</rs> &amp; <del><rs type="literary-work" ref="../resources/annotations.xml#lit-ancl">Cleo</rs></del> <rs type="literary-work" ref="../resources/annotations.xml#lit-temp">The Tempest</rs></l>
+          <l>By that time, there is nothing <del>left</del> unsaid:</l>
+          <l>the <del>whole of</del> <del>this</del> <del>so test</del></l>
+        </p>
+        <p>
+          <l>The play has killed the stage. The stage has</l>
+          <l>become too small to act this drama.</l>
+          <l>Perhaps after centuries, the play will</l>
+          <l>renew itself, with Mozart in the <rs type="literary-work" ref="../resources/annotations.xml#lit-magi">Magic Flute</rs>,</l>
+          <l>as with <rs type="person" ref="../resources/annotations.xml#psn-lbve">Beethoven</rs> in <rs type="literary-work" ref="../resources/annotations.xml#lit-fide">       .</rs>. It never</l>
+          <l>lived again in England. The book, after that, takes <add place="below">the place of the play</add></l>
+          <l>&amp; <del>the</del> Anon is dead for ever.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
