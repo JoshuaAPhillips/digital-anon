@@ -23,7 +23,7 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno>m109</idno>
+            <idno> <!-- m-number --> </idno>
           </msIdentifier>        
           <physDesc>
             <p>M109 [The Reader]. Typescript, fragment, with the author's ms. corrections, unsigned and undated. 9p.</p>
@@ -88,7 +88,7 @@
           <l>
             <choice>
               <sic>slves</sic>
-              <corr>themselves</corr>
+              <corr>selves</corr>
             </choice>. The <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs> must have players to divert her.</l>
           <l>With all his craft and caution he himself 
             <choice>
@@ -100,7 +100,7 @@
               <corr>substantiates</corr>
             </choice></l>
           <l>his meditations, gives them a body, a name a shape.</l>
-          <quote source="#" rend="inline">
+          <quote source="">
             <l>"Nay, retire men cannot, when they would: 
               <choice>
                 <sic>neihter</sic>
@@ -133,7 +133,7 @@
               <sic>themslves</sic>
               <corr>themselves</corr>
             </choice> making it possible</l>
-          <l>for the dramatist to <add>[illeg.]</add> impart them where they seemed</l>
+          <l>for the dramatist to <add><!--come back to this--></add> impart them where they seemed</l>
           <l>
             <choice>
               <sic>i appropitae</sic>
@@ -158,7 +158,7 @@
               <corr>invisible</corr>
             </choice> garment of anonymity were</l>
           <l>Gos spies, in the streets, also at Court.</l>
-          <l>If at <rs type="place" ref="../resources/annotations.xml#pla-gree">Greenwich</rs> or at <rs type="place" ref="../resources/annotations.xml#pla-whit">
+          <l>If at <rs type="place" ref="../resources/annotations.xml#pla-gren">Grenwich</rs> or at <rs type="place" ref="../resources/annotations.xml#pla-whit">
             <choice>
               <sic>Whotehall</sic>
               <corr>Whitehall</corr>
@@ -260,13 +260,13 @@
             </choice> becomes solid and</l>
           <l>entire in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif">Anne Cliffords</rs> diary.</l>
           <l><add hand="ms" place="above">From the first she is aware of her rights of a noble.</add> She is aware from her first youth of her rights as a</l>
-          <l>land owner. <add hand="ms" place="margin">of what was due to her birth, then, as she grows older, she fights <!-- come back to this --> for her land</add> She has a profound sense of the</l>
+          <l>land owner. <add hand="ms" place="margin">of what was due to her birth, then, as she grows older, she fights <!-- come back to this --> </add> She has a profound sense of the</l>
           <l>the rights of the 
             <choice>
               <sic>possesor</sic>
               <corr>possessor</corr>
             </choice>. The body is visible to her.</l>
-          <l><add hand="ms" place="above">what she [illeg.], the [illeg.]<!-- come back to this --></add>She is for ever rebuilding castles,</l>
+          <l><add hand="ms" place="above"><!-- come back to this --></add>She is for ever rebuilding castles,</l>
           <l>acquiring land, asserting her rights to property,</l>
           <l>claiming diamond buttons, making 
             <choice>
