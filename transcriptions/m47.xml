@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M47 [Anon]. Holograph fragments, undated. Some pages paginated 1-3. 11p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m47</idno>
+          </msIdentifier>        
+          <physDesc>
+          <p>M47 [Anon]. Holograph fragments, undated. Some pages paginated 1-3. 11p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m47.1">
+        <p>
+          <l>1</l>
+        </p>
+        <p>
+          <l><quote source="" rend="inline">For why a gods name</quote></l>
+          <l>– thus he proves that he was word conscious, an artist,</l>
+          <l>aware of the <del>possibilities, of the limitations</del> of his medium.</l>
+          <l><del>Its</del> <del>He</del> <del>The</del> <add place="above">aware that</add> words, not paint, not music; words themselves.</l>
+          <l>He To be thus aware of language, the writer must</l>
+          <l>have a past behind him, just as the historian <add place="above">must</add>, in</l>
+          <l>order to see the present moment, must <add place="above">set it against</add> the past <add place="above">in counter [illeg.]</add></l>
+          <l>behind him. <del>There must be a golden age; the</del></l>
+          <l><del>must be corrupt, degenerate, fallen.</del> <del>But</del></l>
+          <l>The golden age of English was to <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> the age of</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> – <quote source="#" rend="inline">"Dan Chaucer, well of English undefiled"</quote></l>
+          <l><del>The language</del> <del>He</del> <del>There is</del> <del>The</del> <del>he</del></l>
+          <l><del>Chaucer</del> again – he prays: <quote source="#" rend="inline">that the infusion</quote></l>
+          <l><quote source="#" rend="inline">sweete</quote></l>
+          <l><quote source="#" rend="inline">of thine owne spirit which doth in me survive</quote></l>
+          <l><del>He</del> <del>But there</del> <del>It is the language he loves</del></l>
+          <l><del>Unlike</del> <del>In his</del> <del>At his moment</del></l>
+        </p>
+        <p>
+          <del>
+            <l>It <del>was</del> He looked back to Chaucer –</l>
+            <l>differing from the What Spenser saw <del>this was</del></l>
+            <l>then across the dumb age of church buildings, of</l>
+            <l>was <del>the</del> <del>long</del> Chaucer <del>It was</del></l>
+          </del>
+          <l>The <del>language of Chaucer was what he</del> his</l>
+          <l>It was <del>by Chaucer</del> <add place="above">by</add> <del>through</del> Chaucer <del>that</del> saw himself</l>
+          <l><del>his work</del> <add place="above">[illeg.]</add> the measure of his own speech.</l>
+          <l>Where the modern writer <del>wrote a long time</del> of</l>
+          <l>has <del>close at hand</del> attacks the generation which</l>
+          <l>has just gone, using them as <del>the</del> his <add>taking off in the opposite direction</add></l>
+          <l>lane of departure, <del>C</del> Spenser's <del>had no</del></l>
+          <l>revolt was against no particular writer, but</l>
+          <l>against the language itself, its decay, since</l>
+          <l>Chaucer, its corruption. <del>Perhaps</del> This once</l>
+          <l><del>Partly perhaps,</del> <del>Whe</del> <del>Perhaps as an antidote</del></l>
+        </p>
+      </div>
+      <div xml:id="m47.2">
+        <p>
+          <l>When the <rs type="person" ref="../resources/annotations.xml#psn-duno">duchess of Norfolk</rs>, the wife of <rs type="person" ref="../resources/annotations.xml#psn-easu">Lord Surrey</rs> <del>who</del> the poet</l>
+          <l>who was executed <del>comes to the surface</del> <add place="above">writes</add>, she writes:</l>
+          <l>Only in some extremity of passion or of need do they <del>come to</del></l>
+          <l>take up the pen. <del>She</del> The sound of the Bible is in</l>
+          <l>their ears. <del>As if</del> It is a garment only to be put on when the</l>
+          <l>being is in <del>an attitude</del> a certain attitude.</l>
+          <l>And the garment may of course conceal a <rs type="person" ref="../resources/annotations.xml#psn-abac">Lady Ann</rs></l>
+          <l>who is merry, who is, normally, <del>occupied with</del></l>
+          <l><del>happy</del> amused, or charming, or – we cannot tell</l>
+          <l>what real woman lives in the other side of that</l>
+          <l>wall of words.</l>
+        </p>
+        <p>
+          <l>Using the prose of the Bible then, the</l>
+          <l>Elizabethans are shut off from us. They can say</l>
+          <l>nothing subtle, nothing little. Bright contrasted</l>
+          <l>colours meet on their faces: carnation &amp; snow, ebony &amp;</l>
+          <l>gold. <del>Stitched into their doublets,</del> <del>the young men look</del></l>
+          <l>Young men's bodies <del>look</del> are stiffly sewn into padded</l>
+          <l>doublets, school boys faces are raised above</l>
+          <l>starched collars &amp; young women serve only to</l>
+          <l>display heavy [guiled?] robes [strewn?] about with</l>
+          <l>huge pearls.</l>
+        </p>
+        <p>
+          <l>....</l>
+        </p>
+        <p>
+          <l><del>But the writ</del></l>
+        </p>
+        <p>
+          <del>
+            <l>The separation of the writer from the audience–</l>
+            <l><del>was</del> the creation of a <add place="above">an art of</add> writing, <del>profession art</del></l>
+            <l>seems to have been slow</l>
+            <l><del>When the</del> <del>the</del> <del>writer</del></l>
+            <l><del>The writer</del> <del>The speaking voice</del> <del>When the</del></l>
+            <l>the <del>speaking voice is concealed with the writing voice</del></l>
+            <l>If familiar letters are written in biblical English,</l>
+            <l><del>the writer cannot be</del> then the writer</l>
+          </del>
+        </p>
+      </div>
+      <div xml:id="m47.3">
+        <p>
+          <l>3</l>
+        </p>
+        <p>
+          <l><add place="above">from the air</add> foundations of old houses are still marked, we should see the house</l>
+          <l><del>in</del> connected with the village. We should see <del>here</del> a</l>
+          <l><del>ring in the</del> a ring, an oasis, in the midst of</l>
+          <l>fields &amp; forests: the road a mere track: &amp; the</l>
+          <l>oasis thus like a fortress built against the</l>
+          <l>uncivilised <del>country</del>; if out, against the <del>sige</del> siege – the</l>
+          <l>everlasting sieve. <del>of</del> If the enemy comes there <del>are</del> is</l>
+          <l>armour in the church. If [flood?] &amp; hunger. then there is</l>
+          <l>grain in the great barn. <del>And for the spirit <del>there</del> it is</del></l>
+          <l><del><del>too</del> and to feed the mind</del> <del>But for the hunger of the</del></l>
+          <l><del>mind, the curiosity, the desire to escape from</del></l>
+          <l><del>there <del>were books [illeg.]</del></del> That connection <del>is</del></l>
+          <l>between house &amp; church, master &amp; labourer,</l>
+          <l>is <del>obvious</del> detailed in the <rs type="person" ref="../resources/annotations.xml#psn-past">Paston</rs> letters, making</l>
+          <l>indeed the staple of that correspondence. <del>But</del></l>
+          <l><del>the less visible connections is to</del> there is <add place="above">was</add> also the</l>
+          <l>other connection, which, <del>just as the <del>of</del></del></l>
+          <l>the <del>bodily connection was</del> <del>looked</del> ended by</l>
+          <l><del>the</del> has become <del>almost invisible now;</del> the</l>
+          <l>that bond between the great house &amp; the small</l>
+          <l>has faded till it is like one of those perhaps</l>
+          <l>rather greener lanes <del>her</del> still to be found in England</l>
+          <l>along which antiquarians say the <rs type="person" ref="../resources/annotations.xml#lit-cant">pilgrims</rs> went to</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#pla-cant">Canterbury</rs>. <del>When</del> <add place="above">Yet</add> the scholars tell us that</l>
+          <l>so the scholars tell us <del>that</del> how</l>
+          <l><del>long before Chaucer,</del> how long before the <del>to</del></l>
+          <l>Christians came, the <del>sun was</del> fire <del>was a god</del> <add place="above">was worshipped</add></l>
+          <l>or the sea was a god, &amp; how their</l>
+          <l>ancient worship <del>was</del> <add place="above">went</add> was beneath the</l>
+          <l>other; &amp; <del>how the harvest was</del> &amp; they</l>
+        </p>
+      </div>
+      <div xml:id="m47.4">
+        <p>
+          <l>The man then who stood on the threshold of the great</l>
+          <l>Elizabethan room was <del>separate from the chronicler</del></l>
+          <l>separate from <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>, the <del>singer</del>, &amp; separate from</l>
+          <l>the chronicler. <del>He was</del> separate from his</l>
+          <l>audience. <del>He had emerged;</del> <del>But</del> <del>Directly</del></l>
+          <l>the creative instinct, <del>the desire to</del> had singled out</l>
+          <l>chosen words for its medium. <del>And</del> The <del>pre</del> press which</l>
+          <l>had given <del>him</del> those words a separate existence;</l>
+          <l><del>the reader had been</del> had <del>called into ex</del></l>
+          <l><del>created a reader: &amp;</del> <del>the reader, the individual</del></l>
+          <l>an <del>un</del> public, a reading public, <del>to</del> And with the</l>
+          <l><del>existence of a public </del> began to exert its</l>
+          <l>presentce. But it was a small public, an aristocratic public. <del>And then, when we</del></l>
+          <l><del>find Spenser, standing at the door, we</del></l>
+          <l><del>can</del> And so, <del>with Spenser perhaps</del></l>
+          <l>we come for the <del>first time</del> <del>into the</del></l>
+          <l><del>presence of</del> <add place="above">to</add> the book which is <del>influenced</del></l>
+          <l><del>not anonymous, not spontaneous, not</del></l>
+          <l>is influenced; <del>not</del> in which we can <del>still</del></l>
+          <l>detect <del>other</del> the <del>beginning of</del> <del>all it</del></l>
+          <l><del>all those tugs, plays</del> additions, influences,</l>
+          <l><del>of</del> <del>apart from the original and pure</del></l>
+          <l><del>interior.</del> playing on the original instinct &amp;</l>
+          <l>giving it that alloy <add>[illeg.]</add> <del>when</del> which</l>
+          <l>as time goes on, become so innumerable</l>
+          <l><del>that</del> so distracting: the <del>presence</del> <add place="above">effect</add> of the</l>
+          <l>audience – <del>could we</del> <del>the curiousness</del></l>
+          <l>who will read this; what will be to</l>
+          <l>their liking, what will offend them</l>
+          <l>What book will find favour with Lady</l>
+          <l>Ann? What will please <rs type="person" ref="../resources/annotations.xml#psn-psid">Sir Philip</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs>what will flatter the</l>
+        </p>
+      </div>
+      <div xml:id="m47.5">
+        <p>
+          <l>2</l>
+        </p>
+        <p>
+          <l>the group of nobles, after hunting? what will prove that</l>
+          <l>Edmund Spenser, for example, deserves a post, a pension?</l>
+          <l><del>Thes</del> These are the outer influences that stamp</l>
+          <l>themselves upon the pure desire. <del>Thus</del> <del>This is the</del></l>
+          <l><del>atmosphere which draws out, finds, at some times</del></l>
+          <l><del>is favourable, at others checks &amp; [illeg.]</del></l>
+          <l><del>But</del> <del>Further, there are</del> Further there are the other</l>
+          <l>influences; the <del>del</del> <del>pressure</del> <del>of wealth, rank. &amp; leisure</del></l>
+          <l>education, &amp; class, wealth &amp; poverty always</l>
+          <l>at their work, tugging, obscuring distorting.</l>
+          <l>Some are visible only to the writer himself;</l>
+          <l>others only to the reader. More &amp; more</l>
+          <l>complex do they become, as the book with the</l>
+          <l>author's name on it goes out to a</l>
+          <l>larger public, to a more complex public, to a</l>
+          <l>public that has emerged sufficiently from</l>
+          <l>the silence of the middle ages to be</l>
+          <l>educated, partly educated, to desire</l>
+          <l>humour, story, amusement, instruction,</l>
+          <l>or [illeg.] something to make them forget <del>what</del></l>
+          <l>the private life which is so drab.</l>
+          <l>When Spenser <del>wrote</del> When the book is thus</l>
+          <l>covered over, <del>An</del> the song, the thing that the</l>
+          <l>writer set out to say, begomes increasingly</l>
+          <l>disguised. It is only to be discovered in a</l>
+          <l>flash of recognition; some say they feel it</l>
+          <l>when their beards bristle; others that a</l>
+          <l>thrill runs down the nerves of the thigh.</l>
+          <l>To disengage the <del>sur</del> song from the</l>
+          <l>influence of the audience becomes a</l>
+          <l>task for the critic –– an official who</l>
+          <l>scarcely exists when Spenser emerged from</l>
+        </p>
+      </div>
+      <div xml:id="m47.6">
+        <p>
+          <l>3 depths of silence, writing that <del>was</del> <del>long</del> vast poem</l>
+          <l>the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Faery Queen</rs></l>
+        </p>
+        <p>
+          <l>The artist however had chosen his medium. The</l>
+          <l>great English art was not to be <del>l</del> music, or painting:</l>
+          <l>it was to be the art of words. And if we call</l>
+          <l><add place="margin">we call</add> Spenser the first artist, it is because we <del>can</del></l>
+          <l><del>are aware of his</del> <del>of his</del> <add place="above">he was</add> awareness of his medium</l>
+          <l>He was conscious not only of his public, not only</l>
+          <l>of his own need, a poor man, of patronage &amp;</l>
+          <l>support, but of the <del>limitations of the</del> fact that</l>
+          <l>the language was truly an [incitement?]</l>
+          <l><del>It</del> "Let us be Kings of our language...</l>
+          <l><del>Let</del> In order <del>to be an artist, must one</del></l>
+          <l>The writer, like the chronicler, in order to see his</l>
+          <l>medium cautiously, must be aware of the past</l>
+          <l><del>There</del> There must be a golden age behind him; &amp;</l>
+          <l><del>y</del> the present must be fallen, degenerate.</l>
+          <l>But which <del>we</del> the modern writer, who has a</l>
+          <l>long tradition behind him, <del>who</del> naturally</l>
+          <l>attacks the <del>old</del> generation which has just</l>
+          <l>past, thus giving himself a person to</l>
+          <l>revolt against, the writer in Spenser's time,</l>
+          <l>had no definite past. This is a more general</l>
+          <l>reaction. This <del>rather</del> a sense of the</l>
+          <l>[delicacy? debauchery?] the decay the language of its</l>
+          <l>that he has to correct, rather than</l>
+          <l>his actual predecessors.</l>
+        </p>
+        <p>
+          <l>Thus Spenser, on the threshold of his</l>
+          <l>work as a poet, did not demolish his</l>
+          <l>predecessors; he complained of the</l>
+          <l>debasement of English speech: <del>&amp; the</del></l>
+          <l>He <del>used</del> the old <del>Chaucerian</del> language</l>
+          <l>recovered the old words, <del>the</del> Chaucers</l>
+          <l>words. <del>He</del> Curious perhaps of his own</l>
+        </p>
+      </div>
+      <div xml:id="m47.7">
+        <p>
+          <l>2.</l>
+        </p>
+        <p>
+          <l>The writer then, came to birth with difficulty in England:</l>
+          <l>for so long as familiar letters are written in biblical</l>
+          <l><del>prose, he must remain</del> be <del>only</del> <del>confined</del> there are</l>
+          <l>limits <del>to his</del> –– <del>something that remains unfitting</del></l>
+          <l><del>a</del> to his freedom; a barrier between the sayable &amp;</l>
+          <l>the unsayable. He is writing, for the printing press has</l>
+          <l>given him a name; but <del>as yet suppressed in the</del></l>
+          <l><del>submerged; it</del> <del>oppressed, by</del> <del>what</del> the</l>
+          <del>
+            <l>contorted <del>at many</del> by <del>wh</del> <del>in</del> the inadequacy <del>in</del> <add place="above">of</add> his</l>
+            <l>instrument; <del>its</del> which, <del>when it</del> <del>if</del> it seems must</l>
+            <l>take <del>evade</del> dumb, unable, that is,</l>
+            <l><del>it cannot</del> but <add place="above">he</add> still <del>submerged;</del> <del>partly by</del></l>
+          </del>
+          <l>unspecialised, undifferentiated. <del>There is a passage in</del></l>
+          <l><del>The eye was</del> <del>For one</del> <del>He was, seeing;</del> The artist</l>
+          <l>is not wholly writer, wholly musician, or wholly</l>
+          <l>painter. It seems possible that the great English art</l>
+          <l>may not be the art of words. His</l>
+          <l>eye <del>was</del> <add place="above">is</add> stimulated <del>in that empty world</del>, by the</l>
+          <l>colours <add place="above">of the</add> of the clothing. His ear <del>was</del></l>
+          <l><del>stimulated</del> by the sound of <add place="above">music</add> words. <quote rend="inline" source="#">"Pritchard"</quote> said</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif">Lady Ann Clifford</rs> <quote rend="inline" source="#">read aloud <del>They</del> The Faery Queen..."</quote></l>
+          <l>England was given substance &amp; sharpness of the</l>
+          <l>speaking voice. And <del>the</del> music gave lilt &amp;</l>
+          <l>rhythm, melody to the spoken word.</l>
+          <l><quote rend="inline" source="#">"Hardly one lighter or boat in three that had the</quote></l>
+          <l><quote rend="inline" source="#">goods of a home in it <del>"</del> but there was a</quote></l>
+          <l><quote rend="inline" source="#">pair of virginals in it"</quote> <rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> observed, in 1666,</l>
+          <l>when the people of London were loading their</l>
+          <l>goods onto boats in the great fire. His</l>
+          <l>world then was full of undifferentiated words:</l>
+        </p>
+      </div>
+      <div xml:id="m47.8"> <!-- come back to this! -->
+        <p>
+          <l>3.</l>
+        </p>
+        <p>
+          <l>old words &amp; new words; French &amp; Latin. No grammar</l>
+          <l>held them tightly together. They were elastic, they</l>
+          <l>could be danced to &amp; sung to. But they could</l>
+          <l>not follow the sound of the speaking voice.</l>
+        </p>
+        <p>
+          <l>Spenser then in the Faery Queen seems like a</l>
+          <l>half articulate monster, rising from the depths of</l>
+          <l>silence, <del>with</del> hung with the weeds &amp; pearls of <del>that</del></l>
+          <l>the deep sea in which the writer had been</l>
+          <l>submerged. <del>The Faery Queen</del>: <del>is</del> we cannot read it: <add place="margin">the 
+            <choice>
+              <sic>Fr Q.</sic>
+              <corr>Faerie Queene</corr>
+            </choice></add></l>
+          <l>we cannot leave it unread. <del>This</del> is a poem without a plot;</l>
+          <l>the metre, casting its regular fling, but somehow</l>
+          <l>comes to ground too [wholy?]. Unlike Chaucer who</l>
+          <l>goes ahead, simply, directly, <del>It</del> The Knights, the</l>
+          <l>ladies, <del>become</del> <del>loo</del> are <del>see</del> disembodied:</l>
+          <l><del>what</del> &amp; <del>the</del> But <del>we cannot leave</del> it unread:</l>
+          <l>it has <del>the vitality of the</del> we see it: the</l>
+          <l><del>compound</del> in groups, like <del>[illeg.]</del> the great</l>
+          <l>caravans, painted, brought together into <del>the</del></l>
+          <l>the [illeg.] comes together on the [finial?]</l>
+          <l>from the ground. Sometimes the comment is</l>
+          <l>perfectly free, expressive <del>of some</del> still of</l>
+          <l>some emotion; &amp; then the [warbly]</l>
+          <l>becomes sound merely, the [illeg.] merely,</l>
+          <l>an incantation; &amp; it passes</l>
+          <l>away like a cloud; sleep, indifference,</l>
+          <l>[illeg.], along the ear, – still</l>
+          <l>we must return to it, because of the</l>
+          <l>language – partly for that love of the</l>
+          <l>old they seem: it is the thing itself: not </l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wmor">Morris</rs> or <rs type="person" ref="../resources/annotations.xml#psn-aten">Tennyson</rs>: <del>it is</del> &amp; [pearly?]</l>
+          <l>a [illeg.] such a poem as an exile might</l>
+          <l>write by way of refuge from the</l>
+          <l>damp <del>of</del> &amp; the savagery of the Irish</l>
+          <l>country</l>
+        </p>
+      </div>
+      <div xml:id="m47.9">
+        <p>
+          <l>voluptuous, his love of sound, <del>his</del> <del>addiction</del> the sweetness of the</l>
+          <l>his private vocabulary, he tried to harden &amp; <del>ground</del></l>
+          <l>stiffen his poem with the ruder speech which Chaucer</l>
+          <l>used. For there was nothing, in the years that</l>
+          <l>came between the Canterbury Tales and the Faery Queen</l>
+          <l>for him to destroy; or to abolish.</l>
+        </p>
+        <p>
+          <l><del>Then again</del></l>
+          <l>He stands then, at the threshold of the great hall,</l>
+          <l>– <quote source="#" rend="inline">"a little man with short hair, a small hand &amp;</quote></l>
+          <l><quote source="#" rend="inline">cuffs'</quote>– looking back at Chaucer; &amp; <del>He</del></l>
+          <l>This public is a reading aloud public of nobles;</l>
+          <l>&amp; he has, <del>perhaps</del> <add place="above">the</add> disturbing [anticipation?]</l>
+          <l>of a language to whuch anything may happen.</l>
+          <l>His desire to fasten to to the old English of</l>
+          <l>Chaucer arose perhaps from <del>his</del> a</l>
+          <l>sense <del>that we cannot</del> sense long lost to us -–</l>
+          <l>a sense of the future. <del>Suppose that he</del></l>
+          <l>Why <del>look back to Chaucer, why graft his</del></l>
+          <l>what was going to happen to this new</l>
+          <l>[attendantly?] growing speech which he must</l>
+          <l>with his sensibility to words he must have</l>
+          <l>felt – everywhere – in talk, in songs –</l>
+          <l><del>it</del></l>
+        </p>
+        <p>
+          <l>And <del>so we reach the force wh.</del></l>
+          <l><del>The future</del> <del><del>This is a sense that only comes</del></del></l>
+          <l>The sense of the future is almost extinct, now.</l>
+          <l>But then, the writer must have been</l>
+          <l>aware, with the agitation of Spenser</l>
+          <l>that <del>something</del> it was all to come.</l>
+        </p>
+      </div>
+      <div xml:id="m47.10">
+        <p>
+          <l>The <rs type="object" ref="../resources/annotations.xml#obj-pill">pilliwinks</rs> were applied to her, how she had sailed</l>
+          <l>in a [sieve?] singing, how she had raised a storm in the</l>
+          <l>north sea &amp; sunk the kings ships. The great house was not</l>
+          <l>silent then. In <del>the</del> <del>tries</del> There were [birds? bodies?] in the trees,</l>
+          <l>a deep murmur of old forgotten things humming in the</l>
+          <l>mind. And down the roads came the wandering singer,</l>
+          <l>lewd, impudent; but to Spensers ear: but <del>he had seen,</del></l>
+          <l>who had seen, at the Green players acting his already</l>
+          <l>past before Queen Elizabeth.</l>
+        </p>
+      </div>
+      <div xml:id="m47.11">
+        <p>
+          <l>to the shelves of college libraries were the Greek &amp;</l>
+          <l>Roman classics. The learned read them; &amp; the nobles.</l>
+          <l><quote source="#" rend="inline"><add place="margin">"</add>...our ancient ladies of the court"</quote> when they</l>
+          <l><del>did the</del> were to be found reading the holy</l>
+          <l>scriptiores or they did their needlework; &amp;</l>
+          <l>histories; Chaucer, <rs>Lydgate</rs> <rs>Wycliffe</rs> made no</l>
+          <l>show against these august ancients</l>
+          <l>There they sit, in the palace, embroidering, reading,</l>
+          <l>playing their musical instrument; &amp;</l>
+          <l>the background of the mind is in Italy, in France, in</l>
+          <l>Greece; <del>but in the foreground is England,</del></l>
+          <l><del>the background of the</del> <del>b</del> <del>eye is</del> eye is</l>
+          <l><del>when he looks back, into the physical eye,</del></l>
+          <l><del>he s</del></l>
+        </p>
+        <p>
+          <l><del>It</del> <rs type="person" ref="../resources/annotations.xml#psn-agrip">Agrippa</rs> <rs type="person" ref="../resources/annotations.xml#psn-suet">Suetonius</rs> <rs type="person" ref="../resources/annotations.xml#psn-plin">Pliny</rs> <rs type="person" ref="../resources/annotations.xml#psn-cice">Cicero</rs> – they are in</l>
+          <l>the background they are the ancestors <del>to</del> <add place="above">with</add> whom the</l>
+          <l>learned Elizabethan classes [Kindness?]; but in the</l>
+          <l>foreground there is the <del>pla</del> <del>Palace</del> house, <del>with its</del></l>
+          <l><del>now built of stone</del>, no longer a hut made of branches,</l>
+          <l>no longer <del>a</del> <del>ma</del> <del>of</del> a <del>cold</del> <del>smoky</del> <del>home</del></l>
+          <l>thick with smoke, <del>no</del> with a log for a pillow:</l>
+          <l><del>It is now</del> It is now almost too luxurious</l>
+          <l>for an old clergyman; with pillows, &amp;</l>
+          <l>silver, &amp; glass windows; and the</l>
+          <l>Queen has a [barge?] &amp; <del>the</del> London is a </l>
+          <l>city; &amp; there, 
+            <choice>
+              <sic>tho</sic>
+              <corr>though</corr>
+            </choice> he cannot see</l>
+          <l>himself</l>
+          <l>is <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs>, a [illeg.] yet</l>
+          <l>kindly man, using language,</l>
+          <l>
+            <choice>
+              <sic>wh.</sic>
+              <corr>which</corr>
+            </choice> 
+            <choice>
+              <sic>wd</sic>
+              <corr>would</corr>
+            </choice> have shocked his ancestors,</l>
+            <l>adding a patron, <rs type="person" ref="../resources/annotations.xml#psn-wcob">Lord Cobham</rs>, in</l>
+          <l>flowing [prose?] that 
+            <choice>
+              <sic>wd</sic>
+              <corr>would</corr>
+            </choice> have shocked</l>
+          <l>his ancestors, &amp; owning a mastiff.</l>
+          <l><del>The</del> The age of anonymity is over.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

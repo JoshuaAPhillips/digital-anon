@@ -179,7 +179,7 @@
           <l>solid and entire in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif">Anne Clifford</rs>s</l>
           <l>diary. From childhood she was tenacious of her hereditary</l>
           <l>rights--her father had the right to carry the Kings</l>
-          <l>sword <quote source="">"and so it lineally 
+          <l>sword <quote source="#" rend="inline">"and so it lineally 
             <choice>
               <sic>descnded</sic>
               <corr>descended</corr>
@@ -190,7 +190,7 @@
               <sic>he</sic>
               <corr>her</corr>
             </choice> lands in <rs type="place" ref="../resources/annotations.xml#pla-west">Westmoreland</rs>.</l>
-          <l><quote source="">"... I would 
+          <l><quote source="#" rend="inline">"... I would 
             <choice>
               <sic>bever</sic>
               <corr>never</corr>
@@ -199,7 +199,7 @@
               <sic>estmoreland</sic>
               <corr>Westmoreland</corr>
             </choice> while I lived</quote></l>
-          <l><quote source="">upon any condition whatsoever"</quote> she told him. When the</l>
+          <l><quote source="#" rend="inline">upon any condition whatsoever"</quote> she told him. When the</l>
           <l>lands and the five castles were hers, she instantly began</l>
           <l>rebuilding; Not only the land was hers, but</l>
           <l>diamond buttons, rubies, fur cloaks. She As if to solidify</l>
@@ -371,7 +371,7 @@
           <l>the <del hand="ms">gulf silence</del></l>
         </p>
         <p hand="ms">
-          <l><del hand="ms">So</del> <!-- come back to this... --></l>
+          <l><del hand="ms">So</del> Anonymity thus lay over the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs><!-- come back to this... --></l>
         </p>
       </div>
       <div xml:id="m111-3.5">
@@ -409,7 +409,11 @@
       <div xml:id="m111-3.6">
         <p>
           <l>185</l>
-          <l>the horse had a green tail… What had happened <choice><sic>tp</sic><corr>to</corr></choice> her?</l>
+          <l>the horse had a green tail… What had happened 
+            <choice>
+              <sic>tp</sic>
+              <corr>to</corr>
+            </choice> her?</l>
           <l>When she looked out again, the flowers had vanished.</l>
           <l><rs type="person" ref="../resources/annotations.xml#psn-bart">
             <choice>
@@ -437,7 +441,7 @@
                 <corr>like</corr>
               </choice> a leaf? Lucy queried.</l>
             <l>looking up from her letter.</l>
-            <l>The newspaper dropped.</l>            
+            <l>The newspaper dropped.</l>
           </p>
           <p>
             <l>"Done?" said Giles taking it from his fathers hand.</l>
@@ -521,7 +525,7 @@
             </choice></rs>. He labours to supply</l>
         <l>the sunk parts of the play;  <del hand="ms">he labours</del> to revive</l>
         <l>the vanished cooperation between the playwright and the</l>
-        <l>audience. And heis perpetually rebuffed. He cannot</l>
+        <l>audience. And he is perpetually rebuffed. He cannot</l>
         <l>read the play into 
           <choice>
             <sic>comlete</sic>

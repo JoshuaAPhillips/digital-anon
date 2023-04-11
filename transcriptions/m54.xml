@@ -82,11 +82,14 @@
               <corr>name</corr>
             </choice> is also <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs>. Harrison emerging from the past</l>
           <l>tells us that he has a library; that he owns a mastiff;</l>
-          <l>that he digs up Roman coins. He tells us that he has 
-            <choice>
-              <sic>nev   ben</sic>
-              <corr>never been</corr>
-            </choice></l>
+          <l>that he digs up Roman coins. He tells us that he has <choice>
+                <sic>nev</sic>
+                <corr>never</corr>
+              </choice> 
+              <choice>
+                <sic>ben</sic>
+                <corr>been</corr>
+              </choice></l>
           <l>more than forty miles from <rs type="place" ref="../resources/annotations.xml#pla-radw">radwinter</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse">Essex</rs>. Anon is</l>
           <l>losing his ambiguity. The present is becoming visible.</l>
           <l>Harrison sees the pxmxmxmxmsx the present 
@@ -109,8 +112,8 @@
       <div xml:id="m54.2">
         <p>
           <l>8</l>
-          <l>Upstairs in the great room , as he tells us, <quote source="">"our ancient</quote></l>
-          <l><quote source="">ladies of the court"</quote> were to be found reading the</l>
+          <l>Upstairs in the great room , as he tells us, <quote source="#" rend="inline">"our ancient</quote></l>
+          <l><quote source="#" rend="inline">ladies of the court"</quote> were to be found reading the</l>
           <l>Greeks and the Latins. as they sat at their needlework.</l>
           <l>And the 
             <choice>
@@ -273,13 +276,13 @@
               <sic>coircomlocution</sic>
               <corr>circumlocution</corr>
             </choice> and</l>
-          <l>dark threats. <quote source="">"I have sent them by 
+          <l>dark threats. <quote source="#">"I have sent them by 
             <choice>
               <sic>th</sic>
               <corr>the</corr>
             </choice> boy of my kitchen,</quote></l>
-          <l><quote source="">a shrewd witted boy and prettily cachetized, but yet an</quote></l>
-          <l><quote source="">untoward crafty boy..."</quote> She writes 
+          <l><quote source="#" rend="inline">a shrewd witted boy and prettily cachetized, but yet an</quote></l>
+          <l><quote source="#" rend="inline">untoward crafty boy..."</quote> She writes 
             <choice>
               <sic>onlt</sic>
               <corr>only</corr>
@@ -289,9 +292,9 @@
       <div xml:id="m54.4">
         <p>
           <l>9</l>
-          <l>exhort <quote source="">"God keep us sound in the faith and send us health</quote></l>
-          <l><quote source="">and a care to please God above all"</quote> Or to admonish---</l>
-          <quote source="">
+          <l>exhort <quote source="#" rend="inline">"God keep us sound in the faith and send us health</quote></l>
+          <l><quote source="#" rend="inline">and a care to please God above all"</quote> Or to admonish---</l>
+          <quote source="#" rend="inline">
             <l>"Be not speedy of speech, nor talk suddenly, but where</l>
             <l>discretion requireth, and that soberly then....</l>
             <l>Let not Lawson, that fox, be 
@@ -432,13 +435,13 @@
               <sic>Arcbishops</sic>
               <corr>Archbishop</corr>
             </choice> of</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">Canterburys</rs> garden, <quote source="">" the poor come 
+          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">Canterburys</rs> garden, <quote source="#" rend="inline">" the poor come 
             <choice>
               <sic>kkocking</sic>
               <corr>knocking</corr>
             </choice> at the gate</quote></l>
-          <l><quote source="">and my man says "Sir, there is some one at the gate would</quote></l>
-          <l><quote source="">speak with 
+          <l><quote source="#" rend="inline">and my man says "Sir, there is some one at the gate would</quote></l>
+          <l><quote source="#" rend="inline">speak with 
             <choice>
               <sic>oyu</sic>
               <sic>you</sic>
@@ -471,16 +474,16 @@
               <sic>sumbles</sic>
               <corr>stumbles</corr>
             </choice> and uses the old language of</l>
-          <l>his fathers house, ))<quote source="">" they say in my country to the hogs</quote></l>
-          <l><quote source="">mingle mangle, cum pur, cum pur"</quote>--- he brought into the</l>
+          <l>his fathers house, ))<quote source="#" rend="inline">" they say in my country to the hogs</quote></l>
+          <l><quote source="#" rend="inline">mingle mangle, cum pur, cum pur"</quote> <!-- this is from one of Latimer's sermons to Edward! -->--- he brought into the</l>
           <l>light of day the hxmxmxmxmxmxmxmxmxmxmmx</l>
           <l>xmxmxmxmxmxxx the harlot going to execution at <rs type="place" ref="../resources/annotations.xml#pla-newg">Newgate</rs></l>
-          <l>and saying as she went <quote source="">"that 
+          <l>and saying as she went <quote source="#">"that 
             <choice>
               <sic> f</sic>
               <corr>if</corr>
             </choice> good fellows had kept</quote></l>
-          <l><quote source="">touch with her, she had not bin at this time in that case."</quote></l>
+          <l><quote source="#">touch with her, she had not bin at this time in that case."</quote></l>
           <l>He saw the curates   in their 
             <choice>
               <sic>velevet</sic>
@@ -520,7 +523,7 @@
             </choice> pigs bones. <add hand="ms" place="above">[illeg.]</add> He casts the light of the new</l>
           <l>learning upon the the old superstitions. He too, until he</l>
         </p>
-      </div>
+      </div> <!-- this seems to lead to m54.8 -->
       <div xml:id="m54.6">
         <p>
           <l>9</l>
@@ -532,7 +535,11 @@
           <l>floods to let us see a rough outline of a human shape.</l>
           <l>He has a dog and a garden. He has books; and he digs in</l>
           <l>the earth. His name is of no great moment. It may be</l>
-          <l>Harrison; or it may be <rs type="person" ref="../resources/annotations.xml#past">Paston</rs>. There is very little to dis</l>
+          <l>Harrison; or it may be <rs type="person" ref="../resources/annotations.xml#past">Paston</rs>. There is very little to dis 
+            <choice>
+              <sic>dis</sic>
+              <corr>distinguish</corr>
+            </choice></l>
           <l>
             <choice>
               <sic>tingusih</sic>
@@ -753,10 +760,10 @@
           <l>still persist into making words into works of art.</l>
         </p>
       </div>
-      <div xml:id="m54.8">
+      <div xml:id="m54.8"> <!-- this seems to follow on from m54.5 -->
         <p>
           <l>10</l>
-          <l>thirty <quote source="">"had walked in the shadow of 
+          <l>thirty <quote source="#" rend="inline">"had walked in the shadow of 
             <choice>
               <sic>d ath</sic>
               <corr>death</corr>
@@ -768,7 +775,7 @@
             </choice></rs> at 
             <choice>
               <sic>Ca, fiege</sic>
-              <corr>[Cambridge?]</corr>
+              <corr>Cambridge</corr>
             </choice> who 
             <choice>
               <sic>ppened</sic>
@@ -788,13 +795,13 @@
                 <sic>Melnchton</sic>
                 <corr>Melancthon</corr>
               </choice></rs> and his</l>
-          <l>opinons. <quote source="">and desired me for Gods sake to hear his 
+          <l>opinons. <quote source="#" rend="inline">and desired me for Gods sake to hear his 
             <choice>
               <sic>confessio</sic>
               <corr>confession</corr>
             </choice></quote></l>
-          <l><quote source="">"did so; and to say the very truth, by his confession</quote></l>
-          <l><quote source="">I learnt ed more than for many 
+          <l><quote source="#" rend="inline">"did so; and to say the very truth, by his confession</quote></l>
+          <l><quote source="#" rend="inline">I learnt ed more than for many 
             <choice>
               <sic>yeares</sic>
               <corr>yeares</corr>
@@ -821,7 +828,7 @@
               <sic>andsick</sic>
               <corr>and sick</corr>
             </choice> folk. There was a woman who had killed</l>
-          <l>her child. And <rs type="person" ref="../resources/annotations.xml#psn-hlat"></rs> brought her story before King</l>
+          <l>her child. And <rs type="person" ref="../resources/annotations.xml#psn-hlat">Latimer</rs> brought her story before King</l>
           <l><rs type="person" ref="../resources/annotations.xml#psn-hen8">
             <choice>
               <sic>Hnery</sic>
@@ -848,19 +855,19 @@
               <corr>Elizabethan</corr>
             </choice> age,</l>
           <l>he saw, as <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> saw, the great buildings rise on the</l>
-          <l>foundations of the old. <quote source="">"There 
+          <l>foundations of the old. <quote source="#" rend="inline">"There 
             <choice>
               <sic>ws</sic>
               <corr>was</corr>
             </choice> never such buildings then</quote></l>
-          <l><quote source="">as 
+          <l><quote source="#" rend="inline">as 
             <choice>
               <sic>if</sic>
               <corr>is</corr>
             </choice> now, planting, nor marrying."</quote> And yet the 
             <choice>
               <sic>Englis</sic>
-              <choice>English</choice>
+              <corr>English</corr>
             </choice> are</l>
           <l>still sunk in 
             <choice>
@@ -871,19 +878,19 @@
               <sic>thmoey</sic>
               <corr>the money</corr>
             </choice> he implores that</l>          
-          <l><quote source="">was wont to bestow on 
+          <l><quote source="#" rend="inline">was wont to bestow on 
             <choice>
               <sic>pilgrimagesmatters</sic>
               <corr>pilgrimages matters</corr>
             </choice>, in trentalls</quote></l>
-          <l><quote source="">in masses, in purgatory matters"</quote> to poor men sons so that</l>
+          <l><quote source="#" rend="inline">in masses, in purgatory matters"</quote> to poor men sons so that</l>
           <l>they may become 
             <choice>
               <sic>schlars</sic>
               <corr>scholars</corr>
-            </choice>. <quote source="">"There be now none but greate mens</quote></l>
-          <l><quote source="">sons in colleges."</quote> <quote source="">It will come to pass that</quote></l>
-          <quote source="">
+            </choice>. <quote source="#" rend="inline">"There be now none but greate mens</quote></l>
+          <l><quote source="#" rend="inline">sons in colleges."</quote> <quote source="#" rend="inline">It will come to pass that</quote></l>
+          <quote source="#" rend="inline">
             <l>we 
               <choice>
                 <sic>shallhave</sic>
@@ -918,7 +925,7 @@
               <corr>irony</corr>
             </choice> ironically enough, the</l>
         </p>
-      </div>
+      </div> <!-- this seems to lead on to m54.11 -->
       <div xml:id="m54.9">
         <p>
           <l>10</l>
@@ -943,17 +950,17 @@
               <sic>clotning</sic>
               <corr>clothing</corr>
             </choice>, of the pageantry. his ear by the sound of</l>
-          <l>words spoken aloud. <add hand="ms" place="above">For books were read aloud.</add> <quote source="">"
+          <l>words spoken aloud. <add hand="ms" place="above">For books were read aloud.</add> <quote source="#" rend="inline">"
             <choice>
               <sic>Prtitachrd</sic>
               <corr>Pritchard</corr>
             </choice>"</quote> wrote <rs type="person" ref="../resources/annotations.xml#psn-aclif">Lady Ann Clifford</rs></l>
-          <l><quote source="">"read aloud the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Faery Queen</rs>..... They read aloud <rs>
-            <choice type="person" ref="../resources/annotations.xml#psn-mmon">
+          <l><quote source="#">"read aloud the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Faery Queen</rs>..... They read aloud <rs type="person" ref="../resources/annotations.xml#psn-mmon">
+            <choice >
               <sic>Montage</sic>
               <corr>Montaigne</corr>
             </choice></rs></quote></l>
-          <l><quote source="">and the Faery Queen."</quote> Every word was given sharpness and</l>
+          <l><quote source="#" rend="inline">and the Faery Queen."</quote> Every word was given sharpness and</l>
           <l>substance by the speaking voice. And the lute, the cithern,</l>
           <l>the old full bodied instrument that still stands on a</l>
           <l>
@@ -965,7 +972,7 @@
               <sic>hgave</sic>
               <corr>gave</corr>
             </choice> lilt, rhythm, melody to the word.</l>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>"Hardly one lighter or boat in 
               <choice>
                 <sic>hree</sic>
@@ -973,7 +980,7 @@
               </choice> that had the goods</l>
             <l>of a house in it , but there was a pair of virginals in</l>
           </quote>
-          <l><quote source="">it"</quote> <rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> observed in 1666 when the people of London were</l>
+          <l><quote source="#">it"</quote> <rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> observed in 1666 when the people of London were</l>
           <l>loading their goods onto boats to escape from the fire of</l>
           <l>London. His mind the was full of undifferentiated words, 
             <choice>
@@ -1083,7 +1090,7 @@
           <l>great English art may not be the art of poetry.</l>
         </p>
       </div>
-      <div xml:id="m54.11">
+      <div xml:id="m54.11"> <!-- this seems to lead on from m54.8 -->
         <p>
           <l>11</l>
           <l>the preacher who was for banishing <rs type="person" ref="../resources/annotations.xml#psn-rhoo">Robin Hood</rs>and such</l>
@@ -1120,7 +1127,7 @@
             <choice>
               <sic>hose</sic>
               <corr>house</corr>
-            </choice> thatwas being built on the foundations of the</l>
+            </choice> that was being built on the foundations of the</l>
           <l>old house. We can still see the great Elizabethan house</l>
           <l>whose building was to both preacher and antiquary a</l>
           <l>sign of txmxmxmxmxmxmxmxxx luxury. in all its glory.</l>
@@ -1207,7 +1214,7 @@
       <div xml:id="m54.12">
         <p>
           <l>11</l>
-          <l>he the writer hsa been so long submerged. We cannot read</l>
+          <l>he the writer has been so long submerged. We cannot read</l>
           <l>the 
             <choice>
               <sic>aery</sic>
@@ -1266,7 +1273,10 @@
               <sic>csharpness</sic>
               <corr>sharpness</corr>
             </choice>. It is the thing itself;</l>
-          <l>it is the original design, from which <rs type="person" ref="../resources/annotations.xml#psn-aten">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-wmor"></rs></l>
+          <l>it is the original design, from which <rs type="person" ref="../resources/annotations.xml#psn-aten">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-wmor">
+            <choice>
+              <sic>orris</sic>
+            </choice>Morris</rs></l>
           <l>
             <choice>
               <sic>mad</sic>
@@ -1277,7 +1287,7 @@
       <div xml:id="m54.13">
         <p>
           <l>Latimer heard them. He raged.</l>
-          <l><!-- come back to this! --></l>
+          <l>His is the voice of the new<!-- come back to this! --></l>
         </p>
       </div>
       <div xml:id="m54.14">
@@ -1339,10 +1349,10 @@
             <choice>
               <sic>e hosrts</sic>
               <corr>exhorts</corr>
-            </choice> <quote source="">God keep us sound in the faith</quote></l>
-          <l><quote source="">and send us health and a care to please God before all."</quote></l>
-          <l>She admonishes <quote source="">Be not speedy of speech, nor talk</quote></l>
-          <l><quote source="">
+            </choice> <quote source="#" rend="inline">God keep us sound in the faith</quote></l>
+          <l><quote source="#" rend="inline">and send us health and a care to please God before all."</quote></l>
+          <l>She admonishes <quote source="#" rend="inline">Be not speedy of speech, nor talk</quote></l>
+          <l><quote source="#" rend="inline">
             <choice>
               <sic>suuddenly</sic>
               <corr>suddenly</corr>
@@ -1355,7 +1365,7 @@
               <sic>requieth</sic>
               <corr>requireth</corr>
             </choice> and that</quote></l>
-          <l><quote source="">soberly then..."</quote> If she has to descend to an actual object</l>
+          <l><quote source="#" rend="inline">soberly then..."</quote> If she has to descend to an actual object</l>
           <l>a basket of 
             <choice>
               <sic>starwberries</sic>
@@ -1426,7 +1436,7 @@
               <corr>now</corr>
             </choice> history, now instruction, now poetry itself,</l>
           <l>and now whatever will make them forget the drab, the</l>
-          <l><del>mudcoulered</del>, the dismal in their own lives. As the book</l>
+          <l><del hand="ms">mudcoloured</del>, the dismal in their own lives. As the book</l>
           <l>becomes more and more spun over with these influences,</l>
           <l>the thing that the writer has to say becomes increasingly cumbered. It is only to be discovered in a flash of</l>
           <l>recognition Thus some say they that their beards</l>
@@ -1454,7 +1464,7 @@
             </choice> from the depths of silence.</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>"For why, a Gods' name, may not we, as else the</l>
             <l>Greekes, have the kingdome of our owne 
               <choice>
@@ -1464,7 +1474,7 @@
             <l>our accents by the sound, reserving the quantity to the verse</l>
             <l>Why in Gods name may not we have the kingdom of our own</l>
           </quote>
-          <l><quote source="">
+          <l><quote source="#" rend="inline">
             <choice>
               <sic>lanague</sic>
               <corr>language</corr>
@@ -1493,8 +1503,8 @@
               <corr>historian</corr>
             </choice> to see the present,</l>
           <l>must set it against an earlier age. To Spenser, the golden</l>
-          <l>age was Cahu Chaucers. <quote source="">Dan Chaucer, well of English</quote></l>
-          <l><quote source="">un filed... "that the infusion sweete</quote></l>
+          <l>age was Cahu Chaucers. <quote source="#" rend="inline">Dan Chaucer, well of English</quote></l>
+          <l><quote source="#" rend="inline">un filed... "that the infusion sweete</quote></l>
         </p>
       </div>
       <div xml:id="m54.16">
@@ -1633,10 +1643,10 @@
           <l>to them.</l>
         </p>
       </div>
-      <div xml:id="m54.17"> <!-- this definitely follows on from m54.15 -->
+      <div xml:id="m54.17"> <!-- this definitely follows on from m54.15, it's even the same quote -->
         <p>
           <l>13</l>
-          <l><quote source="">Of thine owne spit which doth in me survive</quote></l>
+          <l><quote source="#" rend="inline">Of thine owne spirit which doth in me survive</quote></l>
           <l>He looks back to 
             <choice>
               <sic>Cah cer</sic>
@@ -1713,8 +1723,8 @@
             <choice>
               <sic>beanth</sic>
               <corr>beneath</corr>
-            </choice> the old exact words; the crabbed but precise</l>
-          <l>language of Chaucer. Was it not to restrain that 
+            </choice> <add place="above">[illeg.]</add> the old exact words; the crabbed but precise</l>
+          <l>language of Chaucer. Was it not <add place="above">[illeg.]</add> to restrain that 
             <choice>
               <sic>insur ction</sic>
               <corr>insurrection</corr>
@@ -1924,14 +1934,14 @@
               <sic>sornous</sic>
               <corr>sonorous</corr>
             </choice>, since they are to</l>
-          <l>be read out aloud. <quote source="">I spent most of my time"</quote> wrote Lady</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif">Ann Clifford</rs> <quote source="">"in 
+          <l>be read out aloud. <quote source="#" rend="inline">I spent most of my time"</quote> wrote Lady</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif">Ann Clifford</rs> <quote source="#" rend="inline">"in 
             <choice>
               <sic>playin</sic>
               <corr>playing</corr>
             </choice> at Glecko and hearing <rs type="person" ref="../resources/annotations.xml#psn-mnev">Moll Neville</rs></quote></l>
-          <l><quote source="">read the <rs type="literary-work" ref="../resources/annotations.xml#lit-arca"></rs>....Rivers used to read to me in</quote></l>
-          <l><quote source=""><rs type="person" ref="../resources/annotations.xml#psn-mmon">Montaignes</rs> <rs type="person" ref="../resources/annotations.xml#lit-essa">Essays and Moll Neville in the Faery Queen."</rs></quote></l>
+          <l><quote source="#" rend="inline">read the <rs type="literary-work" ref="../resources/annotations.xml#lit-arca"></rs>....Rivers used to read to me in</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-mmon">Montaignes</rs> <rs type="person" ref="../resources/annotations.xml#lit-essa">Essays and Moll Neville in the Faery Queen."</rs></quote></l>
           <l>
             <choice>
               <sic>Futher</sic>
@@ -1942,20 +1952,20 @@
                 <corr>yield</corr>
               </choice> themselves</del> <add hand="ms" place="above">move</add> easily to the lilt</l>
           <l>of the singing voice, to the virginals<add place="inline" hand="ms">,</add> to the lute. The</l>
-          <l><add hand="ms" place="above">For the ???</add>
+          <l>
             <choice>
               <sic>Eoglish</sic>
               <corr>English</corr>
-            </choice> were a musical race. When 
+            </choice> were a musical race. <add hand="ms" place="above">For the English were [always?] singing &amp; playing</add> When 
             <choice>
               <sic>Londonwas</sic>
               <corr>London was</corr>
             </choice> burning</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> noted that <quote source="">"hardly one lighter or boat in three</quote></l>
-          <l><quote source="">that had the goods of a house in it, but there was a pair</quote></l>
-          <l><quote source="">of virginals in it."</quote> <del hand="ms">These were</del> the influences that</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> noted that <quote source="#" rend="inline">"hardly one lighter or boat in three</quote></l>
+          <l><quote source="#" rend="inline">that had the goods of a house in it, but there was a pair</quote></l>
+          <l><quote source="#" rend="inline">of virginals in it."</quote> <del hand="ms">These were</del> the influences that</l>
           <l>told upon the poet; <add hand="ms" place="above">[illeg.] moved</add> Under neath the words<add hand="ms" place="inline">:</add> the old words</l>
-          <l>the new words <add hand="ms" place="above">???</add>, the 
+          <l>the new words <add hand="ms" place="above">the <del>[illeg.]</del></add>, the 
             <choice>
               <sic>Frechand</sic>
               <corr>French and</corr>
@@ -1971,13 +1981,13 @@
           <l>the private world.</l>
         </p>
         <p>
-          <l>Spenser then --<quote source="">"a little man with short hair,</quote></l>
-          <l><quote source="">a small 
+          <l>Spenser then --<quote source="#" rend="inline">"a little man with short hair,</quote></l>
+          <l><quote source="#" rend="inline">a small 
             <choice>
               <sic>vband</sic>
               <corr>band</corr>
             </choice> and cuffs"</quote> standing on the threshold of the</l>
-          <l><quote source="">"gay and sumptuous house"</quote> at <rs type="place" ref="../resources/annotations.xml#pla-pens">
+          <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" ref="../resources/annotations.xml#pla-pens">
             <choice>
               <sic>enshurst</sic>
               <corr>Penshurst</corr>
@@ -2023,12 +2033,12 @@
               <corr>innumerable</corr>
             </choice> influences that are to tug and distort and</l>
           <l>thwart; as too they are to stimulate and draw out. The</l>
-          <l>poet is no longer <del hand="ms">a homeless being</del> <add hand="ms" place="above">a homeless, a wandering voice</add>. He is surrounded <add hand="ms" place="above">[illeg.] with his audience</add></l>
+          <l>poet is no longer <del hand="ms">a homeless being</del> <add hand="ms" place="above">a nameless, a wandering voice</add>. He is surrounded <add hand="ms" place="above">[illeg.] with his audience</add></l>
           <l>with an <del>
             <choice>
               <sic>atmopshere</sic>
               <corr>atmosphere</corr>
-            </choice>. He subjects his inspiration</del> <add hand="ms" place="above">He is plagued by others</add> to outside</l>
+            </choice>. He subjects his inspiration</del> <add hand="ms" place="above">He is played upon by others</add> to outside</l>
           <l>influences. Some are visible to himself only; others</l>
           <l>only show themselves when time has past. They become more and more complex. <add hand="ms" place="inline">A</add> the book goes out into a more and more</l>
           <l>numerous, a more and more divided audience.</l>
@@ -2048,7 +2058,7 @@
           <l>xxxx 15</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="block">
             <l>With that a joyous fellowship 
               <choice>
                 <sic>iissued</sic>
@@ -2127,22 +2137,22 @@
         </p>
         <p>
           <l>It is the printing press that we owe their</l>
-          <l>preservation. <quote source="">"After that I had accomplished and 
+          <l>preservation. <quote source="#" rend="inline">"After that I had accomplished and 
             <choice>
               <sic>finsihed</sic>
               <corr>finished</corr>
             </choice></quote></l>
-          <l><quote source="">divers histories"</quote> <rs type="person" ref="../resources/annotations.xml#psn-wcax">Caxton</rs> wrote in 
+          <l><quote source="#" rend="inline">divers histories"</quote> <rs type="person" ref="../resources/annotations.xml#psn-wcax">Caxton</rs> wrote in 
             <choice>
               <sic>41470</sic>
               <corr>1470</corr>
             </choice> in the preface</l>
-          <l>to the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte DArthur</rs>, <quote source="">"many noble and divers gentlemen</quote></l>
-          <l><quote source="">of this realm of England came and demanded me many and oft</quote></l>
-          <l><quote source="">times ..... to imprint the history of the said noble king</quote></l>
-          <l><quote source="">and conqueror <rs type="person" ref="../resources/annotations.xml#psn-kart">King Arthur</rs>, and of his knights with the</quote></l>
-          <l><quote source="">history of the San greal and of the death and ending of</quote></l>
-          <l><quote source="">the said Arthur."</quote> The twenty one books of the Morte DArthur</l>
+          <l>to the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte DArthur</rs>, <quote source="#">"many noble and divers gentlemen</quote></l>
+          <l><quote source="#" rend="inline">of this realm of England came and demanded me many and oft</quote></l>
+          <l><quote source="#" rend="inline">times ..... to imprint the history of the said noble king</quote></l>
+          <l><quote source="#" rend="inline">and conqueror <rs type="person" ref="../resources/annotations.xml#psn-kart">King Arthur</rs>, and of his knights with the</quote></l>
+          <l><quote source="#" rend="inline">history of the San greal and of the death and ending of</quote></l>
+          <l><quote source="#" rend="inline">the said Arthur."</quote> The twenty one books of the Morte DArthur</l>
           <l>preserve what lay 
             <choice>
               <sic>benea th</sic>
@@ -2158,19 +2168,19 @@
               <sic>legnd</sic>
               <corr>legend</corr>
             </choice> was still alive in the nineteenth century.</l>
-          <l><quote source="">"...folks do say"</quote> said a peasant at <rs type="place" ref="../resources/annotations.xml#pla-cadb">Cadbury</rs> <quote source="">that on the</quote></l>
-          <l><quote source="">night of the full moon King 
+          <l><quote source="#" rend="inline">"...folks do say"</quote> said a peasant at <rs type="place" ref="../resources/annotations.xml#pla-cadb">Cadbury</rs> <quote source="#">that on the</quote></l>
+          <l><quote source="#" rend="inline">night of the full moon King 
             <choice>
               <sic>Arthus</sic>
               <corr>Arthur</corr>
             </choice> and his men ride round</quote></l>
-          <l><quote source="">the hill, and their horses are shod with silver..."</quote></l>
+          <l><quote source="#" rend="inline">the hill, and their horses are shod with silver..."</quote></l>
           <l>A silver horseshoe, <rs type="person" ref="../resources/annotations.xml#psn-jlel">Leland</rs> says, was found in <rs type="person" ref="../resources/annotations.xml#psn-hen8"></rs></l>
           <l>time at <rs type="person" ref="../resources/annotations.xml#pla-came">Camelot</rs>. It is in <rs type="person" ref="../resources/annotations.xml#psn-tmal">Malorys</rs> pages that we hear the</l>
           <l>voice of anon murmuring in the mind of King and Queen and</l>
           <l>peasant, They remembered how the old King</l>
         </p>
-      </div>
+      </div> <!-- leads to m54.25 -->
       <div xml:id="m54.23">
         <p>
           <l>16</l>
@@ -2196,7 +2206,7 @@
               <corr>remembering</corr>
             </choice></l>
           <l>the Gods who were there when the stones were set on end</l>
-          <l>at <rs type="place" ref="../resources/annotations.xml#pla-ames">Amesbury</rs>, at <rs type="place" ref="../resources/annotations.xml#pla-ston">Stonehenge>, celebrated their gods; and</rs></l>
+          <l>at <rs type="place" ref="../resources/annotations.xml#pla-ames">Amesbury</rs>, at <rs type="place" ref="../resources/annotations.xml#pla-ston">Stonehenge</rs>, celebrated their gods; and</l>
           <l>at the same 
             <choice>
               <sic>tiem</sic>
@@ -2330,15 +2340,15 @@
             </choice> a storm that had sunk the kings ships.</l>
         </p>
       </div>
-      <div xml:id="m54.25">
+      <div xml:id="m54.25"> <!-- follows on from m54.23 -->
         <p>
           <l>17</l>
           <l>and his knights went their ways through the wildwoods seek</l>
           <l>ing adventure. <add hand="ms" place="above">When</add> Caxton <del hand="ms">himself</del> doubted. <del>No</del>such <add hand="ms" place="above">a</add> man, he</l>
           <l>objected, had ever lived. But the nobles were positive,</l>
           <l>they said that you could see <rs type="person" ref="../resources/annotations.xml#psn-gawa">Gawaines</rs> skull at <rs type="place" ref="../resources/annotations.xml#psn-dove">Dover</rs></l>
-          <l>and the <rs type="object" ref="../resources/annotations.xml#obj-roun">Round Table</rs> at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs> and in <quote source="">"in other places</quote></l>
-          <l><quote source=""><rs type="person" ref="../resources/annotations.xml#psn-lanc">Launcelots</rs> sword and many other things.</quote></l>
+          <l>and the <rs type="object" ref="../resources/annotations.xml#obj-roun">Round Table</rs> at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs> and in <quote source="#" rend="inline">"in other places</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-lanc">Launcelots</rs> sword and many other things.</quote></l>
         </p>
         <p>
           <l>The book itself represents Caxtons scepticism, and the</l>
@@ -2369,8 +2379,8 @@
               <corr>particularity</corr>
             </choice>. The clear eye sees definitely and</l>
           <l>without exaggeration. Beauty is in the thing itself, not i</l>
-          <l>in the writers manipulation. <quote source="">So he went in and searched</quote></l>
-          <quote source="">
+          <l>in the writers manipulation. <quote source="#" rend="inline">So he went in and searched</quote></l>
+          <quote source="#" rend="inline">
             <l>chamber from chamber to chamber, and found his bed, but she</l>
             <l>was not there; then Balin lookedinto a fxmx little garden</l>
             <l>and under a laurel tree he saw her lie upon a quilt of</l>
@@ -2475,7 +2485,7 @@
               <corr>listener</corr>
             </choice> hears the voice</l>
           <l>partly in himself; as it comes from the man at the back</l>
-          <l>doorwho has been travelling in 
+          <l>door who has been travelling in 
             <choice>
               <sic>trange</sic>
               <corr>strange</corr>
@@ -2502,7 +2512,7 @@
         </p>
         <p>
           <l>In the great house and the cottage this half articulate</l>
-          <l>voice murmured ofold gods 
+          <l>voice murmured of old gods 
             <choice>
               <sic>a d</sic>
               <corr>and</corr>
@@ -2520,8 +2530,8 @@
             <choice>
               <sic>cnetury</sic>
               <corr>century</corr>
-            </choice>,    ;;;<quote source="">"about</quote></l>
-          <quote source="">
+            </choice>,    ;;;<quote source="#" rend="inline">"about</quote></l>
+          <quote source="#" rend="inline">
             <l>noon or 
               <choice>
                 <sic>midngiht</sic>
@@ -2551,7 +2561,7 @@
                 <corr>household</corr>
               </choice> and fellowship of</l>
           </quote>
-          <l><quote source="">King 
+          <l><quote source="#" rend="inline">King 
             <choice>
               <sic>Art ur</sic>
               <corr>Arthur</corr>
@@ -2569,7 +2579,7 @@
             <choice>
               <sic>whil</sic>
               <corr>While</corr>
-            </choice> for those who cold read it,</l>
+            </choice> for those who could read it,</l>
           <l>Caxtons book 
             <choice>
               <sic>tol</sic>
@@ -2599,12 +2609,12 @@
             <choice>
               <sic>vie</sic>
               <corr>give</corr>
-            </choice> tongue to this</l>
+            </choice> <add hand="ms" place="above">body</add> tongue to this</l>
           <l>hidden 
             <choice>
               <sic>insticnt</sic>
               <corr>instinct</corr>
-            </choice> <add><!-- come back to this --> </add>. The 
+            </choice> <add>[illeg.]</add>. The 
             <choice>
               <sic>acror</sic>
               <corr>actor</corr>
@@ -2677,8 +2687,9 @@
             </choice> them.</l>
         </p>
       </div>
-      <div xml:id="m54.28">
+      <div xml:id="m54.28"> <!-- how is this not a separate document??? -->
         <p>
+          <l>7</l>
           <l>The printing press brought the past into existence.</l>
           <l>It <add hand="ms" place="above">also</add> brought into existence, seen 
             <choice>
@@ -2739,7 +2750,7 @@
             </choice>, raw, against that past.</l>
         </p>
       </div>
-      <div xml:id="m108.29"> <!-- come back to marginal addition -->
+      <div xml:id="m54.29"> <!-- come back to marginal addition --> <!-- does this live with Reader fragments? -->
         <p>
           <l>20</l>
           <l>and the 
@@ -2794,7 +2805,7 @@
                 <sic>Bargem</sic>
                 <corr>Barge,</corr>
               </choice></rs> the <rs type="place" ref="../resources/annotations.xml#pla-bell">Bell</rs> and the</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-cock">Cock</rs>, <quote source="">"recognised stews."</quote> <del>The 
+          <l><rs type="place" ref="../resources/annotations.xml#pla-cock">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
             <choice>
               <sic>Bakside</sic>
               <corr>Bankside</corr>
@@ -2857,8 +2868,8 @@
             </choice></l>
           <l>little streets round St Pauls, where the dead bodies smelt</l>
         </p>
-      </div>
-      <div xml:id="m54.30">
+      </div> <!-- this leads onto m54.32 -->
+      <div xml:id="m54.30"> <!-- likewise, this probably lives with Reader fragments? Or m53? Or, or, or... -->
         <p>
           <l>20</l>
           <l>It was at half past two in 
@@ -2909,7 +2920,7 @@
           <l>stage; and heard:</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="block">
             <l>Brother Cosroe, I find myself aggrieved,</l>
             <l>Yet insufficient 
               <choice>
@@ -2949,7 +2960,7 @@
       <div xml:id="m54.31">
         <p>
           <l>21</l>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>The 
               <choice>
                 <sic>sprung</sic>
@@ -2982,7 +2993,7 @@
           <l>like cymbals</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>tell him, xmxmxx thy Lord the Turkish Emperor,</l>
             <l>
               <choice>
@@ -3014,7 +3025,7 @@
           <l><del>
             <choice>
               <sic>pusis ant</sic>
-              <corr>[puissant?]</corr>
+              <corr>puissant</corr>
             </choice></del>, Words 
             <choice>
               <sic>mout</sic>
@@ -3031,7 +3042,7 @@
             </choice> and rebound:</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>
               <choice>
                 <sic>W se</sic>
@@ -3079,12 +3090,12 @@
           <l>xmxmxmxmx he veers,</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="block">
             <l>So poets say my lord.</l>
           </quote>
         </p>
-      </div>
-      <div xml:id="m54.32">
+      </div> <!-- this leads to m54.33... -->
+      <div xml:id="m54.32"> <!-- this leads from m54.30 -->
         <p>
           <l>21</l>
           <l>strong. The watermen of the Bankside lived on their fares.</l>
@@ -3141,7 +3152,7 @@
             </choice> then the actor spoke:</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>Brother Cosroe, I find myself aggrieved,</l>
             <l>Yet insufficient to express the same;</l>
             <l>For it requires a great and 
@@ -3198,9 +3209,9 @@
             </choice> hyperboles.</l>
         </p>
       </div>
-      <div xml:id="m54.33"> <!-- this very very obviously follows on from m54.30!!! -->
+      <div xml:id="m54.33"> <!-- this very very obviously follows on from m54.31!!! -->
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>
               <choice>
                 <sic>An</sic>
@@ -3242,7 +3253,7 @@
           <l>and triumph.</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>Our souls, whose faculties can comprehend</l>
             <l>The wondrous architecture of the world,</l>
             <l>And measure very wandering planets course</l>
@@ -3287,7 +3298,7 @@
             </choice> brass:</l>
         </p>
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>What is 
               <choice>
                 <sic>beautym</sic>
@@ -3301,7 +3312,7 @@
               </choice> of their masters' thoughts,</l>
           </quote>
           <l>.....</l>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>If all these had made one poems 
               <choice>
                 <sic>riod</sic>
@@ -3320,7 +3331,7 @@
             <l>one thought, one wxxxxxxx grace, one wonder, at the least,</l>
           </quote>
         </p>
-      </div>
+      </div> <!-- leads to m54.35 -->
       <div xml:id="m54.34">
         <p>
           <l>there is a jolt at the points; the mind slides onto another</l>
@@ -3350,8 +3361,15 @@
             </choice> that the author had no</l>
           <l>sense of property in it. It was half the work of the audience.</l>
           <l>Yet the audience is dumb. The silence of the audience is</l>
-          <l>one of the deep gulfs that lies between us and the Eliza</l>
-          <l>bethan play. The audience was a large one. Fifteen</l>
+          <l>one of the deep gulfs that lies between us and the 
+            <choice>
+              <sic>Eliza</sic>
+              <corr>Elizabethan</corr>
+            </choice></l>
+          <l><choice>
+            <sic>bethan</sic>
+            <corr>Elizabethan</corr>
+          </choice> play. The audience was a large one. Fifteen</l>
           <l>hundred people, Dr Greg computes, was an average 
             <choice>
               <sic>attanedance</sic>
@@ -3431,9 +3449,9 @@
             </choice> but spent all their days in the</l>
         </p>
       </div>
-      <div xml:id="m54.35">
+      <div xml:id="m54.35"> <!-- follows on from m54.33 -->
         <p>
-          <quote source="">
+          <quote source="#" rend="inline">
             <l>Which into <del hand="ms">words no virtue can digest</del></l>
           </quote>
         </p>
@@ -3496,7 +3514,7 @@
             </choice>; there is no 
             <choice>
               <sic>harml sing</sic>
-              <corr>[harmonising?]</corr>
+              <corr>[harmonising? harming?]</corr>
             </choice> common speech.</del></l>
         </p>
       </div>
