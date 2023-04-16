@@ -2,7 +2,7 @@
 	"@context": "http://iiif.io/api/presentation/2/context.json",
 	"@id": "http://2bdc4b0e-3481-4159-a911-7aec4cd40a7e",
 	"@type": "sc:Manifest",
-	"label": "[Click to edit label]",
+	"label": "M48 Anon. Test manifest.",
 	"metadata": [],
 	"description": [
 		{
@@ -11,7 +11,7 @@
 		}
 	],
 	"license": "https://creativecommons.org/licenses/by/3.0/",
-	"attribution": "[Click to edit attribution]",
+	"attribution": "Copyright Virginia Woolf, WoolfCorp Plc. All rights reserved.",
 	"sequences": [
 		{
 			"@id": "http://4b9d9b04-b667-4014-8285-d804ce7e9413",
@@ -26,7 +26,7 @@
 				{
 					"@id": "http://9e6dfbb2-d24f-4b8a-ab9f-6babeddb1373",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "M48 fol. 1 recto",
 					"height": 3500,
 					"width": 2766,
 					"images": [
@@ -95,7 +95,7 @@
 				{
 					"@id": "http://545121a9-9943-405b-b4b6-d4af696589c4",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "M48 fol. 1 verso",
 					"height": 3500,
 					"width": 2766,
 					"images": [
@@ -164,7 +164,7 @@
 				{
 					"@id": "http://5464b2e3-52b2-4167-b1f6-37648d2d0bfe",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "M48 fol 2. recto",
 					"height": 3500,
 					"width": 2778,
 					"images": [
