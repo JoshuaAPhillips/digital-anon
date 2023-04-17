@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8-5. The Reader. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 17-32. 16p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-5</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-5. The Reader. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 17-32. 16p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-5.1 [p. 17]">
+        <p>
+          <l>The Reader</l>
+        </p>
+        <p>
+          <l>At what point is the reader born?- this</l>
+          <l>faculty, the power to make <add place="above">visible</add> out of print <del>ho</del> men, countries,</l>
+          <l><del>houses, &amp;</del> visble <del>cou</del> places &amp; houses &amp; <del>the</del> words &amp;</l>
+          <l>warm bodies, &amp; their thoughts, is rare; it is not</l>
+          <l>exercised on the [strips] of newspaper. It is non existent</l>
+          <l>in great masses of <del>literate</del> the literate. It is</l>
+          <l>different from the scholars gift or the critics.</l>
+          <l><del>So then the plays are</del> It is <del>[illeg.]</del> complex <del>not</del></l>
+          <l>in itself; for it <del>has</del> to see, <add place="above">it has</add> to hear, <del>but</del> <add place="above">also</add> it is for ever</l>
+          <l>it is <del>influenced</del> at the mercy of <del>the time</del> circumstances <add place="above">always its [dupe?]</add></l>
+          <l>One generation <del>brings out this</del> perceives this in</l>
+          <l>the printed page; another <del>sees</del> that     the</l>
+          <l><del>the</del> in the early plays, obviously, the reader</l>
+          <l><del>becomes</del> is scarcely in existence. We <del>see</del></l>
+          <l>are <del>in the</del> among the audence. <del>The</del> And</l>
+          <l>that is one of the attractions of the early plays––</l>
+          <l>to be <del>unaware of the</del> <del>that they bring out the</del></l>
+          <l><del>spectator: make an appeal to the body:</del></l>
+          <l><del>are so visible, palpable, audible. So crude:</del></l>
+          <l><del>They have the frailty of</del> They need to be read in</l>
+          <l>company. They are the product of the company.</l>
+          <l><del>If we</del> <del>So</del> At <del>their best</del> <del>they have the</del></l>
+          <l><del>rush &amp; the tumult of</del>    The body is</l>
+          <l>always palpable in them. <del>The humour is</del></l>
+          <l>at <del>some point the</del></l>
+        </p>
+        <p>
+          <l><del>But</del> <del>The modern reader has to readjust himself</del></l>
+          <l><del>But the reader is <add place="above">also</add> <del>possessed of</del> <del>aware</del> <del>another</del></del></l>
+          <l><del><del>sense, besides the</del> <del>the power</del> some one who</del></l>
+          <l><del><del>connects.</del></del>  But, to the modern reader, there is</l>
+          <l>much that is disguised of the presence of the body</l>
+          <l>on the stage. <del>This</del> An <del>embodiment</del></l>
+          <l><del>And</del> But at some point there comes a</l>
+          <l>break. The <del>playwright t</del> There is a</l>
+          <l>point when the playwright <del>h</del> has</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
