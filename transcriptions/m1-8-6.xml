@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8-6. [The readers faculty is a queer one...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 21-TK</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-6</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-6. [The readers faculty is a queer one...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 21-TK</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-6.1 [p. 21]">
+        <p>
+          <l>The readers faculty is a queer one. He has the power to make</l>
+          <l>houses &amp; countries visible <del>as</del> through the printed page; men &amp;</l>
+          <l>women, &amp; their emotions &amp; thoughts; <del>He has also</del> the <del>more</del></l>
+          <l><del>the sense</del> of &amp; [birdes?], a sense of <del>their</del> relations; whether</l>
+          <l>the emotion [emtubates?], or dissipates. <del>And</del> <del>B</del><add place="inline">A</add>nd he is</l>
+          <l>alwauys limited by his time. <del>What is visible to one</del></l>
+          <l><del>generation, is <del>lost</del> <add place="above">[not?]</add> to another.</del> He is <del>not interested in</del></l>
+          <l><del>language.</del> texts. He <del>does not pass</del> He is not a scholar; <del>not</del> &amp; so</l>
+          <l>[laiks?] may &amp; the critics fools. <del>And</del> And yet, <del>with all</del></l>
+          <l>And yet he is exercising <del>quite</del> another faculty than the</l>
+          <l>newspaper reader. <del>And</del> one that millions of the literate</l>
+          <l>are without. Often he is himself a writer. This gives</l>
+          <l>him a queer [arc? after?] of vision. <del>The</del> And he is</l>
+          <l>sensitive to a voice that becomes increasingly audible –</l>
+          <l><del>It would be</del> <del>a [illeg.]</del> Now &amp; again it is to be</l>
+          <l><del>heard even in the 16th centruy: even the</del></l>
+          <l><del>Even in the 16th century, when the stage, among</del></l>
+          <l><del>other influences, was palpable to the personality – so</del></l>
+          <l><del>that</del> As for the obvius reason that the body of the</l>
+          <l>actor <del>fal</del> plays so great a part in the words.</l>
+          <l>The body is there visible: there is a great</l>
+          <l>opportunity <del>to</del> in</l>
+        </p>
+        <p>
+          <l>When the body of the actor is visible, with all its <add place="above">the implications</add></l>
+          <l>implicationsl there is <del>still</del> <del>force for a that destroys</del></l>
+          <l>some of the elements 
+            <choice>
+              <sic>wh</sic>
+              <corr>which</corr>
+            </choice> the reader extracts from the</l>
+          <l>printed page. But it <add place="above">are not</add> This is the reason, perhaps, why</l>
+          <l>we do not 'know' <rs type="person" ref="../resources/annotations.xml#psn-cmar">Marlowe</rs>, <rs type="person" ref="../resources/annotations.xml#psn-tdek">Dekker</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou">Tourneur</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jfor">Ford</rs>.</l>
+          <l>No scholar will ever now disciver them. What we</l>
+          <l>have of them is what it was possible for their</l>
+          <l>actors to <del>convey.</del> <del>a generalised tendency.</del></l>
+          <l><del>For the particular we must wait for the</del> stage to</l>
+          <l><del>But</del> <del>To find their</del> To <del>put this theory</del> And</l>
+          <l><del>This knowledge of the author is <del>an easy</del></del></l>
+          <l><del>And yet if we do not know that</del> <del>Something is</del></l>
+          <l><del>gratified by L I B, by <del>[Bintn]; their</del></del> Everybody</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
