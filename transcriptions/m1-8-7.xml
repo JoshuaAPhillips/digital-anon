@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8-7. [If you have read this brittle &amp; imperfect sketch...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 27-32. 6p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-7</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-7. [If you have read this brittle &amp; imperfect sketch...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 27-32. 6p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-7.1 [p. 27]">
+        <p>
+          <l><del>Letter</del> <del>Comment</del></l>
+        </p>
+        <p>
+          <l>If you have read this brittle &amp; imperfect sketch, with its</l>
+          <l>exaggerations, its foreshortenings <del>you will complain</del></l>
+          <l>will <del>come to say</del> <del>given,</del> you will complain;</l>
+          <l>the <del>there is nothing here to</del> <del>which leaves out</del></l>
+          <l><del>the very</del> which <del>gives</del> <del>a</del> <del>&amp; the</del> a</l>
+          <l><del>with justice.</del> <del>For the</del> <del>reader to</del> &amp;</l>
+          <l><del>this</del> <del>thus</del> – a naked attempt to point at</l>
+          <l>art <del>,</del> <rs type="place" ref="../resources/annotations.xml#pla-stpa">St Pauls</rs>, <rs type="place" ref="../resources/annotations.xml#pla-wmab">Westminster Abbey</rs> &amp; the <rs type="place" ref="../resources/annotations.xml#pla-towe">Tower of</rs></l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-towe">London</rs> to a visitor from the country.</l>
+          <l><del>The</del> <del>What we will now attempt then is</del></l>
+          <l><del>express</del> We will now <del>attempt</del> from there to look at</l>
+          <l>the famous monuments from another angle</l>
+          <l><del>to wander to for a moment, in free from</del></l>
+          <l><del>Free from dates</del> <del>Let us</del> <del>free <del>ourselves</del> from</del></l>
+          <l><del>dates, free from the eyes of Professor [Bude?], who</del></l>
+          <l><del>by ears of work in [museums?] has established</del></l>
+          <l><del>the probability – it is no more – that <rs type="person" ref="../resources/annotations.xml#psn-tmid">Middleton</rs></del></l>
+          <l>had a hand in the <rs type="literary-work" ref="../resources/annotations.xml#lit-reve">Revengers Tragedy</rs> –</l>
+          <l><del>the</del> to <del>discover</del> <del>what</del> <del>dream for a moment,</del> free</l>
+          <l><del>from dates</del> <del>[illeg.] for a moment from</del></l>
+          <l>the <del>tyranny of dates,</del> <del>&amp; from the</del></l>
+          <l><del>It is</del> <del>The</del> Let us try then to look</l>
+          <l>at these famous monuments from another angle:</l>
+          <l><del>to change <del>our</del> to the other side of the pillow: to</del></l>
+          <l><del>discuss &amp; <del>together</del> some of the difficulties, the</del></l>
+          <l><del>of</del>              <del>But to</del> <del>there is always</del></l>
+          <l><del>something unreal in literary criticism</del></l>
+          <l>There is always an <del>unreality</del> in <del>such</del></l>
+          <l><del>literary criticism,</del> something stiff &amp;</l>
+          <l>unnatural in the critics prose. <del>It</del></l>
+          <l><del>would</del> <del>a</del> <del>If</del> <del>it is his</del> <del>the</del></l>
+          <l>He has in the first place, to – to</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
