@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> <!-- don't forget this! --> </title>
+        <title>M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -23,10 +23,10 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
+            <idno>m1-8-8</idno>
           </msIdentifier>        
           <physDesc>
-          <!-- <p> with description based on Berg catalogue descriptions -->
+            <p>M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,7 +54,26 @@
   </teiHeader>
   <text>
     <body>
-      <div></div>
+      <div xml:id="m1-8-8.1 [p. 31]">
+        <p>
+          <l>The <del>influence of the</del></l>
+        </p>
+        <p>
+          <l>The Reader</l>
+        </p>
+        <p>
+          <l>You will comp</l>
+        </p>
+        <p>
+          <l>That is because the reader is now</l>
+          <l>That us uniquely <del>because the reader is now</del></l>
+        </p>
+        <p>
+          <l><del>The reader</del></l>
+        </p>
+        <p>And <del>here we come upon one of the</del></p>
+        <l><del>It is the due to the absence, today,</del></l>
+      </div>
     </body>
   </text>
 </TEI>
