@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.</title>
+        <title>M1-8, 9 of 9. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-42. 9p.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -26,7 +26,7 @@
             <idno>m1-8-8</idno>
           </msIdentifier>        
           <physDesc>
-            <p>M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.</p>
+            <p>M1-8, 9 of 9. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-42. 9p.</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,25 +54,53 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="m1-8-8.1 [p. 31]">
-        <p>
-          <l>The <del>influence of the</del></l>
-        </p>
+      <div xml:id="m1-8-10.1 [p. 34]">
         <p>
           <l>The Reader</l>
         </p>
         <p>
-          <l>You will comp</l>
+          <l>We can suppose that the <del>reader</del> <add place="above">reading public</add> <del>came into</del></l>
+          <l><del>existence some four hundred <del>years ago</del>; when the <del>playhouse</del></del></l>
+          <l><del><del>could no longer hold the play.</del> <del>But he was</del></del></l>
+          <l><del>when the play outgrew the playhouse; when the</del></l>
+          <l><del>playhouse was shut.</del> But <del>he was</del></l>
+          <l><del>the</del>     <del>to</del> &amp; <del>was brought into being by</del></l>
+          <l>came into existence <del>when</del> <add place="above">in the first place</add> the playhouse was <del>h</del></l>
+          <l>shut; &amp; <del>when the plays outgrew the theatre.</del></l>
+          <l>&amp; in the second theatre the play <del>became</del></l>
+          <l>outgrew the theatre. <add>&amp; 
+            <choice>
+              <sic>cd.</sic>
+              <corr>could</corr>
+            </choice> only be realised fully if read</add> But the reading public</l>
+          <l>must have a small one: <del>a r</del> <del>recruited</del> <add place="above">[compared?]</add> <del>from</del> <add place="above">a</add> <del>the</del></l>
+          <l>scholars &amp; aristocrats. The lack of</l>
+          <l>general <del>wider spread</del> <add place="above">common</add> reading <del>explains</del> accounts for</l>
+          <l>the long pause, between <rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeares</rs> death &amp; the</l>
+          <l>18th century when the plays of Shakespeare</l>
+          <l>hang suspended, unrealised. They had to</l>
+          <l>wait until the plays were <del>in m</del> <del>on</del></l>
+          <l>open on many private tables, in many palms of hands,</l>
+          <l>before they received the other life, <del>which</del> the</l>
+          <l>detailed, the particular life <del>which</del> that</l>
+          <l>the reader confers.    <del>This</del> <del>Again, it accounts for</del></l>
+          <l>scarcity of 
+            <choice>
+              <sic>Ethan</sic>
+              <corr>Elizabethan</corr>
+            </choice> criticism, &amp; the general</l>
+            <l>nature of what criticism there is. <del>Both</del></l>
+          <l><del><rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs></del> <del>deal with the general</del></l>
+          <l><del>Both Sidney &amp; Jonson <del>are</del> deal with the theory of</del></l>
+          <l><del>poetry or of drama not with the particular play or</del></l>
+          <l><del>poem;</del>     the <del>attention which</del> <add place="above">task [thus?]</add> both Sidney &amp;</l>
+          <l>Jonson <del>[dwell?]</del> are concerned with general</l>
+          <l>functions, of the nature of <del>poetry &amp; drama</del></l>
+          <l>such as <del>occur</del> to <del>the</del> <del>trained</del> writer; &amp; <del>not</del></l>
+          <l><del>w</del> writing <add place="above">about matters that interest</add> for writers; <del>not with the particular</del></l>
+          <l>the <del>critic</del> <del>there is no</del> the <del>critic</del> was not</l>
+          <l><del>in</del> <del>the</del> <del>concerned</del> <del>with</del> <del>explain</del> They are not</l>
         </p>
-        <p>
-          <l>That is because the reader is now</l>
-          <l>That us uniquely <del>because the reader is now</del></l>
-        </p>
-        <p>
-          <l><del>The reader</del></l>
-        </p>
-        <p>And <del>here we come upon one of the</del></p>
-        <l><del>It is the due to the absence, today,</del></l>
       </div>
     </body>
   </text>
