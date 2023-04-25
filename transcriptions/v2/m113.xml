@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M113 [The Reader]. Typescript fragments, one with the author's ms. corrections, unsigned and undated. 8p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m113</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M113 [The Reader]. Typescript fragments, one with the author's ms. corrections, unsigned and undated. 8p.</p>
+            <p>One page paginated p. 13.</p>
+            <p>On verso of page beginning "This brittle and imperfect sketch..." is typescript draft of 'The Legacy'. Folio damaged, perhaps by fire.</p>
+            <p>On verso of page beginning 'We can suppose that the reading public...' is typescript draft of Between the Acts, paginated 141.</p>
+            <p>On verso of page beginning 'But as most of these attempts...' is typescript draft of Between the Acts, paginated 179.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m113.1">
+        <p>
+          <l>This brittle and imperfect sketch with its 
+            <choice>
+              <sic>exggerations</sic>
+              <corr>exaggerations</corr>
+            </choice> and</l>
+          <l>foreshortenings, is no more than an attempt to point out</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-stpa">St Pauls</rs> <rs type="place" ref="../resources/annotations.xml#pla-wmab">
+            <choice>
+              <sic>Westmisnter</sic>
+              <corr>Westminster</corr>
+            </choice> Abbey</rs> and the <rs type="place" ref="../resources/annotations.xml#pla-towe">Tower of London</rs> to a</l>
+          <l>
+            <choice>
+              <sic>visiotr</sic>
+              <corr>visitor</corr>
+            </choice> 
+            <choice>
+              <sic>f om</sic>
+              <corr>from</corr>
+            </choice> the 
+            <choice>
+              <sic>co ntry</sic>
+              <corr>country</corr>
+            </choice>. You will complain 
+            <choice>
+              <sic>jystly</sic>
+              <corr>justly</corr>
+            </choice> that it</l>
+          <l>
+            <choice>
+              <sic>ti</sic>
+              <corr>it</corr>
+            </choice> leaves out 
+            <choice>
+              <sic>th e</sic>
+              <corr>the</corr>
+            </choice> effect of those famous 
+            <choice>
+              <sic>monumtnts</sic>
+              <corr>monuments</corr>
+            </choice> upon the</l>
+          <l>emotions. Thxmxmxmxmxmxmmxmxmxmxx To 
+            <choice>
+              <sic>trasnmit</sic>
+              <corr>transmit</corr>
+            </choice> that</l>
+          <l>emotion let us now 
+            <choice>
+              <sic>attenot</sic>
+              <corr>attempt</corr>
+            </choice> a dangerous 
+            <choice>
+              <sic>transiti n</sic>
+              <corr>transition</corr>
+            </choice>;</l>
+          <l>from one attitude to another, from the</l>
+          <l>The emotion which built them, the emotion which they still</l>
+          <l>transmit is left out. This 
+            <choice>
+              <sic>sia</sic>
+              <corr>is a</corr>
+            </choice> charge that can be 
+            <choice>
+              <sic>levlled</sic>
+              <corr>levelled</corr>
+            </choice></l>
+          <l>against all criticism. xmxmxxx a charge easy enough to</l>
+          <l>xxxxxx Take as a simple example of the</l>
+          <l>difficulties of transmitting emotion, the 
+            <choice>
+              <sic>ned</sic>
+              <corr>need</corr>
+            </choice> of making</l>
+          <l>
+            <choice>
+              <sic>q otation</sic>
+              <corr>quotation</corr>
+            </choice>. The page has to be found and the words copied.</l>
+          <l>The manual act disturbs the st current of thought</l>
+          <l>The presence of alien bodies is also clearly 
+            <choice>
+              <sic>percebtile</sic>
+              <corr>perceptible</corr>
+            </choice>.</l>
+          <l>Many people have spent lives in 
+            <choice>
+              <sic>musumes</sic>
+              <corr>museums</corr>
+            </choice>, in order to</l>
+          <l>verify one date. Accuracy then is 
+            <choice>
+              <sic>d manded</sic>
+              <corr>demanded</corr>
+            </choice>.</l>
+          <l>In view of these obstacles, the 
+            <choice>
+              <sic>trasntion</sic>
+              <corr>transition</corr>
+            </choice> 
+            <choice>
+              <sic>fron</sic>
+              <corr>from</corr>
+            </choice> the critical</l>
+          <l>attitude to the private is 
+            <choice>
+              <sic>attende</sic>
+              <corr>attended</corr>
+            </choice> with great dangers.</l>
+          <l>We have to free 
+            <choice>
+              <sic>ourslves</sic>
+              <corr>ourselves</corr>
+            </choice> from the imposition of authority</l>
+          <l>the dominion of the customary. In short we have to 
+            <choice>
+              <sic>tranport</sic>
+              <corr>transport</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>ourslves</sic>
+              <corr>ourselves</corr>
+            </choice> from the critics 
+            <choice>
+              <sic>attutude</sic>
+              <corr>attitude</corr>
+            </choice>; to the f</l>
+          <l>readers, even perhaps to the state of mind</l>
+          <l>is so amorphous that it has no visible</l>
+          <l>the readers; 
+            <choice>
+              <sic>w</sic>
+              <corr>we</corr>
+            </choice> have to become 
+            <choice>
+              <sic>ourslv</sic>
+              <corr>[ourselves?]</corr>
+            </choice></l>
+        </p>
+      </div>
+      <div xml:id="m113.2">
+        <p>
+          <l>8</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-gcla">Gilbert Clandon</rs> could 
+            <choice>
+              <sic>almos</sic>
+              <corr>almost</corr>
+            </choice></l>
+          <l>stubbly beard; dressed in 
+            <choice>
+              <sic>tw</sic>
+              <corr>[tweed?]</corr>
+            </choice></l>
+          <l><add hand="typewriter" place="above">He could swear that</add> xmxmxmmxmxmxmxmxgs who have <add>
+            <choice>
+              <sic>Proba</sic>
+              <corr>[probably?]</corr>
+            </choice></add> [never?]</l>
+          <l>
+            <choice>
+              <sic>ni</sic>
+              <corr>in</corr>
+            </choice> their lives...Hxmxmxmxmxmxmxmx</l>
+          <l>xmxmxmxmxmxmxmxmxmmxmxmxmxmmx 
+            <choice>
+              <sic>Bu</sic>
+              <corr>[But?]</corr>
+            </choice></l>
+          <l>had had the sense to see through him? He rea</l>
+          <l>"B. M. said some very disagreeable things about..."</l>
+          <l>The name was carefully 
+            <choice>
+              <sic>scratchedout</sic>
+              <corr>scratched out</corr>
+            </choice>. "
+            <choice>
+              <sic>Imtold</sic>
+              <corr>I told him I would not</corr>
+            </choice></l>
+          <l>listen to any more abuse of..." xmxmxmmxmxmxmxmxmxmx</l>
+          <l>Again the name was obliterated. Cmxmxmxmxmxmxmxmxmx</l>
+          <l>"
+            <choice>
+              <sic>as</sic>
+              <corr>was</corr>
+            </choice> that why <rs type="person" ref="../resources/annotations.xml#psn-acla">Angela</rs> had covered the page so quickly 
+            <choice>
+              <sic>wen</sic>
+              <corr>when</corr>
+            </choice> he</l>
+          <l>came in? They had been discussing him? He was conscious of</l>
+          <l>some growing irritation. xmxmxmxmxmxmxmxmxmxmxmxmxmx</l>
+          <l><add hand="typewriter" place="above">Why had not Angela</add> xmxmxmmxmxmxmxmxmxm Surely 
+            <choice>
+              <sic>Anglea</sic>
+              <corr>Angela</corr>
+            </choice> had more</l>
+          <l>sense than to believe this kind of rubbish. "<add hand="typewriter" place="above">Yet</add> I can hardly</l>
+          <l>endure to go on living in such luxury. <rs type="literary-work" ref="../resources/annotations.xml#lit-3gui">Three 
+            <choice>
+              <sic>gunieas</sic>
+              <corr>guineas</corr>
+            </choice></rs> for one</l>
+          <l>hat!" Why had she not</l>
+        </p>
+        <p>
+          <l>He picked out any entry that 
+            <choice>
+              <sic>refrred</sic>
+              <corr>referred</corr>
+            </choice> to B. M. He</l>
+          <l>coud not believe that Angela had let 
+            <choice>
+              <sic>he self</sic>
+              <corr>herself</corr>
+            </choice> be deluded</l>
+          <l>by this kind of 
+            <choice>
+              <sic>nonense</sic>
+              <corr>nonsense</corr>
+            </choice>; but why had she not discussed the</l>
+          <l>matter with him? "I can hardly endure to go on living in such</l>
+          <l>luxury. Three 
+            <choice>
+              <sic>gunieas</sic>
+              <corr>guineas</corr>
+            </choice> for one hat!" If only she had asked him</l>
+          <l>he could have explained the fallacy of the socialist 
+            <choice>
+              <sic>argumnt</sic>
+              <corr>argument</corr>
+            </choice></l>
+        </p>
+      </div>
+      <div xml:id="m113.3">
+        <p>
+          <l>We can suppose that the reading public came into existence</l>
+          <l>some four hundred years ago when the playhouse was shut.</l>
+          <l>But the reading public must have been a small one, composed</l>
+          <l>of scholars and aristocrats. The lack of 
+            <choice>
+              <sic>gneral</sic>
+              <corr>general</corr>
+            </choice> reading</l>
+          <l>accounts for the long pause between <rs type="person" ref="../resources/annotations.xml#psn-wsha">
+            <choice>
+              <sic>Shakespares</sic>
+              <corr>Shakespeare's</corr>
+            </choice></rs> death</l>
+          <l>in 
+            <choice>
+              <sic>an</sic>
+              <corr>and</corr>
+            </choice> the 
+            <choice>
+              <sic>i8th</sic>
+              <corr>18th</corr>
+            </choice> century when the plays of 
+            <choice>
+              <sic>Shakeperea</sic>
+              <corr>Shakespeare</corr>
+            </choice> hung</l>
+          <l>
+            <choice>
+              <sic>sus ended</sic>
+              <corr>suspended</corr>
+            </choice>, unrealised. They had to wait until the plays</l>
+          <l>were open on 
+            <choice>
+              <sic>manyprivate</sic>
+              <corr>many private</corr>
+            </choice> tables 
+            <choice>
+              <sic>nbefore</sic>
+              <corr>before</corr>
+            </choice> they received the other life that the reader confers,</l>
+          <l>the detached, the 
+            <choice>
+              <sic>particualr</sic>
+              <corr>particular</corr>
+            </choice>. The smallness of the reading</l>
+          <l>public and its specialised nature accounts for the scarcity</l>
+          <l>of 
+            <choice>
+              <sic>criti icism</sic>
+              <corr>criticism</corr>
+            </choice>, and for the general nature of what</l>
+          <l>criticism there was. Both <rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs> deal</l>
+          <l>with the xmxmxmxxx theory of poetry and not with the</l>
+          <l>
+            <choice>
+              <sic>artciual</sic>
+              <corr>[actual?]</corr>
+            </choice> poem, are writing for the little public of</l>
+          <l>scholars and aristocrats and deal with the <add hand="typewriter" place="above">general</add> questions of 
+            <choice>
+              <sic>inter</sic>
+              <corr>interest</corr>
+            </choice></l>
+          <l>t to them, not with the 
+            <choice>
+              <sic>particualr</sic>
+              <corr>particular</corr>
+            </choice> 
+            <choice>
+              <sic>questoons</sic>
+              <corr>questions</corr>
+            </choice> that 
+            <choice>
+              <sic>interst</sic>
+              <corr>interest</corr>
+            </choice> the public. The 
+            <choice>
+              <sic>gneral</sic>
+              <corr>general</corr>
+            </choice> public was not asking for</l>
+          <l>
+            <choice>
+              <sic>co ment</sic>
+              <corr>comment</corr>
+            </choice> or 
+            <choice>
+              <sic>cticism</sic>
+              <corr>criticism</corr>
+            </choice>. Wi They had to draw in the play with</l>
+          <l>their eyes and their ears. They 
+            <choice>
+              <sic>Wothout</sic>
+              <corr>Without</corr>
+            </choice> a book of the</l>
+          <l>words they could not deepen and revise the impression</l>
+          <l>
+            <choice>
+              <sic>lfet</sic>
+              <corr>left</corr>
+            </choice> by the play, or ask those questions that in our day</l>
+          <l>are answered in every newspaper.</l>
+        </p>
+      </div>
+      <div xml:id="m113.4"> <!-- add in <rs> refs for characters? and come back to marginal pencil addition -->
+        <p>
+          <l>141</l>
+          <l>spreading the light...what were you saying... helping our</l>
+          <l>fellow men... 
+            <choice>
+              <sic>amo g</sic>
+              <corr>among</corr>
+            </choice> 
+            <choice>
+              <sic> h </sic>
+              <corr>the</corr>
+            </choice> heathens...</l>
+        </p>
+        <p>
+          <l>
+            <choice>
+              <sic>Edgra</sic>
+              <corr>Edgar</corr>
+            </choice>...Miss Hardcastle...eleanor, you tempt me....</l>
+          <l>Dare I ask you? So gently nurtured... Think what you are</l>
+          <l>saying...</l>
+        </p>
+        <p>
+          <l>Eleanor... I have thought...on my knees!</l>
+        </p>
+        <p>
+          <l>Edgar... (extracting a ring from his pocket) My 
+            <choice>
+              <sic>mtother</sic>
+              <corr>mother</corr>
+            </choice>...</l>
+          <l>on her death bed... no, no....I cannot ask it... my 
+            <choice>
+              <sic>alck</sic>
+              <corr>lack</corr>
+            </choice> of</l>
+          <l>birth... Your father... Ten years.... xmxmxmxmxmxmxmmxmx...</l>
+          <l>Can you bear it?</l>
+        </p>
+        <p>
+          <l>Eleanor slipping the ring into her pocket...</l>
+          <l>A life time...For you...</l>
+        </p>
+        <p>
+          <l>Enter Mrs hardcastle on a donkey.</l>
+        </p>
+        <p>
+          <l>Mrs Hardcastle. So you stole a march on us, young people.</l>
+          <l>There was a time, Sir John ( turning to Sir 
+            <choice>
+              <sic>Jon</sic>
+              <corr>John</corr>
+            </choice> ) when I</l>
+          <l>was always first on to. Now--- thats where we had the picnic</l>
+          <l>past year--where the grass is burnt. You and I Sir John will</l>
+          <l>
+            <choice>
+              <sic>unoack</sic>
+              <corr>unpack</corr>
+            </choice> txmxmxmxmxxx hamper.</l>
+        </p>
+        <p>
+          <l>She descends from her donkey.</l>
+        </p>
+        <p>
+          <l><add hand="ms" place="inline">(</add>This is where we had the picnic last year. 
+            <choice>
+              <sic>ere</sic>
+              <corr>[There? Here?]</corr>
+            </choice> by the lake.<add hand="ms" place="ms">)</add></l>
+          <l>( Children, young men young ladies, some carrying</l>
+          <l>hampers, others 
+            <choice>
+              <sic>buttefly</sic>
+              <corr>butterfly</corr>
+            </choice> nets, some with spy c glasses</l>
+          <l>&amp;c arrive. )</l>
+        </p>
+        <p>
+          <l>A rug is thrown on the ground and Mrs hardcastle seats 
+            <choice>
+              <sic>hersel</sic>
+              <corr>herself</corr>
+            </choice></l>
+          <l>upon a camp stool.</l>
+        </p>
+        <p>
+          <l>Mrs H.... Some of you gentlemen fill the kettles. Who'll</l>
+          <l>gather sticks? Now Alfred dont 
+            <choice>
+              <sic>runa bout</sic>
+              <corr>run about</corr>
+            </choice> chasing b</l>
+          <l>
+            <choice>
+              <sic>erfiles</sic>
+              <corr>[butterflies?]</corr>
+            </choice> or 
+            <choice>
+              <sic>youllmkae</sic>
+              <corr>you'll make</corr>
+            </choice> yourself sick. Remember last year...</l>
+          <l>I will unpack the hamper. here where the</l>
+        </p>
+      </div>
+      <div xml:id="m113.5">
+        <p>
+          <l>13</l>
+          <l>the pear shaped lute on which the <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs> once played.</l>
+          <l>The 
+            <choice>
+              <sic>furniyure</sic>
+              <corr>furniture</corr>
+            </choice> remains; 
+            <choice>
+              <sic>syiff</sic>
+              <corr>stiff</corr>
+            </choice>, ornate, 
+            <choice>
+              <sic>angaulr</sic>
+              <corr>angular</corr>
+            </choice> and uncushioned</l>
+          <l>There are the very "vardigalls" that raised the preachers</l>
+          <l>wrath.</l>
+        </p>
+        <p>
+          <l>
+            <choice>
+              <sic>Elizabthan</sic>
+              <corr>Elizabethan</corr>
+            </choice> 
+            <choice>
+              <sic>cloth s</sic>
+              <corr>clothes</corr>
+            </choice> have had too much</l>
+          <l>attention from the 
+            <choice>
+              <sic>historival</sic>
+              <corr>historical</corr>
+            </choice> 
+            <choice>
+              <sic>novelst</sic>
+              <corr>novelist</corr>
+            </choice>, and too little</l>
+          <l>from the psychologist. What desire was it that</l>
+          <l>prompted this 
+            <choice>
+              <sic>extraodrinady</sic>
+              <corr>extraordinary</corr>
+            </choice> display? There must have been</l>
+          <l>some protest, some desire to affirm something, behind the</l>
+          <l>slashed cloaks; the stiff ruffs; the wrought chains</l>
+          <l>and the loops of pearls. The cost was great; the discomfort</l>
+          <l>appaling; yet the fashion prevailed. Was it perhaps,</l>
+          <l>the mark of an 
+            <choice>
+              <sic>uannymous</sic>
+              <corr>anonymous</corr>
+            </choice>, 
+            <choice>
+              <sic>unreorded</sic>
+              <corr>unrecorded</corr>
+            </choice> age to enforce the</l>
+          <l>
+            <choice>
+              <sic>indivisual</sic>
+              <corr>individual</corr>
+            </choice>; to make ones ones physical body as bright,</l>
+          <l>as definite, as marked as possible? Fame must be 
+            <choice>
+              <sic>concentrate</sic>
+              <corr>concentrated</corr>
+            </choice></l>
+          <l>in the body; since the other kind of fame, the publicity</l>
+          <l>of the paper, of the pxmxmxx photograph, was 
+            <choice>
+              <sic>d nied</sic>
+              <corr>denied</corr>
+            </choice> them.</l>
+          <l>Did the 
+            <choice>
+              <sic>elqoeunce</sic>
+              <corr>eloquence</corr>
+            </choice> of dress speak, when the art of verbal</l>
+          <l>speech was 
+            <choice>
+              <sic>stillunformed</sic>
+              <corr>still unformed</corr>
+            </choice>?</l>
+        </p>
+        <p>
+          <l>The Elizabethans are silent. There is no little 
+            <choice>
+              <sic>languag</sic>
+              <corr>language</corr>
+            </choice></l>
+          <l>nothing brief, intimate, 
+            <choice>
+              <sic>collqouial</sic>
+              <corr>colloquial</corr>
+            </choice>. When they write</l>
+          <l>the 
+            <choice>
+              <sic>rhytm</sic>
+              <corr>rhythm</corr>
+            </choice> of the Bible is in their ears. It makes their 
+            <choice>
+              <sic>speeh</sic>
+              <corr>speech</corr>
+            </choice></l>
+          <l>unfamiliar. It is only expressive of certain emotions.</l>
+          <l>Thus when Lady <rs type="person" ref="../resources/annotations.xml#psn-abac">Ann Bacon</rs> writes to <rs type="person" ref="../resources/annotations.xml#psn-fbac">her son</rs> she is a preacher</l>
+          <l>addressing a subordinate. Fear of God and distrust of man</l>
+          <l>surround her as with the walls of a dungeon. She admonishes;</l>
+          <l>she 
+            <choice>
+              <sic>ehorst</sic>
+              <corr>exhorts</corr>
+            </choice>. The actual object--it is a basket of xxxxx</l>
+        </p>
+      </div>
+      <div xml:id="m113.6"> <!-- come back to marginal addition -->
+        <p>
+          <l>25</l>
+          <l>hates uttered. The world was made visible to them,</l>
+          <l>now at this very 
+            <choice>
+              <sic>oment</sic>
+              <corr>moment</corr>
+            </choice>. It was magnified, heightened,</l>
+          <l>Poetry, the stimulus of metre, of decoration of fine 
+            <choice>
+              <sic>languag</sic>
+              <corr>language</corr>
+            </choice></l>
+          <l>was was a necessity. The poet was urged into falsification</l>
+          <l>and hyperbole.</l>
+        </p>
+        <p>
+          <l>But in the seats under the ceiling, in the 
+            <choice>
+              <sic>nblemens</sic>
+              <corr>noblemens'</corr>
+            </choice> rooms,</l>
+          <l>there were nobles, rulers, scholars. They too are silent.</l>
+          <l>And their 
+            <choice>
+              <sic>sielnce</sic>
+              <corr>silence</corr>
+            </choice> is harder to explain. For they were</l>
+          <l>readers; they xmxmxmx had Latin and Greek behind them and</l>
+          <l>the plays of the classics. How can it have been that</l>
+          <l>the little highly educated Elizabethan 
+            <choice>
+              <sic>p blic</sic>
+              <corr>public</corr>
+            </choice> made no more</l>
+          <l>comment upon the play at the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs> than the groundlings?</l>
+          <l><add hand="ms" place="margin">A poet wrote sonnets to Mr W. H. Who is W H? The 
+            <choice>
+              <sic>Ethn</sic>
+              <corr>Elizabethan</corr>
+            </choice> <del>aud</del> have not [illeg.]</add></l>
+        </p>
+        <p>
+          <l>Perhaps Bacon in his <rs type="literary-work" ref="../resources/annotations.xml#lit-baes">essays</rs> supplies a reason.</l>
+          <l><quote source="#">"These things be but toyes"</quote> he wrote in the essay called</l>
+          <l><rs type="person" ref="../resources/annotations.xml#lit-masq">Of 
+            <choice>
+              <sic>Masues</sic>
+              <corr>Masques</corr>
+            </choice> and 
+            <choice>
+              <sic>Tirumphs</sic>
+              <corr>Triumphs</corr>
+            </choice></rs>." To the 
+            <choice>
+              <sic>aristorcrati</sic>
+              <corr>aristocratic</corr>
+            </choice> scholar</l>
+          <l>the players were still only mountebanks, bear leaders and</l>
+          <l>acrobats. Off the stage they lived in the <rs type="literary-work" ref="../resources/annotations.xml#lit-hear">heart of darkness</rs>;</l>
+          <l>Was Not <rs type="person" ref="../resources/annotations.xml#psn-cmar">
+            <choice>
+              <sic>Marloew</sic>
+            </choice></rs> hilled in a house of ill fame? Did not <rs type="person" ref="../resources/annotations.xml#psn-bjon">Ben</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-bjon">
+            <choice>
+              <sic>Josnon</sic>
+              <corr>Jonson</corr>
+            </choice></rs> run <rs type="person" ref="../resources/annotations.xml#psn-gspe">
+              <choice>
+                <sic>Spencer</sic>
+                <corr>Spenser</corr>
+              </choice></rs> through the body with a sword that</l>
+          <l>cost three and sixpence? So complete was bacons contempt for</l>
+          <l>this 
+            <choice>
+              <sic>unde rwolrd</sic>
+              <corr>underworld</corr>
+            </choice> that he can be tolerant. <quote source="#" rend="inline">"The Stage is</quote></l>
+          <l><quote source="#" rend="inline">more beholding to Love than the life of Man....</quote></l>
+          <l><quote source="#" rend="inline">great spirits and great Business do keepe out of this weak</quote></l>
+          <l><quote source="#" rend="inline">passion.<add hand="ms" place="inline">"</add></quote> The proper place for the weak passion was not real</l>
+          <l>life but the stage, for love <quote source="#" rend="inline">"leads to speaking in a 
+            <choice>
+              <sic>perpeta</sic>
+              <corr>perpetual</corr>
+            </choice></quote></l>
+          <l><quote source="#" rend="inline">
+            <choice>
+              <sic>hypberole</sic>
+              <corr>hyperbole</corr>
+            </choice></quote></l>
+        </p>
+        <p>
+          <l>The proper topics of 
+            <choice>
+              <sic>dicssuun</sic>
+              <corr>discussion</corr>
+            </choice> in the upper</l>
+          <l>world axxx is the life of man. The titles of Bacons essays</l>
+        </p>
+      </div>
+      <div xml:id="m113.7"> <!-- come back to marginal addition here -->
+        <p>
+          <l>The readers faculty is a queer one. He has the power to</l>
+          <l>make houses and countries visible, men and women and their</l>
+          <l>thoughts and emotions, from marks on a printed page.</l>
+          <l>He is not a scholar and so lacks many props, many</l>
+          <l>special tastes that control <add hand="ms" place="above">[anticipate?]</add>, and direct.</l>
+          <l>He has a sensibility that millions of perfectly</l>
+          <l>literate people, who 'read' the paper, are without.</l>
+          <l>And in the play, when the body of the actor is visible,</l>
+          <l>xmxmxmxmxmxx with all its implications,</l>
+          <l>some of the elements that the reader is able to extract</l>
+          <l>from the 
+            <choice>
+              <sic>pirnted</sic>
+              <corr>printed</corr>
+            </choice> page are absent. We do not 'know'</l>
+          <l>
+            <choice>
+              <sic>Marloew</sic>
+              <corr>Marlowe</corr>
+            </choice>, <rs type="person" ref="../resources/annotations.xml#psn-tdek">Dekker</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou">Tourneur</rs> <rs type="person" ref="../resources/annotations.xml#psn-jfor">Ford</rs>, as we know</l>
+          <l>Sir <rs type="person" ref="../resources/annotations.xml#psn-tbro">Thomas Browne</rs> or <rs type="person" ref="../resources/annotations.xml#psn-rbur">Burton</rs>.What we have of them is what it</l>
+          <l>was possible for the actors <add hand="ms" place="inline">t</add>o say. And as 
+            <choice>
+              <sic>Shakenspere</sic> <!-- Shakenspeare, not Stirredpeare -->
+              <corr>Shakespeare</corr>
+            </choice></l>
+          <l>could say everything finally, more at least than has been</l>
+          <l>said before and 
+            <choice>
+              <sic>sincem</sic>
+              <corr>since</corr>
+            </choice> through the mouths of his characters,</l>
+          <l>he is at once the best 
+            <choice>
+              <sic>kniwn</sic>
+              <corr>known</corr>
+            </choice> and the 
+            <choice>
+              <sic>l ast</sic>
+              <corr>least</corr>
+            </choice> known of all</l>
+          <l>writers. At the same time we have the most completely</l>
+          <l>articulate of men and nobody in 
+            <choice>
+              <sic>particualr</sic>
+              <corr>particular</corr>
+            </choice>.</l>
+        </p>
+        <p>
+          <l>For this reason he is the most read of all writers.</l>
+          <l>And 
+            <choice>
+              <sic>very</sic>
+              <corr>every</corr>
+            </choice> reader has a dozen different methods of 
+            <choice>
+              <sic>catvhing</sic>
+              <corr>catching</corr>
+            </choice></l>
+          <l>him. He is the most read of all writers because</l>
+          <l>no one has ever 
+            <choice>
+              <sic>ummed</sic>
+              <corr>summed</corr>
+            </choice> him up. There is 
+            <choice>
+              <sic>soething</sic>
+              <corr>something</corr>
+            </choice></l>
+          <l>still to be discovered. He has given tongue to so much</l>
+          <l>that every one can find 
+            <choice>
+              <sic>himse f</sic>
+              <corr>himself</corr>
+            </choice> in Shakespeare. The 
+            <choice>
+              <sic>auto</sic>
+              <corr>autobiographical</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>biopgrahical</sic>
+              <corr>autobiographical</corr>
+            </choice> element in 
+            <choice>
+              <sic>Shakeapearn</sic>
+              <corr>Shakespearean</corr>
+            </choice> criticism is a proof</l>
+          <l>of of this. Each of the 
+            <choice>
+              <sic>exploerers</sic>
+              <corr>explorers</corr>
+            </choice> seems for a moment</l>
+          <l>to sum up; and then is consumed and the 
+            <choice>
+              <sic>unreorded</sic>
+              <corr>unrecorded</corr>
+            </choice> light</l>
+          <l>streams round him. That is one reason for his 
+            <choice>
+              <sic>perptaul</sic>
+              <corr>perpetual</corr>
+            </choice></l>
+        </p>
+      </div>
+      <div xml:id="m113-7">
+        <p>
+          <l>But as most of these attempts have only added to 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>autobigraph</sic>
+              <corr>autobiography</corr>
+            </choice> of the critic, the reader decides wisely</l>
+          <l>perhaps to keep 
+            <choice>
+              <sic>Shakepare</sic>
+              <corr>Shakespeare</corr>
+            </choice> there not so much as a</l>
+          <l>book into which digging will perhaps turn up</l>
+          <l>something that sets a crown; The better part is to</l>
+          <l>have him in the mind; 
+            <choice>
+              <sic>un reduced</sic>
+              <corr>unreduced</corr>
+            </choice>; but</l>
+          <l>the one writer who is never completely read.</l>
+        </p>
+      </div>
+      <div xml:id="m113-8">
+        <p>
+          <l>179</l>
+          <l>pilgrims had bxxxxxd <add hand="typewriter" place="above">bruised</add> the grass. The stain wxxxx made a</l>
+          <l>path. It was growing dark. Since there were no</l>
+          <l>clouds to trouble the sky, the blue was bluer, and the</l>
+          <l>green for one moment greener. There was no longer a view.</l>
+          <l>No Folly; no spire of 
+            <choice>
+              <sic>Bolmey</sic>
+              <corr>Bolney</corr>
+            </choice> Minster. It was land merely,</l>
+          <l>no land in 
+            <choice>
+              <sic>particualr</sic>
+              <corr>particular</corr>
+            </choice>. <rs type="person" ref="../resources/annotations.xml#psn-latr">She</rs> put down her case,</l>
+          <l>and stood looking at the land. Then something rose to the</l>
+          <l>surface.</l>
+        </p>
+        <p>
+          <l>"I should group 'em there" she said. It would be</l>
+          <l>midnight; two figures, hardly perceptible, half concealed</l>
+          <l>by a rock. The curtain would rise. What would the first</l>
+          <l>words be? That floored her. The words escaped her.</l>
+        </p>
+        <p>
+          <l>Again she lifted the heavy suit case to her</l>
+          <l>shoulder. She strode off across the lawn. The house was</l>
+          <l>dormant; one thread of smoke 
+            <choice>
+              <sic>thockened</sic>
+              <corr>thickened</corr>
+            </choice> against the trees.</l>
+          <l>How xxxxxx strange that the earth with all those flowers</l>
+          <l>incandescent, the lilies, the roses, those clumps of white</l>
+          <l>flowers, those bushes of burning green-- should still be</l>
+          <l>hard! The waters of illusion <add hand="typewriter" place="above">surrounded her.</add> fxmxmxmmxmxmxer. 
+            <choice>
+              <sic>Aagain</sic>
+              <corr>Again</corr>
+            </choice></l>
+          <l>she was taking her voyage away from the shore.</l>
+          <l><add hand="typewriter" place="above">She</add> xmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxmxmxm</l>
+          <l>and 
+            <choice>
+              <sic>riasing</sic>
+              <corr>raising</corr>
+            </choice> her hand, she lifted the latch of the</l>
+          <l>ornamental iron gate.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

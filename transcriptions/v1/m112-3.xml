@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M112 [The Reader]. Set 3 of 3. Typescript fragment, unsigned and undated. 3p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m112-3</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M112 [The Reader]. Set 3 of 3. Typescript fragment, unsigned and undated. 3p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m112-3.1">
+        <p>
+          <l>35</l>
+          <l>so long as the play was dominant. The audience at the play</l>
+          <l>house had to draw in txxxx the play with their eyes and</l>
+          <l>ears. Without a book of the words they could not deepen and</l>
+          <l>revise the impression left by the play, or ask those</l>
+          <l>questions that are debated now in every newspaper. The lack</l>
+          <l>of general reading accounts for the long pause between</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeares</rs> death and the 
+            <choice>
+              <sic>k8th</sic>
+              <corr>18th</corr>
+            </choice> century when the plays of</l>
+          <l>
+            <choice>
+              <sic>Shakespere</sic>
+              <corr>Shakespeare</corr>
+            </choice> hung suspended, unrealised-- even in 17</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-mmor">Morgann</rs> could say that 
+            <choice>
+              <sic>Shakespera</sic>
+              <corr>Shakespeare</corr>
+            </choice> still lacked</l>
+          <l>half his 
+            <choice>
+              <sic>proer</sic>
+              <corr>proper</corr>
+            </choice> fame. The lack of a reading public</l>
+          <l>accounts too for the scarcity of criticism and for the</l>
+          <l>general nature of what criticism there is. Both <rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> and</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs> are writing for the small critical public, and thus</l>
+          <l>deal with 
+            <choice>
+              <sic>ggneral</sic>
+              <corr>general</corr>
+            </choice> questions, and not with 
+            <choice>
+              <sic>partciualr</sic>
+              <corr>particular</corr>
+            </choice> books</l>
+          <l>and 
+            <choice>
+              <sic>perons</sic>
+              <corr>persons</corr>
+            </choice>.</l>
+        </p>
+        <p>
+          <l>The reader then 
+            <choice>
+              <sic>com s</sic>
+              <corr>comes</corr>
+            </choice> into existence some time</l>
+          <l>at 
+            <choice>
+              <sic>teh</sic>
+              <corr>the</corr>
+            </choice> end of the sixteenth century, and his life history</l>
+          <l>could we discover it would be worth writing, for the effect</l>
+          <l>it had upon literature. At some point his ear must have</l>
+          <l>lost its acuteness; at 
+            <choice>
+              <sic>a other</sic>
+              <corr>another</corr>
+            </choice> his eye must have become dull.</l>
+          <l>Our own attempt when we read the early Elizabethan 
+            <choice>
+              <sic>palys</sic>
+              <corr>plays</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>the</sic>
+              <corr>to</corr>
+            </choice> supply the trumpets and the flags, the citizens and the</l>
+          <l>apprentices is an effort to revert to an earlier stage.</l>
+          <l>As time goes on 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> reader becomes distinct 
+            <choice>
+              <sic>f om</sic>
+              <corr>from</corr>
+            </choice> the</l>
+          <l>spectator. His 
+            <choice>
+              <sic>snese</sic>
+              <corr>sense</corr>
+            </choice> of words and their 
+            <choice>
+              <sic>associat ns</sic>
+              <corr>associations</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>dvelops</sic>
+              <corr>develops</corr>
+            </choice>. Hxxx A word spelt on the old spelling brings</l>
+          <l>in 
+            <choice>
+              <sic>asscoations</sic>
+              <corr>associations</corr>
+            </choice>. Readers split off into different 
+            <choice>
+              <sic>clases</sic>
+              <corr>classes</corr>
+            </choice>.</l>
+        </p>
+      </div>
+      <div xml:id="m112-3.2">
+        <p>
+          <l>36</l>
+          <l>As the habit of reading becomes universal, readers split off</l>
+          <l>into different classes. There is the 
+            <choice>
+              <sic>specilaised</sic>
+              <corr>specialised</corr>
+            </choice> reader, who</l>
+          <l>attaches himself to certain aspects of the 
+            <choice>
+              <sic>rpinted</sic>
+              <corr>printed</corr>
+            </choice> word.</l>
+          <l>Again there is the very large class of perfectly literate</l>
+          <l>people who strip many miles of print yearly from paper</l>
+          <l>yet never read a word. Finally 
+            <choice>
+              <sic>ere</sic>
+              <corr>there</corr>
+            </choice> is the reader like</l>
+          <l><add hand="typewriter" place="above">who, like</add> Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif">
+            <choice>
+              <sic>AnnnClifford</sic>
+              <corr>Ann Clifford</corr>
+            </choice></rs> read excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha">
+              <choice>
+                <sic>C aucers</sic>
+                <corr>Chaucer's</corr>
+              </choice></rs> book when they</l>
+          <l>are in trouble <quote source="#" rend="inline">"and a little part of his beauteous spirit</quote></l>
+          <l><quote source="#" rend="inline">infuses itself in me."</quote> Hexmxmmxmxmxmxmxmxmmx And the</l>
+          <l>curious faculty --the 
+            <choice>
+              <sic>pow r</sic>
+              <corr>power</corr>
+            </choice> to make places and houses,</l>
+          <l>men and women and 
+            <choice>
+              <sic>theit</sic>
+              <corr>their</corr>
+            </choice> thoughts and emotions 
+            <choice>
+              <sic>vivible</sic>
+              <corr>visible</corr>
+            </choice> on</l>
+          <l>the printed page is a xxxx always changing. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine">cinema</rs></l>
+          <l>now 
+            <choice>
+              <sic>develping</sic>
+              <corr>developing</corr>
+            </choice> his eyes; the <rs type="literary-work" ref="../resources/annotations.xml#lit-broa">Broadcast</rs> is 
+            <choice>
+              <sic>develpoing</sic>
+              <corr>developing</corr>
+            </choice> his</l>
+          <l>ear. His importance can be gauged by the fact</l>
+          <l>that when his attention is distracted, in times of public</l>
+          <l>crisis, the writer exclaims: I can write no more.</l>
+        </p>
+        <p>
+          <l>But the presence of the reader was felt even</l>
+          <l>while the play was still on 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> stage. It was for him that</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-rbur">Burton</rs> composed that 
+            <choice>
+              <sic>extraodinary</sic>
+              <corr>extraordinary</corr>
+            </choice> composition the <rs type="literary-work" ref="../resources/annotations.xml#lit-anat">Anatomy</rs></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-anat">of Melancholy</rs>. It is there that the reader makes his</l>
+          <l>first appearance, for it is there that we find the writer</l>
+          <l>completely conscious of 
+            <choice>
+              <sic>is</sic>
+              <corr>his</corr>
+            </choice> relation with the reader.</l>
+          <l>xxx and He reveals himself. I am a 
+            <choice>
+              <sic>bachelor</sic>
+              <corr>batchelor</corr>
+            </choice>I am neither</l>
+          <l>rich nor poor. I am a tumbler over of other mens books.</l>
+          <l>I live in college rooms. I am a spectator not an actor.</l>
+          <l>There is 
+            <choice>
+              <sic>n</sic>
+              <corr>no</corr>
+            </choice> playhouse audience forcing him to embody his</l>
+        </p>
+      </div>
+      <div xml:id="m112-3.3">
+        <p>
+          <l>37</l>
+          <l>
+            <choice>
+              <sic>meditayions</sic>
+              <corr>meditations</corr>
+            </choice>. The vast accumulations, of 
+            <choice>
+              <sic>lear ing</sic>
+              <corr>learning</corr>
+            </choice>, that</l>
+          <l>have filtered from books into the quiet college room</l>
+          <l>meander over the page. He sees through a thousand <quote source="#" rend="inline">green 
+            <choice>
+              <sic>shads</sic>
+              <corr>shades</corr>
+            </choice></quote></l>
+          <l>what lies 
+            <choice>
+              <sic>immidately</sic>
+              <corr>immediately</corr>
+            </choice> before him-- the unhappy heart of</l>
+          <l>man. The reflections serve to chequer the immediate</l>
+          <l>spectacle. From books he has won the tolerant sense</l>
+          <l>that we are not 
+            <choice>
+              <sic>singl</sic>
+              <corr>single</corr>
+            </choice> figures but innumerably 
+            <choice>
+              <sic>rep ated</sic>
+              <corr>repeated</corr>
+            </choice>.</l>
+          <l>In pursuit of melancholy he travels over the whole world,</l>
+          <l>though he has never left his college room. We are at a remove</l>
+          <l>from the thing treated. We are enjoying the spectacle of</l>
+          <l>melancholy, not sharing is anguish.</l>
+        </p>
+        <p>
+          <l>It is here then that we develop 
+            <choice>
+              <sic>facuoties</sic>
+              <corr>faculties</corr>
+            </choice> that</l>
+          <l>the play left dormant. to stop; to pause; to 
+            <choice>
+              <sic>refelct</sic>
+              <corr>reflect</corr>
+            </choice>;</l>
+          <l>to Now the reader is completely in being. He can</l>
+          <l>pause; he can ponder; he can compare; he can draw back from</l>
+          <l>the page and see behind it a man sitting alone in the centre</l>
+          <l>of the labyrinth of words in a college room 
+            <choice>
+              <sic>thinkinh</sic>
+              <corr>thinking</corr>
+            </choice></l>
+          <l>of suicide. He can gratify many different moods.</l>
+          <l>He can read directly what is on the page, or, drawing</l>
+          <l>aside, can read what is not written. There is a long drawn</l>
+          <l>continuity in the book that the 
+            <choice>
+              <sic>paly</sic>
+              <corr>play</corr>
+            </choice> has not. It gives a</l>
+          <l>different pace to the mind. We are in a world where</l>
+          <l>nothing is concluded.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
