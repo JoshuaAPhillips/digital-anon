@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8. 1 of 8. [The great Elizabethan house, Penshurst...]. Holograph. In [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 60-76. 9p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-1</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8. 1 of 8. [The great Elizabethan house, Penshurst...]. Holograph. In [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 60-76. 9p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-1.1 [p. 60]">
+        <p>
+          <l><add place="inline">If</add> The grave Elizabethan house, <rs type="place" ref="../resources/annotations.xml#pla-pens">Penshurst</rs>, within, as we</l>
+          <l>see it now, looks out of proportion, <del>it is because</del></l>
+          <l>with its surroundings, it is because <del>the rela</del> <del>its</del> <add place="above">the</add> connection</l>
+          <l>with the <del>village is</del> great house &amp; the village is lost.</l>
+          <l>If we could see it <del>as it was when in being</del></l>
+          <del>
+            <l><del>as the airman sees it</del> as it <del>was when</del> in being we</l>
+            <l>should see the <del>the</del> <del>farm, the cottage,</del> <del>roads</del> as an</l>
+          </del>
+          <l>airman sees the foundations of old towns</l>
+          <l>still <del>existing</del> marked on the fields, we should see</l>
+          <l><del>the</del> <del>great</del> tracks leading from the farm &amp; the cottage;</l>
+          <l>we should see the great house as an oasis in the</l>
+          <l>in the midst of wild country;</l>
+        </p>
+        <p>
+          <l>If we could see the great house as it was <del>when Spenser</del></l>
+          <l><del>in the</del> in the time of <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs>, we should see</l>
+          <l>tracks, <del>leading fro</del> raying out to farms, <add place="above">&amp;</add> to cottages, to</l>
+          <l>&amp; barns. <del>We should see it like a <del>green</del> oasis in</del></l>
+          <l><del>the middle of a desert.</del> The <del>[close?]</del> It was</l>
+          <l>It <del>it was [meaning?]</del> <add place="above">If</add> of the great house were to</l>
+          <l><add place="margin">of common needs</add> [detect?] the <del>enemy that it should</del> the enemy, [man?]</l>
+          <l>that there <del>should</del> <add place="above">was</add> be armour in the church: to</l>
+          <l>fight against hunger in winter there should be grain in the</l>
+          <l>barn. The common fight linked the great house to the</l>
+          <l>small. It is that connection <del>that is detailed</del></l>
+          <l><del>in so many</del> between master &amp; man that is</l>
+          <l><del>seen</del> <del>detail</del> <del>detailed so painfully &amp; minutely in the</del></l>
+          <l>medieval <del>account books, inventories,</del> that is</l>
+          <l>so minutely &amp; painfully revealed <del>in the innumerable</del></l>
+          <l>in the <rs type="person" ref="../resources/annotations.xml#psn-past">Paston</rs> letters: it makes the staple of</l>
+          <l>medieval correspondence. But there was</l>
+          <l>also the other connection – <del>there was</del> the</l>
+          <l>common belief: that bond between the</l>
+          <l>great house &amp; the small has been <del>obli</del> covered</l>
+          <l>over. <del>Just as the antiquaries</del>, <del>so that</del></l>
+          <l>like the <del>pilgrims way,</del> <del>which is</del> <del>old</del>track</l>
+          <l><del>road</del> under the hill, <del>now</del> along which <del>we are</del> <add place="above">once</add></l>
+          <l><del>trod by [regular?]</del> the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant">Pilgrims</rs> rode to <rs type="place" ref="../resources/annotations.xml#pla-cant">Canterbury</rs></l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.2 [p. 62]">
+        <p>
+          <l>No one uses it now. But <del>in the</del> when Spenser came to</l>
+          <l>Penshurst, that track led from the great house to the</l>
+          <l>hovel. <del>They believed</del> In the spring they danced</l>
+          <l>round the maypole; in <del>summer</del> at midsummer the</l>
+          <l>bon fire was lit on the hill; at harvest time the</l>
+          <l>waggons were crowned: at Christmas the mummers &amp; the</l>
+          <l>wassailers sung under the windows: <del>Long</del> <del>They</del></l>
+          <l><del>rem</del> <del>believed</del> <del>Beneath the</del> <del>the tree</del> <del>Summer</del></l>
+          <l>Spring &amp; summer &amp; winter were gods. The sea was</l>
+          <l>a god, the earth a goddess. This ancient belief</l>
+          <l>lay beneath the Christian belief;</l>
+          <add place="margin">
+            <l>still showed</l>
+            <l>the scholars tell us,</l>
+            <l>in the 
+              <choice>
+                <sic>Ethn</sic>
+                <corr>Elizabethan</corr>
+              </choice></l>
+            <l>common mind.</l>
+          </add>
+          <l>&amp; <del>there was still in being the</del> <del>old</del> <del>Pagan</del></l>
+          <l>was <del>still in being; the old Eight gods were</del></l>
+          <l>the Pagan Gods were still <add>in the fields</add> <del>to be</del></l>
+          <l><del>worshipped</del> alive to be [remembered?], to be worshipped.</l>
+          <add place="margin">
+            <l>were [remembered?]</l>
+            <l>under the</l>
+            <l>semblance of the</l>
+            <l>Christian one</l>
+          </add>
+          <l><del>And</del> <del>Even if the Christian faith had</del> And</l>
+          <l><del>Even</del> of <del>the Gods were losing their fervor, thewe was</del></l>
+          <l>the <del>Even if the service of the Pagan gods was</del></l>
+          <l><del>losing <del>its</del> authority</del>, <del>there was still</del></l>
+          <l>&amp; even the names of the Pagan <del>gods were</del></l>
+          <l>slowly sinking into forgetfulness, there</l>
+          <l><del>remained</del> the <del>desire, when spring came, to</del></l>
+          <l><del>put on the</del> the <del>des</del> desire remained <del>to</del></l>
+          <l>when spring came after the winter, or in the</l>
+          <l>cold of Christmas,  to slip <del>off the</del> hours of</l>
+          <l><del>work</del>; to <del>make</del> cease, for one day only, from the</l>
+          <l>daily work; to <del>be</del> enact, to represent, to</l>
+          <l>make something which had no use or</l>
+          <l>give <del>shape to the old</del>^ <add place="margin">to celebrate the common instinct, to</add> <del>which</del> connection</l>
+          <l>with the daily <del>fight</del> struggle, to impersonate,</l>
+          <l>to <del>draw up</del> to become, for one day, a</l>
+          <l>the <del>thing that was</del> <del>b</del> belief in person, to</l>
+          <l><del>represent in</del> <del>make a</del> to make with ones</l>
+          <l><del>own</del> body a symbol of the</l>
+          <l>to bring out, to <del>le</del> <del>leap [illeg]</del> <add place="above"><del>be</del></add> into the <del>air</del> light,</l>
+          <l>the decked up presentation <del>of those</del></l>
+          <l>log, of laughter, <del>of</del> to dance &amp; sing, to</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.3 [p. 64]">
+        <p>
+          <l>to embody in any own [hinon?] the beliefs, &amp; fear, &amp;</l>  
+          <l><del>the</del> which was so strong then, <del>in the</del> when the</l>
+          <l>so much depended on the sun; when so little</l>
+          <l>was known. The <del>scholars tell us</del> <del>that</del> how</l>
+          <l><del>this double instinct</del> all through the <del>the</del></l>
+          <l><del>middle ages this belief,</del> <del>this desire</del> middle ages</l>
+          <l><del>the roads were</del> <del>thus, as the 
+            <choice>
+              <sic>sholar</sic>
+              <corr>scholar</corr>
+            </choice> tell us</del></l>
+          <l><del>the</del> <del>down that</del> <add place="above">that</add> sunk in road, <del>the</del> that track of</l>
+          <l>ancient belief, lay between the great house &amp; the</l>
+          <l>cottage. In the noble, as in the peasant, a</l>
+          <l>half spoken anonymous voice murmured of</l>
+          <l>old Gods, of old devils; of what moved</l>
+          <l>propitiate, <del>what moved</del> <del>of</del> <del>of what</del> the well &amp;</l>
+          <l>the tree were still haunted. And, as the scholars</l>
+          <l>tell us, both nobles &amp; peasants <del>imp</del> feeling</l>
+          <l><add place="inline">with</add> the same need of some<del>thing to</del> embody this</l>
+          <del>
+            <l>[illeg.], the <del>same need of a</del> something to</l>
+            <l>express the lal    hang the same need of</l>
+          </del>
+          <l>expression of embodiment, of dance, of song.</l>
+          <l><del>Every</del> <del>Down the roads</del> along the roads</l>
+          <l>from town to town, from great house to great</l>
+          <l>house, came the wandering minstrels, the</l>
+          <l>rhymers, the mummers, the jugglers, the bear leader.</l>
+          <l><del>Because they shipped the</del> Even the King &amp; Queen</l>
+          <l>must have their <add><del>[after?]</del></add> song makers attached to them.</l>
+          <add place="margin">
+            <l>some one who</l>
+            <l>could express,</l>
+            <l>embody, give</l>
+            <l>voice to the</l>
+            <l>hidden instinct</l>
+          </add>
+          <l><del>The</del> Even though, <del>[present?] ably</del> handles</l>
+          <l>because the <del>al</del> actor displays his body, <del>the action</del></l>
+          <l><del>the art of the mummer</del> the <del>actors trade was</del></l>
+          <l><del>depend</del>, partly too because <del>there</del> <del>there was</del></l>
+          <l>the [commentation?] <add place="above">[urges?], to dance</add> is beyond the pale, &amp;</l>
+          <l><del>h</del> <del>sees the</del> sees the pageant [virulently?]</l>
+          <l>mocking, the actors were <del>a</del> despised,</l>
+          <l>they were necessary. Even the churchmen,</l>
+          <l>anxious as <del>they were</del> that homage was</l>
+          <l>being paid to another God than theirs,</l>
+          <l>could not suppress them; <del>or</del> all they could do</l>
+          <l>was to divert the <del>[illeg.]</del> <del>stream of</del> <del>current</del> to</l>
+          <l><del>merriment</del> <del>turn the uses</del> make the</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.4 [p. 66]">
+        <p>
+          <l>irrepressible instinct <del>forms</del> flow into <del>miracle</del> <add place="above">regular channels</add> players</l>
+          <l>&amp; these form <del>their</del> <del>But</del> to <del>confine – to</del></l>
+          <l>&amp; to induce the rhymers &amp; the mummers, the</l>
+          <l>jugglers &amp; the bear leaders to put off their</l>
+          <l>pagan leaves, their bells, their [moblets?], &amp;</l>
+          <l><del>robe themselves</del> in the service of the Christian</l>
+          <l>God.</l>
+        </p>
+        <p>
+          <l>That was the other bond between the great</l>
+          <l>house &amp; the cottage. For though the great,</l>
+          <l><del>with</del> <del>their</del> <del>with their acga</del> speaking</l>
+          <l>French as easily as English, with their Latin &amp; greek</l>
+          <l>tags on their tongues, <del>despised the</del></l>
+          <l>must despise the jargon of the peasant, they</l>
+          <l>shared the superstitions. An old woman in a</l>
+          <l><del>cott</del> hovel was to the King himself even,</l>
+          <l>the [venal?] of an unclean spirit. A dun</l>
+          <l>chicken, she said, sucked on her chin. When the</l>
+          <l><rs type="object" ref="../resources/annotations.xml#obj-pill">pilliwinks</rs> were applied to her, she confessed</l>
+          <l>on all Hallows E'en last she with 200</l>
+          <l>witches had gone to sea, each one in a</l>
+          <l>[riddle?] a sieve drinking &amp; making merry</l>
+          <l>till they came to the Kerk of <rs type="place" ref="../resources/annotations.xml#pla-nber">N. Berwick</rs></l>
+          <l>in <rs type="place" ref="../resources/annotations.xml#pla-loth">
+            <choice>
+              <sic>Lowthian</sic>
+              <corr>Lothian</corr>
+            </choice></rs> where they landed &amp; danced a</l>
+          <l>reel. When the <rs type="person" ref="../resources/annotations.xml#psn-denb">Earl of 
+            <choice>
+              <sic>Denby</sic>
+              <corr>Denbigh</corr>
+            </choice></rs> died a witch was</l>
+            <l>[illeg.] in the corner of his room. She confessed</l>
+            <l>how she had thrown a cat into the sea &amp;</l>
+            <l>raised a storm that had sunk the Kings ships.</l>
+        </p>
+        <p>
+          <l>The great house, then, when the nobles read</l>
+          <l>the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Faery Queen</rs> aloud, was connected</l>
+          <l>with the village by <del>these</del> superstitions, needs, beliefs.</l>
+          <l>Spenser himself heard the rhymers &amp; the</l>
+          <l>impudent bards. <del>It was at</del> He saw,</l>
+          <add place="margin">
+            <l>jugglers, [rhymers?],</l>
+            <l>&amp; sacred trees, &amp;</l>
+            <l>holy wells; &amp;</l>
+            <l>mummers</l>
+            <quote source="" rend="block">
+              <l>Wanton bardes</l>
+              <l>&amp; Rhymers</l>
+              <l>impudent.</l>
+            </quote>
+          </add>
+          <l>at     in        , the Green man. It was</l>
+          <l>said that he was present at the</l>
+          <l>pageant, in <del>wh</del> <del>queen</del> played before</l>
+          <l>Q <rs type="person" ref="../resources/annotations.xml#psn-eliz">Elizabeth</rs> in 15– . It was <del>an</del></l>
+          <l>a revival – already time had given</l>
+          <l>their customs curiosity, a standing against the [past?]</l>
+          <l>For already the other house was being built.</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.5 [p. 68]">
+        <p>
+          <l>There is an entry in <rs type="person" ref="../resources/annotations.xml#psn-phen">Henslowes</rs> diary, which</l>
+          <l>Henslowe in      had jotted down in his diary the cost of</l>
+          <l>the lathe, the nails, the timber that he had</l>
+          <l>bought. For painting the theatre</l>
+          <l>and for the clothes worn by the play Hens–</l>
+          <l><del>that was the house that</del> the playhouse</l>
+          <l>was being built on the Banks of the Thames.</l>
+        </p>
+        <p>
+          <l>But how far was the author <add place="above">playwright</add> in 1570 separate</l>
+          <l>from Anon the minstrel, the ballad singer?</l>
+          <l>The past seems to be that, when Spenser</l>
+          <l>Attached his name to the Fairy Queen, the author of</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-span">The Spanish Tragedy</rs> left his work gu unsigned</l>
+          <l>This is a sign <del>of the</del> that there were two publics:</l>
+          <l>the reading, &amp; the playgoing. <del>There is a division</del></l>
+          <l>It marks a distinction between two kinds of</l>
+          <l>writer – two methods, <del>too</del> two attitudes of mind.</l>
+          <l>If there had been no minstrel, would English literature </l>
+          <l>had remained a read, a book literature?</l>
+          <l>No stage, no common art; but always one book to be</l>
+          <l>read, privately; –</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.6 [p. 70]"> <!-- is this the start of a different document? different ink colour and it jumps back in time & quotes more -->
+        <p>
+          <l><del>the old palace</del></l>
+        </p>
+        <p>
+          <quote source="#" rend="inline">
+            <l>After that I had accomplished &amp; published</l>
+            <l>divers histories... many noble &amp; divers</l>
+            <l>semblances of this realm of England came &amp;</l>
+          </quote>
+          <l><quote source="#" rend="inline">demainded me many &amp; ofttimes – "</quote> <rs type="person" ref="../resources/annotations.xml#psn-wcax">Caxton</rs> wrote in</l>
+          <l>the preface to the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte d'Arthur</rs>... <del>why he</del> <quote source="#" rend="inline"></quote>"to</l>
+          <quote source="#" rend="inline">
+            <l>represent the history of the said noble King &amp;</l>
+            <l>conqueror King Arthur &amp; of the Knights with the</l>
+            <l>history of the <rs type="object" ref="../resources/annotations.xml#obj-gral">Sang Gral</rs> &amp; of the death <del>o</del></l>
+            <l>ending of the said Arthur"</l>
+          </quote>
+        </p>
+        <p>
+          <l><del>Here in the</del> <add place="above">Six 7</add> the 21 books of the Morte D'Arthur</l>
+          <l>is the <del>belief which was</del> <del>we have the</del> <del>belief of the</del></l>
+          <del>
+            <l>preserve, <del>even</del> what lay beneath: the</l>
+            <l><del>Elizabe</del> It <del>is here we th that we tap the</del> the</l>
+            <l><del>fount</del> deep reservoir    we tap what lay</l>
+            <l>beneath <del>the</del> <del>Chaucer</del> <add>peasant &amp; the noble; what</add> beneath Spenser – the</l>
+          </del>
+          <l>deep reservoir of <del>hardy</del> old <del>belief</del> <add>stories</add> Even in the 19th</l>
+          <l>century a peasant said "                </l>
+          <add place="margin">
+            <l>Lay together, yet</l>
+            <l>still viewed</l>
+            <l>[merry?]</l>
+          </add>
+        </p>
+        <p>
+          <l><del>It is a</del> <del>In <rs type="person" ref="../resources/annotations.xml#psn-tmal">Malorys</rs> pages we</del> It is in Malorys</l>
+          <l>pages that we hear the <del>anonymous</del></l>
+          <l><del>half conscious</del> voice of anon <del>it</del></l>
+          <l>telling his tales to the noble &amp; the peasant:</l>
+          <l>reminding them of the <del>very</del> old Kings &amp;</l>
+          <l>Knights who <del>lived</del> went their ways through the</l>
+          <l>wild woods seeking adventure. When Caxton</l>
+          <l>[illeg.] that King Arthur never lived, the noble</l>
+          <l>advised him that 
+            <choice>
+              <sic>sm</sic>
+              <corr>[someone?]</corr>
+            </choice> 
+            <choice>
+              <sic>cd.</sic>
+              <corr>could</corr>
+            </choice> see <rs type="person" ref="../resources/annotations.xml#psn-gawa">Gawaines</rs> skull at</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-dove">Dover</rs> &amp; <rs type="object" ref="../resources/annotations.xml#obj-roun">Round Table</rs> at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs> <quote source="#" rend="inline">"in</quote></l>
+          <l><quote source="#" rend="inline">other places <rs type="person" ref="../resources/annotations.xml#psn-lanc">Lancelots</rs> sword &amp; many other</quote></l>
+          <l><quote source="#" rend="inline">things."</quote> The book itself <del>[fulfils?]</del> to</l>
+          <l>to <del>to this double</del> is <del>part</del> In the book itself</l>
+          <l><del>the dream <del>is mixed</del> with reality. It is</del></l>
+          <l><del>half fable, half fact. <del>So</del> <del>In</del> <del>We</del></del> The book</l>
+          <l>separates Caxtons scepticism &amp; the nobles faith.</l>
+          <l>It is half fable, half fact. <del>Now</del> Merlin <del>fam</del></l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.7 [p. 72]">
+        <p>
+          <l>There is London, there is the <rs type="person" ref="../resources/annotations.xml#psn-arch">Archbishop of Canterbury</rs>. <del>But at</del></l>
+          <l><del><rs type="person" ref="../resources/annotations.xml#psn-merl">Merlin</rs> casts his enchartments, <rs type="person" ref="../resources/annotations.xml#psn-morg">Morgan Le Fay</rs> turns herself into</del></l>
+          <l><del>a stone; &amp; <del>the</del> English roads are</del> but Knights are</l>
+          <l>riding the roads; the roads lead to castles where</l>
+          <l>Knights lie [illeg.]; <del>the</del> Four Queens pace on white</l>
+          <l>mules; <del>the</del> a ship with silver sails down to the</l>
+          <l>water: <del>the</del> Morgan le Fay turns herself to stone;</l>
+          <l>the hand rises from the lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca">Excalibur</rs>.</l>
+          <l><del>Is it a child's story? No, for the</del> The</l>
+          <l>candour is like a child's; yet it is not a</l>
+          <l>story told to children. There is evil in the word; love; &amp; </l>
+          <l><del>gr</del> sorrow. <del>It tells a</del> <add place="above">The story is the</add> story that we tell. <add place="above">we tell</add>. But</l>
+          <l>the proportions are different. <del>There is no</del></l>
+          <l><del>perspective. The</del> It has not our perspective</l>
+          <l><del>There is repetition; catalogue; dream;</del> The</l>
+          <l>[illeg.] is very [tableau?]. <del>Like children, the Kings</del></l>
+          <l>The catalogue is made after a childs </l>
+          <l>particularity. <del>And this,</del> Bit this is the</l>
+          <l>clear eye that sees so definitively; &amp; <del>the</del></l>
+          <l>without exaggeration. For there is</l>
+          <l><del>a</del> this limpid [disclosure?] of what was real;</l>
+          <l>there is no [sune?] &amp; the [pictaugue?]; &amp; the</l>
+          <l>beauty is <del>the</del> in the object, not in the</l>
+          <l>writers manipulations      "</l>
+        </p>
+        <p>
+          <quote rend="block" source="#">
+            <l><add place="margin">61</add>"– so he went in &amp; <del>looked</del> searched from</l>
+          <l>chamber to chamber, &amp; found her bed,</l>
+          <l>but she was not there; there Balin</l>
+          <l>looked into a fair little garden, &amp; under a</l>
+          <l>laurel tree he saw her lie under a</l>
+          <l>[street?] of green samite, &amp; a Knight with her</l>
+          <l>&amp; under their heads grass &amp; herbs"...</l>
+          </quote>
+        </p>
+        <p>
+          <quote rend="block" source="#">
+            <l><add place="margin">79</add> Then the King looked about the wood...</l>
+          </quote>
+        </p>
+        <p>
+          <l>It is but a childs world; it is a world</l>
+          <l>before <del>the</del> self consciousness had added any</l>
+          <l>mirror. There are men &amp; women</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.8 [p. 74]">
+        <p>
+          <l>angular, gigantic; freed from something impure; yet</l>
+          <l>old; sin tarnishedl corruptL in the middle of</l>
+          <l>the fresh, innocent landscape, remembering;–</l>
+          <l><del>par</del> <del>It</del> To follow the Knights &amp; ladies in this</l>
+          <l>strange pre-historic England is to lose our 
+            <choice>
+              <sic>beags</sic>
+              <corr>bearings</corr>
+            </choice>; to</l>
+          <l>shed many habits of thoughtl but <del>we</del> after all</l>
+          <l><del>this</del> it is not an imprinted fabricated world; it is</l>
+          <l>behind us still, deep down; <del>&amp;</del> savage, primitive, still</l>
+          <l><del>existing</del> ending</l>
+        </p>
+        <p>
+          <l><del>But</del> Of the writer, nothing is known.</l>
+          <l>He does not exist apart from his book. It is</l>
+          <l><del>like</del> the anonymous voice speaking</l>
+          <l>anonymously; the voice of a very old yet <del>still</del> still</l>
+          <l>common world, where the story is already known to</l>
+          <l>the listener, <del>where the listener</del> the listener</l>
+          <l>the voice of an unknown man, who has been</l>
+          <l>travelling in strange parts, &amp; comes to the</l>
+          <l>door, across the marsh, through the flood,</l>
+          <l>to remind the noble &amp; the peasant of what</l>
+          <l>he has heard long ago.</l>
+        </p>
+        <p>
+          <l>In the great house &amp; in the cottage this half articulate</l>
+          <l>anonymous voice murmured of old Gods, &amp; Kings, &amp; Knights</l>
+          <l>&amp; Ladies. The well &amp; the tree were still</l>
+          <l>haunted. <rs type="person" ref="../resources/annotations.xml#kart">King arthur</rs> the traveller tell</l>
+          <l><add place="margin">XVII</add> that <quote source="#" place="inline">about noon, or about midnight, when the</quote></l>
+          <l><quote source="#" place="inline">moon is full &amp; shining, they often see an assay of</quote></l>
+          <l><quote source="#" place="inline">hawkers with dogs &amp; sound of horses, who, in</quote></l>
+          <l><quote source="#" place="inline">answer to the [enquiries?] say that they are</quote></l>
+          <l><quote source="#" place="inline">of the [homestead?] &amp; fellowship of Arthur."</quote></l>
+          <l>Along the roads from town to town, from one</l>
+          <l>great house to another came the [mummers?] &amp; the</l>
+          <l>rhymers, the jugglers the bear leaders, the</l>
+          <l>speakers of ballads, <del>the fo</del> while for these</l>
+          <l>who could read it &amp; hear it, Caxton</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-1.9 [p. 76]">
+        <p>
+          <l>book told the story of Arthur.</l>
+        </p>
+        <p>
+          <l>Then, the instinct to enact, to impersonate</l>
+          <l>what they <del>see</del> heard came into being. Even the King &amp;</l>
+          <l>Queen must have their minstrels to give shape</l>
+          <l>to this hidden instinct. The author was</l>
+          <l>[special?]: <del>the</del> for he displayed his body: after,</l>
+          <l>because, feeling himself an outcast, he used the</l>
+          <l>outsiders 
+            <choice>
+              <sic>prvilge</sic>
+              <corr>privilege</corr>
+            </choice> <del>to</del> of irresponsible</l>
+          <l>mockery. Yet just as we isolate those who</l>
+          <l>say  what we are too proud to admit, the</l>
+          <l>minstrel was tolerated. <add place="margin">The churchmen loathed him</add> Even the churchmen,</l>
+          <l>aware that <del>the</del> other gods than his were</l>
+          <l>being worshipped, <del>mus</del> could not suppress the</l>
+          <l>actor. <del>When he was no longer</del> If they could,</l>
+          <l>they constrained the juggler &amp; the dancer</l>
+          <l>to put off their leaves &amp; their bells &amp; to</l>
+          <l>robe themselves as the [pilgrimages?] in a miracle</l>
+          <l>play. But when the old <del>pl</del> <del>story</del> 
+            <choice>
+              <sic>relgios</sic>
+              <corr>religious</corr>
+            </choice></l>
+          <l>story was stale, they <del>left</del> played in the</l>
+          <l>[courtyard? churchyard?], &amp; at last set up their pageant in the</l>
+          <l>market place.</l>
+        </p>
+        <p>
+          <l>Spenser, it is said, was <del>a</del> <del>with</del></l>
+          <l>among the audience at one of these old pageants.</l>
+          <l><del>He noted</del></l>
+        </p>
+        <p>
+          <quote source="#" rend="block">
+            <l>And after her came jolly June 
+              <choice>
+                <sic>arryed</sic>
+                <corr>arrayed</corr>
+              </choice></l>
+            <l><del>arrayed</del> all in green leaves, as he a</l>
+            <l>player were</l>
+          </quote>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

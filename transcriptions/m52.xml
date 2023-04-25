@@ -1,0 +1,1700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m52</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m52.1">
+        <p>
+          <l>Anon.</l>
+          <l><quote source="#">"For many centuries after Britain became an island"</quote> the <rs type="person" ref="../resources/annotations.xml#psn-gtre">hist</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-gtre"></rs>orian says " <quote source="#">"the untamed forest was king."</quote> Its 
+            <choice>
+              <sic>mosit</sic>
+              <corr>moist</corr>
+            </choice> and</l>
+          <l>
+            <choice>
+              <sic>mssy</sic>
+              <corr>mossy</corr>
+            </choice> floor was hidden from heavens eye by a close drawn</l>
+          <l>curtain of innumerable treetops. " On the matted bough</l>
+          <l>innumerable birds 
+            <choice>
+              <sic>snag</sic>
+              <corr>sang</corr>
+            </choice>; but their song was only heard by a</l>
+          <l>few skin clad hunters in the 
+            <choice>
+              <sic>claetings</sic>
+              <corr>clearings</corr>
+            </choice>. Did the desire</l>
+          <l>to sing come to one of those <add hand="ms" place="above">barbarians</add> savages because he 
+            <choice>
+              <sic>geard</sic>
+              <corr>heard</corr>
+            </choice> the</l>
+          <l>birds sing, and so rested his axe against the tree for a</l>
+          <l>moment? Anyhow, the tree was felled; some sort of hut</l>
+          <l>was made from its branches; and the clearing became larger;</l>
+          <l>the birds 
+            <choice>
+              <sic>f   er</sic>
+              <corr>fewer</corr>
+            </choice>; and the human voice sang instead. The first</l>
+          <l>songs are out of door songs; spring songs; summer songs;</l>
+          <l>winter songs.</l>
+        </p>
+        <p>
+          <quote source="#" rend="block">
+            <l>Bytuene Mersh and Averil</l>
+            <l>When spray biginneth to springe,</l>
+            <l>The lutel foul hath hire wyl</l>
+            <l>on hyre lud to synge.</l>
+          </quote>
+        </p>
+        <p>
+          <quote source="#" rend="block">
+            <l>Sumer is icumen in,</l>
+            <l>Lhude sing cuccu</l>
+          </quote>
+        </p>
+        <p>
+          <quote source="#" rend="block">
+            <l>By a bank as I lay</l>
+            <l>Musing myself alone, hey ho!</l>
+            <l>A birdes voice</l>
+            <l>Did me rejoice,</l>
+            <l>Singing before the day;</l>
+            <l>And me thought in her lay</l>
+            <l>She said winter was past, hey ho!</l>
+          </quote>
+        </p>
+        <p>
+          <l>They were out of door songs, because there was no</l>
+          <l>comfort indoors, little light, and no books. The eye</l>
+          <l>therefore was more active in in ourselves. The eye is the</l>
+          <l>young sense; the sense that is attached to the body.</l>
+          <l>Now and then, by 
+            <choice>
+              <sic>chooisng</sic>
+              <corr>choosing</corr>
+            </choice> a view carefully to shut out</l>
+          <l>a chimney or a bungalow, we can still see a fragment of</l>
+        </p>
+      </div>
+      <div xml:id="m52.2">
+        <p>
+          <l>2</l>
+          <l>of what they saw-- a flat fen, reed whispering, water</l>
+          <l>logged; or a down still covered with turf only.</l>
+          <l>On the down is the green scar still, to mark the</l>
+          <l>road along which the travellers came, past the circle where</l>
+          <l>they were buried; past the stone that marks the meeting place</l>
+          <l>or the burial place.</l>
+        </p>
+        <p>
+          <l>xxxxxxx<rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> sings because love and spring make him</l>
+          <l>vocal or the horror of winter dark <add hand="typewriter" place="above">But</add>, who listens? Somebody</l>
+          <l>heard that particular song, or it would not have been written</l>
+          <l>down. The singer then had his 
+            <choice>
+              <sic>audeince</sic>
+              <corr>audience</corr>
+            </choice>; but the audience was</l>
+          <l>so little interested in his name that he never thought to</l>
+          <l>give it.</l>
+        </p>
+      </div>
+      <div xml:id="m52.3">
+        <p>
+          <l>3</l>
+          <l>It was the printed book with the authors name attached that</l>
+          <l>was the death of Anon. <add hand="ms" place="above">After that</add>The audience was separated from</l>
+          <l>the singer. After that (1478) the sing was attached to</l>
+          <l>the singer. Anon gives place to James or Thomas; he lives in</l>
+          <l>in a house; and he has books.</l>
+        </p>
+        <p>
+          <l>....2....</l>
+          <l>The heart of this vast proliferation of printed</l>
+          <l>pages is the song. The song has the same power over the</l>
+          <l>reader in the 20th century as over the hearer in the</l>
+          <l>11th. To enjoy singing, to enjoy 
+            <choice>
+              <sic>h aring</sic>
+              <corr>hearing</corr>
+            </choice> the song,</l>
+          <l>must be the deepest rooted and tough of human instincts.</l>
+          <l>It is an instinct of self-preservation, for only when we</l>
+          <l>put two and two together to we overcome dissolution. Two</l>
+          <l>lines, two words, two 
+            <choice>
+              <sic>bri cks</sic>
+              <corr>bricks</corr>
+            </choice> make way against oblivion.</l>
+          <l><del hand="ms">Making whatever it is gives us life;</del> and the passion</l>
+          <l>with which we seek for these creations, and attempt to</l>
+          <l>make them, is of a piece with the instinct that</l>
+          <l>sets us preserving our bodies from wet, or cold.</l>
+          <l>But with the printing press came into existence</l>
+          <l>forces that cover over the original song--books</l>
+          <l>themselves and the readers of books. Could we at this</l>
+          <l>this moment X ray the singers mind we shound <add hand="ms" place="inline">f</add>ind</l>
+          <l>a nimbus surrounding the song; a 
+            <choice>
+              <sic>st eam</sic>
+              <corr>stream</corr>
+            </choice> of</l>
+          <l>influences <del hand="ms">to which so many ugly 
+            <choice>
+              <sic>abstarct</sic>
+              <corr>abstract</corr>
+            </choice></del> names have been</l>
+          <l>given-- <del hand="ms">influences</del> of <del hand="ms">society</del>; of education; of</l>
+          <l>class; <add hand="ms" place="above">material; economic</add> of 
+            <choice>
+              <sic>econmic</sic>
+              <corr>economic</corr>
+            </choice> stress. So many are they and so</l>
+          <l>obscure that we may call them nonsense names--</l>
+          <l>say <rs type="person" ref="../resources/annotations.xml#psn-nin">Nin</rs>, <rs type="person" ref="../resources/annotations.xml#psn-crot">Crot</rs> and <rs type="person" ref="../resources/annotations.xml#psn-pull">Pully</rs>. Nin Crot and Pully are always</l>
+          <l>at their task. 
+            <choice>
+              <sic>?ore</sic>
+              <corr>More</corr>
+            </choice> and more [complex]</l>
+        </p>
+      </div>
+      <div xml:id="m52.4">
+        <p>
+          <l>4</l>
+          <l>at their work--tugging, obscuring, distracting. 
+            <choice>
+              <sic>invisble</sic>
+              <corr>invisible</corr>
+            </choice><add hand="ms" place="above"><!-- come back to this --></add></l>
+          <l>to the sufferer himself often. More and more complex</l>
+          <l>they become as time passes. The song is only to be discovered</l>
+          <l>ixmxmxmxmxmxmxmxmxmxmxmxmxmxmxmx instaneously; in a flash</l>
+          <l>of recognition; some say they feel it when their beards</l>
+          <l>
+            <choice>
+              <sic>brsitle</sic>
+              <corr>bristle</corr>
+            </choice>; others that a thrill runs down the nerves of the</l>
+          <l>thigh. But the song is there still...</l>
+          <l>Waves...</l>
+        </p>
+        <p>
+          <l>...3....</l>
+          <l>That babbling child<add hand="ms" place="inline">_</add>like<add hand="ms" place="inline">-</add> 
+            <choice>
+              <sic>stroy</sic>
+              <corr>story</corr>
+            </choice> teller, <del hand="ms">that</del><add hand="ms" place="above">the</add> gossip at</l>
+          <l>the farm door, that innocent eyed, <del hand="ms">very</del> naked, 
+            <choice>
+              <sic> u tful</sic>
+              <corr>lustful</corr>
+            </choice>,</l>
+          <l>religious singer, <del hand="ms">that great a</del>xmxmxx <add hand="ms" place="above">&amp; new &amp; [aged?] great</add> artist, Anon, died 
+            <choice>
+              <sic>thn</sic>
+              <corr>then</corr>
+            </choice></l>
+          <l>in in 1476<add hand="ms" place="above">&amp;</add>. With 
+            <choice>
+              <sic>hi</sic>
+              <corr>him</corr>
+            </choice> died something in the audience-- <add hand="ms" place="after">the</add></l>
+          <l><del hand="ms">They 
+            <choice>
+              <sic>nollonger</sic>
+              <corr>no longer</corr>
+            </choice></del> <add hand="ms" place="above">[illeg.]</add> filled in the 
+            <choice>
+              <sic>payses</sic>
+              <corr>pauses</corr>
+            </choice>, and joined in the chorus</l>
+          <l>To 
+            <choice>
+              <sic>follw</sic>
+              <corr>follow</corr>
+            </choice> his 
+            <choice>
+              <sic>firtunes</sic>
+              <corr>fortunes</corr>
+            </choice> 
+            <choice>
+              <sic>futhrer</sic>
+              <corr>further</corr>
+            </choice>, we must turn <del hand="ms">to an outsider.</del></l>
+          <l>one of those commentators who tell us so much about the</l>
+          <l>
+            <choice>
+              <sic>invisib</sic>
+              <corr>invisible</corr>
+            </choice> influences; about Nin Crot and Pulley. His name was</l>
+          <l><rs type="person" ref="../resources/annotations.xml#whar">Harrison</rs></l>
+        </p>
+      </div>
+      <div xml:id="m52.5">
+        <p>
+          <l>6</l>
+          <l>Anon had sung his song at the back door in a jargon that was</l>
+          <l>as uncouth and fxmxmxnxmxmxmxmxmus to Harrison</l>
+          <l>as to ourselves; <del hand="ms">and more barbarous</del></l>
+          <quote source="#" rend="block">
+            <l>Icham for wowing al forwake,</l>
+            <l>Wery no water in wore</l>
+            <l>An hendy hap ichable yghent;</l>
+            <l>Ichot from heven it is me sent</l>
+          </quote>
+          <l>the words were as difficult for him to spell out as for us;</l>
+          <l>and <add hand="ms" place="above">[illeg.]</add> for him <add hand="typewriter" place="above">painful;</add> they were <add hand="ms" place="above">[illeg.]</add> reminders of a savagery of low 
+            <choice>
+              <sic>b rth</sic>
+              <corr>birth</corr>
+            </choice></l>
+          <l>xmxmxmxmxmxmxx tokens of base birth, of a close <del hand="ms">savage</del> past.</l>
+          <l>In the background, mxmxmxmxxx of 
+            <choice>
+              <sic>Har isons</sic>
+              <corr>Harrison's</corr>
+            </choice> mind stood</l>
+          <l>the Greeks and the romans; <rs type="person" ref="../resources/annotations.xml#psn-agrip">Henrcus Cornelius Agrippa</rs>;</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-suet">Suetonius</rs>; <rs type="person" ref="../resources/annotations.xml#psn-plin">Pliny</rs>, <rs type="person" ref="../resources/annotations.xml#psn-cice">Cicero</rs>. <del hand="ms">Those were</del> the 
+            <choice>
+              <sic>anicenits</sic>
+              <corr>ancients</corr>
+            </choice> who</l>
+          <l>occupied the same place in Harrisons mind that the 
+            <choice>
+              <sic>Elizabetha</sic>
+              <corr>Elizabethans</corr>
+            </choice></l>
+          <l>occupy in our minds. The readers of his time read the</l>
+          <l>classics, Those were the valuable books that</l>
+          <l>were chained to the 
+            <choice>
+              <sic>sleves</sic>
+              <corr>shelves</corr>
+            </choice> in college libraries. The 
+            <choice>
+              <sic>leanred</sic>
+              <corr>learned</corr>
+            </choice></l>
+          <l>read them; and the nobles too. <quote source="#" rend="inline">"...our ancient ladies of the</quote></l>
+          <l><quote source="#" rend="inline">court" were to be found reading the holy 
+            <choice>
+              <sic>scrpitures</sic>
+              <corr>scriptures</corr>
+            </choice></quote> as</l>
+          <l>they did their 
+            <choice>
+              <sic>needlwork</sic>
+              <corr>needlework</corr>
+            </choice>; and histories;</l>
+        </p>
+      </div>
+      <div xml:id="m52.6">
+        <p>
+          <l>7</l>
+          <l>The great Elizabethan house is still in 
+            <choice>
+              <sic>exist nce</sic>
+              <corr>existence</corr>
+            </choice>,</l>
+          <l>sxpxmx standing in its green island of <add hand="ms" place="above">[herb?]</add> grass, separated</l>
+          <l>often from the high road only by a sxmxmxx dip in the</l>
+          <l>ground and <add hand="ms" place="above">a low red</add> an old wall. It <del hand="ms">can be seen lying there,</del> out of</l>
+          <l>
+            <choice>
+              <sic>proprtion</sic>
+              <corr>proportion</corr>
+            </choice> somehow, Either it is too big, or the village</l>
+          <l>with its 
+            <choice>
+              <sic>eignteen</sic>
+              <corr>eighteenth</corr>
+            </choice> 
+            <choice>
+              <sic>ce tury</sic>
+              <corr>century</corr>
+            </choice> and 
+            <choice>
+              <sic>tw ntieth</sic>
+              <corr>twentieth</corr>
+            </choice> century shops and</l>
+          <l>villas is too small. 
+            <choice>
+              <sic> ith</sic>
+              <corr>With</corr>
+            </choice> its 
+            <choice>
+              <sic>congomeration</sic>
+              <corr>conglomeration</corr>
+            </choice> of roofs</l>
+          <l>and chimneys, <del hand="ms">garden</del> and chapels, it dwarfs its 
+            <choice>
+              <sic>n  ghbours</sic>
+              <corr>neighbours</corr>
+            </choice>.</l>
+          <l>the great 
+            <choice>
+              <sic>Elizabethna</sic>
+              <corr>Elizabethan</corr>
+            </choice> house 
+            <choice>
+              <sic>dwrafs</sic>
+              <corr>dwarfs</corr>
+            </choice> its 
+            <choice>
+              <sic>neig bours</sic>
+              <corr></corr>
+            </choice></l>
+          <l>Inside all is kept as if the <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs> were expected. <add hand="ms" place="after">[illeg.]</add></l>
+          <l>The rooms are 
+            <choice>
+              <sic>sti ll</sic>
+              <corr>still</corr>
+            </choice> the rooms the lords and 
+            <choice>
+              <sic>l ies</sic>
+              <corr>ladies</corr>
+            </choice></l>
+          <l>lived in. The upright 
+            <choice>
+              <sic>Elizabethna</sic>
+              <corr>Elizabethan</corr>
+            </choice> chairs stand round the wall.</l>
+          <l>Their fringes and their tapestry is not much faded.</l>
+          <l>The great carved tables are polished nad lustrous.</l>
+          <l>The carved <add hand="ms" place="above">[great?]</add> chests and cupboards look brand new.</l>
+          <l>Even the toys and 
+            <choice>
+              <sic>kicknacks</sic>
+              <corr>knick-knacks</corr>
+            </choice> have survived intact <add hand="ms" place="inline">:/</add> <add hand="ms" place="inline">inlaid</add></l>
+          <l><add hand="ms" place="above">boxes;</add> Here are the inlaid work boxes, and the that the Queen 
+            <choice>
+              <sic>nahdle</sic>
+              <corr>[needled?]</corr>
+            </choice></l>
+          <l>as she sat upright on the faded pink day couch. And there,</l>
+          <l>is the swollen big 
+            <choice>
+              <sic>bel ied</sic>
+              <corr>bellied</corr>
+            </choice> lute or theorbo,</l>
+          <l>on which she played, still resonant. <add hand="ms" place="margin">&amp; the varnished pear shaped lute upon which the Queen once played.</add> The floor</l>
+          <l>is strewn with rugs; the windows curtained with</l>
+          <l>
+            <choice>
+              <sic>silv r thraed</sic>
+              <corr>silver thread</corr>
+            </choice> brocades; <del hand="ms"> and here are</del> the cut glass <add hand="ms" place="inline">Venice</add></l>
+          <l>chandeliers <add hand="ms" place="above">[illeg.]</add> which lighted this byegone company.</l>
+        </p>
+        <p>
+          <l>But where are the Elizabethans <add hand="ms" place="above">people</add>? <del hand="ms">They were more 
+            <choice>
+              <sic>ehmepral</sic>
+              <corr>ephemeral</corr>
+            </choice></del></l>
+          <l><del hand="ms">than their possessions.</del> <add hand="ms" place="above">Human</add> Life has 
+            <choice>
+              <sic>recded</sic>
+              <corr>receded</corr>
+            </choice> 
+            <choice>
+              <sic>fromthis</sic>
+              <corr>from this</corr>
+            </choice></l>
+          <l>convoluted iridescent shell; with its fringes and its laces,</l>
+          <del hand="ms">
+            <l>its 
+              <choice>
+                <sic>elborate</sic>
+                <corr>elaborate</corr>
+              </choice> carved legs, its 
+              <choice>
+                <sic>lops</sic>
+                <corr>loops</corr>
+              </choice> and knots,</l>
+            <l>festoons and draperies upon which the spring sun of 1940</l>
+          </del>
+          <l><del hand="ms">still shines so strong <add hand="ms" place="above">bright</add></del>. There is a gulf between them and</l>
+        </p>
+      </div>
+      <div xml:id="m52.7">
+        <p>
+          <l>8</l>
+          <l>ourselves. The chairs and tables are there; but the</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-wilt">Wilton</rs> <rs type="place" ref="../resources/annotations.xml#pla-pens">Penshurst</rs>, <rs type="place" ref="../resources/annotations.xml#pla-hard">Hardwick</rs> all are untenanted.</l>
+          <l>Only the furniture remains-- the lacquered, the</l>
+          <l>highly painted, the ornate, the 
+            <choice>
+              <sic>conv luted</sic>
+              <corr>convoluted</corr>
+            </choice>; the chairs and</l>
+          <l>tables that must have been so so hard to sit upon;</l>
+          <l>If they were like their furniture, they were</l>
+          <l>at once ceremonious; and crude; fantastic yet sharp,</l>
+          <l>pointed, uncushioned;</l>
+        </p>
+        <p>
+          <l>The writer <del hand="ms">who</del> hesitated conscious of his 
+            <choice>
+              <sic>pelebian</sic>
+              <corr>plebian</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>bith</sic>
+              <corr>birth</corr>
+            </choice> on the threshold of the great roo, <add hand="ms" place="above>">, he</add> was still 
+            <choice>
+              <sic>unspeciali</sic>
+              <corr>unspecialised</corr>
+            </choice></l>
+          <l>undifferentiated. His eye was stimulated <del hand="ms">;</del> by the crimsons and</l>
+          <l>the golds and the greens of the 
+            <choice>
+              <sic>lothing</sic>
+              <corr>clothing</corr>
+            </choice>; by the angles and</l>
+          <l>patterns on the 
+            <choice>
+              <sic>ceilinsg</sic>
+              <corr>ceilings</corr>
+            </choice>; His ear <del hand="ms">too</del> was stimulated and</l>
+          <l>
+            <choice>
+              <sic>peicked</sic>
+              <corr>pricked</corr>
+            </choice> <add hand="ms" place="above">by [words?]</add>. Books were 
+            <choice>
+              <sic>rea</sic>
+              <corr>read</corr>
+            </choice> aloud; each word was given sharpness</l>
+          <l>and 
+            <choice>
+              <sic>subatnce</sic>
+              <corr>substance</corr>
+            </choice> by the speaking voice. And then when the lord</l>
+          <l>or lady took his lute and sang, lilt, 
+            <choice>
+              <sic>rhytm</sic>
+              <corr>rhythm</corr>
+            </choice>, melody was 
+            <choice>
+              <sic>addd</sic>
+              <corr>added</corr>
+            </choice></l>
+          <l>to the substance and sharpness of the words. Words bubbled</l>
+          <l>in his mind, old words, English words, 
+            <choice>
+              <sic> rech</sic>
+              <corr>French</corr>
+            </choice> words, 
+            <choice>
+              <sic>Ladtin</sic>
+              <corr>Latin</corr>
+            </choice></l>
+          <l>words. They were 
+            <choice>
+              <sic>motlen</sic>
+              <corr>molten</corr>
+            </choice>, capable of taking any shape, of</l>
+          <l>reflecting 
+            <choice>
+              <sic>nay coloure</sic>
+              <corr>any colours</corr>
+            </choice>, of 
+            <choice>
+              <sic>folliwng</sic>
+              <corr>following</corr>
+            </choice> the ones, of taking the</l>
+          <l>
+            <choice>
+              <sic>rhymn</sic>
+              <corr>rhythm</corr>
+            </choice> of the 
+            <choice>
+              <sic>l te</sic>
+              <corr>lute</corr>
+            </choice>. No grammar bound them tightly; nor did</l>
+          <l>one society inflict its canons of good taste.</l>
+          <l>Whether he 
+            <choice>
+              <sic>ws</sic>
+              <corr>was</corr>
+            </choice> to write or to sing or to paint was an open</l>
+          <l>
+            <choice>
+              <sic>uetion</sic>
+              <corr>question</corr>
+            </choice>. The arts were closely interwoven. For a moment</l>
+          <l>there is a pause on the threshold of the great 
+            <choice>
+              <sic> l zabethan</sic>
+              <corr>Elizabethan</corr>
+            </choice></l>
+          <l>house, when the artist sees 
+            <choice>
+              <sic>begore</sic>
+              <corr>before</corr>
+            </choice> <add hand="ms" place="above">[illeg.]</add> him three different paths.</l>
+          <l>Shall he sing, or paint, or make poems? And then there</l>
+          <l>rose up from the 
+            <choice>
+              <sic>couryard</sic>
+              <corr>courtyard</corr>
+            </choice> the crude <add hand="ms" place="above">[voices?]</add> tones of the mummers.</l>
+          <l>It was the stagethat settled it. Had there been no stage,</l>
+        </p>
+      </div>
+      <div xml:id="m52.8">
+        <p>
+          <l>9</l>
+          <l>no actors, <rs type="person" ref="../resources/annotations.xml#psn-wsha">
+            <choice>
+              <sic>Shakeapere</sic>
+              <corr>Shakespeare</corr>
+            </choice></rs> might 
+            <choice>
+              <sic>hev eben</sic>
+              <corr>have been</corr>
+            </choice> 
+            <rs type="person" ref="../resources/annotations.xml#psn-mich"><choice>
+              <sic>Michael Angelo</sic>
+              <corr>Michelangelo</corr>
+            </choice></rs>.</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> <rs type="person" ref="../resources/annotations.xml#psn-raph">
+            <choice>
+              <sic> a hael</sic>
+              <corr>Raphael</corr>
+            </choice></rs>, and <rs type="person" ref="../resources/annotations.xml#cmar">
+              <choice>
+                <sic>Marloew</sic>
+                <corr>Marlowe</corr>
+              </choice></rs> our first great musician.</l>
+        </p>
+      </div>
+      <div xml:id="m52.9">
+        <p>
+          <l>1o</l>
+          <l>The writer then came to birth with difficulty in England--</l>
+          <l>the writer who is distinct from the minstrel, whose words</l>
+          <l>are printed. For when familiar 
+            <choice>
+              <sic>lettees</sic>
+              <corr>letters</corr>
+            </choice> are written in</l>
+          <l>Biblical prose there must be axmxmxmxmxmxmxmxmxmxmxm</l>
+          <l>a barrier between what is sayable and what unsayable.</l>
+          <l>a limit thus to what he can put into words <add hand="ms" place="above">writing</add>.</l>
+        </p>
+        <p>
+          <l>He is in being <add hand="ms" place="inline">,</add> at the beginning of the sixteenth century;</l>
+          <l>for the 
+            <choice>
+              <sic>priting</sic>
+              <corr>printing</corr>
+            </choice> press has given him a name; but he is still</l>
+          <l>unspecialised, undifferentiated. The artist --the person</l>
+          <l>who stands 
+            <choice>
+              <sic>otside</sic>
+              <corr>outside</corr>
+            </choice> amxmxmxmxmxmxmxmx, by some impulse</l>
+          <l>desiring to observe <add hand="ms" place="above">to</add> state <add hand="ms" place="above">rather than to take part</add> -- is not wholly writer,</l>
+          <l>wholly musician, or wholly painter. It seems possible</l>
+          <l>that the great English art may not be the art of words.</l>
+          <l>His eye like a painters, is alive to the 
+            <choice>
+              <sic>clour</sic>
+              <corr>colour</corr>
+            </choice> of</l>
+          <l>clothing, of country, of beats and birds; his ear, like</l>
+          <l>a musicians, is stimulated by the sound of words spoken aloud</l>
+          <l><del hand="ms">His book</del> <add hand="typewriter" place="above">What he wrote</add> was read out<del hand="ms">aloud</del> <add hand="ms" place="above">in company</add>. <quote source="#" rend="inline">"I spent most of my time"</quote></l>
+          <l>wrote <rs type="person" ref="../resources/annotations.xml#psn-aclif">Lady Ann Clifford</rs> <quote source="#" rend="inline">in playing <del hand="ms">Glocko</del> at Glecko,</quote></l>
+          <quote source="#" rend="inline">
+            <l>and hearing <rs type="person" ref="../resources/annotations.xml#psn-mnev">Moll Neville</rs> read <rs type="literary-work" ref="../resources/annotations.xml#lit-arca">the Arcadia."</rs>.. <rs type="person" ref="psn-unkn">Rivers</rs> used</l>
+            <l>to read to me on <rs type="person" ref="../resources/annotations.xml#psn-mmon">Montaigne</rs> <rs type="literary-work" ref="../resources/annotations.xml#lit-essa"></rs> and Moll Neville in the</l>
+          </quote>
+          <l><quote source="#" rend="inline"><rs type="lit" ref="../resources/annotations.xml#lit-faer">Faery Queen"</rs></quote> (1617-1619) Every word had its 
+            <choice>
+              <sic>sharpnes</sic>
+              <corr>sharpness</corr>
+            </choice> <add hand="ms" place="above">weight</add></l>
+          <l>its weight <add hand="ms" place="above">&amp; edge</add> given to it by the speaking voice. And then the</l>
+          <l>lute and the virginals gave lilt, rhythm melody to the</l>
+          <l>written words. When the fire of London was burning <add hand="typewriter" place="above">and the citizens loading their goods 
+            <choice>
+              <sic>intob</sic>
+              <corr>into boats</corr>
+            </choice></add></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> noted that <quote source="#">"Hardly one lighter or 
+            <choice>
+              <sic>baot</sic>
+              <corr>boat</corr>
+            </choice> in three</quote></l>
+          <l><quote source="#" rend="inline">that had the goods of of a house in it, but there was a</quote></l>
+          <l><quote source="#" rend="inline">pair of virginals in it."</quote> The writers mind was full</l>
+          <l>of 
+            <choice>
+              <sic>undiffrentiated</sic>
+              <corr>undifferentiated</corr>
+            </choice> words; old words, new words; French and</l>
+        </p>
+      </div>
+      <div xml:id="m52.10">
+        <p>
+          <l>11</l>
+          <l>Latin. No grammar bound them tightly together. They were</l>
+          <l>elastic; they could be danced to and 
+            <choice>
+              <sic>su</sic>
+              <corr>sung</corr>
+            </choice> to. But in</l>
+          <l>
+            <choice>
+              <sic>psp te of nthat</sic>
+              <corr>spite of that</corr>
+            </choice>, they could not 
+            <choice>
+              <sic>follw</sic>
+              <corr>follow</corr>
+            </choice> the pace of the</l>
+          <l>private voice; the voice that talks intimately, <add hand="ms" place="above">briefly</add></l>
+          <l>easily <add place="above" hand="ms">colloquially</add> in doors.</l>
+        </p>
+        <p>
+          <l><rs type="person" ref="../resources/annotations.xml#espe">Spenser</rs> then--- <quote source="#">a little man with short hair,</quote></l>
+          <l><quote source="#" rend="inline">a small band, and cuffs</quote>--- standing on the threshold</l>
+          <l>of the great room at <rs type="place" ref="../resources/annotations.xml#pla-pens">
+            <choice>
+              <sic>Penshurt</sic>
+              <corr>Penshurst</corr>
+            </choice></rs> was separate from Anon the sing</l>
+          <l>er; <add hand="ms" place="above">and</add> separate from <rs type="person" ref="../resources/annotations.xml#psn-rhol">
+            <choice>
+              <sic>Holinsged</sic>
+              <corr>Holinshed</corr>
+            </choice></rs> the 
+            <choice>
+              <sic>chornicler</sic>
+              <corr>chronicler</corr>
+            </choice>; and</l>
+          <l>separate, in that he saw the scene <add hand="ms" place="above">with detachment</add> from <add hand="ms" place="inline">,</add> the artists</l>
+          <l>point of view, from his audience. But the book which had 
+            <choice>
+              <sic>givn</sic>
+              <corr>given</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>hisword</sic>
+              <corr>his words</corr>
+            </choice> aseparate existence, had brought into being a</l>
+          <l>little group of readers. And that public began <del hand="ms">at once</del> <add hand="ms" place="above">at once</add> to</l>
+          <l>exert its pressure. What is the book that will please</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-psid">Sir Philip Sidney</rs>? What is the theme that will recommend</l>
+          <l>itself to the <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs>? What must he 
+            <choice>
+              <sic>priase</sic>
+              <corr>praise</corr>
+            </choice>? What must he reject</l>
+          <l>
+            <choice>
+              <sic>W at</sic>
+              <corr>What</corr>
+            </choice> will so work upon the audience that they will</l>
+          <l>procure for the poet a place, or a pension?</l>
+        </p>
+        <p>
+          <l><del hand="ms">These</del><add hand="ms" place="inline">F</add>rom this time onward <add hand="ms" place="above">there</add> are to be <del hand="ms">the</del> <add hand="ms" place="inline">always the</add></l>
+          <l>influences always tugging and 
+            <choice>
+              <sic>distrting</sic>
+              <corr>distorting</corr>
+            </choice> and</l>
+          <l>thwarting<add hand="ms" place="inline">;</add> as also they encourage, <add hand="ms" place="above">stimulate</add>, draw out, <del hand="ms">help into</del></l>
+          <l><del hand="ms">life the writers instinct</del>. Some are visible only to the</l>
+          <l>writer himself; others only to the reader 
+            <choice>
+              <sic>i </sic>
+              <corr>in</corr>
+            </choice> time to come.</l>
+          <l>More and more complex they grow, as the book with the</l>
+          <l>authors name on it goes out into a more and more</l>
+        </p>
+      </div>
+      <div xml:id="m52.11">
+        <p>
+          <l>12</l>
+          <l>more <add place="above" hand="ms">crowded</add> numerous, a more divided audience, to a public which</l>
+          <l><add hand="ms" place="inline">[</add>emerging from the 
+            <choice>
+              <sic>silce</sic>
+              <corr>silence</corr>
+            </choice> of the middle ages <add hand="ms" place="inline">]</add> desires</l>
+          <l>according to its education, <add hand="ms" place="above">its poverty its</add> to it 
+            <choice>
+              <sic>weath</sic>
+              <corr>wealth</corr>
+            </choice>, now history, now</l>
+          <l>instruction, now poetry itself, and now what will make them</l>
+          <l>forget the that life is ugly, or drab. As the book</l>
+          <l>becomes more covered over <add hand="ms" place="above">with these influences</add>, the thing that the writer ser</l>
+          <l>set out to say becomes increasingly 
+            <choice>
+              <sic>encu bered</sic>
+              <corr>encumbered</corr>
+            </choice>. It is only</l>
+          <l>to be discovered in a flash of 
+            <choice>
+              <sic>recgnition</sic>
+              <corr>recognition</corr>
+            </choice>; Some say they</l>
+          <l>feel it--<del hand="ms">the original, the vital</del>--when their beards bristle.</l>
+          <l>Others that a 
+            <choice>
+              <sic>trhill</sic>
+              <corr>thrill</corr>
+            </choice> runs down the nerves of the thigh.</l>
+          <l>To disengage the song from its encumbrances becomes as time</l>
+          <l>goes on, a task for the critic-- that specially equipped</l>
+          <l>official who was 
+            <choice>
+              <sic>carcely</sic>
+              <corr>scarcely</corr>
+            </choice> in 
+            <choice>
+              <sic>existnce</sic>
+              <corr>existence</corr>
+            </choice> when <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> emerged</l>
+          <l>with his <rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Faery Queen</rs> from the depths of silence.</l>
+        </p>
+        <p>
+          <l><add hand="ms" place="inline">[</add>He had chosen his medium<add hand="ms" place="inline">:</add> <add hand="ms" place="above">&amp;</add> The great English art</l>
+          <l>was to be, not music, not painting, but the art of words.<add hand="ms" place="inline">]</add></l>
+          <l>We call Spenser an artist, more so than the 
+            <choice>
+              <sic>misntels</sic>
+              <corr>minstrels</corr>
+            </choice> and</l>
+          <l>the song writers, because he was aware of his 
+            <choice>
+              <sic>medoum</sic>
+              <corr>medium</corr>
+            </choice>.</l>
+          <l>
+            <choice>
+              <sic>H ewas</sic>
+              <corr>He was</corr>
+            </choice> conscious of the possibilities and of the</l>
+          <l>
+            <choice>
+              <sic>limtations</sic>
+              <corr>limitations</corr>
+            </choice> of the English 
+            <choice>
+              <sic>lang age</sic>
+              <corr>language</corr>
+            </choice>. <quote>For why, a Gods name,</quote></l>
+            <l><quote source="#" rend="inline">may not we, as else the Greekes, hav the kingdome of our owne</quote></l>
+            <l><quote source="#" rend="inline">
+              <choice>
+                <sic>langauge</sic>
+                <corr>language</corr>
+              </choice>, and measure our accents by the sound ,</quote></l>
+            <l><quote source="#" rend="inline">reserving the quantity to the verse?</quote> He applied 
+              <choice>
+                <sic>himslef</sic>
+                <corr>himself</corr>
+              </choice></l>
+            <l>to the art.</l>
+        </p>
+        <p>
+          <l><del hand="ms">And</del> <add hand="ms" place="inline">L</add>ike the 
+            <choice>
+              <sic>chornicler</sic>
+              <corr>chronicler</corr>
+            </choice>, the writer in order to use</l>
+          <l>his medium consciously, must be aware of the past. There must</l>
+          <l>be a golden age behind him<add hand="ms" place="inline">;</add> <del hand="ms">and</del> the present must be fallen,</l>
+          <l>degenerate. But, while the modern writer with a long line</l>
+          <l>behind him, naturally <choice>
+            <sic>at ackes</sic>
+            <corr>attacks</corr>
+          </choice> the generation which</l>
+        </p>
+      </div>
+      <div xml:id="m52.12">
+        <p>
+          <l>13</l>
+          <l>which is just gone, --<del hand="ms">they</del> <add hand="ms" place="above">but</add> are close enough to have</l>
+          <l>
+            <choice>
+              <sic>dmagaed</sic>
+              <corr>damaged</corr>
+            </choice> what he is seeing partly through their eyes--</l>
+          <l>the writer in Spensers time had no definite f<del hand="ms">oe</del>rebear. <add hand="ms" place="above">antagonist</add></l>
+          <l>Spensers <del>rdation</del> <add hand="ms" place="above">revolt</add> is against the 
+            <choice>
+              <sic>lanaguge</sic>
+              <corr>language</corr>
+            </choice> not against <add hand="ms" place="above">not any particular writer, but with</add></l>
+          <l>any 
+            <choice>
+              <sic>particualr</sic>
+              <corr>particular</corr>
+            </choice> master of it. He has a sense of the decay</l>
+          <l>of 
+            <choice>
+              <sic>langauge</sic>
+              <corr>language</corr>
+            </choice>, its 
+            <choice>
+              <sic>cor eptuino</sic>
+              <corr>corruption</corr>
+            </choice> since the purity of <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs>,</l>
+          <l>rather than a desire to destroy some actual 
+            <choice>
+              <sic>predecssor</sic>
+              <corr>predecessor</corr>
+            </choice>.</l>
+          <l><del hand="ms">He recovered the o old words, Chaucers words.</del> Conscious</l>
+          <l>perhaps of his own diffusity and sweetness, he tried to <add hand="ms" place="above">recover</add>
+            <choice>
+              <sic>stiff</sic>
+              <corr>stiffen</corr>
+            </choice></l>
+          <l>his words bu the use of <add hand="ms" place="above">Chaucers words, the old words</add> the Old English speech. But together</l>
+          <l>with this sense of the past, there was present <add hand="ms" place="inline">,</add><add hand="ms" place="above">what we have ???</add> in him</l>
+          <l>the sense of the future. <add hand="ms" place="inline">[</add>The sense of the future of the 
+            <choice>
+              <sic>langauge</sic>
+              <corr>language</corr>
+            </choice></l>
+          <l>is almost extinct now<add hand="ms" place="inline">]</add> <del hand="ms">But then the writer was aware</del></l>
+          <l><del hand="ms">of the tumult of the</del> Something was happening;</l>
+          <l>With his acute sense of words, he must have been aware,</l>
+          <l>with 
+            <choice>
+              <sic>agitaion</sic>
+              <corr>agitation</corr>
+            </choice>, with distress of what 
+            <choice>
+              <sic>linece</sic>
+              <corr>license</corr>
+            </choice> 
+            <choice>
+              <sic>ight</sic>
+              <corr>might</corr>
+            </choice> befall</l>
+          <l>this 
+            <choice>
+              <sic>langauge</sic>
+              <corr>language</corr>
+            </choice>; He must have detected in speech, in</l>
+          <l>
+            <choice>
+              <sic>ballds</sic>
+              <corr>ballads</corr>
+            </choice>, 
+            <choice>
+              <sic>everyhwere</sic>
+              <corr>everywhere</corr>
+            </choice>, something loosening, <add hand="ms">[fraying?]</add>, fermenting,</l>
+          <l>and tried to seize; to harden; to fix the language</l>
+          <l><del hand="ms">that was 
+            <choice>
+              <sic>abo</sic>
+              <corr>about</corr>
+            </choice> to be.</del> <add hand="ms" place="inline">before something happened</add></l>
+        </p>
+      </div>
+      <div xml:id="m52.13">
+        <p>
+          <l>15</l>
+          <quote source="#" rend="block">
+            <l>With that a joyous fellowship issewed</l>
+            <l>of Minsterls making goodly merriment</l>
+            <l>With wanton Bardes and Rhymers impudent</l>
+          </quote>
+          <l>That was the voice <add hand="ms" place="above">too</add> that was heard too in the great room.</l>
+        </p>
+        <p>
+          <l>For when we see the great 
+            <choice>
+              <sic>Elizabthan</sic>
+              <corr>Elizabethan</corr>
+            </choice> house--<rs type="place" ref="../resources/annotations.xml#pla-wilt">Wilton</rs></l>
+          <l>say, or <rs type="place" ref="../resources/annotations.xml#pla-pens">
+            <choice>
+              <sic>Penshurt</sic>
+              <corr>Penshurst</corr>
+            </choice></rs>-- we see the stranded relic that has e</l>
+          <l>
+            <choice>
+              <sic>merged</sic>
+              <corr>emerged</corr>
+            </choice> <add hand="ms" place="above">like the ribs of a wreck on the shore</add> from thxmxmxx its surroundings. Could we see it</l>
+          <l>as it is said that the airman sees a village <add hand="typewriter" place="above">field</add> wxmxmxxxx</l>
+          <l>xxx from the air with thexxxx scars of <add hand="typewriter" place="above">old roads,</add> other villages</l>
+          <l>and other houses on it. we should see the great house <add hand="ms" place="above">not alone, but</add></l>
+          <l>connected with the village. 
+            <choice>
+              <sic>W</sic>
+              <corr>We</corr>
+            </choice> should see a <del hand="ms">ring</del>, an oasis</l>
+          <l>in the midst of 
+            <choice>
+              <sic>va c</sic>
+              <corr>vast</corr>
+            </choice> wild country; the 
+            <choice>
+              <sic>raod</sic>
+              <corr>road</corr>
+            </choice> a track only;</l>
+          <l>and the oasis like a fortress holding out 
+            <choice>
+              <sic>agianst</sic>
+              <corr>against</corr>
+            </choice> the</l>
+          <l>uncultivated land; stored against the everlasting siege of</l>
+          <l>nature. If the enemy were man, there was armour 
+            <choice>
+              <sic>i</sic>
+              <corr>in</corr>
+            </choice> the church.</l>
+          <l>If frost or winter there was grain in the great barn.</l>
+          <l>That is the connection between great house and small,</l>
+          <l>between master and 
+            <choice>
+              <sic>la ouere</sic>
+              <corr>labourer</corr>
+            </choice> that is detailed in the <rs type="literary-work" ref="../resources/annotations.xml#lit-past">Paston</rs></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-past">letters</rs>, and makes indeed the staple of the 
+            <choice>
+              <sic>mediaveal</sic>
+              <corr>medieval</corr>
+            </choice></l>
+          <l>letter writing. But there was also that other connection--</l>
+          <l>the common belief. That bond between the great house and the</l>
+          <l>small has faded, till it is like one of those perhaps rather</l>
+          <l>greener rides 
+            <choice>
+              <sic>stillto</sic>
+              <corr>still to</corr>
+            </choice> be found in England along which,</l>
+          <l>
+            <choice>
+              <sic>abntiquaries</sic>
+              <corr>antiquaries</corr>
+            </choice> say the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant">Pilgrims</rs>rode to <rs type="place" ref="../resources/annotations.xml#pla-cant">Canterbury</rs>. So the</l>
+          <l>scholars tell us of the roads now faded in the mind.</l>
+          <l>Long before the 
+            <choice>
+              <sic>Christains ocame</sic>
+              <corr>Christians came</corr>
+            </choice> the tree was a God;</l>
+          <l>the sun was a God; Earth was God; Death was a God. <add hand="ms" place="inline">the</add></l>
+          <l><del hand="ms">and how</del> this 
+            <choice>
+              <sic>anceint</sic>
+              <corr>ancient</corr>
+            </choice> worship lies beneath the other; how</l>
+        </p>
+      </div>
+      <div xml:id="m52.14">
+        <p>
+          <l>15</l>
+          <quote source="#" rend="block">
+            <l>With that a joyous fellowship issued</l>
+            <l>Of misntrels making goodly merriment</l>
+            <l>With wanton bardes and Rhymers impudent</l>
+          </quote>
+          <l>--that voice reached Spenser too in the great room.</l>
+        </p>
+        <p>
+          <l>If the great 
+            <choice>
+              <sic>Elizabetahn</sic>
+              <corr>Elizabethan</corr>
+            </choice> house, <add hand="ms">(</add>Penshurst, Wilton as we see it</l>
+          <l>now cluttered with villas and bungalows, looks out</l>
+          <l>of proportion, it is 
+            <choice>
+              <sic>beacuse</sic>
+              <corr>because</corr>
+            </choice> the connection between the great house</l>
+          <l>and the small is lost. If we could see it as it was in Spensers</l>
+          <l>time we should see rxmxmxmxmxmxmxxx tracks, raying out from the</l>
+          <l>great gate to the across the fields to the 
+            <choice>
+              <sic>cooatge</sic>
+              <corr>cottage</corr>
+            </choice>, to</l>
+          <l>the farms, even to the hovels. <add hand="ms" place="above">there was the</add> It was connected, if war <del hand="ms">came</del></l>
+          <l>by the <del hand="ms">need of men</del>. There was armour stored in the church. <del hand="ms">And</del></l>
+          <l><add hand="ms">???</add>the perpetual fight with nature <del hand="ms">made tracks from the house to the</del></l>
+          <l><del hand="ms">farm.</del> A common fight linked the noble to the 
+            <choice>
+              <sic>labourrer</sic>
+              <corr>labourer</corr>
+            </choice>.</l>
+          <l>That connection, the physical, between master and man</l>
+          <l>is painfully and 
+            <choice>
+              <sic>minitelt</sic>
+              <corr>minutely</corr>
+            </choice> recorded in the medieval letters.</l>
+          <l>It is the staple of the whole 
+            <choice>
+              <sic>correspon nce</sic>
+              <corr>correspondence</corr>
+            </choice>--the   But there was</l>
+          <l>also the other the less visible connection--the common belief.</l>
+          <l>That bond between the 
+            <choice>
+              <sic>grear</sic>
+              <corr>great</corr>
+            </choice> house and the small has been</l>
+          <l>grown over, like the 
+            <choice>
+              <sic>t ack</sic>
+              <corr>track</corr>
+            </choice> under the hill along whch the</l>
+          <l>pilgrims rode to Canterbury. No one drives 
+            <choice>
+              <sic>the e</sic>
+              <corr>there</corr>
+            </choice> now. But when</l>
+          <l>Spenser came to Penshurst that 
+            <choice>
+              <sic>rack</sic>
+              <corr>track</corr>
+            </choice> led from one house to another;</l>
+          <l>pilgrims rode to Canterbury. No one drives 
+            <choice>
+              <sic>the e</sic>
+              <corr>there</corr>
+            </choice> now. But when</l>
+          <l>Spenser came to Penshurst that 
+            <choice>
+              <sic>rack</sic>
+              <corr>track</corr>
+            </choice> led from one house to another;</l>
+          <l>It led to the village green. It led to the tree<add hand="ms" place="inline">:</add> to the well.</l>
+          <l>In the spring they danced round the Maypole; at midsummer they</l>
+          <l>lit the bon fire on the hill; at harvest the waggons were 
+            <choice>
+              <sic>crwoned</sic>
+              <corr>crowned</corr>
+            </choice>.</l>
+          <l>At Christmas the mummers acted their dumb show; the boys 
+            <choice>
+              <sic>scame</sic>
+              <corr>came</corr>
+            </choice></l>
+          <l>wassailing. The roads led to the <del hand="ms">pagan graces,</del> to the stones</l>
+        </p>
+      </div>
+      <div xml:id="m52.15">
+        <p>
+          <l>16</l>
+          <l>where the old pagan 
+            <choice>
+              <sic>Ebglish</sic>
+              <corr>English</corr>
+            </choice> had offered sacrifice.</l>
+          <l>The peasants still went that way, by instinct; in summer</l>
+          <l>in spring; in summer in winter. The old Gods still lay behind the</l>
+          <l>Christian God. The Pagan gods were served and worshipped <add hand="ms" place="inline">under cover of</add></l>
+          <l>at the same time <add hand="ms" place="above">the Christian God</add>. The sun was a God; the earth a 
+            <choice>
+              <sic>goodess</sic>
+              <corr>goddess</corr>
+            </choice>.</l>
+          <l>Even if the old gods were 
+            <choice>
+              <sic>los ng</sic>
+              <corr>losing</corr>
+            </choice> their names, the</l>
+          <l>instinct remained when spring came, or in the cold of winter to do</l>
+          <l>them 
+            <choice>
+              <sic>h mage</sic>
+              <corr>homage</corr>
+            </choice>, to placate them, to win crops, husbands, health,</l>
+          <l>
+            <choice>
+              <sic>detruction</sic>
+              <corr>destruction</corr>
+            </choice> of foes. The 
+            <choice>
+              <sic>dsire</sic>
+              <corr>desire</corr>
+            </choice> to enact was coupled with the other</l>
+          <l>desire--to make something useless; something 
+            <choice>
+              <sic>unc nnected</sic>
+              <corr>unconnected</corr>
+            </choice> with the</l>
+          <l>daily struggle, to bring out into the day light embodied their own</l>
+          <l>
+            <choice>
+              <sic>natiral</sic>
+              <corr>natural</corr>
+            </choice> love of play. To be 
+            <choice>
+              <sic>dresded</sic>
+              <corr>dressed</corr>
+              <corr>dredged</corr>
+            </choice> up, to 
+            <choice>
+              <sic>emboy</sic>
+              <corr>embody</corr>
+            </choice> the beliefs</l>
+          <l>that were still so strong; when so much depended on the sun; but</l>
+          <l>also to 
+            <choice>
+              <sic>emboy</sic>
+              <corr>embody</corr>
+            </choice> the 
+            <choice>
+              <sic>insinct</sic>
+              <corr>instinct</corr>
+            </choice> of pleasure; the That sunken road, that</l>
+          <l>track of ancient belief lay between the master in the great house</l>
+          <l>and the peasant in the cottage. In the noble as in the 
+            <choice>
+              <sic>peasnt</sic>
+              <corr>peasant</corr>
+            </choice> 
+            <choice>
+              <sic>murmure</sic>
+              <corr>murmured</corr>
+            </choice></l>
+          <l>a half articulate anonumous voice murmured of old Gods and evils;</l>
+          <l>The well and the tree were still haunted. As the <choice>
+            <sic>s hpalrs</sic>
+            <corr>[scholars?]</corr>
+          </choice> 
+            <choice>
+              <sic>ll</sic>
+              <corr>tell</corr>
+            </choice> us</l>
+          <l>both noble and peasant had the same need to 
+            <choice>
+              <sic>meboy</sic>
+              <corr>embody</corr>
+            </choice> to 
+            <choice>
+              <sic>preresent</sic>
+              <corr>present</corr>
+            </choice> to see</l>
+          <l>the instinct 
+            <choice>
+              <sic>personfied</sic>
+              <corr>personified</corr>
+            </choice>. Along the roads from town to 
+            <choice>
+              <sic>twon</sic>
+              <corr>town</corr>
+            </choice> from</l>
+          <l>one great house 
+            <choice>
+              <sic>toanother</sic>
+              <corr>to another</corr>
+            </choice> came the 
+            <choice>
+              <sic>mistrels</sic>
+              <corr>minstrels</corr>
+            </choice> the rhymers the jugglers</l>
+          <l>the bear leaders, the makers of 
+            <choice>
+              <sic>ballds</sic>
+              <corr>ballads</corr>
+            </choice> and actors of old lege</l>
+          <l>legends. Even the King and Queen must have their 
+            <choice>
+              <sic>misnt esl</sic>
+              <corr>minstrel</corr>
+            </choice> to</l>
+          <l>give voice to the hidden instincts. Even though the actor,</l>
+          <l>partly because his body is his tool partly because the 
+            <choice>
+              <sic>lsinger</sic>
+              <corr>singer</corr>
+            </choice></l>
+          <l>and the dancer are outside the pale of daily workers and see the</l>
+          <l>
+            <choice>
+              <sic>pagenat</sic>
+              <corr>pageant</corr>
+            </choice> irresponsibly often mockingly, the actor was 
+            <choice>
+              <sic>despsied</sic>
+              <corr>despised</corr>
+            </choice>, they</l>
+        </p>
+      </div>
+      <div xml:id="m52.16">
+        <p>
+          <l>17</l>
+          <l>were necessary. Just as one tolerates the person who says what we</l>
+          <l>are all too proud or too self conscious to say, the minstrel was</l>
+          <l>
+            <choice>
+              <sic>despsied</sic>
+              <corr>despised</corr>
+            </choice> but 
+            <choice>
+              <sic>toelerated</sic>
+              <corr>tolerated</corr>
+            </choice>. Even the churchmen aware that the homage</l>
+          <l>was paid not their god but the old discarded god, could not suppress</l>
+          <l>the 
+            <choice>
+              <sic>misnters</sic>
+              <corr>minstrels</corr>
+            </choice>; 
+            <choice>
+              <sic>Alll</sic>
+              <corr>all</corr>
+            </choice> they could do was to make the irrepressible</l>
+          <l>
+            <choice>
+              <sic>sinsinct</sic>
+              <corr>instinct</corr>
+            </choice> flow into the correct religious channel. If they could they</l>
+          <l>constrained the jugglers and the bear leaders and the dancers</l>
+          <l>to put off their leaves, their bells, and striped 
+            <choice>
+              <sic>clthing</sic>
+              <corr>clothing</corr>
+            </choice></l>
+          <l>and robe 
+            <choice>
+              <sic>them sleves</sic>
+              <corr>themselves</corr>
+            </choice> in the garb proper to the 
+            <choice>
+              <sic>miravle</sic>
+              <corr>miracle</corr>
+            </choice> play.</l>
+        </p>
+        <p>
+          <l>This was a great bond between the great house and the</l>
+          <l>
+            <choice>
+              <sic>coottage</sic>
+              <corr>cottage</corr>
+            </choice>. For 
+            <choice>
+              <sic>thoug t eh</sic>
+              <corr>though the</corr>
+            </choice> great speaking 
+            <choice>
+              <sic>frech nglish</sic>
+              <corr>French, English</corr>
+            </choice>, with</l>
+          <l>Latin and 
+            <choice>
+              <sic>reek</sic>
+              <corr>Greek</corr>
+            </choice> on their 
+            <choice>
+              <sic>to gues</sic>
+              <corr>tongues</corr>
+            </choice>, might despise the jargon of the</l>
+          <l>peasant, they shared the memory of what he was doing when he danced,</l>
+          <l>they knew the old story he acted. Even to the King himself,</l>
+          <l>it was certain that an evil 
+            <choice>
+              <sic>sp it</sic>
+              <corr>spirit</corr>
+            </choice> dwelt in the woman in the</l>
+          <l>hovel. When the <rs type="object" ref="../resources/annotations.xml#obj-pill">
+            <choice>
+              <sic>pilliw nks</sic>
+              <corr>pilliwinks</corr>
+            </choice></rs> were applied to her she confessed</l>
+          <l>how she 
+            <choice>
+              <sic>h d</sic>
+              <corr>had</corr>
+            </choice> gone to sea in a sieve with two 
+            <choice>
+              <sic>hu dred</sic>
+              <corr>hundred</corr>
+            </choice> other 
+            <choice>
+              <sic>witched</sic>
+              <corr>witches</corr>
+            </choice></l>
+          <l>and danced a reel how she had thrown a cat 
+            <choice>
+              <sic>intot he</sic>
+              <corr>into the</corr>
+            </choice> sea and</l>
+          <l>raised a 
+            <choice>
+              <sic>stor</sic>
+              <corr>storm</corr>
+            </choice> that sunk the 
+            <choice>
+              <sic>kin s</sic>
+              <corr>kings</corr>
+            </choice> ship. Spenser 
+            <choice>
+              <sic>haerd</sic>
+              <corr>heard</corr>
+            </choice> the</l>
+          <l>
+            <choice>
+              <sic>r ymers</sic>
+              <corr>rhymers</corr>
+            </choice> and the 
+            <choice>
+              <sic>mummenrs</sic>
+              <corr>mummers</corr>
+            </choice>. He was at 
+            <choice>
+              <sic>he</sic>
+              <corr>the</corr>
+            </choice> festival when the</l>
+          <quote source="#" rend="block">
+            <l>And after her came jolly june arrayed</l>
+            <l>All in greene leaves, as she a player were.</l>
+          </quote>
+          <l>He had seen the man at the festival, and noted his green leaves</l>
+          <l>when the Queen had seen the masque at 
+            <rs type="place" ref="../resources/annotations.xml#pla-keni"><choice>
+              <sic>Kenilsowrth</sic>
+              <corr>Kenilworth</corr>
+            </choice></rs>. It was a revival,</l>
+          <l>already time had given those green leaves their mystery <add hand="ms" place="above">[illeg.]</add>. Already the</l>
+          <l>other house was being built: 
+            <rs type="person" ref="../resources/annotations.xml#psn-phen"><choice>
+              <sic>enslowew</sic>
+              <corr>Henslowe</corr>
+            </choice></rs> had jotted down in 
+            <choice>
+              <sic>h</sic>
+              <corr>his</corr>
+            </choice> account</l>
+          <l>book the 
+            <choice>
+              <sic>ums</sic>
+              <corr>sums</corr>
+            </choice> he had paid for 
+            <choice>
+              <sic>laths</sic>
+              <corr>lathes</corr>
+            </choice> and nails and timber to build a</l>
+          <l>play house. He had given so much for painting the theatre. He</l>
+        </p>
+      </div>
+      <div xml:id="m51.17">
+        <p>
+          <l>18</l>
+          <l>distance he sees them 
+            <choice>
+              <sic>pictriallly</sic>
+              <corr>pictorally</corr>
+            </choice>; grouped, like the</l>
+          <l>
+            <choice>
+              <sic>figur s</sic>
+              <corr>figures</corr>
+            </choice> in a fresco,with the flowers growing at their feet,</l>
+          <l>behind them marble pillars, trees with bright birds, and</l>
+          <l>the libbard and the lion 
+            <choice>
+              <sic>couching</sic>
+              <corr>couchant</corr>
+            </choice> or 
+            <choice>
+              <sic>rampamt</sic>
+              <corr>rampant</corr>
+            </choice>. There is no</l>
+          <l>tension; no direction but always movement, as the metre</l>
+          <l>flings its curve of sound that, like a wave, breaks always</l>
+          <l>on the same 
+            <choice>
+              <sic>pace</sic>
+              <corr>place</corr>
+            </choice>. Folded in this 
+            <choice>
+              <sic>intation</sic>
+              <corr>incantation</corr>
+              <corr>intonation</corr>
+            </choice> we 
+            <choice>
+              <sic>drwose</sic>
+              <corr>drowse</corr>
+            </choice>and</l>
+          <l>sleep yet always start awake. <add hand="ms" place="inline">For the T [illeg.] is illuminated.</add></l>
+        </p>
+        <p>
+          <l><add hand="ms" place="inline">&lt;</add>Still there is something anonymous about <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs>.</l>
+          <l>He cannot confine emotions within one person.</l>
+          <l>He must externalise and symbolise.</l>
+        </p>
+        <p>
+          <l><del hand="ms">But</del> Spenser standing on the threshold of the great room</l>
+          <l>is half in 
+            <choice>
+              <sic>shdow</sic>
+              <corr>shadow</corr>
+            </choice>, half in light. He is still anonymous</l>
+          <l>in that he cannot confine emotions within one person.</l>
+          <l>He must symbolise; exteriorise. If a man is jealous, he 
+            <choice>
+              <sic>canno</sic>
+              <corr>cannot</corr>
+            </choice></l>
+          <l>show it save by making a symbol of jealousy. He must</l>
+          <l>
+            <choice>
+              <sic>Jealusy</sic>
+              <corr>Jealousy</corr>
+            </choice> becomes     The feelings of men and women must be</l>
+          <l>
+            <choice>
+              <sic>symblised</sic>
+              <corr>symbolised</corr>
+            </choice> and given a body outside 
+            <choice>
+              <sic>th ir</sic>
+              <corr>their</corr>
+            </choice> own. He ignores</l>
+          <l>
+            <choice>
+              <sic>hims lf</sic>
+              <corr>himself</corr>
+            </choice>, the individual. Yet at the same time, forces are at</l>
+          <l>work that make him conscious of himself, the man who is</l>
+          <l>separate from the 
+            <choice>
+              <sic>audeince</sic>
+              <corr>audience</corr>
+            </choice>, who is giving the 
+            <choice>
+              <sic>wolrd</sic>
+              <corr>world</corr>
+            </choice> something</l>
+          <l>of himself, 
+            <choice>
+              <sic>whois</sic>
+              <corr>who is</corr>
+            </choice> conscious of the worlds 
+            <choice>
+              <sic>scron</sic>
+              <corr>scorn</corr>
+            </choice> and neglect</l>
+          <l>of what he gives. He is aware of his art as <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> was</l>
+          <l>not, nor <rs type="person" ref="../resources/annotations.xml#psn-wlan">Langland</rs>, nor <rs type="person" ref="../resources/annotations.xml#psn-tmal">
+            <choice>
+              <sic>Malry</sic>
+              <corr>Malory</corr>
+            </choice></rs>. His is no longer a wandering</l>
+          <l>voice, but the voice of a man practising an art, and</l>
+          <l>asking for recognition.</l>
+        </p>
+        <p>
+          <l>Had the poet remained in the great room, 
+            <choice>
+              <sic>profferig</sic>
+              <corr>proffering</corr>
+            </choice></l>
+          <l>his book to the little group of readers, English poetry</l>
+        </p>
+      </div>
+      <div xml:id="m52.18">
+        <p>
+          <l>19</l>
+          <l>might 
+            <choice>
+              <sic>hav</sic>
+              <corr>have</corr>
+            </choice> rxmxmxmxxx a book read aloud; a recollection;</l>
+          <l>something read by the leisured listening in the great room</l>
+          <l>to some one reading aloud. But there was the other</l>
+          <l>voice the voice at the back door, the voice that</l>
+          <l>Spenser heard himself--- <quote source="#" rend="inline">...of minstrels making goodly</quote></l>
+          <l><quote source="#" rend="inline">merriment</quote></l>
+          <l><quote source="#" rend="inline">With wanton bardes and rhymers impudent.</quote></l>
+        </p>
+        <p>
+          <l>Spenser 
+            <choice>
+              <sic>ims lf</sic>
+              <corr>himself</corr>
+            </choice> had heard it. 
+            <choice>
+              <sic>H h</sic>
+              <corr>He had</corr>
+            </choice> been, it is said,</l>
+          <l>at the pageant at <rs type="place" ref="../resources/annotations.xml#pla-keni">Kenilworth</rs> when to amuse the Queen, an</l>
+          <l>old story was staged. And 
+            <choice>
+              <sic>Soenser</sic>
+              <corr>Spenser</corr>
+            </choice> noted the player</l>
+          <l>dressed in green leaves. The nobles it seems,</l>
+          <l>had a great love of txxxx those 
+            <choice>
+              <sic>r de</sic>
+              <corr>rude</corr>
+            </choice> voices. Ironically 
+            <choice>
+              <sic>enoug</sic>
+              <corr>enough</corr>
+            </choice></l>
+          <l>the preacher who was for 
+            <choice>
+              <sic>banihsing</sic>
+              <corr>banishing</corr>
+            </choice> <rs type="person" ref="../resources/annotations.xml#psn-rhoo">Robin Hood</rs> and such</l>
+          <l>ancient 
+            <choice>
+              <sic>supersttions</sic>
+              <corr>superstitions</corr>
+            </choice> was himself forging the very weapon</l>
+          <l>that gave the old 
+            <choice>
+              <sic>misntersl</sic>
+              <corr>minstrels</corr>
+            </choice> their le a new lease of life</l>
+          <l>When <rs type="person" ref="../resources/annotations.xml#psn-hlat">Latimer</rs> said <rs type="literary-work" ref="../resources/annotations.xml#lit-lord">the Lords Prayer</rs> in English at the</l>
+          <l>
+            <choice>
+              <sic>beginng</sic>
+              <corr>beginning</corr>
+            </choice> and end of his sermon he was 
+            <choice>
+              <sic>   tting</sic>
+              <corr>putting</corr>
+            </choice> English into</l>
+          <l>high places. He was rescuing it from the back door.</l>
+          <l>He was teaching the nobles how to 
+            <choice>
+              <sic>r ad</sic>
+              <corr>read</corr>
+            </choice> English; he was</l>
+          <l>making that alliance between the peasant and the noble</l>
+          <l>which was 
+            <choice>
+              <sic>necssary</sic>
+              <corr>necessary</corr>
+            </choice>, should all classes meet together</l>
+          <l>at the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs> at the <rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs> at the <rs type="place" ref="../resources/annotations.xml#pla-crow">Crown</rs>.</l>
+        </p>
+        <p>
+          <l>When the Queen and the poet 
+            <choice>
+              <sic>togteher</sic>
+              <corr>together</corr>
+            </choice> saw the old</l>
+          <l>
+            <choice>
+              <sic>paganet</sic>
+              <corr>pageant</corr>
+            </choice> with the players still wearing green 
+            <choice>
+              <sic>levaes</sic>
+              <corr>leaves</corr>
+            </choice> at</l>
+          <l>Kenilworth, the builders of the new theatre were ordering</l>
+          <l>nails, planks, the xmxmxmxmxmxmxmxmxmxmxmxmxmxmxxx first 
+            <choice>
+              <sic>theate</sic>
+              <corr>theatre</corr>
+            </choice></l>
+          <l>was being built, at <rs type="place" ref="../resources/annotations.xml#pla-sout">Southwark</rs>, among the stews, When the flag</l>
+          <l>flew, the poor and the rich came together, in the open air,</l>
+        </p>
+      </div>
+      <div xml:id="m52.19">
+        <p>
+          <l>and on that stage, without any scenery, but richly dressed,</l>
+          <l>the old mummers were to act not Robin Hood, not <rs type="literary-work" ref="../resources/annotations.xml#lit-ever">
+            <choice>
+              <sic>E  ry man</sic>
+              <corr>Everyman</corr>
+            </choice></rs>,</l>
+          <l>not <rs>St Georges</rs> play but <rs type="literary-work" ref="../resources/annotations.xml#lit-faus">Faust</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">
+            <choice>
+              <sic>Tamberlaine</sic>
+              <corr>Tamburlaine</corr>
+            </choice></rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-haml">Hamlet</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-lear">Lear</rs>, </l>
+          <l>and <rs type="literary-work" ref="../resources/annotations.xml#lit-ancl">Antony and 
+            <choice>
+              <sic>Cleoptara</sic>
+              <corr>Cleopatra</corr>
+            </choice></rs>.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
