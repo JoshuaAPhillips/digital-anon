@@ -10,7 +10,7 @@ file = sys.argv[-1]
 
 # save data as tuple
 
-def csvreader(file, dialect='excel'):
+def csvreader(file, dialect='excel', quote=csv.QUOTE_NONNUMERIC):
     data = []
     try:
         with open(file, 'r') as csv_file:

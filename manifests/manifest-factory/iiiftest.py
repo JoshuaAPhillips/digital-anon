@@ -59,4 +59,5 @@ for idx, i in enumerate(data):
 # finishing touches - inspecting canvas for required and recommended properties, and saving out JSON file
 
 canvas.inspect()
-manifest.json_save()
+manifest.show_errors_in_browser()
+#manifest.json_save()
