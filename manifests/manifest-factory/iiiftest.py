@@ -60,9 +60,14 @@ if data is not None:
 
     # finishing touches - inspecting canvas for required and recommended properties, and saving out JSON file
 
-    canvas.inspect()
+    #canvas.inspect()
+    
+
+    # asks for a filename for the file output
+
+    filename = input("Please enter a name for this file: ")
+    manifest.json_save('{}.json'.format(filename))
     manifest.show_errors_in_browser()
-    #manifest.json_save('m48-factory-test-2.json')
-      
+
 else:
     print("Data is None :()")
