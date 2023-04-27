@@ -10,14 +10,15 @@ file = sys.argv[-1]
 
 # save raw data as list
 
-def csvreader(file, dialect='excel'):
-    raw_data = []
+def csvreader(file):
 
     try:
         with open(file, 'r') as csv_file:
             reader = csv.reader(csv_file)
+            raw_data = []
             for row in reader:
-                raw_data.append(tuple(row))
+                raw_data.append(row)
+        #print(raw_data)
         return raw_data
     
     except FileNotFoundError:
