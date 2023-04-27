@@ -14,16 +14,9 @@ def sanitise(file):
     raw_data = csvreader.csvreader(file)
 
     # data cleanup - turns number-like strings into ints
-    data = ()
-    for tuple in raw_data:
-        new_tpl = ()
-        for item in tuple:
-            if item.isdigit():
-                new_tpl += (int(item),)
-            else:
-                new_tpl += (item,)
-        data += new_tpl
 
+    data = [[int(item) if item.isdigit() else item for item in sublist] for sublist in raw_data]
+    
     return data
 
 sanitise(file)
