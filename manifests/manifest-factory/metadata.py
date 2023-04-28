@@ -61,17 +61,11 @@ def metadataParse(root):
 
     return title.text, author.text, editor.text, summary.text, provider, repository
 
-# does the thing
-
-getfilename()
-getRoot(xml_file)
-metadataParse(root)
-
 def metadataDict(title, author, editor, summary, provider, repository):
 
     # creates and returns dictionary of metadata
-    
-    global metadata_dict
+
+    #global metadata_dict
     metadata_dict = dict(
         title = title.text,
         author = author.text,
@@ -83,4 +77,9 @@ def metadataDict(title, author, editor, summary, provider, repository):
     #print(metadata_dict)
     return metadata_dict
 
+# does the thing
+
+getfilename()
+getRoot(xml_file)
+metadataParse(root)
 metadataDict(title, author, editor, summary, provider, repository)

@@ -1,10 +1,11 @@
 # imports
-"""
+
 import sys
 from IIIFpres import iiifpapi3
 import sanitiser
-"""
+
 import metadata
+from metadata import *
 """
 # base manifest setup
 iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
@@ -21,10 +22,11 @@ file = sys.argv[-1]
 
 data = sanitiser.sanitise(file)
 """
-metadata_filename = metadata.getfilename()
-metadata_root = metadata.getRoot(metadata_filename)
-metadata_raw = metadata.metadataParse(metadata_root)
-metadata_dict = metadata.metadataDict()
+#xml_file = metadata.getfilename()
+#root = metadata.getRoot(xml_file)
+#metadata_raw = metadata.metadataParse(root)
+
+metadata_dict = metadata.metadataDict(title, author, editor, summary, provider, repository)
 
 print(metadata_dict)
 
