@@ -21,7 +21,10 @@ file = sys.argv[-1]
 
 data = sanitiser.sanitise(file)
 """
-metadata_dict = metadata.metadata()
+metadata_filename = metadata.getfilename()
+metadata_root = metadata.getRoot(metadata_filename)
+metadata_raw = metadata.metadataParse(metadata_root)
+metadata_dict = metadata.metadataDict()
 
 print(metadata_dict)
 
