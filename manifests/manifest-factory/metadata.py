@@ -11,15 +11,25 @@ def getfilename():
     xml_file = '../../transcriptions/v2/{}'.format(filename)
     return xml_file
 
-# pull metadata from xml
+# parses root and streams to metadataParse()
 
-def metadataParse(xml_file):
+def getRoot(xml_file):
 
+    parser = ET.XMLParser(encoding='UTF-8')
     tree = ET.parse(xml_file)
+    global root
     root = tree.getroot()
-    
-    print(root)
+    print(root.tag)
+    return root
+
+# pulls out metadata items
+
+def metadataParse(root):
+
+    # teiHeader = root.find('./{http://www.tei-c.org/ns/1.0}teiHeader')
+    title = root.find('.//{http://www.tei-c.org/ns/1.0}title')
+    print(title.text)
 
 getfilename()
-print(xml_file)
-metadataParse(xml_file)
+getRoot(xml_file)
+metadataParse(root)
