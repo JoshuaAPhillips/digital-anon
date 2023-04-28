@@ -2,34 +2,78 @@
 
 import xml.etree.ElementTree as ET
 
-# get filename
+def metadata():
 
-def getfilename():
+    # get filename
 
-    filename = input("Please enter the metadata filename: ")
-    global xml_file 
-    xml_file = '../../transcriptions/v2/{}'.format(filename)
-    return xml_file
+    def getfilename():
 
-# parses root and streams to metadataParse()
+        filename = input("Please enter the metadata filename: ")
+        global xml_file 
+        xml_file = '../../transcriptions/v2/{}'.format(filename)
+        return xml_file
 
-def getRoot(xml_file):
+    # parses root and streams to metadataParse()
 
-    parser = ET.XMLParser(encoding='UTF-8')
-    tree = ET.parse(xml_file)
-    global root
-    root = tree.getroot()
-    print(root.tag)
-    return root
+    def getRoot(xml_file):
 
-# pulls out metadata items
+        parser = ET.XMLParser(encoding='UTF-8')
+        tree = ET.parse(xml_file)
 
-def metadataParse(root):
+        global root
+        root = tree.getroot()
+        return root
 
-    # teiHeader = root.find('./{http://www.tei-c.org/ns/1.0}teiHeader')
-    title = root.find('.//{http://www.tei-c.org/ns/1.0}title')
-    print(title.text)
+    # pulls out metadata items
 
-getfilename()
-getRoot(xml_file)
-metadataParse(root)
+    def metadataParse(root):
+
+        # title
+        title = root.find('.//{http://www.tei-c.org/ns/1.0}title')
+        #print(title.text)
+
+        # author
+        author = root.find('.//{http://www.tei-c.org/ns/1.0}author')
+        #print(author.text)
+
+        # editor (me!)
+        editor = root.find('.//{http://www.tei-c.org/ns/1.0}respStmt/{http://www.tei-c.org/ns/1.0}name')
+        #print(editor.text)
+
+        # summary
+        summary = root.find('.//{http://www.tei-c.org/ns/1.0}physDesc/{http://www.tei-c.org/ns/1.0}p')
+        #print(summary.text)
+
+        # provider/copyright (required statement?)
+        provider_a = root.find('.//{http://www.tei-c.org/ns/1.0}authority')
+        provider_b = root.find('.//{http://www.tei-c.org/ns/1.0}availability/{http://www.tei-c.org/ns/1.0}p')
+        provider = provider_a.text + ". " + provider_b.text + "."
+        #print(provider)
+
+        # repository
+        repo_a = root.find('.//{http://www.tei-c.org/ns/1.0}institution')
+        repo_b = root.find('.//{http://www.tei-c.org/ns/1.0}repository')
+        repository = repo_a.text + ", " + repo_b.text + "."
+        #print(repository)
+
+        # creates and returns dictionary of metadata
+
+        def dictcreator():
+            metadata_dict = dict(
+                title = title.text,
+                author = author.text,
+                editor = editor.text,
+                summary = summary.text,
+                provider = provider,
+                repository = repository
+            )
+            print(metadata_dict)
+            return metadata_dict
+
+    # does the thing
+        dictcreator()
+    getfilename()
+    getRoot(xml_file)
+    metadataParse(root)
+
+metadata()
