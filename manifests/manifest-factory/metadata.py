@@ -4,77 +4,84 @@ import xml.etree.ElementTree as ET
 
 global metadata_dict
 
-def metadata():
 
-    # get filename
 
-    def getfilename():
+# get filename
 
-        filename = input("Please enter the metadata filename: ")
-        global xml_file 
-        xml_file = '../../transcriptions/v2/{}'.format(filename)
-        return xml_file
+def getfilename():
 
-    # parses root and streams to metadataParse()
+    filename = input("Please enter the metadata filename: ")
 
-    def getRoot(xml_file):
+    global xml_file 
+    xml_file = '../../transcriptions/v2/{}'.format(filename)
+    return xml_file
 
-        parser = ET.XMLParser(encoding='UTF-8')
-        tree = ET.parse(xml_file)
+# parses root and streams to metadataParse()
 
-        global root
-        root = tree.getroot()
-        return root
+def getRoot(xml_file):
 
-    # pulls out metadata items
+    parser = ET.XMLParser(encoding='UTF-8')
+    tree = ET.parse(xml_file)
 
-    def metadataParse(root):
+    global root
+    root = tree.getroot()
+    return root
 
-        # title
-        title = root.find('.//{http://www.tei-c.org/ns/1.0}title')
-        #print(title.text)
+# pulls out metadata items
 
-        # author
-        author = root.find('.//{http://www.tei-c.org/ns/1.0}author')
-        #print(author.text)
+def metadataParse(root):
 
-        # editor (me!)
-        editor = root.find('.//{http://www.tei-c.org/ns/1.0}respStmt/{http://www.tei-c.org/ns/1.0}name')
-        #print(editor.text)
+    global title, author, editor, summary, provider, repository
 
-        # summary
-        summary = root.find('.//{http://www.tei-c.org/ns/1.0}physDesc/{http://www.tei-c.org/ns/1.0}p')
-        #print(summary.text)
+    # title
+    title = root.find('.//{http://www.tei-c.org/ns/1.0}title')
+    #print(title.text)
 
-        # provider/copyright (required statement?)
-        provider_a = root.find('.//{http://www.tei-c.org/ns/1.0}authority')
-        provider_b = root.find('.//{http://www.tei-c.org/ns/1.0}availability/{http://www.tei-c.org/ns/1.0}p')
-        provider = provider_a.text + ". " + provider_b.text + "."
-        #print(provider)
+    # author
+    author = root.find('.//{http://www.tei-c.org/ns/1.0}author')
+    #print(author.text)
 
-        # repository
-        repo_a = root.find('.//{http://www.tei-c.org/ns/1.0}institution')
-        repo_b = root.find('.//{http://www.tei-c.org/ns/1.0}repository')
-        repository = repo_a.text + ", " + repo_b.text + "."
-        #print(repository)
+    # editor (me!)
+    editor = root.find('.//{http://www.tei-c.org/ns/1.0}respStmt/{http://www.tei-c.org/ns/1.0}name')
+    #print(editor.text)
 
-        # creates and returns dictionary of metadata
+    # summary
+    summary = root.find('.//{http://www.tei-c.org/ns/1.0}physDesc/{http://www.tei-c.org/ns/1.0}p')
+    #print(summary.text)
 
-        metadata_dict = dict(
-            title = title.text,
-            author = author.text,
-            editor = editor.text,
-            summary = summary.text,
-            provider = provider,
-            repository = repository
+    # provider/copyright (required statement?)
+    provider_a = root.find('.//{http://www.tei-c.org/ns/1.0}authority')
+    provider_b = root.find('.//{http://www.tei-c.org/ns/1.0}availability/{http://www.tei-c.org/ns/1.0}p')
+    provider = provider_a.text + ". " + provider_b.text + "."
+    #print(provider)
+
+    # repository
+    repo_a = root.find('.//{http://www.tei-c.org/ns/1.0}institution')
+    repo_b = root.find('.//{http://www.tei-c.org/ns/1.0}repository')
+    repository = repo_a.text + ", " + repo_b.text + "."
+    #print(repository)
+
+    return title.text, author.text, editor.text, summary.text, provider, repository
+
+# does the thing
+
+getfilename()
+getRoot(xml_file)
+metadataParse(root)
+
+def metadataDict(title, author, editor, summary, provider, repository):
+
+    # creates and returns dictionary of metadata
+
+    metadata_dict = dict(
+        title = title.text,
+        author = author.text,
+        editor = editor.text,
+        summary = summary.text,
+        provider = provider,
+        repository = repository
         )
-        print(metadata_dict)
-        return metadata_dict
+    print(metadata_dict)
+    return metadata_dict
 
-    # does the thing
-
-    getfilename()
-    getRoot(xml_file)
-    metadataParse(root)
-
-metadata()
+metadataDict(title, author, editor, summary, provider, repository)
