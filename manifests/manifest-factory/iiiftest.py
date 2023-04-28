@@ -1,12 +1,12 @@
 # imports
-
+"""
 import sys
 from IIIFpres import iiifpapi3
-import csvreader
 import sanitiser
-
+"""
+import metadata
+"""
 # base manifest setup
-
 iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
 manifest = iiifpapi3.Manifest()
 manifest.set_id(extendbase_url="manifest.json")
@@ -20,54 +20,61 @@ file = sys.argv[-1]
 # pull data from CSV and sanitises
 
 data = sanitiser.sanitise(file)
+"""
+metadata_dict = metadata.metadata()
+
+print(metadata_dict)
 
 # where the magic happens
+"""
+def manifestFactory():
 
-if data is not None:
 
-    for idx, i in enumerate(data):
+    if data is not None:
 
-        # set canvas properties
+        for idx, i in enumerate(data):
 
-        canvas = manifest.add_canvas_to_items()
-        canvas.set_id(extendbase_url="canvas/p%s"%idx)
-        canvas.set_height(data[idx][2])
-        canvas.set_width(data[idx][1])
-        canvas.add_label("en", data[idx][0])
+            # set canvas properties
 
-        # set canvas annotations - create annopage object for each canvas
+            canvas = manifest.add_canvas_to_items()
+            canvas.set_id(extendbase_url="canvas/p%s"%idx)
+            canvas.set_height(data[idx][2])
+            canvas.set_width(data[idx][1])
+            canvas.add_label("en", data[idx][0])
 
-        annopage = canvas.add_annotationpage_to_items()
+            # set canvas annotations - create annopage object for each canvas
 
-        # add annotation (i.e., facsimile taking up entire canvas) to annopage and provide information
+            annopage = canvas.add_annotationpage_to_items()
 
-        annopage.set_id(extendbase_url="page/p%s/1"%idx)
-        annotation = annopage.add_annotation_to_items(target=canvas.id)
-        annotation.set_id(extendbase_url="annotation/p%s-image"%str(idx).zfill(4))
-        annotation.set_motivation("painting")
-        annotation.body.set_id(data[idx][3])
-        annotation.body.set_type("Image")
-        annotation.body.set_format("image/jpeg")
-        annotation.body.set_width(data[idx][1])
-        annotation.body.set_height(data[idx][2])
+            # add annotation (i.e., facsimile taking up entire canvas) to annopage and provide information
 
-        # specify service for above canvas annotations
+            annopage.set_id(extendbase_url="page/p%s/1"%idx)
+            annotation = annopage.add_annotation_to_items(target=canvas.id)
+            annotation.set_id(extendbase_url="annotation/p%s-image"%str(idx).zfill(4))
+            annotation.set_motivation("painting")
+            annotation.body.set_id(data[idx][3])
+            annotation.body.set_type("Image")
+            annotation.body.set_format("image/jpeg")
+            annotation.body.set_width(data[idx][1])
+            annotation.body.set_height(data[idx][2])
 
-        service = annotation.body.add_service()
-        service.set_id(data[idx][3])
-        service.set_type("ImageService3")
-        service.set_profile("level1")
+            # specify service for above canvas annotations
 
-    # finishing touches - inspecting canvas for required and recommended properties, and saving out JSON file
+            service = annotation.body.add_service()
+            service.set_id(data[idx][3])
+            service.set_type("ImageService3")
+            service.set_profile("level1")
 
-    #canvas.inspect()
-    
+        # finishing touches - inspects manifest for required and recommended properties
 
-    # asks for a filename for the file output
+        manifest.inspect()
+        
+        # asks for a filename for the file output and saves out .json file
 
-    filename = input("Please enter a name for this file: ")
-    manifest.json_save('{}.json'.format(filename))
-    manifest.show_errors_in_browser()
+        # filename = input("Please enter a name for this file: ")
+        # manifest.json_save('{}.json'.format(filename))
+        manifest.show_errors_in_browser()
 
-else:
-    print("Data is None :()")
+    else:
+        print("Data is None :()")
+        """

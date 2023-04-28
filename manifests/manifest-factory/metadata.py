@@ -2,6 +2,8 @@
 
 import xml.etree.ElementTree as ET
 
+global metadata_dict
+
 def metadata():
 
     # get filename
@@ -58,20 +60,19 @@ def metadata():
 
         # creates and returns dictionary of metadata
 
-        def dictcreator():
-            metadata_dict = dict(
-                title = title.text,
-                author = author.text,
-                editor = editor.text,
-                summary = summary.text,
-                provider = provider,
-                repository = repository
-            )
-            print(metadata_dict)
-            return metadata_dict
+        metadata_dict = dict(
+            title = title.text,
+            author = author.text,
+            editor = editor.text,
+            summary = summary.text,
+            provider = provider,
+            repository = repository
+        )
+        print(metadata_dict)
+        return metadata_dict
 
     # does the thing
-        dictcreator()
+
     getfilename()
     getRoot(xml_file)
     metadataParse(root)
