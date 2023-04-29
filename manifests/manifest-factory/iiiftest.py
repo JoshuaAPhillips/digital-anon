@@ -21,17 +21,29 @@ print(metadata_dict)
 
 def manifestFactory():
 
+    # sets manifest-level properties
+
     iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
     manifest = iiifpapi3.Manifest()
     manifest.set_id(extendbase_url="manifest.json")
-    manifest.add_label("en","M48 test manifest")
+    manifest.add_label("en",metadata_dict["title"])
     manifest.add_behavior("paged")
+    manifest.add_metadata("Author:",metadata_dict["author"],"en", "en")
+    manifest.add_metadata("Editor:",metadata_dict["editor"],"en", "en")
+    manifest.add_metadata("Repository:", metadata_dict["repository"], "en", "en")
+    manifest.add_summary("en", metadata_dict["summary"])
+
+        # sets provider information
+
+    provider = manifest.add_provider()
+    provider.set_id("https://www2.societyofauthors.org")
+    provider.add_label("en", metadata_dict["provider"])
+
+    # generates canvases and sets canvas-level properties
 
     if data is not None:
 
         for idx, i in enumerate(data):
-
-            # set canvas properties
 
             canvas = manifest.add_canvas_to_items()
             canvas.set_id(extendbase_url="canvas/p%s"%idx)
@@ -55,7 +67,7 @@ def manifestFactory():
             annotation.body.set_width(data[idx][1])
             annotation.body.set_height(data[idx][2])
 
-            # specify service for above canvas annotations
+            # specify service (i.e., deep zoom capability) for above canvas annotations
 
             service = annotation.body.add_service()
             service.set_id(data[idx][3])
@@ -68,8 +80,8 @@ def manifestFactory():
         
         # asks for a filename for the file output and saves out .json file
 
-        # filename = input("Please enter a name for this file: ")
-        # manifest.json_save('{}.json'.format(filename))
+        filename = input("Please enter a name for this file: ")
+        manifest.json_save('{}.json'.format(filename))
         manifest.show_errors_in_browser()
 
     else:
