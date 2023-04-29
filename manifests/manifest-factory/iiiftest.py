@@ -3,37 +3,29 @@
 import sys
 from IIIFpres import iiifpapi3
 import sanitiser
-
 import metadata
 from metadata import *
-"""
-# base manifest setup
-iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
-manifest = iiifpapi3.Manifest()
-manifest.set_id(extendbase_url="manifest.json")
-manifest.add_label("en","M48 test manifest")
-manifest.add_behavior("paged")
 
-# get data filename
+# pull data from CSV (specified as argument when program run) and sanitises
 
 file = sys.argv[-1]
-
-# pull data from CSV and sanitises
-
 data = sanitiser.sanitise(file)
-"""
-#xml_file = metadata.getfilename()
-#root = metadata.getRoot(xml_file)
-#metadata_raw = metadata.metadataParse(root)
+
+# pulls metadata from given XML (input) into dictionary
 
 metadata_dict = metadata.metadataDict(title, author, editor, summary, provider, repository)
 
 print(metadata_dict)
 
 # where the magic happens
-"""
+
 def manifestFactory():
 
+    iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
+    manifest = iiifpapi3.Manifest()
+    manifest.set_id(extendbase_url="manifest.json")
+    manifest.add_label("en","M48 test manifest")
+    manifest.add_behavior("paged")
 
     if data is not None:
 
@@ -82,4 +74,5 @@ def manifestFactory():
 
     else:
         print("Data is None :()")
-        """
+
+manifestFactory()

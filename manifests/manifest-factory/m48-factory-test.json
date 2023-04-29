@@ -4,11 +4,65 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "M48 test manifest"
+      "M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author:"
+        ]
+      },
+      "value": {
+        "en": [
+          "Virginia Woolf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Editor:"
+        ]
+      },
+      "value": {
+        "en": [
+          "Joshua Phillips"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository:"
+        ]
+      },
+      "value": {
+        "en": [
+          "New York Public Library, Henry W. and Albert A. Berg Collection of English and American Literature."
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      "M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p"
     ]
   },
   "behavior": [
     "paged"
+  ],
+  "provider": [
+    {
+      "id": "https://www2.societyofauthors.org",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "The Estate of Virginia Woolf, administered by the Society of Authors. © Estate of Virginia Woolf 2022."
+        ]
+      }
+    }
   ],
   "items": [
     {
