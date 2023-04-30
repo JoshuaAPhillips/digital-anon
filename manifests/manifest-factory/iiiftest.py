@@ -32,6 +32,7 @@ def manifestFactory():
     manifest.add_metadata("Editor:",metadata_dict["editor"],"en", "en")
     manifest.add_metadata("Repository:", metadata_dict["repository"], "en", "en")
     manifest.add_summary("en", metadata_dict["summary"])
+    manifest.set_requiredStatement("Copyright: ",metadata_dict["provider"],"en","en")
 
         # sets provider information
 
@@ -81,7 +82,7 @@ def manifestFactory():
         # asks for a filename for the file output and saves out .json file
 
         filename = input("Please enter a name for this file: ")
-        manifest.json_save('{}.json'.format(filename))
+        manifest.json_save('./../{}.json'.format(filename))
         manifest.show_errors_in_browser()
 
     else:
