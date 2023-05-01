@@ -19,7 +19,15 @@ class annotationPage:
         items = []
         for item in self.items:
             item = {
-
+                "id": id,
+                "type": "Annotation",
+                "motivation": "Commenting",
+                "body": {
+                    "type": "TextualBody",
+                    "language": "en",
+                    "format": "text/html",
+                    "value": self.annotation_value
+                }
             }
             items.append(item)
 
