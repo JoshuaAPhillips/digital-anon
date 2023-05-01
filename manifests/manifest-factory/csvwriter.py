@@ -33,7 +33,3 @@ class Document:
             for idx in range(len(self.rows[0])):
                 row = [inner_list[idx] for inner_list in self.rows]
                 writer.writerow(row)
-
-
-m47 = Document(4, 47)
-m47.write_csv()
