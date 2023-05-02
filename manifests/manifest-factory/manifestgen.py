@@ -83,7 +83,7 @@ def manifestFactory():
 
         filename = input("Please enter a name for this file: ")
         manifest.json_save('./../{}.json'.format(filename))
-        manifest.show_errors_in_browser()
+        # manifest.show_errors_in_browser()
 
     else:
         print("Data is None :()")

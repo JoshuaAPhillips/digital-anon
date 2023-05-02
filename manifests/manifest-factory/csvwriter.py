@@ -44,6 +44,6 @@ class Document:
     def __del__(self):
         print(f"{self.doc_number} destroyed")
 
-newdoc = Document(10, 113)
+newdoc = Document(3, "1-8-10")
 newdoc.write_csv()
 del(newdoc)
