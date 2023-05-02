@@ -27,9 +27,23 @@ class Document:
             
         self.rows = [self.folios, self.widths, self.heights, self.base_urls, self.services]
 
+        print(self.max_pages)
+        print(self.doc_number)
+
+    def status(self):
+        print(f"Output: {self.doc_number} saved... \n")
+
     def write_csv(self):
-        with open(f"m{self.doc_number}-data.csv", "x") as csv_file:
+        with open(f"./data/m{self.doc_number}-data.csv", "x") as csv_file:            
+            print(f"{self.doc_number} saved to CSV... \n")
             writer = csv.writer(csv_file, delimiter=',')
             for idx in range(len(self.rows[0])):
                 row = [inner_list[idx] for inner_list in self.rows]
                 writer.writerow(row)
+
+    def __del__(self):
+        print(f"{self.doc_number} destroyed")
+
+newdoc = Document(10, 113)
+newdoc.write_csv()
+del(newdoc)
