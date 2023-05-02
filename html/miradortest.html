@@ -1,14 +1,12 @@
-<!DOCTYPE html>
+<!-- By default uses Roboto font. Be sure to load this or change the font -->
+<script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+<!-- Container element of Mirador whose id should be passed to the instantiating call as "id" -->
+<div id="my-mirador"> 
 
-<head>
-    <title>Mirador Prototype</title>
-    <script src="https://unpkg.com/mirador@latest/dist/mirador.min.js"></script>
-</head>
-
-<body>
-    <div id="mirador"></div>
-    <script type="text/javascript">
-      const mirador = Mirador.viewer({
+<script type="text/javascript">
+var mirador = Mirador.viewer({
+  "id": "my-mirador",
   "catalog": [
     {
       "manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-manifest.json"
@@ -42,52 +40,16 @@
     }
   ],
   "companionWindows": {
-    "cw-a69a8fe2-8ee2-4192-a619-6aef1115e275": {
+    "cw-0a29b88a-9d48-4fec-84d0-6f3227690835": {
       "content": "info",
       "default": true,
-      "id": "cw-a69a8fe2-8ee2-4192-a619-6aef1115e275",
+      "id": "cw-0a29b88a-9d48-4fec-84d0-6f3227690835",
       "position": "left"
     },
-    "cw-610cdc93-9d08-45b4-8781-0a790e3f23f4": {
+    "cw-0609bf4a-f80d-439d-9895-338c3fa257af": {
       "content": "thumbnailNavigation",
       "default": true,
-      "id": "cw-610cdc93-9d08-45b4-8781-0a790e3f23f4",
-      "position": "off"
-    },
-    "cw-68d5c42b-f759-404c-8a90-2f464b9e56e7": {
-      "content": "info",
-      "default": true,
-      "id": "cw-68d5c42b-f759-404c-8a90-2f464b9e56e7",
-      "position": "left"
-    },
-    "cw-474b874d-2e11-4d43-bfd7-12c57b985d5d": {
-      "content": "thumbnailNavigation",
-      "default": true,
-      "id": "cw-474b874d-2e11-4d43-bfd7-12c57b985d5d",
-      "position": "off"
-    },
-    "cw-b404ef91-3a2f-4785-a6f0-5065810b7185": {
-      "content": "info",
-      "default": true,
-      "id": "cw-b404ef91-3a2f-4785-a6f0-5065810b7185",
-      "position": "left"
-    },
-    "cw-48bb57cb-d025-4316-9d71-23701254835f": {
-      "content": "thumbnailNavigation",
-      "default": true,
-      "id": "cw-48bb57cb-d025-4316-9d71-23701254835f",
-      "position": "off"
-    },
-    "cw-6420bb4d-6b72-4f8c-be0a-beb70994bb5b": {
-      "content": "info",
-      "default": true,
-      "id": "cw-6420bb4d-6b72-4f8c-be0a-beb70994bb5b",
-      "position": "right"
-    },
-    "cw-a011792f-ffa1-4bb5-9974-02ed9a6727a5": {
-      "content": "thumbnailNavigation",
-      "default": true,
-      "id": "cw-a011792f-ffa1-4bb5-9974-02ed9a6727a5",
+      "id": "cw-0609bf4a-f80d-439d-9895-338c3fa257af",
       "position": "off"
     }
   },
@@ -415,7 +377,9 @@
         "width": 480
       }
     },
-    "windows": [],
+    "windows": [
+        {"manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-manifest.json"}
+    ],
     "thumbnails": {
       "preferredFormats": [
         "jpg",
@@ -433,7 +397,7 @@
     "workspace": {
       "draggingEnabled": true,
       "allowNewWindows": true,
-      "id": "8f043d9d-0518-4c1c-8313-9d7385b7bad3",
+      "id": "1bcd00c6-e7aa-4f32-86b2-14703e01ef36",
       "isWorkspaceAddVisible": false,
       "exposeModeOn": false,
       "height": 5000,
@@ -513,73 +477,70 @@
     "id": "mirador"
   },
   "elasticLayout": {
-    "window-e19629e6-a747-418b-a0ef-f616c3bfb85d": {
-      "windowId": "window-e19629e6-a747-418b-a0ef-f616c3bfb85d",
-      "height": 820,
-      "width": 1373,
-      "x": 110,
-      "y": 8
+    "window-6685882d-f428-45c6-9c3f-875a4eafc909": {
+      "windowId": "window-6685882d-f428-45c6-9c3f-875a4eafc909",
+      "height": 400,
+      "width": 480,
+      "x": 200,
+      "y": 200
     }
   },
   "layers": {},
   "manifests": {},
   "viewers": {
-    "window-e19629e6-a747-418b-a0ef-f616c3bfb85d": {
+    "window-6685882d-f428-45c6-9c3f-875a4eafc909": {
       "flip": false,
       "rotation": 0,
       "x": 1383,
       "y": 1750,
-      "zoom": 0.00018878802308282163
+      "zoom": 1.6242995208316415e-7
     }
   },
   "windows": {
-    "window-e19629e6-a747-418b-a0ef-f616c3bfb85d": {
-      "canvasId": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
+    "window-6685882d-f428-45c6-9c3f-875a4eafc909": {
+      "canvasId": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0",
       "collectionIndex": 0,
       "companionAreaOpen": true,
       "companionWindowIds": [
-        "cw-6420bb4d-6b72-4f8c-be0a-beb70994bb5b",
-        "cw-a011792f-ffa1-4bb5-9974-02ed9a6727a5"
+        "cw-0a29b88a-9d48-4fec-84d0-6f3227690835",
+        "cw-0609bf4a-f80d-439d-9895-338c3fa257af"
       ],
       "draggingEnabled": true,
       "highlightAllAnnotations": false,
-      "id": "window-e19629e6-a747-418b-a0ef-f616c3bfb85d",
-      "manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-manifest.json",
+      "id": "window-6685882d-f428-45c6-9c3f-875a4eafc909",
+      "manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-manifest.json",
       "maximized": false,
       "rangeId": null,
       "rotation": null,
       "selectedAnnotations": {},
-      "sideBarOpen": true,
+      "sideBarOpen": false,
       "sideBarPanel": "info",
-      "thumbnailNavigationId": "cw-a011792f-ffa1-4bb5-9974-02ed9a6727a5",
+      "thumbnailNavigationId": "cw-0609bf4a-f80d-439d-9895-338c3fa257af",
       "visibleCanvases": [
-        "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1"
-      ],
-      "view": "single"
+        "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0"
+      ]
     }
   },
   "workspace": {
     "draggingEnabled": true,
     "allowNewWindows": true,
-    "id": "8f043d9d-0518-4c1c-8313-9d7385b7bad3",
+    "id": "1bcd00c6-e7aa-4f32-86b2-14703e01ef36",
     "isWorkspaceAddVisible": false,
     "exposeModeOn": false,
     "height": 5000,
-    "showZoomControls": true,
+    "showZoomControls": false,
     "type": "mosaic",
     "viewportPosition": {
       "x": 0,
-      "y": 0,
-      "height": 900.75,
-      "width": 1771
+      "y": 0
     },
     "width": 5000,
     "windowIds": [
-      "window-e19629e6-a747-418b-a0ef-f616c3bfb85d"
+      "window-6685882d-f428-45c6-9c3f-875a4eafc909"
     ],
-    "focusedWindowId": "window-e19629e6-a747-418b-a0ef-f616c3bfb85d",
-    "layout": "window-e19629e6-a747-418b-a0ef-f616c3bfb85d"
+    "focusedWindowId": "window-6685882d-f428-45c6-9c3f-875a4eafc909",
+    "layout": "window-6685882d-f428-45c6-9c3f-875a4eafc909"
   }
-});
-    </script>
-</body>
+}
+,);
+</script>
