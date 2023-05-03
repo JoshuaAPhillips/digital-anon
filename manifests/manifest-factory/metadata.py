@@ -44,8 +44,8 @@ def metadataParse(root):
     #print(editor.text)
 
     # summary
-    summary = root.find('.//{http://www.tei-c.org/ns/1.0}physDesc/{http://www.tei-c.org/ns/1.0}p')
-    #print(summary.text)
+    summary = root.findall('.//{http://www.tei-c.org/ns/1.0}physDesc/{http://www.tei-c.org/ns/1.0}p')
+    print(summary)
 
     # provider/copyright (required statement?)
     provider_a = root.find('.//{http://www.tei-c.org/ns/1.0}authority')
@@ -59,7 +59,7 @@ def metadataParse(root):
     repository = repo_a.text + ", " + repo_b.text + "."
     #print(repository)
 
-    return title.text, author.text, editor.text, summary.text, provider, repository
+    return title.text, author.text, editor.text, summary, provider, repository
 
 def metadataDict(title, author, editor, summary, provider, repository):
 
@@ -70,7 +70,7 @@ def metadataDict(title, author, editor, summary, provider, repository):
         title = title.text,
         author = author.text,
         editor = editor.text,
-        summary = summary.text,
+        summary = [i.text for i in summary],
         provider = provider,
         repository = repository
         )
