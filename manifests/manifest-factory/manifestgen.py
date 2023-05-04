@@ -13,7 +13,7 @@ data = sanitiser.sanitise(file)
 
 # pulls metadata from given XML (input) into dictionary
 
-metadata_dict = metadata.metadataDict(title, author, editor, summary, provider, repository)
+metadata_dict = metadata.metadataDict(idno, title, author, editor, summary, provider, repository)
 
 print(metadata_dict)
 
@@ -25,14 +25,23 @@ def manifestFactory():
 
     iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
     manifest = iiifpapi3.Manifest()
-    manifest.set_id(extendbase_url="manifest.json")
+    manifest.set_id("https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/{}-manifest.json".format(metadata_dict["idno"]))
     manifest.add_label("en",metadata_dict["title"])
     manifest.add_behavior("paged")
     manifest.add_metadata("Author:",metadata_dict["author"],"en", "en")
     manifest.add_metadata("Editor:",metadata_dict["editor"],"en", "en")
     manifest.add_metadata("Repository:", metadata_dict["repository"], "en", "en")
     manifest.add_summary("en", metadata_dict["summary"])
-    manifest.set_requiredStatement("Copyright: ",metadata_dict["provider"],"en","en")
+    manifest.set_requiredStatement("Copyright: ", metadata_dict["provider"],"en","en")
+
+    # sets manifest-level thumbnails
+
+    thumb = manifest.add_thumbnail()
+    thumb.set_id(data[0][-1])
+    thumb.set_type("Image")
+    thumb.set_width("300")
+    thumb.add_label("en", "Thumbnail")
+
 
         # sets provider information
 
@@ -51,6 +60,14 @@ def manifestFactory():
             canvas.set_height(data[idx][2])
             canvas.set_width(data[idx][1])
             canvas.add_label("en", data[idx][0])
+
+            # sets canvas-level thumbnails
+
+            canvas_thumb = canvas.add_thumbnail()
+            canvas_thumb.set_id(data[idx][-1])
+            canvas_thumb.set_type("Image")
+            canvas_thumb.set_width("300")
+            canvas_thumb.add_label("en", "Thumbnail")
 
             # set canvas annotations - create annopage object for each canvas
 
