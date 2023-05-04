@@ -1,0 +1,736 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-manifest.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "M109 [The Reader: But under the ceiling, on the seats, there were gentlemen...]. Typescript, fragment, with the author's ms. corrections, unsigned and undated. 9p."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Author:"
+        ]
+      },
+      "value": {
+        "en": [
+          "Virginia Woolf"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Editor:"
+        ]
+      },
+      "value": {
+        "en": [
+          "Joshua Phillips"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Repository:"
+        ]
+      },
+      "value": {
+        "en": [
+          "New York Public Library, Henry W. and Albert A. Berg Collection of English and American Literature."
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "en": [
+      [
+        "M109 [The Reader: But under the ceiling, on the seats, there were gentlemen...]. Typescript, fragment, with the author's ms. corrections, unsigned and undated. 9p.",
+        "Numbered 26-27, 31, 34-35. Page 30 filed as p. 178 verso in her Between the Acts, later typescript with ms. fragment.",
+        "On verso of ms. page: [The moment and other essays. Mrs Thrale] typescript",
+        "On verso of p. 26-27: [Between the Acts] manuscript fragment"
+      ]
+    ]
+  },
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Copyright: "
+      ]
+    },
+    "value": {
+      "en": [
+        "The Estate of Virginia Woolf, administered by the Society of Authors. © Estate of Virginia Woolf 2022."
+      ]
+    }
+  },
+  "thumbnail": [
+    {
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-1/full/256,/0/default.jpg",
+      "type": "Image",
+      "label": {
+        "en": [
+          "Thumbnail"
+        ]
+      },
+      "format": "image/jpeg",
+      "width": 300,
+      "height": 386
+    }
+  ],
+  "behavior": [
+    "paged"
+  ],
+  "provider": [
+    {
+      "id": "https://www2.societyofauthors.org",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "The Estate of Virginia Woolf, administered by the Society of Authors. © Estate of Virginia Woolf 2022."
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1 recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-1/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p0/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0000-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-1",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-1",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "1 verso"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-2/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p1/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0001-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-2",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-2",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p2",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "2 recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-3/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p2/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0002-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-3",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-3",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p3",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "2 verso"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-4/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p3/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0003-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-4",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-4",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p4",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "3 recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-5/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p4/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0004-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-5",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-5",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p5",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "3 verso"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-6/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p5/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0005-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-6",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-6",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p5"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p6",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "4 recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-7/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p6/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0006-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-7",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-7",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p7",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "4 verso"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-8/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p7/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0007-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-8",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-8",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p7"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p8",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "5 recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-9/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p8/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0008-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-9",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-9",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p9",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "5 verso"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-10/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p9/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0009-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-10",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-10",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p10",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "6 recto"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-11/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p10/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0010-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-11",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-11",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p11",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "6 verso"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/thumbs/thumb_m109-12/full/256,/0/default.jpg",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "format": "image/jpeg",
+          "width": 300,
+          "height": 386
+        }
+      ],
+      "height": 3500,
+      "width": 2766,
+      "items": [
+        {
+          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p11/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0011-image",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-12",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3500,
+                "width": 2766,
+                "service": [
+                  {
+                    "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-12",
+                    "type": "ImageService3",
+                    "profile": "level1"
+                  }
+                ]
+              },
+              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
