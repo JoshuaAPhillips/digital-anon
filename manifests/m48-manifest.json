@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://github.com/JoshuaAPhillips/digital-anon/raw/main/manifests/m48-manifest.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -64,19 +64,6 @@
       ]
     }
   },
-  "thumbnail": [
-    {
-      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/thumbs/thumb_m48-1",
-      "type": "Image",
-      "label": {
-        "en": [
-          "Thumbnail"
-        ]
-      },
-      "width": 300,
-      "height": 368
-    }
-  ],
   "behavior": [
     "paged"
   ],
@@ -100,19 +87,6 @@
           "1 recto"
         ]
       },
-      "thumbnail": [
-        {
-          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/thumbs/thumb_m48-1",
-          "type": "Image",
-          "label": {
-            "en": [
-              "Thumbnail: 1 recto"
-            ]
-          },
-          "width": 300,
-          "height": 368
-        }
-      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -152,19 +126,6 @@
           "1 verso"
         ]
       },
-      "thumbnail": [
-        {
-          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/thumbs/thumb_m48-2",
-          "type": "Image",
-          "label": {
-            "en": [
-              "Thumbnail: 1 verso"
-            ]
-          },
-          "width": 300,
-          "height": 368
-        }
-      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -204,19 +165,6 @@
           "2 recto"
         ]
       },
-      "thumbnail": [
-        {
-          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/thumbs/thumb_m48-3",
-          "type": "Image",
-          "label": {
-            "en": [
-              "Thumbnail: 2 recto"
-            ]
-          },
-          "width": 300,
-          "height": 368
-        }
-      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -256,19 +204,6 @@
           "2 verso"
         ]
       },
-      "thumbnail": [
-        {
-          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/thumbs/thumb_m48-4",
-          "type": "Image",
-          "label": {
-            "en": [
-              "Thumbnail: 2 verso"
-            ]
-          },
-          "width": 300,
-          "height": 368
-        }
-      ],
       "height": 3500,
       "width": 2766,
       "items": [
