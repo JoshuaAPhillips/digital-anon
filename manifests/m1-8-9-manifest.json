@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "M1-8, 9 of 10. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-36. 6p."
+      "M1-8, 9 of 10 The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-36. 3p."
     ]
   },
   "metadata": [
@@ -47,7 +47,9 @@
   ],
   "summary": {
     "en": [
-      "M1-8, 9 of 10. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-36. 6p."
+      [
+        "M1-8, 9 of ???. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-36. 3p."
+      ]
     ]
   },
   "requiredStatement": {
@@ -62,6 +64,18 @@
       ]
     }
   },
+  "thumbnail": [
+    {
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-1",
+      "type": "Image",
+      "label": {
+        "en": [
+          "Thumbnail"
+        ]
+      },
+      "width": 300
+    }
+  ],
   "behavior": [
     "paged"
   ],
@@ -82,9 +96,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "1 [34 verso]"
+          "1 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-1",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -121,9 +147,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "2 [35 verso]"
+          "1 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-2",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -160,9 +198,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "3 [36 verso]"
+          "2 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-3",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -199,9 +249,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "4 [37 verso]"
+          "2 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-4",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -238,9 +300,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "5 [38 verso]"
+          "3 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-5",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -277,9 +351,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "6 [39 verso]"
+          "3 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/thumbs/thumb_m1-8-9-6",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [

@@ -4,7 +4,7 @@
   "type": "Manifest",
   "label": {
     "en": [
-      "M1-8, 10 of 10. [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 37-42. 6p."
+      "M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 37-42. 6p."
     ]
   },
   "metadata": [
@@ -47,7 +47,9 @@
   ],
   "summary": {
     "en": [
-      "M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 42. 6p."
+      [
+        "M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 42. 6p."
+      ]
     ]
   },
   "requiredStatement": {
@@ -62,6 +64,18 @@
       ]
     }
   },
+  "thumbnail": [
+    {
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/thumbs/thumb_m1-8-10-1",
+      "type": "Image",
+      "label": {
+        "en": [
+          "Thumbnail"
+        ]
+      },
+      "width": 300
+    }
+  ],
   "behavior": [
     "paged"
   ],
@@ -82,9 +96,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "1 [40 verso]"
+          "1 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/thumbs/thumb_m1-8-10-1",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -121,9 +147,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "3 [41 verso]"
+          "1 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/thumbs/thumb_m1-8-10-2",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -160,9 +198,21 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "3 [42 verso]"
+          "2 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/thumbs/thumb_m1-8-10-3",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [

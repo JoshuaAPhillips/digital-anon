@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-manifest.json",
+  "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -47,7 +47,9 @@
   ],
   "summary": {
     "en": [
-      "M1-8. 1 of 8. [The great Elizabethan house, Penshurst...]. Holograph. In [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 60-76. 9p."
+      [
+        "M1-8. 1 of 8. [The great Elizabethan house, Penshurst...]. Holograph. In [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 60-76. 9p."
+      ]
     ]
   },
   "requiredStatement": {
@@ -82,7 +84,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "1 [p. 60 recto]"
+          "1 recto"
         ]
       },
       "height": 3500,
@@ -121,7 +123,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "2 [p. 62 recto]"
+          "1 verso"
         ]
       },
       "height": 3500,
@@ -160,7 +162,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "3 [p. 64 recto]"
+          "2 recto"
         ]
       },
       "height": 3500,
@@ -199,7 +201,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "4 [p. 66 recto]"
+          "2 verso"
         ]
       },
       "height": 3500,
@@ -238,7 +240,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "5 [p. 68 recto]"
+          "3 recto"
         ]
       },
       "height": 3500,
@@ -277,7 +279,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "6 [p. 70 recto]"
+          "3 verso"
         ]
       },
       "height": 3500,
@@ -316,7 +318,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "7 [p. 72 recto]"
+          "4 recto"
         ]
       },
       "height": 3500,
@@ -355,7 +357,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "8 [p. 74 recto]"
+          "4 verso"
         ]
       },
       "height": 3500,
@@ -394,7 +396,7 @@
       "type": "Canvas",
       "label": {
         "en": [
-          "9 [p. 76 recto]"
+          "5 recto"
         ]
       },
       "height": 3500,
