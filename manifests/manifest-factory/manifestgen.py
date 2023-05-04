@@ -31,7 +31,7 @@ def manifestFactory():
     manifest.add_metadata("Author:",metadata_dict["author"],"en", "en")
     manifest.add_metadata("Editor:",metadata_dict["editor"],"en", "en")
     manifest.add_metadata("Repository:", metadata_dict["repository"], "en", "en")
-    manifest.add_summary("en", metadata_dict["summary"])
+    manifest.add_metadata("Summary:", metadata_dict["summary"], "en", "en")
     manifest.set_requiredStatement("Copyright: ", metadata_dict["provider"],"en","en")
 
     # sets manifest-level thumbnails
