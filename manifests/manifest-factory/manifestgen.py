@@ -37,7 +37,7 @@ def manifestFactory():
     # sets manifest-level thumbnails
 
     thumb = manifest.add_thumbnail()
-    thumb.set_id(data[0][-1])
+    thumb.set_id(data[0][-1] + "/full/256,/0/default.jpg")
     thumb.set_type("Image")
     thumb.set_format("image/jpeg")
     thumb.set_hightwidth("386", "300")
@@ -65,7 +65,7 @@ def manifestFactory():
             # sets canvas-level thumbnails
 
             canvas_thumb = canvas.add_thumbnail()
-            canvas_thumb.set_id(data[idx][-1])
+            canvas_thumb.set_id(data[idx][-1] + "/full/256,/0/default.jpg")
             canvas_thumb.set_type("Image")
             canvas_thumb.set_format("image/jpeg")
             canvas_thumb.set_hightwidth("386", "300")
