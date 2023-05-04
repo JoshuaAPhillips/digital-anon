@@ -29,7 +29,11 @@ def getRoot(xml_file):
 
 def metadataParse(root):
 
-    global title, author, editor, summary, provider, repository
+    global idno, title, author, editor, summary, provider, repository
+
+    # idno
+    idno = root.find('.//{http://www.tei-c.org/ns/1.0}msIdentifier/{http://www.tei-c.org/ns/1.0}idno')
+    #print(idno.text)
 
     # title
     title = root.find('.//{http://www.tei-c.org/ns/1.0}title')
@@ -45,7 +49,7 @@ def metadataParse(root):
 
     # summary
     summary = root.findall('.//{http://www.tei-c.org/ns/1.0}physDesc/{http://www.tei-c.org/ns/1.0}p')
-    print(summary)
+    #print(summary)
 
     # provider/copyright (required statement?)
     provider_a = root.find('.//{http://www.tei-c.org/ns/1.0}authority')
@@ -59,14 +63,15 @@ def metadataParse(root):
     repository = repo_a.text + ", " + repo_b.text + "."
     #print(repository)
 
-    return title.text, author.text, editor.text, summary, provider, repository
+    return idno.text, title.text, author.text, editor.text, summary, provider, repository
 
-def metadataDict(title, author, editor, summary, provider, repository):
+def metadataDict(idno, title, author, editor, summary, provider, repository):
 
     # creates and returns dictionary of metadata
 
     #global metadata_dict
     metadata_dict = dict(
+        idno = idno.text,
         title = title.text,
         author = author.text,
         editor = editor.text,
@@ -74,7 +79,7 @@ def metadataDict(title, author, editor, summary, provider, repository):
         provider = provider,
         repository = repository
         )
-    #print(metadata_dict)
+    print(metadata_dict)
     return metadata_dict
 
 # does the thing
@@ -82,4 +87,4 @@ def metadataDict(title, author, editor, summary, provider, repository):
 getfilename()
 getRoot(xml_file)
 metadataParse(root)
-metadataDict(title, author, editor, summary, provider, repository)
+metadataDict(idno, title, author, editor, summary, provider, repository)
