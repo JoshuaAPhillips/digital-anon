@@ -66,13 +66,14 @@
   },
   "thumbnail": [
     {
-      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/thumbs/thumb_m1-8-8-1",
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/thumbs/thumb_m1-8-8-1/full/256,/0/default.jpg",
       "type": "Image",
       "label": {
         "en": [
           "Thumbnail"
         ]
       },
+      "format": "image/jpeg",
       "width": 300,
       "height": 386
     }
@@ -102,13 +103,14 @@
       },
       "thumbnail": [
         {
-          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/thumbs/thumb_m1-8-8-1",
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/thumbs/thumb_m1-8-8-1/full/256,/0/default.jpg",
           "type": "Image",
           "label": {
             "en": [
               "Thumbnail"
             ]
           },
+          "format": "image/jpeg",
           "width": 300,
           "height": 386
         }
