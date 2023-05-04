@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json",
+  "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-manifest.json",
   "type": "Manifest",
   "label": {
     "en": [
@@ -64,6 +64,19 @@
       ]
     }
   },
+  "thumbnail": [
+    {
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-1",
+      "type": "Image",
+      "label": {
+        "en": [
+          "Thumbnail"
+        ]
+      },
+      "width": 300,
+      "height": 386
+    }
+  ],
   "behavior": [
     "paged"
   ],
@@ -87,6 +100,19 @@
           "1 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-1",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -126,6 +152,19 @@
           "1 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-2",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -165,6 +204,19 @@
           "2 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-3",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -204,6 +256,19 @@
           "2 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-4",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -243,6 +308,19 @@
           "3 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-5",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -282,6 +360,19 @@
           "3 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-6",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -321,6 +412,19 @@
           "4 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-7",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -360,6 +464,19 @@
           "4 verso"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-8",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [
@@ -399,6 +516,19 @@
           "5 recto"
         ]
       },
+      "thumbnail": [
+        {
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/thumbs/thumb_m1-8-1-9",
+          "type": "Image",
+          "label": {
+            "en": [
+              "Thumbnail"
+            ]
+          },
+          "width": 300,
+          "height": 386
+        }
+      ],
       "height": 3500,
       "width": 2766,
       "items": [

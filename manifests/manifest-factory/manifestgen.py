@@ -39,7 +39,7 @@ def manifestFactory():
     thumb = manifest.add_thumbnail()
     thumb.set_id(data[0][-1])
     thumb.set_type("Image")
-    thumb.set_width("300")
+    thumb.set_hightwidth("386", "300")
     thumb.add_label("en", "Thumbnail")
 
 
@@ -66,7 +66,7 @@ def manifestFactory():
             canvas_thumb = canvas.add_thumbnail()
             canvas_thumb.set_id(data[idx][-1])
             canvas_thumb.set_type("Image")
-            canvas_thumb.set_width("300")
+            canvas_thumb.set_hightwidth("386", "300")
             canvas_thumb.add_label("en", "Thumbnail")
 
             # set canvas annotations - create annopage object for each canvas
@@ -98,8 +98,8 @@ def manifestFactory():
         
         # asks for a filename for the file output and saves out .json file
 
-        filename = input("Please enter a name for this file: ")
-        manifest.json_save('./../{}.json'.format(filename))
+        # filename = input("Please enter a name for this file: ")
+        manifest.json_save('./../{}-manifest.json'.format(metadata_dict["idno"]))
         # manifest.show_errors_in_browser()
 
     else:
