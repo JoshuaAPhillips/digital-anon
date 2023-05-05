@@ -75,7 +75,7 @@ def metadataDict(idno, title, author, editor, summary, provider, repository):
         title = title.text,
         author = author.text,
         editor = editor.text,
-        summary = [i.text for i in summary],
+        summary = [i.text.strip(",") + "\n" for i in summary],
         provider = provider,
         repository = repository
         )
