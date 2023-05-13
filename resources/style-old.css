@@ -1,0 +1,80 @@
+/* refresh */
+
+* {
+    margin: 0;
+    font-size: 18px;
+    max-width: 100%;
+    scroll-behavior: smooth;
+  }
+
+/* global rules */
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background: linen;
+    padding-left: 3.0rem;
+}
+
+h3 {
+    padding-top: 2.0rem;
+}
+
+p {
+    font-size: 1.0rem;
+    line-height: 1.5rem;
+}
+
+a {
+    color: DarkSlateBlue;
+    font-weight: bold;
+}
+
+.del {
+    text-decoration: line-through;
+}
+
+.add-inline {
+    text-decoration: underline;
+    color: green;
+}
+
+.add-above {
+    text-decoration: underline;
+    color: green;
+    vertical-align: super;
+    font-size: 0.9rem;
+}
+
+.corr {
+    color: firebrick;
+}
+
+.data-title:hover {
+    cursor: help;
+    position: relative;
+    color: black;
+}
+
+[data-title]:hover:after {
+    opacity: 1;
+    transition: all 0.1s ease 0.5s;
+    visibility: visible;
+}
+[data-title]:after {
+    content: attr(data-title);
+    background-color: black;
+    color: white;
+    font-size: 1.0rem;
+    font-weight: normal !important;
+    position: absolute;
+    padding: 0.33rem 0.66rem;
+    bottom: -1.6em;
+    white-space: nowrap;
+    left: 100%;
+    z-index: 99999;
+    visibility: hidden;
+    border-radius: 0.5rem;
+}
+[data-title] {
+    position: relative;
+}
