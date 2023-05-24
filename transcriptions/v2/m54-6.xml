@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> <!-- don't forget this! --> </title>
+        <title>M54, 6 of 11. [the pear shaped lute; on which the Queen herself once played...]. Typescript fragment, 1 fol.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -23,10 +23,11 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
+            <idno>m54-6</idno>
           </msIdentifier>        
           <physDesc>
-          <!-- <p> with description based on Berg catalogue descriptions -->
+            <p>M54, 6 of 11. [the pear shaped lute; on which the Queen herself once played...]. Typescript fragment, 1 fol.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,7 +55,145 @@
   </teiHeader>
   <text>
     <body>
-      <div></div>
+      <div xml:id="m54-6.1r" n="1 recto" facs="">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-6/m54-6-1/939,138,149,141/full/0/default.jpg">
+          <l>13</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-6/m54-6-1/862,258,1854,450/full/0/default.jpg">
+          <l>the pear shaped lute; on which the Queen herself once played</l>
+          <l>But the Elizabethans themselves are silent. Only their 
+            <choice>
+              <sic>furni</sic>
+              <corr>furniture</corr>
+            </choice></l>
+          <l>remains, stiff, ornate, 
+            <choice>
+              <sic>fasntastic</sic>
+              <corr>fantastic</corr>
+            </choice> and uncushioned;</l>
+          <l>and the 
+            <choice>
+              <sic>vardibgalls</sic>
+              <corr>vardingales</corr>
+            </choice> which roused the preachers wrath.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-6/m54-6-1/804,700,1910,2558/full/0/default.jpg">
+          <l>xmxmxmxmxmxmxmxmxmxmxmxmmxmxmxmxmxmxmmxmxmxmxmxmxmy</l>
+          <l>wxmxmxmxmxmxmx The 
+            <choice>
+              <sic>Elizabthans</sic>
+              <corr>Elizabethans</corr>
+            </choice> are 
+            <choice>
+              <sic>unknonw</sic>
+              <corr>unknown</corr>
+            </choice> to us</l>
+          <l>because when they write 
+            <choice>
+              <sic>rpose</sic>
+              <corr>prose</corr>
+            </choice> txxxx the 
+            <choice>
+              <sic>rhytm</sic>
+              <corr>rhythm</corr>
+            </choice> of the Bible</l>
+          <l>was in their ears. 
+            <choice>
+              <sic>Its ia</sic>
+              <corr>It is a</corr>
+            </choice> 
+            <choice>
+              <sic>garemt</sic>
+              <corr>garment</corr>
+            </choice> only to be worn when the</l>
+          <l>mind is in the right 
+            <choice>
+              <sic>attidt de</sic>
+              <corr>attitude</corr>
+            </choice>. It crushes out the</l>
+          <l>simple, the 
+            <choice>
+              <sic>sublte</sic>
+              <corr>subtle</corr>
+            </choice>, the 
+            <choice>
+              <sic>breif</sic>
+              <corr>brief</corr>
+            </choice>. Their letters are state</l>
+          <l>
+            <choice>
+              <sic>documnets</sic>
+              <corr>documents</corr>
+            </choice>, intricate, involved, 
+            <choice>
+              <sic>circum locutious</sic>
+              <corr>circumlocutions</corr>
+            </choice>.</l>
+          <l>There is no gaiety, no freedom, no warmth in the great room.</l>
+          <l>When Lady Ann Bacon writes to her son, she admonishes,</l>
+          <l>she 
+            <choice>
+              <sic>exhosrts</sic>
+              <corr>exhorts</corr>
+            </choice>. Greek and 
+            <choice>
+              <sic>atin</sic>
+              <corr>Latin</corr>
+            </choice> come as easily to her pen</l>
+          <l>as a French phrase would come to ours. If she has to 
+            <choice>
+              <sic>decsned</sic>
+              <corr>descend</corr>
+            </choice> to an actual 
+            <choice>
+              <sic>o jsc t</sic>
+              <corr>object</corr>
+            </choice>-- a basket of 
+            <choice>
+              <sic>strwberries</sic>
+              <corr>strawberries</corr>
+            </choice>-- it w</l>
+          <l>is 
+            <choice>
+              <sic>w   -th</sic>
+              <corr>with</corr>
+            </choice> dark 
+            <choice>
+              <sic>insintuations</sic>
+              <corr>insinuations</corr>
+            </choice>. Fear of God and 
+            <choice>
+              <sic>suspcicion</sic>
+              <corr>suspicion</corr>
+            </choice></l>
+          <l>of man surround her as with the walls of a dungeon. The wall</l>
+          <l>may conceal a Lady Ann who is merry and gay; it must</l>
+          <l>conceal laughter, love, good humour, and all the trifles</l>
+          <l>of daily life. But behind that stiff garment of Elizabethan</l>
+          <l>prose who can tell what emotions are alive? They are</l>
+          <l>
+            <choice>
+              <sic>pomous</sic>
+              <corr>pompous</corr>
+            </choice>; they are 
+            <choice>
+              <sic>solmen</sic>
+              <corr>solemn</corr>
+            </choice>; they are longwinded;</l>
+          <l>We 
+            <choice>
+              <sic>lknow</sic>
+              <corr>know</corr>
+            </choice> nothing about the audience who saw the plays acted;</l>
+          <l>we know 
+            <choice>
+              <sic>notning</sic>
+              <corr>nothing</corr>
+            </choice> about the public who had the books read aloud</l>
+          <l>to them.</l>
+        </p>
+      </div>
+      <div xml:id="m54-6.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-6/m54-6-2" />
     </body>
   </text>
 </TEI>
