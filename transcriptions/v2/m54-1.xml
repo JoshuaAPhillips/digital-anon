@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> <!-- don't forget this! --> </title>
+        <title>M54, 1 of 11. [The printing press brought the past into existence.]. Typescript fragment, 2 fols.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -23,10 +23,11 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
+            <idno>m54-1</idno>
           </msIdentifier>        
           <physDesc>
-          <!-- <p> with description based on Berg catalogue descriptions -->
+            <p>M54, 1 of 11. [The printing press brought the past into existence.]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,7 +55,104 @@
   </teiHeader>
   <text>
     <body>
-      <div></div>
+      <div xml:id="m54-1.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-1/937,152,143,127/full/0/default.tif">
+          <l>7</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-1/829,270,1881,1662/full/0/default.tif">
+          <l>The printing press brought the past into existence.</l>
+          <l>It brought into existence the man who is conscious of the 
+            <choice>
+              <sic>pat</sic>
+              <corr>past</corr>
+            </choice></l>
+          <l>the man who sees his time, zzzzz against a back ground of</l>
+          <l>the past; the man who firsts sees himself and shows himself</l>
+          <l>to us. xmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmm The first</l>
+          <l>blow has been aimed at <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> when the authors name is attached</l>
+          <l>to the book. The 
+            <choice>
+              <sic>indivi al</sic>
+              <corr>individual</corr>
+            </choice> emerges. His name is <rs type="person" ref="../resources/annotations.xml#psn-rhol">
+              <choice>
+                <sic>Holigshed</sic>
+                <corr>Holinshed</corr>
+              </choice></rs>;</l>
+          <l>his 
+            <choice>
+              <sic>mae</sic>
+              <corr>name</corr>
+            </choice> is also <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs>. Harrison emerging from the past</l>
+          <l>tells us that he has a library; that he owns a mastiff;</l>
+          <l>that he digs up Roman coins. He tells us that he has <choice>
+                <sic>nev</sic>
+                <corr>never</corr>
+              </choice> 
+              <choice>
+                <sic>ben</sic>
+                <corr>been</corr>
+              </choice></l>
+          <l>more than forty miles from <rs type="place" ref="../resources/annotations.xml#pla-radw">radwinter</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse">Essex</rs>. Anon is</l>
+          <l>losing his ambiguity. The present is becoming visible.</l>
+          <l>Harrison sees the pxmxmxmxmsx the present 
+            <choice>
+              <sic>agains</sic>
+              <corr>against</corr>
+            </choice> the</l>
+          <l>settled 
+            <choice>
+              <sic>reroded</sic>
+              <corr>recorded</corr>
+            </choice> past. The past looks 
+            <choice>
+              <sic>degnerate</sic>
+              <corr>degenerate</corr>
+            </choice>, raw,</l>
+          <l>against that past.</l>
+        </p>
+      </div>
+      <div xml:id="m54-1.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-2" />
+      <div xml:id="m54-1.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-3/835,64,157,159/full/0/default.tif">
+          <l>8</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-3/850,208,1734,1346/full/0/default.tif">
+          <l>Upstairs in the great room , as he tells us, <quote source="#" rend="inline">"our ancient</quote></l>
+          <l><quote source="#" rend="inline">ladies of the court"</quote> were to be found reading the</l>
+          <l>Greeks and the Latins. as they sat at their needlework.</l>
+          <l>And the 
+            <choice>
+              <sic>sch;ars</sic>
+              <corr>scholars</corr>
+            </choice> in the 
+            <choice>
+              <sic>c ege</sic>
+              <corr>college</corr>
+            </choice> library were reading the</l>
+          <l>classics that were chained to the 
+            <choice>
+              <sic>shlves</sic>
+              <corr>shelves</corr>
+            </choice> in the</l>
+          <l>college libraries. He turned away from the actors who</l>
+          <l>even while he dug up 
+            <choice>
+              <sic>voins</sic>
+              <corr>coins</corr>
+            </choice> in his garden were acting their</l>
+          <l>crude 
+            <choice>
+              <sic>darams</sic>
+              <corr>dramas</corr>
+            </choice> in the market place. Hxmxmxmxmxmxmxmxmxm</l>
+          <l>atxmxmxmxmxmxmxmxmxmxxmmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmx</l>
+          <l>wexmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmxx Yet in spite of</l>
+          <l>the printed book and the new learning, the the</l>
+          <l>common people were still at their lewd practises.</l>
+        </p>
+      </div>
+      <div xml:id="m54-1.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-4" />
     </body>
   </text>
 </TEI>
