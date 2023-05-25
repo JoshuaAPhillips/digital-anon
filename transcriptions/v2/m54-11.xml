@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> <!-- don't forget this! --> </title>
+        <title>M54, 11 of 11. [Anon: there is a jolt at the points...]. Typescript fragment, 1 fol.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -23,10 +23,11 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
+            <idno>m54-11</idno>
           </msIdentifier>        
           <physDesc>
-          <!-- <p> with description based on Berg catalogue descriptions -->
+            <p>M54, 11 of 11. [Anon: there is a jolt at the points...]. Typescript fragment, 1 fol.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,7 +55,127 @@
   </teiHeader>
   <text>
     <body>
-      <div></div>
+      <div xml:id="m54.34">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-11/m54-11-1/815,42,199,194/full/0/default.tif">
+          <l>23</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-11/m54-11-1/815,214,1775,742/full/0/default.tif">
+          <l>there is a jolt at the points; the mind slides onto another</l>
+          <l>rail, lovely as the words are. To speak them the poet has</l>
+          <l>separated himself from the actors. He cannot yet make <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">Tambur</rs></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">laine</rs> speak those words. The play is still 
+            <choice>
+              <sic>manly</sic>
+              <corr>mainly</corr>
+            </choice> the work</l>
+          <l>of the undifferentiated audience, demanding great names,</l>
+          <l>great deeds; simple outlines; and not the single subtlety</l>
+          <l>of one soul.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-11/m54-11-1/785,938,1851,1518/full/0/default.tif">
+          <l>For the play itself was still anonymous. The lack of Marlowes</l>
+          <l>name is by 
+            <choice>
+              <sic>itslef</sic>
+              <corr>itself</corr>
+            </choice> enough to show how largely the play was</l>
+          <l>a common product, written by one hand, but so moulded</l>
+          <l>in transition from actor to 
+            <choice>
+              <sic>acotr</sic>
+              <corr>actor</corr>
+            </choice> that the author had no</l>
+          <l>sense of property in it. It was half the work of the audience.</l>
+          <l>Yet the audience is dumb. The silence of the audience is</l>
+          <l>one of the deep gulfs that lies between us and the 
+            <choice>
+              <sic>Eliza</sic>
+              <corr>Elizabethan</corr>
+            </choice></l>
+          <l><choice>
+            <sic>bethan</sic>
+            <corr>Elizabethan</corr>
+          </choice> play. The audience was a large one. Fifteen</l>
+          <l>hundred people, Dr Greg computes, was an average 
+            <choice>
+              <sic>attanedance</sic>
+              <corr>attendance</corr>
+            </choice>.</l>
+          <l>Their presence, in the penny part of the house, is obvious.</l>
+          <l>It draws 
+            <choice>
+              <sic>pup</sic>
+              <corr>up</corr>
+            </choice> the 
+            <choice>
+              <sic>hypberpole</sic>
+              <corr>hyperbole</corr>
+            </choice> as a sheet of paper</l>
+          <l>draws 
+            <choice>
+              <sic>pup</sic>
+              <corr>up</corr>
+            </choice> fire. It makes the writer capable of great strides</l>
+          <l>and vast audacities beyond his private reach. Yet the 
+            <choice>
+              <sic>audiene</sic>
+              <corr>audience</corr>
+            </choice></l>
+          <l>sits silent.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-11/m54-11-1/771,2444,1838,1004/full/0/default.tif">
+          <l>To 
+            <choice>
+              <sic>underdtand</sic>
+              <corr>understand</corr>
+            </choice> the silence we must 
+            <choice>
+              <sic>comapre</sic>
+              <corr>compare</corr>
+            </choice> it</l>
+          <l>with our own 
+            <choice>
+              <sic>attidtue</sic>
+              <corr>attitude</corr>
+            </choice> at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle">Russian ballet</rs> at the <rs type="literary-work" ref="../resources/annotations.xml#lit-cine">
+              <choice>
+                <sic>cimme</sic>
+                <corr>cinema</corr>
+              </choice></rs></l>
+          <l>in the early days. A new art comes upon us 
+            <choice>
+              <sic>si</sic>
+              <corr>so</corr>
+            </choice> 
+            <choice>
+              <sic>surprisningly</sic>
+              <corr>surprisingly</corr>
+            </choice></l>
+          <l>that we are silent, recognising something that we cannot</l>
+          <l>measure. To <add hand="ms" place="above">the</add> Elizabethans, the power of words after their</l>
+          <l>long 
+            <choice>
+              <sic>silnce</sic>
+              <corr>silence</corr>
+            </choice> must have been overwhelming. There at the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs></l>
+          <l>or at the Rose men and women who had never seen themselves</l>
+          <l>whose only reading was 
+            <choice>
+              <sic>historyor</sic>
+              <corr>history or</corr>
+            </choice> sermon or some old 
+            <choice>
+              <sic>chornicle</sic>
+              <corr>chronicle</corr>
+            </choice></l>
+          <l>or perhaps could not 
+            <choice>
+              <sic>r ad</sic>
+              <corr>read</corr>
+            </choice> but spent all their days in the</l>
+        </p>
+      </div>
+      <div xml:id="m54-11.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-11/m54-11-2" />
     </body>
   </text>
 </TEI>
