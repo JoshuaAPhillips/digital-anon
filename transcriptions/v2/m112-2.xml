@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M112, Set 2 of 3 [The Reader: must in order to sit and stand there, while the sun beats...]. Typescript fragment, unsigned and undated with the author's ms. additions. 2p.</title>
+        <title>M112, Set 2 of 3 [The Reader: must in order to sit and stand there, while the sun beats...]. Typescript fragment, unsigned and undated with the author's ms. additions. 2 fols.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -26,7 +26,7 @@
             <idno>m112-2</idno>
           </msIdentifier>        
           <physDesc>
-            <p>M112, Set 2 of 3 [The Reader: must in order to sit and stand there, while the sun beats...]. Typescript fragment, unsigned and undated with the author's ms. additions. 2p.</p>
+            <p>M112, Set 2 of 3 [The Reader: must in order to sit and stand there, while the sun beats...]. Typescript fragment, unsigned and undated with the author's ms. additions. 2 fols.</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,9 +54,11 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="m112-2.xml">
-        <p>
+      <div xml:id="m112-2.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1/905,70,189,155/full/0/default.jpg">
           <l>32</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1/863,208,1842,1860/full/0/default.jpg">
           <l>must in order to sit and stand there, while the sun beats</l>
           <l>or the rain pours have some strong inducement; something</l>
           <l>that puzzles; and then concludes. They must have love;</l>
@@ -115,7 +117,7 @@
               <corr>ourselves</corr>
             </choice> anonymous in the early plays.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1/911,2048,1770,1332/full/0/default.jpg">
           <l>It is only later when the pressure of silent 
             <choice>
               <sic>horaded</sic>
@@ -149,16 +151,22 @@
           <l>come to birth again, differently, in <rs type="literary-work" ref="../resources/annotations.xml#lit-magi">the Magic Flute</rs>,</l>
           <l>in <rs type="literary-work" ref="../resources/annotations.xml#lit-fide">Fidelio</rs>. But the play never again fitted the stage</l>
         </p>
-        <p>
+      </div>
+      <div xml:id="m112-2.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-2" />
+      <div>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-3/879,24,187,212/full/0/default.jpg">
           <l>33</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-3/895,208,1699,220/full/0/default.jpg">
           <l>completely in England. The book after 
             <choice>
               <sic>Shakespere</sic>
               <corr>Shakespeare</corr>
             </choice> takes the</l>
           <l>place of the play. And Anon is dead for ever.</l>
-        </p> <!-- lots of notes here but hard to read: check when I have access to better facsimiles -->
+        </p> <!-- lots of notes here but hard to read: look on the Big Screen and do facs then -->
       </div>
+      <div xml:id="m112-2.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-4" />
     </body>
   </text>
 </TEI>
