@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title> <!-- don't forget this! --> </title>
+        <title>M54, 9 of 11. [Anon: The road led to the old graves...]. Typescript fragment, 8 fols.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -23,10 +23,11 @@
           <msIdentifier>
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno> <!-- m-number --> </idno>
+            <idno>m54-8</idno>
           </msIdentifier>        
           <physDesc>
-          <!-- <p> with description based on Berg catalogue descriptions -->
+            <p>M54, 9 of 11. [Anon: The road led to the old graves...]. Typescript fragment, 8 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -54,7 +55,929 @@
   </teiHeader>
   <text>
     <body>
-      <div></div>
+      <div xml:id="m54-9.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1/945,42,191,166/full/0/default.tif">
+          <l>16</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1/958,188,1662,892/full/0/default.tif">
+          <l>The road led to the old graves, to the stones where the</l>
+          <l>old pagan English had offered sacrifice. The peasants still</l>
+          <l>went that way, in 
+            <choice>
+              <sic>spir ng</sic>
+              <corr>spring</corr>
+            </choice>, summer and winter, by instinct.</l>
+          <l>The old Gods 
+            <choice>
+              <sic>stil</sic>
+              <corr>still</corr>
+            </choice> lay hidden beneath the new.</l>
+          <l>Even if they were now nameless, it was to txxxxx do them</l>
+          <l>homage, to win crops, husbands, health, that the</l>
+          <l>peasants came amxmxmxmxmxmxm in spring summer and</l>
+          <l>winter.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1/911,1104,1830,2124/full/0/default.tif">
+          <l>It is the printing press that we owe their</l>
+          <l>preservation. <quote source="#" rend="inline">"After that I had accomplished and 
+            <choice>
+              <sic>finsihed</sic>
+              <corr>finished</corr>
+            </choice></quote></l>
+          <l><quote source="#" rend="inline">divers histories"</quote> <rs type="person" ref="../resources/annotations.xml#psn-wcax">Caxton</rs> wrote in 
+            <choice>
+              <sic>41470</sic>
+              <corr>1470</corr>
+            </choice> in the preface</l>
+          <l>to the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte DArthur</rs>, <quote source="#">"many noble and divers gentlemen</quote></l>
+          <l><quote source="#" rend="inline">of this realm of England came and demanded me many and oft</quote></l>
+          <l><quote source="#" rend="inline">times ..... to imprint the history of the said noble king</quote></l>
+          <l><quote source="#" rend="inline">and conqueror <rs type="person" ref="../resources/annotations.xml#psn-kart">King Arthur</rs>, and of his knights with the</quote></l>
+          <l><quote source="#" rend="inline">history of the San greal and of the death and ending of</quote></l>
+          <l><quote source="#" rend="inline">the said Arthur."</quote> The twenty one books of the Morte DArthur</l>
+          <l>preserve what lay 
+            <choice>
+              <sic>benea th</sic>
+              <corr>beneath</corr>
+            </choice>, <add><!-- come back to this later --></add>
+            <choice>
+              <sic>Ther</sic>
+              <corr>there</corr>
+            </choice> we tap into the deep reservoir</l>
+          <l>of common belief that lay behind <add><!-- come back to this later --> </add>the peasant and the noble.</l>
+          <l>The 
+            <choice>
+              <sic>legnd</sic>
+              <corr>legend</corr>
+            </choice> was still alive in the nineteenth century.</l>
+          <l><quote source="#" rend="inline">"...folks do say"</quote> said a peasant at <rs type="place" ref="../resources/annotations.xml#pla-cadb">Cadbury</rs> <quote source="#">that on the</quote></l>
+          <l><quote source="#" rend="inline">night of the full moon King 
+            <choice>
+              <sic>Arthus</sic>
+              <corr>Arthur</corr>
+            </choice> and his men ride round</quote></l>
+          <l><quote source="#" rend="inline">the hill, and their horses are shod with silver..."</quote></l>
+          <l>A silver horseshoe, <rs type="person" ref="../resources/annotations.xml#psn-jlel">Leland</rs> says, was found in <rs type="person" ref="../resources/annotations.xml#psn-hen8"></rs></l>
+          <l>time at <rs type="person" ref="../resources/annotations.xml#pla-came">Camelot</rs>. It is in <rs type="person" ref="../resources/annotations.xml#psn-tmal">Malorys</rs> pages that we hear the</l>
+          <l>voice of anon murmuring in the mind of King and Queen and</l>
+          <l>peasant, They remembered how the old King</l>
+        </p>
+      </div>
+      <div xml:id="m54-9.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-2" />
+      <div xml:id="m54-9.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3/976,147,138,143/full/0/default.tif">
+          <l>17</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3/958,262,1744,678/full/0/default.tif">
+          <l>and his knights went their ways through the wild woods seek</l>
+          <l>ing adventure. <add hand="ms" place="above">When</add> Caxton <del hand="ms">himself</del> doubted. <del>No</del>such <add hand="ms" place="above">a</add> man, he</l>
+          <l>objected, had ever lived. But the nobles were positive,</l>
+          <l>they said that you could see <rs type="person" ref="../resources/annotations.xml#psn-gawa">Gawaines</rs> skull at <rs type="place" ref="../resources/annotations.xml#psn-dove">Dover</rs></l>
+          <l>and the <rs type="object" ref="../resources/annotations.xml#obj-roun">Round Table</rs> at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs> and in <quote source="#" rend="inline">"in other places</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-lanc">Launcelots</rs> sword and many other things.</quote></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3/935,924,1782,1980/full/0/default.tif">
+          <l>The book itself represents Caxtons scepticism, and the</l>
+          <l>nobles faith. It is half fable, half fact. There is London,</l>
+          <l>and <rs type="place" ref="../resources/annotations.xml#pla-carl">Carlisle</rs> and <rs type="place" ref="../resources/annotations.xml#pla-stal">St Albans</rs>; there is the <rs type="person" ref="../resources/annotations.xml#psn-arch">Archbishop of</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">Canterbury</rs> and <rs>St Pauls</rs>. But the roads lead past London to</l>
+          <l>castles where Knights lie in prison; down the roads ride</l>
+          <l>Queens on white mules; <rs type="person" ref="../resources/annotations.xml#psn-morg">Morgan le Fay</rs> turns suddenly to</l>
+          <l>stone; and a hand rises from a lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca">Excalibur</rs>.</l>
+          <l>In the 
+            <choice>
+              <sic>canfdour</sic>
+              <corr>candour</corr>
+            </choice> with 
+            <choice>
+              <sic>wh h</sic>
+              <corr>which</corr>
+            </choice> it is told, it is a childs story.</l>
+          <l>But <del hand="ms">the</del> <add hand="ms" place="above">the</add> child has lived for centuries. It has not our pers</l>
+          <l>spective. The inventories, the catalogues are 
+            <choice>
+              <sic>mad</sic>
+              <corr>made</corr>
+            </choice> with</l>
+          <l>a childs 
+            <choice>
+              <sic>partciularity</sic>
+              <corr>particularity</corr>
+            </choice>. The clear eye sees definitely and</l>
+          <l>without exaggeration. Beauty is in the thing itself, not i</l>
+          <l>in the writers manipulation. <quote source="#" rend="inline">So he went in and searched</quote></l>
+          <quote source="#" rend="inline">
+            <l>chamber from chamber to chamber, and found his bed, but she</l>
+            <l>was not there; then Balin lookedinto a fxmx little garden</l>
+            <l>and under a laurel tree he saw her lie upon a quilt of</l>
+            <l>green samite and a 
+              <choice>
+                <sic>kmight</sic>
+                <corr>knight</corr>
+              </choice> with her, and under their heads</l>
+            <l>grass and herbs."</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3/975,2864,1694,588/full/0/default.tif">
+          <l><add hand="ms" place="inline">But</add> It is not a childs world; it is a world before self</l>
+          <l>consciousness has raised 
+            <choice>
+              <sic>i s</sic>
+              <corr>its</corr>
+            </choice> mirror. The men and women are</l>
+          <l>
+            <choice>
+              <sic>angualr</sic>
+              <corr>angular</corr>
+            </choice>, gigantic; freed from 
+            <choice>
+              <sic>somthing</sic>
+              <corr>something</corr>
+            </choice> impure; yet sin</l>
+          <l>tarnished, 
+            <choice>
+              <sic>acqauinted</sic>
+              <corr>acquainted</corr>
+            </choice> with sorrow, corrupt, in the midst of</l>
+          <l>this fresh landscape, remembering,</l>
+        </p>
+      </div>
+      <div xml:id="m54-9.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-4" />
+      <div xml:id="m54-9.3r" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5/903,105,164,153/full/0/default.tif">
+          <l><choice>
+            <sic>i8</sic>
+            <corr>18</corr>
+          </choice></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5/910,238,1696,562/full/0/default.tif">
+          <l>We lose our bearings following these Knights and ladies;</l>
+          <l>to live in 
+            <choice>
+              <sic>t is</sic>
+              <corr>this</corr>
+            </choice> 
+            <choice>
+              <sic>prehistroic</sic>
+              <corr>prehistoric</corr>
+            </choice> land we must 
+            <choice>
+              <sic>sehd</sic>
+              <corr>shed</corr>
+            </choice> many habits</l>
+          <l>of 
+            <choice>
+              <sic>thoght</sic>
+              <corr>thought</corr>
+            </choice>; but after all it is not an unreal world;</l>
+          <l>a fabricated world; it still exists in us, deep sunk,</l>
+          <l>savage, primitive; m remembered.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5/884,778,1784,1018/full/0/default.tif">
+          <l>Of the writer, nothing is 
+            <choice>
+              <sic>knonw</sic>
+              <corr>known</corr>
+            </choice>. He is not <add hand="ms" place="above">[illeg.] emerged</add></l>
+          <l>
+            <choice>
+              <sic>disnctin c</sic>
+              <corr>distinct</corr>
+            </choice> from 
+            <choice>
+              <sic>hsi  ook</sic>
+              <corr>his book</corr>
+            </choice>. It is still the anonymous voice</l>
+          <l>speaking 
+            <choice>
+              <sic>anonysmously</sic>
+              <corr>anonymously</corr>
+            </choice> generally 
+            <choice>
+              <sic>hat</sic>
+              <corr>that</corr>
+            </choice> the 
+            <choice>
+              <sic>lsiener</sic>
+              <corr>listener</corr>
+            </choice> already</l>
+          <l>
+            <choice>
+              <sic>hald</sic>
+              <corr>half</corr>
+            </choice> knows, or 
+            <choice>
+              <sic>rmemebers</sic>
+              <corr>remembers</corr>
+            </choice>. The 
+            <choice>
+              <sic>lsiener</sic>
+              <corr>listener</corr>
+            </choice> hears the voice</l>
+          <l>partly in himself; as it comes from the man at the back</l>
+          <l>door who has been travelling in 
+            <choice>
+              <sic>trange</sic>
+              <corr>strange</corr>
+            </choice> parts 
+            <choice>
+              <sic>acrsoos</sic>
+              <corr>across</corr>
+            </choice> the</l>
+          <l>marsh across the flood to 
+            <choice>
+              <sic>r mind</sic>
+              <corr>remind</corr>
+            </choice> the 
+            <choice>
+              <sic>peasnt</sic>
+              <corr>peasant</corr>
+            </choice> and the noble</l>
+          <l>of the world that was before them. And still the dream</l>
+          <l>lingered; for the 
+            <choice>
+              <sic>peasnts</sic>
+              <corr>peasants</corr>
+            </choice></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5/876,1824,1812,1490/full/0/default.tif">
+          <l>In the great house and the cottage this half articulate</l>
+          <l>voice murmured of old gods 
+            <choice>
+              <sic>a d</sic>
+              <corr>and</corr>
+            </choice> kings and 
+            <choice>
+              <sic>inihgts</sic>
+              <corr>knights</corr>
+            </choice></l>
+          <l>The well and the tree were still haunted. King Arthur</l>
+          <l>the 
+            <choice>
+              <sic>foreste s</sic>
+              <corr>foresters</corr>
+            </choice> said in the thirteenth 
+            <choice>
+              <sic>cnetury</sic>
+              <corr>century</corr>
+            </choice>,    ;;;<quote source="#" rend="inline">"about</quote></l>
+          <quote source="#" rend="inline">
+            <l>noon or 
+              <choice>
+                <sic>midngiht</sic>
+                <corr>midnight</corr>
+              </choice> when the moon is 
+              <choice>
+                <sic>sufulland</sic>
+                <corr>full and</corr>
+              </choice> shining</l>
+            <l>[we?] often see an array of hunters with dogs and sound of</l>
+            <l>horns who 
+              <choice>
+                <sic>ins anser</sic>
+                <corr>answer</corr>
+              </choice> to the 
+              <choice>
+                <sic>enwuirers</sic>
+                <corr>enquirers</corr>
+              </choice> says</l>
+            <l>
+              <choice>
+                <sic>yhat</sic>
+                <corr>that</corr>
+              </choice> they are of the 
+              <choice>
+                <sic>hosuehold</sic>
+                <corr>household</corr>
+              </choice> and fellowship of</l>
+          </quote>
+          <l><quote source="#" rend="inline">King 
+            <choice>
+              <sic>Art ur</sic>
+              <corr>Arthur</corr>
+            </choice>."</quote> Along the roads from town to town</l>
+          <l>from house to 
+            <choice>
+              <sic>ouse</sic>
+              <corr>house</corr>
+            </choice>, came the 
+            <choice>
+              <sic>minstresl</sic>
+              <corr>minstrels</corr>
+            </choice> the jugglers and</l>
+          <l>the impudent bardes. 
+            <choice>
+              <sic>whil</sic>
+              <corr>While</corr>
+            </choice> for those who could read it,</l>
+          <l>Caxtons book 
+            <choice>
+              <sic>tol</sic>
+              <corr>told</corr>
+            </choice> the old stories set out in print.</l>
+        </p>
+        <p>
+          <l>then 
+            <choice>
+              <sic>late</sic>
+              <corr>later</corr>
+            </choice> the instinct to enact, to impersonate</l>
+        </p>
+      </div>
+      <div xml:id="m54-9.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-6" />
+      <div xml:id="m54-9.4r" n="4 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-7">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-7/825,80,175,154/full/0/default.tif">
+          <l>19</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-7/847,196,1790,1596/full/0/default.tif">
+          <l>
+            <choice>
+              <sic>hat</sic>
+            </choice> they believed imagined came into existence.</l>
+          <l>Even the King and Queen shared the it, and must have</l>
+          <l>their actors or 
+            <choice>
+              <sic>minstersl</sic>
+              <corr>minstrels</corr>
+            </choice> to 
+            <choice>
+              <sic>vie</sic>
+              <corr>give</corr>
+            </choice> <add hand="ms" place="above">body</add> tongue to this</l>
+          <l>hidden 
+            <choice>
+              <sic>insticnt</sic>
+              <corr>instinct</corr>
+            </choice> <add>[illeg.]</add>. The 
+            <choice>
+              <sic>acror</sic>
+              <corr>actor</corr>
+            </choice> was 
+            <choice>
+              <sic>despied</sic>
+              <corr>despised</corr>
+            </choice>;</l>
+          <l>did he not make use of his body? and did he not,</l>
+          <l>feeling himself an 
+            <choice>
+              <sic>otcast</sic>
+              <corr>outcast</corr>
+            </choice>, use the 
+            <choice>
+              <sic>outiders</sic>
+              <corr>outsiders</corr>
+            </choice> privilege of</l>
+          <l>
+            <choice>
+              <sic>irrepsoneible</sic>
+              <corr>irresponsible</corr>
+            </choice> mockery? But the Kings and Queens tolerated</l>
+          <l>him, as 
+            <choice>
+              <sic>to rate</sic>
+              <corr>tolerate</corr>
+            </choice> those who say what we are too proud</l>
+          <l>to admit. Even the church men <del hand="ms">had to a  re</del> <add hand="ms" place="above">aware</add> that the 
+            <choice>
+              <sic>Gids</sic>
+              <corr>Gods</corr>
+            </choice></l>
+          <l>that <del hand="ms">he worshipped 
+            <choice>
+              <sic>wre</sic>
+              <corr>were</corr>
+            </choice> not theirs</del> had to 
+            <choice>
+              <sic>yeild</sic>
+              <corr>yield</corr>
+            </choice> to him;</l>
+          <l>or <del hand="ms">to make use of his gift to</del> If they could they constrained</l>
+          <l>the 
+            <choice>
+              <sic>c ors</sic>
+              <corr>actors</corr>
+            </choice> and the 
+            <choice>
+              <sic>da cers</sic>
+              <corr>dancers</corr>
+            </choice> 
+            <choice>
+              <sic>t</sic>
+              <corr>to</corr>
+            </choice> put off their 
+            <choice>
+              <sic>l evea</sic>
+              <corr>leaves</corr>
+            </choice> 
+            <choice>
+              <sic>na d</sic>
+              <corr>and</corr>
+            </choice> bells</l>
+          <l>and dress themselves as the sacred figures in a miracle play.</l>
+          <l>But the churchmen did their best to 
+            <choice>
+              <sic>prvent</sic>
+              <corr>prevent</corr>
+            </choice> them.</l>
+        </p>
+      </div>
+      <div xml:id="m54-9.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-8">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-8/1742,3215,138,169/full/0/default.tif">
+          <l>7</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-8/131,1640,1787,1594/full/0/default.tif">
+          <l>The printing press brought the past into existence.</l>
+          <l>It <add hand="ms" place="above">also</add> brought into existence, seen 
+            <choice>
+              <sic>agoanst</sic>
+              <corr>against</corr>
+            </choice> the back</l>
+          <l>
+            <choice>
+              <sic>rgound</sic>
+              <corr>ground</corr>
+            </choice> of the past. And it brough by degrees the 
+            <choice>
+              <sic>indivual</sic>
+              <corr>individual</corr>
+            </choice></l>
+          <l>into existence--the <del hand="ms">
+            <choice>
+              <sic>indi idual</sic>
+              <corr>individual</corr>
+            </choice> who looking back sees himself</del> <add hand="typewriter" place="above">the man who is separate from his book.</add></l>
+          <l><del hand="ms">against the background</del>. The individual emerges</l>
+          <l>at last. <add hand="ms" place="above">He is a chronicler and the [illeg.]</add>His name is 
+            <choice>
+              <sic>Holingshed</sic>
+              <corr>Holinshed</corr>
+            </choice>; it is also 
+            <choice>
+              <sic>Har ison</sic>
+              <corr>Harrison</corr>
+            </choice>.</l>
+          <l>Harrison tells us that he has books; and a mastiff;</l>
+          <l>and digs 
+            <choice>
+              <sic>i</sic>
+              <corr>in</corr>
+            </choice> the ground for Roman coins. He tells us that he</l>
+          <l>has 
+            <choice>
+              <sic>nev</sic>
+              <corr>never</corr>
+            </choice> been more than forty miles from radwinter in Essex.</l>
+          <l>The individual, <del hand="ms">still much 
+            <choice>
+              <sic>sumplified</sic>
+              <corr>simplified</corr>
+            </choice></del>, but sxxxxx no longer</l>
+          <l>nameless, 
+            <choice>
+              <sic>emrges</sic>
+              <corr>emerges</corr>
+            </choice>. He is losing his ambiguity.</l>
+          <l>the present is becoming visible. Harrison sees the present</l>
+          <l>moment (15     ) against the settled orderly past.</l>
+          <l>The present looks 
+            <choice>
+              <sic>degenrate</sic>
+              <corr>degenerate</corr>
+            </choice>, raw, against that past.</l>
+        </p>
+      </div>
+      <div xml:id="m54-9.5r" n="5 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9/828,68,186,161/full/0/default.tif">
+          <l>20</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9/804,232,1816,2004/full/0/default.tif">
+          <l>It was at half past two in 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> afternoon that the</l>
+          <l>trumpets 
+            <choice>
+              <sic>dounded</sic>
+              <corr>sounded</corr>
+            </choice> and the flag flew over the Theatre.</l>
+          <l>The playhouse was open to the sky. A penny or twopence was</l>
+          <l>the price of a seat. There was no scenery; but the walls</l>
+          <l>were painted; and the actors were richly dressed, according</l>
+          <l>to one spectator in the cast off robes of the nobles, sold</l>
+          <l>by their servants. What other amusement 
+            <choice>
+              <sic>as</sic>
+              <corr>was</corr>
+            </choice> there in the</l>
+          <l>afternoon, for the gentlement of the court, txxx of the Inns</l>
+          <l>of Court, for the numbers of captains and soldiers about</l>
+          <l>London? Only the amusements that Latimer deplored;</l>
+          <l>carding, dicing, gaming, following of xmxmxmxmxmx</l>
+          <l>harlots and drinking. The rivxmxmxmxmx audience came from</l>
+          <l>the 
+            <choice>
+              <sic>drowded</sic>
+              <corr>crowded</corr>
+            </choice> festering little streets txxxx round St Pauls</l>
+          <l>where the buried smelt so strong. The river was crowded with</l>
+          <l>wherries ferrying them across: The riverside people 
+            <choice>
+              <sic>depnded</sic>
+              <corr>depended</corr>
+            </choice></l>
+          <l>upon their fares. The flag flew; the trumpets 
+            <choice>
+              <sic>dsounded</sic>
+              <corr>sounded</corr>
+            </choice>; and</l>
+          <l>
+            <choice>
+              <sic>audince</sic>
+              <corr>audience</corr>
+            </choice> crowded into the open playhouse, clustered round the</l>
+          <l>stage; and heard:</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9/962,2216,1364,346/full/0/default.tif">
+          <quote source="#" rend="block">
+            <l>Brother Cosroe, I find myself aggrieved,</l>
+            <l>Yet insufficient 
+              <choice>
+                <sic>yto</sic>
+                <corr>to</corr>
+              </choice> express the same;</l>
+            <l>For it requires a great and thundering speech</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9/768,2544,1912,870/full/0/default.tif">
+          <l>At last the voice speaks from the actual body of one man.</l>
+          <l>xmxmxmxmxm.And the 
+            <choice>
+              <sic>wolrd</sic>
+              <corr>world</corr>
+            </choice> became visible. Egypt, Libya;</l>
+          <l>Persia; Greece. It unrolled itself <add hand="ms" place="above">time</add>; and the armies of 
+            <choice>
+              <sic>gr at</sic>
+              <corr>great</corr>
+            </choice></l>
+          <l>Kings; and plains; and palaces. There is no abstraction any</l>
+          <l>longer. All is visible tangible, audible. Txmxmxmxmxm</l>
+          <l>
+            <choice>
+              <sic>ords</sic>
+              <corr>Words</corr>
+            </choice> seem to swell and stretch and tumble over 
+            <choice>
+              <sic>themslves</sic>
+              <corr>themselves</corr>
+            </choice></l>
+          <l>in the effort to give body to this vast universe.</l>
+          <l>They can scarcely contain all they would bring forward.</l>
+        </p>
+      </div>
+      <div xml:id="m54-9.5v" n="5 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-10" />
+      <div xml:id="m54-9.6r" n="6 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/889,84,172,147/full/0/default.tif">
+          <l>21</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/887,214,1403,434/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>The 
+              <choice>
+                <sic>sprung</sic>
+                <corr>spring</corr>
+              </choice> is hindered by your smothering host,</l>
+            <l>For neither rain can fall upon the earth,</l>
+            <l>Nor sun reflex his virtuous beams thereon,</l>
+            <l>The ground is mantled with such multitudes.</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/851,648,1863,770/full/0/default.tif">
+          <l>
+            <choice>
+              <sic>Abrtactions</sic>
+              <corr>Abstractions</corr>
+            </choice> withdraw themselves. Axmxmxxx The Kings and</l>
+          <l>Emperors stride forth, palpable, coloured, strident. The ae</l>
+          <l>They are hewn, mob- monstrous, brilliantly painted;</l>
+          <l>but they movel they speak. They emerge like great moths,</l>
+          <l>
+            <choice>
+              <sic>stillcreased</sic>
+              <corr>still creased</corr>
+            </choice> and damp, shaking their wings in splendid</l>
+          <l>
+            <choice>
+              <sic>aburd</sic>
+              <corr>absurd</corr>
+            </choice> hyperboles and raptures and The great names crash</l>
+          <l>like cymbals</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/911,1406,1495,442/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>tell him, xmxmxx thy Lord the Turkish Emperor,</l>
+            <l>
+              <choice>
+                <sic>Dre d</sic>
+                <corr>Dread</corr>
+              </choice> Lord of Afric, 
+              <choice>
+                <sic>Eruope</sic>
+                <corr>Europe</corr>
+              </choice> and Asia,</l>
+            <l>Great king and 
+              <choice>
+                <sic>conqueor</sic>
+                <corr>conqueror</corr>
+              </choice> of 
+              <choice>
+                <sic>Greacia</sic>
+                <corr>Graecia</corr>
+              </choice>,</l>
+            <l>The ocean, Terrene, and the coal-black sea....</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/909,1852,1623,342/full/0/default.tif">
+          <l>It is bombast, <del hand="ms">it is 
+            <choice>
+              <sic>pagenatry</sic>
+              <corr>pageantry</corr>
+            </choice></del>; it is hyperbole. And yet</l>
+          <l><del>
+            <choice>
+              <sic>pusis ant</sic>
+              <corr>puissant</corr>
+            </choice></del>, Words 
+            <choice>
+              <sic>mout</sic>
+              <corr>mount</corr>
+            </choice>; pile on top of each 
+            <choice>
+              <sic>ther</sic>
+              <corr>other</corr>
+            </choice>;</l>
+          <l>surpass common sense; 
+            <choice>
+              <sic>clah</sic>
+              <corr>clash</corr>
+            </choice> and rebound:</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/889,2158,1631,470/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>
+              <choice>
+                <sic>W se</sic>
+                <corr>Whose</corr>
+              </choice> eyes are brighter than the lamps of 
+              <choice>
+                <sic>Haevan</sic>
+                <corr>Heaven</corr>
+              </choice>,</l>
+            <l>And speech more 
+              <choice>
+                <sic>pl sant</sic>
+                <corr>pleasant</corr>
+              </choice> than sweet harmony!</l>
+            <l>that with thy looks canst 
+              <choice>
+                <sic>clclear</sic>
+                <corr>clear</corr>
+              </choice> the 
+              <choice>
+                <sic>datkemed</sic>
+                <corr>darkened</corr>
+              </choice> sky,</l>
+            <l>And calm the rage of thundering Jupiter...</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/857,2594,1671,662/full/0/default.tif">
+          <l>He is beyond the provinces of plain 
+            <choice>
+              <sic>pseech</sic>
+              <corr>speech</corr>
+            </choice>,</l>
+          <l>revelling in some untouched garden of untouched blooms;</l>
+          <l>picking 
+            <choice>
+              <sic>plaucking</sic>
+              <corr>plucking</corr>
+            </choice> words, and strewing them.</l>
+          <l>There is no shadow; all is gold and 
+            <choice>
+              <sic>urple</sic>
+              <corr>purple</corr>
+            </choice>.</l>
+          <l>Yet in the very pitch and height of this extravagance,</l>
+          <l>xmxmxmxmx he veers,</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-11/1111,3248,859,178/full/0/default.tif">
+          <quote source="#" rend="block">
+            <l>So poets say my lord.</l>
+          </quote>
+        </p>
+      </div>
+      <div xml:id="m54-9.6v" n="6 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-12" />
+      <div xml:id="m54-9.7r" n="7 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/949,97,122,133/full/0/default.tif">
+          <l>22</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/935,206,1000,127/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>
+              <choice>
+                <sic>An</sic>
+                <corr>And</corr>
+              </choice> tis a pretty toy to be a poet..</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/947,314,1375,238/full/0/default.tif">
+          <l>So distended with rapture, the tune changes</l>
+          <l>effectively.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/913,1302,1671,666/full/0/default.tif">
+          <l>Could he stop, he would cutdeeper. But there is no pause;</l>
+          <l>no shadow. The 
+            <choice>
+              <sic>pagenat</sic>
+              <corr>pageant</corr>
+            </choice> <add hand="ms" place="above">[illeg.]</add>. The horses neigh.</l>
+          <l>Kings and 
+            <choice>
+              <sic>Empeors</sic>
+              <corr>Emperors</corr>
+            </choice> emerge. Battles are fought. Blood flows.</l>
+          <l>And all over this 
+            <choice>
+              <sic>multitidionous</sic>
+              <corr>multitudinous</corr>
+            </choice> splendour broods 
+            <choice>
+              <sic>agedy</sic>
+              <corr>tragedy</corr>
+            </choice></l>
+          <l>xmxmxmmxmxmxxx We forbode. We behold the thing as <add hand="ms" place="above">We [illeg.] there</add></l>
+          <l>spectacle. There is the end to come. Meanwhile, let us 
+            <choice>
+              <sic>boas</sic>
+              <corr>boast</corr>
+            </choice></l>
+          <l>and triumph.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/919,1302,1695,662/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>Our souls, whose faculties can comprehend</l>
+            <l>The wondrous architecture of the world,</l>
+            <l>And measure very wandering planets course</l>
+            <l>Still climbing after 
+              <choice>
+                <sic>knowlede</sic>
+                <corr>knowledge</corr>
+              </choice> 
+              <choice>
+                <sic>infinute</sic>
+                <corr>infinite</corr>
+              </choice>,</l>
+            <l>And always moving as the restless 
+              <choice>
+                <sic>spe eres</sic>
+                <corr>spheres</corr>
+              </choice>,</l>
+            <l>Well us to wear ourselves, and never rest...</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/933,1950,1707,566/full/0/default.tif">
+          <l>That is the 
+            <choice>
+              <sic>meldy</sic>
+              <corr>melody</corr>
+            </choice> the marching song of this brave</l>
+          <l>
+            <choice>
+              <sic>septacle</sic>
+              <corr>spectacle</corr>
+            </choice>. And yet, as if the poet slipped the noose of his</l>
+          <l>audiences, 
+            <choice>
+              <sic>releved</sic>
+              <corr>relieved</corr>
+            </choice> himself of its pressure for one moment,</l>
+          <l>we hear:</l>
+          <l>amid the 
+            <choice>
+              <sic>so nding</sic>
+              <corr>sounding</corr>
+            </choice> brass:</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13/923,2500,1779,946/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>What is 
+              <choice>
+                <sic>beautym</sic>
+                <corr>beauty,</corr>
+              </choice> saith my sufferings, then?</l>
+            <l>If all the pens that ever poets held</l>
+            <l>Had fed the 
+              <choice>
+                <sic>feelingsx</sic>
+                <corr>feelings</corr>
+              </choice> of their masters' thoughts,</l>
+          </quote>
+          <l>.....</l>
+          <quote source="#" rend="inline">
+            <l>If all these had made one poems 
+              <choice>
+                <sic>riod</sic>
+                <corr>period</corr>
+              </choice>,</l>
+            <l>And all combined in 
+              <choice>
+                <sic>b auty's</sic>
+                <corr>beauty's</corr>
+              </choice> worthiness,</l>
+            <l>Yet should there hover in their 
+              <choice>
+                <sic>estless</sic>
+                <corr>restless</corr>
+              </choice> heads</l>
+            <l>one thought, one wxxxxxxx grace, one wonder, at the least,</l>
+          </quote>
+        </p>
+      </div>
+      <div xml:id="m54-9.7v" n="7 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-14" />
+      <div xml:id="m54-9.8r" n="8 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15/868,91,144,133/full/0/default.tif">
+          <l>23</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15/898,221,1080,105/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>Which into <del hand="ms">words no virtue can digest</del></l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15/802,308,1848,1442/full/0/default.tif">
+          <l>It is a break; <add hand="ms" place="above">a [illeg.]</add> out of keeping; <del>to be recalled at once</del></l>
+          <l>a sign that the dramatist is separate from the 
+            <choice>
+              <sic>anony ous</sic>
+              <corr>anonymous</corr>
+            </choice> play</l>
+          <l>maker; There is no little language to put on Kings lips;</l>
+          <l>so that he cannot as yet 
+            <choice>
+              <sic>amalgamante</sic>
+              <corr>amalgamate</corr>
+            </choice> naturally</l>
+          <l>the thought and the action. The audience, the 
+            <choice>
+              <sic>shopr keeprs</sic>
+              <corr>shopkeepers</corr>
+            </choice></l>
+          <l>apprentices 
+            <choice>
+              <sic>insoored</sic>
+              <corr>ensured</corr>
+            </choice> not 
+            <choice>
+              <sic>relfection</sic>
+              <corr>reflection</corr>
+            </choice> <add hand="ms" place="above">blood [illeg.]</add>, but action,</l>
+          <l>
+            <choice>
+              <sic>movemnt</sic>
+              <corr>movement</corr>
+            </choice>. The play is still partly the work of the audience;</l>
+          <l>of the undifferentiated gluttonous word greedy mass.</l>
+          <l>It is inspired by the common voice, demanding great names,</l>
+          <l>simple 
+            <choice>
+              <sic>outl nes</sic>
+              <corr>outlines</corr>
+            </choice>; clamour and 
+            <choice>
+              <sic>virtory</sic>
+              <corr>victory</corr>
+            </choice> and death; not the 
+            <choice>
+              <sic>singe</sic>
+              <corr>single</corr>
+            </choice></l>
+          <l>subtlety of one soul. <del>
+            <choice>
+              <sic>Refelction</sic>
+              <corr>Reflection</corr>
+            </choice> breaks off from</del></l>
+          <l><del hand="ms">
+            <choice>
+              <sic>ction</sic>
+              <corr>action</corr>
+            </choice>; there is no 
+            <choice>
+              <sic>harml sing</sic>
+              <corr>[harmonising? harming?]</corr>
+            </choice> common speech.</del></l>
+        </p>
+      </div>
+      <div xml:id="m54-9.8v" n="8 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-16" />
     </body>
   </text>
 </TEI>
