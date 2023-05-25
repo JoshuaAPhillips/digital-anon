@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M111 Set 1 of 3, [The Reader: But her own passion, the disgrace, the humiliation...]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 8p.</title>
+        <title>M111 Set 1 of 3, [The Reader: But her own passion, the disgrace, the humiliation...]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 5 fols.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -24,9 +24,9 @@
             <institution>New York Public Library</institution>
             <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
             <idno>m111-1</idno>
-          </msIdentifier>        
+          </msIdentifier>s
           <physDesc>
-            <p>M111, Set 1 of 3 [The Reader: But her own passion, the disgrace, the humiliation...]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 8p.</p>
+            <p>M111, Set 1 of 3 [The Reader: But her own passion, the disgrace, the humiliation...]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 5 fols.</p>
             <p>Paginated 29-33.</p>
             <p>p. 29 with discarded page paginated 34 on verso.</p>
             <p>p. 30 with page from <!-- ask Bryony --> story on verso.</p>
@@ -58,9 +58,11 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="m111-1.1">
-        <p>
+      <div xml:id="m111-1.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1/880,82,125,141/full/0/default.jpg">
           <l>29</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1/759,192,1953,2428/full/0/default.jpg">
           <l><add hand="ms" place="above">But</add> Her own passion, the disgrace, the humiliation of her <add>are all [actual?] in dumb shows</add></l>
           <l>family are all hidden under silence itself; or such</l>
           <l>flourishes and ornaments that reveal 
@@ -162,7 +164,7 @@
             </choice> pass unseen. They too like the</l>
           <l>dramatists remain anonymous.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1/779,2628,1921,764/full/0/default.jpg">
           <l>Yet there is a strange contradiction. If the</l>
           <l>wr country 
             <choice>
@@ -192,9 +194,11 @@
             </choice>,</l>
         </p>
       </div>
-      <div xml:id="m111-1.2">
-        <p>
+      <div xml:id="m111-1.1v" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-2">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-2/504,76,262,278/full/0/default.jpg">
           <l><add hand="ms" place="margin">34</add></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-2/727,20,1930,2204/full/0/default.jpg">
           <l>are all 
             <choice>
               <sic>contrbutions</sic>
@@ -284,9 +288,11 @@
           <l>consistent.</l>
         </p>
       </div>
-      <div xml:id="m111-1.3">
-        <p>
+      <div xml:id="m111-1.2r">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-3/791,48,185,162/full/0/default.jpg">
           <l>30</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-3/791,192,1690,684/full/0/default.jpg">
           <l>their jewels, their horses and carriages. When they die,</l>
           <l>heavy marble tombs are raised over them. The outer life</l>
           <l>is as 
@@ -296,12 +302,19 @@
             </choice> as cloth of gold and pigs capons hogs</l>
           <l>can make it. But the mind that lives in the head, the</l>
           <l>heart that hxxx speak only on the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs>, through the</l>
-          <l>mouths of the players. <add place="margin"><!-- come back to this --></add></l>
+          <l>mouths of the players.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-3/273,318,541,326/full/0/default.jpg">
+          <add place="margin"> <!-- look at this on the Big Screen -->
+            <l></l>
+            <l></l>
+            <l></l>
+          </add>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-3/1108,870,557,115/full/0/default.jpg">
           <l>Txmxmxmxmxmxmx</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-3/655,968,1969,2316/full/0/default.jpg">
           <l>Yet in no age can there have been a deeper gulf</l>
           <l>between the artist and 
             <choice>
@@ -377,12 +390,14 @@
           <l>London was partly the rage of those who felt that</l>
         </p>
       </div>
-      <div xml:id="m111-1.4">
-        <p>
+      <div xml:id="m111-1.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/799,50,181,182/full/0/default.jpg">
           <l>2</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/827,200,1514,172/full/0/default.jpg">
           <l>stop in the middle of her song. and shut the piano.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/791,376,1690,580/full/0/default.jpg">
           <l>Her father beat her oftener and 
             <choice>
               <sic>oftner</sic>
@@ -393,10 +408,10 @@
           <l>xmxmxmxmxm Jinny the parlourmaid agreed <add hand="typewriter" place="above">would have agreed.</add>; but her cough</l>
           <l>prevented her xxxx</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/1136,935,423,145/full/0/default.jpg">
           <l>Stxxx</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/823,1040,1690,676/full/0/default.jpg">
           <l>There were many legs on the alwn <add hand="ms" place="above">lawn</add> in the summer.</l>
           <l>She would watch them from between the 
             <choice>
@@ -420,7 +435,7 @@
               <corr>stooped</corr>
             </choice> too.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/823,1692,1706,580/full/0/default.jpg">
           <l>Hullo 
             <choice>
               <sic>LElizabeth</sic>
@@ -447,7 +462,7 @@
           <l>rid of her. So she mooned round the library looking at the</l>
           <l>great pictures.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/831,2240,1706,580/full/0/default.jpg">
           <l>They had been in that house for ever so long.</l>
           <l>And the great pictures were almost part of the walls.</l>
           <l>They were ancestors; children; youths; grown men and women;</l>
@@ -458,7 +473,7 @@
               <corr>and make</corr>
             </choice> notes in their pocket books.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/811,2784,1778,364/full/0/default.jpg">
           <l>The only person she saw whole, from her yellow head</l>
           <l>to her little black slippers, was Carry Elmer, the 
             <choice>
@@ -467,7 +482,7 @@
             </choice></l>
           <l>of another squire.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4/819,3128,1778,236/full/0/default.jpg">
           <l>At intervals of ten miles apart 
             <choice>
               <sic>ther</sic>
@@ -480,11 +495,11 @@
             </choice> house, was famous.</l>
         </p>
       </div>
-      <div xml:id="m111-1.5">
-        <p>
+      <div xml:id="m111-1.3r" n="3 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-5/900,76,182,190/full/0/default.jpg">
           <l>31</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-5/796,264,1884,3036/full/0/default.jpg">
           <l>The Elizabethan audience were not readers. They had to</l>
           <l>draw in the play as they sat or stood at the playhouse,</l>
           <l>through their ears, through their eyes. There was no book</l>
@@ -581,12 +596,15 @@
             </choice>, there is still something sunk beyond</l>
         </p>
       </div>
-      <div xml:id="m111-1.6">
-        <p>
+      <div xml:id="m111-1.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-6" />
+      <div xml:id="m111-1.4r" n="4 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-7">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-7/763,66,161,118/full/0/default.jpg">
           <l>32</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-7/779,170,473,134/full/0/default.jpg">
           <l>beyond recall.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-7/679,352,2067,2188/full/0/default.jpg">
           <l>Presumably the earlier plays, in
             <choice>
               <sic>whichnthe</sic>
@@ -672,7 +690,7 @@
               <corr>that</corr>
             </choice> brings the reader into being.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-7/723,2532,1979,836/full/0/default.jpg">
           <l>The reader has been in existence for round</l>
           <l>about four 
             <choice>
@@ -702,9 +720,11 @@
           <l>unintended by the writer. A word spelt in the Elizabethan</l>
         </p>
       </div>
-      <div xml:id="m111-1.7">
-        <p>
+      <div xml:id="m111-1.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-8">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-8/1740,3287,209,159/full/0/default.jpg">
           <l>155</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-8/159,1528,1985,1772/full/0/default.jpg">
           <l>
             <choice>
               <sic>ho mes</sic>
@@ -769,9 +789,11 @@
           <l>Ourselves Ourselves?</l>
         </p>
       </div>
-      <div xml:id="m111-1.8">
-        <p>
+      <div xml:id="m111-1.5r" n="5 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-9">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-9/915,30,161,150/full/0/default.jpg">
           <l>33</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-9/915,168,1755,1692/full/0/default.jpg">
           <l>the meaning of words is tremendously developed; so that they</l>
           <l>remain attached to certain aspects of the printed page;</l>
           <l>the 
@@ -845,6 +867,7 @@
             </choice>.</l>
         </p>
       </div>
+      <div xml:id="m111-1.5v" n="5 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-10"/>
       </body>
   </text>
 </TEI>
