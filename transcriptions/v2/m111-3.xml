@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M111, set 3 of 3 [The Reader: Anonymity was a great possession]. Typescript fragment, with the author's ms. corrections. 7p.</title>
+        <title>M111, set 3 of 3 [The Reader: Anonymity was a great possession]. Typescript fragment, with the author's ms. corrections. 6 fols.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -26,9 +26,9 @@
             <idno>m111-3</idno>
           </msIdentifier>        
           <physDesc>
-            <p>M111 [The Reader]. Set 3 of 3. Typescript fragment, with the author's ms. corrections. 7p.</p>
+            <p>M111 [The Reader]. Set 3 of 3. Typescript fragment, with the author's ms. corrections. 6 fols.</p>
             <p>Fragments paginated 29, 31, 31, 3L [i.i. 31]</p>
-            <p>Two loose pages paginated 32 and 33, but not consecutive with the rest, on verso p. 32 is p. 185 of <emph rend="italic">Between the Acts</emph> <!-- find out which draft --></p>
+            <p>Two loose pages paginated 32 and 33, but not consecutive with the rest, on verso p. 32 is p. 185 of <hi rend="italic">Between the Acts</hi> <!-- find out which draft --></p>
           </physDesc>
         </msDesc>
       </sourceDesc>
@@ -56,9 +56,11 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="m111-3.xml">
-        <p>
+      <div xml:id="m111-3.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-1/860,74,178,162/full/0/default.tif">
           <l>29</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-1/855,208,1818,1876/full/0/default.tif">
           <l>Anonymity was a great possession. It gave the early writing</l>
           <l>an impersonality, a generality. It gave us the 
             <choice>
@@ -113,7 +115,7 @@
           <l>something that we have learnt when we read the plays to which</l>
           <l>no one has troubled to set a name.</l>
         </p>
-        <p> <!-- come back to additions in this para! -->
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-1/827,2076,1794,1252/full/0/default.tif"> <!-- come back to additions in this para! -->
           <l>But at 
             <choice>
               <sic>asome</sic>
@@ -170,11 +172,12 @@
             </choice></l>
         </p>
       </div>
-      <div xml:id="m111-3.2">
-        <p>
+      <div xml:id="m111-3.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-2" />
+      <div xml:id="m111-3.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-3/893,66,145,166/full/0/default.tif">
           <l>31</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-3/743,192,1929,2788/full/0/default.tif">
           <l>The great house that <rs type="person" ref="../resources/annotations.xml#psn-hlat">Latimer</rs> deplored becomes</l>
           <l>solid and entire in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif">Anne Clifford</rs>s</l>
           <l>diary. From childhood she was tenacious of her hereditary</l>
@@ -278,14 +281,19 @@
             </choice> right. Certain flesh and blood--</l>
         </p>
       </div>
-      <div xml:id="m111-3.3">
-        <p>
+      <div xml:id="m111-2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-4" />
+      <div xml:id="m111-3.3r" n="3 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-5/915,100,193,202/full/0/default.tif">
           <l>31</l>
-          <l>xmxmxmmxmxmx.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-5/1091,186,413,134/full/0/default.tif">
+          <l>xmxmxRmxmxmx.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-5/978,300,1562,228/full/0/default.tif">
           <l>Some speculations on the life and person of the</l>
           <l>Reader.</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-5/859,488,1794,2836/full/0/default.tif">
           <l>We can suppose that the reading public was brought into</l>
           <l>existence by two causesl when the playhouse was shut down in</l>
           <l>       <!-- 1642 -->; and, less 
@@ -341,9 +349,15 @@
             </choice> playhouse, through their</l>
         </p>
       </div>
-      <div xml:id="m111-3.4">
-        <p>
-          <l>3L</l>
+      <div xml:id="m111-3.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-6" />
+      <div xml:id="m111-3.4r" n="4 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7/784,32,190,182/full/0/default.tif">
+          <l><choice>
+            <sic>3L</sic>
+            <corr>31</corr>
+          </choice></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7/756,176,1788,796/full/0/default.tif">
           <l>venerable institutions were being 
             <choice>
               <sic>critisiced</sic>
@@ -364,21 +378,22 @@
           <l>express their meaning, prose was not yet serviceable;</l>
           <l>the critical spirit had no proper tool.</l>
         </p>
-        <p hand="ms">
+        <p hand="ms" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7/680,972,1492,460/full/0/default.tif">
           <l>And in fact the dramatists were not [depicting?]</l>
           <l>society. They were showing men &amp; women</l>
           <l>themselves <del hand="ms">they were</del></l>
           <l>the <del hand="ms">gulf silence</del></l>
         </p>
-        <p hand="ms">
+        <p hand="ms" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7/360,1432,2372,2020/full/0/default.tif">
           <l><del hand="ms">So</del> Anonymity thus lay over the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs><!-- come back to this... --></l>
         </p>
       </div>
-      <div xml:id="m111-3.5">
-        <p>
+      <div xml:id="m111-3.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-8" />
+      <div xml:id="m111-3.5r" n="5 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-9">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-9/888,32,188,244/full/0/default.tif">
           <l>32</l>
         </p>
-        <p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-9/840,252,1772,1140/full/0/default.tif">
           <l>But if we cease to consider the plays 
             <choice>
               <sic>separetly</sic>
@@ -404,17 +419,21 @@
           <l>were pressing their weight were discharging their</l>
           <l>emotion into that vast cauldron of seething matter which </l>
           <l>at last <rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeare</rs> struck out into his plays.</l>
-        </p>
+        </p> <!-- pencil additions on the big screen -->
       </div>
-      <div xml:id="m111-3.6">
-        <p>
+      <div xml:id="m111-3.5v" n="5 verso" facs="">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/894,114,194,150/full/0/default.tif">
           <l>185</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/848,244,1692,260/full/0/default.tif">
           <l>the horse had a green tail… What had happened 
             <choice>
               <sic>tp</sic>
               <corr>to</corr>
             </choice> her?</l>
           <l>When she looked out again, the flowers had vanished.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/804,476,1868,740/full/0/default.tif">
           <l><rs type="person" ref="../resources/annotations.xml#psn-bart">
             <choice>
               <sic>Bartholo mew</sic>
@@ -425,66 +444,70 @@
           <l>beetle, rolling pebbles of baked earth through the glistening</l>
           <l>stubble. In that rosy corner of the sun baked field,</l>
           <l>Bartholomew, <rs type="person" ref="../resources/annotations.xml#psn-gile">Giles</rs> and <rs type="person" ref="../resources/annotations.xml#psn-lucy">Lucy</rs>, polished and nibbled, and broke off crumbs,</l>
-          </p>
-          <p>
-            <l>"A gentleman at <rs type="place" ref="../resources/annotations.xml#pla-surb">
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/800,1240,1868,228/full/0/default.tif">
+          <l>"A gentleman at <rs type="place" ref="../resources/annotations.xml#pla-surb">
+            <choice>
+              <sic>Subriton</sic>
+              <corr>Surbiton</corr>
+            </choice></rs> has seen a <rs type="object" ref="../resources/annotations.xml#obj-comm">comma</rs> in his</l>
+          <l>garden" Bartholomew announced.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/816,1448,1868,228/full/0/default.tif">
+          <l>The butterfly that looks 
               <choice>
-                <sic>Subriton</sic>
-                <corr>Surbiton</corr>
-              </choice></rs> has seen a <rs type="object" ref="../resources/annotations.xml#obj-comm">comma</rs> in his</l>
-            <l>garden" Bartholomew announced.</l>
-          </p>
-          <p>
-            <l>The butterfly that looks 
-               <choice>
-                <sic>life</sic>
-                <corr>like</corr>
-              </choice> a leaf? Lucy queried.</l>
-            <l>looking up from her letter.</l>
-            <l>The newspaper dropped.</l>
-          </p>
-          <p>
-            <l>"Done?" said Giles taking it from his fathers hand.</l>
-          </p>
-          <p>
-            <l>The old man relinquished his paper. He basked,</l>
-            <l><del hand="ms">silently</del>, in the mixed light; one hand, caressing the dog,</l>
-            <l>xixlxcx rippled folds of skin towards the collar.</l>
-            <l>The clock ticked; the house gave little cracks as if it</l>
-            <l>were very brittle, very dry. <rs type="person" ref="../resources/annotations.xml#psn-isa">Isa</rs> hand on the window sill</l>
-            <l>suddenly felt cold. Shadow had obliterated the garden.</l>
-            <l>Roses had 
-              <choice>
-                <sic>withdarwn</sic>
-                <corr>withdrawn</corr>
-              </choice> fxxm <add hand="typewriter" place="above">for</add> the night.	Mrs Swithin,</l>
-            <l>folding her letter, 
-              <choice>
-                <sic>l ant</sic>
-                <corr>leant</corr>
-              </choice> towards Isa and said; "I looked</l>
-            <l>in and saw the babies; so happy; with the paper flowers on</l>
-            <l>their cots.</l>
-          </p>
-          <p>
-            <l>Giles looked up from his newspaper; Isa became a</l>
-            <l>mother again, and also a wife.</l>
-          </p>
+              <sic>life</sic>
+              <corr>like</corr>
+            </choice> a leaf? Lucy queried.</l>
+          <l>looking up from her letter.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/824,1672,1860,124/full/0/default.tif">
+          <l>The newspaper dropped.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/828,1776,1860,124/full/0/default.tif">
+          <l>"Done?" said Giles taking it from his fathers hand.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/820,1888,1892,1084/full/0/default.tif">
+          <l>The old man relinquished his paper. He basked,</l>
+          <l><del hand="ms">silently</del>, in the mixed light; one hand, caressing the dog,</l>
+          <l>xixlxcx rippled folds of skin towards the collar.</l>
+          <l>The clock ticked; the house gave little cracks as if it</l>
+          <l>were very brittle, very dry. <rs type="person" ref="../resources/annotations.xml#psn-isa">Isa</rs> hand on the window sill</l>
+          <l>suddenly felt cold. Shadow had obliterated the garden.</l>
+          <l>Roses had 
+            <choice>
+              <sic>withdarwn</sic>
+              <corr>withdrawn</corr>
+            </choice> fxxm <add hand="typewriter" place="above">for</add> the night.	Mrs Swithin,</l>
+          <l>folding her letter, 
+            <choice>
+              <sic>l ant</sic>
+              <corr>leant</corr>
+            </choice> towards Isa and said; "I looked</l>
+          <l>in and saw the babies; so happy; with the paper flowers on</l>
+          <l>their cots.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/840,2956,1844,316/full/0/default.tif">
+          <l>Giles looked up from his newspaper; Isa became a</l>
+          <l>mother again, and also a wife.</l>
+        </p>
      </div>
-     <div xml:id="m111-3.7">
-      <p>
+     <div xml:id="m111-3.6r" n="6 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11">
+      <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11/916,58,190,174/full/0/default.tif">
         <l>33</l>
+      </p>
+      <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11/996,188,1274,146/full/0/default.tif">
         <l>In every 
           <choice>
             <sic>Elizabethna</sic>
             <corr>Elizabethan</corr>
           </choice> play sunk beyond recall.</l>
       </p>
-      <p>
+      <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11/916,316,1572,212/full/0/default.tif">
         <l>If xmxmxmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxm</l>
         <l>somxmxmxmxmxmxmxmx</l>
       </p>
-      <p>
+      <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11/824,544,1892,2420/full/0/default.tif">
         <l>The <del hand="typewriter">life</del> The reader then is born sometime in</l>
         <l>the 
           <choice>
@@ -548,12 +571,13 @@
           </choice>, his style, his conception</l>
         <l>it is then that he brings the reader into existence.</l>
       </p>
-      <p>
+      <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11/868,2948,1828,340/full/0/default.tif">
         <l>The life history of the reader from Elizabethan</l>
         <l>times to our own is full of obscurity. At some point his</l>
         <l>ear must have been much more acute than it is now; his sight</l>
       </p>
     </div>
+    <div xml:id="m111-3.6v" n="6 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-12" />
     </body>
   </text>
 </TEI>
