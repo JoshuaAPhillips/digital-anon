@@ -35,26 +35,33 @@ class Parser():
 
         global idno
         idno = root.find('.//{http://www.tei-c.org/ns/1.0}msIdentifier/{http://www.tei-c.org/ns/1.0}idno')
-        print(idno.text)
+        #print(idno.text)
 
         # get children of divs which have @facs attributes
 
         facs = root.findall('.//{http://www.tei-c.org/ns/1.0}div/{http://www.tei-c.org/ns/1.0}*[@facs]')
 
-        # return children as list of strings
-
-        element_list = []
-
-        for element in facs:
-
-            child_string = ET.tostring(element, encoding="unicode")
-            list_element = ({
-                "facs": element.attrib,
-                "value": child_string
-            })
-            element_list.append(list_element)
-        print(element_list)
-        return element_list
+        # exports list of facs attribs
     
-test = Parser()
-test.parse()
+        global facs_list
+
+        facs_list = []
+        for i in facs:
+            facs_list.append(i.attrib)
+        #print(facs_list)
+
+        # exports list of children fo each @facs attrib
+
+        global child_list
+
+        child_list = []
+
+        for i in facs:
+            child_string = ET.tostring(i, encoding="unicode")
+            child_list.append(child_string)
+        #print(child_list)
+
+        return facs_list, child_list
+    
+parser = Parser()
+parser.parse()

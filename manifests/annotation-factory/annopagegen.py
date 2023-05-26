@@ -1,46 +1,51 @@
 import json
 import xmlparser
-from xmlparser import Parser
-from IIIFpres import iiifpapi3
-
-
-class annotationPage:
-
-    # initialises class
-
-    def __init__(self) -> None:
-        return
+from xmlparser import *
     
-    # streams xml from xmlparser()
+# streams xml from xmlparser()
 
-    def xmlParser(self):
-        xml = xmlparser.Parser()
-        print(xml)
+def xmlParser():
+    global idno, xml, facs_list, child_list
 
-    # returns JSON file
+    idno = xmlparser.idno.text
+    facs_list = xmlparser.facs_list
+    child_list = xmlparser.child_list
 
-    def toJson(self):
-        items = []
-        for item in self.items:
-            item = {
-                "id": id,
-                "type": "Annotation",
-                "motivation": "Commenting",
-                "body": {
-                    "type": "TextualBody",
-                    "language": "en",
-                    "format": "text/html",
-                    "value": self.annotation_value
-                }
+    # print(idno, xml)
+
+    return idno, facs_list, child_list
+
+# creates JSON
+
+def toJson(idno, facs_list, child_list):
+
+    global annotation_page
+    annotation_page = {
+        "@context": "http://iiif.io/api/presentation/3/context.json",
+        "id": f"https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/{idno}-annotations.json",
+        "type": "Manifest",
+        "items": []
+    }
+
+    for i in child_list:
+        counter = 1
+        annotation = {
+            "id": f"https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/{idno}-annotation-{counter}.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": facs_list[counter],
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": child_list[counter]
             }
-            items.append(item)
-
-        annotationPage = {
-            "@context": self.context,
-            "id": self.page_id,
-            "type": "AnnotationPage",
-            "items": self.items
         }
-        return json.dumps(annotationPage, indent=4)
-    
-test = annotationPage()
+        annotation_page["items"].append(annotation)
+        counter += 1
+
+xmlParser()
+toJson(idno, facs_list, child_list)
+
+print(json.dumps(annotation_page, indent=4))
+
