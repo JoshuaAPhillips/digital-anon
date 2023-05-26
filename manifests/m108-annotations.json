@@ -1,0 +1,733 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotations.json",
+    "type": "Manifest",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation-1.json",
+            "type": "Annotation",
+            "motivation": "Commenting",
+            "target": {
+                "facs": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif"
+            },
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "body": [
+                    "<ns0:p xmlns:ns0=\"http://www.tei-c.org/ns/1.0\" facs=\"https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/723,280,1938,804/full/0/default.tif\">",
+                    "<ns0:l>There is a jolt at the points. Lovely as the words are,</ns0:l>",
+                    "<ns0:l>the mind slides on to a another rail. To speak them the poet</ns0:l>",
+                    "<ns0:l>has separated t himself from the",
+                    "<ns0:choice>",
+                    "<ns0:sic>actirs</ns0:sic>",
+                    "<ns0:corr>actors</ns0:corr>",
+                    "</ns0:choice>. He cannot yet make</ns0:l>",
+                    "<ns0:l><ns0:rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\">Tamburlaine</ns0:rs> speak those words with his own lips. The play</ns0:l>",
+                    "<ns0:l>is still in part the work of the",
+                    "<ns0:choice>",
+                    "<ns0:sic>undiffrenetiated</ns0:sic>",
+                    "<ns0:corr>undifferentiated</ns0:corr>",
+                    "</ns0:choice> audience,</ns0:l>",
+                    "<ns0:l>demanding great names, great deeds, simple outlines,</ns0:l>",
+                    "<ns0:l>and not the single subtlety of one soul.</ns0:l>",
+                    "</ns0:p>",
+                    ""
+                ]
+            }
+        }
+    ]
+}
