@@ -11,7 +11,7 @@ def getfilename():
     filename = input("Please enter the metadata filename: ")
 
     global xml_file 
-    xml_file = '../../transcriptions/v2/{}'.format(filename)
+    xml_file = '../../transcriptions/{}'.format(filename)
     return xml_file
 
 # parses root and streams to metadataParse()
