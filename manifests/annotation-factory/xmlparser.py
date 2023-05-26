@@ -49,8 +49,8 @@ class Parser():
 
         facs_list = []
         for i in facs:
-            facs_list.append(i.attrib)
-        #print(facs_list)
+            facs_list.append(i.attrib["facs"])
+        print(facs_list)
 
         # exports list of children for each @facs attrib
 
@@ -72,6 +72,6 @@ class Parser():
         #print(child_list)
 
         return facs_list, child_list
-    
+
 parser = Parser()
 parser.parse()
