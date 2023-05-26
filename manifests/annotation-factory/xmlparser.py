@@ -14,7 +14,7 @@ class Parser():
     def getFile(self):
         filename = sys.argv[-1]
         xmlfile = PATH + filename
-        #mprint(xmlfile)
+        # print(xmlfile)
         return xmlfile
     
     # parses root and streams to metadataParse()
@@ -33,6 +33,7 @@ class Parser():
 
         # get idno for document
 
+        global idno
         idno = root.find('.//{http://www.tei-c.org/ns/1.0}msIdentifier/{http://www.tei-c.org/ns/1.0}idno')
         print(idno.text)
 
@@ -40,8 +41,13 @@ class Parser():
 
         facs = root.findall('.//{http://www.tei-c.org/ns/1.0}div/{http://www.tei-c.org/ns/1.0}*[@facs]')
 
-        # return children as string
+        """
+        for i in facs:
+            print(i.attrib)
+        xml"""
 
+        # return children as string
+        
         for element in facs:
             # print(i.attrib)
             child_string = ET.tostring(element, encoding="unicode")
