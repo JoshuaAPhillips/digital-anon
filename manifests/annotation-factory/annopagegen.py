@@ -49,3 +49,6 @@ toJson(idno, facs_list, child_list)
 
 print(json.dumps(annotation_page, indent=4))
 
+with open (f"{idno}-annotations.json", "w") as json_file:
+    json.dump(annotation_page, json_file, indent=4)
+

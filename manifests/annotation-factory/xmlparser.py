@@ -17,7 +17,7 @@ class Parser():
         # print(xmlfile)
         return xmlfile
     
-    # parses root and streams to metadataParse()
+    # gets root and streams to parse()
 
     def getRoot(self):
         xmlfile = self.getFile()
@@ -25,6 +25,8 @@ class Parser():
 
         root = tree.getroot()
         return root
+    
+    #  parses root and gets idno, list of @facs attribs and list of 
     
     def parse(self):
         xmlfile = self.getFile()
@@ -50,15 +52,23 @@ class Parser():
             facs_list.append(i.attrib)
         #print(facs_list)
 
-        # exports list of children fo each @facs attrib
+        # exports list of children for each @facs attrib
 
         global child_list
 
         child_list = []
 
         for i in facs:
-            child_string = ET.tostring(i, encoding="unicode")
-            child_list.append(child_string)
+            raw_child_string = ET.tostring(i, encoding="unicode")
+            sanitised_string_list = []
+
+            # sanitises list of children
+
+            split_child_string = raw_child_string.split("\n")
+            for j in split_child_string:
+                child_string = j.strip()
+                sanitised_string_list.append(child_string)
+            child_list.append(sanitised_string_list)
         #print(child_list)
 
         return facs_list, child_list
