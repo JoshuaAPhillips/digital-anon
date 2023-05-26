@@ -4,7 +4,7 @@ import sys
 global filename
 PATH = '../../transcriptions/'
 
-class Parser:
+class Parser():
     
     def __init__(self) -> None:
         return
@@ -29,7 +29,7 @@ class Parser:
     def parse(self):
         xmlfile = self.getFile()
         root = self.getRoot()
-        print(root)
+        # print(root)
 
         # get idno for document
 
@@ -42,12 +42,12 @@ class Parser:
 
         # return children as string
 
-        for i in facs:
-            print(i.attrib)
-            child_string = ET.tostring(i, encoding="unicode")
+        for element in facs:
+            # print(i.attrib)
+            child_string = ET.tostring(element, encoding="unicode")
 
-            # print(child_string)
-            return child_string
+            print(child_string)
+        return child_string
 
     
 test = Parser()
