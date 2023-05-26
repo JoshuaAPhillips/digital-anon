@@ -1,17 +1,21 @@
 import json
-import os
+import xmlparser
+from xmlparser import Parser
+from IIIFpres import iiifpapi3
+
 
 class annotationPage:
 
     # initialises class
 
-    def __init__(self, context, page_id, type, items) -> None:
-        self.context = context
-        self.page_id = page_id
-        self.type = type
-        self.items = items
+    def __init__(self) -> None:
+        return
+    
+    # streams xml from xmlparser()
 
-    # ???
+    def xmlParser(self):
+        xml = xmlparser.Parser()
+        print(xml)
 
     # returns JSON file
 
@@ -38,3 +42,5 @@ class annotationPage:
             "items": self.items
         }
         return json.dumps(annotationPage, indent=4)
+    
+test = annotationPage()
