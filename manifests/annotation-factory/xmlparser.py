@@ -41,20 +41,20 @@ class Parser():
 
         facs = root.findall('.//{http://www.tei-c.org/ns/1.0}div/{http://www.tei-c.org/ns/1.0}*[@facs]')
 
-        """
-        for i in facs:
-            print(i.attrib)
-        xml"""
+        # return children as list of strings
 
-        # return children as string
-        
+        element_list = []
+
         for element in facs:
-            # print(i.attrib)
+
             child_string = ET.tostring(element, encoding="unicode")
-
-            print(child_string)
-        return child_string
-
+            list_element = ({
+                "facs": element.attrib,
+                "value": child_string
+            })
+            element_list.append(list_element)
+        print(element_list)
+        return element_list
     
 test = Parser()
 test.parse()
