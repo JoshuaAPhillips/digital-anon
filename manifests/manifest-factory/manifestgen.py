@@ -43,8 +43,13 @@ def manifestFactory():
     thumb.set_hightwidth("386", "300")
     thumb.add_label("en", "Thumbnail")
 
+    # sets annotation page information
 
-        # sets provider information
+    annotations = manifest.add_annotationpage_to_annotations()
+    annotations.set_id("https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/{}-annotations.json".format(metadata_dict["idno"]))
+    
+
+    # sets provider information
 
     provider = manifest.add_provider()
     provider.set_id("https://www2.societyofauthors.org")
