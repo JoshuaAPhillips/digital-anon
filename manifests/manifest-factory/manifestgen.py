@@ -23,7 +23,7 @@ def manifestFactory():
 
     # sets manifest-level properties
 
-    iiifpapi3.BASE_URL = "https://iiif.io/api/cookbook/recipe/0009-book-1/"
+    iiifpapi3.BASE_URL = "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/"
     manifest = iiifpapi3.Manifest()
     manifest.set_id("https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/{}-manifest.json".format(metadata_dict["idno"]))
     manifest.add_label("en",metadata_dict["title"])
@@ -82,9 +82,9 @@ def manifestFactory():
 
             # add annotation (i.e., facsimile taking up entire canvas) to annopage and provide information
 
-            annopage.set_id(extendbase_url="page/p%s/1"%idx)
+            annopage.set_id(extendbase_url="{}/{}".format(metadata_dict["idno"], metadata_dict["idno"]) + "-{}".format(idx + 1))
             annotation = annopage.add_annotation_to_items(target=canvas.id)
-            annotation.set_id(extendbase_url="annotation/p%s-image"%str(idx).zfill(4))
+            annotation.set_id(extendbase_url="{}/{}".format(metadata_dict["idno"], metadata_dict["idno"]) + "-{}".format(idx + 1))
             annotation.set_motivation("painting")
             annotation.body.set_id(data[idx][3])
             annotation.body.set_type("Image")
