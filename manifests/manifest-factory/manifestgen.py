@@ -62,7 +62,7 @@ def manifestFactory():
         for idx, i in enumerate(data):
 
             canvas = manifest.add_canvas_to_items()
-            canvas.set_id(extendbase_url="canvas/p%s"%idx)
+            canvas.set_id(extendbase_url="{}/{}".format(metadata_dict["idno"], metadata_dict["idno"]) + "-{}".format(idx + 1))
             canvas.set_height(data[idx][2])
             canvas.set_width(data[idx][1])
             canvas.add_label("en", data[idx][0])
