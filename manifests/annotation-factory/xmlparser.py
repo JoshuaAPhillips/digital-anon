@@ -1,77 +1,106 @@
-import xml.etree.ElementTree as ET
+import requests
+from bs4 import BeautifulSoup
+from pprint import pprint as pp
+import json
 import sys
 
-global filename
-PATH = '../../transcriptions/'
+BASE_URL = 'https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/transcriptions/'
 
-class Parser():
-    
-    def __init__(self) -> None:
-        return
-    
-    # gets file path for parsing
+class xmlParser:
 
-    def getFile(self):
-        filename = sys.argv[-1]
-        xmlfile = PATH + filename
-        # print(xmlfile)
-        return xmlfile
-    
-    # gets root and streams to parse()
+  def __init__(self) -> None:
+    return
 
-    def getRoot(self):
-        xmlfile = self.getFile()
-        tree = ET.parse(xmlfile)
+  def getFilename(self):
+    """
+    gets name of XML file to open and appends to BASE_URL
+    """
+    global idno
+    idno = sys.argv[-1]
+    filename = BASE_URL + idno
+    return filename
 
-        root = tree.getroot()
-        return root
-    
-    #  parses root and gets idno, list of @facs attribs and list of 
-    
-    def parse(self):
-        xmlfile = self.getFile()
-        root = self.getRoot()
-        # print(root)
+  def getFile(self):
 
-        # get idno for document
+    """
+    requests XML from address specified in {filename}
+    """
 
-        global idno
-        idno = root.find('.//{http://www.tei-c.org/ns/1.0}msIdentifier/{http://www.tei-c.org/ns/1.0}idno')
-        #print(idno.text)
+    filename = self.getFilename()
 
-        # get children of divs which have @facs attributes
+    print(f"Loading file from URL: {filename}")
+    r = requests.get(filename)
+    return r
 
-        facs = root.findall('.//{http://www.tei-c.org/ns/1.0}div/{http://www.tei-c.org/ns/1.0}*[@facs]')
+  def makeSoup(self):
 
-        # exports list of facs attribs
-    
-        global facs_list
+    """
+    returns text of requested file as a BeautifulSoup object
+    """
 
-        facs_list = []
-        for i in facs:
-            facs_list.append(i.attrib["facs"])
-        print(facs_list)
+    r = self.getFile()
+    soup = BeautifulSoup(r.text, 'xml')
+    return soup
+  
+  def allDivs(self):
+    soup = self.makeSoup()
+    all_divs = soup.find_all('div')
+    return all_divs
 
-        # exports list of children for each @facs attrib
+  def facsDict(self):
 
-        global child_list
+    """
+    returns a dictionary of facs attributes arranged by div
+    """
 
-        child_list = []
+    all_divs = self.allDivs()
 
-        for i in facs:
-            raw_child_string = ET.tostring(i, encoding="unicode")
-            sanitised_string_list = []
+    facs_dict = {}
+    for div in all_divs:
+        parent_facs = div.get('facs')
+        children = div.find_all(attrs={'facs': True})
+        
+        child_facs_list = []
+        
+        for child in children:
+            child_facs_list.append(child.get('facs'))
+        
+        facs_dict[parent_facs] = child_facs_list
+    return facs_dict
 
-            # sanitises list of children
+  """def childDict(self):
+      
+      
+      returns a dictionary of child attributes arranged by div --- doesn't work...
+      
+      all_divs = self.allDivs()
 
-            split_child_string = raw_child_string.split("\n")
-            for j in split_child_string:
-                child_string = j.strip()
-                sanitised_string_list.append(child_string)
-            child_list.append(sanitised_string_list)
-        #print(child_list)
+      n = [div.get("n") for div in all_divs]
+      pp(n)
 
-        return facs_list, child_list
+      for div in all_divs:
+         child_sublist = []
+         for child in div:
+            sub_child = str(child).strip()
+            child_sublist.append(sub_child)
 
-parser = Parser()
-parser.parse()
+      child_dict = dict(zip(n, child_sublist))
+      return child_dict
+"""
+  def toJson(self):
+     
+     """
+     saves dicts to Json
+     """
+     facs_dict = self.facsDict()
+     child_dict = self.childDict()
+
+     with open ('./annodata/{}-facs.json'.format(idno.strip('.xml')), 'w') as json_file:
+        json.dump(facs_dict, json_file, indent=4)
+
+     """
+     with open ('./annodata/{}-children.json'.format(idno.strip('.xml')), 'w') as json_file:
+        json.dump(child_dict, json_file, indent=4)
+     """
+test = xmlParser()
+test.toJson()
