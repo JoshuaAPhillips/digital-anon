@@ -1,0 +1,6308 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.10.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "digital-anon-names-test-3.tsv",
+    "name" : "digital-anon-names-test-3.tsv",
+    "SUID" : 3809,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "4982",
+        "shared_name" : "Bacons",
+        "name" : "Bacons",
+        "SUID" : 4982,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1283.9159627948288,
+        "y" : -715.4970306052259
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4977",
+        "shared_name" : "Herberts",
+        "name" : "Herberts",
+        "SUID" : 4977,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1185.9355855975632,
+        "y" : -680.3593505515149
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4975",
+        "shared_name" : "Fyttons",
+        "name" : "Fyttons",
+        "SUID" : 4975,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1204.508995631743,
+        "y" : -782.799063075929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4955",
+        "shared_name" : "Marston",
+        "name" : "Marston",
+        "SUID" : 4955,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -388.6771768536088,
+        "y" : -295.6435054434827
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4935",
+        "shared_name" : "his wife",
+        "name" : "his wife",
+        "SUID" : 4935,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -740.9231637920853,
+        "y" : 24.79020084008664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4897",
+        "shared_name" : "Marlowe",
+        "name" : "Marlowe",
+        "SUID" : 4897,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -440.2437051739213,
+        "y" : -286.49787365332156
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4889",
+        "shared_name" : "Camelot",
+        "name" : "Camelot",
+        "SUID" : 4889,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -444.20355929989785,
+        "y" : 24.79020084008664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4884",
+        "shared_name" : "",
+        "name" : "",
+        "SUID" : 4884,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 736.7334524188522,
+        "y" : 63.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4882",
+        "shared_name" : "Leland",
+        "name" : "Leland",
+        "SUID" : 4882,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 739.7509046588424,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4865",
+        "shared_name" : "Raleigh",
+        "name" : "Raleigh",
+        "SUID" : 4865,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -246.22318210263222,
+        "y" : 22.706018100828828
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4860",
+        "shared_name" : "Elizabeth",
+        "name" : "Elizabeth",
+        "SUID" : 4860,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -344.20355929989785,
+        "y" : 57.843698154539766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4858",
+        "shared_name" : "Bacon",
+        "name" : "Bacon",
+        "SUID" : 4858,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -325.63014926571816,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4850",
+        "shared_name" : "Malory",
+        "name" : "Malory",
+        "SUID" : 4850,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -743.3542093243119,
+        "y" : -674.664053310304
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4842",
+        "shared_name" : "B",
+        "name" : "B",
+        "SUID" : 4842,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -6.483085056733785,
+        "y" : -782.799063075929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4828",
+        "shared_name" : "Morgan Le Fay",
+        "name" : "Morgan Le Fay",
+        "SUID" : 4828,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 941.8205333743575,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4826",
+        "shared_name" : "Merlin",
+        "name" : "Merlin",
+        "SUID" : 4826,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 839.7509046588424,
+        "y" : -24.179022182374297
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4818",
+        "shared_name" : "Essex",
+        "name" : "Essex",
+        "SUID" : 4818,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 404.55564174990684,
+        "y" : -680.0204681052259
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4807",
+        "shared_name" : "              Malory",
+        "name" : "              Malory",
+        "SUID" : 4807,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 838.1626707110885,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4805",
+        "shared_name" : "              Malry",
+        "name" : "              Malry",
+        "SUID" : 4805,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 938.1626707110885,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4791",
+        "shared_name" : "                Marlowe",
+        "name" : "                Marlowe",
+        "SUID" : 4791,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1038.1626707110886,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4789",
+        "shared_name" : "                Marloew",
+        "name" : "                Marloew",
+        "SUID" : 4789,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1138.1626707110886,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4787",
+        "shared_name" : "              Raphael",
+        "name" : "              Raphael",
+        "SUID" : 4787,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -937.6427682842728,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4785",
+        "shared_name" : "               a hael",
+        "name" : "               a hael",
+        "SUID" : 4785,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -837.6427682842728,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4783",
+        "shared_name" : "              Michelangelo",
+        "name" : "              Michelangelo",
+        "SUID" : 4783,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -737.6427682842728,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4781",
+        "shared_name" : "              Michael Angelo",
+        "name" : "              Michael Angelo",
+        "SUID" : 4781,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -637.6427682842728,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4779",
+        "shared_name" : "              Shakeapere",
+        "name" : "              Shakeapere",
+        "SUID" : 4779,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -537.6427682842728,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4741",
+        "shared_name" : "                Falstaff",
+        "name" : "                Falstaff",
+        "SUID" : 4741,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -437.64276828427285,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4739",
+        "shared_name" : "                Flastaff",
+        "name" : "                Flastaff",
+        "SUID" : 4739,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -337.64276828427285,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4737",
+        "shared_name" : "              Cleopatra",
+        "name" : "              Cleopatra",
+        "SUID" : 4737,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -237.64276828427285,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4735",
+        "shared_name" : "              Cleoptara",
+        "name" : "              Cleoptara",
+        "SUID" : 4735,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -137.64276828427285,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4721",
+        "shared_name" : "               Bacon",
+        "name" : "               Bacon",
+        "SUID" : 4721,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 102.72031460146934,
+        "y" : -670.6189483298352
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4719",
+        "shared_name" : "                Anne",
+        "name" : "                Anne",
+        "SUID" : 4719,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -37.64276828427285,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4717",
+        "shared_name" : "                An",
+        "name" : "                An",
+        "SUID" : 4717,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 62.35723171572715,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4715",
+        "shared_name" : "Lady ",
+        "name" : "Lady ",
+        "SUID" : 4715,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -125.28148593564003,
+        "y" : -681.0715850485852
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4701",
+        "shared_name" : "Pastons",
+        "name" : "Pastons",
+        "SUID" : 4701,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 202.72031460146934,
+        "y" : -681.5155852927259
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4687",
+        "shared_name" : "                Browne",
+        "name" : "                Browne",
+        "SUID" : 4687,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 162.35723171572715,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4685",
+        "shared_name" : "                Brwone",
+        "name" : "                Brwone",
+        "SUID" : 4685,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 262.35723171572715,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4680",
+        "shared_name" : "Sir Thomas ",
+        "name" : "Sir Thomas ",
+        "SUID" : 4680,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -657.9319070782182,
+        "y" : -448.2927917136243
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4675",
+        "shared_name" : "Spenser",
+        "name" : "Spenser",
+        "SUID" : 4675,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -548.8600381817338,
+        "y" : -450.4560912741712
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4637",
+        "shared_name" : "Henricus Cornleius Agrippa",
+        "name" : "Henricus Cornleius Agrippa",
+        "SUID" : 4637,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -373.02269687314003,
+        "y" : -637.4503387106946
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4629",
+        "shared_name" : "              Wycliffe",
+        "name" : "              Wycliffe",
+        "SUID" : 4629,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 362.35723171572715,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4627",
+        "shared_name" : "              Wychillfe",
+        "name" : "              Wychillfe",
+        "SUID" : 4627,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 462.35723171572715,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4622",
+        "shared_name" : " ",
+        "name" : " ",
+        "SUID" : 4622,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -907.2523721661088,
+        "y" : -525.8827727927259
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4617",
+        "shared_name" : "                Marlowes",
+        "name" : "                Marlowes",
+        "SUID" : 4617,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 562.3572317157272,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4615",
+        "shared_name" : "                arlow",
+        "name" : "                arlow",
+        "SUID" : 4615,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 662.3572317157272,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4613",
+        "shared_name" : "                Shakespeares",
+        "name" : "                Shakespeares",
+        "SUID" : 4613,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 762.3572317157272,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4611",
+        "shared_name" : "                Shakesperaes",
+        "name" : "                Shakesperaes",
+        "SUID" : 4611,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 862.3572317157272,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4603",
+        "shared_name" : "John",
+        "name" : "John",
+        "SUID" : 4603,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -444.62926425595253,
+        "y" : -782.799063075929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4559",
+        "shared_name" : "Morris",
+        "name" : "Morris",
+        "SUID" : 4559,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 563.11792812686,
+        "y" : -782.799063075929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4551",
+        "shared_name" : "Lord Surrey",
+        "name" : "Lord Surrey",
+        "SUID" : 4551,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1143.8901620898728,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4549",
+        "shared_name" : "duchess of Norfolk",
+        "name" : "duchess of Norfolk",
+        "SUID" : 4549,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1041.8205333743576,
+        "y" : -24.179022182374297
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4541",
+        "shared_name" : "Rivers",
+        "name" : "Rivers",
+        "SUID" : 4541,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -856.9837492908952,
+        "y" : 225.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4539",
+        "shared_name" : "Moll Neville",
+        "name" : "Moll Neville",
+        "SUID" : 4539,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -937.6427682842728,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4531",
+        "shared_name" : "Anon",
+        "name" : "Anon",
+        "SUID" : 4531,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -640.9231637920853,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4529",
+        "shared_name" : "Malorys",
+        "name" : "Malorys",
+        "SUID" : 4529,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -540.8643869366166,
+        "y" : -14.087271083741484
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4524",
+        "shared_name" : "              Langland",
+        "name" : "              Langland",
+        "SUID" : 4524,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 962.3572317157272,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4522",
+        "shared_name" : "              Langdale",
+        "name" : "              Langdale",
+        "SUID" : 4522,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1062.3572317157273,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4517",
+        "shared_name" : "marlowes",
+        "name" : "marlowes",
+        "SUID" : 4517,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -826.4200052227494,
+        "y" : -380.1114028586438
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4515",
+        "shared_name" : "              Sahkespeares",
+        "name" : "              Sahkespeares",
+        "SUID" : 4515,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1162.3572317157273,
+        "y" : 325.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4501",
+        "shared_name" : "                Cicero",
+        "name" : "                Cicero",
+        "SUID" : 4501,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -937.6427682842728,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4499",
+        "shared_name" : "                Civero",
+        "name" : "                Civero",
+        "SUID" : 4499,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -837.6427682842728,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4491",
+        "shared_name" : "             Agrippa",
+        "name" : "             Agrippa",
+        "SUID" : 4491,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -225.28148593564003,
+        "y" : -624.5772308005384
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4489",
+        "shared_name" : "              Cornelius",
+        "name" : "              Cornelius",
+        "SUID" : 4489,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -737.6427682842728,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4487",
+        "shared_name" : "              Conrnilus",
+        "name" : "              Conrnilus",
+        "SUID" : 4487,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -637.6427682842728,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4446",
+        "shared_name" : "Marcus Cato",
+        "name" : "Marcus Cato",
+        "SUID" : 4446,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -240.81975497860878,
+        "y" : -489.9925750388196
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4426",
+        "shared_name" : "Lydgates",
+        "name" : "Lydgates",
+        "SUID" : 4426,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -48.2428049053666,
+        "y" : 22.706018100828828
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4421",
+        "shared_name" : "Gowers",
+        "name" : "Gowers",
+        "SUID" : 4421,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -146.22318210263222,
+        "y" : 57.843698154539766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4419",
+        "shared_name" : "Chaucers",
+        "name" : "Chaucers",
+        "SUID" : 4419,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -127.64977206845253,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4387",
+        "shared_name" : "Burton",
+        "name" : "Burton",
+        "SUID" : 4387,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -654.91412057538,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4385",
+        "shared_name" : "Thomas Browne",
+        "name" : "Thomas Browne",
+        "SUID" : 4385,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -756.9837492908952,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4365",
+        "shared_name" : "Dekker",
+        "name" : "Dekker",
+        "SUID" : 4365,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -411.58885898251503,
+        "y" : -144.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4363",
+        "shared_name" : "                Spenser",
+        "name" : "                Spenser",
+        "SUID" : 4363,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -537.6427682842728,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4361",
+        "shared_name" : "                Spencer",
+        "name" : "                Spencer",
+        "SUID" : 4361,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -437.64276828427285,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4359",
+        "shared_name" : "              Jonson",
+        "name" : "              Jonson",
+        "SUID" : 4359,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -337.64276828427285,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4357",
+        "shared_name" : "              Josnon",
+        "name" : "              Josnon",
+        "SUID" : 4357,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -237.64276828427285,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4352",
+        "shared_name" : "Ben",
+        "name" : "Ben",
+        "SUID" : 4352,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -806.07298984189,
+        "y" : -288.92442261114627
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4308",
+        "shared_name" : "Suetonius",
+        "name" : "Suetonius",
+        "SUID" : 4308,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -312.30065097470253,
+        "y" : -612.1277373923352
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4306",
+        "shared_name" : "Henricus Cornelius Agrippa",
+        "name" : "Henricus Cornelius Agrippa",
+        "SUID" : 4306,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -332.69798984189003,
+        "y" : -475.7474578513196
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4286",
+        "shared_name" : "Langland",
+        "name" : "Langland",
+        "SUID" : 4286,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -692.8235391582963,
+        "y" : -570.8759978903821
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4284",
+        "shared_name" : "Chaucer",
+        "name" : "Chaucer",
+        "SUID" : 4284,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -606.6986612286088,
+        "y" : -517.5247710837415
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4282",
+        "shared_name" : "              Marlowes",
+        "name" : "              Marlowes",
+        "SUID" : 4282,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -137.64276828427285,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4280",
+        "shared_name" : "               arlowes",
+        "name" : "               arlowes",
+        "SUID" : 4280,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -37.64276828427285,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4278",
+        "shared_name" : "              Shakespeares",
+        "name" : "              Shakespeares",
+        "SUID" : 4278,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 62.35723171572715,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4276",
+        "shared_name" : "              Shakspres",
+        "name" : "              Shakspres",
+        "SUID" : 4276,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 162.35723171572715,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4268",
+        "shared_name" : "Paycockes",
+        "name" : "Paycockes",
+        "SUID" : 4268,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 303.6558118854049,
+        "y" : -711.1712707175305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4266",
+        "shared_name" : "Betsons",
+        "name" : "Betsons",
+        "SUID" : 4266,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 226.61454449038536,
+        "y" : -782.799063075929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4261",
+        "shared_name" : "Anne Erwin",
+        "name" : "Anne Erwin",
+        "SUID" : 4261,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -690.5008157696244,
+        "y" : -227.0531905783704
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4259",
+        "shared_name" : "              Sheffield",
+        "name" : "              Sheffield",
+        "SUID" : 4259,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 262.35723171572715,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4257",
+        "shared_name" : "              Dheffiled",
+        "name" : "              Dheffiled",
+        "SUID" : 4257,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 362.35723171572715,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4243",
+        "shared_name" : "Cliffords,",
+        "name" : "Cliffords,",
+        "SUID" : 4243,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -757.3466104473588,
+        "y" : -248.46339260473758
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4241",
+        "shared_name" : "              Russells",
+        "name" : "              Russells",
+        "SUID" : 4241,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 462.35723171572715,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4239",
+        "shared_name" : "              Rissells",
+        "name" : "              Rissells",
+        "SUID" : 4239,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 562.3572317157272,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4237",
+        "shared_name" : "Stanleys",
+        "name" : "Stanleys",
+        "SUID" : 4237,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -776.6581644024369,
+        "y" : -347.51488720312625
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4211",
+        "shared_name" : "Ford",
+        "name" : "Ford",
+        "SUID" : 4211,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -359.5149454082963,
+        "y" : -221.6846145285657
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4209",
+        "shared_name" : "Tourneur",
+        "name" : "Tourneur",
+        "SUID" : 4209,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -465.54161777157753,
+        "y" : -216.36911617651492
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4195",
+        "shared_name" : "                Marston",
+        "name" : "                Marston",
+        "SUID" : 4195,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 662.3572317157272,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4193",
+        "shared_name" : "                Marts n",
+        "name" : "                Marts n",
+        "SUID" : 4193,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 762.3572317157272,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4188",
+        "shared_name" : "Heywood",
+        "name" : "Heywood",
+        "SUID" : 4188,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -501.10216464657753,
+        "y" : -327.9883006705335
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4183",
+        "shared_name" : "Kyd",
+        "name" : "Kyd",
+        "SUID" : 4183,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -511.9099649395463,
+        "y" : -402.9134658469251
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4181",
+        "shared_name" : "              Marlowe",
+        "name" : "              Marlowe",
+        "SUID" : 4181,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 862.3572317157272,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4179",
+        "shared_name" : "              Marloew",
+        "name" : "              Marloew",
+        "SUID" : 4179,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 962.3572317157272,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4171",
+        "shared_name" : "Acton",
+        "name" : "Acton",
+        "SUID" : 4171,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -474.25510158200234,
+        "y" : 225.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4169",
+        "shared_name" : "Wendoll",
+        "name" : "Wendoll",
+        "SUID" : 4169,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -554.91412057538,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4161",
+        "shared_name" : "wife",
+        "name" : "wife",
+        "SUID" : 4161,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -937.6427682842728,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4159",
+        "shared_name" : "Frankland",
+        "name" : "Frankland",
+        "SUID" : 4159,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -837.5839914288041,
+        "y" : -14.087271083741484
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4157",
+        "shared_name" : "                Chaucer's",
+        "name" : "                Chaucer's",
+        "SUID" : 4157,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1062.3572317157273,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4155",
+        "shared_name" : "                C aucers",
+        "name" : "                C aucers",
+        "SUID" : 4155,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1162.3572317157273,
+        "y" : 425.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4153",
+        "shared_name" : "              Ann Clifford",
+        "name" : "              Ann Clifford",
+        "SUID" : 4153,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -937.6427682842728,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4151",
+        "shared_name" : "              AnnnClifford",
+        "name" : "              AnnnClifford",
+        "SUID" : 4151,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -837.6427682842728,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4125",
+        "shared_name" : "Cicero",
+        "name" : "Cicero",
+        "SUID" : 4125,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -258.98717441220253,
+        "y" : -552.0541442526868
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4120",
+        "shared_name" : "Pliny",
+        "name" : "Pliny",
+        "SUID" : 4120,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -358.35057773251503,
+        "y" : -537.1801971091321
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4118",
+        "shared_name" : "                Suetonius",
+        "name" : "                Suetonius",
+        "SUID" : 4118,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -737.6427682842728,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4116",
+        "shared_name" : "                Suetoniius",
+        "name" : "                Suetoniius",
+        "SUID" : 4116,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -637.6427682842728,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4114",
+        "shared_name" : "Agrippa",
+        "name" : "Agrippa",
+        "SUID" : 4114,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -294.5562051739213,
+        "y" : -469.7132781638196
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4106",
+        "shared_name" : "Wycliffe",
+        "name" : "Wycliffe",
+        "SUID" : 4106,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -721.78002109189,
+        "y" : -493.33203731909305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4098",
+        "shared_name" : "Shakespeares",
+        "name" : "Shakespeares",
+        "SUID" : 4098,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 248.4767995868209,
+        "y" : 24.79020084008664
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4090",
+        "shared_name" : "Skinner",
+        "name" : "Skinner",
+        "SUID" : 4090,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -272.1854728664872,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4088",
+        "shared_name" : "Cole",
+        "name" : "Cole",
+        "SUID" : 4088,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -374.25510158200234,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4071",
+        "shared_name" : "Pully",
+        "name" : "Pully",
+        "SUID" : 4071,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 419.6090017352584,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4066",
+        "shared_name" : "Crot",
+        "name" : "Crot",
+        "SUID" : 4066,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 448.1705251727584,
+        "y" : 52.6704651223132
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4064",
+        "shared_name" : "Nin",
+        "name" : "Nin",
+        "SUID" : 4064,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 348.4767995868209,
+        "y" : 27.778985630125703
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4050",
+        "shared_name" : "Peter",
+        "name" : "Peter",
+        "SUID" : 4050,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -517.8953165020463,
+        "y" : -602.6702178610852
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4048",
+        "shared_name" : "                John",
+        "name" : "                John",
+        "SUID" : 4048,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -537.6427682842728,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4046",
+        "shared_name" : "                Jogn",
+        "name" : "                Jogn",
+        "SUID" : 4046,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -437.64276828427285,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4044",
+        "shared_name" : "Geoffrey",
+        "name" : "Geoffrey",
+        "SUID" : 4044,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -448.3057168926713,
+        "y" : -669.1153472556165
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4036",
+        "shared_name" : "Browning",
+        "name" : "Browning",
+        "SUID" : 4036,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 504.55564174990684,
+        "y" : -599.1958678854993
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4028",
+        "shared_name" : "Gabriel Spenser",
+        "name" : "Gabriel Spenser",
+        "SUID" : 4028,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 785.8292318377975,
+        "y" : -782.799063075929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4020",
+        "shared_name" : "Kyds",
+        "name" : "Kyds",
+        "SUID" : 4020,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 51.7571950946334,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4018",
+        "shared_name" : "Marlowes",
+        "name" : "Marlowes",
+        "SUID" : 4018,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 151.81597195010215,
+        "y" : -14.087271083741484
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4010",
+        "shared_name" : "Mary",
+        "name" : "Mary",
+        "SUID" : 4010,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -70.11584415097207,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4008",
+        "shared_name" : "Sir Edward Fytton",
+        "name" : "Sir Edward Fytton",
+        "SUID" : 4008,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -172.1854728664872,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4000",
+        "shared_name" : "Mr W H.",
+        "name" : "Mr W H.",
+        "SUID" : 4000,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 131.95378456454307,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3998",
+        "shared_name" : "poet",
+        "name" : "poet",
+        "SUID" : 3998,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 29.884155849027934,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3981",
+        "shared_name" : "Sir Robert",
+        "name" : "Sir Robert",
+        "SUID" : 3981,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -624.7945169414994,
+        "y" : -237.14915310278445
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3979",
+        "shared_name" : "              Whyte",
+        "name" : "              Whyte",
+        "SUID" : 3979,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -337.64276828427285,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3977",
+        "shared_name" : "              W ite",
+        "name" : "              W ite",
+        "SUID" : 3977,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -237.64276828427285,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3972",
+        "shared_name" : "Roland ",
+        "name" : "Roland ",
+        "SUID" : 3972,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -600.6670450176713,
+        "y" : -324.2312873496106
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3970",
+        "shared_name" : "Lord Rutland",
+        "name" : "Lord Rutland",
+        "SUID" : 3970,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -704.8572915997025,
+        "y" : -293.00925623312503
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3965",
+        "shared_name" : "            Morris",
+        "name" : "            Morris",
+        "SUID" : 3965,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 685.8292318377975,
+        "y" : -678.9330352438977
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3963",
+        "shared_name" : "              orris",
+        "name" : "              orris",
+        "SUID" : 3963,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -137.64276828427285,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3961",
+        "shared_name" : "Tennyson",
+        "name" : "Tennyson",
+        "SUID" : 3961,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 575.4561849627975,
+        "y" : -678.0322021140149
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3953",
+        "shared_name" : "Pergolesi",
+        "name" : "Pergolesi",
+        "SUID" : 3953,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 334.0234132800582,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3951",
+        "shared_name" : "Angelo",
+        "name" : "Angelo",
+        "SUID" : 3951,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 231.95378456454307,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3949",
+        "shared_name" : "              ",
+        "name" : "              ",
+        "SUID" : 3949,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -442.33226718564003,
+        "y" : -507.914785732179
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3947",
+        "shared_name" : "                Michelangelo",
+        "name" : "                Michelangelo",
+        "SUID" : 3947,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -37.64276828427285,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3945",
+        "shared_name" : "                Michael",
+        "name" : "                Michael",
+        "SUID" : 3945,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 62.35723171572715,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3943",
+        "shared_name" : "              Shakespeare",
+        "name" : "              Shakespeare",
+        "SUID" : 3943,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 162.35723171572715,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3941",
+        "shared_name" : "              Sahekeapere",
+        "name" : "              Sahekeapere",
+        "SUID" : 3941,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 262.35723171572715,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3936",
+        "shared_name" : "Lydgate",
+        "name" : "Lydgate",
+        "SUID" : 3936,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -806.9789651836869,
+        "y" : -444.9063933981946
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3934",
+        "shared_name" : "              Chaucer",
+        "name" : "              Chaucer",
+        "SUID" : 3934,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 362.35723171572715,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3932",
+        "shared_name" : "              Cahucer",
+        "name" : "              Cahucer",
+        "SUID" : 3932,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 462.35723171572715,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3924",
+        "shared_name" : "her son",
+        "name" : "her son",
+        "SUID" : 3924,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -11.28047885556191,
+        "y" : -675.689932216554
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3922",
+        "shared_name" : "Ann Bacon",
+        "name" : "Ann Bacon",
+        "SUID" : 3922,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -16.05776157040566,
+        "y" : -571.6720489157727
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3914",
+        "shared_name" : "Ben Jonson",
+        "name" : "Ben Jonson",
+        "SUID" : 3914,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 879.7852407489303,
+        "y" : -740.924177516847
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3912",
+        "shared_name" : "            ",
+        "name" : "            ",
+        "SUID" : 3912,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -676.8680337872025,
+        "y" : -380.62793575659305
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3910",
+        "shared_name" : "              Holinshed",
+        "name" : "              Holinshed",
+        "SUID" : 3910,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 562.3572317157272,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3908",
+        "shared_name" : "              Holingshed",
+        "name" : "              Holingshed",
+        "SUID" : 3908,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 662.3572317157272,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3906",
+        "shared_name" : "          ",
+        "name" : "          ",
+        "SUID" : 3906,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -937.6427682842728,
+        "y" : -429.5453246726087
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3904",
+        "shared_name" : "            Henslowe",
+        "name" : "            Henslowe",
+        "SUID" : 3904,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 762.3572317157272,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3902",
+        "shared_name" : "            Hensloew",
+        "name" : "            Hensloew",
+        "SUID" : 3902,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 862.3572317157272,
+        "y" : 525.4373108254382
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3894",
+        "shared_name" : "Lucy",
+        "name" : "Lucy",
+        "SUID" : 3894,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 536.0930419955733,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3892",
+        "shared_name" : "Giles",
+        "name" : "Giles",
+        "SUID" : 3892,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 434.0234132800582,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3869",
+        "shared_name" : "Bradley",
+        "name" : "Bradley",
+        "SUID" : 3869,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 636.7334524188522,
+        "y" : 7.205316196531953
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3864",
+        "shared_name" : "Coleridge",
+        "name" : "Coleridge",
+        "SUID" : 3864,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 548.1705251727584,
+        "y" : 57.0286194191882
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3862",
+        "shared_name" : "Johnson",
+        "name" : "Johnson",
+        "SUID" : 3862,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 549.3408742938522,
+        "y" : -44.5960143698743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3854",
+        "shared_name" : "Jonson",
+        "name" : "Jonson",
+        "SUID" : 3854,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1085.9355855975632,
+        "y" : -725.9180205954602
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3852",
+        "shared_name" : "Sidney",
+        "name" : "Sidney",
+        "SUID" : 3852,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 984.3200460467818,
+        "y" : -721.3515304221204
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3839",
+        "shared_name" : "Essays and Moll Neville in the Faery Queen.\"",
+        "name" : "Essays and Moll Neville in the Faery Queen.\"",
+        "SUID" : 3839,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 738.1626707110885,
+        "y" : 163.1261535988757
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3837",
+        "shared_name" : "Montaignes",
+        "name" : "Montaignes",
+        "SUID" : 3837,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 636.0930419955733,
+        "y" : 183.5431457863757
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "4996",
+        "source" : "4982",
+        "target" : "4977",
+        "shared_name" : "Bacons (interacts with) Herberts",
+        "shared_interaction" : "interacts with",
+        "name" : "Bacons (interacts with) Herberts",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4996,
+        "BEND_MAP_ID" : 4996,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4993",
+        "source" : "4982",
+        "target" : "4975",
+        "shared_name" : "Bacons (interacts with) Fyttons",
+        "shared_interaction" : "interacts with",
+        "name" : "Bacons (interacts with) Fyttons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4993,
+        "BEND_MAP_ID" : 4993,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4990",
+        "source" : "4977",
+        "target" : "4982",
+        "shared_name" : "Herberts (interacts with) Bacons",
+        "shared_interaction" : "interacts with",
+        "name" : "Herberts (interacts with) Bacons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4990,
+        "BEND_MAP_ID" : 4990,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4987",
+        "source" : "4977",
+        "target" : "4975",
+        "shared_name" : "Herberts (interacts with) Fyttons",
+        "shared_interaction" : "interacts with",
+        "name" : "Herberts (interacts with) Fyttons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4987,
+        "BEND_MAP_ID" : 4987,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4984",
+        "source" : "4975",
+        "target" : "4982",
+        "shared_name" : "Fyttons (interacts with) Bacons",
+        "shared_interaction" : "interacts with",
+        "name" : "Fyttons (interacts with) Bacons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4984,
+        "BEND_MAP_ID" : 4984,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4979",
+        "source" : "4975",
+        "target" : "4977",
+        "shared_name" : "Fyttons (interacts with) Herberts",
+        "shared_interaction" : "interacts with",
+        "name" : "Fyttons (interacts with) Herberts",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4979,
+        "BEND_MAP_ID" : 4979,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4966",
+        "source" : "4955",
+        "target" : "4209",
+        "shared_name" : "Marston (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Marston (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4966,
+        "BEND_MAP_ID" : 4966,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4963",
+        "source" : "4955",
+        "target" : "4188",
+        "shared_name" : "Marston (interacts with) Heywood",
+        "shared_interaction" : "interacts with",
+        "name" : "Marston (interacts with) Heywood",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4963,
+        "BEND_MAP_ID" : 4963,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4940",
+        "source" : "4935",
+        "target" : "4159",
+        "shared_name" : "his wife (interacts with) Frankland",
+        "shared_interaction" : "interacts with",
+        "name" : "his wife (interacts with) Frankland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4940,
+        "BEND_MAP_ID" : 4940,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4949",
+        "source" : "4897",
+        "target" : "4183",
+        "shared_name" : "Marlowe (interacts with) Kyd",
+        "shared_interaction" : "interacts with",
+        "name" : "Marlowe (interacts with) Kyd",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4949,
+        "BEND_MAP_ID" : 4949,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4905",
+        "source" : "4897",
+        "target" : "4211",
+        "shared_name" : "Marlowe (interacts with) Ford",
+        "shared_interaction" : "interacts with",
+        "name" : "Marlowe (interacts with) Ford",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4905,
+        "BEND_MAP_ID" : 4905,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4902",
+        "source" : "4897",
+        "target" : "4209",
+        "shared_name" : "Marlowe (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Marlowe (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4902,
+        "BEND_MAP_ID" : 4902,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4899",
+        "source" : "4897",
+        "target" : "4365",
+        "shared_name" : "Marlowe (interacts with) Dekker",
+        "shared_interaction" : "interacts with",
+        "name" : "Marlowe (interacts with) Dekker",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4899,
+        "BEND_MAP_ID" : 4899,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4891",
+        "source" : "4889",
+        "target" : "4529",
+        "shared_name" : "Camelot (interacts with) Malorys",
+        "shared_interaction" : "interacts with",
+        "name" : "Camelot (interacts with) Malorys",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4891,
+        "BEND_MAP_ID" : 4891,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4886",
+        "source" : "4884",
+        "target" : "4882",
+        "shared_name" : " (interacts with) Leland",
+        "shared_interaction" : "interacts with",
+        "name" : " (interacts with) Leland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4886,
+        "BEND_MAP_ID" : 4886,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4879",
+        "source" : "4865",
+        "target" : "4860",
+        "shared_name" : "Raleigh (interacts with) Elizabeth",
+        "shared_interaction" : "interacts with",
+        "name" : "Raleigh (interacts with) Elizabeth",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4879,
+        "BEND_MAP_ID" : 4879,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4876",
+        "source" : "4865",
+        "target" : "4858",
+        "shared_name" : "Raleigh (interacts with) Bacon",
+        "shared_interaction" : "interacts with",
+        "name" : "Raleigh (interacts with) Bacon",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4876,
+        "BEND_MAP_ID" : 4876,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4873",
+        "source" : "4860",
+        "target" : "4865",
+        "shared_name" : "Elizabeth (interacts with) Raleigh",
+        "shared_interaction" : "interacts with",
+        "name" : "Elizabeth (interacts with) Raleigh",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4873,
+        "BEND_MAP_ID" : 4873,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4870",
+        "source" : "4860",
+        "target" : "4858",
+        "shared_name" : "Elizabeth (interacts with) Bacon",
+        "shared_interaction" : "interacts with",
+        "name" : "Elizabeth (interacts with) Bacon",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4870,
+        "BEND_MAP_ID" : 4870,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4867",
+        "source" : "4858",
+        "target" : "4865",
+        "shared_name" : "Bacon (interacts with) Raleigh",
+        "shared_interaction" : "interacts with",
+        "name" : "Bacon (interacts with) Raleigh",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4867,
+        "BEND_MAP_ID" : 4867,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4862",
+        "source" : "4858",
+        "target" : "4860",
+        "shared_name" : "Bacon (interacts with) Elizabeth",
+        "shared_interaction" : "interacts with",
+        "name" : "Bacon (interacts with) Elizabeth",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4862,
+        "BEND_MAP_ID" : 4862,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4855",
+        "source" : "4850",
+        "target" : "4286",
+        "shared_name" : "Malory (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "Malory (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4855,
+        "BEND_MAP_ID" : 4855,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4844",
+        "source" : "4842",
+        "target" : "3924",
+        "shared_name" : "B (interacts with) her son",
+        "shared_interaction" : "interacts with",
+        "name" : "B (interacts with) her son",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4844,
+        "BEND_MAP_ID" : 4844,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4833",
+        "source" : "4828",
+        "target" : "4826",
+        "shared_name" : "Morgan Le Fay (interacts with) Merlin",
+        "shared_interaction" : "interacts with",
+        "name" : "Morgan Le Fay (interacts with) Merlin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4833,
+        "BEND_MAP_ID" : 4833,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4830",
+        "source" : "4826",
+        "target" : "4828",
+        "shared_name" : "Merlin (interacts with) Morgan Le Fay",
+        "shared_interaction" : "interacts with",
+        "name" : "Merlin (interacts with) Morgan Le Fay",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4830,
+        "BEND_MAP_ID" : 4830,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4823",
+        "source" : "4818",
+        "target" : "4268",
+        "shared_name" : "Essex (interacts with) Paycockes",
+        "shared_interaction" : "interacts with",
+        "name" : "Essex (interacts with) Paycockes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4823,
+        "BEND_MAP_ID" : 4823,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4723",
+        "source" : "4721",
+        "target" : "3924",
+        "shared_name" : "               Bacon (interacts with) her son",
+        "shared_interaction" : "interacts with",
+        "name" : "               Bacon (interacts with) her son",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4723,
+        "BEND_MAP_ID" : 4723,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4812",
+        "source" : "4701",
+        "target" : "4266",
+        "shared_name" : "Pastons (interacts with) Betsons",
+        "shared_interaction" : "interacts with",
+        "name" : "Pastons (interacts with) Betsons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4812,
+        "BEND_MAP_ID" : 4812,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4703",
+        "source" : "4701",
+        "target" : "4268",
+        "shared_name" : "Pastons (interacts with) Paycockes",
+        "shared_interaction" : "interacts with",
+        "name" : "Pastons (interacts with) Paycockes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4703,
+        "BEND_MAP_ID" : 4703,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4692",
+        "source" : "4675",
+        "target" : "4680",
+        "shared_name" : "Spenser (interacts with) Sir Thomas ",
+        "shared_interaction" : "interacts with",
+        "name" : "Spenser (interacts with) Sir Thomas ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4692,
+        "BEND_MAP_ID" : 4692,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4689",
+        "source" : "4675",
+        "target" : "4284",
+        "shared_name" : "Spenser (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "Spenser (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4689,
+        "BEND_MAP_ID" : 4689,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4645",
+        "source" : "4637",
+        "target" : "4125",
+        "shared_name" : "Henricus Cornleius Agrippa (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Henricus Cornleius Agrippa (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4645,
+        "BEND_MAP_ID" : 4645,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4642",
+        "source" : "4637",
+        "target" : "4120",
+        "shared_name" : "Henricus Cornleius Agrippa (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Henricus Cornleius Agrippa (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4642,
+        "BEND_MAP_ID" : 4642,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4639",
+        "source" : "4637",
+        "target" : "4308",
+        "shared_name" : "Henricus Cornleius Agrippa (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Henricus Cornleius Agrippa (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4639,
+        "BEND_MAP_ID" : 4639,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4608",
+        "source" : "4603",
+        "target" : "4044",
+        "shared_name" : "John (interacts with) Geoffrey",
+        "shared_interaction" : "interacts with",
+        "name" : "John (interacts with) Geoffrey",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4608,
+        "BEND_MAP_ID" : 4608,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4561",
+        "source" : "4559",
+        "target" : "3961",
+        "shared_name" : "Morris (interacts with) Tennyson",
+        "shared_interaction" : "interacts with",
+        "name" : "Morris (interacts with) Tennyson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4561,
+        "BEND_MAP_ID" : 4561,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4556",
+        "source" : "4551",
+        "target" : "4549",
+        "shared_name" : "Lord Surrey (interacts with) duchess of Norfolk",
+        "shared_interaction" : "interacts with",
+        "name" : "Lord Surrey (interacts with) duchess of Norfolk",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4556,
+        "BEND_MAP_ID" : 4556,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4553",
+        "source" : "4549",
+        "target" : "4551",
+        "shared_name" : "duchess of Norfolk (interacts with) Lord Surrey",
+        "shared_interaction" : "interacts with",
+        "name" : "duchess of Norfolk (interacts with) Lord Surrey",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4553,
+        "BEND_MAP_ID" : 4553,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4802",
+        "source" : "4541",
+        "target" : "4539",
+        "shared_name" : "Rivers (interacts with) Moll Neville",
+        "shared_interaction" : "interacts with",
+        "name" : "Rivers (interacts with) Moll Neville",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4802,
+        "BEND_MAP_ID" : 4802,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4546",
+        "source" : "4541",
+        "target" : "4539",
+        "shared_name" : "Rivers (interacts with) Moll Neville",
+        "shared_interaction" : "interacts with",
+        "name" : "Rivers (interacts with) Moll Neville",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4546,
+        "BEND_MAP_ID" : 4546,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4799",
+        "source" : "4539",
+        "target" : "4541",
+        "shared_name" : "Moll Neville (interacts with) Rivers",
+        "shared_interaction" : "interacts with",
+        "name" : "Moll Neville (interacts with) Rivers",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4799,
+        "BEND_MAP_ID" : 4799,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4543",
+        "source" : "4539",
+        "target" : "4541",
+        "shared_name" : "Moll Neville (interacts with) Rivers",
+        "shared_interaction" : "interacts with",
+        "name" : "Moll Neville (interacts with) Rivers",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4543,
+        "BEND_MAP_ID" : 4543,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4536",
+        "source" : "4531",
+        "target" : "4529",
+        "shared_name" : "Anon (interacts with) Malorys",
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Malorys",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4536,
+        "BEND_MAP_ID" : 4536,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4894",
+        "source" : "4529",
+        "target" : "4889",
+        "shared_name" : "Malorys (interacts with) Camelot",
+        "shared_interaction" : "interacts with",
+        "name" : "Malorys (interacts with) Camelot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4894,
+        "BEND_MAP_ID" : 4894,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4533",
+        "source" : "4529",
+        "target" : "4531",
+        "shared_name" : "Malorys (interacts with) Anon",
+        "shared_interaction" : "interacts with",
+        "name" : "Malorys (interacts with) Anon",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4533,
+        "BEND_MAP_ID" : 4533,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4496",
+        "source" : "4491",
+        "target" : "4120",
+        "shared_name" : "             Agrippa (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "             Agrippa (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4496,
+        "BEND_MAP_ID" : 4496,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4493",
+        "source" : "4491",
+        "target" : "4308",
+        "shared_name" : "             Agrippa (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "             Agrippa (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4493,
+        "BEND_MAP_ID" : 4493,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4469",
+        "source" : "4446",
+        "target" : "4125",
+        "shared_name" : "Marcus Cato (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Marcus Cato (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4469,
+        "BEND_MAP_ID" : 4469,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4466",
+        "source" : "4446",
+        "target" : "4120",
+        "shared_name" : "Marcus Cato (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Marcus Cato (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4466,
+        "BEND_MAP_ID" : 4466,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4463",
+        "source" : "4446",
+        "target" : "4308",
+        "shared_name" : "Marcus Cato (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Marcus Cato (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4463,
+        "BEND_MAP_ID" : 4463,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4440",
+        "source" : "4426",
+        "target" : "4421",
+        "shared_name" : "Lydgates (interacts with) Gowers",
+        "shared_interaction" : "interacts with",
+        "name" : "Lydgates (interacts with) Gowers",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4440,
+        "BEND_MAP_ID" : 4440,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4437",
+        "source" : "4426",
+        "target" : "4419",
+        "shared_name" : "Lydgates (interacts with) Chaucers",
+        "shared_interaction" : "interacts with",
+        "name" : "Lydgates (interacts with) Chaucers",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4437,
+        "BEND_MAP_ID" : 4437,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4434",
+        "source" : "4421",
+        "target" : "4426",
+        "shared_name" : "Gowers (interacts with) Lydgates",
+        "shared_interaction" : "interacts with",
+        "name" : "Gowers (interacts with) Lydgates",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4434,
+        "BEND_MAP_ID" : 4434,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4431",
+        "source" : "4421",
+        "target" : "4419",
+        "shared_name" : "Gowers (interacts with) Chaucers",
+        "shared_interaction" : "interacts with",
+        "name" : "Gowers (interacts with) Chaucers",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4431,
+        "BEND_MAP_ID" : 4431,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4428",
+        "source" : "4419",
+        "target" : "4426",
+        "shared_name" : "Chaucers (interacts with) Lydgates",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucers (interacts with) Lydgates",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4428,
+        "BEND_MAP_ID" : 4428,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4423",
+        "source" : "4419",
+        "target" : "4421",
+        "shared_name" : "Chaucers (interacts with) Gowers",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucers (interacts with) Gowers",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4423,
+        "BEND_MAP_ID" : 4423,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4392",
+        "source" : "4387",
+        "target" : "4385",
+        "shared_name" : "Burton (interacts with) Thomas Browne",
+        "shared_interaction" : "interacts with",
+        "name" : "Burton (interacts with) Thomas Browne",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4392,
+        "BEND_MAP_ID" : 4392,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4389",
+        "source" : "4385",
+        "target" : "4387",
+        "shared_name" : "Thomas Browne (interacts with) Burton",
+        "shared_interaction" : "interacts with",
+        "name" : "Thomas Browne (interacts with) Burton",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4389,
+        "BEND_MAP_ID" : 4389,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4914",
+        "source" : "4365",
+        "target" : "4211",
+        "shared_name" : "Dekker (interacts with) Ford",
+        "shared_interaction" : "interacts with",
+        "name" : "Dekker (interacts with) Ford",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4914,
+        "BEND_MAP_ID" : 4914,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4911",
+        "source" : "4365",
+        "target" : "4209",
+        "shared_name" : "Dekker (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Dekker (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4911,
+        "BEND_MAP_ID" : 4911,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4908",
+        "source" : "4365",
+        "target" : "4897",
+        "shared_name" : "Dekker (interacts with) Marlowe",
+        "shared_interaction" : "interacts with",
+        "name" : "Dekker (interacts with) Marlowe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4908,
+        "BEND_MAP_ID" : 4908,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4370",
+        "source" : "4365",
+        "target" : "4211",
+        "shared_name" : "Dekker (interacts with) Ford",
+        "shared_interaction" : "interacts with",
+        "name" : "Dekker (interacts with) Ford",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4370,
+        "BEND_MAP_ID" : 4370,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4367",
+        "source" : "4365",
+        "target" : "4209",
+        "shared_name" : "Dekker (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Dekker (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4367,
+        "BEND_MAP_ID" : 4367,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4764",
+        "source" : "4308",
+        "target" : "4125",
+        "shared_name" : "Suetonius (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4764,
+        "BEND_MAP_ID" : 4764,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4761",
+        "source" : "4308",
+        "target" : "4120",
+        "shared_name" : "Suetonius (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4761,
+        "BEND_MAP_ID" : 4761,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4654",
+        "source" : "4308",
+        "target" : "4125",
+        "shared_name" : "Suetonius (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4654,
+        "BEND_MAP_ID" : 4654,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4651",
+        "source" : "4308",
+        "target" : "4120",
+        "shared_name" : "Suetonius (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4651,
+        "BEND_MAP_ID" : 4651,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4648",
+        "source" : "4308",
+        "target" : "4637",
+        "shared_name" : "Suetonius (interacts with) Henricus Cornleius Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Henricus Cornleius Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4648,
+        "BEND_MAP_ID" : 4648,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4582",
+        "source" : "4308",
+        "target" : "4125",
+        "shared_name" : "Suetonius (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4582,
+        "BEND_MAP_ID" : 4582,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4579",
+        "source" : "4308",
+        "target" : "4120",
+        "shared_name" : "Suetonius (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4579,
+        "BEND_MAP_ID" : 4579,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4576",
+        "source" : "4308",
+        "target" : "4114",
+        "shared_name" : "Suetonius (interacts with) Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4576,
+        "BEND_MAP_ID" : 4576,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4503",
+        "source" : "4308",
+        "target" : "4120",
+        "shared_name" : "Suetonius (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4503,
+        "BEND_MAP_ID" : 4503,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4451",
+        "source" : "4308",
+        "target" : "4125",
+        "shared_name" : "Suetonius (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4451,
+        "BEND_MAP_ID" : 4451,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4448",
+        "source" : "4308",
+        "target" : "4446",
+        "shared_name" : "Suetonius (interacts with) Marcus Cato",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Marcus Cato",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4448,
+        "BEND_MAP_ID" : 4448,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4443",
+        "source" : "4308",
+        "target" : "4120",
+        "shared_name" : "Suetonius (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4443,
+        "BEND_MAP_ID" : 4443,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4325",
+        "source" : "4308",
+        "target" : "4125",
+        "shared_name" : "Suetonius (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4325,
+        "BEND_MAP_ID" : 4325,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4322",
+        "source" : "4308",
+        "target" : "4120",
+        "shared_name" : "Suetonius (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4322,
+        "BEND_MAP_ID" : 4322,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4319",
+        "source" : "4308",
+        "target" : "4306",
+        "shared_name" : "Suetonius (interacts with) Henricus Cornelius Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Suetonius (interacts with) Henricus Cornelius Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4319,
+        "BEND_MAP_ID" : 4319,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4316",
+        "source" : "4306",
+        "target" : "4125",
+        "shared_name" : "Henricus Cornelius Agrippa (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Henricus Cornelius Agrippa (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4316,
+        "BEND_MAP_ID" : 4316,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4313",
+        "source" : "4306",
+        "target" : "4120",
+        "shared_name" : "Henricus Cornelius Agrippa (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Henricus Cornelius Agrippa (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4313,
+        "BEND_MAP_ID" : 4313,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4310",
+        "source" : "4306",
+        "target" : "4308",
+        "shared_name" : "Henricus Cornelius Agrippa (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Henricus Cornelius Agrippa (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4310,
+        "BEND_MAP_ID" : 4310,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4852",
+        "source" : "4286",
+        "target" : "4850",
+        "shared_name" : "Langland (interacts with) Malory",
+        "shared_interaction" : "interacts with",
+        "name" : "Langland (interacts with) Malory",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4852,
+        "BEND_MAP_ID" : 4852,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4839",
+        "source" : "4286",
+        "target" : "4284",
+        "shared_name" : "Langland (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "Langland (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4839,
+        "BEND_MAP_ID" : 4839,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4712",
+        "source" : "4286",
+        "target" : "4284",
+        "shared_name" : "Langland (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "Langland (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4712,
+        "BEND_MAP_ID" : 4712,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4481",
+        "source" : "4286",
+        "target" : "4284",
+        "shared_name" : "Langland (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "Langland (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4481,
+        "BEND_MAP_ID" : 4481,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4297",
+        "source" : "4286",
+        "target" : "4106",
+        "shared_name" : "Langland (interacts with) Wycliffe",
+        "shared_interaction" : "interacts with",
+        "name" : "Langland (interacts with) Wycliffe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4297,
+        "BEND_MAP_ID" : 4297,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4294",
+        "source" : "4286",
+        "target" : "4284",
+        "shared_name" : "Langland (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "Langland (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4294,
+        "BEND_MAP_ID" : 4294,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4836",
+        "source" : "4284",
+        "target" : "4286",
+        "shared_name" : "Chaucer (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4836,
+        "BEND_MAP_ID" : 4836,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4709",
+        "source" : "4284",
+        "target" : "4286",
+        "shared_name" : "Chaucer (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4709,
+        "BEND_MAP_ID" : 4709,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4682",
+        "source" : "4284",
+        "target" : "4680",
+        "shared_name" : "Chaucer (interacts with) Sir Thomas ",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Sir Thomas ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4682,
+        "BEND_MAP_ID" : 4682,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4677",
+        "source" : "4284",
+        "target" : "4675",
+        "shared_name" : "Chaucer (interacts with) Spenser",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Spenser",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4677,
+        "BEND_MAP_ID" : 4677,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4484",
+        "source" : "4284",
+        "target" : "4286",
+        "shared_name" : "Chaucer (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4484,
+        "BEND_MAP_ID" : 4484,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4291",
+        "source" : "4284",
+        "target" : "4106",
+        "shared_name" : "Chaucer (interacts with) Wycliffe",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Wycliffe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4291,
+        "BEND_MAP_ID" : 4291,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4288",
+        "source" : "4284",
+        "target" : "4286",
+        "shared_name" : "Chaucer (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "Chaucer (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4288,
+        "BEND_MAP_ID" : 4288,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4820",
+        "source" : "4268",
+        "target" : "4818",
+        "shared_name" : "Paycockes (interacts with) Essex",
+        "shared_interaction" : "interacts with",
+        "name" : "Paycockes (interacts with) Essex",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4820,
+        "BEND_MAP_ID" : 4820,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4706",
+        "source" : "4268",
+        "target" : "4701",
+        "shared_name" : "Paycockes (interacts with) Pastons",
+        "shared_interaction" : "interacts with",
+        "name" : "Paycockes (interacts with) Pastons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4706,
+        "BEND_MAP_ID" : 4706,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4273",
+        "source" : "4268",
+        "target" : "4266",
+        "shared_name" : "Paycockes (interacts with) Betsons",
+        "shared_interaction" : "interacts with",
+        "name" : "Paycockes (interacts with) Betsons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4273,
+        "BEND_MAP_ID" : 4273,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4815",
+        "source" : "4266",
+        "target" : "4701",
+        "shared_name" : "Betsons (interacts with) Pastons",
+        "shared_interaction" : "interacts with",
+        "name" : "Betsons (interacts with) Pastons",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4815,
+        "BEND_MAP_ID" : 4815,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4270",
+        "source" : "4266",
+        "target" : "4268",
+        "shared_name" : "Betsons (interacts with) Paycockes",
+        "shared_interaction" : "interacts with",
+        "name" : "Betsons (interacts with) Paycockes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4270,
+        "BEND_MAP_ID" : 4270,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4254",
+        "source" : "4243",
+        "target" : "4237",
+        "shared_name" : "Cliffords, (interacts with) Stanleys",
+        "shared_interaction" : "interacts with",
+        "name" : "Cliffords, (interacts with) Stanleys",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4254,
+        "BEND_MAP_ID" : 4254,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4245",
+        "source" : "4237",
+        "target" : "4243",
+        "shared_name" : "Stanleys (interacts with) Cliffords,",
+        "shared_interaction" : "interacts with",
+        "name" : "Stanleys (interacts with) Cliffords,",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4245,
+        "BEND_MAP_ID" : 4245,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4932",
+        "source" : "4211",
+        "target" : "4209",
+        "shared_name" : "Ford (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Ford (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4932,
+        "BEND_MAP_ID" : 4932,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4929",
+        "source" : "4211",
+        "target" : "4365",
+        "shared_name" : "Ford (interacts with) Dekker",
+        "shared_interaction" : "interacts with",
+        "name" : "Ford (interacts with) Dekker",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4929,
+        "BEND_MAP_ID" : 4929,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4926",
+        "source" : "4211",
+        "target" : "4897",
+        "shared_name" : "Ford (interacts with) Marlowe",
+        "shared_interaction" : "interacts with",
+        "name" : "Ford (interacts with) Marlowe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4926,
+        "BEND_MAP_ID" : 4926,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4382",
+        "source" : "4211",
+        "target" : "4209",
+        "shared_name" : "Ford (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Ford (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4382,
+        "BEND_MAP_ID" : 4382,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4379",
+        "source" : "4211",
+        "target" : "4365",
+        "shared_name" : "Ford (interacts with) Dekker",
+        "shared_interaction" : "interacts with",
+        "name" : "Ford (interacts with) Dekker",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4379,
+        "BEND_MAP_ID" : 4379,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4216",
+        "source" : "4211",
+        "target" : "4209",
+        "shared_name" : "Ford (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Ford (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4216,
+        "BEND_MAP_ID" : 4216,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4972",
+        "source" : "4209",
+        "target" : "4955",
+        "shared_name" : "Tourneur (interacts with) Marston",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Marston",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4972,
+        "BEND_MAP_ID" : 4972,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4969",
+        "source" : "4209",
+        "target" : "4188",
+        "shared_name" : "Tourneur (interacts with) Heywood",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Heywood",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4969,
+        "BEND_MAP_ID" : 4969,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4923",
+        "source" : "4209",
+        "target" : "4211",
+        "shared_name" : "Tourneur (interacts with) Ford",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Ford",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4923,
+        "BEND_MAP_ID" : 4923,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4920",
+        "source" : "4209",
+        "target" : "4365",
+        "shared_name" : "Tourneur (interacts with) Dekker",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Dekker",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4920,
+        "BEND_MAP_ID" : 4920,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4917",
+        "source" : "4209",
+        "target" : "4897",
+        "shared_name" : "Tourneur (interacts with) Marlowe",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Marlowe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4917,
+        "BEND_MAP_ID" : 4917,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4376",
+        "source" : "4209",
+        "target" : "4211",
+        "shared_name" : "Tourneur (interacts with) Ford",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Ford",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4376,
+        "BEND_MAP_ID" : 4376,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4373",
+        "source" : "4209",
+        "target" : "4365",
+        "shared_name" : "Tourneur (interacts with) Dekker",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Dekker",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4373,
+        "BEND_MAP_ID" : 4373,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4213",
+        "source" : "4209",
+        "target" : "4211",
+        "shared_name" : "Tourneur (interacts with) Ford",
+        "shared_interaction" : "interacts with",
+        "name" : "Tourneur (interacts with) Ford",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4213,
+        "BEND_MAP_ID" : 4213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4960",
+        "source" : "4188",
+        "target" : "4209",
+        "shared_name" : "Heywood (interacts with) Tourneur",
+        "shared_interaction" : "interacts with",
+        "name" : "Heywood (interacts with) Tourneur",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4960,
+        "BEND_MAP_ID" : 4960,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4957",
+        "source" : "4188",
+        "target" : "4955",
+        "shared_name" : "Heywood (interacts with) Marston",
+        "shared_interaction" : "interacts with",
+        "name" : "Heywood (interacts with) Marston",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4957,
+        "BEND_MAP_ID" : 4957,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4200",
+        "source" : "4188",
+        "target" : "4183",
+        "shared_name" : "Heywood (interacts with) Kyd",
+        "shared_interaction" : "interacts with",
+        "name" : "Heywood (interacts with) Kyd",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4200,
+        "BEND_MAP_ID" : 4200,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4952",
+        "source" : "4183",
+        "target" : "4897",
+        "shared_name" : "Kyd (interacts with) Marlowe",
+        "shared_interaction" : "interacts with",
+        "name" : "Kyd (interacts with) Marlowe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4952,
+        "BEND_MAP_ID" : 4952,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4197",
+        "source" : "4183",
+        "target" : "4188",
+        "shared_name" : "Kyd (interacts with) Heywood",
+        "shared_interaction" : "interacts with",
+        "name" : "Kyd (interacts with) Heywood",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4197,
+        "BEND_MAP_ID" : 4197,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4946",
+        "source" : "4171",
+        "target" : "4169",
+        "shared_name" : "Acton (interacts with) Wendoll",
+        "shared_interaction" : "interacts with",
+        "name" : "Acton (interacts with) Wendoll",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4946,
+        "BEND_MAP_ID" : 4946,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4176",
+        "source" : "4171",
+        "target" : "4169",
+        "shared_name" : "Acton (interacts with) Wendoll",
+        "shared_interaction" : "interacts with",
+        "name" : "Acton (interacts with) Wendoll",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4176,
+        "BEND_MAP_ID" : 4176,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4943",
+        "source" : "4169",
+        "target" : "4171",
+        "shared_name" : "Wendoll (interacts with) Acton",
+        "shared_interaction" : "interacts with",
+        "name" : "Wendoll (interacts with) Acton",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4943,
+        "BEND_MAP_ID" : 4943,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4173",
+        "source" : "4169",
+        "target" : "4171",
+        "shared_name" : "Wendoll (interacts with) Acton",
+        "shared_interaction" : "interacts with",
+        "name" : "Wendoll (interacts with) Acton",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4173,
+        "BEND_MAP_ID" : 4173,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4166",
+        "source" : "4161",
+        "target" : "4159",
+        "shared_name" : "wife (interacts with) Frankland",
+        "shared_interaction" : "interacts with",
+        "name" : "wife (interacts with) Frankland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4166,
+        "BEND_MAP_ID" : 4166,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4937",
+        "source" : "4159",
+        "target" : "4935",
+        "shared_name" : "Frankland (interacts with) his wife",
+        "shared_interaction" : "interacts with",
+        "name" : "Frankland (interacts with) his wife",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4937,
+        "BEND_MAP_ID" : 4937,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4163",
+        "source" : "4159",
+        "target" : "4161",
+        "shared_name" : "Frankland (interacts with) wife",
+        "shared_interaction" : "interacts with",
+        "name" : "Frankland (interacts with) wife",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4163,
+        "BEND_MAP_ID" : 4163,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4776",
+        "source" : "4125",
+        "target" : "4120",
+        "shared_name" : "Cicero (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4776,
+        "BEND_MAP_ID" : 4776,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4773",
+        "source" : "4125",
+        "target" : "4308",
+        "shared_name" : "Cicero (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4773,
+        "BEND_MAP_ID" : 4773,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4672",
+        "source" : "4125",
+        "target" : "4120",
+        "shared_name" : "Cicero (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4672,
+        "BEND_MAP_ID" : 4672,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4669",
+        "source" : "4125",
+        "target" : "4308",
+        "shared_name" : "Cicero (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4669,
+        "BEND_MAP_ID" : 4669,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4666",
+        "source" : "4125",
+        "target" : "4637",
+        "shared_name" : "Cicero (interacts with) Henricus Cornleius Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Henricus Cornleius Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4666,
+        "BEND_MAP_ID" : 4666,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4600",
+        "source" : "4125",
+        "target" : "4120",
+        "shared_name" : "Cicero (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4600,
+        "BEND_MAP_ID" : 4600,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4597",
+        "source" : "4125",
+        "target" : "4308",
+        "shared_name" : "Cicero (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4597,
+        "BEND_MAP_ID" : 4597,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4594",
+        "source" : "4125",
+        "target" : "4114",
+        "shared_name" : "Cicero (interacts with) Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4594,
+        "BEND_MAP_ID" : 4594,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4478",
+        "source" : "4125",
+        "target" : "4446",
+        "shared_name" : "Cicero (interacts with) Marcus Cato",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Marcus Cato",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4478,
+        "BEND_MAP_ID" : 4478,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4475",
+        "source" : "4125",
+        "target" : "4120",
+        "shared_name" : "Cicero (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4475,
+        "BEND_MAP_ID" : 4475,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4472",
+        "source" : "4125",
+        "target" : "4308",
+        "shared_name" : "Cicero (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4472,
+        "BEND_MAP_ID" : 4472,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4343",
+        "source" : "4125",
+        "target" : "4120",
+        "shared_name" : "Cicero (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4343,
+        "BEND_MAP_ID" : 4343,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4340",
+        "source" : "4125",
+        "target" : "4308",
+        "shared_name" : "Cicero (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4340,
+        "BEND_MAP_ID" : 4340,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4337",
+        "source" : "4125",
+        "target" : "4306",
+        "shared_name" : "Cicero (interacts with) Henricus Cornelius Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Henricus Cornelius Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4337,
+        "BEND_MAP_ID" : 4337,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4148",
+        "source" : "4125",
+        "target" : "4120",
+        "shared_name" : "Cicero (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4148,
+        "BEND_MAP_ID" : 4148,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4145",
+        "source" : "4125",
+        "target" : "4114",
+        "shared_name" : "Cicero (interacts with) Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Cicero (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4145,
+        "BEND_MAP_ID" : 4145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4770",
+        "source" : "4120",
+        "target" : "4125",
+        "shared_name" : "Pliny (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4770,
+        "BEND_MAP_ID" : 4770,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4767",
+        "source" : "4120",
+        "target" : "4308",
+        "shared_name" : "Pliny (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4767,
+        "BEND_MAP_ID" : 4767,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4663",
+        "source" : "4120",
+        "target" : "4125",
+        "shared_name" : "Pliny (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4663,
+        "BEND_MAP_ID" : 4663,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4660",
+        "source" : "4120",
+        "target" : "4308",
+        "shared_name" : "Pliny (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4660,
+        "BEND_MAP_ID" : 4660,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4657",
+        "source" : "4120",
+        "target" : "4637",
+        "shared_name" : "Pliny (interacts with) Henricus Cornleius Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Henricus Cornleius Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4657,
+        "BEND_MAP_ID" : 4657,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4591",
+        "source" : "4120",
+        "target" : "4125",
+        "shared_name" : "Pliny (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4591,
+        "BEND_MAP_ID" : 4591,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4588",
+        "source" : "4120",
+        "target" : "4308",
+        "shared_name" : "Pliny (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4588,
+        "BEND_MAP_ID" : 4588,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4585",
+        "source" : "4120",
+        "target" : "4114",
+        "shared_name" : "Pliny (interacts with) Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4585,
+        "BEND_MAP_ID" : 4585,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4506",
+        "source" : "4120",
+        "target" : "4308",
+        "shared_name" : "Pliny (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4506,
+        "BEND_MAP_ID" : 4506,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4460",
+        "source" : "4120",
+        "target" : "4125",
+        "shared_name" : "Pliny (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4460,
+        "BEND_MAP_ID" : 4460,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4457",
+        "source" : "4120",
+        "target" : "4446",
+        "shared_name" : "Pliny (interacts with) Marcus Cato",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Marcus Cato",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4457,
+        "BEND_MAP_ID" : 4457,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4454",
+        "source" : "4120",
+        "target" : "4308",
+        "shared_name" : "Pliny (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4454,
+        "BEND_MAP_ID" : 4454,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4334",
+        "source" : "4120",
+        "target" : "4125",
+        "shared_name" : "Pliny (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4334,
+        "BEND_MAP_ID" : 4334,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4331",
+        "source" : "4120",
+        "target" : "4308",
+        "shared_name" : "Pliny (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4331,
+        "BEND_MAP_ID" : 4331,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4328",
+        "source" : "4120",
+        "target" : "4306",
+        "shared_name" : "Pliny (interacts with) Henricus Cornelius Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Henricus Cornelius Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4328,
+        "BEND_MAP_ID" : 4328,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4142",
+        "source" : "4120",
+        "target" : "4125",
+        "shared_name" : "Pliny (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4142,
+        "BEND_MAP_ID" : 4142,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4139",
+        "source" : "4120",
+        "target" : "4114",
+        "shared_name" : "Pliny (interacts with) Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "Pliny (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4139,
+        "BEND_MAP_ID" : 4139,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4573",
+        "source" : "4114",
+        "target" : "4125",
+        "shared_name" : "Agrippa (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Agrippa (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4573,
+        "BEND_MAP_ID" : 4573,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4570",
+        "source" : "4114",
+        "target" : "4120",
+        "shared_name" : "Agrippa (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Agrippa (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4570,
+        "BEND_MAP_ID" : 4570,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4567",
+        "source" : "4114",
+        "target" : "4308",
+        "shared_name" : "Agrippa (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "Agrippa (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4567,
+        "BEND_MAP_ID" : 4567,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4127",
+        "source" : "4114",
+        "target" : "4125",
+        "shared_name" : "Agrippa (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "Agrippa (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4127,
+        "BEND_MAP_ID" : 4127,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4122",
+        "source" : "4114",
+        "target" : "4120",
+        "shared_name" : "Agrippa (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "Agrippa (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4122,
+        "BEND_MAP_ID" : 4122,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4303",
+        "source" : "4106",
+        "target" : "4286",
+        "shared_name" : "Wycliffe (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "Wycliffe (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4303,
+        "BEND_MAP_ID" : 4303,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4300",
+        "source" : "4106",
+        "target" : "4284",
+        "shared_name" : "Wycliffe (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "Wycliffe (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4300,
+        "BEND_MAP_ID" : 4300,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4111",
+        "source" : "4106",
+        "target" : "3936",
+        "shared_name" : "Wycliffe (interacts with) Lydgate",
+        "shared_interaction" : "interacts with",
+        "name" : "Wycliffe (interacts with) Lydgate",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4111,
+        "BEND_MAP_ID" : 4111,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4100",
+        "source" : "4098",
+        "target" : "4018",
+        "shared_name" : "Shakespeares (interacts with) Marlowes",
+        "shared_interaction" : "interacts with",
+        "name" : "Shakespeares (interacts with) Marlowes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4100,
+        "BEND_MAP_ID" : 4100,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4095",
+        "source" : "4090",
+        "target" : "4088",
+        "shared_name" : "Skinner (interacts with) Cole",
+        "shared_interaction" : "interacts with",
+        "name" : "Skinner (interacts with) Cole",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4095,
+        "BEND_MAP_ID" : 4095,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4092",
+        "source" : "4088",
+        "target" : "4090",
+        "shared_name" : "Cole (interacts with) Skinner",
+        "shared_interaction" : "interacts with",
+        "name" : "Cole (interacts with) Skinner",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4092,
+        "BEND_MAP_ID" : 4092,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4758",
+        "source" : "4071",
+        "target" : "4066",
+        "shared_name" : "Pully (interacts with) Crot",
+        "shared_interaction" : "interacts with",
+        "name" : "Pully (interacts with) Crot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4758,
+        "BEND_MAP_ID" : 4758,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4755",
+        "source" : "4071",
+        "target" : "4064",
+        "shared_name" : "Pully (interacts with) Nin",
+        "shared_interaction" : "interacts with",
+        "name" : "Pully (interacts with) Nin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4755,
+        "BEND_MAP_ID" : 4755,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4416",
+        "source" : "4071",
+        "target" : "4066",
+        "shared_name" : "Pully (interacts with) Crot",
+        "shared_interaction" : "interacts with",
+        "name" : "Pully (interacts with) Crot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4416,
+        "BEND_MAP_ID" : 4416,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4413",
+        "source" : "4071",
+        "target" : "4064",
+        "shared_name" : "Pully (interacts with) Nin",
+        "shared_interaction" : "interacts with",
+        "name" : "Pully (interacts with) Nin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4413,
+        "BEND_MAP_ID" : 4413,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4085",
+        "source" : "4071",
+        "target" : "4066",
+        "shared_name" : "Pully (interacts with) Crot",
+        "shared_interaction" : "interacts with",
+        "name" : "Pully (interacts with) Crot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4085,
+        "BEND_MAP_ID" : 4085,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4082",
+        "source" : "4071",
+        "target" : "4064",
+        "shared_name" : "Pully (interacts with) Nin",
+        "shared_interaction" : "interacts with",
+        "name" : "Pully (interacts with) Nin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4082,
+        "BEND_MAP_ID" : 4082,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4752",
+        "source" : "4066",
+        "target" : "4071",
+        "shared_name" : "Crot (interacts with) Pully",
+        "shared_interaction" : "interacts with",
+        "name" : "Crot (interacts with) Pully",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4752,
+        "BEND_MAP_ID" : 4752,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4749",
+        "source" : "4066",
+        "target" : "4064",
+        "shared_name" : "Crot (interacts with) Nin",
+        "shared_interaction" : "interacts with",
+        "name" : "Crot (interacts with) Nin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4749,
+        "BEND_MAP_ID" : 4749,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4410",
+        "source" : "4066",
+        "target" : "4071",
+        "shared_name" : "Crot (interacts with) Pully",
+        "shared_interaction" : "interacts with",
+        "name" : "Crot (interacts with) Pully",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4410,
+        "BEND_MAP_ID" : 4410,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4407",
+        "source" : "4066",
+        "target" : "4064",
+        "shared_name" : "Crot (interacts with) Nin",
+        "shared_interaction" : "interacts with",
+        "name" : "Crot (interacts with) Nin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4407,
+        "BEND_MAP_ID" : 4407,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4079",
+        "source" : "4066",
+        "target" : "4071",
+        "shared_name" : "Crot (interacts with) Pully",
+        "shared_interaction" : "interacts with",
+        "name" : "Crot (interacts with) Pully",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4079,
+        "BEND_MAP_ID" : 4079,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4076",
+        "source" : "4066",
+        "target" : "4064",
+        "shared_name" : "Crot (interacts with) Nin",
+        "shared_interaction" : "interacts with",
+        "name" : "Crot (interacts with) Nin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4076,
+        "BEND_MAP_ID" : 4076,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4746",
+        "source" : "4064",
+        "target" : "4071",
+        "shared_name" : "Nin (interacts with) Pully",
+        "shared_interaction" : "interacts with",
+        "name" : "Nin (interacts with) Pully",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4746,
+        "BEND_MAP_ID" : 4746,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4743",
+        "source" : "4064",
+        "target" : "4066",
+        "shared_name" : "Nin (interacts with) Crot",
+        "shared_interaction" : "interacts with",
+        "name" : "Nin (interacts with) Crot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4743,
+        "BEND_MAP_ID" : 4743,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4404",
+        "source" : "4064",
+        "target" : "4071",
+        "shared_name" : "Nin (interacts with) Pully",
+        "shared_interaction" : "interacts with",
+        "name" : "Nin (interacts with) Pully",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4404,
+        "BEND_MAP_ID" : 4404,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4401",
+        "source" : "4064",
+        "target" : "4066",
+        "shared_name" : "Nin (interacts with) Crot",
+        "shared_interaction" : "interacts with",
+        "name" : "Nin (interacts with) Crot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4401,
+        "BEND_MAP_ID" : 4401,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4073",
+        "source" : "4064",
+        "target" : "4071",
+        "shared_name" : "Nin (interacts with) Pully",
+        "shared_interaction" : "interacts with",
+        "name" : "Nin (interacts with) Pully",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4073,
+        "BEND_MAP_ID" : 4073,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4068",
+        "source" : "4064",
+        "target" : "4066",
+        "shared_name" : "Nin (interacts with) Crot",
+        "shared_interaction" : "interacts with",
+        "name" : "Nin (interacts with) Crot",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4068,
+        "BEND_MAP_ID" : 4068,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4061",
+        "source" : "4050",
+        "target" : "4044",
+        "shared_name" : "Peter (interacts with) Geoffrey",
+        "shared_interaction" : "interacts with",
+        "name" : "Peter (interacts with) Geoffrey",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4061,
+        "BEND_MAP_ID" : 4061,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4605",
+        "source" : "4044",
+        "target" : "4603",
+        "shared_name" : "Geoffrey (interacts with) John",
+        "shared_interaction" : "interacts with",
+        "name" : "Geoffrey (interacts with) John",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4605,
+        "BEND_MAP_ID" : 4605,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4052",
+        "source" : "4044",
+        "target" : "4050",
+        "shared_name" : "Geoffrey (interacts with) Peter",
+        "shared_interaction" : "interacts with",
+        "name" : "Geoffrey (interacts with) Peter",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4052,
+        "BEND_MAP_ID" : 4052,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4041",
+        "source" : "4036",
+        "target" : "3961",
+        "shared_name" : "Browning (interacts with) Tennyson",
+        "shared_interaction" : "interacts with",
+        "name" : "Browning (interacts with) Tennyson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4041,
+        "BEND_MAP_ID" : 4041,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4732",
+        "source" : "4028",
+        "target" : "3914",
+        "shared_name" : "Gabriel Spenser (interacts with) Ben Jonson",
+        "shared_interaction" : "interacts with",
+        "name" : "Gabriel Spenser (interacts with) Ben Jonson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4732,
+        "BEND_MAP_ID" : 4732,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4033",
+        "source" : "4028",
+        "target" : "3914",
+        "shared_name" : "Gabriel Spenser (interacts with) Ben Jonson",
+        "shared_interaction" : "interacts with",
+        "name" : "Gabriel Spenser (interacts with) Ben Jonson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4033,
+        "BEND_MAP_ID" : 4033,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4025",
+        "source" : "4020",
+        "target" : "4018",
+        "shared_name" : "Kyds (interacts with) Marlowes",
+        "shared_interaction" : "interacts with",
+        "name" : "Kyds (interacts with) Marlowes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4025,
+        "BEND_MAP_ID" : 4025,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4103",
+        "source" : "4018",
+        "target" : "4098",
+        "shared_name" : "Marlowes (interacts with) Shakespeares",
+        "shared_interaction" : "interacts with",
+        "name" : "Marlowes (interacts with) Shakespeares",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4103,
+        "BEND_MAP_ID" : 4103,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4022",
+        "source" : "4018",
+        "target" : "4020",
+        "shared_name" : "Marlowes (interacts with) Kyds",
+        "shared_interaction" : "interacts with",
+        "name" : "Marlowes (interacts with) Kyds",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4022,
+        "BEND_MAP_ID" : 4022,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4015",
+        "source" : "4010",
+        "target" : "4008",
+        "shared_name" : "Mary (interacts with) Sir Edward Fytton",
+        "shared_interaction" : "interacts with",
+        "name" : "Mary (interacts with) Sir Edward Fytton",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4015,
+        "BEND_MAP_ID" : 4015,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4012",
+        "source" : "4008",
+        "target" : "4010",
+        "shared_name" : "Sir Edward Fytton (interacts with) Mary",
+        "shared_interaction" : "interacts with",
+        "name" : "Sir Edward Fytton (interacts with) Mary",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4012,
+        "BEND_MAP_ID" : 4012,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4005",
+        "source" : "4000",
+        "target" : "3998",
+        "shared_name" : "Mr W H. (interacts with) poet",
+        "shared_interaction" : "interacts with",
+        "name" : "Mr W H. (interacts with) poet",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4005,
+        "BEND_MAP_ID" : 4005,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4002",
+        "source" : "3998",
+        "target" : "4000",
+        "shared_name" : "poet (interacts with) Mr W H.",
+        "shared_interaction" : "interacts with",
+        "name" : "poet (interacts with) Mr W H.",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4002,
+        "BEND_MAP_ID" : 4002,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3995",
+        "source" : "3981",
+        "target" : "3972",
+        "shared_name" : "Sir Robert (interacts with) Roland ",
+        "shared_interaction" : "interacts with",
+        "name" : "Sir Robert (interacts with) Roland ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3995,
+        "BEND_MAP_ID" : 3995,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3992",
+        "source" : "3981",
+        "target" : "3970",
+        "shared_name" : "Sir Robert (interacts with) Lord Rutland",
+        "shared_interaction" : "interacts with",
+        "name" : "Sir Robert (interacts with) Lord Rutland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3992,
+        "BEND_MAP_ID" : 3992,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3983",
+        "source" : "3970",
+        "target" : "3981",
+        "shared_name" : "Lord Rutland (interacts with) Sir Robert",
+        "shared_interaction" : "interacts with",
+        "name" : "Lord Rutland (interacts with) Sir Robert",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3983,
+        "BEND_MAP_ID" : 3983,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3974",
+        "source" : "3970",
+        "target" : "3972",
+        "shared_name" : "Lord Rutland (interacts with) Roland ",
+        "shared_interaction" : "interacts with",
+        "name" : "Lord Rutland (interacts with) Roland ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3974,
+        "BEND_MAP_ID" : 3974,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3967",
+        "source" : "3965",
+        "target" : "3961",
+        "shared_name" : "            Morris (interacts with) Tennyson",
+        "shared_interaction" : "interacts with",
+        "name" : "            Morris (interacts with) Tennyson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3967,
+        "BEND_MAP_ID" : 3967,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4564",
+        "source" : "3961",
+        "target" : "4559",
+        "shared_name" : "Tennyson (interacts with) Morris",
+        "shared_interaction" : "interacts with",
+        "name" : "Tennyson (interacts with) Morris",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4564,
+        "BEND_MAP_ID" : 4564,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4038",
+        "source" : "3961",
+        "target" : "4036",
+        "shared_name" : "Tennyson (interacts with) Browning",
+        "shared_interaction" : "interacts with",
+        "name" : "Tennyson (interacts with) Browning",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4038,
+        "BEND_MAP_ID" : 4038,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3958",
+        "source" : "3953",
+        "target" : "3951",
+        "shared_name" : "Pergolesi (interacts with) Angelo",
+        "shared_interaction" : "interacts with",
+        "name" : "Pergolesi (interacts with) Angelo",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3958,
+        "BEND_MAP_ID" : 3958,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3955",
+        "source" : "3951",
+        "target" : "3953",
+        "shared_name" : "Angelo (interacts with) Pergolesi",
+        "shared_interaction" : "interacts with",
+        "name" : "Angelo (interacts with) Pergolesi",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3955,
+        "BEND_MAP_ID" : 3955,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4796",
+        "source" : "3949",
+        "target" : "4675",
+        "shared_name" : "               (interacts with) Spenser",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Spenser",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4796,
+        "BEND_MAP_ID" : 4796,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4698",
+        "source" : "3949",
+        "target" : "4675",
+        "shared_name" : "               (interacts with) Spenser",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Spenser",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4698,
+        "BEND_MAP_ID" : 4698,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4695",
+        "source" : "3949",
+        "target" : "4284",
+        "shared_name" : "               (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4695,
+        "BEND_MAP_ID" : 4695,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4512",
+        "source" : "3949",
+        "target" : "4120",
+        "shared_name" : "               (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4512,
+        "BEND_MAP_ID" : 4512,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4509",
+        "source" : "3949",
+        "target" : "4308",
+        "shared_name" : "               (interacts with) Suetonius",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4509,
+        "BEND_MAP_ID" : 4509,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4206",
+        "source" : "3949",
+        "target" : "4188",
+        "shared_name" : "               (interacts with) Heywood",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Heywood",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4206,
+        "BEND_MAP_ID" : 4206,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4203",
+        "source" : "3949",
+        "target" : "4183",
+        "shared_name" : "               (interacts with) Kyd",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Kyd",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4203,
+        "BEND_MAP_ID" : 4203,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4136",
+        "source" : "3949",
+        "target" : "4125",
+        "shared_name" : "               (interacts with) Cicero",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4136,
+        "BEND_MAP_ID" : 4136,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4133",
+        "source" : "3949",
+        "target" : "4120",
+        "shared_name" : "               (interacts with) Pliny",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4133,
+        "BEND_MAP_ID" : 4133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4130",
+        "source" : "3949",
+        "target" : "4114",
+        "shared_name" : "               (interacts with) Agrippa",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4130,
+        "BEND_MAP_ID" : 4130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4058",
+        "source" : "3949",
+        "target" : "4050",
+        "shared_name" : "               (interacts with) Peter",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Peter",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4058,
+        "BEND_MAP_ID" : 4058,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4055",
+        "source" : "3949",
+        "target" : "4044",
+        "shared_name" : "               (interacts with) Geoffrey",
+        "shared_interaction" : "interacts with",
+        "name" : "               (interacts with) Geoffrey",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4055,
+        "BEND_MAP_ID" : 4055,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4631",
+        "source" : "3936",
+        "target" : "4622",
+        "shared_name" : "Lydgate (interacts with)  ",
+        "shared_interaction" : "interacts with",
+        "name" : "Lydgate (interacts with)  ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4631,
+        "BEND_MAP_ID" : 4631,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4108",
+        "source" : "3936",
+        "target" : "4106",
+        "shared_name" : "Lydgate (interacts with) Wycliffe",
+        "shared_interaction" : "interacts with",
+        "name" : "Lydgate (interacts with) Wycliffe",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4108,
+        "BEND_MAP_ID" : 4108,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4847",
+        "source" : "3924",
+        "target" : "4842",
+        "shared_name" : "her son (interacts with) B",
+        "shared_interaction" : "interacts with",
+        "name" : "her son (interacts with) B",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4847,
+        "BEND_MAP_ID" : 4847,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4726",
+        "source" : "3924",
+        "target" : "4715",
+        "shared_name" : "her son (interacts with) Lady ",
+        "shared_interaction" : "interacts with",
+        "name" : "her son (interacts with) Lady ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4726,
+        "BEND_MAP_ID" : 4726,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4398",
+        "source" : "3924",
+        "target" : "3922",
+        "shared_name" : "her son (interacts with) Ann Bacon",
+        "shared_interaction" : "interacts with",
+        "name" : "her son (interacts with) Ann Bacon",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4398,
+        "BEND_MAP_ID" : 4398,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3929",
+        "source" : "3924",
+        "target" : "3922",
+        "shared_name" : "her son (interacts with) Ann Bacon",
+        "shared_interaction" : "interacts with",
+        "name" : "her son (interacts with) Ann Bacon",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3929,
+        "BEND_MAP_ID" : 3929,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4395",
+        "source" : "3922",
+        "target" : "3924",
+        "shared_name" : "Ann Bacon (interacts with) her son",
+        "shared_interaction" : "interacts with",
+        "name" : "Ann Bacon (interacts with) her son",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4395,
+        "BEND_MAP_ID" : 4395,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3926",
+        "source" : "3922",
+        "target" : "3924",
+        "shared_name" : "Ann Bacon (interacts with) her son",
+        "shared_interaction" : "interacts with",
+        "name" : "Ann Bacon (interacts with) her son",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3926,
+        "BEND_MAP_ID" : 3926,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4729",
+        "source" : "3914",
+        "target" : "4028",
+        "shared_name" : "Ben Jonson (interacts with) Gabriel Spenser",
+        "shared_interaction" : "interacts with",
+        "name" : "Ben Jonson (interacts with) Gabriel Spenser",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4729,
+        "BEND_MAP_ID" : 4729,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4030",
+        "source" : "3914",
+        "target" : "4028",
+        "shared_name" : "Ben Jonson (interacts with) Gabriel Spenser",
+        "shared_interaction" : "interacts with",
+        "name" : "Ben Jonson (interacts with) Gabriel Spenser",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4030,
+        "BEND_MAP_ID" : 4030,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3919",
+        "source" : "3914",
+        "target" : "3852",
+        "shared_name" : "Ben Jonson (interacts with) Sidney",
+        "shared_interaction" : "interacts with",
+        "name" : "Ben Jonson (interacts with) Sidney",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3919,
+        "BEND_MAP_ID" : 3919,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4809",
+        "source" : "3912",
+        "target" : "4286",
+        "shared_name" : "             (interacts with) Langland",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Langland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4809,
+        "BEND_MAP_ID" : 4809,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4793",
+        "source" : "3912",
+        "target" : "4675",
+        "shared_name" : "             (interacts with) Spenser",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Spenser",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4793,
+        "BEND_MAP_ID" : 4793,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4634",
+        "source" : "3912",
+        "target" : "3936",
+        "shared_name" : "             (interacts with) Lydgate",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Lydgate",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4634,
+        "BEND_MAP_ID" : 4634,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4526",
+        "source" : "3912",
+        "target" : "4284",
+        "shared_name" : "             (interacts with) Chaucer",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Chaucer",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4526,
+        "BEND_MAP_ID" : 4526,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4519",
+        "source" : "3912",
+        "target" : "4517",
+        "shared_name" : "             (interacts with) marlowes",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) marlowes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4519,
+        "BEND_MAP_ID" : 4519,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4354",
+        "source" : "3912",
+        "target" : "4352",
+        "shared_name" : "             (interacts with) Ben",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Ben",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4354,
+        "BEND_MAP_ID" : 4354,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4263",
+        "source" : "3912",
+        "target" : "4261",
+        "shared_name" : "             (interacts with) Anne Erwin",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Anne Erwin",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4263,
+        "BEND_MAP_ID" : 4263,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4251",
+        "source" : "3912",
+        "target" : "4243",
+        "shared_name" : "             (interacts with) Cliffords,",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Cliffords,",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4251,
+        "BEND_MAP_ID" : 4251,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4248",
+        "source" : "3912",
+        "target" : "4237",
+        "shared_name" : "             (interacts with) Stanleys",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Stanleys",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4248,
+        "BEND_MAP_ID" : 4248,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4190",
+        "source" : "3912",
+        "target" : "4188",
+        "shared_name" : "             (interacts with) Heywood",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Heywood",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4190,
+        "BEND_MAP_ID" : 4190,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4185",
+        "source" : "3912",
+        "target" : "4183",
+        "shared_name" : "             (interacts with) Kyd",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Kyd",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4185,
+        "BEND_MAP_ID" : 4185,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3989",
+        "source" : "3912",
+        "target" : "3981",
+        "shared_name" : "             (interacts with) Sir Robert",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Sir Robert",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3989,
+        "BEND_MAP_ID" : 3989,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3986",
+        "source" : "3912",
+        "target" : "3970",
+        "shared_name" : "             (interacts with) Lord Rutland",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Lord Rutland",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3986,
+        "BEND_MAP_ID" : 3986,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3938",
+        "source" : "3912",
+        "target" : "3936",
+        "shared_name" : "             (interacts with) Lydgate",
+        "shared_interaction" : "interacts with",
+        "name" : "             (interacts with) Lydgate",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3938,
+        "BEND_MAP_ID" : 3938,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4624",
+        "source" : "3906",
+        "target" : "4622",
+        "shared_name" : "           (interacts with)  ",
+        "shared_interaction" : "interacts with",
+        "name" : "           (interacts with)  ",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4624,
+        "BEND_MAP_ID" : 4624,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4619",
+        "source" : "3906",
+        "target" : "3936",
+        "shared_name" : "           (interacts with) Lydgate",
+        "shared_interaction" : "interacts with",
+        "name" : "           (interacts with) Lydgate",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4619,
+        "BEND_MAP_ID" : 4619,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3899",
+        "source" : "3894",
+        "target" : "3892",
+        "shared_name" : "Lucy (interacts with) Giles",
+        "shared_interaction" : "interacts with",
+        "name" : "Lucy (interacts with) Giles",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3899,
+        "BEND_MAP_ID" : 3899,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3896",
+        "source" : "3892",
+        "target" : "3894",
+        "shared_name" : "Giles (interacts with) Lucy",
+        "shared_interaction" : "interacts with",
+        "name" : "Giles (interacts with) Lucy",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3896,
+        "BEND_MAP_ID" : 3896,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4234",
+        "source" : "3869",
+        "target" : "3864",
+        "shared_name" : "Bradley (interacts with) Coleridge",
+        "shared_interaction" : "interacts with",
+        "name" : "Bradley (interacts with) Coleridge",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4234,
+        "BEND_MAP_ID" : 4234,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4231",
+        "source" : "3869",
+        "target" : "3862",
+        "shared_name" : "Bradley (interacts with) Johnson",
+        "shared_interaction" : "interacts with",
+        "name" : "Bradley (interacts with) Johnson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4231,
+        "BEND_MAP_ID" : 4231,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3883",
+        "source" : "3869",
+        "target" : "3864",
+        "shared_name" : "Bradley (interacts with) Coleridge",
+        "shared_interaction" : "interacts with",
+        "name" : "Bradley (interacts with) Coleridge",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3883,
+        "BEND_MAP_ID" : 3883,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3880",
+        "source" : "3869",
+        "target" : "3862",
+        "shared_name" : "Bradley (interacts with) Johnson",
+        "shared_interaction" : "interacts with",
+        "name" : "Bradley (interacts with) Johnson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3880,
+        "BEND_MAP_ID" : 3880,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4228",
+        "source" : "3864",
+        "target" : "3869",
+        "shared_name" : "Coleridge (interacts with) Bradley",
+        "shared_interaction" : "interacts with",
+        "name" : "Coleridge (interacts with) Bradley",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4228,
+        "BEND_MAP_ID" : 4228,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4225",
+        "source" : "3864",
+        "target" : "3862",
+        "shared_name" : "Coleridge (interacts with) Johnson",
+        "shared_interaction" : "interacts with",
+        "name" : "Coleridge (interacts with) Johnson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4225,
+        "BEND_MAP_ID" : 4225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3877",
+        "source" : "3864",
+        "target" : "3869",
+        "shared_name" : "Coleridge (interacts with) Bradley",
+        "shared_interaction" : "interacts with",
+        "name" : "Coleridge (interacts with) Bradley",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3877,
+        "BEND_MAP_ID" : 3877,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3874",
+        "source" : "3864",
+        "target" : "3862",
+        "shared_name" : "Coleridge (interacts with) Johnson",
+        "shared_interaction" : "interacts with",
+        "name" : "Coleridge (interacts with) Johnson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3874,
+        "BEND_MAP_ID" : 3874,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4222",
+        "source" : "3862",
+        "target" : "3869",
+        "shared_name" : "Johnson (interacts with) Bradley",
+        "shared_interaction" : "interacts with",
+        "name" : "Johnson (interacts with) Bradley",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4222,
+        "BEND_MAP_ID" : 4222,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4219",
+        "source" : "3862",
+        "target" : "3864",
+        "shared_name" : "Johnson (interacts with) Coleridge",
+        "shared_interaction" : "interacts with",
+        "name" : "Johnson (interacts with) Coleridge",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4219,
+        "BEND_MAP_ID" : 4219,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3871",
+        "source" : "3862",
+        "target" : "3869",
+        "shared_name" : "Johnson (interacts with) Bradley",
+        "shared_interaction" : "interacts with",
+        "name" : "Johnson (interacts with) Bradley",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3871,
+        "BEND_MAP_ID" : 3871,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3866",
+        "source" : "3862",
+        "target" : "3864",
+        "shared_name" : "Johnson (interacts with) Coleridge",
+        "shared_interaction" : "interacts with",
+        "name" : "Johnson (interacts with) Coleridge",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3866,
+        "BEND_MAP_ID" : 3866,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4349",
+        "source" : "3854",
+        "target" : "3852",
+        "shared_name" : "Jonson (interacts with) Sidney",
+        "shared_interaction" : "interacts with",
+        "name" : "Jonson (interacts with) Sidney",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4349,
+        "BEND_MAP_ID" : 4349,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3889",
+        "source" : "3854",
+        "target" : "3852",
+        "shared_name" : "Jonson (interacts with) Sidney",
+        "shared_interaction" : "interacts with",
+        "name" : "Jonson (interacts with) Sidney",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3889,
+        "BEND_MAP_ID" : 3889,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3859",
+        "source" : "3854",
+        "target" : "3852",
+        "shared_name" : "Jonson (interacts with) Sidney",
+        "shared_interaction" : "interacts with",
+        "name" : "Jonson (interacts with) Sidney",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3859,
+        "BEND_MAP_ID" : 3859,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "4346",
+        "source" : "3852",
+        "target" : "3854",
+        "shared_name" : "Sidney (interacts with) Jonson",
+        "shared_interaction" : "interacts with",
+        "name" : "Sidney (interacts with) Jonson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 4346,
+        "BEND_MAP_ID" : 4346,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3916",
+        "source" : "3852",
+        "target" : "3914",
+        "shared_name" : "Sidney (interacts with) Ben Jonson",
+        "shared_interaction" : "interacts with",
+        "name" : "Sidney (interacts with) Ben Jonson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3916,
+        "BEND_MAP_ID" : 3916,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3886",
+        "source" : "3852",
+        "target" : "3854",
+        "shared_name" : "Sidney (interacts with) Jonson",
+        "shared_interaction" : "interacts with",
+        "name" : "Sidney (interacts with) Jonson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3886,
+        "BEND_MAP_ID" : 3886,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3856",
+        "source" : "3852",
+        "target" : "3854",
+        "shared_name" : "Sidney (interacts with) Jonson",
+        "shared_interaction" : "interacts with",
+        "name" : "Sidney (interacts with) Jonson",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3856,
+        "BEND_MAP_ID" : 3856,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3849",
+        "source" : "3839",
+        "target" : "3837",
+        "shared_name" : "Essays and Moll Neville in the Faery Queen.\" (interacts with) Montaignes",
+        "shared_interaction" : "interacts with",
+        "name" : "Essays and Moll Neville in the Faery Queen.\" (interacts with) Montaignes",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3849,
+        "BEND_MAP_ID" : 3849,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "3841",
+        "source" : "3837",
+        "target" : "3839",
+        "shared_name" : "Montaignes (interacts with) Essays and Moll Neville in the Faery Queen.\"",
+        "shared_interaction" : "interacts with",
+        "name" : "Montaignes (interacts with) Essays and Moll Neville in the Faery Queen.\"",
+        "interaction" : "interacts with",
+        "Column_2" : 1,
+        "SUID" : 3841,
+        "BEND_MAP_ID" : 3841,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
