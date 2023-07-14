@@ -59,7 +59,7 @@
           <l>For <del>a</del> the long poem is <del>lit up</del> luminous, <del>irradi</del> radiant.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-1/771,274,1887,452/full/0/default.tif">
-          <l><del>Yet</del> <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> standing on the threshold of the great</l>
+          <l><del>Yet</del> <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> standing on the threshold of the great</l>
           <l>room is half in shadow half in light. He is not <del>a</del></l>
           <l><del>fully realised: <del>it</del> <add place="inline">He</add> is still anonymous, <del>He</del> in that he</del></l>
           <l><del>does not <del>embody</del> <del>confine emotions to the</del> give</del></l>
@@ -77,8 +77,8 @@
               <corr>through</corr>
             </choice> the mouth of the</l>
           <l>individual. The single is <add place="below">still in shadow</add>. Yet, the other half of him is in the</l>
-          <l>light He is aware of his [ancestors?] as <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> was not, nor</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wlan">Langland</rs>, nor <rs type="person" ref="../resources/annotations.xml#psn-tmal">Malory</rs>. His is no longer a wandering voice,</l>
+          <l>light He is aware of his [ancestors?] as <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> was not, nor</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wlan" key="Langland, William">Langland</rs>, nor <rs type="person" ref="../resources/annotations.xml#psn-tmal" key="Malory, Thomas">Malory</rs>. His is no longer a wandering voice,</l>
           <l>but the voice of a man 
             <choice>
               <sic>praitig</sic>
@@ -111,7 +111,7 @@
               <sic>cd.</sic>
               <corr>could</corr>
             </choice> see</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">Tamburlaine</rs>: the trumpets sounded; the [wherries?]</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tamburlaine</rs>: the trumpets sounded; the [wherries?]</l>
           <l><del>crowd</del> The river was <del>being</del> covered with wherries</l>
           <l>bring the audience across. <del>These</del> <del>The</del> <del>What</del></l>
           <l><del>If the pl</del> What other amusements were there</l>
@@ -120,7 +120,7 @@
           <l>about London – only <quote source="#" rend="inline">'gaming, following of harlots</quote></l>
           <l><quote source="#" rend="inline">drinking – unless they were ferried over the river</quote></l>
           <l><quote source="#" rend="inline">to see the play.'</quote> The audience came from the</l>
-          <l>crowded, festering little streets, round <rs type="place" ref="../resources/annotations.xml#pla-stpa">St Pauls</rs>. The</l>
+          <l>crowded, festering little streets, round <rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs>. The</l>
           <l><del>trumpets sounded;</del> they paid a penny or two pence. They</l>
           <l>crowded round the stage; &amp; then the curtain rose,</l>
           <l>&amp; they <del>[feasted?]</del> often all their [illeg.] of [illeg.] they <add place="below">heard</add>,</l>
@@ -216,7 +216,7 @@
           <l>language: so that he cannot amalgamate</l>
           <l>[flow?] naturally; <del>from</del> <del>the</del> diction from</l>
           <l>rhetoric, &amp; speak, <del>with</del> simply.</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-tmal">Marlowe</rs> was swept away by his characters.</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-tmal" key="Marlowe, Christopher">Marlowe</rs> was swept away by his characters.</l>
           <l>For, the audience, the shopkeepers, soldiers, [align?]</l>
           <l>crowding to the stage, <del>f</del> <del>spurred</del></l>
           <l><del>spurr</del> implored not [stillness?], but movement,</l>
@@ -294,7 +294,7 @@
           <del>
             <l><del>b</del> nobles to come together in one house; <del>to</del></l>
             <l>listen <del>to the same play.</del> <del>to listen to a play</del></l>
-            <l><del>The playhouse was built before <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> died.</del></l>
+            <l><del>The playhouse was built before <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> died.</del></l>
             <l>At last the mummers &amp; the [madrigals?] were given a</l>
             <l>lodging a centre. The playhouse was built</l>
           </del>
@@ -312,12 +312,12 @@
           <l><del>for</del> one penny was charged for standing room in the yard.</l>
           <l><del>For</del> Twopence a <del>seat was be</del> sixpence a</l>
           <l>seat <del>in the</del> under a <del>roof</del> the thatched roof. The</l>
-          <l><del><rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs> was</del> <del>Rose was</del> <del>At half past two <add place="above">in the</add> the</del></l>
+          <l><del><rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">Rose</rs> was</del> <del>Rose was</del> <del>At half past two <add place="above">in the</add> the</del></l>
           <l><del>flag flew, the trumpets sounded, &amp; the audience</del></l>
           <l><del><del>assembled.</del> They <del>came from the</del> <del>came in wherries</del></del></l>
           <l><del>assembled.</del> <del>Their neigh</del> <del>next the</del> <del>The Rose</del> was</l>
           <l><del>next door to</del> <del>It</del> <add place="above">It</add> was a rough neighbourhood.</l>
-          <l>Next door to the Rose in <rs type="place" ref="../resources/annotations.xml#pla-sout">Southwark</rs> stood</l>
+          <l>Next door to the Rose in <rs type="place" ref="../resources/annotations.xml#pla-sout" key="Southwark">Southwark</rs> stood</l>
           <l>a brothel. Hogs infested the streets. The house itself</l>
           <l>was built of wood; the roof was thatched; &amp;</l>
           <l>a <del>flag flew when the <del>time</del> play was</del> <del>when</del> the</l>
@@ -338,7 +338,7 @@
       </div>
       <div xml:id="m1-8-3.6" n="6" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6/777,128,1587,148/full/0/default.tif">
-          <l>No name was <del>attached to Tamburlaine</del> anonymous.</l>
+          <l>No name was <del>attached to <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tamburlaine</rs></del> anonymous.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6/847,264,1679,2200/full/0/default.tif">
           <l>The play was anonymous. That fact by itself</l>
@@ -353,7 +353,7 @@
           <l>Yet the audience itself is dumb. <del>We</del></l>
           <l>They <del>flocked</del> to the play. <del>They</del> <del>The</del></l>
           <l>Fifteen hundred people, the main part apprentices, citizens,</l>
-          <l>heard Tamburlane; but <del>for</del> <del>they say but one</del> <del>in silence</del> word.</l>
+          <l>heard <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tamburlane</rs>; but <del>for</del> <del>they say but one</del> <del>in silence</del> word.</l>
           <l>The silence of the 
             <choice>
               <sic>Ethn</sic>
@@ -364,7 +364,7 @@
               <sic>fr.</sic>
               <corr>from</corr>
             </choice> the plays. We can</l>
-          <l>feel, in Marlowe, the <del>pr</del> presence of some</l>
+          <l>feel, in <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">Marlowe</rs>, the <del>pr</del> presence of some</l>
           <l><del>them a l. drawing up the <del>fee</del> extravagance,</del></l>
           <l><del>[likeness?], as a a [daub drawn?] as a paper draws up a</del></l>
           <l>[foie?]. <del>They</del> We <del>can suppose that the</del></l>
@@ -377,14 +377,14 @@
           <l>the silence is unbroken.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6/857,2278,1587,976/full/0/default.tif">
-          <l><del>Thus to understand</del> <del>The audience at the Rose</del></l>
+          <l><del>Thus to understand</del> <del>The audience at <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">the Rose</rs></del></l>
           <l><del>If</del> To understand that silence we have to</l>
           <l>compare it with our own sense of something</l>
           <l>that takes the breath away, is emerging, is</l>
           <l>natural, is [illeg.] released, yet</l>
           <l>uncritical – The attitude say of our own</l>
-          <l>audiences at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle">Russian ballet</rs>, at the</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-cine">cinema</rs>. <del>It seems one can</del> if new art</l>
+          <l>audiences at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle" key="Ballet Russes">Russian ballet</rs>, at the</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs>. <del>It seems one can</del> if new art</l>
           <l>comes upon us so suddenly &amp;</l>
           <l>surprisingly that we <del>sit silent,</del></l>
         </p>
@@ -418,11 +418,11 @@
           <l><del>conquerers</del> But <add place="above">if</add> the audience received this</l>
           <l>extraordinary proof of their being without comment.</l>
           <l>It was unto <del>t</del> rapture. Again &amp; again the</l>
-          <l>the <rs type="person" ref="../resources/annotations.xml#psn-lmay">Lord Mayor</rs> [propated?] against the</l>
+          <l>the <rs type="person" ref="../resources/annotations.xml#psn-lmay" key="Lord Mayor of London">Lord Mayor</rs> [propated?] against the</l>
           <l>intoxication that was offered at the Playhouse.</l>
           <l>But the attraction was irresistible.</l>
-          <l><del>If we imagine</del> <del>This</del> For there at the Rose, in</l>
-          <l>the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs>, at the <rs type="place" ref="../resources/annotations.xml#pla-fort">Fortune</rs>, men &amp; women who</l>
+          <l><del>If we imagine</del> <del>This</del> For there at the <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">Rose</rs>, in</l>
+          <l>the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs>, at the <rs type="place" ref="../resources/annotations.xml#pla-fort" key="Fortune, The">Fortune</rs>, men &amp; women who</l>
           <l>had never seen themselves yet, whose only</l>
           <l>reading was a letter, or a sermon, or an old</l>
           <l>story of Knights &amp; ladies, <del>saw</del> or perhaps</l>
@@ -447,7 +447,6 @@
             <l>fighting.</l>
           </add>
         </p>
-
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-7/954,2800,1646,432/full/0/default.tif">
           <l><del>The</del> <del>poetry was</del> <del>But</del> <del>Poetry 
             <choice>
@@ -466,13 +465,13 @@
           <l>equally profound. <del>It is strange that among</del></l>
           <l>was <del>it that</del> a native art still seemed despicable?</l>
           <l>Or <del>was it that</del> <del>at</del> But the cultivated, the wealthy,</l>
-          <l>the <rs type="person" ref="../resources/annotations.xml#psn-fbac">Bacon</rs>, the <rs type="person" ref="../resources/annotations.xml#psn-eliz">Elizabeth</rs>, the <rs type="person" ref="../resources/annotations.xml#psn-wral">Raleigh</rs>, also</l>
+          <l>the <rs type="person" ref="../resources/annotations.xml#psn-fbac">Bacon</rs>, the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Elizabeth</rs>, the <rs type="person" ref="../resources/annotations.xml#psn-wral" key="Raleigh, Walter">Raleigh</rs>, also</l>
           <l>[listened?]</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8/825,716,1707,328/full/0/default.tif">
           <del>
-            <l>Bacon <del>for example</del>, set down some of his</l>
-            <l>meditations, in the <rs type="literary-work" ref="../resources/annotations.xml#lit-baes">Essays</rs></l>
+            <l><rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> <del>for example</del>, set down some of his</l>
+            <l>meditations, in the <rs type="literary-work" ref="../resources/annotations.xml#lit-baes" key="Essays (Bacon)">Essays</rs></l>
           </del>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8/503,2090,287,152/full/0/default.tif">
@@ -480,9 +479,9 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8/833,980,1799,2340/full/0/default.tif">
           <l><quote source="#" rend="inline">"These things are but toyes"</quote> Bacon wrote, in the</l>
-          <l>essay <del>called</del> <rs>"Of Masques &amp; Triumphs"</rs>..</l>
+          <l>essay <del>called</del> <rs type="literary-work" ref="../resources/annotations.xml#lit-masq" key="Of Masques and Triumphs">"Of Masques &amp; Triumphs"</rs>..</l>
           <l><del>whenever</del> <del>Comedies</del> <del>Their proper</del> <quote source="#" rend="inline">"The stage is</quote></l>
-          <l><quote source="#" rend="inline"></quote>more beholding to Love, than the Lofe of Man"</l>
+          <l><quote source="#" rend="inline"></quote>more beholding to Love, than the Life of Man"</l>
           <l>the <del>life of man</del> .... <quote source="#" rend="inline">great sports &amp; great</quote></l>
           <l><quote source="#" rend="inline">baseness, doe keepe out of this weake passion"</quote></l>
           <l><del>its</del> proper place was on the stage, where</l>
@@ -530,7 +529,6 @@
             <l>[illeg.] of</l>
         </add>
         </p>
-
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-9/821,104,1851,2316/full/0/default.tif">
           <l>the difficult lives of princes and rulers; who are</l>
           <l>to whom the conduct of government is contracted. He</l>
@@ -552,7 +550,7 @@
           <l>&amp; [compait?] statements <add place="above">sentences</add>. <del>The groves shall wall</del></l>
           <l>him in. <del>There is none of the</del> The soul is</l>
           <l>shut in; not, as in the other common Essays, free:</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-mmon">Montaigne</rs>, by comparison, is free, <del>of every</del></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-mmon" key="Montaigne, Michel de">Montaigne</rs>, by comparison, is free, <del>of every</del></l>
           <l>rambling, <del>live</del> [unjust?], a vagabond, a ranger.</l>
           <l><del>But in</del> <del>And yet the</del> <del>But Lord Chancellor two</del></l>
           <l>Nothing <del>it</del> 
@@ -570,13 +568,13 @@
           <del>
             <l>And yet, in <del>it</del> <del>the thought of the [illeg.], the</del></l>
             <l>the ruler, the speaker, the press of experience</l>
-            <l>which <del>Bacon</del> <del>gave</del> which lay behind</l>
+            <l>which <del><rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs></del> <del>gave</del> which lay behind</l>
           </del>
           <l><del>was</del> <del>is</del>   <del>And</del> The      And yet</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-9/879,2588,1675,636/full/0/default.tif">
           <l>was there not even in the grave &amp;</l>
-          <l>subtle rulers a child? The Queen</l>
+          <l>subtle rulers a child? <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">The Queen</rs></l>
           <l>[surveyed?] plays as a "solace." The</l>
           <l>scheming minds of the Elizabethan nobles</l>
           <l>had their need of farce, of hyperbole.</l>
@@ -598,7 +596,7 @@
           <l>And the play could not disregard the <del>presence</del> in</l>
           <l>[purence?], at court, in the loud room at the</l>
           <l>theatre. <del>The sag</del> <del>A</del> <del>Suggestivene</del> When</l>
-          <l>Even in Becon himself, with <del>his</del> all his [creyt?] his</l>
+          <l>Even in <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> himself, with <del>his</del> all his [creyt?] his</l>
           <l>[canhou?] his astuteness there is <del>the same</del> some</l>
           <l>thing rich, figured, fantastic. He <del>too embodies</del>,</l>
           <l>substantiates: even the great moralities are</l>
@@ -617,15 +615,15 @@
               <corr>could</corr>
             </choice></l>
           <l>take its seat in the playhouse without</l>
-          <l>affecting the play. The Essays were after all</l>
+          <l>affecting the play. The <rs type="literary-work" ref="../resources/annotations.xml#lit-essa" key="Essays (Bacon)">Essays</rs> were after all</l>
           <l>making <del>a way</del> <add>it [point?]</add> for the dramatist to <del>t</del></l>
           <l>to express, even in the play, in the stage, the</l>
           <l>thought that was compressed, subtle:</l>
-          <l>if, at <rs type="place" ref="../resources/annotations.xml#pla-gren">
+          <l>if, at <rs type="place" ref="../resources/annotations.xml#pla-gren" key="Greenwich">
             <choice>
               <sic>Grenwich</sic>
               <corr>Greenwich</corr>
-            </choice></rs> or <rs type="place" ref="../resources/annotations.xml#pla-whit">Whitehall</rs>, one of the <del>dramatists</del> <add place="above"><del>s</del> [servant?]</add></l>
+            </choice></rs> or <rs type="place" ref="../resources/annotations.xml#pla-whit" key="Whitehall">Whitehall</rs>, one of the <del>dramatists</del> <add place="above"><del>s</del> [servant?]</add></l>
           <l>caught sight of that inscrutable, [dusk?] figure, he</l>
           <l>whose stake was so low, who were</l>  
           <l>more [movable?] [egged?] in solace the</l>
@@ -637,8 +635,8 @@
           <l>in the play, adding another personage to the</l>
           <l>great company.  Hyperbole required [cowal?]</l>
           <l><del>The</del> <del>An</del> Everything, when times are absorbent,</l>
-          <l>everything is thrown into the pot. Bacon,</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-stra">Elizabeth, Essex</rs>; the little rooms were to</l>
+          <l>everything is thrown into the pot. <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs>,</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-stra" key="Elizabeth and Essex">Elizabeth, Essex</rs>; the little rooms were to</l>
           <l>this high aristocratic mood. Anonymity</l>
           <l>confers with its cloak of invisibility the power to</l>
           <l>to go everywhere. The dramatists were gods</l>
@@ -668,11 +666,11 @@
             </choice> impersonate</l>
           <l>greatness, as <del>well as</del> <del>as</del> with <del>in commoners, &amp;</del></l>
           <l><del>ex</del> speak until <del>all the</del> &amp; speak slowly, closely</l>
-          <l>ponderously <add place="above">humbly</add>. <del>Bacons power</del> The little essays</l>
+          <l>ponderously <add place="above">humbly</add>. <del><rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacons</rs> power</del> The little <rs type="literary-work" ref="../resources/annotations.xml#lit-essa" key="Essays (Bacon)">essays</rs></l>
           <l>were making it possible to check [hourly?]</l>
           <l>hyperbole with prose. <del>The extravagance</del></l>
           <l>Had there been no prose in the plays, the</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs> &amp; <rs type="place" ref="../resources/annotations.xml#pla-rose">the Rose</rs> &amp; <rs type="place" ref="../resources/annotations.xml#pla-swan">the Swan</rs> might have</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs> &amp; <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">the Rose</rs> &amp; <rs type="place" ref="../resources/annotations.xml#pla-swan" key="Swan, The">the Swan</rs> might have</l>
           <l>remained trivial. <del>Poetry ha</del> The poetry that the</l>
           <l>masses loved was easy, extravagant, it 
             <choice>
@@ -701,12 +699,12 @@
       <div xml:id="m1-8-3.12" n="12" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12/823,94,1819,1012/full/0/default.tif">
           <l>It was half the work of the audience. The audience was a</l>
-          <l>large one. Fifteen hundred people, <rs type="person" ref="../resources/annotations.xml#psn-greg">Dr Greg</rs> computes was</l>
+          <l>large one. Fifteen hundred people, <rs type="person" ref="../resources/annotations.xml#psn-greg" key="Greg, W. W.">Dr Greg</rs> computes was</l>
           <l><del>was</del> an average audience. Of them, the greater part <del>was is</del></l>
           <l>were <del>in</del> apprentices, citizens, soldiers, the common people.</l>
           <l>Their presence is in the being part of the house is</l>
           <l>obvious. <del>They</del> It is they who draw up the <del>play</del></l>
-          <l>hyperbole, the extravagance of Tamburlaine as a</l>
+          <l>hyperbole, the extravagance of <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tamburlaine</rs> as a</l>
           <l>sheet of paper draws up a fire. <del>An eager</del> It is the</l>
           <l><del>audie</del> presence of an enthusiastic audience</l>
           <l>that makes the writer embrace a great [strides?] &amp;</l>
@@ -747,14 +745,14 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12/859,2634,1747,644/full/0/default.tif">
           <l>Perhaps <del>one of the most</del> Bacon, who, in his</l>
-          <l>youth had seen <rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeare</rs> <rs type="literary-work" ref="../resources/annotations.xml#lit-come">Comedy of Errors</rs> acted</l>
-          <l>at <rs type="place" ref="../resources/annotations.xml#pla-gray">
+          <l>youth had seen <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeare</rs> <rs type="literary-work" ref="../resources/annotations.xml#lit-come" key="Comedy of Errors">Comedy of Errors</rs> acted</l>
+          <l>at <rs type="place" ref="../resources/annotations.xml#pla-gray" key="Gray's Inn">
             <choice>
               <sic>Greys</sic>
               <corr>Gray's</corr>
             </choice> Inn</rs>, <del>hints at</del> drops a hint</l>
-          <l><quote source="#" rend="inline">These things be but toyes"</quote> Bacon wrote in the essay</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-masq">On Masques &amp; Triumphs</rs> The actors were</l>
+          <l><quote source="#" rend="inline">These things be but toyes"</quote> <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> wrote in the essay</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-masq" key="Of Masques and Triumphs">On Masques &amp; Triumphs</rs> The actors were</l>
         </p>
       </div>
       <div xml:id="m1-8-3.13" n="13" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-13">
@@ -765,10 +763,10 @@
           <l>civilised society; <del>When they had</del> Off the stage they were</l>
           <l>they <del>brawled,</del> <del>stuck knives into</del> <del>knifed each other,</del></l>
           <l><del>brawled,</del> cut each others throats; lived in the <del>depths of</del></l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-hear">heart of darkness</rs>, <del>in danger</del>, <del>The</del> <del>So complete</del></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-hear" key="Heart of Darkness">heart of darkness</rs>, <del>in danger</del>, <del>The</del> <del>So complete</del></l>
           <l>with <del>knives</del> cut throats &amp; [atheists?]. Bacon</l>
           <l>so complete in his contempt for the mountebanks at</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-sout">Southwark</rs> that he can be tolerant. The proper</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-sout" key="Southwark">Southwark</rs> that he can be tolerant. The proper</l>
           <l>place for the weak passion of love was the stage <del>"</del></l>
           <l>for <quote source="#" rend="inline">love leads to speaking in a perpetual</quote></l>
           <l><quote source="#" rend="inline">hyperbole."</quote> <del>That</del> <del>Was it this gulf between the</del></l>
@@ -793,8 +791,8 @@
           <l>Revenge; of Audacity, of simulation and dissimulation</l>
           <l>of parents &amp; children, of Marriage and Single life..</l>
           <l>The essays preserve the sediment of the</l>
-          <l>folk at the high table, <del>with <rs type="literary-work" ref="../resources/annotations.xml#lit-stra">Elizabeth, with</rs></del></l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-stra"><del>with Essex</del></rs> <del>If the Queen</del> <add place="above"><del>the</del></add> He is concerned</l>
+          <l>folk at the high table, <del>with <rs type="literary-work" ref="../resources/annotations.xml#lit-stra" key="Elizabeth and Essex">Elizabeth, with</rs></del></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-stra" key="Elizabeth and Essex"><del>with Essex</del></rs> <del>If the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs></del> <add place="above"><del>the</del></add> He is concerned</l>
           <l>with the world of princes; with the art of</l>
           <l><del>Government, with the</del> <del>ruling men:</del> with the</l>
           <l>art of <del>see</del> <del>putting affairs</del> <del>seeing</del> government; with the</l>
@@ -819,10 +817,10 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-14/803,702,1867,992/full/0/default.tif">
           <l><del>The</del> <del>Yet,</del> <del>The soul is shut in by these delicate groves.</del></l>
-          <l><del>Walking in his groves, <del>he</del> Bacon</del> The soul that walks in</l>
+          <l><del>Walking in his groves, <del>he</del> <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs></del> The soul that walks in</l>
           <l><del>those delicate groves</del> <del>is</del> keeps to a narrow path between</l>
           <l>hedges. <del>The Elizabethan soul is <del>shut</del> has</del></l>
-          <l>while Montaigne ranges the world, rambling &amp;</l>
+          <l>while <rs type="person" ref="../resources/annotations.xml#psn-mmon" key="Montaigne, Michel de">Montaigne</rs> ranges the world, rambling &amp;</l>
           <l><del>vagrant,</del> [infectuous?], <add place="above">[slovenly?] &amp;</add> loose, fertile, <del>fecund</del></l>
           <l>endlessly <del>infectuous</del> <del>Mast</del> Bacon keeps to the narrow</l>
           <l>path. <del>And, as</del> <del>There was</del> between hedges. <del>There was</del></l>
@@ -832,7 +830,7 @@
           <l>It <del>uses is rich</del> This <del>rich, embo</del> ...</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-14/819,1576,1787,1408/full/0/default.tif">
-          <l><del>The</del> Bacons contempt for hyperbole was medicinal.</l>
+          <l><del>The</del> <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacons</rs> contempt for hyperbole was medicinal.</l>
           <l>He was teaching the [irrepressible?] atheistical player to</l>
           <l>speak slowly, clearly, subtly, to stiffen their</l>
           <l>poetry with prose. If a creative eye is, like</l>
@@ -864,9 +862,9 @@
           <l>swift thought. <del>Therefore</del> <del>making</del> Clothed in</l>
           <l>their innumerable [jewels?] had anonymity, the players</l>
           <l>were about the court, in the groves. Even</l>
-          <l>if <del>the soul</del> there was no Montaigne to <del>put</del></l>
+          <l>if <del>the soul</del> there was no <rs type="person" ref="../resources/annotations.xml#psn-mmon" key="Montaigne, Michel de">Montaigne</rs> to <del>put</del></l>
           <l>give the soul fluency, freedom, vagrancy, there <del>was</del></l>
-          <l>were <del>then packed</del> <del>the</del> was <del>in Bacons eye</del> Bacon to [illeg.]</l>
+          <l>were <del>then packed</del> <del>the</del> was <del>in <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacons</rs> eye</del> Bacon to [illeg.]</l>
           <l><del>the</del> <del>some</del> knowledge, [imagery?], [everylt?], the arts of</l>
           <l>made available; in very close words; in <del>such</del> few</l>
           <l>wordsl in words that compress meaning, yet give it</l>
