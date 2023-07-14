@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8, 7 of 10. [If you have read this brittle &amp; imperfect sketch...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 27-32. 6p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-7</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-7. [If you have read this brittle &amp; imperfect sketch...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 27-32. 6p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-7.1" n="2" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-1/1017,82,1019,128/full/0/default.tif">
+          <l><del>Letter</del> <del>Comment</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-1/755,148,1877,3072/full/0/default.tif">
+          <l>If you have read this brittle &amp; imperfect sketch, with its</l>
+          <l>exaggerations, its foreshortenings <del>you will complain</del></l>
+          <l>will <del>come to say</del> <del>given,</del> you will complain;</l>
+          <l>the <del>there is nothing here to</del> <del>which leaves out</del></l>
+          <l><del>the very</del> which <del>gives</del> <del>a</del> <del>&amp; the</del> a</l>
+          <l><del>with justice.</del> <del>For the</del> <del>reader to</del> &amp;</l>
+          <l><del>this</del> <del>thus</del> – a naked attempt to point at</l>
+          <l>art <del>,</del> <rs type="place" ref="../resources/annotations.xml#pla-stpa">St Pauls</rs>, <rs type="place" ref="../resources/annotations.xml#pla-wmab">Westminster Abbey</rs> &amp; the <rs type="place" ref="../resources/annotations.xml#pla-towe">Tower of</rs></l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-towe">London</rs> to a visitor from the country.</l>
+          <l><del>The</del> <del>What we will now attempt then is</del></l>
+          <l><del>express</del> We will now <del>attempt</del> from there to look at</l>
+          <l>the famous monuments from another angle</l>
+          <l><del>to wander to for a moment, in free from</del></l>
+          <l><del>Free from dates</del> <del>Let us</del> <del>free <del>ourselves</del> from</del></l>
+          <l><del>dates, free from the eyes of Professor [Bude?], who</del></l>
+          <l><del>by ears of work in [museums?] has established</del></l>
+          <l><del>the probability – it is no more – that <rs type="person" ref="../resources/annotations.xml#psn-tmid">Middleton</rs></del></l>
+          <l>had a hand in the <rs type="literary-work" ref="../resources/annotations.xml#lit-reve">Revengers Tragedy</rs> –</l>
+          <l><del>the</del> to <del>discover</del> <del>what</del> <del>dream for a moment,</del> free</l>
+          <l><del>from dates</del> <del>[illeg.] for a moment from</del></l>
+          <l>the <del>tyranny of dates,</del> <del>&amp; from the</del></l>
+          <l><del>It is</del> <del>The</del> Let us try then to look</l>
+          <l>at these famous monuments from another angle:</l>
+          <l><del>to change <del>our</del> to the other side of the pillow: to</del></l>
+          <l><del>discuss &amp; <del>together</del> some of the difficulties, the</del></l>
+          <l><del>of</del>              <del>But to</del> <del>there is always</del></l>
+          <l><del>something unreal in literary criticism</del></l>
+          <l>There is always an <del>unreality</del> in <del>such</del></l>
+          <l><del>literary criticism,</del> something stiff &amp;</l>
+          <l>unnatural in the critics prose. <del>It</del></l>
+          <l><del>would</del> <del>a</del> <del>If</del> <del>it is his</del> <del>the</del></l>
+          <l>He has in the first place, to – to</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-7.2" n="2" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/779,126,1299,128/full/0/default.tif">
+          <l><del>if he writes to</del> <del>He is constrained</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/797,226,1531,244/full/0/default.tif">
+          <l>To do this we must <del>bid farewell to sink down,</del></l>
+          <l><del>beyond the reach of</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/791,412,1483,208/full/0/default.tif">
+          <l><del>It is time that another attitude</del> <del>The</del></l>
+          <l><del>The unreality is perhaps due</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/769,556,1611,440/full/0/default.tif">
+          <del>
+            <l>Suppose that for a moment we cease to</l>
+            <l>concern ourselves with <del>the sequence in time,</del></l>
+            <l>there is another way of looking at these famous</l>
+            <l>monuments.</l>
+          </del>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/807,914,1699,576/full/0/default.tif">
+          <l>The critic, we must admit, is <del>a</del> one of the least</l>
+          <l>real of writers, the most inhibited the most</l>
+          <l>restricted. <add place="above">of writers</add> <del>On the one hand</del> Suppose he</l>
+          <l><del>attempts to convey his own impression –</del></l>
+          <l>so often his emotion runs counter to his reason.</l>
+          <l>The pressure</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/855,1442,1679,144/full/0/default.tif">
+          <l>This [naked?] &amp; imperfect sketch <del>leaves</del> requires to be</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/761,1516,1811,1164/full/0/default.tif">
+          <del>
+            <l>You will complain that this rushed &amp;</l>
+            <l>imperfect sketch has shown you nothing of the</l>
+            <l>real force behind <del>this</del> <del>th</del> these famous</l>
+            <l>monuments. <del>Let us for a moment then look</del></l>
+            <l><del>at them from a different angle.</del></l>
+            <l>It is a charge that can be levelled against all</l>
+            <l><del>out</del> criticism. <del>For though the reader who</del></l>
+            <l><del>For the critic has</del> No sooner has the pen</l>
+            <l>touched the page, than there rise up</l>
+            <l>so many <del>of those</del> influences which</l>
+            <l>are hostile to the transmission of</l>
+            <l>the emotion.</l>
+          </del>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-2/699,2052,475,100/full/0/default.tif">
+          <add place="margin">The 
+            <choice>
+              <sic>chge</sic>
+              <corr>charge</corr>
+            </choice> is just;</add>
+        </p>
+      </div>
+      <div xml:id="m1-8-7.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3/801,98,1707,244/full/0/default.tif">
+          <l><del>You will say that</del> <del>there is</del> no <del>inducement is given you</del></l>
+          <l><del>to believe that the in the</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3/783,320,1847,672/full/0/default.tif">
+          <del>
+            <l>For a moment let us change the angle. Let us</l>
+            <l>discuss the difficulties of criticism. In the</l>
+            <l><del>first place</del> one of the greatest is <del>that we</del></l>
+            <l><del>cannot explain the instinct</del> that the <del>critic is</del></l>
+            <l>mere art of <del>criticism the erection of a</del></l>
+            <l><del>all</del> outing is alluded with great drawbacks.</l>
+            <l>It is perpetually interrupted. It is overshadowed.</l>
+            <l>It is impossible to</l>
+          </del>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3/811,946,1831,2252/full/0/default.tif">
+          <l>Let us then attempt <del>what</del> for one brief moment</l>
+          <l><del>that</del> very dangerous transition: from one</l>
+          <l>attitude of mind to another. <del>In this case</del></l>
+          <l>from the omniscient to the fallible. It is</l>
+          <l>&amp; admit in the first place, that the</l>
+          <l><del>scene</del> we cannot say have the creative</l>
+          <l>impulse, save by giving experience to it</l>
+          <l>ourselves. <del>Thus</del> <del>the time</del> <del>Therefore when we</del></l>
+          <l><del>talk of the plays of</del> <del>And as anybody</del></l>
+          <l><del>knows who has written even a short story</del></l>
+          <l><del>the creative impulse is only to be stated in its</del></l>
+          <l><del>own terms.</del>    <del>If then we want to convey</del></l>
+          <l><del>any notion</del> <del>So</del> <del>Talk</del> It is undeniable</l>
+          <l>that the creation of a work of art by some one else</l>
+          <l>produces <del>something</del> an emotion in us.</l>
+          <l>And the origin of [illeg.] is the desire <del>to</del> in</l>
+          <l><del>in the first place</del> <add place="above">[illeg.]</add> to transmit this emotion</l>
+          <l>&amp; then to explain it. The difficulties that</l>
+          <l>make this an impossible undertaking.</l>
+          <l>Take, as a simple instance, the quotation</l>
+          <l><del>This</del> In order to copy out even one stage of a</l>
+          <l>play, it is necessary to open at the right</l>
+          <l>page then to copy accurately. This</l>
+          <l>at once breaks the stream of thought. Besides,</l>
+          <l>there is always present the other critic –</l>
+          <l>Let us see him in person – <del>a</del> For ever</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-7.4" n="4" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4/731,82,1847,1488/full/0/default.tif">
+          <l>so many years, he has not been later than nine at the [illeg.].</l>
+          <l>Or, his lectures have been so regular that one 
+            <choice>
+              <sic>cd</sic>
+              <corr>could</corr>
+            </choice></l>
+          <l>find hum at his place at the reading desk at <del>ni</del></l>
+          <l>[luch?] every Monday. <del>He st</del> There is no need to</l>
+          <l>discuss the effect of that prohibition. If we</l>
+          <l>could evade all this, we should ahve to seek into a</l>
+          <l>very dirty layer of the mind. to be able to</l>
+          <l>put down the book &amp; the paper &amp; the</l>
+          <l>pen. to <del>dis</del> free ourselves entirely from the</l>
+          <l>subservience <del>to the fact</del> to free ourselves from</l>
+          <l>all the [impositions?] of authority &amp;</l>
+          <l>the dominion of what is customary.</l>
+          <l><del>How often</del> to say openly that there is</l>
+          <l><del>nothing doing. There is</del> to <del>slip</del> <del>into</del></l>
+          <l>all these are <del>done</del> <del>force</del> that diminish, distort</l>
+          <l>the <del>fact is tha</del> <del>It is would be</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4/787,1530,1743,140/full/0/default.tif">
+          <l>There <del>remains</del> <del>a</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4/771,1504,1771,660/full/0/default.tif">
+          <l>Let us <del>say then that</del> try then to</l>
+          <l>recapture some actual experience, which seems</l>
+          <l>to have a connection, <del>though a different one,</del></l>
+          <l>with the experience of reading these old</l>
+          <l>books: to spring from poetry; to</l>
+          <l>be [interfaced?] with the same emotion.</l>
+          <l><del>Let us forget</del> <del>For exam</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4/895,2102,1047,160/full/0/default.tif">
+          <l><del>Whether the has still runs</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4/837,2166,1599,1156/full/0/default.tif">
+          <l>If [illeg.] If still ran, let us take it</l>
+          <l>when the [owling?] time is at hand, down to</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-lobr">London Bridge</rs>. There is a curious smell</l>
+          <l>in this part of the world, of hops, [illeg.];</l>
+          <l>&amp; also a curious [illeg.]</l>
+          <l>a woman from one way hails a man from</l>
+          <l>the other. <del>The shouted words</del></l>
+          <l><del>imply</del> Here there is no differentiation.</l>
+          <l>The streets are drab enough. The</l>
+          <l>river has a great turbulent swollen</l>
+          <l>stream. The cranes are picking sacks from</l>
+          <l>the holds of ships. There is a</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-7.5" n="5" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5/797,48,1583,1912/full/0/default.tif">
+          <l>shiny slab of mud beneath the warehouses; &amp; St Pauls</l>
+          <l>rises. The gulls are swooping; &amp; some small boys</l>
+          <l>paddle in the pebbles. Above the sky is</l>
+          <l>huddled &amp; crowded with purple streamers.</l>
+          <l>We are still thinking of the plays, because</l>
+          <l>it was here that the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs> stood. Now let us</l>
+          <l>give way to the imagination. <del>After all</del></l>
+          <l><del>what are four hundred years.</del> <del>We can</del></l>
+          <l><del>What</del> The roar &amp; the chaos; the [friend?] of</l>
+          <l>which; the general diffusion: all</l>
+          <l>soon breed a great device for statement.</l>
+          <l>Such was one of the elements in the drama.</l>
+          <l>Another, <del>the language.</del> <del>In</del> Here is the</l>
+          <l>unwritten poem. In this disorder, this sound,</l>
+          <l>the difficulty of keeping away from the</l>
+          <l>statement. A roar, a general incoherence.</l>
+          <l>the presence of light, &amp; [sentences?]; some</l>
+          <l>saying: an attitude. In us</l>
+          <l>leaving over the river, long one way in some</l>
+          <l>alley; there rises the curious nameless</l>
+          <l><del>drive</del> <del>to express</del> – <del>but less</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5/867,1873,1342,228/full/0/default.tif">
+          <l>The <del>more heightened the more need of</del></l>
+          <l><del>poetry</del> <del>Who is there</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5/745,2047,1650,458/full/0/default.tif">
+          <l><del>If</del> It is equally important, to the</l>
+          <l>understanding of the poem, <del>to</del> not to read at all.</l>
+          <l>to dip, now &amp; again into the inchoate</l>
+          <l>&amp; to talk, with many [illeg.], much</l>
+          <l>felt art.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5/776,2470,1638,330/full/0/default.tif">
+          <del>
+            <l>This is particularly true today; when </l>
+            <l>the [economic?] force is cutting the critic into</l>
+            <l>a special force.</l>
+          </del>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5/746,2724,1650,410/full/0/default.tif">
+          <l>For then we revive the reader – a very</l>
+          <l>impatient person. <del>The</del> For the reader was</l>
+          <l>born when the playhouse closed.</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-7.6" n="6" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-6">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-6/787,112,1675,1716/full/0/default.tif">
+          <l>This brittle &amp; imperfect sketch, with its exaggerations &amp;</l>
+          <l>foreshortenings, serves to bring out only the shapes of</l>
+          <l>certain prominent objects; <del>but</del> <del>&amp;</del> <del>To convey</del></l>
+          <l><del>The</del> &amp; that perhaps so partially that they are</l>
+          <l>unrecognisable. Its implications can [illeg.]</l>
+          <l><del>pointed out</del> by removing for a moment, the</l>
+          <l>critical attitude; &amp; talking <del>for a moment</del></l>
+          <l>as   Let us talk for a moment without the book.</l>
+          <l>Let us look at the critical position &amp;</l>
+          <l>discover why it is so alien to the private</l>
+          <l>position. In the first place the critic is</l>
+          <l>infallible. But in order to adress this attitude he has</l>
+          <l>to stiffen himself     a more supple method [illeg.]</l>
+          <l>needed. If we <del>could</del> return to the age of</l>
+          <l>innocence: if we could talk, if we could</l>
+          <l>even write a letter to a friend <del>about Shakespeare.</del></l>
+          <l><del>Indeed the</del> <del>som</del> deplore some way of</l>
+          <l>preserving those natural exclamations.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-6/869,1712,1647,1592/full/0/default.tif">
+          <l><del><del>Much</del> It is a <del>long time</del> our London; our</del></l>
+          <l><del>the London of books; <del>their</del> the <del>we</del> frequency</del></l>
+          <l><del>with which they [dumb?] [hunger?]: if we could</del></l>
+          <l><del>return to the innocent state of [memory?]: as</del></l>
+          <l><del>given &amp; also those [desiring?] cries</del></l>
+          <l>But wecome, at the end; when so much has</l>
+          <l><del>been said</del> so much said    so much known:</l>
+          <l>so great a human effort has been</l>
+          <l>expended. In order to provide us</l>
+          <l>with our knowledge, many lives have been</l>
+          <l>passed in coal mines: And tho the</l>
+          <l>result is often of no importance, we must</l>
+          <l>repeat the effort.    A great</l>
+          <l>[anti?] room separates us from the</l>
+          <l>book, filled with [loved? bored?], yet [illeg.]</l>
+          <l>readers. <del>Often we</del> <del>a</del></l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

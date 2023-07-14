@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 10 of 11. [Anon: and the peasants to respect their mother tongue...]. Typescript fragment, 2 fols.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-10</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 10 of 11. [Anon: and the peasants to respect their mother tongue...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m54-10.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1/860,124,172,150/full/0/default.tif">
+          <l>20</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1/846,250,1744,674/full/0/default.tif">
+          <l>and the 
+            <choice>
+              <sic>peasnts</sic>
+              <corr>peasants</corr>
+            </choice> to respect their 
+            <choice>
+              <sic>moth r</sic>
+              <corr>mother</corr>
+            </choice> 
+            <choice>
+              <sic>thongue</sic>
+              <corr>tongue</corr>
+            </choice>. He was</l>
+          <l>making it possible for the gentry and the commons to sit</l>
+          <l>together xmxmxmxmxmx <add hand="ms">in one house</add> listening to a play/</l>
+          <l>xmxmxmxmxmxmxmxmxm The wandering actors axmxmxmxm</l>
+          <l>xmxmxmxmxmxmmxmxmxmxmxm576 had their own house, <add hand="typewriter" place="above">some house of their own,</add></l>
+          <l>their centre, in 1576.   In</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1/847,904,1846,2492/full/0/default.tif">
+          <l>In 1576 xmxmxmmxmxmmxmxmxmxmmx the wandering</l>
+          <l>actors, <add hand="ms" place="above"><!--come back to this--></add> 
+            <choice>
+              <sic>ahad</sic>
+              <corr>had</corr>
+            </choice> their 
+            <choice>
+              <sic>ow</sic>
+              <corr>own</corr>
+            </choice> centre, their playhouse. in 1593</l>
+          <l>the <rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs> in <rs type="place" ref="../resources/annotations.xml#pla-sout">Southwark</rs> needed rebuilding. Planks and nails</l>
+          <l>andhinges and timber were The sums paid for 
+            <choice>
+              <sic>plnaks</sic>
+              <corr>planks</corr>
+            </choice> and</l>
+          <l>and nails and hinges and timber were entered by <rs type="person" ref="../resources/annotations.xml#psn-phen">
+            <choice>
+              <sic>Hensloew</sic>
+              <corr>Henslowe</corr>
+            </choice></rs></l>
+          <l>in his vellum bound book. It was a wooden house, part</l>
+          <l>xxxf open to the air, hxxxxx part thatched. It stood</l>
+          <l>on the <rs type="place" ref="../resources/annotations.xml#pla-bank">
+            <choice>
+              <sic>Banksdie</sic>
+              <corr>Bankside</corr>
+            </choice></rs> next to the <rs type="place" ref="../resources/annotations.xml#pla-barg">
+              <choice>
+                <sic>Bargem</sic>
+                <corr>Barge,</corr>
+              </choice></rs> the <rs type="place" ref="../resources/annotations.xml#pla-bell">Bell</rs> and the</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-cock">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
+            <choice>
+              <sic>Bakside</sic>
+              <corr>Bankside</corr>
+            </choice> was 
+            <choice>
+              <sic>infsted</sic>
+              <corr>infested</corr>
+            </choice> with hogs.</del></l>
+          <l>and the Bankside was infested with hogs. <add hand="ms" place="inline">[</add>It would hold,</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-greg">Dr Greg</rs> 
+            <choice>
+              <sic>calaculates</sic>
+              <corr>calculates</corr>
+            </choice>,3,000 people. and the 
+            <choice>
+              <sic>avergae</sic>
+              <corr>average</corr>
+            </choice> 
+            <choice>
+              <sic>audince</sic>
+              <corr>audience</corr>
+            </choice></l>
+          <l>was about 1500. <add hand="ms" place="inline">]</add> Most paid one penny to stand in the open;</l>
+          <l>xxxx twopence secured a seat; xmxmxmxx sixpence a seat</l>
+          <l>under cover. At half past two in the afternoon, the flag</l>
+          <l>was hoisted over the Rose; the trumpets sounded, and</l>
+          <l>the audience flocked across the river. For 
+            <choice>
+              <sic>whate</sic>
+              <corr>what</corr>
+            </choice> other amuse</l>
+          <l>ment was there 
+            <choice>
+              <sic>offor</sic>
+              <corr>for</corr>
+            </choice> the gentlemen of the court, of the Inns</l>
+          <l>of 
+            <choice>
+              <sic>co rt</sic>
+              <corr>court</corr>
+            </choice> " for the numbers of Captains and soldiers</l>
+          <l>about London? Only the 
+            <choice>
+              <sic>amusmenets</sic>
+              <corr>amusements</corr>
+            </choice> that the preachers</l>
+          <l>denounced; carding, dicing, gaming, 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> following of harlots</l>
+          <l>and drinking. The common people came from the 
+            <choice>
+              <sic>croded</sic>
+              <corr>crowded</corr>
+            </choice> 
+            <choice>
+              <sic>fesertig</sic>
+              <corr>festering</corr>
+            </choice></l>
+          <l>little streets round St Pauls, where the dead bodies smelt</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1/847,904,1846,2492/full/0/default.tif">
+          <add place="margin"> <!-- look on the big screen -->
+            <l>the contrast between</l>
+            <l>[town?], country</l>
+            <l></l>
+            <l></l>
+            <l></l>
+            <l></l>
+            <l></l>
+            <l></l>
+            <l></l>
+            <l></l>
+          </add>
+        </p>
+      </div>
+      <div xml:id="m54-10.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-2" />
+      <div xml:id="m54-10.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3/883,54,227,198/full/0/default.tif">
+          <l>21</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3/881,218,1811,1430/full/0/default.tif">
+          <l>strong. The watermen of the Bankside lived on their fares.</l>
+          <l>The flag flew; the trumpets sounded; and the 
+            <choice>
+              <sic>audince</sic>
+              <corr>audience</corr>
+            </choice></l>
+          <l>paying their penny, their two pence or their six pence,</l>
+          <l>
+            <choice>
+              <sic>criwded</sic>
+              <corr>crowded</corr>
+            </choice> into the playhouse, and beheld in the light</l>
+          <l>of day noxmxmxmxmxmx <add hand="ms" place="above">[illeg.]</add> actors, richly dressed 
+            <choice>
+              <sic>accoring</sic>
+              <corr>according</corr>
+            </choice> to</l>
+          <l>one spectator in  the cast off robes of the 
+            <choice>
+              <sic>novbles</sic>
+              <corr>nobles</corr>
+            </choice>, sold by</l>
+          <l>their servants. in the taffetas and tinsels that 
+            <choice>
+              <sic>Hensloew</sic>
+              <corr>Henslowe</corr>
+            </choice></l>
+          <l>in the satin doublets and hose laid thick with gold lace</l>
+          <l>that 
+            <choice>
+              <sic>Henslew</sic>
+              <corr>Henslowe</corr>
+            </choice> entered in his book. But; or 
+            <choice>
+              <sic>accorind</sic>
+              <corr>according</corr>
+            </choice> to th 
+            <choice>
+              <sic>on</sic>
+              <corr>one</corr>
+            </choice></l>
+          <l>spectator, dressed in the cast off robes of their servants. There was no scenery. The sun beat</l>
+          <l>or the rain 
+            <choice>
+              <sic>pour d</sic>
+              <corr>poured</corr>
+            </choice> on the common people standing in the yard.</l>
+          <l>
+            <choice>
+              <sic>A d</sic>
+              <corr>And</corr>
+            </choice> then the actor spoke:</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3/895,1626,1355,358/full/0/default.tif">
+          <quote source="#" rend="inline">
+            <l>Brother Cosroe, I find myself aggrieved,</l>
+            <l>Yet insufficient to express the same;</l>
+            <l>For it requires a great and 
+              <choice>
+                <sic>thunder ng</sic>
+                <corr>thundering</corr>
+              </choice> speech</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3/891,1970,1831,386/full/0/default.tif">
+          <l>At last the voice of a real man speaks. The play is</l>
+          <l>centred; concentrated. It has a lodging. The 
+            <choice>
+              <sic>wabdering</sic>
+              <corr>wandering</corr>
+            </choice> voices</l>
+          <l>xmxmxmxxx are concentrated; the</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3/907,2342,1803,986/full/0/default.tif">
+          <l>At last the wandering voices are collected. One man speaks</l>
+          <l>in his own person. The 
+            <choice>
+              <sic>wnadering</sic>
+              <corr>wandering</corr>
+            </choice> voices are collected<add place="inline" hand="ms">: [centred?]</add></l>
+          <l>There is no abstraction any longer. All is visible, 
+            <choice>
+              <sic>tamgible</sic>
+              <corr>tangible</corr>
+            </choice></l>
+          <l>audible. The world takes shape behind him. Egypt and Libya</l>
+          <l>and 
+            <choice>
+              <sic>Perisa</sic>
+              <corr>Persia</corr>
+            </choice> and Greece unroll bxmxmxmxmmxx and armies and</l>
+            <l>Kings and 
+              <choice>
+                <sic>p ains</sic>
+                <corr>plains</corr>
+              </choice>. Kings and Emperors 
+              <choice>
+                <sic>strdie</sic>
+                <corr>stride</corr>
+              </choice> 
+              <choice>
+                <sic>fort </sic>
+                <corr>forth</corr>
+              </choice>,</l>
+          <l>palpable, and strident. They emerge like great moths,</l>
+          <l>xmxmxmx sxmxmxmx shaking their wings still creased and</l>  
+          <l>damp in 
+            <choice>
+              <sic>ansurd</sic>
+              <corr>absurd</corr>
+            </choice> hyperboles.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

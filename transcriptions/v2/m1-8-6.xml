@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8, 6 of 10. [The readers faculty is a queer one...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 21-26. 6p</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-6</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-6. [The readers faculty is a queer one...]. Holograph. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 21-26. 6p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-6.1" n="1" fac="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-1/">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-1/759,56,1847,1984/full/0/default.tif">
+          <l>The readers faculty is a queer one. He has the power to make</l>
+          <l>houses &amp; countries visible <del>as</del> through the printed page; men &amp;</l>
+          <l>women, &amp; their emotions &amp; thoughts; <del>He has also</del> the <del>more</del></l>
+          <l><del>the sense</del> of &amp; [birdes?], a sense of <del>their</del> relations; whether</l>
+          <l>the emotion [emtubates?], or dissipates. <del>And</del> <del>B</del><add place="inline">A</add>nd he is</l>
+          <l>alwauys limited by his time. <del>What is visible to one</del></l>
+          <l><del>generation, is <del>lost</del> <add place="above">[not?]</add> to another.</del> He is <del>not interested in</del></l>
+          <l><del>language.</del> texts. He <del>does not pass</del> He is not a scholar; <del>not</del> &amp; so</l>
+          <l>[laiks?] may &amp; the critics fools. <del>And</del> And yet, <del>with all</del></l>
+          <l>And yet he is exercising <del>quite</del> another faculty than the</l>
+          <l>newspaper reader. <del>And</del> one that millions of the literate</l>
+          <l>are without. Often he is himself a writer. This gives</l>
+          <l>him a queer [arc? after?] of vision. <del>The</del> And he is</l>
+          <l>sensitive to a voice that becomes increasingly audible –</l>
+          <l><del>It would be</del> <del>a [illeg.]</del> Now &amp; again it is to be</l>
+          <l><del>heard even in the 16th centruy: even the</del></l>
+          <l><del>Even in the 16th century, when the stage, among</del></l>
+          <l><del>other influences, was palpable to the personality – so</del></l>
+          <l><del>that</del> As for the obvius reason that the body of the</l>
+          <l>actor <del>fal</del> plays so great a part in the words.</l>
+          <l>The body is there visible: there is a great</l>
+          <l>opportunity <del>to</del> in</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-1/763,1874,1835,1356/full/0/default.tif">
+          <l>When the body of the actor is visible, with all its <add place="above">the implications</add></l>
+          <l>implicationsl there is <del>still</del> <del>force for a that destroys</del></l>
+          <l>some of the elements 
+            <choice>
+              <sic>wh</sic>
+              <corr>which</corr>
+            </choice> the reader extracts from the</l>
+          <l>printed page. But it <add place="above">are not</add> This is the reason, perhaps, why</l>
+          <l>we do not 'know' <rs type="person" ref="../resources/annotations.xml#psn-cmar">Marlowe</rs>, <rs type="person" ref="../resources/annotations.xml#psn-tdek">Dekker</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou">Tourneur</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jfor">Ford</rs>.</l>
+          <l>No scholar will ever now disciver them. What we</l>
+          <l>have of them is what it was possible for their</l>
+          <l>actors to <del>convey.</del> <del>a generalised tendency.</del></l>
+          <l><del>For the particular we must wait for the</del> stage to</l>
+          <l><del>But</del> <del>To find their</del> To <del>put this theory</del> And</l>
+          <l><del>This knowledge of the author is <del>an easy</del></del></l>
+          <l><del>And yet if we do not know that</del> <del>Something is</del></l>
+          <l><del>gratified by L I B, by <del>[Bint?]; their</del></del> Everybody</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-6.2" n="2" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2/761,116,1703,632/full/0/default.tif">
+          <l>thus makes 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> in his own image. <del>
+            <choice>
+              <sic>Shre</sic>
+              <corr>Shakespeare</corr>
+            </choice> is infinitely various.</del></l>
+          <l><del>
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> changes with every play. That is a good reason</del></l>
+          <l><del>for [writing?] up <del>pull</del> evading 
+            <choice>
+              <sic>Shre</sic>
+              <corr>Shakespeare</corr>
+            </choice></del> –– <del>that in order to</del></l>
+          <l>it <del>proves</del>   <del>If we</del> We cannot <del>tether</del> him; he</l>
+          <l><del>He</del> It is one of the <add place="above">[differently?]</add> <del>baffling</del> <add place="above">but</add>, perpetually obliterating:</l>
+          <l><del>rubbing</del> <del>all</del> <del>&amp; consumed</del> so <add>[commonly?] [expression?]</add> consumed, that he he</l>
+          <l>has no separate existence. <del>The firs</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2/731,700,1845,2560/full/0/default.tif">
+          <l>And when in 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> this pressure to say [illeg.] through other</l>
+          <l>people [must? mock?], the <del>single</del> person who is saying them is</l>
+          <l>obliterated. <del>And</del> <del>The reader</del> <del>is not</del> On the one hand</l>
+          <l>we have the most completely articulate of men:</l>
+          <l>&amp; at the same time, nobody in particular. This</l>
+          <l>It is this that makes criticism inadequate. The</l>
+          <l><del>critic tries to [impute?] his own measure</del></l>
+          <l>&amp; set enthralling. <del>Very few of the [illeg.]</del> <del>There is</del> It is</l>
+          <l>impossible to read him without feeling his presence:</l>
+          <l>but    to feel always that he is there: &amp; at the</l>
+          <l>same time that he is somewhere else.</l>
+          <l>to feel that he is, more than any other poet,</l>
+          <l>the poet who <del>says</del> <del>spe</del> expresses; <del>&amp;</del> And every reader</l>
+          <l>has a dozen methods of [courting?] him   <del>there is</del></l>
+          <l><del>the</del> I will, says one, visualise him: &amp;:</l>
+          <l>He was fine &amp; generous; &amp; if we like to add, about</l>
+          <l>middle height with a [clothed?] fine head, no one offends.</l>
+          <l>He certainly walked down <rs type="place" ref="../resources/annotations.xml#pla-blac">Blackfriars</rs>: &amp; ate at times</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-merm">Mermaid</rs>. That line soon closes. The other –</l>
+          <l>which ambitiously castsx a line round the plays</l>
+          <l>cannot succeed because it is different every time.</l>
+          <l>Do they show a regular development?</l>
+          <l>A force of nature? Is there a pinnacle?</l>
+          <l>Is there a decline? <del>Did the</del> Was the</l>
+          <l>[retirement?] 
+            <choice>
+              <sic>fr.</sic>
+              <corr>from</corr>
+            </choice> body [illeg.]: or from the inadequacy</l>
+          <l>of the stage? <del>Another one their</del> Then his [actual?]</l>
+          <l>hard upon the letter. And [struggle?] of all, the</l>
+          <l>form. For it seems unnatural, that a body</l>
+          <l>
+            <choice>
+              <sic>shd.</sic>
+              <corr>should</corr>
+            </choice> have been the [crux?]</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-6.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-3/735,164,1861,3160/full/0/default.tif">
+          <l>Further, <del>this</del> he has given currency to much more</l>
+          <l><del>than any other writer,</del> that everyone can <del>find</del> [make? small?] [hug?]</l>
+          <l>himself in 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> <del>The scholars</del> <del>We have therefore</del></l>
+          <l><del>self no</del> <del>the reader can always extract the</del></l>
+          <l><del>very words that fit himself.</del> In other</l>
+          <l><del>books there is</del> <del>this</del> It is for this reason</l>
+          <l><del>that</del> the critic <del>paits his o</del> is always</l>
+          <l><del>accenting the</del> can always find in 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice></l>
+          <l><del>a</del> something that only he can find – his own</l>
+          <l>idiosyncrasies. Hence the autobiographical</l>
+          <l>element in             
+            <choice>
+              <sic>Sh.</sic>
+              <corr>Shakespeare</corr>
+            </choice> criticism: Each of their explorers</l>
+          <l>is <del>drawn</del> seems for a moment to sum up, &amp;</l>
+          <l>then is consumed, &amp; the light forms from behind him:</l>
+          <l>this effort which it leaves 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> always
+          </l>
+          <l>undiscivered, in the sense that [later?] writers are</l>
+          <l>summed up because there are such obvious</l>
+          <l>limits to their power. But it means that</l>
+          <l>
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> is always alive. <del>It is useless to fight</del>
+          </l>
+          <l><del>[survived?] him s</del> <del>At</del> <del>The</del> <del>And although</del></l>
+          <l><del>the appetite of the reader is always capacious:</del></l>
+          <l>he is not, as so many writers are, the</l>
+          <l>He does not, as so many writers do, feed</l>
+          <l>momentary appetites &amp; all readers who</l>
+          <l>are themselves writers, feel <del>at</del> inexplicable</l>
+          <l>hunger, for certain styles, for certain forms.</l>
+          <l>
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare's</corr>
+            </choice> styles are so innumerable that he never
+          </l>
+          <l>lowers <del>as to</del> to clear up any particular points</l>
+          <l><del>any</del> <del>the</del> He can as [soon?] be read, when the</l>
+          <l>ink has gone dry on the pen, to restore language</l>
+          <l>He can give the general sense of speed.</l>
+          <l>But the style &amp; the [scope?] make him</l>
+          <l>unsuitable, unless, for the writer as a model.</l>
+          <l>Then</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-6.4" n="4" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-4">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-4/707,176,1829,2568/full/0/default.tif">
+          <l>At what point in the Elizabethan drama is the</l>
+          <l>reader born? At what point do we cease to be</l>
+          <l>aware of the trumpet &amp; the flag; of the</l>
+          <l>presence <add place="above">[ruchess?]</add> of the audience drawing up the poetry</l>
+          <l>like a sheet of paper drawing up a fire, &amp;</l>
+          <l>becoming detached, reading in a room alone.</l>
+          <l><del>The play is</del> <del>The reader came very gradually</del> into</l>
+          <l><del>existence.</del> The <del>audience was</del> the <del>audience</del> <del>had no</del></l>
+          <l>book <del>of the words. They</del> Elizabethan audience</l>
+          <l>had no <del>book of the words.</del> <del>They had to see</del> <del>We</del></l>
+          <l>They had to draw in the play <del>through their ears &amp;</del></l>
+          <l><del>their eyes; by &amp; thus</del> as they sat <del>there;</del></l>
+          <l>or stood in the Playhouse; they could not deepen, <del>[illeg/]</del></l>
+          <l>revive the impression, <del>deepen it, tether it</del> by</l>
+          <l>reading <del>in private</del> the words in <del>private</del> <add place="above">print</add>. <del>Hence</del></l>
+          <l><del>And thus</del> a <del>fact which accounts</del> <add place="above">This</add> perhaps for</l>
+          <l>the general nature of Elizabethan [illeg.]</l>
+          <l><del>for it</del> its lack of detail, its lack <del>of the</del></l>
+          <l><del>behind</del> [portal?] [illeg.] <del>What</del> <del>Behind</del> <del>the</del></l>
+          <l>The <del>spoken</del> <del>&amp;</del> <del>&amp;</del> &amp; for <del>the general forms</del></l>
+          <l>it accounts too for the <del>delay</del> <del>slow</del> <del>long</del></l>
+          <l><del>delay in</del> <del>marked pause in</del> <del>suspense,</del> <del>in</del></l>
+          <l><del>even as Shakespeares fame</del> long pause, when</l>
+          <l>even Shakespeares <add place="above">fame</add> seems to have hung suspended <del>in</del></l>
+          <l>unrealised in the air. <del>Then when the plays</del> were</l>
+          <l>printed, that <del>the reader was</del> born: &amp;</l>
+          <l>there spring up, from the detailed</l>
+          <l>great examination, the discovery of much that was</l>
+          <l><del>un</del> lost un the playhouse, &amp; found in the private</l>
+          <l>room.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-4/297,1592,167,112/full/0/default.tif">
+          <l>its</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-4/861,2556,1619,720/full/0/default.tif">
+          <l>Now of course, the reader <del>has</del> reading</l>
+          <l>faculty has become so highly developed</l>
+          <l>that we have lost a great deal <add place="above">as much as we have</add>: <del>that was</del></l>
+          <l><del>then</del> we have lost the sound of the spoken</l>
+          <l>word: we have lost <del>the</del> all that the</l>
+          <l>body of the actor gives: we have lost the</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-6.5" n="5" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-5/735,20,1806,2632/full/0/default.tif">
+          <l>sense of being part of the audience: we <del>cannot for</del></l>
+          <l>miss a thousand <del>hints that</del> <del>stresses</del> shades</l>
+          <l>that the <del>play</del> dramatist brought out <del>in</del> by</l>
+          <l>inflection, gestures, [placings?] <add place="above">plays</add>. Anybody</l>
+          <l><del>can test</del> this <add place="above">can be tested</add> by comparing the impressions</l>
+          <l>after seeing 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice> acted, &amp; after reading the play</l>
+          <l><del>But,</del> as the modern author inevitably</l>
+          <l>imports much that is foreign to 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi></sic>
+              <corr>Shakespeare</corr>
+            </choice></l>
+          <l>still <del>as</del> <del>a gap</del> <del>as</del> a dead, <del>no</del> loss: <del>an</del> <add place="above">there is</add> something sunk <add place="inline">beyond recall.</add></l>
+        </p>
+        <p>
+          <l><del>That</del> The damage inflicted on the early</l>
+          <l>plays by reading them only is very great. The</l>
+          <l>reader instinctively tries, <del>for example,</del> in</l>
+          <l>reading to be <add place="above">there in [person?]</add> at the play. He <del>instinctively</del></l>
+          <l><del>imagines</del> the trumpets &amp; the flags: the presence</l>
+          <l>of the citizens &amp; apprentices: He does what he</l>
+          <l>can to supply what is so obviously a part of</l>
+          <l><del>the</del> <del><rs ref="../resources/annotations.xml#lit-gamme" type="literary-work">Gammer Gurton Needle,</rs> of <rs type="literary-work" ref="../resources/lit-woma">A Woman Killed</rs></del></l>
+          <l>play. At some point in 
+            <choice>
+              <sic>E<hi rend="superscript">tn</hi></sic>
+              <corr>Elizabethan</corr>
+            </choice> drama,</l>
+          <l>however, the reader is born. There are scenes</l>
+          <l>or speeches that call upon his <del>reader</del> special</l>
+          <l>faculty. <del>It is</del> When the dramatist becomes</l>
+          <l>[curious?] of play as a work of art, when there is</l>
+          <l>a conection <del>between the</del> scenes, <del>when we can</del></l>
+          <l><del>still feel the</del> <del>presenting</del> connecting them</l>
+          <l>not because the plot drives him <del>to</del> forward</l>
+          <l>but because he has another unity in mind,</l>
+          <l>it is this apprehension <del>that</del> <del>gr</del> <del>transforms</del></l>
+          <l>brings <del>the reader into</del> it is this apprehension that</l>
+          <l><del>draws the</del> focuses <del>the</del> [wither?] those faculties</l>
+          <l>which are the readers.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-5/217,1282,599,904/full/0/default.tif">
+          <add place="margin">
+            <l>But he is</l>
+            <l>perpetually baffled.</l>
+            <l>He is apt to</l>
+            <l>become <del>not</del> a</l>
+            <l>student, not a</l>
+            <l>reader: a</l>
+            <l>scientist</l>
+            <l>collecting the</l>
+            <l>bones of the</l>
+            <l>extinct</l>
+            <l>animal.</l>
+          </add>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-5/811,2486,1787,860/full/0/default.tif">
+          <l>the <del>reader's faculty</del> To write the life of the</l>
+          <l>reader <del>from Elizabeth</del> for the past three hundred years:</l>
+          <l>to discover at what point his ear loses its</l>
+          <l>acuteness: when his eye became dull; when,</l>
+          <l>to balance these losses, he became word conscious,</l>
+          <l><del>when time supplied</del> conscious of the suggestions</l>
+          <l>&amp; echoes, &amp;, as time passed, added</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-6.6" n="6" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-6">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-6/639,76,1959,1572/full/0/default.tif">
+          <l><del>what probably</del> much that was unintended by the writer –</l>
+          <l>[And?] now we so often enjoy the associations</l>
+          <l>that are suggested by old spellings even,</l>
+          <l>the contrast that an unfamiliar use of</l>
+          <l>words <del>suggests</del> suggests between <del>one age &amp;</del></l>
+          <l>a past age &amp; our own –– all this</l>
+          <l>And further, as the <del>habit of</del> reading becomes</l>
+          <l>habitual, <del>the faculty</del> a unusual faculty</l>
+          <l><del>it</del> there <del>are</del> it loses [illeg.]</l>
+          <l>as we see that [dugs?] develop a road some</l>
+          <l>&amp; <del>again,</del> there are specialised readers, who</l>
+          <l><add place="margin">[must?]</add> tremendously develop the power of drawing</l>
+          <l><del>out the meaning</del> drawing out the meaning of words.</l>
+          <l>&amp; again there splits off the other</l>
+          <l>very large class of [perfectly?] literate people who</l>
+          <l>who though they <del>consume</del> run their eye over miles</l>
+          <l>of print daily never read a word</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

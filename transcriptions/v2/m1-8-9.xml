@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8, 9 of 10 The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-36. 3p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-9</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8, 9 of 10. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 34-36. 3p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-9.1" n="1" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-1/1033,114,443,160/full/0/default.tif">
+          <l><hi rend="underline">The Reader</hi></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-1/735,272,1782,2944/full/0/default.tif">
+          <l>We can suppose that the <del>reader</del> <add place="above">reading public</add> <del>came into</del></l>
+          <l><del>existence some four hundred <del>years ago</del>; when the <del>playhouse</del></del></l>
+          <l><del><del>could no longer hold the play.</del> <del>But he was</del></del></l>
+          <l><del>when the play outgrew the playhouse; when the</del></l>
+          <l><del>playhouse was shut.</del> But <del>he was</del></l>
+          <l><del>the</del>     <del>to</del> &amp; <del>was brought into being by</del></l>
+          <l>came into existence <del>when</del> <add place="above">in the first place</add> the playhouse was <del>h</del></l>
+          <l>shut; &amp; <del>when the plays outgrew the theatre.</del></l>
+          <l>&amp; in the second theatre the play <del>became</del></l>
+          <l>outgrew the theatre. <add>&amp; 
+            <choice>
+              <sic>cd.</sic>
+              <corr>could</corr>
+            </choice> only be realised fully if read</add> But the reading public</l>
+          <l>must have a small one: <del>a r</del> <del>recruited</del> <add place="above">[compared?]</add> <del>from</del> <add place="above">a</add> <del>the</del></l>
+          <l>scholars &amp; aristocrats. The lack of</l>
+          <l>general <del>wider spread</del> <add place="above">common</add> reading <del>explains</del> accounts for</l>
+          <l>the long pause, between <rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeares</rs> death &amp; the</l>
+          <l>18th century when the plays of Shakespeare</l>
+          <l>hang suspended, unrealised. They had to</l>
+          <l>wait until the plays were <del>in m</del> <del>on</del></l>
+          <l>open on many private tables, in many palms of hands,</l>
+          <l>before they received the other life, <del>which</del> the</l>
+          <l>detailed, the particular life <del>which</del> that</l>
+          <l>the reader confers.    <del>This</del> <del>Again, it accounts for</del></l>
+          <l>scarcity of 
+            <choice>
+              <sic>Ethan</sic>
+              <corr>Elizabethan</corr>
+            </choice> criticism, &amp; the general</l>
+            <l>nature of what criticism there is. <del>Both</del></l>
+          <l><del><rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs></del> <del>deal with the general</del></l>
+          <l><del>Both Sidney &amp; Jonson <del>are</del> deal with the theory of</del></l>
+          <l><del>poetry or of drama not with the particular play or</del></l>
+          <l><del>poem;</del>     the <del>attention which</del> <add place="above">task [thus?]</add> both Sidney &amp;</l>
+          <l>Jonson <del>[dwell?]</del> are concerned with general</l>
+          <l>functions, of the nature of <del>poetry &amp; drama</del></l>
+          <l>such as <del>occur</del> to <del>the</del> <del>trained</del> writer; &amp; <del>not</del></l>
+          <l><del>w</del> writing <add place="above">about matters that interest</add> for writers; <del>not with the particular</del></l>
+          <l>the <del>critic</del> <del>there is no</del> the <del>critic</del> was not</l>
+          <l><del>in</del> <del>the</del> <del>concerned</del> <del>with</del> <del>explain</del> They are not</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-1/288,908,384,284/full/0/default.tif">
+          <add place="margin">
+            <l>&amp; <choice>
+              <sic>cd.</sic>
+              <corr>could</corr>
+            </choice> only be</l>
+            <l>realised fully</l>
+            <l>if read.</l>
+          </add>
+        </p>
+      </div>
+      <div xml:id="m1-8-9.2" n="2" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2/747,112,1811,996/full/0/default.tif">
+          <l>curious of <del>any</del> <add place="above">a</add> duty <add place="above">owed</add> to the general public; for the</l>
+          <l>public <del>has</del> <add place="above">is</add> as yet <del>making no</del> <del>asking no questions</del></l>
+          <l><del>rather a</del> asking <add place="above">then</add> for information; <del>either about the</del></l>
+          <l>play, <del>or the playwright,</del> for instance, for</l>
+          <l>the general public <del>s</del> had to draw in the play as</l>
+          <l>they stood or <del>st</del> sat at the playhouse, through</l>
+          <l>their earsor through the eye. They could not</l>
+          <l>deepen &amp; service these impressions at a table in a</l>
+          <l>private room. &amp; <del>thus</del> [We?] that a book of the words by <add place="inline">[illeg.]</add></l>
+          <l>they could not ask the kind of question which</l>
+          <l><del>was to call forth <del>our</del> a profession</del> in our day</l>
+          <l>is <add place="above">debated</add> answered <del>in</del> every day in the newspapers.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2/775,1052,1763,560/full/0/default.tif">
+          <del>
+            <l>Much that was lost in the playhouse was</l>
+            <l>discovered when the play was read in the</l>
+            <l>private room – the criticism of the past hundred years</l>
+            <l>has has added to the <del>common</del> understanding of</l>
+            <l>Shakespeare. But much was <del>also</del> lost for ever</l>
+            <l>when the playhouse shut: the sound of his spoken word;</l>
+            <l><del>the</del>   <del>what</del>   <del>the</del></l>
+          </del>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2/1015,1626,1159,148/full/0/default.tif">
+          <l>As <del>for the</del> <del>the Gr</del> <del>Whether the</del></l>
+          <l><del>To the</del> <del>It is of course</del> <del>But how far</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2/337,1780,391,316/full/0/default.tif">
+          <add place="margin">
+            <l>So far the</l>
+            <l>Elizabethan</l>
+            <l>drama is</l>
+            <l>concerned</l>
+          </add>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2/769,1684,1763,1708/full/0/default.tif">
+          <l><del>the</del> <del>To</del> The profits &amp; losses of this account are</l>
+          <l>difficult to settle – on the one hand, the habit of</l>
+          <l>brought into existence much that</l>
+          <l>could only be discovered in the private room:</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-sjoh">Johnson</rs>, <rs type="person" ref="../resources/annotations.xml#psn-stco">Coleridge</rs>, <rs type="person" ref="../resources/annotations.xml#psn-acbr">Bradley</rs> <del>to name some</del></l>
+          <l>to take some <add place="above">of the</add> obvious <del>names</del>, who have been</l>
+          <l>reading Shakespeare into existence, during the past</l>
+          <l>200 years – has increased our understanding.</l>
+          <l>But much was lost for ever when the playhouse</l>
+          <l>shut we have lost the sound of the spoken</l>
+          <l>word: all that l   an individual [lushe?] &amp; bloom, an</l>
+          <l>those in a physical quality, in 
+            <choice>
+              <sic>E<hi rend="superscript">an</hi></sic>
+              <corr>Elizabethan</corr>
+            </choice> language</l>
+          <l>
+            <choice>
+              <sic>wh.</sic>
+              <corr>which</corr>
+            </choice> may <del>spring</del> <del>be</del> come <del>from the</del> when there is</l>
+          <l>no <del>printed</del>  it is heard, not printed</l>
+          <l>We [men?] a thousand suggestions that the dramatist</l>
+          <l>this can be tested <del>chiefly in the</del> <add place="above">but almost solely</add> in Shakespeare:</l>
+          <l>the – some 
+            <choice>
+              <sic>Et<hi rend="superscript">hn</hi></sic>
+              <corr>Elizabethans</corr>
+            </choice> are only acted once in a blue moon &#41;</l>
+          <l>have almost disappeared from the stage &#41; by comparing our</l>
+          <l>impressions after seeing the play with our impressions after</l>
+          <l>reading the play.</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-9.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3/819,150,1551,564/full/0/default.tif">
+          <l>He is the writer in <del>embryo</del>: capable that is of all the</l>
+          <l>impulses of a writer, save only that he cannot <del>as</del> <add place="above">give his</add> <del>exteriorise</del></l>
+          <l>his emotions; but but cannot <del>in</del> give them shape;</l>
+          <l>&amp; this <del>emotion is as the</del> &amp; his influence</l>
+          <l>upon what is written <del>is</del> must be prodigous; it</l>
+          <l>[unrelated?]</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3/2181,360,431,672/full/0/default.tif">
+          <add place="margin"> 
+            <l>why the power</l>
+            <l>of</l>
+            <l>creation:</l>
+            <l><del>His</del> the</l>
+            <l>images</l>
+            <l>[illeg.]</l>
+            <l>is [proud?] <del>body</del></l>
+            <l>at times in</l>
+            <l>proper</l>
+            <l>stress.</l>
+            <l>It is not</l>
+          </add>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3/697,676,1767,1256/full/0/default.tif">
+          <l>It was to this [illeg.] <add place="above">&amp;</add> blind infant, <del>&amp; the</del></l>
+          <l>[illeg.] on his hands in the glare of the</l>
+          <l>
+            <choice>
+              <sic>E<hi rend="superscript">an</hi></sic>
+              <corr>Elizabethan</corr>
+            </choice> playhouse &amp; [fly?] away weary</l>
+          <l>from its potential that we owe the</l>
+          <l><del>Elizabethan words</del> – <del>&amp;</del> a book like the</l>
+          <l><rs>[illeg.] [French?]</rs>, for example: that</l>
+          <l>very anxious, <del>still half born</del>, half born book:</l>
+          <l>a book that is still amorphous: neither one</l>
+          <l>thing or another; a book that the writer</l>
+          <l>cannot control, because the reader is</l>
+          <l>not yet able to read; a book that</l>
+          <l>flops, flounders, is <del>now</del> all [exchanges?] &amp;</l>
+          <l>[illeg.], yet has      so [being?] as <del>
+            <choice>
+              <sic></sic>
+              <corr>Shakespearean</corr>
+            </choice> words;</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3/921,1826,1507,148/full/0/default.tif">
+          <l>But <del>these</del> then said that 
+            <choice>
+              <sic>Sh<hi rend="superscript">re</hi>.</sic>
+              <corr>Shakespeare</corr>
+            </choice> <del>had</del> look a glance [illeg.] it</l>
+          <l>&amp; <del>am</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3/943,1994,1491,220/full/0/default.tif">
+          <l>For <del>the f</del> the reader was <del>[homeless?] in presence of the</del></l>
+          <l>The weaknes of the reader is indubitable.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

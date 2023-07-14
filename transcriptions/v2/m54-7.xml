@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 7 of 11. [Anon: distinct from the minstrel, whose words are printed.]. Typescript fragment, 2 fols.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-7</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 7 of 11. [Anon: distinct from the minstrel, whose words are printed.]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m54-7.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1/886,106,191,139/full/0/default.tif">
+          <l>14</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1/859,220,1825,3094/full/0/default.tif">
+          <l>distinct from the 
+            <choice>
+              <sic>mistrel</sic>
+              <corr>minstrel</corr>
+            </choice>, whose words are printed.</l>
+          <l>For when familiar 
+            <choice>
+              <sic>lettres</sic>
+              <corr>letters</corr>
+            </choice> are written in Biblical prose</l>
+          <l>there must be a barrier between what is sayable and what</l>
+          <l>unsayable. There is a limit to what can be put</l>
+          <l>into words. He cannot talk; he cannot sing. <add hand="ms">[illeg.]</add> At the beginning</l>
+          <l>of the sixteenth 
+            <choice>
+              <sic>cnstury</sic>
+              <corr>century</corr>
+            </choice> he exists; the printing press has</l>
+          <l>given him a name; but he is still unspecialised.</l>
+          <l>The man <add hand="ms" place="above">[with?]</add> who stands outside desiring by some impulse to 
+            <choice>
+              <sic>obsev</sic>
+              <corr>observe</corr>
+            </choice></l>
+          <l>, to state, rather than to take part, is not yet wholly</l>
+          <l>writer, wholly musician or 
+            <choice>
+              <sic>whllly</sic>
+              <corr>wholly</corr>
+            </choice> painter. It seems possible</l>
+          <l>that the great English art 
+            <choice>
+              <sic>ma</sic>
+              <corr>may</corr>
+            </choice> not be the art of words.</l> <!-- return to marginal addition -->
+          <l>He still has the exact 
+            <choice>
+              <sic>observan</sic>
+              <corr>observant</corr>
+            </choice> eye <add hand="ms" place="above">that sees exactly </add>; his ear is stimulated</l>
+          <l>by the sound of words spoken aloud. His words must have body</l>
+          <l>and 
+            <choice>
+              <sic>substnace</sic>
+              <corr>substance</corr>
+            </choice>, <add hand="ms" place="inline">H</add>e must make them <add hand="ms" place="above">words</add> 
+            <choice>
+              <sic>sornous</sic>
+              <corr>sonorous</corr>
+            </choice>, since they are to</l>
+          <l>be read out aloud. <quote source="#" rend="inline">I spent most of my time"</quote> wrote Lady</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif">Ann Clifford</rs> <quote source="#" rend="inline">"in 
+            <choice>
+              <sic>playin</sic>
+              <corr>playing</corr>
+            </choice> at Glecko and hearing <rs type="person" ref="../resources/annotations.xml#psn-mnev">Moll Neville</rs></quote></l>
+          <l><quote source="#" rend="inline">read the <rs type="literary-work" ref="../resources/annotations.xml#lit-arca"></rs>....Rivers used to read to me in</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-mmon">Montaignes</rs> <rs type="person" ref="../resources/annotations.xml#lit-essa">Essays and Moll Neville in the Faery Queen."</rs></quote></l>
+          <l>
+            <choice>
+              <sic>Futher</sic>
+              <corr>Further</corr>
+            </choice>, words must <del hand="ms">
+              <choice>
+                <sic>yeild</sic>
+                <corr>yield</corr>
+              </choice> themselves</del> <add hand="ms" place="above">move</add> easily to the lilt</l>
+          <l>of the singing voice, to the virginals<add place="inline" hand="ms">,</add> to the lute. The</l>
+          <l>
+            <choice>
+              <sic>Eoglish</sic>
+              <corr>English</corr>
+            </choice> were a musical race. <add hand="ms" place="above">For the English were [always?] singing &amp; playing</add> When 
+            <choice>
+              <sic>Londonwas</sic>
+              <corr>London was</corr>
+            </choice> burning</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> noted that <quote source="#" rend="inline">"hardly one lighter or boat in three</quote></l>
+          <l><quote source="#" rend="inline">that had the goods of a house in it, but there was a pair</quote></l>
+          <l><quote source="#" rend="inline">of virginals in it."</quote> <del hand="ms">These were</del> the influences that</l>
+          <l>told upon the poet; <add hand="ms" place="above">[illeg.] moved</add> Under neath the words<add hand="ms" place="inline">:</add> the old words</l>
+          <l>the new words <add hand="ms" place="above">the <del>[illeg.]</del></add>, the 
+            <choice>
+              <sic>Frechand</sic>
+              <corr>French and</corr>
+            </choice> the Latin moved the music.</l>
+          <l>No grammar bound them tightly to gether. They could be read</l>
+          <l>aloud; danced to and sung to. But they could not follow the</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1/528,1290,423,279/full/0/default.tif">
+          <add place="margin">
+            <l>His senses are</l>
+            <l>attuned then:</l>
+            <l>he sees within</l>
+            <l>shadow</l>
+          </add>
+        </p>
+      </div>
+      <div xml:id="m54-7.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-2" />
+      <div xml:id="m54-7.2r" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-3/797,115,149,111/full/0/default.tif">
+          <l>15</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-3/804,224,1730,218/full/0/default.tif">
+          <l>the pace of the speaking voice. They could not enter into</l>
+          <l>the private world.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-3/716,448,1890,2478/full/0/default.tif">
+          <l>Spenser then --<quote source="#" rend="inline">"a little man with short hair,</quote></l>
+          <l><quote source="#" rend="inline">a small 
+            <choice>
+              <sic>vband</sic>
+              <corr>band</corr>
+            </choice> and cuffs"</quote> standing on the threshold of the</l>
+          <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" ref="../resources/annotations.xml#pla-pens">
+            <choice>
+              <sic>enshurst</sic>
+              <corr>Penshurst</corr>
+            </choice></rs>, was separate</l>
+          <l>from Anon the 
+            <choice>
+              <sic>misntre</sic>
+              <corr>minstrel</corr>
+            </choice>; and from 
+            <choice>
+              <sic>Holmshed</sic>
+              <corr>Holinshed</corr>
+            </choice> the Chronicler;</l>
+          <l>He was separate too from his 
+            <choice>
+              <sic>adueince</sic>
+              <corr>audience</corr>
+            </choice>. But the book which</l>
+          <l>had given him his 
+            <choice>
+              <sic>sepatare</sic>
+              <corr>separate</corr>
+            </choice> existence had brought into being</l>
+          <l>a little group of readers. That audience began at once to</l>
+          <l>exert its pressure. What is the book that will 
+            <choice>
+              <sic>plase</sic>
+              <corr>please</corr>
+            </choice></l>
+          <l>my patron <rs type="person" ref="../resources/annotations.xml#psn-psid">Sir Philip 
+            <choice>
+              <sic>Sidmey</sic>
+              <corr>Sidney</corr>
+            </choice>?</rs> What is the theme that will</l>
+          <l>recommend itself to the Queen? At once come into 
+            <choice>
+              <sic>ecistence</sic>
+              <corr>existence</corr>
+            </choice> all</l>
+          <l>those 
+            <choice>
+              <sic>iunnmerable</sic>
+              <corr>innumerable</corr>
+            </choice> influences that are to tug and distort and</l>
+          <l>thwart; as too they are to stimulate and draw out. The</l>
+          <l>poet is no longer <del hand="ms">a homeless being</del> <add hand="ms" place="above">a nameless, a wandering voice</add>. He is surrounded <add hand="ms" place="above">[illeg.] with his audience</add></l>
+          <l>with an <del>
+            <choice>
+              <sic>atmopshere</sic>
+              <corr>atmosphere</corr>
+            </choice>. He subjects his inspiration</del> <add hand="ms" place="above">He is played upon by others</add> to outside</l>
+          <l>influences. Some are visible to himself only; others</l>
+          <l>only show themselves when time has past. They become more and more complex. <add hand="ms" place="inline">A</add> the book goes out into a more and more</l>
+          <l>numerous, a more and more divided audience.</l>
+          <l><del hand="ms">Some</del> According to its education to its wealth to its 
+            <choice>
+              <sic>pverty</sic>
+              <corr>poverty</corr>
+            </choice></l>
+          <l>the audience begins to demand what it satisfies its own needs</l>
+          <l>Some need poetry; <del hand="ms">others</del> history; <del hand="ms">others</del> a story to make</l>
+          <l>them forget the drabness of their lives. The thing that</l>
+          <l>the writer has to say becomes increasingly cumbered.</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
