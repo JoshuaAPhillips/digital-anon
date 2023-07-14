@@ -56,7 +56,7 @@
     <body>
       <div xml:id="m1-8-2.1" n="1" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1/1086,124,495,160/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1/663,292,1843,372/full/0/default.tif">
           <del>
@@ -91,7 +91,7 @@
           <l>He sings in an uncouth fou . . He sings to young men &amp;</l>
           <l>maids.   He tells them what they have heard already.</l>
           <l>But save for this voice the English might be a dumb race.</l>
-          <l>&amp; for the voice of <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-wlan">Langland</rs> the English</l>
+          <l>&amp; for the voice of <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-wlan" key="Langland, William">Langland</rs> the English</l>
           <l>might be a dumb race;      to</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1/597,1678,179,188/full/0/default.tif">
@@ -127,7 +127,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-2/817,96,1803,704/full/0/default.tif">
           <l>Then when the house was built, &amp; roads <del>led</del> often</l>
           <l>flooded, often deep in mud, led <del>to</del> from house to house</l>
-          <l><del>Anon came</del> along the roads, came the minstrels, the</l>
+          <l><del><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> came</del> along the roads, came the minstrels, the</l>
           <l>jugglers, the <del>singers</del>, bear leaders, singing their crude</l>
           <l>songs at the back door, to the farm hands &amp; the</l>
           <l>maid servants, in the uncouth jargon of <del>the</del> <add place="above">their</add> native tongue</l>
@@ -169,7 +169,7 @@
       </div>
       <div xml:id="m-8-2.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3/809,114,1599,164/full/0/default.tif">
-          <l>he was ribald, he was often obscene. It is Anon</l>
+          <l>he was ribald, he was often obscene. It is <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3/917,222,1351,108/full/0/default.tif">
           <l><del>But when the</del> <del>It was strange</del></l>
@@ -197,7 +197,7 @@
               <sic>cd.</sic>
               <corr>could</corr>
             </choice> see the</l>
-          <l>village as it was before Chaucers time we</l>
+          <l>village as it was before <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> time we</l>
           <l>
             <choice>
               <sic>shd.</sic>
@@ -215,8 +215,8 @@
       </div>
       <div xml:id="m1-8-2.4" n="4" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4/845,148,1723,468/full/0/default.tif">
-          <l><del>But</del> This [anonymous?] that the Printing Press, which was</l>
-          <l>so [even?] to kill Anon, <del>was the</del> preserved him. There</l>
+          <l><del>But</del> This [anonymous?] that the <rs type="object" ref="../resources/annotations.xml#obj-pres" key="Printing Press">Printing Press</rs>, which was</l>
+          <l>so [even?] to kill <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>, <del>was the</del> preserved him. There</l>
           <l>in the [21?] pass &amp; we 
             <choice>
               <sic>shd.</sic>
@@ -254,7 +254,7 @@
           <l>present.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4/873,1922,1747,476/full/0/default.tif">
-          <l>There is <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> in [Essex?], the [parsonage?] in</l>
+          <l>There is <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse" key="Essex">[Essex?]</rs>, the [parsonage?] in</l>
           <l>his [liking?]. <del>He</del> These old stories are to him [office?] [illeg.]</l>
           <l>born. They</l>
         </p>
@@ -264,13 +264,13 @@
           <l>the preacher, the man who went from town to</l>
           <l><del>town among the</del> living <add place="above">peasants</add> <del>among</del> among the peasants &amp;</l>
           <l>the nobles, heard them &amp; the sound &amp; his</l>
-          <l>fury. <rs type="person" ref="../resources/annotations.xml#psn-tlat">Latimer</rs>, riding in a [illeg.] homeward</l>
-          <l>from London <quote source="#" rend="inline">"going to preach, in the church,</quote></l>
+          <l>fury. <rs type="person" ref="../resources/annotations.xml#psn-tlat" key="Latimer, Thomas">Latimer</rs>, riding in a [illeg.] homeward</l>
+          <l>from <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs> <quote source="#" rend="inline">"going to preach, in the church,</quote></l>
           <quote source="#" rend="inline">
             <l>found the church door fast locked</l>
             <l>and one of the parish came to me &amp;</l>
             <l>Lo this is a busy day with us, we cannot</l>
-            <l>hear you, it is <rs type="person" ref="../resources/annotations.xml#psn-rhoo">Robin Hood's</rs> day. The</l>
+            <l>hear you, it is <rs type="person" ref="../resources/annotations.xml#psn-rhoo" key="Robin Hood">Robin Hood's</rs> day. The</l>
             <l>parish are far abroad to gather for</l>
             <l>Robin hood,... I was fain there to give</l>
             <l>place to R H: I thought my [Racket?] 
@@ -332,7 +332,7 @@
           <l>cannot keep to the theme; for he is</l>
           <l>enraged by what he sees. This was the voice of</l>
           <l>the new <del>learning</del>. As he walked in the</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">
+          <l><rs type="person" ref="../resources/annotations.xml#psn-arch" key="Archbishop of Canterbury">
             <choice>
               <sic>A of C.</sic>
               <corr>Archbishop of Canterbury's</corr>
@@ -375,7 +375,7 @@
       </div>
       <div xml:id="m1-8-2.7" n="7" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-7">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-7/813,66,1803,1948/full/0/default.tif">
-          <l>It was master <rs type="person" ref="../resources/annotations.xml#psn-tbil">Bilney</rs> at <rs type="place" ref="../resources/annotations.xml#pla-camb">Cambridge</rs> who opened his eyes.</l>
+          <l>It was master <rs type="person" ref="../resources/annotations.xml#psn-tbil" key="Bilney, Thomas">Bilney</rs> at <rs type="place" ref="../resources/annotations.xml#pla-camb" key="Cambridge">Cambridge</rs> who opened his eyes.</l>
           <l>Master Bilney who went about among the poor &amp;</l>
           <l>the sick, &amp; finally had a paper set in his hand &amp;</l>
           <l>was burnt. So, it was he, he the [illeg.] will be</l>
@@ -383,7 +383,7 @@
           <l>will speak in English. He will speak <del>in</del> <del>a</del></l>
           <l>word that the poor, the [simple?] can</l>
           <l>understand, in their own tongue. It was</l>
-          <l>the preacher then, saying the <rs type="literary-work" ref="../resources/annotations.xml#lit-lord">Lords Prayer</rs> <del>in</del> <del>to</del></l>
+          <l>the preacher then, saying the <rs type="literary-work" ref="../resources/annotations.xml#lit-lord" key="Lord's Prayer">Lords Prayer</rs> <del>in</del> <del>to</del></l>
           <l>at the 
             <choice>
               <sic>beg</sic>
@@ -398,7 +398,7 @@
           <l><del>Harrison comes</del>    Standing on the edge of the edge of the</l>
           <l>
             <choice>
-              <sic>Ethn</sic>
+              <sic>Et<hi rend="superscript">hn</hi></sic>
               <corr>Elizabethan</corr>
             </choice> age, he saw the [gorgeous?] buildings she</l>
           <l>and Harrison saw there. He deplored them</l>
@@ -439,7 +439,7 @@
           <l>old [methods?] a new lease of life.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-8/831,586,1739,968/full/0/default.tif">
-          <l>Thus Harrison and Latimer both saw what we can</l>
+          <l>Thus <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs> and <rs type="person" ref="../resources/annotations.xml#psn-tlat" key="Latimer, Thomas">Latimer</rs> both saw what we can</l>
           <l>still see, the great Elizabethan house</l>
           <l>sitting often on the ruins &amp; foundation of the old.</l>
           <l>The sight &amp; sound in both of them the same</l>
@@ -472,7 +472,7 @@
       </div>
       <div xml:id="m1-8-2.9" n="9" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-9">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-9/815,164,1821,2792/full/0/default.tif">
-          <l>To Latimer, Robin Hood was a <add place="above">[illeg.]</add> thief. <del>He was</del></l>
+          <l>To <rs type="person" ref="../resources/annotations.xml#psn-tlat" key="Latimer, Thomas">Latimer</rs>, <rs type="person" ref="../resources/annotations.xml#psn-rhoo" key="Robin Hood">Robin Hood</rs> was a <add place="above">[illeg.]</add> thief. <del>He was</del></l>
           <l>He had walked in the shadow of death " till he was 30,</l>
           <l>but then his eyes were opened, &amp; he was through</l>
           <l><del>the cloud</del> <del>of</del> superstition <del>that <del>still</del> obscured his</del> thought</l>
@@ -522,8 +522,8 @@
           <l>noble <del>is in these ears</del> They speak ceremoniously</l>
           <l>lay sounding in <del>that [imaginary?] still</del></l>
           <l>to the speech of the [bible?] There is no</l>
-          <l>language [press?]. When Lady <rs type="person" ref="../resources/annotations.xml#psn-abac">Ann</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-abac">B</rs> writes to <rs type="person" ref="../resources/annotations.xml#psn-fbac">her son</rs> she adminishes, she</l>
+          <l>language [press?]. When Lady <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Ann</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">B</rs> writes to <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">her son</rs> she adminishes, she</l>
           <l>exhorts. She is a preacher advising a</l>
           <l>subordinate. <del>She</del> <del>She</del> Fear of god,</l>
           <l>fear of man shroud her with the walls of a dungeon.</l>
@@ -557,7 +557,7 @@
           <l>To [denegate?] the song from its encumberances</l>
           <l>becomes as time goes on a task for the</l>
           <l>critic – that specially qualified taster who</l>
-          <l>was not yet in existence when Spenser</l>
+          <l>was not yet in existence when <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs></l>
           <l>emerged <del>at last</del> partially at least from</l>
           <l>the depths of anonymity.</l>
         </p>
@@ -572,25 +572,25 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-11/865,1030,1583,436/full/0/default.tif">
           <l>The writer must have the past behind him. For</l>
-          <l>Spenser the golden age <del>was</del> of English was Chaucer.</l>
+          <l>Spenser the golden age <del>was</del> of English was <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-11/833,1336,1683,1980/full/0/default.tif">
           <l>Behind him too is the <del>Morte darthur</del></l>
-          <l>the old world of the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte d'Arthur</rs>, the world is</l>
+          <l>the old world of the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort" key="Morte d'Arthur">Morte d'Arthur</rs>, the world is</l>
           <l>Kings <del>ladies</del>, dwarfs, giants. But he has</l>
           <l>ceased to believe in giants. <del>Therefore</del></l>
           <l>they <del>have gone</del> <del>If</del> He no longer believes, [unlike?]</l>
-          <l>noblemen in 1470 that King <rs type="person" ref="../resources/annotations.xml#psn-kart">Arthur</rs> was a</l>
+          <l>noblemen in 1470 that King <rs type="person" ref="../resources/annotations.xml#psn-kart" key="Arthur (King)">Arthur</rs> was a</l>
           <l>real man. Thus his poem lacks the reality</l>
           <l>of the Morte d'Arthur. <del>It has not the</del> He cannot</l>
-          <l>see <add place="margin">within</add> <del>as Malory saw the</del>: <add place="above">When</add> Malory sees</l>
+          <l>see <add place="margin">within</add> <del>as Malory saw the</del>: <add place="above">When</add> <rs type="person" ref="../resources/annotations.xml#psn-tmal" key="Malory, Thomas">Malory</rs>Malory sees</l>
           <l>sharply &amp; distinctly, Spenser sees at a distance;</l>
           <l>he sees with [regret?], with <add>[illeg.]</add> desire; but not</l>
           <l>with belief. <del>There is no sense of</del> He cannot</l>
           <l><del>His figures <del>are</del> pass at a distance. They do not</del></l>
           <l><del>He cannot make us believe; he cannot</del></l>
           <l>There is no sharpness in the figures of the</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Fairy Queen</rs>: no [vice?], no <del>belief</del>, no edge: no</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-faer" key="Faerie Queene, The">Fairy Queen</rs>: no [vice?], no <del>belief</del>, no edge: no</l>
           <l>such closeness <del>or</del> <del>comes</del> none of that</l>
           <l>reality 
             <choice>
@@ -632,7 +632,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12/841,914,1675,1772/full/0/default.tif">
           <l>But still there is something anonymous about</l>
-          <l>Spenser. He <del>must stand out</del> cannot</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs>. He <del>must stand out</del> cannot</l>
           <l>confine his [characters?] in [huals?]: they are</l>
           <l>symbolic. He externalises: <del>he</del></l>
           <l>embodies [learning?], not as a man, but gives it a</l>
@@ -646,8 +646,8 @@
           <l>asks something: but <del>w</del> who is conscious of the</l>
           <l>worlds scorn &amp; neglect.</l>
           <l>Then is the artist thus aware of his birth</l>
-          <l>as Chaucer was not, nor Langland, nor</l>
-          <l>Malory. He is becoming separate:</l>
+          <l>as <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> was not, nor <rs type="person" ref="../resources/annotations.xml#psn-wlan" key="Langland, William">Langland</rs>, nor</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-tmal" key="Malory, Thomas">Malory</rs>. He is becoming separate:</l>
           <l>outside; <del>Not all</del> his [illeg.]</l>
           <l>No longer a wandering voice, but specialised</l>
           <l>He is <del>indeed more</del> <del>When he</del></l>
@@ -669,13 +669,13 @@
       </div>
       <div xml:id="m1-8-2.13" n="13" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-13">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-13/727,72,1965,1720/full/0/default.tif">
-          <l>Spenser himeself heard the voice of the mummers. He</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> himeself heard the voice of the mummers. He</l>
           <l>was present, it may be, at the pageant 
             <choice>
               <sic>wh.</sic>
               <corr>which</corr>
             </choice></l>
-          <l>was acted before the Queen at <rs type="place" ref="../resources/annotations.xml#pla-keni">Kenilworth.</rs></l>
+          <l>was acted before the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs> at <rs type="place" ref="../resources/annotations.xml#pla-keni" key="Kenilworth">Kenilworth.</rs></l>
           <l>He saw the players dressed in green.</l>
           <l><del>He</del> For time had made the peasant, probably</l>
           <l>the Earth in his own [guise?], a spectacle, a</l>
@@ -690,11 +690,11 @@
           <l><del>with his</del> the <del>stage was being</del></l>
           <l>theatre was being built upon which</l>
           <l>the <del>old</del> <del>English was</del> the mummers were to act</l>
-          <l>not Robin hood, not <del><rs type="person" ref="../resources/annotations.xml#psn-gawa">Gawain</rs></del> for the sophisticated</l>
+          <l>not Robin hood, not <del><rs type="person" ref="../resources/annotations.xml#psn-gawa" key="Gawain">Gawain</rs></del> for the sophisticated</l>
           <l>antiquated pageantry to <del>the</del> <add place="inline">a</add> sophisticated</l>
-          <l>audience, but <rs type="literary-work" ref="../resources/annotations.xml#lit-faus">Faust</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">Tamburlaine</rs>, the</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-span">Spanish Tragedy</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-haml">Hamlet</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-lear">Lear</rs></l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-ancl">Antony &amp; Cleopatra</rs></l>
+          <l>audience, but <rs type="literary-work" ref="../resources/annotations.xml#lit-faus" key="Faust">Faust</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tamburlaine</rs>, the</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-span" key="Spanish Tragedy, The">Spanish Tragedy</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-haml" key="Hamlet">Hamlet</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-lear" key="King Lear">Lear</rs></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-ancl" key="Antony and Cleopatra">Antony &amp; Cleopatra</rs></l>
         </p>
       </div>
     </body>
