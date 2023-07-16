@@ -86,7 +86,7 @@
           <l>at <del>some point the</del></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-1/761,2116,1815,1076/full/0/default.tif">
-          <l><del>But</del> <del>The modern reader has to readjust himself</del></l>
+          <l><del>But</del> <del>The modern reader has to read just himself</del></l>
           <l><del>But the reader is <add place="above">also</add> <del>possessed of</del> <del>aware</del> <del>another</del></del></l>
           <l><del><del>sense, besides the</del> <del>the power</del> some one who</del></l>
           <l><del><del>connects.</del></del>  But, to the modern reader, there is</l>
@@ -133,10 +133,10 @@
           <l>&amp; yet the particular figute is the particular figure</l>
           <l><del>This is</del> <del>Their</del> This extraordinary intensification</l>
           <l>comes fitfully: we note a passage that</l>
-          <l><del>seems</del>   it flits through <rs type="person" ref="../resources/annotations.xml#psn-cmar">Marlowe</rs>;</l>
-          <l>it is in the <rs type="literary-work" ref="../resources/annotations.xml#lit-reve">Revengers Tragedy</rs>. <del>Their</del> It is in</l>
-          <l>in words like <rs type="person" ref="../resources/annotations.xml#psn-they">Heywoods</rs>: oh God...</l>
-          <l><del>or in</del> <del>the</del> &amp; of course finally in <rs type="person" ref="../resources/annotations.xml#lit-wsha">
+          <l><del>seems</del>   it flits through <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">Marlowe</rs>;</l>
+          <l>it is in the <rs type="literary-work" ref="../resources/annotations.xml#lit-reve" key="Revenger's Tragedy, The">Revengers Tragedy</rs>. <del>Their</del> It is in</l>
+          <l>in words like <rs type="person" ref="../resources/annotations.xml#psn-they" key="Heywood, Thomas">Heywoods</rs>: oh God...</l>
+          <l><del>or in</del> <del>the</del> &amp; of course finally in <rs type="person" ref="../resources/annotations.xml#lit-wsha" key="Shakespeare, William">
             <choice>
               <sic>Sh<hi rend="superscript">re</hi>.</sic>
               <corr>Shakespeare</corr>
@@ -181,10 +181,10 @@
           <l>experiment: as the common effort to</l>
           <l><del>sede</del> explore in their immense [reserves?] of</l>
           <l>emotion; <del>an</del> <del>an expression which in <del>
-            <choice>
+            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
-            </choice></del> becomes</del></l>
+            </choice></rs></del> becomes</del></l>
           <l><del>at last <del>finalised;</del> when <del>all its</del></del></l>
           <l><del>it <del>has been</del> then has been freed, that [shocked?],</del></l>
           <l><del>when the</del> as a repeated experiment, which</l>
@@ -201,11 +201,11 @@
           <l>that the nameless, uncommonly [illeg.], were</l>
           <l>somehow all compressing to [thread?]</l>
           <l>[illeg.], towards 
-            <choice>
+            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
-            </choice>   And</l>
-          <l>the <rs type="person" ref="../resources/annotations.xml#psn-efyt">Fyttons</rs> or the <rs type="person" ref="../resources/annotations.xml#psn-mher">Herberts</rs> <del>we</del> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-abac">Bacons</rs></l>
+            </choice></rs>   And</l>
+          <l>the <rs type="person" ref="../resources/annotations.xml#psn-efyt">Fyttons</rs> or the <rs type="person" ref="../resources/annotations.xml#psn-mher" key="Herbert, Mary">Herberts</rs> <del>we</del> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Bacons</rs></l>
           <l>were also ressign their weight their</l>
         </p>
       </div>
