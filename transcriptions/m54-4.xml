@@ -60,7 +60,7 @@
           <l>9</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-1/888,232,1788,3132/full/0/default.tif">
-          <l>Anon has emerged 
+          <l><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> has emerged 
             <choice>
               <sic>suffievcntly</sic>
               <corr>sufficiently</corr>
@@ -68,7 +68,7 @@
           <l>floods to let us see a rough outline of a human shape.</l>
           <l>He has a dog and a garden. He has books; and he digs in</l>
           <l>the earth. His name is of no great moment. It may be</l>
-          <l>Harrison; or it may be <rs type="person" ref="../resources/annotations.xml#past">Paston</rs>. There is very little to dis 
+          <l>Harrison; or it may be <rs type="person" ref="../resources/annotations.xml#past" key="Pastons">Paston</rs>. There is very little to dis 
             <choice>
               <sic>dis</sic>
               <corr>distinguish</corr>
@@ -101,7 +101,7 @@
             <choice>
               <sic>predominace</sic>
               <corr>predominance</corr>
-            </choice> of individuals. The <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs> is the dominant</l>
+            </choice> of individuals. The <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs> is the dominant</l>
           <l>
             <choice>
               <sic>fogure</sic>
@@ -193,8 +193,8 @@
             <choice>
               <sic>etween</sic>
               <corr>between</corr>
-            </choice> the different members. The presses of <rs type="place" ref="../resources/annotations.xml#pla-lond">London</rs>, <rs type="place" ref="../resources/annotations.xml#pla-oxfo"></rs></l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-camb">
+            </choice> the different members. The presses of <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>, <rs type="place" ref="../resources/annotations.xml#pla-oxfo" key="Oxford"></rs></l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-camb" key="Cambridge">
             <choice>
               <sic>Ca,bridge</sic>
               <corr>Cambridge</corr>
@@ -274,7 +274,7 @@
               <sic>acti e</sic>
               <corr>active</corr>
             </choice> minded public;</l>
-          <l>it soon dissipates and takes hold of <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>. It makes him</l>
+          <l>it soon dissipates and takes hold of <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>. It makes him</l>
           <l>into an innumerable 
             <choice>
               <sic>comany</sic>

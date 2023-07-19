@@ -76,14 +76,14 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-1/819,612,1889,2652/full/0/default.tif">
           <l>The word remind us that if the great Elizabethan</l>
-          <l>house, Penshurst or <rs type="place" ref="../resources/annotations.xml#pla-wilt">Wilton</rs> looks to us out of proportion,</l>
+          <l>house, <rs type="person" ref="../resources/annotations.xml#psn-pens" key="Penshurst">Penshurst</rs> or <rs type="place" ref="../resources/annotations.xml#pla-wilt">Wilton</rs> looks to us out of proportion,</l>
           <l>xmxmx a derelict among 
             <choice>
               <sic>th</sic>
               <corr>the</corr>
             </choice> bungalows, it is because the</l>
           <l>connection between it and the village is lost. If we could</l>
-          <l>see the house as it was in Spensers time we should see</l>
+          <l>see the house as it was in <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spensers</rs> time we should see</l>
           <l>tracks raying out from the great house across the fields to</l>
           <l>the cottage, to the farm, even to the hovel. War connected</l>
           <l>them. Armour, if the enemy came was stored in the church.</l>
@@ -104,12 +104,12 @@
           <l>correspondence. But there was also the other less</l>
           <l>visible connection--the common belief. That bond between</l>
           <l>the different houses has been grown over, like the</l>
-          <l>track along which the pilgrims rode to Canterbury. No one</l>
+          <l>track along which the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">pilgrims</rs> rode to <rs type="place" ref="../resources/annotations.xml#pla-cant" key="Canterbury">Canterbury</rs>. No one</l>
           <l>drives there now. <add hand="ms" place="above">[illeg.]</add>. But 
             <choice>
               <sic>whe</sic>
               <corr>when</corr>
-            </choice> Spenser came to Penshurst that</l>
+            </choice> <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> came to <rs type="person" ref="../resources/annotations.xml#psn-pens" key="Penshurst">Penshurst</rs> that</l>
           <l>track led from house to house. It led to the village green.</l>
           <l>It led to the tree; to the well. In the spring they danced</l>
           <l>round the Maypole; at midsummer they lit the bon fire on the</l>
@@ -145,7 +145,7 @@
               <corr>remembering</corr>
             </choice></l>
           <l>the Gods who were there when the stones were set on end</l>
-          <l>at <rs type="place" ref="../resources/annotations.xml#pla-ames">Amesbury</rs>, at <rs type="place" ref="../resources/annotations.xml#pla-ston">Stonehenge</rs>, celebrated their gods; and</l>
+          <l>at <rs type="place" ref="../resources/annotations.xml#pla-ames" key="Amesbury">Amesbury</rs>, at <rs type="place" ref="../resources/annotations.xml#pla-ston" key="Stonehenge">Stonehenge</rs>, celebrated their gods; and</l>
           <l>at the same 
             <choice>
               <sic>tiem</sic>
@@ -261,7 +261,7 @@
             <choice>
               <sic>sive</sic>
               <corr>sieve</corr>
-            </choice> singing to the <rs type="place" ref="../resources/annotations.xml#pla-lund">
+            </choice> singing to the <rs type="place" ref="../resources/annotations.xml#pla-lund" key="Isle of Lundy">
               <choice>
                 <sic>idle</sic>
                 <corr>Isle</corr>
