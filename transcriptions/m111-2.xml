@@ -75,7 +75,7 @@
               <sic>somgs</sic>
               <corr>songs</corr>
             </choice>. It allowed us to know nothing of the mans</l>
-          <l>name. <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> had great privileges. He is not responsible.</l>
+          <l>name. <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> had great privileges. He is not responsible.</l>
           <l>He is not self conscious. He can borrow. He can repeat.</l>
           <l>He can say what everyone feels. No one asks that he shall</l>
           <l>stamp his own name on his work. He keeps at a distance from</l>
@@ -124,13 +124,13 @@
               <sic>oncsious</sic>
               <corr>conscious</corr>
             </choice>, when</l>
-          <l>the country squire can say without quoting <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> what</l>
+          <l>the country squire can say without quoting <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> what</l>
           <l>is in his mind, we lose this general quality to gain---</l>
           <l>everything it 
             <choice>
               <sic>seemes</sic>
               <corr>seems</corr>
-            </choice>. For until the <rs type="person" ref="../resources/annotations.xml#psn-puri">puritans</rs> shut the 
+            </choice>. For until the <rs type="person" ref="../resources/annotations.xml#psn-puri" key="Puritans">puritans</rs> shut the 
             <choice>
               <sic>thea</sic>
               <corr>theatre</corr>
@@ -144,7 +144,7 @@
               <sic>incesaantly</sic>
               <corr>incessantly</corr>
             </choice>. It goes on rising until</l>
-          <l>finally it rises on the <rs type="literary-work" ref="../resources/annotations.xml#lit-temp">Tempest</rs>. But by then the stage has</l>
+          <l>finally it rises on the <rs type="literary-work" ref="../resources/annotations.xml#lit-temp" key="Tempest, The">Tempest</rs>. But by then the stage has</l>
           <l>become too small for the play. It has outgrown the uncovered</l>
           <l>theatre where 
             <choice>
@@ -224,7 +224,7 @@
               <sic>earning</sic>
               <corr>learning</corr>
             </choice> to speak what they feel without</l>
-          <l>quiting Spenser. The curtain rises on play 
+          <l>quoting Spenser. The curtain rises on play 
             <choice>
               <sic>afte</sic>
               <corr>after</corr>
@@ -245,16 +245,16 @@
               <sic>rleated</sic>
               <corr>related</corr>
             </choice> and less at the mercy of the lp plot. The curtain</l>
-          <l>rises upon Hxmxmmxmx <rs type="literary-work" ref="../resources/annotations.xml#lit-hen6">Henry the 
+          <l>rises upon Hxmxmmxmx <rs type="literary-work" ref="../resources/annotations.xml#lit-hen6" key="Henry VI">Henry the 
             <choice>
               <sic>Si th</sic>
               <corr>Sixth</corr>
-            </choice></rs>; and <rs type="literary-work" ref="../resources/annotations.xml#lit-john">King John</rs>;</l>
-          <l>upon <rs type="literary-work" ref="../resources/annotations.xml#lit-haml">Hamlet</rs> and <rs type="literary-work" ref="../resources/annotations.xml#lit-ancl">Antony and 
+            </choice></rs>; and <rs type="literary-work" ref="../resources/annotations.xml#lit-john" key="King John">King John</rs>;</l>
+          <l>upon <rs type="literary-work" ref="../resources/annotations.xml#lit-haml" key="Hamlet">Hamlet</rs> and <rs type="literary-work" ref="../resources/annotations.xml#lit-ancl" key="Antony and Cleopatra">Antony and 
             <choice>
               <sic>Cleoptra</sic>
               <corr>Cleopatra</corr>
-            </choice></rs> and upon <rs type="literary-work" ref="../resources/annotations.xml#lit-macb">Macbeth</rs>.</l>
+            </choice></rs> and upon <rs type="literary-work" ref="../resources/annotations.xml#lit-macb" key="Macbeth">Macbeth</rs>.</l>
           <l>Finally it rises upon the Tempest. But the play has outgrown</l>
           <l>the uncovered theatre where the 
             <choice>
@@ -300,14 +300,18 @@
           <l>They could not deepen the impression and renew</l>
           <l>it at a table in a private room. This perhaps explains</l>
           <l>the scarcity of Elizabethan criticism; and the general nature</l>
-          <l>of what criticism there is. Both <rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs></l>
+          <l>of what criticism there is. Both <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Jonson</rs></l>
           <l>deal with the general rules of poetry; not with the 
             <choice>
               <sic>particuar</sic>
               <corr>particular</corr>
             </choice></l>
           <l>play or poem. The lack of a book of the words accounts too</l>
-          <l>for the long pause, between <rs type="person" ref="../resources/annotations.xml#psn-wsha">Sahkepares</rs> death</l>
+          <l>for the long pause, between <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
+            <choice>
+              <sic>Sahkepares</sic>
+              <corr>Shakespeare's</corr>
+            </choice></rs> death</l>
           <l>and the eighteenth century, 
             <choice>
               <sic>whe</sic>
@@ -383,12 +387,12 @@
             <choice>
               <sic>inadeuate</sic>
               <corr>inadequate</corr>
-            </choice> emotion with a dip into <rs type="person" ref="../resources/annotations.xml#psn-phen">
+            </choice> emotion with a dip into <rs type="person" ref="../resources/annotations.xml#psn-phen" key="Henslowe, Philip">
               <choice>
                 <sic>Hensloew</sic>
                 <corr>Henslowe</corr>
               </choice></rs>,</l>
-          <l>with a dip into <rs type="person" ref="../resources/annotations.xml#psn-rhol">
+          <l>with a dip into <rs type="person" ref="../resources/annotations.xml#psn-rhol" key="Holinshed, Raphael">
             <choice>
               <sic>Holigshed</sic>
               <corr>Holinshed</corr>

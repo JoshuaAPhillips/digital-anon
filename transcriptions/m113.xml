@@ -66,11 +66,11 @@
               <corr>exaggerations</corr>
             </choice> and</l>
           <l>foreshortenings, is no more than an attempt to point out</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-stpa">St Pauls</rs> <rs type="place" ref="../resources/annotations.xml#pla-wmab">
+          <l><rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs> <rs type="place" ref="../resources/annotations.xml#pla-wmab" key="Westminster Abbey">
             <choice>
               <sic>Westmisnter</sic>
               <corr>Westminster</corr>
-            </choice> Abbey</rs> and the <rs type="place" ref="../resources/annotations.xml#pla-towe">Tower of London</rs> to a</l>
+            </choice> Abbey</rs> and the <rs type="place" ref="../resources/annotations.xml#pla-towe" key="Tower of London">Tower of London</rs> to a</l>
           <l>
             <choice>
               <sic>visiotr</sic>
@@ -205,7 +205,7 @@
           <l>8</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-2/215,1428,1874,1852/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-gcla">Gilbert Clandon</rs> could 
+          <l><rs type="person" ref="../resources/annotations.xml#psn-gcla" key="Clandon, Gilbert">Gilbert Clandon</rs> could 
             <choice>
               <sic>almos</sic>
               <corr>almost</corr>
@@ -247,7 +247,7 @@
             <choice>
               <sic>as</sic>
               <corr>was</corr>
-            </choice> that why <rs type="person" ref="../resources/annotations.xml#psn-acla">Angela</rs> had covered the page so quickly 
+            </choice> that why <rs type="person" ref="../resources/annotations.xml#psn-acla" key="Clandon, Angela">Angela</rs> had covered the page so quickly 
             <choice>
               <sic>wen</sic>
               <corr>when</corr>
@@ -260,7 +260,7 @@
               <corr>Angela</corr>
             </choice> had more</l>
           <l>sense than to believe this kind of rubbish. "<add hand="typewriter" place="above">Yet</add> I can hardly</l>
-          <l>endure to go on living in such luxury. <rs type="literary-work" ref="../resources/annotations.xml#lit-3gui">Three 
+          <l>endure to go on living in such luxury. <rs type="literary-work" ref="../resources/annotations.xml#lit-3gui" key="Three Guineas">Three 
             <choice>
               <sic>gunieas</sic>
               <corr>guineas</corr>
@@ -306,7 +306,7 @@
               <sic>gneral</sic>
               <corr>general</corr>
             </choice> reading</l>
-          <l>accounts for the long pause between <rs type="person" ref="../resources/annotations.xml#psn-wsha">
+          <l>accounts for the long pause between <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
             <choice>
               <sic>Shakespares</sic>
               <corr>Shakespeare's</corr>
@@ -349,7 +349,7 @@
               <sic>criti icism</sic>
               <corr>criticism</corr>
             </choice>, and for the general nature of what</l>
-          <l>criticism there was. Both <rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs> deal</l>
+          <l>criticism there was. Both <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Jonson</rs> deal</l>
           <l>with the xmxmxmxxx theory of poetry and not with the</l>
           <l>
             <choice>
@@ -558,13 +558,13 @@
               <sic>p blic</sic>
               <corr>public</corr>
             </choice> made no more</l>
-          <l>comment upon the play at the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs> than the groundlings?</l>
+          <l>comment upon the play at the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs> than the groundlings?</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5/622,954,358,574/full/0/default.tif">
           <add hand="ms" place="margin">
-            <l>A poet wrote</l>
+            <l>A <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">poet</rs> wrote</l>
             <l>sonnets to</l>
-            <l>Mr W. H.</l>
+            <l><rs type="person" ref="../resources/annotations.xml#psn-mrwh" key="Mr W. H.">Mr W. H.</rs></l>
             <l>Who is</l>
             <l>W H?</l>
             <l>The <choice>
@@ -578,9 +578,9 @@
           </add>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5/904,1552,1756,1564/full/0/default.tif">
-          <l>Perhaps Bacon in his <rs type="literary-work" ref="../resources/annotations.xml#lit-baes">essays</rs> supplies a reason.</l>
+          <l>Perhaps <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> in his <rs type="literary-work" ref="../resources/annotations.xml#lit-baes" key="Essays (Francis Bacon)">essays</rs> supplies a reason.</l>
           <l><quote source="#">"These things be but toyes"</quote> he wrote in the essay called</l>
-          <l><rs type="person" ref="../resources/annotations.xml#lit-masq">Of 
+          <l><rs type="person" ref="../resources/annotations.xml#lit-masq" key="Of Masques and Triumphs">Of 
             <choice>
               <sic>Masues</sic>
               <corr>Masques</corr>
@@ -594,16 +594,16 @@
               <corr>aristocratic</corr>
             </choice> scholar</l>
           <l>the players were still only mountebanks, bear leaders and</l>
-          <l>acrobats. Off the stage they lived in the <rs type="literary-work" ref="../resources/annotations.xml#lit-hear">heart of darkness</rs>;</l>
-          <l>Was Not <rs type="person" ref="../resources/annotations.xml#psn-cmar">
+          <l>acrobats. Off the stage they lived in the <rs type="literary-work" ref="../resources/annotations.xml#lit-hear" key="Heart of Darkness">heart of darkness</rs>;</l>
+          <l>Was Not <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">
             <choice>
               <sic>Marloew</sic>
-            </choice></rs> hilled in a house of ill fame? Did not <rs type="person" ref="../resources/annotations.xml#psn-bjon">Ben</rs></l>
+            </choice></rs> killed in a house of ill fame? Did not <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Ben</rs></l>
           <l><rs type="person" ref="../resources/annotations.xml#psn-bjon">
             <choice>
               <sic>Josnon</sic>
               <corr>Jonson</corr>
-            </choice></rs> run <rs type="person" ref="../resources/annotations.xml#psn-gspe">
+            </choice></rs> run <rs type="person" ref="../resources/annotations.xml#psn-gspe" key="Spenser, Gabriel">
               <choice>
                 <sic>Spencer</sic>
                 <corr>Spenser</corr>
@@ -658,13 +658,13 @@
             <choice>
               <sic>Marloew</sic>
               <corr>Marlowe</corr>
-            </choice>, <rs type="person" ref="../resources/annotations.xml#psn-tdek">Dekker</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou">Tourneur</rs> <rs type="person" ref="../resources/annotations.xml#psn-jfor">Ford</rs>, as we know</l>
-          <l>Sir <rs type="person" ref="../resources/annotations.xml#psn-tbro">Thomas Browne</rs> or <rs type="person" ref="../resources/annotations.xml#psn-rbur">Burton</rs>.What we have of them is what it</l>
+            </choice>, <rs type="person" ref="../resources/annotations.xml#psn-tdek" key="Dekker, Thomas">Dekker</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou" key="Tourneur, Cecil">Tourneur</rs> <rs type="person" ref="../resources/annotations.xml#psn-jfor" key="Ford, John">Ford</rs>, as we know</l>
+          <l>Sir <rs type="person" ref="../resources/annotations.xml#psn-tbro" key="Browne, Thomas">Thomas Browne</rs> or <rs type="person" ref="../resources/annotations.xml#psn-rbur" key="Burton, Robert">Burton</rs>.What we have of them is what it</l>
           <l>was possible for the actors <add hand="ms" place="inline">t</add>o say. And as 
-            <choice>
+            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
               <sic>Shakenspere</sic> <!-- Shakenspeare, not Stirredpeare -->
               <corr>Shakespeare</corr>
-            </choice></l>
+            </choice></rs></l>
           <l>could say everything finally, more at least than has been</l>
           <l>said before and 
             <choice>
@@ -761,7 +761,7 @@
           <l>13</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-7/860,232,1820,460/full/0/default.tif">
-          <l>the pear shaped lute on which the <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs> once played.</l>
+          <l>the pear shaped lute on which the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs> once played.</l>
           <l>The 
             <choice>
               <sic>furniyure</sic>
@@ -864,7 +864,7 @@
               <corr>speech</corr>
             </choice></l>
           <l>unfamiliar. It is only expressive of certain emotions.</l>
-          <l>Thus when Lady <rs type="person" ref="../resources/annotations.xml#psn-abac">Ann Bacon</rs> writes to <rs type="person" ref="../resources/annotations.xml#psn-fbac">her son</rs> she is a preacher</l>
+          <l>Thus when Lady <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Ann Bacon</rs> writes to <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">her son</rs> she is a preacher</l>
           <l>addressing a subordinate. Fear of God and distrust of man</l>
           <l>surround her as with the walls of a dungeon. She admonishes;</l>
           <l>she 
@@ -920,7 +920,7 @@
             <choice>
               <sic>particualr</sic>
               <corr>particular</corr>
-            </choice>. <rs type="person" ref="../resources/annotations.xml#psn-latr">She</rs> put down her case,</l>
+            </choice>. <rs type="person" ref="../resources/annotations.xml#psn-latr" key="Miss La Trobe">She</rs> put down her case,</l>
           <l>and stood looking at the land. Then something rose to the</l>
           <l>surface.</l>
         </p>

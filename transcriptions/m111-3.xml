@@ -27,7 +27,7 @@
           </msIdentifier>        
           <physDesc>
             <p>M111 [The Reader]. Set 3 of 3. Typescript fragment, with the author's ms. corrections. 6 fols.</p>
-            <p>Fragments paginated 29, 31, 31, 3L [i.i. 31]</p>
+            <p>Fragments paginated 29, 31, 31, 3L [i.e. 31]</p>
             <p>Two loose pages paginated 32 and 33, but not consecutive with the rest, on verso p. 32 is p. 185 of <hi rend="italic">Between the Acts</hi> <!-- find out which draft --></p>
           </physDesc>
         </msDesc>
@@ -72,7 +72,7 @@
               <sic>notning</sic>
               <corr>nothing</corr>
             </choice> of the</l>
-          <l>writer; and so to concentrate upon his song. <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> had</l>
+          <l>writer; and so to concentrate upon his song. <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> had</l>
           <l>great 
             <choice>
               <sic>privilges</sic>
@@ -132,7 +132,7 @@
               <sic>indivisualised</sic>
               <corr>individualised</corr>
             </choice></add> single and separate figures?</l>
-          <l>xmxmxmxmxmmmxxmxmxmx <add hand="ms" place="above">the complete [figure?] the <rs type="person" ref="../resources/annotations.xml#psn-fals">Falstaff</rs>, the <rs type="literary-work" ref="../resources/annotations.xml#lit-haml">Hamlet</rs></add> There comes a 
+          <l>xmxmxmxmxmmmxxmxmxmx <add hand="ms" place="above">the complete [figure?] the <rs type="person" ref="../resources/annotations.xml#psn-fals" key="Falstaff">Falstaff</rs>, the <rs type="literary-work" ref="../resources/annotations.xml#lit-haml" key="Hamlet">Hamlet</rs></add> There comes a 
             <choice>
               <sic>mpoint</sic>
               <corr>point</corr>
@@ -178,8 +178,8 @@
           <l>31</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-3/743,192,1929,2788/full/0/default.tif">
-          <l>The great house that <rs type="person" ref="../resources/annotations.xml#psn-hlat">Latimer</rs> deplored becomes</l>
-          <l>solid and entire in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif">Anne Clifford</rs>s</l>
+          <l>The great house that <rs type="person" ref="../resources/annotations.xml#psn-hlat" key="Latimer, Hugh">Latimer</rs> deplored becomes</l>
+          <l>solid and entire in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Anne Clifford</rs>s</l>
           <l>diary. From childhood she was tenacious of her hereditary</l>
           <l>rights--her father had the right to carry the Kings</l>
           <l>sword <quote source="#" rend="inline">"and so it lineally 
@@ -192,7 +192,7 @@
             <choice>
               <sic>he</sic>
               <corr>her</corr>
-            </choice> lands in <rs type="place" ref="../resources/annotations.xml#pla-west">Westmoreland</rs>.</l>
+            </choice> lands in <rs type="place" ref="../resources/annotations.xml#pla-west" key="Westmoreland">Westmoreland</rs>.</l>
           <l><quote source="#" rend="inline">"... I would 
             <choice>
               <sic>bever</sic>
@@ -306,7 +306,7 @@
           <l>the reading public must have been<add hand="ms" place="above">was</add> a small one <add hand="ms" place="inline">,</add> <del hand="ms">and</del></l>
           <l>composed mainly of scholars and aristocrats. The lack of</l>
           <l>general common reading is proven by the long pause,</l>
-          <l>between <rs type="person" ref="../resources/annotations.xml#psn-wsha">
+          <l>between <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
             <choice>
               <sic>Sahkespares</sic>
               <corr>Shakespeare's</corr>
@@ -327,12 +327,12 @@
           <l>ness of the reading public and its special quality accounts</l>
           <l>for the scarcity of Elizabethan criticism, and the general</l>
           <l>nature of what criticism there is. It is written by writers</l>
-          <l>for writers. Both <rs type="person" ref="../resources/annotations.xml#psn-psid">
+          <l>for writers. Both <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">
             <choice>
               <sic>Sindey</sic>
               <corr>Sidney</corr>
-            </choice></rs> in his <rs type="literary-work" ref="../resources/annotations.xml#lit-defe">defense of Poesie</rs></l>
-          <l>and <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs> in <rs type="literary-work" ref="../resources/annotations.xml#lit-timb">Discoveries</rs> are concerned with</l>
+            </choice></rs> in his <rs type="literary-work" ref="../resources/annotations.xml#lit-defe" key="Defense of Poesie">defense of Poesie</rs></l>
+          <l>and <rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs> in <rs type="literary-work" ref="../resources/annotations.xml#lit-timb" key="Timber: Or, Discoveries">Discoveries</rs> are concerned with</l>
           <l>the theory of writing; not with 
             <choice>
               <sic>partciular</sic>
@@ -363,7 +363,7 @@
               <sic>critisiced</sic>
               <corr>criticised</corr>
             </choice>. But the public</l>
-          <l>at the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs> and the <rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs> could not feel as the public in the</l>
+          <l>at the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs> and the <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">Rose</rs> could not feel as the public in the</l>
           <l>
             <choice>
               <sic>i9th</sic>
@@ -372,9 +372,9 @@
             <choice>
               <sic>cent ry</sic>
               <corr>century</corr>
-            </choice> felt when <rs type="literary-work" ref="../resources/annotations.xml#lit-ghos">Ghosts</rs> was acted that old humbugs</l>
+            </choice> felt when <rs type="literary-work" ref="../resources/annotations.xml#lit-ghos" key="Ghosts">Ghosts</rs> was acted that old humbugs</l>
           <l>were being shown up; and the rottenness of society.</l>
-          <l>After all, when country squires must call in <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> to</l>
+          <l>After all, when country squires must call in <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> to</l>
           <l>express their meaning, prose was not yet serviceable;</l>
           <l>the critical spirit had no proper tool.</l>
         </p>
@@ -385,7 +385,7 @@
           <l>the <del hand="ms">gulf silence</del></l>
         </p>
         <p hand="ms" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7/360,1432,2372,2020/full/0/default.tif">
-          <l><del hand="ms">So</del> Anonymity thus lay over the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs><!-- come back to this... --></l>
+          <l><del hand="ms">So</del> Anonymity thus lay over the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs><!-- come back to this... --></l>
         </p>
       </div>
       <div xml:id="m111-3.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-8" />
@@ -418,7 +418,7 @@
             </choice> ; and many private people</l>
           <l>were pressing their weight were discharging their</l>
           <l>emotion into that vast cauldron of seething matter which </l>
-          <l>at last <rs type="person" ref="../resources/annotations.xml#psn-wsha">Shakespeare</rs> struck out into his plays.</l>
+          <l>at last <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeare</rs> struck out into his plays.</l>
         </p> <!-- pencil additions on the big screen -->
       </div>
       <div xml:id="m111-3.5v" n="5 verso" facs="">
@@ -434,7 +434,7 @@
           <l>When she looked out again, the flowers had vanished.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/804,476,1868,740/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-bart">
+          <l><rs type="person" ref="../resources/annotations.xml#psn-bart" key="Oliver, Bartholomew">
             <choice>
               <sic>Bartholo mew</sic>
               <corr>Bartholomew</corr>
@@ -443,14 +443,14 @@
           <l>field were congregated the grass hopper, the ant, and the</l>
           <l>beetle, rolling pebbles of baked earth through the glistening</l>
           <l>stubble. In that rosy corner of the sun baked field,</l>
-          <l>Bartholomew, <rs type="person" ref="../resources/annotations.xml#psn-gile">Giles</rs> and <rs type="person" ref="../resources/annotations.xml#psn-lucy">Lucy</rs>, polished and nibbled, and broke off crumbs,</l>
+          <l>Bartholomew, <rs type="person" ref="../resources/annotations.xml#psn-gile" key="Oliver, Giles">Giles</rs> and <rs type="person" ref="../resources/annotations.xml#psn-lucy" key="Swithin, Lucy">Lucy</rs>, polished and nibbled, and broke off crumbs,</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/800,1240,1868,228/full/0/default.tif">
-          <l>"A gentleman at <rs type="place" ref="../resources/annotations.xml#pla-surb">
+          <l>"A gentleman at <rs type="place" ref="../resources/annotations.xml#pla-surb" key="Surbiton">
             <choice>
               <sic>Subriton</sic>
               <corr>Surbiton</corr>
-            </choice></rs> has seen a <rs type="object" ref="../resources/annotations.xml#obj-comm">comma</rs> in his</l>
+            </choice></rs> has seen a <rs type="object" ref="../resources/annotations.xml#obj-comm" key="Comma">comma</rs> in his</l>
           <l>garden" Bartholomew announced.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10/816,1448,1868,228/full/0/default.tif">
@@ -483,7 +483,7 @@
             <choice>
               <sic>l ant</sic>
               <corr>leant</corr>
-            </choice> towards Isa and said; "I looked</l>
+            </choice> towards <rs type="person" ref="../resources/annotations.xml#psn-isa" key="Oliver, Isa">Isa</rs> and said; "I looked</l>
           <l>in and saw the babies; so happy; with the paper flowers on</l>
           <l>their cots.</l>
         </p>
@@ -537,11 +537,11 @@
             <corr>substantiates</corr>
           </choice> the <del hand="ms">rather</del> shadowy</l>
         <l>emotion that is all he can get in the plays with a dip into</l>
-        <l><rs type="person" ref="../resources/annotations.xml#psn-phen">
+        <l><rs type="person" ref="../resources/annotations.xml#psn-phen" key="Henslowe, Philip">
           <choice>
             <sic>Hensloew</sic>
             <corr>Henslowe</corr>
-          </choice></rs>, with a dip into <rs type="person" ref="../resources/annotations.xml#psn-rhol">
+          </choice></rs>, with a dip into <rs type="person" ref="../resources/annotations.xml#psn-rhol" key="Holinshed, Raphael">
             <choice>
               <sic>Holingshed</sic>
               <corr>Holinshed</corr>

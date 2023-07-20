@@ -74,12 +74,12 @@
               <corr>gentlemen</corr>
             </choice> is before us.</l>
           <l>In one second we are in the thick of love; murder; adultery.</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-york">Yorkshire</rs> is before us. There is <rs type="person" ref="../resources/annotations.xml#psn-frana">Frankland</rs> and his <rs type="person" ref="../resources/annotations.xml#psn-franb">wife</rs>;</l>
-          <l>there is <rs type="person" ref="../resources/annotations.xml#psn-wend">Wendoll</rs> the 
+          <l><rs type="place" ref="../resources/annotations.xml#pla-york" key="Yorkshire">Yorkshire</rs> is before us. There is <rs type="person" ref="../resources/annotations.xml#psn-frana" key="Frankland">Frankland</rs> and his <rs type="person" ref="../resources/annotations.xml#psn-franb" key="Frankland's Wife">wife</rs>;</l>
+          <l>there is <rs type="person" ref="../resources/annotations.xml#psn-wend" key="Wendoll">Wendoll</rs> the 
             <choice>
               <sic>adulterere</sic>
               <corr>adulterer</corr>
-            </choice>; and <rs type="person" ref="../resources/annotations.xml#psn-acto">Acton</rs> the villain.</l>
+            </choice>; and <rs type="person" ref="../resources/annotations.xml#psn-acto" key="Acton">Acton</rs> the villain.</l>
           <l>Supper is laid; the cards are on the table, and next moment</l>
           <l>the husband throwing open the door sees his wife lying in</l>
           <l>the arms of her lover. The yellow pages in Record offices</l>
@@ -124,20 +124,20 @@
               <sic>mtove</sic>
               <corr>motive</corr>
             </choice></l>
-          <l>motive behind the action. What, he broods in <rs type="literary-work" ref="../resources/annotations.xml#lit-woma">a Woman killed</rs></l>
+          <l>motive behind the action. What, he broods in <rs type="literary-work" ref="../resources/annotations.xml#lit-woma" key="Woman Killed with Kindness, A">a Woman killed</rs></l>
           <l><rs>with kindness</rs>, is the effect of mercy?--- if the adulters</l>
           <l>are confronted not with death but with a guilty conscience?</l>
           <l>As the plays come faster and faster, as the curtain rises</l>
-          <l>again and again, upon <rs type="person" ref="../resources/annotations.xml#psn-cmar">
+          <l>again and again, upon <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">
             <choice>
               <sic>Marloew</sic>
               <corr>Marlowe</corr>
-            </choice></rs>, <rs type="person" ref="../resources/annotations.xml#psn-tkyd">Kyd</rs>, <rs type="person" ref="../resources/annotations.xml#psn-they">Heywood</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jmar">
+            </choice></rs>, <rs type="person" ref="../resources/annotations.xml#psn-tkyd" key="Kyd, Thomas">Kyd</rs>, <rs type="person" ref="../resources/annotations.xml#psn-they" key="Heywood, Thomas">Heywood</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jmar" key="Marlowe, John">
               <choice>
                 <sic>Marts n</sic>
                 <corr>Marston</corr>
               </choice></rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-ctou">Tourneur</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jfor">Ford</rs>-- anonymity and the pressure of the</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-ctou" key="Tourneur, Cecil">Tourneur</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jfor" key="Ford, John">Ford</rs>-- anonymity and the pressure of the</l>
           <l>audience cease to bind the playwright. The reader loses his</l>
           <l>anonymity too. He 
             <choice>
@@ -233,18 +233,18 @@
             <choice>
               <sic>chnaging</sic>
               <corr>changing</corr>
-            </choice>. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine">cinema</rs> is now 
+            </choice>. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs> is now 
             <choice>
               <sic>develpoing</sic>
               <corr>developing</corr>
             </choice> his eye. The</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-broa">Broadcast</rs> is developing his ear. The fate 
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-broa" key="Broadcast">Broadcast</rs> is developing his ear. The fate 
             <choice>
               <sic>if</sic>
               <corr>of</corr>
             </choice> literature of</l>
           <l><del>course is in his hands</del>. <add hand="ms">But</add> Axxxhe <add>He is <del>still</del></add> is still <del>apparently</del> reading</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wsha">
+          <l><rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
             <choice>
               <sic>Shakespere</sic>
               <corr>Shakespeare</corr>
@@ -252,10 +252,10 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-2/811,2156,1826,1260/full/0/default.tif">
           <l>One reason why 
-            <choice>
+            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
               <sic>Shakespare</sic>
               <corr>Shakespeare</corr>
-            </choice> is still read is simply</l>
+            </choice></rs> is still read is simply</l>
           <l>the inadequacy of 
             <choice>
               <sic>Shakespriean</sic>
@@ -296,7 +296,7 @@
               <sic>Shakesperes</sic>
               <corr>Shakespeare's</corr>
             </choice> words.</l>
-          <l>The <rs type="person" ref="../resources/annotations.xml#psn-sjoh">Johnson</rs> S. the <rs type="person" ref="../resources/annotations.xml#psn-stco">Coleridge</rs> S. the <rs type="person" ref="../resources/annotations.xml#psn-acbr">Bradley</rs> S.</l>
+          <l>The <rs type="person" ref="../resources/annotations.xml#psn-sjoh" key="Johnson, Samuel">Johnson</rs> S. the <rs type="person" ref="../resources/annotations.xml#psn-stco" key="Coleridge, Samuel Taylor">Coleridge</rs> S. the <rs type="person" ref="../resources/annotations.xml#psn-acbr" key="Bradley, A. C.">Bradley</rs> S.</l>
         </p>
       </div>
       <div xml:id="m112-1.2r" n="2 recto" facs=""> <!-- remainder of pages in this fragment seem to be completely separate... and it seems to be about diary/letters of Anne Clifford? Maybe designate it as a different fragment?-->
@@ -304,12 +304,12 @@
           <l>34</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-3/871,224,1810,868/full/0/default.tif">
-          <l>that of the <rs type="person" ref="../resources/annotations.xml#psn-astan">Stanleys</rs>, the Cxmxmxxxx <rs type="person" ref="../resources/annotations.xml#psn-arus">
+          <l>that of the <rs type="person" ref="../resources/annotations.xml#psn-astan" key="Stanley, Anne">Stanleys</rs>, the Cxmxmxxxx <rs type="person" ref="../resources/annotations.xml#psn-arus" key="Russell, Anne">
             <choice>
               <sic>Rissells</sic>
               <corr>Russells</corr>
-            </choice></rs>, the <rs type="person" ref="../resources/annotations.xml#psn-aclif">Cliffords,</rs></l>
-          <l>the <rs type="person" ref="../resources/annotations.xml#psn-mher">Herberts</rs> and above all the
+            </choice></rs>, the <rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Cliffords,</rs></l>
+          <l>the <rs type="person" ref="../resources/annotations.xml#psn-mher" key="Herbert, Mary">Herberts</rs> and above all the
             <choice>
               <sic>Cliffo ds</sic>
               <corr>Cliffords</corr>
@@ -319,11 +319,11 @@
               <sic>mized</sic>
               <corr>mixed</corr>
             </choice> with baser metal.</l>
-          <l>When Lord <rs type="person" ref="../resources/annotations.xml#psn-eshe">
+          <l>When Lord <rs type="person" ref="../resources/annotations.xml#psn-eshe" key="Sheffield, Edmund">
             <choice>
               <sic>Dheffiled</sic>
               <corr>Sheffield</corr>
-            </choice></rs> marries <rs type="person" ref="../resources/annotations.xml#psn-mirw">Anne Erwin</rs></l>
+            </choice></rs> marries <rs type="person" ref="../resources/annotations.xml#psn-mirw" key="Erwin, Anne">Anne Erwin</rs></l>
           <l>
             <choice>
               <sic>ifit</sic>
@@ -362,20 +362,20 @@
               <sic>postcriot</sic>
               <corr>postscript</corr>
             </choice> wxmxmxmxmxmx to a letter about a</l>
-          <l>little cabinet and cup which she had left with Lady <rs type="person" ref="../resources/annotations.xml#psn-egre">Kent</rs></l>
+          <l>little cabinet and cup which she had left with Lady <rs type="person" ref="../resources/annotations.xml#psn-egre" key="Grey, Elizabeth">Kent</rs></l>
           <l>when she borrowed a hundred pounds of her.</l>
         </p>
         <p>
           <l>But it is only when she reads that she comments.</l>
           <l>When she goes to the play she says only <quote source="#">"Supped with</quote></l>
-          <l><quote source="#" rend="inline">my Lord and Lady <rs type="person" ref="../resources/annotations.xml#psn-arun" rend="inline">Arundel</rs> and after supper</quote></l>
+          <l><quote source="#" rend="inline">my Lord and Lady <rs type="person" ref="../resources/annotations.xml#psn-arun" key="Arundel, Lord and Lady">Arundel</rs> and after supper</quote></l>
           <l><quote source="#">
             <choice>
               <sic>OI</sic>
               <corr>I</corr>
-            </choice> saw the play of the <rs type="literary-work" ref="../resources/annotations.xml#lit-madl">Mad Lover</rs>..."</quote> or</l>
+            </choice> saw the play of the Mad Lover..."</quote> or</l>
           <l><quote source="#" rend="inline">"We stood to see the Masque in the box with my Lady</quote></l>
-          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-ruth">Ruthven</rs>"</quote> It was when the playhouses were shut</l>
+          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-ruth" key="Ruthven, Lady">Ruthven</rs>"</quote> It was when the playhouses were shut</l>
           <l>presumably that the reader was born. xmxmxmxmxmxmxm</l>
           <l>The 
             <choice>
@@ -447,7 +447,7 @@
             <choice>
               <sic>unreaslied</sic>
               <corr>unrealised</corr>
-            </choice>. Even in 17 - <rs type="person" ref="../resources/annotations.xml#psn-mmor">Morgann</rs> could</l>
+            </choice>. Even in 17 - <rs type="person" ref="../resources/annotations.xml#psn-mmor" key="Morgann, Maurice">Morgann</rs> could</l>
           <l>say that 
             <choice>
               <sic>Shakespere</sic>
@@ -462,8 +462,8 @@
             <choice>
               <sic>critisim</sic>
               <corr>criticism</corr>
-            </choice> there was. Both <rs type="person" ref="../resources/annotations.xml#psn-psid">Sidney</rs> and</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-bjon">Jonson</rs> are writing for the 
+            </choice> there was. Both <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> and</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Jonson</rs> are writing for the 
             <choice>
               <sic>s ll</sic>
               <corr>[small? still?]</corr>
@@ -619,7 +619,7 @@
               <sic>mever</sic>
               <corr>never</corr>
             </choice> read a word; and finally the reader,</l>
-          <l>who like Lady Anne Clifford, read excellent Chaucers book</l>
+          <l>who like Lady <rs type="person" ref="../res/annotations.xml#psn-aclif" key="Clifford, Ann">Anne Clifford</rs>, read excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> book</l>
           <l>when they are in trouble, <quote source="#" rend="inline">"and a little part of his 
             <choice>
               <sic>beautoeus</sic>
