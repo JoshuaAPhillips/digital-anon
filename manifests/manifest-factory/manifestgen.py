@@ -1,6 +1,7 @@
 # imports
 
 import sys
+import os
 from IIIFpres import iiifpapi3
 import sanitiser
 import metadata
@@ -15,8 +16,11 @@ data = sanitiser.sanitise(file)
 
 metadata_dict = metadata.metadataDict(idno, title, author, editor, summary, provider, repository)
 
-print(metadata_dict)
+#print(metadata_dict)
 
+def getAnnoPages(path):
+    pass
+    
 # where the magic happens
 
 def manifestFactory():
@@ -43,10 +47,6 @@ def manifestFactory():
     thumb.set_hightwidth("386", "300")
     thumb.add_label("en", "Thumbnail")
 
-    # sets annotation page information
-
-    annotations = manifest.add_annotationpage_to_annotations()
-    annotations.set_id("https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/{}-annotations.json".format(metadata_dict["idno"]))
     
 
     # sets provider information
@@ -112,4 +112,9 @@ def manifestFactory():
     else:
         print("Data is None :()")
 
-manifestFactory()
+def main():
+    path = '../annotations/{}-manifests'.format(metadata_dict["idno"])
+    getAnnoPages(path)
+
+if __name__ == "__main__":
+    main()

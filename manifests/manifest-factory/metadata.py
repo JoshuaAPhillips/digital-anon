@@ -79,7 +79,7 @@ def metadataDict(idno, title, author, editor, summary, provider, repository):
         provider = provider,
         repository = repository
         )
-    print(metadata_dict)
+    #print(metadata_dict)
     return metadata_dict
 
 # does the thing
