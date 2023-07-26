@@ -17,9 +17,6 @@ data = sanitiser.sanitise(file)
 metadata_dict = metadata.metadataDict(idno, title, author, editor, summary, provider, repository)
 
 #print(metadata_dict)
-
-def getAnnoPages(path):
-    pass
     
 # where the magic happens
 
@@ -92,6 +89,11 @@ def manifestFactory():
             annotation.body.set_width(data[idx][1])
             annotation.body.set_height(data[idx][2])
 
+            # adds annotation page (i.e., transcription) data
+
+            annotation_page = canvas.add_annotationpage_to_items()
+            annotation_page.set_id('https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/{}'.format(metadata_dict["idno"]) + '-manifests/{}-{}-annotations.json'.format(metadata_dict["idno"], idx + 1))
+
             # specify service (i.e., deep zoom capability) for above canvas annotations
 
             service = annotation.body.add_service()
@@ -113,8 +115,7 @@ def manifestFactory():
         print("Data is None :()")
 
 def main():
-    path = '../annotations/{}-manifests'.format(metadata_dict["idno"])
-    getAnnoPages(path)
+    manifestFactory()
 
 if __name__ == "__main__":
     main()

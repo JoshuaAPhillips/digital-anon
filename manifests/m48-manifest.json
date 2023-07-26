@@ -52,7 +52,7 @@
       },
       "value": {
         "en": [
-          "M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p"
+          "M48. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 2p\n"
         ]
       }
     }
@@ -99,7 +99,7 @@
   ],
   "items": [
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0",
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -124,11 +124,11 @@
       "width": 2766,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p0/1",
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0000-image",
+              "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -145,14 +145,18 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0"
+              "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-1"
             }
           ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m48-manifests/m48-1-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1",
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2",
       "type": "Canvas",
       "label": {
         "en": [
@@ -177,11 +181,11 @@
       "width": 2766,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p1/1",
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0001-image",
+              "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -198,14 +202,18 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p1"
+              "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2"
             }
           ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m48-manifests/m48-2-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p2",
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-3",
       "type": "Canvas",
       "label": {
         "en": [
@@ -230,11 +238,11 @@
       "width": 2766,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p2/1",
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-3",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0002-image",
+              "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-3",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -251,14 +259,18 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p2"
+              "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-3"
             }
           ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m48-manifests/m48-3-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p3",
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-4",
       "type": "Canvas",
       "label": {
         "en": [
@@ -283,11 +295,11 @@
       "width": 2766,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p3/1",
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-4",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0003-image",
+              "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-4",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -304,9 +316,13 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p3"
+              "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-4"
             }
           ]
+        },
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m48-manifests/m48-4-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     }
