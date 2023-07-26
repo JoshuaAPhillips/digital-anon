@@ -14,7 +14,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">2</l>\n        "
                     ]
@@ -32,7 +32,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>emition</sic>\n              <corr>emotion</corr>\n            </choice>; <add place=\"above\">&amp; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> sung</add> and knows the old story of <del>the Nut brown maid.</del></l>\n          ",
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anon is sometimes woman; sometimes man; he is the</l>\n          ",

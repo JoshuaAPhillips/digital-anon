@@ -14,7 +14,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">i</l>\n        "
                     ]
@@ -32,7 +32,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For many centuries \n            <choice>\n              <corr>after</corr>\n              <sic>afte</sic>\n            </choice> Britain became an island \"</l>\n          ",
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gtre\" key=\"Trevelyan, George\">historian</rs> says, \"the untamed forest was king.\"</l>\n          ",
@@ -56,7 +56,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>By a bank as I lay</l>\n            <l>Musing myself alone, <del hand=\"ms\">j</del>\n              <add place=\"above\">h</add>ey ho!</l>\n            <l>A birdes voice</l>\n            <l>Did me rejoice,</l>\n            <l>Singing before the day</l>\n            <l>And me thought in her lay</l>\n            <l>She said, winter was past, hey ho!</l>\n          </quote>\n        "
                     ]
@@ -74,7 +74,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The first songs are out of door songs; because there</del></l>\n          ",
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was no comfort indoors, little light, and no books.</del></l>\n          ",

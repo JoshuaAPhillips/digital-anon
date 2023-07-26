@@ -14,7 +14,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For <rs type=\"person\" ref=\"../../resources/annotations.xml#psn-smil\" key=\"Miller, Sissy\">Sissy Miller</rs></l> ",
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She comes.</l>\n          ",
@@ -35,7 +35,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "body": [
+                "value": [
                     [
                         "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>P</del> R. M.</l>\n        "
                     ]
