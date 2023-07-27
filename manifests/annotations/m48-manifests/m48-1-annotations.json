@@ -13,11 +13,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/html",
-                "value": [
-                    [
-                        "<l xmlns=\"http://www.tei-c.org/ns/1.0\">i</l>\n        "
-                    ]
-                ]
+                "value": "foo bar baz"
             }
         },
         {
