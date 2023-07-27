@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3#xywh=809,114,1599,164",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he was ribald, he was often obscene. It is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3#xywh=917,222,1351,108",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But when the</del> <del>It was strange</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3#xywh=835,274,1703,7",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">During the silent centuries, before the book was printed,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his is the only voice that was to be heard in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">England. <del>The</del> <del>He</del> <del>It was a</del> <del>Save for</del> Save</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for Anon singing of his day in the back door, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">English might be a desert race, a race of individuals</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nameless [priest?], who left behind them stone barns,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cultivated fields, &amp; great churches but no words.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-3#xywh=835,864,1815,1964",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It was the</del> Yet, during all these centuries,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as the scholars tell us, Anon was never silent <add place=\"above\">also sang</add>. He was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was he who gave voice to the old stories, who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>found the</del> when he came to the back door</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">incited the peasants to put off their wooly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clothes &amp; to dress themselves in green leaves, to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">take [illeg.] in their hands, to enact <del>wh</del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old pagan beliefs which <del>has</del> <del>still</del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[antiquaries?] had not created. If we \n            <choice>\n              <sic>cd.</sic>\n              <corr>could</corr>\n            </choice> see the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">village as it was before <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucers</rs> time we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>shd.</sic>\n              <corr>should</corr>\n            </choice> see tracks across the fields leading from the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">main house to the farm, to the cottage, to the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hovel. The paths were worn, often by the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">soldiers, &amp; by the labourers. They scar</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] by the &amp; sow [by the?] of they were [illeg.] to be</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">conquered by man, as by nature. That</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">connection, as time goes on, is painfully &amp;</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">minutely recorded in old papers, old</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">account books. It made the shape of the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

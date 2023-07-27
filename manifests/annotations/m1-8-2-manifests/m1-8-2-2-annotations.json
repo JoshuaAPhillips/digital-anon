@@ -1,0 +1,82 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-2#xywh=817,96,1803,704",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then when the house was built, &amp; roads <del>led</del> often</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flooded, often deep in mud, led <del>to</del> from house to house</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> came</del> along the roads, came the minstrels, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">jugglers, the <del>singers</del>, bear leaders, singing their crude</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">songs at the back door, to the farm hands &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">maid servants, in the uncouth jargon of <del>the</del> <add place=\"above\">their</add> native tongue</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>English</del> <del>Upstairs they talked French</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-2#xywh=943,760,1087,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"block\">Icham for wore...</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-2#xywh=857,832,1731,23",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Upstairs they spoke French. The <del>nature singer was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">man at the back door was despised. <del>He</del> <add>[It?]</add> had no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">name, no station <del>yet even the Kings &amp; Queens</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>must have their singers, their actors.</del> He was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a <del>jester, a [illeg.]</del> <del>Perhaps</del> But even the Kings &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Queens must have their minstrel, even if they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">despised him, they tolerated him, as we tolerate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">those who say out loud what we think, but will</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not admit. If he <del>was</del> <add place=\"above\">had</add> the outsiders</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">privilege, to say <del>the</del> <add place=\"above\">to</add> mock<del>up</del> the <del>irreverent, the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to comment; <del>to</del> He <del>too was the</del> to see</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the outside. He <del>preserved to the</del> old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>stories. He</del> <del>he</del> As <del>time went on, he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He put into words the things that were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remembered &#8211; the <del>old legends; the old</del> he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>dan</del> <del>incited the peasants to</del> As time</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">went on, &amp; <del>the</del> <del>there</del> houses were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">grouped by the <del>road, a church</del>, he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; the church found in the [midst?], he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was to be found acting in the church;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>he</del> <del>a</del> &amp; then, when <del>his</del> as <del>his</del> acting</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">became more &amp; <del>more definite</del> as he acted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>himself</del> a more &amp; more secular past, he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">left the church, acted in the churchyard,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; was at last admitted to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">market place. But he was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the scholars</del> <del>have</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nameless. <del>His songs were</del> <del>unwritten</del></l>\n        "
+                ]
+            }
+        }
+    ]
+}

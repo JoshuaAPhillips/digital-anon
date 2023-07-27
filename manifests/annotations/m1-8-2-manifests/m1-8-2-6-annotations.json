@@ -1,0 +1,68 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-6#xywh=801,80,1895,232",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">saw the present moment in all its crudity. He</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>saw the</del> was no antiquary. <del>He knew what he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He <del>had his</del> His eyes were open as he rode from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">town to town to what was actually in existence.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He saw poverty; he saw the peasant <del>suff</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unable to buy a grave. He saw the nobles</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[eye?] long the field. He saw the great man lying</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] to in bed, after his [hawking?] &amp; his hunting, in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">poor made waiting hour after hour to bring his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">care upon him. He saw the great ladies</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wearing vardigalls &amp; puffing their hair out in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tussocks. And what he saw in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">roads, in the fields, in the house, he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">described in a voice that stumbles &amp; stutters &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cannot keep to the theme; for he is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">enraged by what he sees. This was the voice of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the new <del>learning</del>. As he walked in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\" key=\"Archbishop of Canterbury\">\n            <choice>\n              <sic>A of C.</sic>\n              <corr>Archbishop of Canterbury's</corr>\n            </choice></rs> garden, <quote source=\"#\" rend=\"inline\">looking in my [bokes?] &#8211;</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"I cannot go long [bokes?], for poor folks</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">come unto me, desiring <del>tha</del> me that I will</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">[illeg.] so that their matters may be heard</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If he tries to send in the \n            <choice>\n              <sic>A of C</sic>\n              <corr>Archbishop of Canterbury's</corr>\n            </choice> garden,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the poor come knocking at the gate, &amp; his man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">says <quote source=\"#\" rend=\"inline\">\"Lo there is someone at the gate \n            <choice>\n              <sic>wd</sic>\n              <corr>would</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">speak with you...\"</quote> and so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">faithfully, <del>[outpoured?]</del> not [illeg.] he \n            <choice>\n              <sic>wd</sic>\n              <corr>would</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he brings before the young king the state of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">England at the very moment.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-6#xywh=947,2294,1579,92",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To him <del>the old Engand is</del> <del>no less</del> It is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">preacher who [exacts?] the <del>farmers</del> farmers; <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for <del>he fain</del> upon them the light of the new</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">knowledge. He <del>alone</del> knows what he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is saying for he too, until he was thirty</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"walked in the shadow of death\"</quote></l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>He too had, <del>taken</del> <add>[illeg.]</add> part in the old</l>\n            <l>superstitions.     But since       <del>But</del></l>\n          </del>\n        "
+                ]
+            }
+        }
+    ]
+}

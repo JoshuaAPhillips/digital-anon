@@ -1,0 +1,124 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-12-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12#xywh=151,188,655,504",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>Looking at them</l>\n            <l>from a distance</l>\n            <l>he sees them</l>\n            <l>pictorally</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12#xywh=833,110,1627,78",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>He gives</del> <del>It holds the</del> It holds the surrounding</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.]. He realises time &amp; change. And </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">again, he has the painters eye. Now like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the eye which gives the figures \n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> [houses?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">them with the flower &amp; the barbed thorn</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">marble pillar, <del>&amp; pen</del> with light sees,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is no fear, but always [meriment?]. No</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[virtue?] <del>that of light</del> gives, rounds lit up but in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great illuminated wid <del>a</del> <del>vi</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12#xywh=1151,822,847,192",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Still it is the world of</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12#xywh=841,914,1675,1772",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But still there is something anonymous about</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs>. He <del>must stand out</del> cannot</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">confine his [characters?] in [huals?]: they are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">symbolic. He externalises: <del>he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">embodies [learning?], not as a man, but gives it a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[upaint?], a symbolic existence. <del>Still</del> The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He shall pass <del>away</del> ignores himself, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">first mind. The individual. He must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and at the same time, forces are at work</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that are forcing the poet to be conscious of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">himself, as a separate individual; a man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who <del>he</del> is giving something to the world: who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">asks something: but <del>w</del> who is conscious of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">worlds scorn &amp; neglect.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then is the artist thus aware of his birth</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> was not, nor <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wlan\" key=\"Langland, William\">Langland</rs>, nor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malory</rs>. He is becoming separate:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">outside; <del>Not all</del> his [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No longer a wandering voice, but specialised</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is <del>indeed more</del> <del>When he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> <del>When</del> <del>And here</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12#xywh=913,2516,1567,78",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He was then the first self conscious poet.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The first real poet. And English poetry</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">might have continued to be a book read aloud</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by the leisured in the great hall <del>were</del> had it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not been for the other voice &#8211; the voice at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">back door. Ironically [though?], when</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-12#xywh=545,3108,311,168",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>12</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

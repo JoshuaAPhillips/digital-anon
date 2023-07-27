@@ -1,0 +1,38 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-13-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-13#xywh=727,72,1965,172",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> himeself heard the voice of the mummers. He</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was present, it may be, at the pageant \n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was acted before the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-keni\" key=\"Kenilworth\">Kenilworth.</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He saw the players dressed in green.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>He</del> For time had made the peasant, probably</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Earth in his own [guise?], a spectacle, a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">figure from the past. The old superstitions</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were so [harmless?] that the \n            <choice>\n              <sic>Q</sic>\n              <corr>Queen</corr>\n            </choice> was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">awed at their survival. But even while</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spenser looked at their <del>fantastic</del> survival,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>with his</del> the <del>stage was being</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">theatre was being built upon which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>old</del> <del>English was</del> the mummers were to act</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not Robin hood, not <del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-gawa\" key=\"Gawain\">Gawain</rs></del> for the sophisticated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">antiquated pageantry to <del>the</del> <add place=\"inline\">a</add> sophisticated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience, but <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faus\" key=\"Faust\">Faust</rs>, <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">Tamburlaine</rs>, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-span\" key=\"Spanish Tragedy, The\">Spanish Tragedy</rs>, <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-haml\" key=\"Hamlet\">Hamlet</rs>, <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-lear\" key=\"King Lear\">Lear</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ancl\" key=\"Antony and Cleopatra\">Antony &amp; Cleopatra</rs></l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-8-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-8#xywh=821,72,1619,584",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This is the voice that ousted superstition: the voice of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reason, of common sense. By using English, by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">putting English in the pulpit the preacher was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">forging the very weapon that gave the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old [methods?] a new lease of life.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-8#xywh=831,586,1739,968",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>the same</l>\n            <l>house [today?]</l>\n            <l>the house <del>that</del></l>\n            <l>built on the</l>\n            <l>old foundations</l>\n            <l>the \n              <choice>\n                <sic>gt</sic>\n                <corr>great</corr>\n              </choice> \n              <choice>\n                <sic>E<hi rend=\"superscript\">th</hi></sic>\n                <corr>Elizabethan</corr>\n              </choice></l>\n            <l>house</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

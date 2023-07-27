@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-11#xywh=827,194,1595,568",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To [denegate?] the song from its encumberances</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">becomes as time goes on a task for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">critic &#8211; that specially qualified taster who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was not yet in existence when <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emerged <del>at last</del> partially at least from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the depths of anonymity.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-11#xywh=849,690,1587,468",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del>he had the past</del> behind him. <quote source=\"#\" rend=\"inline\">For why a</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">For why a Gods name,</quote> he exclaimed <quote source=\"#\" rend=\"inline\">may not we</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">as else the Greeks, have the Kingdom of our</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">own language?</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-11#xywh=865,1030,1583,436",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer must have the past behind him. For</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spenser the golden age <del>was</del> of English was <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-11#xywh=833,1336,1683,198",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Behind him too is the <del>Morte darthur</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the old world of the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mort\" key=\"Morte d'Arthur\">Morte d'Arthur</rs>, the world is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Kings <del>ladies</del>, dwarfs, giants. But he has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ceased to believe in giants. <del>Therefore</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they <del>have gone</del> <del>If</del> He no longer believes, [unlike?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">noblemen in 1470 that King <rs type=\"person\" ref=\"../resources/annotations.xml#psn-kart\" key=\"Arthur (King)\">Arthur</rs> was a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">real man. Thus his poem lacks the reality</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the Morte d'Arthur. <del>It has not the</del> He cannot</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">see <add place=\"margin\">within</add> <del>as Malory saw the</del>: <add place=\"above\">When</add> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malory</rs>Malory sees</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sharply &amp; distinctly, Spenser sees at a distance;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he sees with [regret?], with <add>[illeg.]</add> desire; but not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with belief. <del>There is no sense of</del> He cannot</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>His figures <del>are</del> pass at a distance. They do not</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>He cannot make us believe; he cannot</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is no sharpness in the figures of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Fairy Queen</rs>: no [vice?], no <del>belief</del>, no edge: no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">such closeness <del>or</del> <del>comes</del> none of that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reality \n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> comes from <del>the</del> belief: On the other</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hand he shows us as Malory cannot, the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world surrounded by [words?]. His vision</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is not fixed in the figure: but holds</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> <del>more</del> so that if we lose the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

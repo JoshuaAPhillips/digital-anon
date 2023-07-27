@@ -1,0 +1,61 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-5#xywh=695,132,1829,1576",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the preacher, the man who went from town to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>town among the</del> living <add place=\"above\">peasants</add> <del>among</del> among the peasants &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the nobles, heard them &amp; the sound &amp; his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fury. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tlat\" key=\"Latimer, Thomas\">Latimer</rs>, riding in a [illeg.] homeward</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs> <quote source=\"#\" rend=\"inline\">\"going to preach, in the church,</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>found the church door fast locked</l>\n            <l>and one of the parish came to me &amp;</l>\n            <l>Lo this is a busy day with us, we cannot</l>\n            <l>hear you, it is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rhoo\" key=\"Robin Hood\">Robin Hood's</rs> day. The</l>\n            <l>parish are far abroad to gather for</l>\n            <l>Robin hood,... I was fain there to give</l>\n            <l>place to R H: I thought my [Racket?] \n              <choice>\n                <sic>wd.</sic>\n                <corr>would</corr>\n              </choice></l>\n            <l>have been regarded, tho' I was not; but it</l>\n            <l>\n              <choice>\n                <sic>wd</sic>\n                <corr>would</corr>\n              </choice> not serve, it was fain to give place to</l>\n            <l>Robin hoods men. It was no laughing matter</l>\n            <l>my friends, it is a weeping matter, a heavy</l>\n            <l>matter, a heavy matter, ....</l></quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-5#xywh=805,1654,1547,544",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>It is the preacher who shows us the</l>\n            <l><del>living body of the</del> <add place=\"above\">living body</add> the English peasant <del>whose</del></l>\n            <l>still <del>honouring the pagan Gods</del>: still</l>\n            <l>honouring the old gods; still immersed in </l>\n            <l>superstition. The preacher [imposes upon them his?]</l>\n            <l><del>God.</del> <del>It is in the preacher</del> who</l>\n            <l><del>killed</del> There is the voice that went</l>\n            <l>up &amp; down England Latimer as no</l>\n            <l>chronicler of times past. To Latimer the old</l>\n            <l><del>dreams</del> games, the old <del>[songs?]</del> Latimer,</l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-5#xywh=889,1990,1563,1216",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">going up &amp; down England, saw the peasant as he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is now at this moment, in King <rs type=\"person\" ref=\"../resources/annotations.xml#psn-edw6\">Edward Sixths</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>reign</del> in 1549. He saw the peasant</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still <del>harbouring old superstitions</del>, going on</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pilgrimage, setting up candles, worshipping</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[higs?] bones. <del>The</del> <del>saw</del> He <del>saw the</del> There was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no beauty, <del>it was</del> but only superstition &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">corruption in their ancient games. He</l>\n        "
+                ]
+            }
+        }
+    ]
+}

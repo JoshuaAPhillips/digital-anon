@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-9#xywh=815,164,1821,2792",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tlat\" key=\"Latimer, Thomas\">Latimer</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rhoo\" key=\"Robin Hood\">Robin Hood</rs> was a <add place=\"above\">[illeg.]</add> thief. <del>He was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He had walked in the shadow of death \" till he was 30,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but then his eyes were opened, &amp; he was through</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the cloud</del> <del>of</del> superstition <del>that <del>still</del> obscured his</del> thought</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He <del>saw things as they were</del>, he saw through the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>popish</del> through the old Popish preachers, the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pagan customs. He saw England still, at the moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in its reality. He was no antiquary. He did</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not dig in the garden for roman coins. When he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">walked in the \n            <choice><sic>A of C</sic>\n              <corr>Archbishop of Canterbury's</corr>\n            </choice> garden, <del>a man</del> his man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">came &amp; said: <quote source=\"#\" rend=\"inline\">\"Sir there is one that \n            <choice>\n              <sic>wd.</sic>\n              <corr>would</corr>\n            </choice> speak</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">with you.\"</quote> <add place=\"above\">Then</add> He shut his house, a <del>heart</del> He</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>he said</del> so <quote source=\"#\" rend=\"inline\">\"the cry of the washerman is come up</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>up to <del>my ears</del> \"mine ears\" The poor Labourers,</l>\n            <l>Gun makers, Powdermen, Bow makers, Arrow makers,</l>\n            <l>Smiths, Carpenters, [Solderers?], &amp; other crafts</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">cry out...\"</quote> <add place=\"margin\">111</add>  Then he [unpaid?]. <del>So</del> He laid</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aside his book.    He <del>found</del> waited on the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great man &amp; found him still in bed. <quote source=\"#\" rend=\"inline\">They</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">the <del>prelates</del> <del>they hawke</del></quote> He found the prelates,</l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>They hawke, they hunt, they carde, they dice</l>\n            <l>they patronise in the palaces with [gallows?]</l>\n            <l>flatterers, with their dancing mummers, &amp; with</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">their fresh companions...</quote> Standing up by the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the King himself he laid bare the state of England. In a voice that starts &amp; stammers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">repeating the word as in his hard</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[powder?] the [cake?], he [fight?] to the English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.]</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-9#xywh=471,1552,399,192",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">111</add>\n        "
+                ]
+            }
+        }
+    ]
+}

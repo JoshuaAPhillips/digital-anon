@@ -1,0 +1,61 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-7#xywh=813,66,1803,1948",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was master <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tbil\" key=\"Bilney, Thomas\">Bilney</rs> at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-camb\" key=\"Cambridge\">Cambridge</rs> who opened his eyes.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Master Bilney who went about among the poor &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the sick, &amp; finally had a paper set in his hand &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was burnt. So, it was he, he the [illeg.] will be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">burnt. Meanwhile he will speak the truth; he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">will speak in English. He will speak <del>in</del> <del>a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">word that the poor, the [simple?] can</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">understand, in their own tongue. It was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the preacher then, saying the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-lord\" key=\"Lord's Prayer\">Lords Prayer</rs> <del>in</del> <del>to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at the \n            <choice>\n              <sic>beg</sic>\n              <corr>beginning</corr>\n            </choice> &amp; the end of his [sermons?] who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">put English into the highest places.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But indeed</del> while during all [minstrels?] &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mummers, he was yet fashioning a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language for them to use. He was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">giving a common <del>tongue</del> speech for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nobles &amp; peasants. <del>But to</del> <del>He   Just as</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Harrison comes</del>    Standing on the edge of the edge of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Et<hi rend=\"superscript\">hn</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> age, he saw the [gorgeous?] buildings she</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and Harrison saw there. He deplored them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">Never has there been such building &amp; planting\"</quote> he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">saw. Never had there been such</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crime, such splendour, such poverty.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"There never was such building then, as is now</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">planting, nor marrying.</quote> <del>The wealth that had</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>come from the sale of the monasteries, was not</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>given to</del>  Give the money that used to be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shut in</l>\n          "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-7#xywh=825,1932,1879,1568",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">63</add>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-10-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-10#xywh=819,60,1853,2416",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We cannot hear them talking: the sound of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">noble <del>is in these ears</del> They speak ceremoniously</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lay sounding in <del>that [imaginary?] still</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the speech of the [bible?] There is no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language [press?]. When Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Anne\">Ann</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Anne\">B</rs> writes to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">her son</rs> she adminishes, she</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">exhorts. She is a preacher advising a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">subordinate. <del>She</del> <del>She</del> Fear of god,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fear of man shroud her with the walls of a dungeon.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They <del>are</del> Again, we cannot hear the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voices they heard- the voice of the [mummers?], of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.]. [But?] we can see the path that led</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the well &amp; the tree. It is an isolated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">house: a house full of finery, <del>but</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; furniture; <del>but</del> in \n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> the \n            <choice>\n              <sic>Elhns</sic>\n              <corr>Elizabethans</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">set <del>like</del> painted images. <del>less</del> without [sit?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">atmosphere, direction. <del>There is no</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>medium between the white &amp; the scarlet, the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>glass &amp; the gold.</del>[Begat?] concentrated colour</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must on their faces; <del>there is no mediium</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[carnale?], snow: ebony &amp; gold. There is no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">natural medium [congregation?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer then must be a poet&#8211;&#8211; For</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when familiar letters are written in &#8211;</l>\n        "
+                ]
+            }
+        }
+    ]
+}

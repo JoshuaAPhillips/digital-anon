@@ -1,0 +1,106 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4#xywh=845,148,1723,468",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> This [anonymous?] that the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-pres\" key=\"Printing Press\">Printing Press</rs>, which was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so [even?] to kill <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>, <del>was the</del> preserved him. There</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the [21?] pass &amp; we \n            <choice>\n              <sic>shd.</sic>\n              <corr>should</corr>\n            </choice> that we tap the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>cl</del> [illeg.] of [writer?] put that lay deep [flush?] in the</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del>book</del> printed book fixed in a [&amp; for?] all the dream</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world that was about to fade under the [surface?] of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>sixt</del> \n            <choice>\n              <sic>El<hi rend=\"superscript\">an</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4#xywh=877,966,795,152",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The printe book, was d</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4#xywh=825,1044,1699,32",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Of the writer [nothing?] is known. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\">Malory</rs> is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not distinct from his book. The book is still the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice of Anon speaking to the dreaming mind of Anon.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4#xywh=807,1332,1775,736",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\">Caxton</rs> [dow?] his [loubell?] the end of that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world, it is now written down, fixed; nothing will be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">added, even if the dream the legend survives.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">After that the the audience became separate &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">After that, we have the individual; the man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who looks back; who sees the past against the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">present.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-4#xywh=873,1922,1747,476",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs> in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-esse\" key=\"Essex\">[Essex?]</rs>, the [parsonage?] in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his [liking?]. <del>He</del> These old stories are to him [office?] [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">born. They</l>\n        "
+                ]
+            }
+        }
+    ]
+}

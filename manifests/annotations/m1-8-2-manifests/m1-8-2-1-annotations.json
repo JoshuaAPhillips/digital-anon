@@ -1,0 +1,165 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-2-annotations/m1-8-2-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=1086,124,495,16",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=663,292,1843,372",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The gr</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=797,698,1807,408",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then the house is built; &amp; <del>the</del> some one &#8211; a clergyman;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">looks back. He <del>looks back</del> Time has drawn its blue veil</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">over the horizon. He has time to think about the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">past in the quiet of the parsonage. He</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=831,1110,743,124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anon is <del>singing</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=817,1224,323,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">all <del>Knigh</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=597,1678,179,188",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">7</add></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=843,1196,1655,816",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"/>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Then at</del> When the house is built, Anon stops at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">back door. He <del>sings</del> Upstairs they talk French; English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has <del>was</del> gone down into the kitchen into the farmyard.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He sings in an uncouth fou . . He sings to young men &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">maids.   He tells them what they have heard already.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But save for this voice the English might be a dumb race.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; for the voice of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> &amp; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wlan\" key=\"Langland, William\">Langland</rs> the English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">might be a dumb race;      to</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#8.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=1961,1880,695,356",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>the mummers &amp; the</l>\n            <l>jugglers, the minstrels</l>\n            <l>&amp; the</l>\n            <l>actors</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#9.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=777,2082,1939,712",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then <del>The pr</del> <del>Then about</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anon is still the only [unparticular?] voice.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But aft</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The house however became more &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">more comfortable. At last we see someone in the house</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">winter is past. . . And the great \n            <choice>\n              <sic>E<hi rend=\"superscript\">thn</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> house is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in existence.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-2-annotation#10.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-2/m1-8-2-1#xywh=861,2744,1759,312",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The Printing Press had come. It is the Printing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Press that preserves the dumb world.</l>\n        "
+                ]
+            }
+        }
+    ]
+}
