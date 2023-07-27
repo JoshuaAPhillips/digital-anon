@@ -91,8 +91,9 @@ def manifestFactory():
 
             # adds annotation page (i.e., transcription) data
 
-            annotation_page = canvas.add_annotationpage_to_items()
+            annotation_page = canvas.add_annotationpage_to_annotations()
             annotation_page.set_id('https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/{}'.format(metadata_dict["idno"]) + '-manifests/{}-{}-annotations.json'.format(metadata_dict["idno"], idx + 1))
+
 
             # specify service (i.e., deep zoom capability) for above canvas annotations
 
@@ -109,7 +110,7 @@ def manifestFactory():
 
         # filename = input("Please enter a name for this file: ")
         manifest.json_save('./../{}-manifest.json'.format(metadata_dict["idno"]))
-        # manifest.show_errors_in_browser()
+        #manifest.show_errors_in_browser()
 
     else:
         print("Data is None :()")
