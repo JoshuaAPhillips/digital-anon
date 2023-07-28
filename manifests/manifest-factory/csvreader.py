@@ -6,7 +6,7 @@ import csv
 
 # get data filename
 
-file = 'data/' + sys.argv[-1]
+file = sys.argv[-1]
 
 # save raw data as list
 

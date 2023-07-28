@@ -104,7 +104,7 @@ def manifestFactory():
 
         # finishing touches - inspects manifest for required and recommended properties
 
-        manifest.inspect()
+        # manifest.inspect()
         
         # asks for a filename for the file output and saves out .json file
 
@@ -120,3 +120,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print('{} manifest generated successfully.'.format(metadata_dict["idno"]))
