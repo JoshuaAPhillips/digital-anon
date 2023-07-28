@@ -151,6 +151,12 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-1-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -203,6 +209,12 @@
               "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-2"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-2-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -257,6 +269,12 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-3-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -309,6 +327,12 @@
               "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-4"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-4-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -363,6 +387,12 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-5-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -415,6 +445,12 @@
               "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-6"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-6-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -469,6 +505,12 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-7-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -521,6 +563,12 @@
               "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-8"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-8-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -575,6 +623,12 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-9-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -627,6 +681,12 @@
               "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-10-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -681,6 +741,12 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-11-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
     },
     {
@@ -733,6 +799,12 @@
               "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-12"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-12-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     },
@@ -787,13 +859,13 @@
             }
           ]
         }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-manifests/m108-13-annotations.json",
+          "type": "AnnotationPage"
+        }
       ]
-    }
-  ],
-  "annotations": [
-    {
-      "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotations.json",
-      "type": "AnnotationPage"
     }
   ]
 }

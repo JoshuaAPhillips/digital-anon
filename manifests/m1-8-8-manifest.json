@@ -52,7 +52,7 @@
       },
       "value": {
         "en": [
-          "M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p."
+          "M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.\n"
         ]
       }
     }
@@ -99,7 +99,7 @@
   ],
   "items": [
     {
-      "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0",
+      "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/m1-8-8-1",
       "type": "Canvas",
       "label": {
         "en": [
@@ -124,11 +124,11 @@
       "width": 2766,
       "items": [
         {
-          "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/page/p0/1",
+          "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/m1-8-8-1",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://iiif.io/api/cookbook/recipe/0009-book-1/annotation/p0000-image",
+              "id": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/m1-8-8-1",
               "type": "Annotation",
               "motivation": "painting",
               "body": {
@@ -145,9 +145,15 @@
                   }
                 ]
               },
-              "target": "https://iiif.io/api/cookbook/recipe/0009-book-1/canvas/p0"
+              "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-8/m1-8-8-1"
             }
           ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-8-manifests/m1-8-8-1-annotations.json",
+          "type": "AnnotationPage"
         }
       ]
     }
