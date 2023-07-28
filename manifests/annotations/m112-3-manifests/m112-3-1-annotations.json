@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-3-annotations/m112-3-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-1#xywh=907,113,105,107",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">35</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-1#xywh=819,228,1810,1652",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so long as the play was dominant. The audience at the play</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">house had to draw in txxxx the play with their eyes and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ears. Without a book of the words they could not deepen and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">revise the impression left by the play, or ask those</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">questions that are debated now in every newspaper. The lack</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of general reading accounts for the long pause between</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">Shakespeares</rs> death and the \n            <choice>\n              <sic>k8th</sic>\n              <corr>18th</corr>\n            </choice> century when the plays of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Shakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice> hung suspended, unrealised-- even in 17</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmor\" key=\"Morgann, Maurice\">Morgann</rs> could say that \n            <choice>\n              <sic>Shakespera</sic>\n              <corr>Shakespeare</corr>\n            </choice> still lacked</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">half his \n            <choice>\n              <sic>proer</sic>\n              <corr>proper</corr>\n            </choice> fame. The lack of a reading public</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">accounts too for the scarcity of criticism and for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">general nature of what criticism there is. Both <rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sidney</rs> and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Jonson</rs> are writing for the small critical public, and thus</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">deal with \n            <choice>\n              <sic>ggneral</sic>\n              <corr>general</corr>\n            </choice> questions, and not with \n            <choice>\n              <sic>partciualr</sic>\n              <corr>particular</corr>\n            </choice> books</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>perons</sic>\n              <corr>persons</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-1#xywh=823,1896,1810,134",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The reader then \n            <choice>\n              <sic>com s</sic>\n              <corr>comes</corr>\n            </choice> into existence some time</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at \n            <choice>\n              <sic>teh</sic>\n              <corr>the</corr>\n            </choice> end of the sixteenth century, and his life history</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could we discover it would be worth writing, for the effect</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it had upon literature. At some point his ear must have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lost its acuteness; at \n            <choice>\n              <sic>a other</sic>\n              <corr>another</corr>\n            </choice> his eye must have become dull.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Our own attempt when we read the early Elizabethan \n            <choice>\n              <sic>palys</sic>\n              <corr>plays</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>the</sic>\n              <corr>to</corr>\n            </choice> supply the trumpets and the flags, the citizens and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">apprentices is an effort to revert to an earlier stage.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">As time goes on \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> reader becomes distinct \n            <choice>\n              <sic>f om</sic>\n              <corr>from</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spectator. His \n            <choice>\n              <sic>snese</sic>\n              <corr>sense</corr>\n            </choice> of words and their \n            <choice>\n              <sic>associat ns</sic>\n              <corr>associations</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>dvelops</sic>\n              <corr>develops</corr>\n            </choice>. Hxxx A word spelt on the old spelling brings</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in \n            <choice>\n              <sic>asscoations</sic>\n              <corr>associations</corr>\n            </choice>. Readers split off into different \n            <choice>\n              <sic>clases</sic>\n              <corr>classes</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

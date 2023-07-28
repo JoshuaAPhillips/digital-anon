@@ -1,0 +1,37 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-6-annotations/m1-8-6-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-6#xywh=639,76,1959,1572",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>what probably</del> much that was unintended by the writer &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[And?] now we so often enjoy the associations</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that are suggested by old spellings even,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the contrast that an unfamiliar use of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words <del>suggests</del> suggests between <del>one age &amp;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a past age &amp; our own &#8211;&#8211; all this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And further, as the <del>habit of</del> reading becomes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">habitual, <del>the faculty</del> a unusual faculty</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>it</del> there <del>are</del> it loses [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as we see that [dugs?] develop a road some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <del>again,</del> there are specialised readers, who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">[must?]</add> tremendously develop the power of drawing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>out the meaning</del> drawing out the meaning of words.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; again there splits off the other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very large class of [perfectly?] literate people who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who though they <del>consume</del> run their eye over miles</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of print daily never read a word</l>\n        "
+                ]
+            }
+        }
+    ]
+}

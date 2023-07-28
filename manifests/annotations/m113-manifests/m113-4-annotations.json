@@ -1,0 +1,207 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=927,64,185,153",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">141</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=863,204,1786,564",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spreading the light...what were you saying... helping our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fellow men... \n            <choice>\n              <sic>amo g</sic>\n              <corr>among</corr>\n            </choice> \n            <choice>\n              <sic> h </sic>\n              <corr>the</corr>\n            </choice> heathens...</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=863,752,1786,564",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Edgra</sic>\n              <corr>Edgar</corr>\n            </choice>...Miss Hardcastle...eleanor, you tempt me....</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Dare I ask you? So gently nurtured... Think what you are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">saying...</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=935,728,1522,156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Eleanor... I have thought...on my knees!</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=859,764,1810,532",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Edgar... (extracting a ring from his pocket) My \n            <choice>\n              <sic>mtother</sic>\n              <corr>mother</corr>\n            </choice>...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on her death bed... no, no....I cannot ask it... my \n            <choice>\n              <sic>alck</sic>\n              <corr>lack</corr>\n            </choice> of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">birth... Your father... Ten years.... xmxmxmxmxmxmxmmxmx...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Can you bear it?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=927,1292,1658,228",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Eleanor slipping the ring into her pocket...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">A life time...For you...</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=935,1520,1642,132",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Enter Mrs hardcastle on a donkey.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#8.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=923,1628,1706,564",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Mrs Hardcastle. So you stole a march on us, young people.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There was a time, Sir John ( turning to Sir \n            <choice>\n              <sic>Jon</sic>\n              <corr>John</corr>\n            </choice> ) when I</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was always first on to. Now--- thats where we had the picnic</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">past year--where the grass is burnt. You and I Sir John will</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>unoack</sic>\n              <corr>unpack</corr>\n            </choice> txmxmxmxmxxx hamper.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#9.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=911,2148,1698,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She descends from her donkey.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#10.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=887,2268,1762,452",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"inline\">(</add>This is where we had the picnic last year. \n            <choice>\n              <sic>ere</sic>\n              <corr>[There? Here?]</corr>\n            </choice> by the lake.<add hand=\"ms\" place=\"ms\">)</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">( Children, young men young ladies, some carrying</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hampers, others \n            <choice>\n              <sic>buttefly</sic>\n              <corr>butterfly</corr>\n            </choice> nets, some with spy c glasses</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp;c arrive. )</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#11.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=895,2728,1738,228",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">A rug is thrown on the ground and Mrs hardcastle seats \n            <choice>\n              <sic>hersel</sic>\n              <corr>herself</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">upon a camp stool.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#12.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=891,2932,1778,532",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Mrs H.... Some of you gentlemen fill the kettles. Who'll</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gather sticks? Now Alfred dont \n            <choice>\n              <sic>runa bout</sic>\n              <corr>run about</corr>\n            </choice> chasing b</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>erfiles</sic>\n              <corr>[butterflies?]</corr>\n            </choice> or \n            <choice>\n              <sic>youllmkae</sic>\n              <corr>you'll make</corr>\n            </choice> yourself sick. Remember last year...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">I will unpack the hamper. here where the</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#13.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-4#xywh=503,1440,499,708",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>\"The duty\"</l> <!-- look at on Big Screen -->\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

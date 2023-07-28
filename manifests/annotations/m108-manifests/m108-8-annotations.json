@@ -1,0 +1,73 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-annotations/m108-8-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-8#xywh=856,80,164,172",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">27</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-8#xywh=808,212,1804,2196",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The play then owes its <add hand=\"ms\" place=\"above\">heightened</add> intensity to the audience in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">penny seats. At their \n            <choice>\n              <sic>commandit</sic>\n              <corr>command it</corr>\n            </choice> is violent; it is \n            <choice>\n              <sic>corase</sic>\n              <corr>coarse</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is, like our own detective stories and best sellers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a parody and a transformation of actual fact. There was a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">It must have</add> great temptation for the playwright to exaggerate. It</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">was</del> <add hand=\"ms\" place=\"above\">fed</add> the desire of the audience in the penny seats. But in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">seats in the covered part of \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> house there were nobles,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rulers scholars. Lord Southampton and Lord Rutland,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Roland White wrote to Sir Robert Sidney <quote source=\"#\" rend=\"inline\">\"pass away their</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">time in London, merely in going to plays every day\"</quote>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet they are silent too. A \n            <choice>\n              <sic>yo ng</sic>\n              <corr>young</corr>\n            </choice> poet dedicates his sonnets</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to Mr W. H. and none of them troubles to ask,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Whois</sic>\n              <corr>Who is</corr>\n            </choice> this patron? It is not a matter of interest in court</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">circles. And \n            <choice>\n              <sic>is</sic>\n              <corr>this</corr>\n            </choice> lack of curiosity is harder to explain.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Fo</sic>\n              <corr>For</corr>\n            </choice> they were readers; they had the Greeks and the Latins</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at the \n            <choice>\n              <sic>ack</sic>\n              <corr>back</corr>\n            </choice> of their minds. How could it have been that they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">said nothing about \n            <choice>\n              <sic>theis</sic>\n              <corr>this</corr>\n            </choice> astonishing new art, that they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">did not <add hand=\"ms\" place=\"above\">[expect?]</add> \n            <choice>\n              <sic>expereince</sic>\n              <corr>experience</corr>\n            </choice> that sense of outrage, of \n            <choice>\n              <sic>partisanchip</sic>\n              <corr>partisanship</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which seems to be the common reaction of the more cultivated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">part of the public when a new writer of genius appears?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-8#xywh=852,2392,1796,812",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Perhaps <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> in his <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-baes\" key=\"Essays (Francis Bacon)\">Essays</rs> \n            <choice>\n              <sic>supplys</sic>\n              <corr>supplies</corr>\n            </choice> a reason.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">These things be \n            <choice>\n              <sic>b y</sic>\n              <corr>but</corr>\n            </choice> Toyes\"</quote> he wrote in the essay</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">called <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-masq\" key=\"Of Masques and Triumphs\">\"Of Masques and Triumphs\"</rs>. To the \n            <choice>\n              <sic>aristocratuc</sic>\n              <corr>aristocratic</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scholar the players were still only mountebanks, bear leaders</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>acroats</sic>\n              <corr>acrobats</corr>\n            </choice>. They spoke in the vulgar tongue. Off the stage</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they lived in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-hear\" key=\"Heart of Darkness, The\">heart of darkness</rs>. \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\"><choice>\n              <sic>Marloew</sic>\n              <corr>Marlowe</corr>\n            </choice></rs> lying on the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

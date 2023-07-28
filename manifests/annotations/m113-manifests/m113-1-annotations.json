@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-1#xywh=672,124,2028,2972",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This brittle and imperfect sketch with its \n            <choice>\n              <sic>exggerations</sic>\n              <corr>exaggerations</corr>\n            </choice> and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">foreshortenings, is no more than an attempt to point out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St Pauls</rs> <rs type=\"place\" ref=\"../resources/annotations.xml#pla-wmab\" key=\"Westminster Abbey\">\n            <choice>\n              <sic>Westmisnter</sic>\n              <corr>Westminster</corr>\n            </choice> Abbey</rs> and the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-towe\" key=\"Tower of London\">Tower of London</rs> to a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>visiotr</sic>\n              <corr>visitor</corr>\n            </choice> \n            <choice>\n              <sic>f om</sic>\n              <corr>from</corr>\n            </choice> the \n            <choice>\n              <sic>co ntry</sic>\n              <corr>country</corr>\n            </choice>. You will complain \n            <choice>\n              <sic>jystly</sic>\n              <corr>justly</corr>\n            </choice> that it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ti</sic>\n              <corr>it</corr>\n            </choice> leaves out \n            <choice>\n              <sic>th e</sic>\n              <corr>the</corr>\n            </choice> effect of those famous \n            <choice>\n              <sic>monumtnts</sic>\n              <corr>monuments</corr>\n            </choice> upon the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotions. Thxmxmxmxmxmxmmxmxmxmxx To \n            <choice>\n              <sic>trasnmit</sic>\n              <corr>transmit</corr>\n            </choice> that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion let us now \n            <choice>\n              <sic>attenot</sic>\n              <corr>attempt</corr>\n            </choice> a dangerous \n            <choice>\n              <sic>transiti n</sic>\n              <corr>transition</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from one attitude to another, from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The emotion which built them, the emotion which they still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">transmit is left out. This \n            <choice>\n              <sic>sia</sic>\n              <corr>is a</corr>\n            </choice> charge that can be \n            <choice>\n              <sic>levlled</sic>\n              <corr>levelled</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">against all criticism. xmxmxxx a charge easy enough to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxxxxx Take as a simple example of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">difficulties of transmitting emotion, the \n            <choice>\n              <sic>ned</sic>\n              <corr>need</corr>\n            </choice> of making</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>q otation</sic>\n              <corr>quotation</corr>\n            </choice>. The page has to be found and the words copied.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The manual act disturbs the st current of thought</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The presence of alien bodies is also clearly \n            <choice>\n              <sic>percebtile</sic>\n              <corr>perceptible</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Many people have spent lives in \n            <choice>\n              <sic>musumes</sic>\n              <corr>museums</corr>\n            </choice>, in order to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">verify one date. Accuracy then is \n            <choice>\n              <sic>d manded</sic>\n              <corr>demanded</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In view of these obstacles, the \n            <choice>\n              <sic>trasntion</sic>\n              <corr>transition</corr>\n            </choice> \n            <choice>\n              <sic>fron</sic>\n              <corr>from</corr>\n            </choice> the critical</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attitude to the private is \n            <choice>\n              <sic>attende</sic>\n              <corr>attended</corr>\n            </choice> with great dangers.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We have to free \n            <choice>\n              <sic>ourslves</sic>\n              <corr>ourselves</corr>\n            </choice> from the imposition of authority</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the dominion of the customary. In short we have to \n            <choice>\n              <sic>tranport</sic>\n              <corr>transport</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ourslves</sic>\n              <corr>ourselves</corr>\n            </choice> from the critics \n            <choice>\n              <sic>attutude</sic>\n              <corr>attitude</corr>\n            </choice>; to the f</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">readers, even perhaps to the state of mind</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is so amorphous that it has no visible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the readers; \n            <choice>\n              <sic>w</sic>\n              <corr>we</corr>\n            </choice> have to become \n            <choice>\n              <sic>ourslv</sic>\n              <corr>[ourselves?]</corr>\n            </choice></l>\n        "
+                ]
+            }
+        }
+    ]
+}

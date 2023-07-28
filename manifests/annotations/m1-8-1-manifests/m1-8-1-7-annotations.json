@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-7#xywh=771,28,1939,2124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs>, there is the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\" key=\"Archbishop of Canterbury\">Archbishop of Canterbury</rs>. <del>But at</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-merl\" key=\"Merlin\">Merlin</rs> casts his enchartments, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-morg\" key=\"Morgan le Fay\">Morgan Le Fay</rs> turns herself into</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a stone; &amp; <del>the</del> English roads are</del> but Knights are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">riding the roads; the roads lead to castles where</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Knights lie [illeg.]; <del>the</del> Four Queens pace on white</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mules; <del>the</del> a ship with silver sails down to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">water: <del>the</del> Morgan le Fay turns herself to stone;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the hand rises from the lake holding <rs type=\"object\" ref=\"../resources/annotations.xml#obj-exca\" key=\"Excalibur\">Excalibur</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Is it a child's story? No, for the</del> The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">candour is like a child's; yet it is not a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">story told to children. There is evil in the word; love; &amp; </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>gr</del> sorrow. <del>It tells a</del> <add place=\"above\">The story is the</add> story that we tell. <add place=\"above\">we tell</add>. But</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the proportions are different. <del>There is no</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>perspective. The</del> It has not our perspective</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>There is repetition; catalogue; dream;</del> The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] is very [tableau?]. <del>Like children, the Kings</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The catalogue is made after a childs </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">particularity. <del>And this,</del> Bit this is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clear eye that sees so definitively; &amp; <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">without exaggeration. For there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> this limpid [disclosure?] of what was real;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there is no [sune?] &amp; the [pictaugue?]; &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">beauty is <del>the</del> in the object, not in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writers manipulations      \"</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-7#xywh=641,1938,1915,732",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" rend=\"block\" source=\"#\">\n            <l><add place=\"margin\">61</add>\"&#8211; so he went in &amp; <del>looked</del> searched from</l>\n          <l>chamber to chamber, &amp; found her bed,</l>\n          <l>but she was not there; there Balin</l>\n          <l>looked into a fair little garden, &amp; under a</l>\n          <l>laurel tree he saw her lie under a</l>\n          <l>[street?] of green samite, &amp; a Knight with her</l>\n          <l>&amp; under their heads grass &amp; herbs\"...</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-7#xywh=579,2584,1903,292",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" rend=\"block\" source=\"#\">\n            <l><add place=\"margin\">79</add> Then the King looked about the wood...</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-7#xywh=831,2740,1587,356",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is but a childs world; it is a world</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">before <del>the</del> self consciousness had added any</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mirror. There are men &amp; women</l>\n        "
+                ]
+            }
+        }
+    ]
+}

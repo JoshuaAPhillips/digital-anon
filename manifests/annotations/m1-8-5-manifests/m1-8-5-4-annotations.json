@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-5-annotations/m1-8-5-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-4#xywh=765,82,1711,484",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">longing for release from silence... so that at last the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>met</del> scraps [found?] &amp; the weight &amp; the heat, &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">heavy pressure of the present formed under his hands into</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> the expressiveness <del>wh.</del> is <del>still</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">says more than has ever been said since.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-4#xywh=775,538,363,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>How was</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-4#xywh=733,542,1711,484",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>But how much is due ot the stage, how much to the</l>\n            <l>audience, how much to <del>silence itself</del></l>\n            <l><del>And</del></l>\n          </del>\n        "
+                ]
+            }
+        }
+    ]
+}

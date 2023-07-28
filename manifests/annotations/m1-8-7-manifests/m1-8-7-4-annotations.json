@@ -1,0 +1,109 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-7-annotations/m1-8-7-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4#xywh=731,82,1847,1488",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so many years, he has not been later than nine at the [illeg.].</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Or, his lectures have been so regular that one \n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">find hum at his place at the reading desk at <del>ni</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[lunch?] every Monday. <del>He st</del> There is no need to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">discuss the effect of that prohibition. If we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could evade all this, we should ahve to seek into a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very dirty layer of the mind. to be able to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">put down the book &amp; the paper &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pen. to <del>dis</del> free ourselves entirely from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">subservience <del>to the fact</del> to free ourselves from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">all the [impositions?] of authority &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the dominion of what is customary.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>How often</del> to say openly that there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>nothing doing. There is</del> to <del>slip</del> <del>into</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">all these are <del>done</del> <del>force</del> that diminish, distort</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>fact is tha</del> <del>It is would be</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4#xywh=787,1530,1743,14",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There <del>remains</del> <del>a</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4#xywh=771,1504,1771,66",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Let us <del>say then that</del> try then to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">recapture some actual experience, which seems</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to have a connection, <del>though a different one,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the experience of reading these old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">books: to spring from poetry; to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">be [interfaced?] with the same emotion.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Let us forget</del> <del>For exam</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4#xywh=895,2102,1047,16",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Whether the has still runs</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4#xywh=837,2166,1599,1156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If [illeg.] If still ran, let us take it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when the [owling?] time is at hand, down to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-lobr\" key=\"London Bridge\">London Bridge</rs>. There is a curious smell</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in this part of the world, of hops, [illeg.];</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; also a curious [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a woman from one way hails a man from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the other. <del>The shouted words</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>imply</del> Here there is no differentiation.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The streets are drab enough. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">river has a great turbulent swollen</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stream. The cranes are picking sacks from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the holds of ships. There is a</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m51-annotations/m51-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-9#xywh=909,97,80,88",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">6</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-9#xywh=823,200,1903,768",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">where the old pagan English had done sacrifice.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The peasants still went that way by instinct, in spring</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and summer and winer. The old Gods lay \n            <choice>\n              <sic>hideen</sic>\n              <corr>hidden</corr>\n            </choice> beneath the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">new. If they were nameless now, it was to them, not to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Christian God, that the \n            <choice>\n              <sic>peants</sic>\n              <corr>peasants</corr>\n            </choice> did homage; wearing their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">green leaves to \n            <choice>\n              <sic>propittte</sic>\n              <corr>propagate</corr>\n            </choice> the earth Goddess; dancing through</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the houses; killing the old; reviving the new.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-9#xywh=853,960,1815,2336",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is in the twenty one books of the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mort\">Mort DArthur</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that we tap into the deep \n            <choice>\n              <sic>resev ir</sic>\n              <corr>reservoir</corr>\n            </choice> of common belief that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sunk , in the minds of the nobles and peasants.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malorys</rs> pages that we hear the voice of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>murmurinf</sic>\n              <corr>murmuring</corr>\n            </choice> still. Kings and Queens, nobles and \n            <choice>\n              <sic>peasnts</sic>\n              <corr>peasants</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remembered how the old King and his knights went</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their ways through the wild woods seeking adventure. When</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs> himself doubted if any such man had ever been,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the gentlemen of England were positive. They said that you</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could see <rs type=\"person\" ref=\"../resources/annotations.xmk#psn-gawa\" key=\"Gawain\">Gawaines</rs> skull at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-dove\" key=\"Dover\">Dover</rs>; and the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-roun\" key=\"Round Table\">Round Table</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at <rs type=\"place\" ref=\"../resources/annotations.xml#pla=winc\" key=\"Winchester\">Winchester</rs>; and <quote source=\"#\">\"in otherplaces <rs type=\"person\" ref=\"../resources/annotations.xml#psn-lanc\" key=\"Lancelot\">Launcelots</rs> sword and many</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">other things.\"</quote> Txxxxxxxxxxxxxx In <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hen8\" key=\"Henry VIII\">Henry the \n            <choice>\n              <sic>Eighte</sic>\n              <corr>Eighth's</corr>\n            </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">time a \n            <choice>\n              <sic>silv r</sic>\n              <corr>silver</corr>\n            </choice> horse shoe had been found at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-came\" key=\"Camelot\">Camelot</rs>. The book</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comes to at the very moment when the old stories were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fading. It xxxxxxxxx is half fable, half fact.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is <rs type=\"place\" ref=\"../resources/annotations.xml#psn-lond\" key=\"London\">London</rs>; and <rs type=\"place\" ref=\"../resources/annotations.xml#psn-carl\" key=\"Carlisle\">\n            <choice>\n              <sic>Carlisel</sic>\n              <corr>Carlisle</corr>\n            </choice></rs> and <rs type=\"place\" ref=\"../resources/annotations.xml#psn-stal\" key=\"St Albans\">St Albans</rs>; there is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\" key=\"Archbishop of Canterbury\">Archbishop of Canterbury</rs> and <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St \n            <choice>\n              <sic>Pauks</sic>\n              <corr>Paul's</corr>\n            </choice></rs>. But the roads lead</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">past London to cast s where Knights lie enchanted;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">down the roads ride for Queens on white mules; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-morg\" key=\"Morgan le Fay\">Morgan le</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-morg\">Fay</rs> turns herself suddenly to stone; and a hand rises from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a lake holding <rs type=\"object\" ref=\"../resources/annotations.xml#obj-exca\" key=\"Excalibur\">Excalibur</rs>. \n            <choice>\n              <sic>Itis</sic>\n              <corr>It is</corr>\n            </choice> a childs story, in the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

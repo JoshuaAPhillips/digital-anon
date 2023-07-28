@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-7-annotations/m1-8-7-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3#xywh=801,98,1707,244",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>You will say that</del> <del>there is</del> no <del>inducement is given you</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>to believe that the in the</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3#xywh=783,320,1847,672",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>For a moment let us change the angle. Let us</l>\n            <l>discuss the difficulties of criticism. In the</l>\n            <l><del>first place</del> one of the greatest is <del>that we</del></l>\n            <l><del>cannot explain the instinct</del> that the <del>critic is</del></l>\n            <l>mere art of <del>criticism the erection of a</del></l>\n            <l><del>all</del> outing is alluded with great drawbacks.</l>\n            <l>It is perpetually interrupted. It is overshadowed.</l>\n            <l>It is impossible to</l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-3#xywh=811,946,1831,2252",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Let us then attempt <del>what</del> for one brief moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> very dangerous transition: from one</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attitude of mind to another. <del>In this case</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the omniscient to the fallible. It is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; admit in the first place, that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>scene</del> we cannot say have the creative</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impulse, save by giving experience to it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ourselves. <del>Thus</del> <del>the time</del> <del>Therefore when we</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>talk of the plays of</del> <del>And as anybody</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>knows who has written even a short story</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the creative impulse is only to be stated in its</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>own terms.</del>    <del>If then we want to convey</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>any notion</del> <del>So</del> <del>Talk</del> It is undeniable</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the creation of a work of art by some one else</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">produces <del>something</del> an emotion in us.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the origin of [illeg.] is the desire <del>to</del> in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>in the first place</del> <add place=\"above\">[illeg.]</add> to transmit this emotion</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; then to explain it. The difficulties that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">make this an impossible undertaking.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Take, as a simple instance, the quotation</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>This</del> In order to copy out even one stage of a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">play, it is necessary to open at the right</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">page then to copy accurately. This</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at once breaks the stream of thought. Besides,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there is always present the other critic &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Let us see him in person &#8211; <del>a</del> For ever</l>\n        "
+                ]
+            }
+        }
+    ]
+}

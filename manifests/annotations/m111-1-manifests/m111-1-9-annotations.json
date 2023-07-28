@@ -1,0 +1,49 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-1-annotations/m111-1-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-9#xywh=915,30,161,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">33</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-9#xywh=915,168,1755,1692",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the meaning of words is tremendously developed; so that they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remain attached to certain aspects of the printed page;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>sch ars</sic>\n              <corr>scholars</corr>\n            </choice> the students whxmxmxmxmxmxx, Again there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the very large class of perfectly \n            <choice>\n              <sic>literatue</sic>\n              <corr>literate</corr>\n            </choice> \n            <choice>\n              <sic>peole</sic>\n              <corr>people</corr>\n            </choice> \n            <choice>\n              <sic>whorun</sic>\n              <corr>who run</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their eyes over miles of print yearly, yet never read a w</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">word. Txmxmxmxxx The reader, distinct from the \n            <choice>\n              <sic>schoar</sic>\n              <corr>scholar</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">distinct from the print stripper of news paper print,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has a curious \n            <choice>\n              <sic>p wer</sic>\n              <corr>power</corr>\n            </choice> to make houses and countries</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">visible, men and \n            <choice>\n              <sic>womn</sic>\n              <corr>women</corr>\n            </choice> and their thoughts and emotion,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from marks on a piece of paper. His faculty is always \n            <choice>\n              <sic>changig</sic>\n              <corr>changing</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The reader \n            <choice>\n              <sic>agains</sic>\n              <corr>again</corr>\n            </choice> is always changing. The <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cine\" key=\"Cinema\">cinema</rs> is now</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>develpojg</sic>\n              <corr>developing</corr>\n            </choice> his eyes, the \n            <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-broa\" key=\"Broadcast\"><choice>\n              <sic>Braodcast</sic>\n              <corr>Broadcast</corr>\n            </choice></rs> is \n            <choice>\n              <sic>dev pojg</sic>\n              <corr>developing</corr>\n            </choice> his ear.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is still in existence; for it is a fact that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he is still \n            <choice>\n              <sic>casuing</sic>\n              <corr>causing</corr>\n            </choice> books to be printed.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is still reading \n            <choice>\n              <sic>Sjakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

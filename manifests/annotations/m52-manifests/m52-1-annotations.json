@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-1#xywh=776,114,396,136",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anon.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-1#xywh=778,230,1912,144",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">\"For many centuries after Britain became an island\"</quote> the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gtre\" key=\"Trevelyan, George\">hist</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-gtre\"/>orian says \" <quote source=\"#\">\"the untamed forest was king.\"</quote> Its \n            <choice>\n              <sic>mosit</sic>\n              <corr>moist</corr>\n            </choice> and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>mssy</sic>\n              <corr>mossy</corr>\n            </choice> floor was hidden from heavens eye by a close drawn</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">curtain of innumerable treetops. \" On the matted bough</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">innumerable birds \n            <choice>\n              <sic>snag</sic>\n              <corr>sang</corr>\n            </choice>; but their song was only heard by a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">few skin clad hunters in the \n            <choice>\n              <sic>claetings</sic>\n              <corr>clearings</corr>\n            </choice>. Did the desire</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to sing come to one of those <add hand=\"ms\" place=\"above\">barbarians</add> savages because he \n            <choice>\n              <sic>geard</sic>\n              <corr>heard</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">birds sing, and so rested his axe against the tree for a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">moment? Anyhow, the tree was felled; some sort of hut</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was made from its branches; and the clearing became larger;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the birds \n            <choice>\n              <sic>f   er</sic>\n              <corr>fewer</corr>\n            </choice>; and the human voice sang instead. The first</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">songs are out of door songs; spring songs; summer songs;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">winter songs.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-1#xywh=1094,1660,1096,272",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>Bytuene Mersh and Averil</l>\n            <l>When spray biginneth to springe,</l>\n            <l>The lutel foul hath hire wyl</l>\n            <l>on hyre lud to synge.</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-1#xywh=1054,1920,1096,272",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>Sumer is icumen in,</l>\n            <l>Lhude sing cuccu</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-1#xywh=1048,2122,1104,52",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>By a bank as I lay</l>\n            <l>Musing myself alone, hey ho!</l>\n            <l>A birdes voice</l>\n            <l>Did me rejoice,</l>\n            <l>Singing before the day;</l>\n            <l>And me thought in her lay</l>\n            <l>She said winter was past, hey ho!</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-1#xywh=696,2642,1916,68",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They were out of door songs, because there was no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comfort indoors, little light, and no books. The eye</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">therefore was more active in in ourselves. The eye is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">young sense; the sense that is attached to the body.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Now and then, by \n            <choice>\n              <sic>chooisng</sic>\n              <corr>choosing</corr>\n            </choice> a view carefully to shut out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a chimney or a bungalow, we can still see a fragment of</l>\n        "
+                ]
+            }
+        }
+    ]
+}

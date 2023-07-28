@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-6#xywh=755,156,1054,176",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the old palace</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-6#xywh=763,284,1782,856",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>After that I had accomplished &amp; published</l>\n            <l>divers histories... many noble &amp; divers</l>\n            <l>semblances of this realm of England came &amp;</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">demainded me many &amp; ofttimes &#8211; \"</quote> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs> wrote in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the preface to the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mort\" key=\"Le Morte d'Arthur\">Morte d'Arthur</rs>... <del>why he</del> <quote source=\"#\" rend=\"inline\"/>\"to</l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>represent the history of the said noble King &amp;</l>\n            <l>conqueror <rs type=\"person\" ref=\"../resources/annotations.xml#psn-arth\" key=\"Arthur (King)\">King Arthur</rs> &amp; of the Knights with the</l>\n            <l>history of the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-gral\" key=\"Holy Grail (Sang Gral)\">Sang Gral</rs> &amp; of the death <del>o</del></l>\n            <l>ending of the said Arthur\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-6#xywh=775,972,1759,804",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Here in the</del> <add place=\"above\">Six 7</add> the 21 books of the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mort\" key=\"Le Morte d'Arthur\">Morte D'Arthur</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is the <del>belief which was</del> <del>we have the</del> <del>belief of the</del></l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>preserve, <del>even</del> what lay beneath: the</l>\n            <l><del>Elizabe</del> It <del>is here we th that we tap the</del> the</l>\n            <l><del>fount</del> deep reservoir    we tap what lay</l>\n            <l>beneath <del>the</del> <del>Chaucer</del> <add>peasant &amp; the noble; what</add> beneath Spenser &#8211; the</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">deep reservoir of <del>hardy</del> old <del>belief</del> <add>stories</add> Even in the 19th</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">century a peasant said \"                </l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-6#xywh=795,1562,1807,1804",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It is a</del> <del>In <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malorys</rs> pages we</del> It is in Malorys</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pages that we hear the <del>anonymous</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>half conscious</del> voice of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">anon</rs> <del>it</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">telling his tales to the noble &amp; the peasant:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reminding them of the <del>very</del> old Kings &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Knights who <del>lived</del> went their ways through the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wild woods seeking adventure. When <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] that <rs type=\"person\" ref=\"../resources/annotations.xml#psn-arth\" key=\"Arthur (King)\">King Arthur</rs> never lived, the noble</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">advised him that \n            <choice>\n              <sic>sm</sic>\n              <corr>[someone?]</corr>\n            </choice> \n            <choice>\n              <sic>cd.</sic>\n              <corr>could</corr>\n            </choice> see <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gawa\" key=\"Gawain\">Gawaines</rs> skull at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-dove\" key=\"Dover\">Dover</rs> &amp; <rs type=\"object\" ref=\"../resources/annotations.xml#obj-roun\" key=\"Round Table\">Round Table</rs> at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-winc\" key=\"Winchester\">Winchester</rs> <quote source=\"#\" rend=\"inline\">\"in</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">other places <rs type=\"person\" ref=\"../resources/annotations.xml#psn-lanc\" key=\"Lancelot\">Lancelots</rs> sword &amp; many other</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">things.\"</quote> The book itself <del>[fulfils?]</del> to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to <del>to this double</del> is <del>part</del> In the book itself</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the dream <del>is mixed</del> with reality. It is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>half fable, half fact. <del>So</del> <del>In</del> <del>We</del></del> The book</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separates <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxtons</rs> scepticism &amp; the nobles faith.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is half fable, half fact. <del>Now</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-merl\" key=\"Merlin\">Merlin</rs> <del>fam</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-6#xywh=281,1346,587,364",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n          <l>Lay together, yet</l>\n          <l>still viewed</l>\n          <l>[merry?]</l>\n        </add>\n        "
+                ]
+            }
+        }
+    ]
+}

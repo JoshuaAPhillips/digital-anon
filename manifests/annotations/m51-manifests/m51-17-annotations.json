@@ -1,0 +1,57 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m51-annotations/m51-17-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-17#xywh=854,104,120,12",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n          <choice>\n            <sic>LO</sic>\n            <corr>10</corr>\n          </choice>\n          </l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-17#xywh=837,218,1743,984",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">More and more deflected by these \n            <choice>\n              <sic>infleunces</sic>\n              <corr>influences</corr>\n            </choice>, the thing that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the writer has to say becomes increasingly cumbered. It is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">only to be \n            <choice>\n              <sic>dsicover d</sic>\n              <corr>discovered</corr>\n            </choice> in flash \n            <choice>\n              <sic>intuiton</sic>\n              <corr>intuition</corr>\n            </choice>. Thus some say</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that their beards bristle when they come upon it; others</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that a thrill runs down the nerves of the thigh. To \n            <choice>\n              <sic>disengag</sic>\n              <corr>disengage</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the song from its encumbrances becomes as time goes on</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a task for the critic--that \n            <choice>\n              <sic>sp cially</sic>\n              <corr>specially</corr>\n            </choice> equipped taster</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who was not in existence when <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> stood on the threshold</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the great room at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-pens\" key=\"Penshurst\">Penshurst</rs>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-17#xywh=1053,1216,1152,9",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was still connected with the village.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

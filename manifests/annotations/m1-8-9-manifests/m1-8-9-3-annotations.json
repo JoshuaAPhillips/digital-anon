@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-9-annotations/m1-8-9-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3#xywh=819,150,1551,564",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is the writer in <del>embryo</del>: capable that is of all the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impulses of a writer, save only that he cannot <del>as</del> <add place=\"above\">give his</add> <del>exteriorise</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his emotions; but but cannot <del>in</del> give them shape;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; this <del>emotion is as the</del> &amp; his influence</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">upon what is written <del>is</del> must be prodigous; it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[unrelated?]</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3#xywh=2181,360,431,672",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\"> \n            <l>why the power</l>\n            <l>of</l>\n            <l>creation:</l>\n            <l><del>His</del> the</l>\n            <l>images</l>\n            <l>[illeg.]</l>\n            <l>is [proud?] <del>body</del></l>\n            <l>at times in</l>\n            <l>proper</l>\n            <l>stress.</l>\n            <l>It is not</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3#xywh=697,676,1767,1256",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was to this [illeg.] <add place=\"above\">&amp;</add> blind infant, <del>&amp; the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] on his hands in the glare of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>E<hi rend=\"superscript\">an</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> playhouse &amp; [fly?] away weary</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from its potential that we owe the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Elizabethan words</del> &#8211; <del>&amp;</del> a book like the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs>[illeg.] [French?]</rs>, for example: that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very anxious, <del>still half born</del>, half born book:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a book that is still amorphous: neither one</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thing or another; a book that the writer</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cannot control, because the reader is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not yet able to read; a book that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flops, flounders, is <del>now</del> all [exchanges?] &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.], yet has      so [being?] as <del>\n            <choice>\n              <sic/>\n              <corr>Shakespearean</corr>\n            </choice> words;</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3#xywh=921,1826,1507,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del>these</del> then said that \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi>.</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> <del>had</del> look a glance [illeg.] it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <del>am</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3#xywh=943,1994,1491,22",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For <del>the f</del> the reader was <del>[homeless?] in presence of the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The weaknes of the reader is indubitable.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

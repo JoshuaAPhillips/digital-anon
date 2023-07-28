@@ -1,0 +1,54 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-23-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-23#xywh=939,74,160,14",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">13</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-23#xywh=904,188,1780,2284",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which is just gone, --<del hand=\"ms\">they</del> <add hand=\"ms\" place=\"above\">but</add> are close enough to have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>dmagaed</sic>\n              <corr>damaged</corr>\n            </choice> what he is seeing partly through their eyes--</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the writer in Spensers time had no definite f<del hand=\"ms\">oe</del>rebear. <add hand=\"ms\" place=\"above\">antagonist</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spensers <del>rdation</del> <add hand=\"ms\" place=\"above\">revolt</add> is against the \n            <choice>\n              <sic>lanaguge</sic>\n              <corr>language</corr>\n            </choice> not against <add hand=\"ms\" place=\"above\">not any particular writer, but with</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">any \n            <choice>\n              <sic>particualr</sic>\n              <corr>particular</corr>\n            </choice> master of it. He has a sense of the decay</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice>, its \n            <choice>\n              <sic>cor eptuino</sic>\n              <corr>corruption</corr>\n            </choice> since the purity of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rather than a desire to destroy some actual \n            <choice>\n              <sic>predecssor</sic>\n              <corr>predecessor</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">He recovered the o old words, Chaucers words.</del> Conscious</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">perhaps of his own diffusity and sweetness, he tried to <add hand=\"ms\" place=\"above\">recover</add>\n            <choice>\n              <sic>stiff</sic>\n              <corr>stiffen</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his words bu the use of <add hand=\"ms\" place=\"above\">Chaucers words, the old words</add> the Old English speech. But together</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with this sense of the past, there was present <add hand=\"ms\" place=\"inline\">,</add><add hand=\"ms\" place=\"above\">what we have ???</add> in him</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the sense of the future. <add hand=\"ms\" place=\"inline\">[</add>The sense of the future of the \n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is almost extinct now<add hand=\"ms\" place=\"inline\">]</add> <del hand=\"ms\">But then the writer was aware</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">of the tumult of the</del> Something was happening;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">With his acute sense of words, he must have been aware,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with \n            <choice>\n              <sic>agitaion</sic>\n              <corr>agitation</corr>\n            </choice>, with distress of what \n            <choice>\n              <sic>linece</sic>\n              <corr>license</corr>\n            </choice> \n            <choice>\n              <sic>ight</sic>\n              <corr>might</corr>\n            </choice> befall</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this \n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice>; He must have detected in speech, in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ballds</sic>\n              <corr>ballads</corr>\n            </choice>, \n            <choice>\n              <sic>everyhwere</sic>\n              <corr>everywhere</corr>\n            </choice>, something loosening, <add hand=\"ms\">[fraying?]</add>, fermenting,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and tried to seize; to harden; to fix the language</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">that was \n            <choice>\n              <sic>abo</sic>\n              <corr>about</corr>\n            </choice> to be.</del> <add hand=\"ms\" place=\"inline\">before something happened</add></l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15#xywh=868,91,144,133",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">23</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15#xywh=898,221,1080,105",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>Which into <del hand=\"ms\">words no virtue can digest</del></l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-15#xywh=802,308,1848,1442",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is a break; <add hand=\"ms\" place=\"above\">a [illeg.]</add> out of keeping; <del>to be recalled at once</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a sign that the dramatist is separate from the \n            <choice>\n              <sic>anony ous</sic>\n              <corr>anonymous</corr>\n            </choice> play</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">maker; There is no little language to put on Kings lips;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so that he cannot as yet \n            <choice>\n              <sic>amalgamante</sic>\n              <corr>amalgamate</corr>\n            </choice> naturally</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the thought and the action. The audience, the \n            <choice>\n              <sic>shopr keeprs</sic>\n              <corr>shopkeepers</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">apprentices \n            <choice>\n              <sic>insoored</sic>\n              <corr>ensured</corr>\n            </choice> not \n            <choice>\n              <sic>relfection</sic>\n              <corr>reflection</corr>\n            </choice> <add hand=\"ms\" place=\"above\">blood [illeg.]</add>, but action,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>movemnt</sic>\n              <corr>movement</corr>\n            </choice>. The play is still partly the work of the audience;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the undifferentiated gluttonous word greedy mass.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is inspired by the common voice, demanding great names,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">simple \n            <choice>\n              <sic>outl nes</sic>\n              <corr>outlines</corr>\n            </choice>; clamour and \n            <choice>\n              <sic>virtory</sic>\n              <corr>victory</corr>\n            </choice> and death; not the \n            <choice>\n              <sic>singe</sic>\n              <corr>single</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">subtlety of one soul. <del>\n            <choice>\n              <sic>Refelction</sic>\n              <corr>Reflection</corr>\n            </choice> breaks off from</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">\n            <choice>\n              <sic>ction</sic>\n              <corr>action</corr>\n            </choice>; there is no \n            <choice>\n              <sic>harml sing</sic>\n              <corr>[harmonising? harming?]</corr>\n            </choice> common speech.</del></l>\n        "
+                ]
+            }
+        }
+    ]
+}

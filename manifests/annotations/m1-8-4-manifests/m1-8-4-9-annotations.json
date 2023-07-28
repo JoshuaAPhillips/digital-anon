@@ -1,0 +1,80 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-9#xywh=51,240,759,2208",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>And Anon the</l>\n            <l>dramatist also</l>\n            <l>speaks himself. For</l>\n            <l>the audience <del>requires</del></l>\n            <l>[feels?] still part of the</l>\n            <l>play, insists on</l>\n            <l>repetition: it must</l>\n            <l>be [adu?] to sit, a shad</l>\n            <l>[thorn?], have a</l>\n            <l>story: &amp; as poetry is</l>\n            <l>told in poetry, it</l>\n            <l>must have action:</l>\n            <l>[suicide?]: adultery.</l>\n            <l>The anticipation of the</l>\n            <l>audience to the</l>\n            <l>\n              <choice>\n                <sic>Et<hi rend=\"superscript\">hn</hi></sic>\n                <corr>Elizabethan</corr>\n              </choice> play was</l>\n            <l>[unfortunate?]. The</l>\n            <l>words will not</l>\n            <l>fit the speakers:</l>\n            <l>the [illeg.], the</l>\n            <l><del>[lapne?]</del> confusion:</l>\n            <l>no one feels what</l>\n            <l>they say, the</l>\n            <l>emotion is often</l>\n            <l>plastered onto a</l>\n            <l>inappropriate figures.</l>\n            <l>But if one must</l>\n            <l>have violence, how</l>\n            <l>avoid this</l>\n            <l>[illeg.]</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-9#xywh=751,128,1727,2628",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at a distance from the moment. Nobody cares what</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his own private experience is. And so the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">songs of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> repeat over &amp; over again what</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> Gather ye flowers while ye may; Death is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">coming: Anon is never tired of celebrating</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Rose; <del>never</del> &amp; that his [illeg.] is white;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he is a repetitious, <del>co</del> And since he is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">content to <del>say</del> go unnoted, we cannot</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pin him down, we cannot</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separate him from his song. He has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thus an anonymous vitality, drawn from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">other bodies, a perennial, common vigour.</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>Nor is he dead in ourselves. The crude early</l>\n            <l>dramas still persuade us to read &#8211; not to</l>\n            <l><del>find</del> for the story. What comes next?</l>\n            <l>The <del>fil</del> <del>dramatist</del> Anon has little</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>care for the</del> <del>[Abound?]</del> So we become</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anonymous, in the early literature.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is only later, when the pressure of emotion had</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>ca</del> strewn up words, as <del>a</del> the fingers of a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the man at the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-mono\" key=\"Monotype\">monotype machine</rs> cast</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">letters out of the bubbling metal, that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we lose this quality, to gain &#8211;&#8211;?&#8211;&#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">everything it seems. For <del>there</del> <del>flocking</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the curtain [gives?] on rising. And now it has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">risen on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-hen5\" key=\"Henry V\">Henry the 5th</rs>; then on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mids\" key=\"Midsummer Night's Dream, A\">Midsummer Night</rs>:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-rome\" key=\"Romeo and Juliet\">Romeo &amp; Juliet</rs>; on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#psn-haml\" key=\"Hamlet\">Hamlet</rs> &amp; <del><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ancl\" key=\"Antony and Cleopatra\">Cleo</rs></del> <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-temp\" key=\"Tempest, The\">The Tempest</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">By that time, there is nothing <del>left</del> unsaid:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>whole of</del> <del>this</del> <del>to test</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-9#xywh=797,2688,1735,776",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The play has killed the stage. The stage has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">become too small to act this drama.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Perhaps after centuries, the play will</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">renew itself, with Mozart in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-magi\" key=\"Magic Flute, The\">Magic Flute</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as with <rs type=\"person\" ref=\"../resources/annotations.xml#psn-lbve\">Beethoven</rs> in <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-fide\" key=\"Fidelio\">       .</rs>. It never</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lived again in England. The book, after that, takes <add place=\"below\">the place of the play</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <del>the</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> is dead for ever.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

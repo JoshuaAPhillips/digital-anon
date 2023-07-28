@@ -1,0 +1,71 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m110-annotations/m110-10-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-9/899,70,177,154/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">30</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-9/895,224,1763,868/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Now we note the beauty of the words.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But often it is a suspended, derelict beauty. Chaos \n            <choice>\n              <sic>inter</sic>\n              <corr>intervenes</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>venes</sic>\n              <corr>intervenes</corr>\n            </choice>. The \n            <choice>\n              <sic>rl ation</sic>\n              <corr>relation</corr>\n            </choice> of part to part is outraged.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The balance is imperfect. Here is profusion; there bareness.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The \n            <choice>\n              <sic>anony ous</sic>\n              <corr>anonymous</corr>\n            </choice> playwright is irresponsible. He cares nothing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has no conscieince about truth; he cares only for the plot.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We are left in the end without an end. The emotion is e</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wasted.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-9/831,1088,1859,1756/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But \n            <choice>\n              <sic>graudally</sic>\n              <corr>gradually</corr>\n            </choice> the mist withdraws. So many \n            <choice>\n              <sic>playwrgihts</sic>\n              <corr>playwrights</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are \n            <choice>\n              <sic>explroing</sic>\n              <corr>exploring</corr>\n            </choice> So many private people are pressing up</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their weight of \n            <choice>\n              <sic>unepxpressed</sic>\n              <corr>unexpressed</corr>\n            </choice> emotion upon the writers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>conscious ess</sic>\n              <corr>consciousness</corr>\n            </choice>. Country squires are finding \n            <choice>\n              <sic>themsleves</sic>\n              <corr>themselves</corr>\n            </choice> able</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to say what they think without quoting <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\">Spenser</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The \n            <choice>\n              <sic>curatin</sic>\n              <corr>curtain</corr>\n            </choice> rises \n            <choice>\n              <sic>incesaantly</sic>\n              <corr>incessantly</corr>\n            </choice> upon play after play.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add>Every Each time, with [illeg.] it rises upon a more complex, <del hand=\"ms\">highly</del> matured drama.</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">After it has risen again and again it rises finally upon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">upon the completely embodied; and upon the completely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">controlled. It rises upon <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-haml\" key=\"Hamlet\">Hamlet</rs> and <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ancl\" key=\"Antony and Cleopatra\">\n            <choice>\n              <sic>Cleoptara</sic>\n              <corr>Cleopatra</corr>\n            </choice></rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fals\" key=\"Falstaff\">\n              <choice>\n                <sic>Flastaff</sic>\n                <corr>Falstaff</corr>\n              </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and <rs type=\"person\" ref=\"../resources/annotations.xml#lit-macb\" key=\"Macbeth\">Macbeth</rs>. Finally it rises upon <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-temp\" key=\"Tempest, The\">the Tempest</rs>. But the play</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has outgrown the uncovered theatre where the sun beats and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the rain pours. The theatre must be replaced</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by the theatre of the brain. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> is replaced by the man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who writes a book. The audience is replaced by the the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reader. <add hand=\"ms\" place=\"inline\">Anon, <del hand=\"ms\">when</del> is dead.</add></l>\n        "
+                ]
+            }
+        }
+    ]
+}

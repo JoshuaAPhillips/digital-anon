@@ -1,0 +1,51 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-2-annotations/m54-2-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-9#xywh=1027,70,181,169",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">11</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-9#xywh=983,208,1747,1892",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he the writer has been so long submerged. We cannot read</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\"><choice>\n              <sic>aery</sic>\n              <corr>Faery</corr>\n            </choice> Queen</rs>; nor leave it \n            <choice>\n              <sic>undread</sic>\n              <corr>unread</corr>\n            </choice>. It is a poem</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">without a plot; the metre, casting its regular fling of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sound, comes to ground \n            <choice>\n              <sic>to</sic>\n              <corr>too</corr>\n            </choice> evenly, too solidly, unlike</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> who goes on, simply, directly, at an even pace.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Great groups, composed, arranged, come together with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>orest</sic>\n              <corr>forest</corr>\n            </choice> for \n            <choice>\n              <sic>back rg und</sic>\n              <corr>background</corr>\n            </choice>. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> must have seen Italian</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pictures; or was it natural then to make compositions even</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in words? The \n            <choice>\n              <sic>Knihgyts</sic>\n              <corr>knights</corr>\n            </choice> the \n            <choice>\n              <sic>ldaies</sic>\n              <corr>ladies</corr>\n            </choice> and the ogres</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pass away amble their way through the glades and become</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">one with the clouds. Like a \n            <choice>\n              <sic>lcliund</sic>\n              <corr>[cloud?]</corr>\n            </choice> the words move up and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">down; \n            <choice>\n              <sic>furst</sic>\n              <corr>first</corr>\n            </choice> lulling the ear then cloying the ear.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It has the sweetness of a dream; something cut adrift from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the rough \n            <choice>\n              <sic>rish</sic>\n              <corr>Irish</corr>\n            </choice> land which lay outside; it has freshness,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it has \n            <choice>\n              <sic>csharpness</sic>\n              <corr>sharpness</corr>\n            </choice>. It is the thing itself;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is the original design, from which <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aten\" key=\"Tennyson, Alfred\">Tennyson</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wmor\" key=\"Morris, William\">\n            <choice>\n              <sic>orris</sic>\n            </choice>Morris</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>mad</sic>\n              <corr>made</corr>\n            </choice> their copies.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

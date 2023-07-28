@@ -1,0 +1,97 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5#xywh=903,105,164,153",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><choice>\n            <sic>i8</sic>\n            <corr>18</corr>\n          </choice></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5#xywh=910,238,1696,562",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We lose our bearings following these Knights and ladies;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to live in \n            <choice>\n              <sic>t is</sic>\n              <corr>this</corr>\n            </choice> \n            <choice>\n              <sic>prehistroic</sic>\n              <corr>prehistoric</corr>\n            </choice> land we must \n            <choice>\n              <sic>sehd</sic>\n              <corr>shed</corr>\n            </choice> many habits</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>thoght</sic>\n              <corr>thought</corr>\n            </choice>; but after all it is not an unreal world;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a fabricated world; it still exists in us, deep sunk,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">savage, primitive; m remembered.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5#xywh=884,778,1784,1018",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Of the writer, nothing is \n            <choice>\n              <sic>knonw</sic>\n              <corr>known</corr>\n            </choice>. He is not <add hand=\"ms\" place=\"above\">[illeg.] emerged</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>disnctin c</sic>\n              <corr>distinct</corr>\n            </choice> from \n            <choice>\n              <sic>hsi  ook</sic>\n              <corr>his book</corr>\n            </choice>. It is still the anonymous voice</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speaking \n            <choice>\n              <sic>anonysmously</sic>\n              <corr>anonymously</corr>\n            </choice> generally \n            <choice>\n              <sic>hat</sic>\n              <corr>that</corr>\n            </choice> the \n            <choice>\n              <sic>lsiener</sic>\n              <corr>listener</corr>\n            </choice> already</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>hald</sic>\n              <corr>half</corr>\n            </choice> knows, or \n            <choice>\n              <sic>rmemebers</sic>\n              <corr>remembers</corr>\n            </choice>. The \n            <choice>\n              <sic>lsiener</sic>\n              <corr>listener</corr>\n            </choice> hears the voice</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">partly in himself; as it comes from the man at the back</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">door who has been travelling in \n            <choice>\n              <sic>trange</sic>\n              <corr>strange</corr>\n            </choice> parts \n            <choice>\n              <sic>acrsoos</sic>\n              <corr>across</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">marsh across the flood to \n            <choice>\n              <sic>r mind</sic>\n              <corr>remind</corr>\n            </choice> the \n            <choice>\n              <sic>peasnt</sic>\n              <corr>peasant</corr>\n            </choice> and the noble</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the world that was before them. And still the dream</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lingered; for the \n            <choice>\n              <sic>peasnts</sic>\n              <corr>peasants</corr>\n            </choice></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-5#xywh=876,1824,1812,149",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the great house and the cottage this half articulate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice murmured of old gods \n            <choice>\n              <sic>a d</sic>\n              <corr>and</corr>\n            </choice> kings and \n            <choice>\n              <sic>inihgts</sic>\n              <corr>knights</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The well and the tree were still haunted. King Arthur</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>foreste s</sic>\n              <corr>foresters</corr>\n            </choice> said in the thirteenth \n            <choice>\n              <sic>cnetury</sic>\n              <corr>century</corr>\n            </choice>,    ;;;<quote source=\"#\" rend=\"inline\">\"about</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>noon or \n              <choice>\n                <sic>midngiht</sic>\n                <corr>midnight</corr>\n              </choice> when the moon is \n              <choice>\n                <sic>sufulland</sic>\n                <corr>full and</corr>\n              </choice> shining</l>\n            <l>[we?] often see an array of hunters with dogs and sound of</l>\n            <l>horns who \n              <choice>\n                <sic>ins anser</sic>\n                <corr>answer</corr>\n              </choice> to the \n              <choice>\n                <sic>enwuirers</sic>\n                <corr>enquirers</corr>\n              </choice> says</l>\n            <l>\n              <choice>\n                <sic>yhat</sic>\n                <corr>that</corr>\n              </choice> they are of the \n              <choice>\n                <sic>hosuehold</sic>\n                <corr>household</corr>\n              </choice> and fellowship of</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">King \n            <choice>\n              <sic>Art ur</sic>\n              <corr>Arthur</corr>\n            </choice>.\"</quote> Along the roads from town to town</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from house to \n            <choice>\n              <sic>ouse</sic>\n              <corr>house</corr>\n            </choice>, came the \n            <choice>\n              <sic>minstresl</sic>\n              <corr>minstrels</corr>\n            </choice> the jugglers and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the impudent bardes. \n            <choice>\n              <sic>whil</sic>\n              <corr>While</corr>\n            </choice> for those who could read it,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Caxtons book \n            <choice>\n              <sic>tol</sic>\n              <corr>told</corr>\n            </choice> the old stories set out in print.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">then \n            <choice>\n              <sic>late</sic>\n              <corr>later</corr>\n            </choice> the instinct to enact, to impersonate</l>\n        "
+                ]
+            }
+        }
+    ]
+}

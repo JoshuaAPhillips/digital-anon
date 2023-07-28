@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-2-annotations/m54-2-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-3#xywh=817,75,153,139",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">9</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-3#xywh=851,196,1773,1318",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">exhort <quote source=\"#\" rend=\"inline\">\"God keep us sound in the faith and send us health</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and a care to please God above all\"</quote> Or to admonish---</l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>\"Be not speedy of speech, nor talk suddenly, but where</l>\n            <l>discretion requireth, and that soberly then....</l>\n            <l>Let not Lawson, that fox, be \n              <choice>\n                <sic>acqaunited</sic>\n                <corr>acquainted</corr>\n              </choice> with my letters...\"</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Fear of man, fear of God surround them as h as with the \n            <choice>\n              <sic>wallsof</sic>\n              <corr>walls of</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a dungeon. There is no gaiety, no freedom, no \n            <choice>\n              <sic>familairity</sic>\n              <corr>familiarity</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ni</sic>\n              <corr>in</corr>\n            </choice> the \n            <choice>\n              <sic>hose</sic>\n              <corr>house</corr>\n            </choice> she lives in. The sound of the Bible is in her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>wars</sic>\n              <corr>words</corr>\n            </choice>. Her prose takes its \n            <choice>\n              <sic>slolemn</sic>\n              <corr>solemn</corr>\n            </choice> strain. And the prose</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the bible will not adapt itself to the \n            <choice>\n              <sic>eaxy</sic>\n              <corr>easy</corr>\n            </choice>, the \n            <choice>\n              <sic>co  oqu</sic>\n              <corr>colloquial</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is a garment to be put on when the mind is erect and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dignified, on state \n            <choice>\n              <sic>oaccions</sic>\n              <corr>occasions</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-3#xywh=785,1496,1873,1766",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is because they use of the prose of the bible when</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they write prose that the Elizabethans are unknown to us.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It They can say nothing \n            <choice>\n              <sic>simle</sic>\n              <corr>simple</corr>\n            </choice>, nothing intimate.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They are \n            <choice>\n              <sic>nevr</sic>\n              <corr>never</corr>\n            </choice> subtle; they are never shaded. Bright \n            <choice>\n              <sic>contrastd</sic>\n              <corr>contrasted</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">colours meet on their faces. Carnation and \n            <choice>\n              <sic>sanow</sic>\n              <corr>snow</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ebony and gold. When we look at them we see them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in their \n            <choice>\n              <sic>farthibgales</sic>\n              <corr>farthingales</corr>\n            </choice> and \n            <choice>\n              <sic>ru ffs</sic>\n              <corr>ruffs</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">young \n            <choice>\n              <sic>men s</sic>\n              <corr>men's</corr>\n            </choice> bodies</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are stiffly sewn into \n            <choice>\n              <sic>dohblets</sic>\n              <corr>doublets</corr>\n            </choice> and school boys faces</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are raised above starched collars; \n            <choice>\n              <sic>yong</sic>\n              <corr>young</corr>\n            </choice> women serve only to s</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">display heavy quilted \n            <choice>\n              <sic>dresse</sic>\n              <corr>dresses</corr>\n            </choice> stuck about with huge pearls.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer, \n            <choice>\n              <sic>to  rds</sic>\n              <corr>towards</corr>\n            </choice> the end of the \n            <choice>\n              <sic>sicteenth cnyury</sic>\n              <corr>sixteenth century</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was separate from his \n            <choice>\n              <sic>arudience</sic>\n              <corr>audience</corr>\n            </choice>; but he was still closely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">connected with it. He was himself unspecialised, \n            <choice>\n              <sic>un ifferent</sic>\n              <corr>undifferentiated</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ated. His eye was stimulated by the crimsons and gold and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">greens of the clothing. His ear was stimulated by the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sound of words For \n            <choice>\n              <sic>  ac </sic>\n              <corr>each</corr>\n            </choice> word was given substance and sharpness</l>\n        "
+                ]
+            }
+        }
+    ]
+}

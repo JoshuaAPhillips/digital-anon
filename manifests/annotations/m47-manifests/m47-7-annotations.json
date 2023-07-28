@@ -1,0 +1,52 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-7#xywh=300,72,2152,336",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The man then who stood on the threshold of the great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Elizabethan room was <del>separate from the chronicler</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separate from <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>, the <del>singer</del>, &amp; separate from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the chronicler. <del>He was</del> separate from his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience. <del>He had emerged;</del> <del>But</del> <del>Directly</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the creative instinct, <del>the desire to</del> had singled out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chosen words for its medium. <del>And</del> The <del>pre</del> press which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had given <del>him</del> those words a separate existence;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the reader had been</del> had <del>called into ex</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>created a reader: &amp;</del> <del>the reader, the individual</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an <del>un</del> public, a reading public, <del>to</del> And with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>existence of a public </del> began to exert its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">presentce. But it was a small public, an aristocratic public. <del>And then, when we</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>find Spenser, standing at the door, we</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>can</del> And so, <del>with Spenser perhaps</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we come for the <del>first time</del> <del>into the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>presence of</del> <add place=\"above\">to</add> the book which is <del>influenced</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>not anonymous, not spontaneous, not</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is influenced; <del>not</del> in which we can <del>still</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">detect <del>other</del> the <del>beginning of</del> <del>all it</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>all those tugs, plays</del> additions, influences,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>of</del> <del>apart from the original and pure</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>interior.</del> playing on the original instinct &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">giving it that alloy <add>[illeg.]</add> <del>when</del> which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as time goes on, become so innumerable</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> so distracting: the <del>presence</del> <add place=\"above\">effect</add> of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience &#8211; <del>could we</del> <del>the curiousness</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who will read this; what will be to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their liking, what will offend them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">What book will find favour with Lady</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Ann? What will please <rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sir Philip</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sidney</rs>what will flatter the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

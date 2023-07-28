@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-13-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-13#xywh=902,92,100,138",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">8</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-13#xywh=851,214,1759,88",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ourselves. The chairs and tables are there; but the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-wilt\">Wilton</rs> <rs type=\"place\" ref=\"../resources/annotations.xml#pla-pens\">Penshurst</rs>, <rs type=\"place\" ref=\"../resources/annotations.xml#pla-hard\">Hardwick</rs> all are untenanted.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Only the furniture remains-- the lacquered, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">highly painted, the ornate, the \n            <choice>\n              <sic>conv luted</sic>\n              <corr>convoluted</corr>\n            </choice>; the chairs and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tables that must have been so so hard to sit upon;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If they were like their furniture, they were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at once ceremonious; and crude; fantastic yet sharp,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pointed, uncushioned;</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-13#xywh=809,1084,1879,2308",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer <del hand=\"ms\">who</del> hesitated conscious of his \n            <choice>\n              <sic>pelebian</sic>\n              <corr>plebian</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>bith</sic>\n              <corr>birth</corr>\n            </choice> on the threshold of the great roo, <add hand=\"ms\" place=\"above&gt;\">, he</add> was still \n            <choice>\n              <sic>unspeciali</sic>\n              <corr>unspecialised</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">undifferentiated. His eye was stimulated <del hand=\"ms\">;</del> by the crimsons and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the golds and the greens of the \n            <choice>\n              <sic>lothing</sic>\n              <corr>clothing</corr>\n            </choice>; by the angles and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">patterns on the \n            <choice>\n              <sic>ceilinsg</sic>\n              <corr>ceilings</corr>\n            </choice>; His ear <del hand=\"ms\">too</del> was stimulated and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>peicked</sic>\n              <corr>pricked</corr>\n            </choice> <add hand=\"ms\" place=\"above\">by [words?]</add>. Books were \n            <choice>\n              <sic>rea</sic>\n              <corr>read</corr>\n            </choice> aloud; each word was given sharpness</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>subatnce</sic>\n              <corr>substance</corr>\n            </choice> by the speaking voice. And then when the lord</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or lady took his lute and sang, lilt, \n            <choice>\n              <sic>rhytm</sic>\n              <corr>rhythm</corr>\n            </choice>, melody was \n            <choice>\n              <sic>addd</sic>\n              <corr>added</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the substance and sharpness of the words. Words bubbled</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in his mind, old words, English words, \n            <choice>\n              <sic> rech</sic>\n              <corr>French</corr>\n            </choice> words, \n            <choice>\n              <sic>Ladtin</sic>\n              <corr>Latin</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words. They were \n            <choice>\n              <sic>motlen</sic>\n              <corr>molten</corr>\n            </choice>, capable of taking any shape, of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reflecting \n            <choice>\n              <sic>nay coloure</sic>\n              <corr>any colours</corr>\n            </choice>, of \n            <choice>\n              <sic>folliwng</sic>\n              <corr>following</corr>\n            </choice> the ones, of taking the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>rhymn</sic>\n              <corr>rhythm</corr>\n            </choice> of the \n            <choice>\n              <sic>l te</sic>\n              <corr>lute</corr>\n            </choice>. No grammar bound them tightly; nor did</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">one society inflict its canons of good taste.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Whether he \n            <choice>\n              <sic>ws</sic>\n              <corr>was</corr>\n            </choice> to write or to sing or to paint was an open</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>uetion</sic>\n              <corr>question</corr>\n            </choice>. The arts were closely interwoven. For a moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there is a pause on the threshold of the great \n            <choice>\n              <sic> l zabethan</sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">house, when the artist sees \n            <choice>\n              <sic>begore</sic>\n              <corr>before</corr>\n            </choice> <add hand=\"ms\" place=\"above\">[illeg.]</add> him three different paths.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Shall he sing, or paint, or make poems? And then there</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rose up from the \n            <choice>\n              <sic>couryard</sic>\n              <corr>courtyard</corr>\n            </choice> the crude <add hand=\"ms\" place=\"above\">[voices?]</add> tones of the mummers.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was the stagethat settled it. Had there been no stage,</l>\n        "
+                ]
+            }
+        }
+    ]
+}

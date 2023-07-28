@@ -1,0 +1,62 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-3-annotations/m54-3-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-1#xywh=876,84,209,139",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">9</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-1#xywh=840,220,1882,3054",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for coins. When he was walking in xxx the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\" key=\"Archbishop of Canterbury\">\n            <choice>\n              <sic>Arcbishops</sic>\n              <corr>Archbishop</corr>\n            </choice> of</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\">Canterburys</rs> garden, <quote source=\"#\" rend=\"inline\">\" the poor come \n            <choice>\n              <sic>kkocking</sic>\n              <corr>knocking</corr>\n            </choice> at the gate</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and my man says \"Sir, there is some one at the gate would</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">speak with \n            <choice>\n              <sic>oyu</sic>\n              <sic>you</sic>\n            </choice>.\"</quote> So he laid aside his book and went</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">out among the poor. He visited them in their hovels. He</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">noted their poverty. He saw the poor man unable now</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to buy a goose, for the great lords were enclosing the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fields. He went to the great man and found him still in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bed, after his hunting \n            <choice>\n              <sic>anf hid</sic>\n              <corr>and his</corr>\n            </choice> hawking. He saw the poor \n            <choice>\n              <sic>sutis</sic>\n              <corr>suitors</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">waiting \n            <choice>\n              <sic>ho</sic>\n              <corr>hour</corr>\n            </choice> in the hall to get their suit \n            <choice>\n              <sic>herad</sic>\n              <corr>heard</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">These were the casees that he brought before <rs type=\"person\" ref=\"../resources/annotations.xml#psn-edw4\" key=\"Edward IV\">King Edward</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In a voice that \n            <choice>\n              <sic>sumbles</sic>\n              <corr>stumbles</corr>\n            </choice> and uses the old language of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his fathers house, ))<quote source=\"#\" rend=\"inline\">\" they say in my country to the hogs</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">mingle mangle, cum pur, cum pur\"</quote> <!-- this is from one of Latimer's sermons to Edward! -->--- he brought into the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">light of day the hxmxmxmxmxmxmxmxmxmxmmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmxxx the harlot going to execution at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-newg\" key=\"Newgate\">Newgate</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and saying as she went <quote source=\"#\">\"that \n            <choice>\n              <sic> f</sic>\n              <corr>if</corr>\n            </choice> good fellows had kept</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">touch with her, she had not bin at this time in that case.\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He saw the curates   in their \n            <choice>\n              <sic>velevet</sic>\n              <corr>velvet</corr>\n            </choice> shoes and slippers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">meet to dance the morris dance. And the fine ladies</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dressed in \n            <choice>\n              <sic>vardinaglls</sic>\n              <corr>vardingalls</corr>\n            </choice> with their hair puffed out in tussocks</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He saw the \n            <choice>\n              <sic>yo ng</sic>\n              <corr>young</corr>\n            </choice> men given over in the s t to gulling \n            <choice>\n              <sic>drinm ig</sic>\n              <corr>drinking</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and whoring. The young men dice away their thrift; Instead of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shooting with the long \n            <choice>\n              <sic> ow</sic>\n              <corr>bow</corr>\n            </choice> they their sports are lost</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">turned into bowling \n            <choice>\n              <sic>drinming</sic>\n              <corr>drinking</corr>\n            </choice> and whoring. He And the poor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are still going on pilgrimages, setting up candles and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>wirshipping</sic>\n              <corr>worshipping</corr>\n            </choice> pigs bones. <add hand=\"ms\" place=\"above\">[illeg.]</add> He casts the light of the new</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">learning upon the the old superstitions. He too, until he</l>\n        "
+                ]
+            }
+        }
+    ]
+}

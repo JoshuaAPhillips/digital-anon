@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-4-annotations/m54-4-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3#xywh=919,112,173,146",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">10</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3#xywh=905,228,1401,142",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tunes to the words that the writers wrote.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-4-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3#xywh=831,352,1861,2938",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is the printing press \n            <choice>\n              <sic>th t</sic>\n              <corr>that</corr>\n            </choice> disturbs this company.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is the printing press that makes the writer a \n            <choice>\n              <sic>nany</sic>\n              <corr>many</corr>\n            </choice> headed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">many limbed. a mongrel with so many different \n            <choice>\n              <sic>pearants</sic>\n              <corr>parents</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that it requires a \n            <choice>\n              <sic>hole</sic>\n              <corr>whole</corr>\n            </choice> army of learned men, and a perpetual</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">provision of fine tasters to keep any order or distinction</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>etween</sic>\n              <corr>between</corr>\n            </choice> the different members. The presses of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs>, <rs type=\"place\" ref=\"../resources/annotations.xml#pla-oxfo\" key=\"Oxford\"/></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-camb\" key=\"Cambridge\">\n            <choice>\n              <sic>Ca,bridge</sic>\n              <corr>Cambridge</corr>\n            </choice></rs>, sucking in copy, and casting out legible books</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that \n            <choice>\n              <sic>nany one</sic>\n              <corr>any one</corr>\n            </choice> could read was not a nice \n            <choice>\n              <sic>fedder</sic>\n              <corr>[feeder?]</corr>\n            </choice>. Anything</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that could be written could be printed. What Any morality,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">any record, whatever men wished \n            <choice>\n              <sic>recored</sic>\n              <corr>recorded</corr>\n            </choice>, it would deliver</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as a book. Unlike the \n            <choice>\n              <sic>pa nter</sic>\n              <corr>painter</corr>\n            </choice> or the musician the writer</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">after the birth of the printing press is exposed to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">innumerable \n            <choice>\n              <sic>inappropirate</sic>\n              <corr>inappropriate</corr>\n            </choice> and \n            <choice>\n              <sic>irelveant</sic>\n              <corr>irrelevant</corr>\n            </choice> \n            <choice>\n              <sic>s licitaions</sic>\n              <corr>solcitations</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Why not write the \n            <choice>\n              <sic>hist</sic>\n              <corr>history</corr>\n            </choice> of your parish? Or the life of a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Roman emperor? Why not take part in the \n            <choice>\n              <sic>governement</sic>\n              <corr>government</corr>\n            </choice> of your</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">country? Why not advise the soul of its \n            <choice>\n              <sic>erils</sic>\n              <corr>perils</corr>\n            </choice>? Why not become</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>pampheleteer</sic>\n              <corr>pamphleteer</corr>\n            </choice> \n            <choice>\n              <sic>histroain</sic>\n              <corr>historian</corr>\n            </choice> moralist, or playwright? The Press is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">read to accept anything. And as the \n            <choice>\n              <sic>oublic</sic>\n              <corr>public</corr>\n            </choice> becomes less</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>serivile</sic>\n              <corr>servile</corr>\n            </choice>, less martial less concerned to keep out the cold</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and fight the enemy, as glass is fitted into windows</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and pillows replace logs, the public adds its own invitation</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the writer. It is an inquisitive \n            <choice>\n              <sic>acti e</sic>\n              <corr>active</corr>\n            </choice> minded public;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it soon dissipates and takes hold of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>. It makes him</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">into an innumerable \n            <choice>\n              <sic>comany</sic>\n              <corr>company</corr>\n            </choice> of familiar \n            <choice>\n              <sic>sprits</sic>\n              <corr>spirits</corr>\n            </choice>, one</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>pr aching</sic>\n              <corr>preaching</corr>\n            </choice> another delighting, \n            <choice>\n              <sic>anotherinstructing</sic>\n              <corr>another instructing</corr>\n            </choice>. Only a few</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still persist into making words into works of art.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

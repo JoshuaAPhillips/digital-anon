@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-annotations/m108-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-3#xywh=672,42,158,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>24</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-3#xywh=820,134,158,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">28</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-3#xywh=760,256,1908,31",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If we try to look at them, off the stage, in their real</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">persons <add hand=\"ms\" place=\"above\">private lives</add>, we see only wisps; passing phantoms. There are the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Fytton sisters, daughters of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-efyt\" key=\"Fytton, Edward\">Sir Edward Fytton</rs>, knight of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gaws\" key=\"Gawsworth\">Gawsworth</rs> in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-ches\" key=\"Cheshire\">Cheshire</rs>. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mfyt\" key=\"Fytton, Mary\">Mary</rs>, the younger,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">became one of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Elizabeths</rs> Maids of Honour. She goes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from her country hometo the great world. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wkno\" key=\"Knollys, William\">Sir William Knollys</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmmxmx a person of great consequence there, promised her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">father that he will not fail <quote source=\"#\" rend=\"inline\">to fulfil your desire in \n            <choice>\n              <sic>playig</sic>\n              <corr>playing</corr>\n            </choice></quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>the Good shepherd and will to my power defend the innocent</l>\n            <l>lamb \n              <choice>\n                <sic>fro</sic>\n                <corr>from</corr>\n              </choice> the wolvish \n              <choice>\n                <sic>crulety</sic>\n                <corr>cruelty</corr>\n              </choice> and foxlike subtlety</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">of the tame \n            <choice>\n              <sic>beats</sic>\n              <corr>beasts</corr>\n            </choice> of this \n            <choice>\n              <sic>vplace</sic>\n              <corr>place</corr>\n            </choice>...\"</quote> His words \n            <choice>\n              <sic>weve</sic>\n              <corr>weave</corr>\n            </choice> a veil</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">through which nothing is seen in its actual shape. <add hand=\"ms\" place=\"above\">some horror is concealed [behind?] the flowers</add>. There is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silence. Then \n            <choice>\n              <sic>Sile ce</sic>\n              <corr>Silence</corr>\n            </choice> falls. Then in involved \n            <choice>\n              <sic>mata hors</sic>\n              <corr>metaphors</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">making use of the old images, speaking \n            <choice>\n              <sic>circumlocuitouly</sic>\n              <corr>circumlocutiously</corr>\n            </choice> of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spring and summer and winter frost and flowers in a fair</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">garden he reveals obliquely his illicit passion for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">girl. \n            <choice>\n              <sic>Sile ce</sic>\n              <corr>Silence</corr>\n            </choice> again \n            <choice>\n              <sic>decends</sic>\n              <corr>descends</corr>\n            </choice>. Then <quote source=\"#\" rend=\"inline\">\"one Mrs Martin who</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote>dwelt at the <rs type=\"place\" ref=\"../resources/annotations.xml/pla-chop\" key=\"Chopping Knife\">Chopping Knife near Ludgate\"</rs></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gossips that the Maid of Honour has dressed up <add hand=\"typewriter\" place=\"above\">as a man</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in a <add hand=\"typewriter\" place=\"above\">large</add> great white cloak and gone to meet her lover Lord</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wpem\" key=\"Pembroke, William\">Pembroke</rs> privately. Silence again descends. Then</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Mary has borne him a bastard, whom he refuses to acknowledge.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And her father conveys her home. \n            <choice>\n              <sic>Sielnce</sic>\n              <corr>Silence</corr>\n            </choice> again \n            <choice>\n              <sic>decsneds</sic>\n              <corr>descends</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is broken later when some further intrigue makes her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mother cry: <quote source=\"#\" rend=\"inline\">If it had pleased God when I did bear her</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>that she and I had been buried it had saved me from a great</l>\n            <l>deal of sorrow and grief and her from...such shame as never</l>\n            <l>had Cheshire woman..... Write no more to me of her.\"</l>\n          </quote>\n        "
+                ]
+            }
+        }
+    ]
+}

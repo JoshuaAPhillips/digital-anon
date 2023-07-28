@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5#xywh=877,70,123,16",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">3</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5#xywh=827,188,1871,1528",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the scholar tell us, must have their \n            <choice>\n              <sic>misntre</sic>\n              <corr>minstrel</corr>\n            </choice>. They must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have They needed his comment, his buffoonery. <add place=\"above\">his [uncouth?] at [illeg.]</add> They kept him</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in <add hand=\"ms\" place=\"above\">the [illeg.]</add> being, \n            <choice>\n              <sic>tolerting</sic>\n              <corr>tolerating</corr>\n            </choice> <choice>\n              <sic>h m</sic>\n              <corr>him</corr>\n            </choice>, as we tolerate those who say out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">loud what we feel but are too proud to admit. He used the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">outsiders privilege to co mock the \n            <choice>\n              <sic>solmen</sic>\n              <corr>solemn</corr>\n            </choice>, to comment upon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the established. The  church men hxmxmxmxmxmxmxxx feared</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and hated <add place=\"above\">hating the</add> the \n            <choice>\n              <sic>anonymo s</sic>\n              <corr>anonymous</corr>\n            </choice> singer. They did their best to <add hand=\"ms\" place=\"inline\">[illeg.]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If they could, they pressed him and his <add hand=\"ms\" place=\"above\">[illeg.]</add> actors gift into</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the service of the church. He was to be found acting the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Mass in the church; but <add hand=\"ms\" place=\"above\">[illeg.]</add> as he acted more and more his own</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">art, he left the church, and staged his pageant in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">churchyard, or later was given a pitch for his drama in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">market place. Still he remained nameless, often ribald,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">often obscene.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5#xywh=839,1710,1867,1672",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"above\">Yet </add>During the silent \n            <choice>\n              <sic>centruies</sic>\n              <corr>centuries</corr>\n            </choice> before the book was printed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his was the only voice to be heard in England.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Save for <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> singing his song at \n            <choice>\n              <sic>yhe</sic>\n              <corr>the</corr>\n            </choice> back door the English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">might be a dumb race, a race of merchants, soldiers, \n            <choice>\n              <sic>preists</sic>\n              <corr>priests</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who left behind them stones houses, cultivated fields and</l>  \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great churches, but no words. <del>He it was</del><add place=\"above\">It was he</add> who gave voice to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the old stories, who incidted the peasants when he came to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the back door to put off their working clothes and deck them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">selves in green leaves. He it was who found words for them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to sing, and \n            <choice>\n              <sic> shen</sic>\n              <corr>when</corr>\n            </choice> they went at the great seasons to do</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>himage</sic>\n              <corr>homage</corr>\n            </choice> to the old pagan Gods. He wxxxxxxxx taught them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the songs the  sung at Christmas and at midsummer. He</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">led them to the haunted tree; to the well; to the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">burial place where they did \n            <choice>\n              <sic>himage</sic>\n              <corr>homage</corr>\n            </choice> to the pagan gods.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If we could see the village as it was before <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\"><choice>\n            <sic>Cahucers</sic>\n            <corr>Chaucer's'</corr>\n          </choice></rs> time</l>\n        "
+                ]
+            }
+        }
+    ]
+}

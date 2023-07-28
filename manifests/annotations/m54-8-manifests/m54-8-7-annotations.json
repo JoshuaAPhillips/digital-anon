@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-7#xywh=825,80,175,154",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">19</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-7#xywh=847,196,1790,1596",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>hat</sic>\n            </choice> they believed imagined came into existence.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even the King and Queen shared the it, and must have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their actors or \n            <choice>\n              <sic>minstersl</sic>\n              <corr>minstrels</corr>\n            </choice> to \n            <choice>\n              <sic>vie</sic>\n              <corr>give</corr>\n            </choice> <add hand=\"ms\" place=\"above\">body</add> tongue to this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hidden \n            <choice>\n              <sic>insticnt</sic>\n              <corr>instinct</corr>\n            </choice> <add>[illeg.]</add>. The \n            <choice>\n              <sic>acror</sic>\n              <corr>actor</corr>\n            </choice> was \n            <choice>\n              <sic>despied</sic>\n              <corr>despised</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">did he not make use of his body? and did he not,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">feeling himself an \n            <choice>\n              <sic>otcast</sic>\n              <corr>outcast</corr>\n            </choice>, use the \n            <choice>\n              <sic>outiders</sic>\n              <corr>outsiders</corr>\n            </choice> privilege of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>irrepsoneible</sic>\n              <corr>irresponsible</corr>\n            </choice> mockery? But the Kings and Queens tolerated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him, as \n            <choice>\n              <sic>to rate</sic>\n              <corr>tolerate</corr>\n            </choice> those who say what we are too proud</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to admit. Even the church men <del hand=\"ms\">had to a  re</del> <add hand=\"ms\" place=\"above\">aware</add> that the \n            <choice>\n              <sic>Gids</sic>\n              <corr>Gods</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that <del hand=\"ms\">he worshipped \n            <choice>\n              <sic>wre</sic>\n              <corr>were</corr>\n            </choice> not theirs</del> had to \n            <choice>\n              <sic>yeild</sic>\n              <corr>yield</corr>\n            </choice> to him;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or <del hand=\"ms\">to make use of his gift to</del> If they could they constrained</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>c ors</sic>\n              <corr>actors</corr>\n            </choice> and the \n            <choice>\n              <sic>da cers</sic>\n              <corr>dancers</corr>\n            </choice> \n            <choice>\n              <sic>t</sic>\n              <corr>to</corr>\n            </choice> put off their \n            <choice>\n              <sic>l evea</sic>\n              <corr>leaves</corr>\n            </choice> \n            <choice>\n              <sic>na d</sic>\n              <corr>and</corr>\n            </choice> bells</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and dress themselves as the sacred figures in a miracle play.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the churchmen did their best to \n            <choice>\n              <sic>prvent</sic>\n              <corr>prevent</corr>\n            </choice> them.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

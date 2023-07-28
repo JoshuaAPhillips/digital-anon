@@ -1,0 +1,50 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-10-annotations/m1-8-10-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-6#xywh=803,92,1747,944",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">find at the centre of the labyrinth of words, a man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sitting alone in his college room, thinking &#8211; about</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Now the reader is <del>aware of</del> completely in being</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He can read in many different moods. He can</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">satisfy the desire for information, he can</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">draw in from the printed page knowledge of times past:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] anecdotes; reflections; he can see England</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at the moment: he can <del>forge</del> circle forwards &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">backwards; he can draw in what feeds</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>reflections; or</del> he can read directly what is on the page;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or drawing aside can read what is not <del>said</del> there.</l>        \n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-6#xywh=805,1016,1651,604",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del>reader then</del> A <del>sense of sense of</del> <del>a sen</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Time seems endless. There is a <add>[lifeblood?]</add> continually in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book that the play has not. It gives a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">different pace to the mind. <del>It loosens it</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>from the present moment.</del> We are in a </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world where nothing is concluded. And</l>\n        "
+                ]
+            }
+        }
+    ]
+}

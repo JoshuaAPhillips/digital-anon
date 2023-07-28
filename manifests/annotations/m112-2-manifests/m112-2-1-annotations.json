@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-2-annotations/m112-2-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1/905,70,189,155/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">32</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1/863,208,1842,1860/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must in order to sit and stand there, while the sun beats</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or the rain pours have some strong inducement; something</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that puzzles; and then concludes. They must have love;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">murder; adultery. And this \n            <choice>\n              <sic>contrbution</sic>\n              <corr>contribution</corr>\n            </choice> of the audience</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was more unfortunate to the dramatist \n            <choice>\n              <sic>tahn</sic>\n              <corr>than</corr>\n            </choice> to the lyric</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">singer. Often the actions is too violent for the words.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is a dislocation between the thought and the action.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No one feels what is said. The emotion is often</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>las ered</sic>\n              <corr>plastered</corr>\n            </choice> on to a dumb figure. But if violence rapidity</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">movement are dictated by the audience an inevitable \n            <choice>\n              <sic>confusin</sic>\n              <corr>confusion</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">follows. On the other hand the playwright</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">like the singer has an anomymous vitality,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">drawn \n            <choice>\n              <sic>fro</sic>\n              <corr>from</corr>\n            </choice> other bodies, a \n            <choice>\n              <sic>pe renniel</sic>\n              <corr>perennial</corr>\n            </choice> common vigour.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Nor is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">anon</rs> \n            <choice>\n              <sic>dad</sic>\n              <corr>dead</corr>\n            </choice> in ourselves. The crude early \n            <choice>\n              <sic>ddrams</sic>\n              <corr>dramas</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have still the power to make us ask--as the audience asked--</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the childs \n            <choice>\n              <sic>questin</sic>\n              <corr>question</corr>\n            </choice>: what comes next? <add hand=\"ms\" place=\"inline\">a power denied to [20th?] century [illeg.]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">So we become \n            <choice>\n              <sic>ourelves</sic>\n              <corr>ourselves</corr>\n            </choice> anonymous in the early plays.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-2/m112-2-1/911,2048,1770,1332/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is only later when the pressure of silent \n            <choice>\n              <sic>horaded</sic>\n              <corr>hoarded</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion had thrown up words, as the \n            <choice>\n              <sic>fi gers</sic>\n              <corr>fingers</corr>\n            </choice> of the man at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"object\" ref=\"../resources/annotations.xml#obj-mono\" key=\"Monotype\">monotype machine</rs> casts letters from the bubbling lead,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that we lose this general quality to gain---</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">everything it seems. For the \n            <choice>\n              <sic>curatin</sic>\n              <corr>curtain</corr>\n            </choice> goes on rising</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">incessantly for fifty years. Now it rises on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-hen5\" key=\"Henry V\">Henry the Fifth</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">then on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mids\" key=\"Midsummer Night's Dream, A\">Midsummer Nights Dream</rs>; on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-rome\" key=\"Romeo and Juliet\">Romeo and Juliet</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-haml\" key=\"Hamlet\">Hamlet</rs>; finally on <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-temp\" key=\"Tempest, The\">the Tempest</rs>. \n            <choice>\n              <sic>Byt</sic>\n              <corr>By</corr>\n            </choice> that time the sxxgxx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">play has outgrown the stage. The stage has become too small</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to act this drama. Perhaps after \n            <choice>\n              <sic>cnuries</sic>\n              <corr>centuries</corr>\n            </choice>, the play will</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">come to birth again, differently, in <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-magi\" key=\"Magic Flute, The\">the Magic Flute</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-fide\" key=\"Fidelio\">Fidelio</rs>. But the play never again fitted the stage</l>\n        "
+                ]
+            }
+        }
+    ]
+}

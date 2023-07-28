@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-1-annotations/m111-1-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-2#xywh=504,76,262,278",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"margin\">34</add></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-2#xywh=727,20,1930,2204",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are all \n            <choice>\n              <sic>contrbutions</sic>\n              <corr>contributions</corr>\n            </choice> to our knowledge</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of what <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Shakespre</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> looked like, if you see him through</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a certain \n            <choice>\n              <sic>visoon</sic>\n              <corr>vision</corr>\n            </choice>. But there always remains</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">something further. It is this that lures the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reader \n            <choice>\n              <sic>Abd</sic>\n              <corr>and</corr>\n            </choice> it is this quality that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">finally eludes us. gives him his perpetual vitality,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he \n            <choice>\n              <sic>ecites</sic>\n              <corr>excites</corr>\n            </choice> \n            <choice>\n              <sic>perp tual</sic>\n              <corr>perpetual</corr>\n            </choice> curiosity. He does not as so many</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writers feed momentary \n            <choice>\n              <sic>appettites</sic>\n              <corr>appetites</corr>\n            </choice>. The \n            <choice>\n              <sic>resder</sic>\n              <corr>reader</corr>\n            </choice> who has a dash</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the writer in him, seeks out certain styles; certain</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">forms. But \n            <choice>\n              <sic>Shakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice> has \n            <choice>\n              <sic>nosuch</sic>\n              <corr>no such</corr>\n            </choice> appeal to the reader-writer.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His styles are too \n            <choice>\n              <sic>innumerabel</sic>\n              <corr>innumerable</corr>\n            </choice> \n            <choice>\n              <sic>Perhpas</sic>\n              <corr>Perhaps</corr>\n            </choice> then he is chiefly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">used for more general \n            <choice>\n              <sic>piposes</sic>\n              <corr>purposes</corr>\n            </choice>--when the ink has gone dry</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">upon the pen to revive the sense of \n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice>; or to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">testify, when words seem \n            <choice>\n              <sic>motiinless</sic>\n              <corr>motionless</corr>\n            </choice>, to the enormous</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">possibilities of speed. One reading always supersedes another</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Thus the \n            <choice>\n              <sic>trueest</sic>\n              <corr>truest</corr>\n            </choice> account of reading \n            <choice>\n              <sic>Shakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice> would be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not to write a book with a beginning middle and end;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but to collect notes, without trying to make them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">consistent.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

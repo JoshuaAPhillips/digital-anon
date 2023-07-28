@@ -1,0 +1,63 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-4-annotations/m54-4-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-1#xywh=900,112,162,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">9</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-1#xywh=888,232,1788,3132",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> has emerged \n            <choice>\n              <sic>suffievcntly</sic>\n              <corr>sufficiently</corr>\n            </choice> from the forests and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">floods to let us see a rough outline of a human shape.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He has a dog and a garden. He has books; and he digs in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the earth. His name is of no great moment. It may be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Harrison; or it may be <rs type=\"person\" ref=\"../resources/annotations.xml#past\" key=\"Pastons\">Paston</rs>. There is very little to dis \n            <choice>\n              <sic>dis</sic>\n              <corr>distinguish</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>tingusih</sic>\n              <corr>distinguish</corr>\n            </choice> one from the other. He has no \n            <choice>\n              <sic>exr ssion</sic>\n              <corr>expression</corr>\n            </choice> on his \n            <choice>\n              <sic>fae</sic>\n              <corr>face</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He conveys to us chiefly what his eye sees, what his body</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">feels. He sees \n            <choice>\n              <sic>ngland</sic>\n              <corr>England</corr>\n            </choice> very clearly. He sees</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">its \n            <choice>\n              <sic>emptines</sic>\n              <corr>emptiness</corr>\n            </choice>; ; he conveys the scarcity of people; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>predominace</sic>\n              <corr>predominance</corr>\n            </choice> of individuals. The <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> is the dominant</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>fogure</sic>\n              <corr>figure</corr>\n            </choice>. He can count her \n            <choice>\n              <sic>posses ons</sic>\n              <corr>possessions</corr>\n            </choice>-- a few ships; a few</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great \n            <choice>\n              <sic>hous s</sic>\n              <corr>houses</corr>\n            </choice>. He watches her \n            <choice>\n              <sic>progeresses</sic>\n              <corr>progresses</corr>\n            </choice>. She is \n            <choice>\n              <sic>parliemtn</sic>\n              <corr>parliament</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">press, society, law and order. But the man who sees this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the individual, is still cumbered and stiff. Writing is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still an art that requires great ceremony. What you make</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the pen is separate from what you say with the tongue.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Only a few years back words were written \n            <choice>\n              <sic>elbaorately</sic>\n              <corr>elaborately</corr>\n            </choice> in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lustrous ink upon valuable parchment; and the leaves,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bound together, were chained to the lectern and read,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by a few, in great physical discomfort,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on hard \n            <choice>\n              <sic>neches</sic>\n              <corr>benches</corr>\n            </choice> in the cold. Even now, when words are printed,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the great public is not the reader, or the paymaster.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Written words must please a single man in the first place,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must find its way into some noble room, where the nobles</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the gentry, have \n            <choice>\n              <sic>lisure</sic>\n              <corr>leisure</corr>\n            </choice> after hunting, after</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">seeing their estates, and \n            <choice>\n              <sic>contrlling</sic>\n              <corr>controlling</corr>\n            </choice> their servants,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to to pick up a book and read its history or sing its song.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For Words must tell stories; or they must sound to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the ear. For the nobles had their music; they played tunes</l>\n        "
+                ]
+            }
+        }
+    ]
+}

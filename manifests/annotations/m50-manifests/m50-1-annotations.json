@@ -1,0 +1,84 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1#xywh=909,104,243,252",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">1</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ANON.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1#xywh=829,368,1859,1108",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"For many centuries <choice>\n            <sic>afte</sic>\n            <corr>after</corr></choice> Britain became an island\"</quote> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">historian</rs> says \"#\"<quote source=\"#\">the untamed forest was king. Its moist</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and mossy floor was hidden from Heavens eye by a close drawn</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">curtain woven of innumerable tree tops.\"</quote> On those matted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">boughs innumerable birds sang; but their song was only heard</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by a few skin clad hunters in the <choice>\n            <sic>lcearings</sic>\n            <corr>clearings</corr>\n          </choice>. Did the desire</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to sing come to one of those huntsmen because he heard the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">birds sing, and so rested his axe against the tree for a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">moment? But the tree had to be felled; and a hut made</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from its branches before the human voice sang too.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1#xywh=1059,1450,1003,468",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>By a bank as I lay</l>\n            <l>Musing myself alone, hey ho!</l>\n            <l>A birdes voice</l>\n            <l>Did me rejoice,</l>\n            <l>Singing before the day</l>\n            <l>And me thought in her lay</l>\n            <l>She said, winter was past, hey ho!</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1#xywh=687,1904,2015,1424",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The voice that broke the <choice>\n            <sic>sielnce</sic>\n            <corr>silence</corr>\n          </choice> of the forests was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the voice of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>. Some one heard the song and <choice>\n           <sic>re embered</sic>\n           <corr>remembered</corr>\n          </choice> it</l>\n         ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for it was later <choice>\n            <sic>wrteen</sic>\n            <corr>written</corr>\n          </choice> down, beautifully on parchment.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Thus the singer had his audience, but the audience was so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">little interested in his name that he never thought to give</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it. <del hand=\"ms\">For</del> <add hand=\"ms\" place=\"inline\">T</add><del hand=\"ms\">t</del>he audience was itself the singer; <quote source=\"#\" rend=\"inline\">Terly terlow\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they sand; and <quote source=\"#\" rend=\"inline\">\"By, by lullay\"</quote> filling in the pauses,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">helping <add hand=\"ms\" place=\"above\">out</add> with a chorus. Every body shared in the emotion</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of Anons song, and supplied the story. Anon sang because</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spring has come; or winter is gone; because he loves; because</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he is hungry, or lustful; or merry. or because he adores</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some God. Anon is sometimes man; sometimes woman. He is the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

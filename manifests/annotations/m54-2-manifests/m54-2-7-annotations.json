@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-2-annotations/m54-2-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-7#xywh=899,80,137,153",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">10</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-7#xywh=1035,217,239,113",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">......</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-7#xywh=783,316,1897,2732",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer then came to birth with difficulty in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">England; for so long as familiar letters are written in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Biblical prose there are limits to his freedom; a barrier</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">between the sayable and the unsayable. He is in being;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for the printing press has given him a name; but still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unspecialised, undifferentiated. The artist is not wholly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>write</sic>\n              <corr>writer</corr>\n            </choice>, wholly musician, or wholly painter. It seems</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">possible that the great English art may not be the art of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words. His eye is stimulated by the colour of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the \n            <choice>\n              <sic>clotning</sic>\n              <corr>clothing</corr>\n            </choice>, of the pageantry. his ear by the sound of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words spoken aloud. <add hand=\"ms\" place=\"above\">For books were read aloud.</add> <quote source=\"#\" rend=\"inline\">\"\n            <choice>\n              <sic>Prtitachrd</sic>\n              <corr>Pritchard</corr>\n            </choice>\"</quote> wrote <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">Lady Ann Clifford</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">\"read aloud the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs>..... They read aloud <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">\n            <choice>\n              <sic>Montage</sic>\n              <corr>Montaigne</corr>\n            </choice></rs></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and the Faery Queen.\"</quote> Every word was given sharpness and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">substance by the speaking voice. And the lute, the cithern,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the old full bodied instrument that still stands on a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ches</sic>\n              <corr>chest</corr>\n            </choice>, \n            <choice>\n              <sic>hgave</sic>\n              <corr>gave</corr>\n            </choice> lilt, rhythm, melody to the word.</l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>\"Hardly one lighter or boat in \n              <choice>\n                <sic>hree</sic>\n                <corr>three</corr>\n              </choice> that had the goods</l>\n            <l>of a house in it , but there was a pair of virginals in</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">it\"</quote> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-spep\" key=\"Pepys, Samuel\">Pepys</rs> observed in 1666 when the people of London were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">loading their goods onto boats to escape from the fire of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">London. His mind the was full of undifferentiated words, \n            <choice>\n              <sic>ole</sic>\n              <corr>old</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words and new words; French and Latin. No grammar bound them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tightly together. They were elastic; they could be danced to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and sung to. But they could not follow the pace of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>spea ing</sic>\n              <corr>speaking</corr>\n            </choice> voice.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-7#xywh=805,3040,1893,382",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> then in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs> is like a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">half articulate monster rising from the depths of \n            <choice>\n              <sic>silnce</sic>\n              <corr>silence</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hung with the weeds and pearls of the deep sea in</l>\n        "
+                ]
+            }
+        }
+    ]
+}

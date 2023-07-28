@@ -1,0 +1,51 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-5-annotations/m1-8-5-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-2#xywh=727,88,1845,3208",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">absorbed what the audience can give him; &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has consimed it; &amp; [expresses?] his own views [about?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the audience. There is a point when the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">single figure emerges; as if after [absorbing?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">all that the audience \n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice> [entertain?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the audience became <del>if</del> separate, &amp; could</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[impure?]</del> give back to the audience their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">general contribution specialised. And yet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it was one of the immense advantages of the \n            <choice>\n              <sic>E<hi rend=\"superscript\">thn</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">age, <del>the entire</del> there was no gap between</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>giver</del> two. <del>It is</del> The <del>author</del>    There is a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">moment when the audience sees itself: given back;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separate; created, &amp; is no longer the master of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">playwright yet is not separate from him:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a kind of common life <del>still</del> connects them</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>It is then that we begin to <del>air the</del></l>\n            <l>read: then that we bring into play <del>the</del> all our</l>\n            <l><del>whole</del> <del>new</del> resources:  <del>then</del> when the</l>\n            <l>figure on the stage is able at last to</l>\n            <l><del>g</del> <del>express</del> speak in person: when the words are</l>\n            <l>individual; &amp; the whole fabric is</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; yet the particular figute is the particular figure</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>This is</del> <del>Their</del> This extraordinary intensification</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comes fitfully: we note a passage that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>seems</del>   it flits through <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\">Marlowe</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-reve\" key=\"Revenger's Tragedy, The\">Revengers Tragedy</rs>. <del>Their</del> It is in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in words like <rs type=\"person\" ref=\"../resources/annotations.xml#psn-they\" key=\"Heywood, Thomas\">Heywoods</rs>: oh God...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>or in</del> <del>the</del> &amp; of course finally in <rs type=\"person\" ref=\"../resources/annotations.xml#lit-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi>.</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[metal?] is final: we have heat, light,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>everywhere.</del>     But <del>besides this</del> <del>Beyond</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The reader then extracts out an [hunger?]: for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their intensity; for their language.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But beyond this there is also the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">relation of part to part. This <del>hanging</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>comport</del> order, is often attracted. The balance</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is important. The draw of the audience is too</l>\n        "
+                ]
+            }
+        }
+    ]
+}

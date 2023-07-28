@@ -1,0 +1,68 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-6-annotations/m1-8-6-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-1#xywh=759,56,1847,1984",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The readers faculty is a queer one. He has the power to make</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">houses &amp; countries visible <del>as</del> through the printed page; men &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">women, &amp; their emotions &amp; thoughts; <del>He has also</del> the <del>more</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the sense</del> of &amp; [birdes?], a sense of <del>their</del> relations; whether</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the emotion [emtubates?], or dissipates. <del>And</del> <del>B</del><add place=\"inline\">A</add>nd he is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">alwauys limited by his time. <del>What is visible to one</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>generation, is <del>lost</del> <add place=\"above\">[not?]</add> to another.</del> He is <del>not interested in</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>language.</del> texts. He <del>does not pass</del> He is not a scholar; <del>not</del> &amp; so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[laiks?] may &amp; the critics fools. <del>And</del> And yet, <del>with all</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And yet he is exercising <del>quite</del> another faculty than the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">newspaper reader. <del>And</del> one that millions of the literate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are without. Often he is himself a writer. This gives</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him a queer [arc? after?] of vision. <del>The</del> And he is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sensitive to a voice that becomes increasingly audible &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It would be</del> <del>a [illeg.]</del> Now &amp; again it is to be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>heard even in the 16th centruy: even the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Even in the 16th century, when the stage, among</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>other influences, was palpable to the personality &#8211; so</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> As for the obvious reason that the body of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">actor <del>fal</del> plays so great a part in the words.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The body is there visible: there is a great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">opportunity <del>to</del> in</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-1#xywh=763,1874,1835,1356",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When the body of the actor is visible, with all its <add place=\"above\">the implications</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">implicationsl there is <del>still</del> <del>force for a that destroys</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some of the elements \n            <choice>\n              <sic>wh</sic>\n              <corr>which</corr>\n            </choice> the reader extracts from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">printed page. But it <add place=\"above\">are not</add> This is the reason, perhaps, why</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we do not 'know' <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\">Marlowe</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tdek\" key=\"Dekker, Thomas\">Dekker</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-ctou\" key=\"Tourneur, Cecil\">Tourneur</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jfor\" key=\"Ford, John\">Ford</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No scholar will ever now discover them. What we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have of them is what it was possible for their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">actors to <del>convey.</del> <del>a generalised tendency.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>For the particular we must wait for the</del> stage to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> <del>To find their</del> To <del>put this theory</del> And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>This knowledge of the author is <del>an easy</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>And yet if we do not know that</del> <del>Something is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>gratified by L I B, by <del>[Bint?]; their</del></del> Everybody</l>\n        "
+                ]
+            }
+        }
+    ]
+}

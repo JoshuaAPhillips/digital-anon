@@ -1,0 +1,94 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-8-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-8#xywh=739,80,1814,88",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">angular, gigantic; freed from something impure; yet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old; sin tarnishedl corruptL in the middle of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the fresh, innocent landscape, remembering;&#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>par</del> <del>It</del> To follow the Knights &amp; ladies in this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">strange pre-historic England is to lose our \n            <choice>\n              <sic>beags</sic>\n              <corr>bearings</corr>\n            </choice>; to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shed many habits of thoughtl but <del>we</del> after all</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>this</del> it is not an imprinted fabricated world; it is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">behind us still, deep down; <del>&amp;</del> savage, primitive, still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>existing</del> ending</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-8#xywh=779,780,1909,108",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> Of the writer, nothing is known.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He does not exist apart from his book. It is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>like</del> the anonymous voice speaking</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anonymously; the voice of a very old yet <del>still</del> still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">common world, where the story is already known to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the listener, <del>where the listener</del> the listener</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the voice of an unknown man, who has been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">travelling in strange parts, &amp; comes to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">door, across the marsh, through the flood,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to remind the noble &amp; the peasant of what</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he has heard long ago.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-8#xywh=371,2160,423,32",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n          <l>XVII</l>\n        </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-8#xywh=747,1748,1885,156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the great house &amp; in the cottage this half articulate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anonymous voice murmured of old Gods, &amp; Kings, &amp; Knights</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; Ladies. The well &amp; the tree were still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">haunted. <rs type=\"person\" ref=\"../resources/annotations.xml#kart\" key=\"Arthur (King)\">King arthur</rs> the traveller tell</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">XVII</add> that <quote source=\"#\" place=\"inline\">about noon, or about midnight, when the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" place=\"inline\">moon is full &amp; shining, they often see an assay of</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" place=\"inline\">hawkers with dogs &amp; sound of horses, who, in</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" place=\"inline\">answer to the [enquiries?] say that they are</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" place=\"inline\">of the [homestead?] &amp; fellowship of Arthur.\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Along the roads from town to town, from one</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great house to another came the [mummers?] &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rhymers, the jugglers the bear leaders, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speakers of ballads, <del>the fo</del> while for these</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who could read it &amp; hear it, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs></l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-1-annotations/m54-1-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-1#xywh=937,152,143,127",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">7</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-1#xywh=829,270,1881,1662",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The printing press brought the past into existence.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It brought into existence the man who is conscious of the \n            <choice>\n              <sic>pat</sic>\n              <corr>past</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the man who sees his time, zzzzz against a back ground of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the past; the man who firsts sees himself and shows himself</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to us. xmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmm The first</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">blow has been aimed at <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> when the authors name is attached</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the book. The \n            <choice>\n              <sic>indivi al</sic>\n              <corr>individual</corr>\n            </choice> emerges. His name is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rhol\" key=\"Holinshed, Raphael\">\n              <choice>\n                <sic>Holigshed</sic>\n                <corr>Holinshed</corr>\n              </choice></rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his \n            <choice>\n              <sic>mae</sic>\n              <corr>name</corr>\n            </choice> is also <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs>. Harrison emerging from the past</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tells us that he has a library; that he owns a mastiff;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that he digs up Roman coins. He tells us that he has <choice>\n                <sic>nev</sic>\n                <corr>never</corr>\n              </choice> \n              <choice>\n                <sic>ben</sic>\n                <corr>been</corr>\n              </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">more than forty miles from <rs type=\"place\" ref=\"../resources/annotations.xml#pla-radw\" key=\"Radwinter\">radwinter</rs> in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-esse\" key=\"Essex\">Essex</rs>. Anon is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">losing his ambiguity. The present is becoming visible.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Harrison sees the pxmxmxmxmsx the present \n            <choice>\n              <sic>agains</sic>\n              <corr>against</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">settled \n            <choice>\n              <sic>reroded</sic>\n              <corr>recorded</corr>\n            </choice> past. The past looks \n            <choice>\n              <sic>degnerate</sic>\n              <corr>degenerate</corr>\n            </choice>, raw,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">against that past.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

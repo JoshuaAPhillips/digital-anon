@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-6#xywh=835,28,1730,2164",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The readers faculty is a queer one. He has the power to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">make houses and countries visible, men and women and their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thoughts and emotions, from marks on a printed page.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is not a scholar and so lacks many props, many</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">special tastes that control <add hand=\"ms\" place=\"above\">[anticipate?]</add>, and direct.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He has a sensibility that millions of perfectly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">literate people, who 'read' the paper, are without.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And in the play, when the body of the actor is visible,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmxx with all its implications,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some of the elements that the reader is able to extract</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the \n            <choice>\n              <sic>pirnted</sic>\n              <corr>printed</corr>\n            </choice> page are absent. We do not 'know'</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Marloew</sic>\n              <corr>Marlowe</corr>\n            </choice>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tdek\" key=\"Dekker, Thomas\">Dekker</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-ctou\" key=\"Tourneur, Cecil\">Tourneur</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jfor\" key=\"Ford, John\">Ford</rs>, as we know</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Sir <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tbro\" key=\"Browne, Thomas\">Thomas Browne</rs> or <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rbur\" key=\"Burton, Robert\">Burton</rs>.What we have of them is what it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was possible for the actors <add hand=\"ms\" place=\"inline\">t</add>o say. And as \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Shakenspere</sic> <!-- Shakenspeare, not Stirredpeare -->\n              <corr>Shakespeare</corr>\n            </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could say everything finally, more at least than has been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">said before and \n            <choice>\n              <sic>sincem</sic>\n              <corr>since</corr>\n            </choice> through the mouths of his characters,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he is at once the best \n            <choice>\n              <sic>kniwn</sic>\n              <corr>known</corr>\n            </choice> and the \n            <choice>\n              <sic>l ast</sic>\n              <corr>least</corr>\n            </choice> known of all</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writers. At the same time we have the most completely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">articulate of men and nobody in \n            <choice>\n              <sic>particualr</sic>\n              <corr>particular</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-6#xywh=365,1484,541,446",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>When we turn</l>\n            <l>to <choice>\n              <sic>S.</sic>\n              <corr>Shakespeare</corr>\n            </choice><del>we</del></l>\n            <l><del>come to the</del> first</l>\n            <l>their [illeg.]</l>\n            <l>are compounded.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-6#xywh=839,2173,1845,1158",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For this reason he is the most read of all writers.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And \n            <choice>\n              <sic>very</sic>\n              <corr>every</corr>\n            </choice> reader has a dozen different methods of \n            <choice>\n              <sic>catvhing</sic>\n              <corr>catching</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him. He is the most read of all writers because</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no one has ever \n            <choice>\n              <sic>ummed</sic>\n              <corr>summed</corr>\n            </choice> him up. There is \n            <choice>\n              <sic>soething</sic>\n              <corr>something</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still to be discovered. He has given tongue to so much</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that every one can find \n            <choice>\n              <sic>himse f</sic>\n              <corr>himself</corr>\n            </choice> in Shakespeare. The \n            <choice>\n              <sic>auto</sic>\n              <corr>autobiographical</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>biopgrahical</sic>\n              <corr>autobiographical</corr>\n            </choice> element in \n            <choice>\n              <sic>Shakeapearn</sic>\n              <corr>Shakespearean</corr>\n            </choice> criticism is a proof</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of of this. Each of the \n            <choice>\n              <sic>exploerers</sic>\n              <corr>explorers</corr>\n            </choice> seems for a moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to sum up; and then is consumed and the \n            <choice>\n              <sic>unreorded</sic>\n              <corr>unrecorded</corr>\n            </choice> light</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">streams round him. That is one reason for his \n            <choice>\n              <sic>perptaul</sic>\n              <corr>perpetual</corr>\n            </choice></l>\n        "
+                ]
+            }
+        }
+    ]
+}

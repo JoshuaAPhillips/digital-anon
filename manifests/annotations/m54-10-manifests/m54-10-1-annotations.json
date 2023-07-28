@@ -1,0 +1,54 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-10-annotations/m54-10-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1#xywh=860,124,172,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">20</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1#xywh=846,250,1744,674",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the \n            <choice>\n              <sic>peasnts</sic>\n              <corr>peasants</corr>\n            </choice> to respect their \n            <choice>\n              <sic>moth r</sic>\n              <corr>mother</corr>\n            </choice> \n            <choice>\n              <sic>thongue</sic>\n              <corr>tongue</corr>\n            </choice>. He was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">making it possible for the gentry and the commons to sit</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">together xmxmxmxmxmx <add hand=\"ms\">in one house</add> listening to a play/</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmxmxmxmxm The wandering actors axmxmxmxm</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmxmmxmxmxmxmxm576 had their own house, <add hand=\"typewriter\" place=\"above\">some house of their own,</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their centre, in 1576.   In</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1#xywh=847,904,1846,2492",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\"> <!-- look on the big screen -->\n            <l>the contrast between</l>\n            <l>[town?], country</l>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

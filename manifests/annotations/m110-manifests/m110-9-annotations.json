@@ -1,0 +1,126 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m110-annotations/m110-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/893,125,183,163/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">186</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/875,240,1763,356/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"But we neednt have been to all that trouble,\" she <add hand=\"ms\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-lucy\" key=\"Swithin, Lucy\">Lucy</rs></add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">continued \"making the Barn ready, for it didnt rain this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">year\"</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/907,580,1763,356/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"This year, last year, next year, never...\" muttered</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bart\" key=\"Oliver, Bartholomew\">Bartholomew</rs>. \"Tinker, tailor, soldier, sailor...\" He was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">talking in his sleep.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/871,924,1859,540/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Lucy slipped her letter into its envelop<add hand=\"ms\" place=\"inline\">e</add>. It was time</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to read her boo<add hand=\"ms\" place=\"inline\">k</add>---the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-outl\" key=\"Outline of History, The\">Outline of History</rs>. She had lost her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">place. She looked at the pictures; mammoths and mastodons,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and prehistoric birds. Then she found the page where she</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had stopped.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/839,1460,1859,684/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The darkness had \n            <choice>\n              <sic>incrased</sic>\n              <corr>increased</corr>\n            </choice>, and it was cold. With a little</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shiver, Mrs Swithin drew her sequin \n            <choice>\n              <sic>sha<add hand=\"ms\" place=\"above\">w</add>lw</sic>\n              <corr>shawl</corr>\n            </choice> about hew shoulders</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She was too deep in the story to ask for the window to be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shut. <quote source=\"#\" rend=\"inline\">\"London\"</quote> said the author \"<quote source=\"#\" rend=\"inline\">\n            <choice>\n              <sic>a s</sic>\n              <corr>was</corr>\n            </choice> then a swamp...</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>Thick groves of trees covered the land, and on the top</l>\n            <l>oftheir matted branches, birds sang...\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/851,2116,1859,788/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great square of the window showed only sky now.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was <add hand=\"ms\" place=\"above\">a <!-- come back to this --></add> losing its light; it was <del hand=\"ms\">svere</del> <add hand=\"ms\" place=\"above\">severe</add> <del hand=\"ms\">and</del> stone xxxxx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">blue. The shadow crept over Bartholomews face. He looked</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">leafless, spectral. As a dog shudders its skin, his skin</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shuddered. He rose, shook himself, glared at nothing,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and stalked from the room. They hard the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-sohr\">dog's</rs> paws padding</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on the carpet behind him.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/835,2888,1835,444/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Lucy turned the page quickly, guiltily,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">like a <add hand=\"ms\" place=\"inline\">c</add>hild who will be told to go to bed before it \n            <choice>\n              <sic>raches</sic>\n              <corr>reaches</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the end of the chapter. Pre-historic man, she read, half</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">human, half monster, rose from his semi-crouching position</l>\n        "
+                ]
+            }
+        }
+    ]
+}

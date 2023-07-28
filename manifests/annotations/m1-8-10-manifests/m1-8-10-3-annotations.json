@@ -1,0 +1,43 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-10-annotations/m1-8-10-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3#xywh=693,48,1811,608",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">But</add> It is only when she reads that she comments: when she goes to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the play she says only \"<quote rend=\"inline\" source=\"#\">Supped with my Lord &amp; Lady</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-arun\" key=\"Arundel, Lord and Lady\">Arundel</rs> &amp; after supper I saw the play of the Mad Lover in </quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">the Hall</quote>.. or \"<quote source=\"#\" rend=\"inline\">We stood to see the Masque in the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">box with my Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-ruth\">Ruthven</rs>.</quote>\" For the reader was born</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3#xywh=771,570,1811,608",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The reader</del> <del>[is here?]</del> presumably when the playhouse</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shut. The curious faculty of making [houses?] &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">countries visible, men &amp; women &amp; their emotions, from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">marks on a printed page, was in <del>abey</del> undeveloped</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so long as the play was dominant. The</l>\n        "
+                ]
+            }
+        }
+    ]
+}

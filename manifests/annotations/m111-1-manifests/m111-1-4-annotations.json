@@ -1,0 +1,153 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-1-annotations/m111-1-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=799,50,181,182",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">2</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=827,200,1514,172",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stop in the middle of her song. and shut the piano.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=791,376,1690,58",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Her father beat her oftener and \n            <choice>\n              <sic>oftner</sic>\n              <corr>oftener</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She would show the marks on her flesh in the kitchen.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"The squire didnt out to\" said Pink the groom.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxm Jinny the parlourmaid agreed <add hand=\"typewriter\" place=\"above\">would have agreed.</add>; but her cough</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">prevented her xxxx</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=1136,935,423,145",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Stxxx</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=823,1040,1690,676",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There were many legs on the alwn <add hand=\"ms\" place=\"above\">lawn</add> in the summer.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She would watch them from between the \n            <choice>\n              <sic>rasperry</sic>\n              <corr>raspberry</corr>\n            </choice> canes,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">where she had a cave A grass path led between the bushes,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and once the legs came walking there; and her brother(</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ni</sic>\n              <corr>in</corr>\n            </choice> white flannel) stooped; and the girl in a white \n            <choice>\n              <sic>shkirt</sic>\n              <corr>skirt</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who was with him \n            <choice>\n              <sic>stopped</sic>\n              <corr>stooped</corr>\n            </choice> too.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=823,1692,1706,58",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Hullo \n            <choice>\n              <sic>LElizabeth</sic>\n              <corr>Elizabeth</corr>\n            </choice>\" said her brother. \"\n            <choice>\n              <sic>VCut</sic>\n              <corr>Cut</corr>\n            </choice> \n            <choice>\n              <sic>alkng</sic>\n              <corr>along</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">into the \n            <choice>\n              <sic>houseand</sic>\n              <corr>house and</corr>\n            </choice> fetch my pipe; and I'll give you \n            <choice>\n              <sic>sipence</sic>\n              <corr>sixpence</corr>\n            </choice>\"</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She guessed it was not his pipe he wanted; but to be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rid of her. So she mooned round the library looking at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great pictures.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=831,2240,1706,58",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They had been in that house for ever so long.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the great pictures were almost part of the walls.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They were ancestors; children; youths; grown men and women;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sea captains; bishops. And the strange men used to look at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">them \n            <choice>\n              <sic>andmake</sic>\n              <corr>and make</corr>\n            </choice> notes in their pocket books.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#8.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=811,2784,1778,364",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The only person she saw whole, from her yellow head</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to her little black slippers, was Carry Elmer, the \n            <choice>\n              <sic>duag ter</sic>\n              <corr>daughter</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of another squire.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#9.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-4#xywh=819,3128,1778,236",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At intervals of ten miles apart \n            <choice>\n              <sic>ther</sic>\n              <corr>there</corr>\n            </choice> were then</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great houses. Perry Hall, the \n            <choice>\n              <sic>E;mers</sic>\n              <corr>Elmers</corr>\n            </choice> house, was famous.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

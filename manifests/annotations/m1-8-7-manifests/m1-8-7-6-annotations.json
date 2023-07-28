@@ -1,0 +1,67 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-7-annotations/m1-8-7-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-6#xywh=787,112,1675,1716",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This brittle &amp; imperfect sketch, with its exaggerations &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">foreshortenings, serves to bring out only the shapes of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">certain prominent objects; <del>but</del> <del>&amp;</del> <del>To convey</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> &amp; that perhaps so partially that they are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unrecognisable. Its implications can [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>pointed out</del> by removing for a moment, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">critical attitude; &amp; talking <del>for a moment</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as   Let us talk for a moment without the book.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Let us look at the critical position &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">discover why it is so alien to the private</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">position. In the first place the critic is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">infallible. But in order to adress this attitude he has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to stiffen himself     a more supple method [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">needed. If we <del>could</del> return to the age of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">innocence: if we could talk, if we could</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">even write a letter to a friend <del>about <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">Shakespeare</rs>.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Indeed the</del> <del>som</del> deplore some way of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">preserving those natural exclamations.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-6#xywh=869,1712,1647,1592",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>Much</del> It is a <del>long time</del> our <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs>; our</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the London of books; <del>their</del> the <del>we</del> frequency</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>with which they [dumb?] [hunger?]: if we could</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>return to the innocent state of [memory?]: as</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>given &amp; also those [desiring?] cries</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But wecome, at the end; when so much has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>been said</del> so much said    so much known:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so great a human effort has been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">expended. In order to provide us</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with our knowledge, many lives have been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">passed in coal mines: And tho the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">result is often of no importance, we must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">repeat the effort.    A great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[anti?] room separates us from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book, filled with [loved? bored?], yet [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">readers. <del>Often we</del> <del>a</del></l>\n        "
+                ]
+            }
+        }
+    ]
+}

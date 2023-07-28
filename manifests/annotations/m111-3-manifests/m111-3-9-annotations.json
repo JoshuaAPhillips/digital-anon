@@ -1,0 +1,43 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-3-annotations/m111-3-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-9#xywh=888,32,188,244",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">32</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-9#xywh=840,252,1772,114",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But if we cease to consider the plays \n            <choice>\n              <sic>separetly</sic>\n              <corr>separately</corr>\n            </choice>, but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>scra, ble</sic>\n              <corr>scramble</corr>\n            </choice> them together as one common attempt; </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">then we are able to make them serve as sketches for one </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">masterpiece. And the darkness in which these plays</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lie helps the endeavour to \n            <choice>\n              <sic>conveive</sic>\n              <corr>conceive</corr>\n            </choice> of that </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">many nameless \n            <choice>\n              <sic>worjers</sic>\n              <corr>workers</corr>\n            </choice> ; and many private people</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were pressing their weight were discharging their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion into that vast cauldron of seething matter which </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at last <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">Shakespeare</rs> struck out into his plays.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

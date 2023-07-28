@@ -1,0 +1,118 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-10-annotations/m1-8-10-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2#xywh=709,64,1867,988",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attend her. And she is for ever asserting her self, her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">property, with [critical?] carved in stone, even over</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">farm house walls. This is her property; this land</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is hers. Her <del>sense</del> of <del>the rights of blood,</del> of something</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sacred in flesh &amp; blood: <add>so</add> when Lord <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eshe\" key=\"Sheffield, Edmund\">Sheffield</rs> marries</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mirw\" key=\"Erwin, Anne\">Anne Erwin</rs> it \"<quote source=\"#\" rend=\"inline\">was held a very mean</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">match, an indiscreet on part of him.</quote>\" <del>already</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">For</add> the noble families, the Herberts, the Russels, the Stanleys</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are already <del>weaving themselves together; &amp; there at</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>set apart</del> <del>weaving their</del> webs, at the centre of which is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-kjam\" key=\"James I of England and VI of Scotland\">King James</rs></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2#xywh=801,972,1743,476",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Her whole effort is to count, <del>to amass</del>, to hoard; <del>&amp; to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as if she had no sense of change; as if she believed that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is not only right but <del>[advisaber?] to</del> <del>that the concrete</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>body, <del>it</del> can <del>survive</del> survive; as if there were for her</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an immortality of the body:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2#xywh=275,976,547,636",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>are most</l>\n            <l><del>proclaim its</del></l>\n            <l><del>solidity under</del></l>\n            <l><del>just</del></l>\n            <l>believe in the</l>\n            <l>body, as one</l>\n            <l>believes in the</l>\n            <l>soul</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2#xywh=865,1344,1631,488",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet there were moments when <del>hear</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">carapace of <del>possessions</del> proved to much to be any <del>for her: when</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">she upon the 1st [score?] by times in the morning</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; went up to the Pagan Tower to say prayers &amp; saw</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the sun rise, <del>again <add place=\"inline\">she saw</add> a strange comet like a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>canopy in the air:</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2#xywh=867,1780,1639,52",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"inline\" rend=\"block\">\n            <l>If I had not excellent <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\">Chaucer</rs> back here to comfort me,</l>\n            <l>I were in a pitiable case, having so many troubles</l>\n            <l>as I have here, but when I read in that, I scorn &amp;</l>\n            <l>make light of them all, &amp; a little part of his</l>\n            <l>beauteous spirit infuses itself in me\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2#xywh=849,2196,1727,956",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is <del>a queer transition</del> a strange reversal &#8211; <del>for the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world <del>of rubies &amp; diamonds,</del> from the solid</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">earth <del>to the</del> of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-west\" key=\"Westmoreland\">Westmoreland</rs>, to the other world<del>; &amp;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a [feverish?] one, when her eye turns from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">delight of possessing land, to the other delight of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a change of [public?] office, &amp; these abide in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-knol\" key=\"Knole\">Knole</rs>, &amp; she adds that postcript to a letter about</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a little cabinet a cup \n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> she had left with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-egre\" key=\"Grey, Elizabeth\">Kent</rs>, when she borrowed a hundred pounds <del>off her</del></l>\n        "
+                ]
+            }
+        }
+    ]
+}

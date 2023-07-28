@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-9#xywh=212,107,110,96",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">2</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-9#xywh=331,48,2093,3448",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the group of nobles, after hunting? what will prove that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Edmund Spenser, for example, deserves a post, a pension?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Thes</del> These are the outer influences that stamp</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">themselves upon the pure desire. <del>Thus</del> <del>This is the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>atmosphere which draws out, finds, at some times</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>is favourable, at others checks &amp; [illeg.]</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> <del>Further, there are</del> Further there are the other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">influences; the <del>del</del> <del>pressure</del> <del>of wealth, rank. &amp; leisure</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">education, &amp; class, wealth &amp; poverty always</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at their work, tugging, obscuring distorting.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Some are visible only to the writer himself;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">others only to the reader. More &amp; more</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">complex do they become, as the book with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">author's name on it goes out to a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">larger public, to a more complex public, to a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">public that has emerged sufficiently from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the silence of the middle ages to be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">educated, partly educated, to desire</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">humour, story, amusement, instruction,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or [illeg.] something to make them forget <del>what</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the private life which is so drab.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When Spenser <del>wrote</del> When the book is thus</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">covered over, <del>An</del> the song, the thing that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writer set out to say, begomes increasingly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">disguised. It is only to be discovered in a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flash of recognition; some say they feel it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when their beards bristle; others that a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thrill runs down the nerves of the thigh.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To disengage the <del>sur</del> song from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">influence of the audience becomes a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">task for the critic &#8211;&#8211; an official who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scarcely exists when Spenser emerged from</l>\n        "
+                ]
+            }
+        }
+    ]
+}

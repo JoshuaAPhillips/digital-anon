@@ -1,0 +1,99 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-4#xywh=731,124,1635,616",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">irrepressible instinct <del>forms</del> flow into <del>miracle</del> <add place=\"above\">regular channels</add> players</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; these form <del>their</del> <del>But</del> to <del>confine &#8211; to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; to induce the rhymers &amp; the mummers, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">jugglers &amp; the bear leaders to put off their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pagan leaves, their bells, their [moblets?], &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>robe themselves</del> in the service of the Christian</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">God.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-4#xywh=779,632,1877,1728",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That was the other bond between the great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">house &amp; the cottage. For though the great,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>with</del> <del>their</del> <del>with their acga</del> speaking</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">French as easily as English, with their Latin &amp; greek</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tags on their tongues, <del>despised the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must despise the jargon of the peasant, they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shared the superstitions. An old woman in a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>cott</del> hovel was to the King himself even,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the [venal?] of an unclean spirit. A dun</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chicken, she said, sucked on her chin. When the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"object\" ref=\"../resources/annotations.xml#obj-pill\" key=\"Pilliwinks\">pilliwinks</rs> were applied to her, she confessed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on all Hallows E'en last she with 200</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">witches had gone to sea, each one in a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[riddle?] a sieve drinking &amp; making merry</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">till they came to the Kerk of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-nber\" key=\"Berwick, North\">N. Berwick</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-loth\" key=\"Lothian\">\n            <choice>\n              <sic>Lowthian</sic>\n              <corr>Lothian</corr>\n            </choice></rs> where they landed &amp; danced a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reel. When the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-denb\" key=\"Denbigh, Earl of\">Earl of \n            <choice>\n              <sic>Denby</sic>\n              <corr>Denbigh</corr>\n            </choice></rs> died a witch was</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] in the corner of his room. She confessed</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">how she had thrown a cat into the sea &amp;</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">raised a storm that had sunk the Kings ships.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-4#xywh=763,2276,1853,1128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great house, then, when the nobles read</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs> aloud, was connected</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the village by <del>these</del> superstitions, needs, beliefs.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> himself heard the rhymers &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impudent bards. <del>It was at</del> He saw,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at     in        , the Green man. It was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">said that he was present at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pageant, in <del>wh</del> <del>queen</del> played before</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Q <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Elizabeth</rs> in 15&#8211; . It was <del>an</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a revival &#8211; already time had given</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their customs curiosity, a standing against the [past?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For already the other house was being built.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-4#xywh=123,2196,743,712",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>jugglers, [rhymers?],</l>\n            <l>&amp; sacred trees, &amp;</l>\n            <l>holy wells; &amp;</l>\n            <l>mummers</l>\n            <quote source=\"\" rend=\"block\">\n              <l>Wanton bardes</l>\n              <l>&amp; Rhymers</l>\n              <l>impudent.</l>\n            </quote>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

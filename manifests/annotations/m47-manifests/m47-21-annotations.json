@@ -1,0 +1,67 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-21-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-21#xywh=664,64,1872,1256",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the shelves of college libraries were the Greek &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Roman classics. The learned read them; &amp; the nobles.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"><add place=\"margin\">\"</add>...our ancient ladies of the court\"</quote> when they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>did the</del> were to be found reading the holy</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scriptiores or they did their needlework; &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">histories; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jlyd\" key=\"Lydgate, John\">Lydgate</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jwyc\" key=\"Wycliffe, John\">Wycliffe</rs> made no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">show against these august ancients</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There they sit, in the palace, embroidering, reading,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">playing their musical instrument; &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the background of the mind is in Italy, in France, in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Greece; <del>but in the foreground is England,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the background of the</del> <del>b</del> <del>eye is</del> eye is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>when he looks back, into the physical eye,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>he s</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-21#xywh=700,1248,1896,192",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-agrip\" key=\"Agrippa\">Agrippa</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-suet\" key=\"Suetonius\">Suetonius</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-plin\" key=\"Pliny\">Pliny</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cice\" key=\"Cicero\">Cicero</rs> &#8211; they are in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the background they are the ancestors <del>to</del> <add place=\"above\">with</add> whom the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">learned Elizabethan classes [Kindness?]; but in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">foreground there is the <del>pla</del> <del>Palace</del> house, <del>with its</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>now built of stone</del>, no longer a hut made of branches,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no longer <del>a</del> <del>ma</del> <del>of</del> a <del>cold</del> <del>smoky</del> <del>home</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thick with smoke, <del>no</del> with a log for a pillow:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It is now</del> It is now almost too luxurious</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for an old clergyman; with pillows, &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silver, &amp; glass windows; and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Queen has a [barge?] &amp; <del>the</del> London is a </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">city; &amp; there, \n            <choice>\n              <sic>tho</sic>\n              <corr>though</corr>\n            </choice> he cannot see</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">himself</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs>, a [illeg.] yet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">kindly man, using language,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> \n            <choice>\n              <sic>wd</sic>\n              <corr>would</corr>\n            </choice> have shocked his ancestors,</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">adding a patron, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcob\" key=\"Cobham, Lord William\">Lord Cobham</rs>, in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flowing [prose?] that \n            <choice>\n              <sic>wd</sic>\n              <corr>would</corr>\n            </choice> have shocked</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his ancestors, &amp; owning a mastiff.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> The age of anonymity is over.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-27-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-27#xywh=626,122,172,176",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">15</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-27#xywh=620,274,1188,356",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>With that a joyous fellowship issued</l>\n            <l>Of misntrels making goodly merriment</l>\n            <l>With wanton bardes and Rhymers \n              <choice>\n                <sic>im&#8540;udent</sic>\n                <corr>impudent</corr>\n              </choice></l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-27#xywh=566,604,1634,156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">--that voice reached Spenser too in the great room.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-27#xywh=452,736,2248,2584",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If the great \n            <choice>\n              <sic>Elizabetahn</sic>\n              <corr>Elizabethan</corr>\n            </choice> house, <add hand=\"ms\">(</add><rs type=\"place\" ref=\"../resources/annotations.xml#pla-pens\" key=\"Penshurst\">Penshurst</rs>, Wilton as we see it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">now cluttered with villas and bungalows, looks out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of proportion, it is \n            <choice>\n              <sic>beacuse</sic>\n              <corr>because</corr>\n            </choice> the connection between the great house</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the small is lost. If we could see it as it was in Spensers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">time we should see rxmxmxmxmxmxmxxx tracks, raying out from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great gate to the across the fields to the \n            <choice>\n              <sic>cooatge</sic>\n              <corr>cottage</corr>\n            </choice>, to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the farms, even to the hovels. <add hand=\"ms\" place=\"above\">there was the</add> It was connected, if war <del hand=\"ms\">came</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by the <del hand=\"ms\">need of men</del>. There was armour stored in the church. <del hand=\"ms\">And</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\">???</add>the perpetual fight with nature <del hand=\"ms\">made tracks from the house to the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">farm.</del> A common fight linked the noble to the \n            <choice>\n              <sic>labourrer</sic>\n              <corr>labourer</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That connection, the physical, between master and man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is painfully and \n            <choice>\n              <sic>minitelt</sic>\n              <corr>minutely</corr>\n            </choice> recorded in the medieval letters.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is the staple of the whole \n            <choice>\n              <sic>correspon nce</sic>\n              <corr>correspondence</corr>\n            </choice>--the   But there was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">also the other the less visible connection--the common belief.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That bond between the \n            <choice>\n              <sic>grear</sic>\n              <corr>great</corr>\n            </choice> house and the small has been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">grown over, like the \n            <choice>\n              <sic>t ack</sic>\n              <corr>track</corr>\n            </choice> under the hill along whch the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pilgrims rode to Canterbury. No one drives \n            <choice>\n              <sic>the e</sic>\n              <corr>there</corr>\n            </choice> now. But when</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spenser came to Penshurst that \n            <choice>\n              <sic>rack</sic>\n              <corr>track</corr>\n            </choice> led from one house to another;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pilgrims rode to Canterbury. No one drives \n            <choice>\n              <sic>the e</sic>\n              <corr>there</corr>\n            </choice> now. But when</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spenser came to Penshurst that \n            <choice>\n              <sic>rack</sic>\n              <corr>track</corr>\n            </choice> led from one house to another;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It led to the village green. It led to the tree<add hand=\"ms\" place=\"inline\">:</add> to the well.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the spring they danced round the Maypole; at midsummer they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lit the bon fire on the hill; at harvest the waggons were \n            <choice>\n              <sic>crwoned</sic>\n              <corr>crowned</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At Christmas the mummers acted their dumb show; the boys \n            <choice>\n              <sic>scame</sic>\n              <corr>came</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wassailing. The roads led to the <del hand=\"ms\">pagan graces,</del> to the stones</l>\n        "
+                ]
+            }
+        }
+    ]
+}

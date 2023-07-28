@@ -1,0 +1,24 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-37-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-37#xywh=872,60,1840,592",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and on that stage, without any scenery, but richly dressed,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the old mummers were to act not Robin Hood, not <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ever\" key=\"Everyman\">\n            <choice>\n              <sic>E  ry man</sic>\n              <corr>Everyman</corr>\n            </choice></rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not <rs>St Georges</rs> play but <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faus\" key=\"Doctor Faustus\">Faust</rs>, <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">\n            <choice>\n              <sic>Tamberlaine</sic>\n              <corr>Tamburlaine</corr>\n            </choice></rs>, <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-haml\" key=\"Hamlet\">Hamlet</rs>, <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-lear\" key=\"King Lear\">Lear</rs>, </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ancl\" key=\"Antony and Cleopatra\">Antony and \n            <choice>\n              <sic>Cleoptara</sic>\n              <corr>Cleopatra</corr>\n            </choice></rs>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

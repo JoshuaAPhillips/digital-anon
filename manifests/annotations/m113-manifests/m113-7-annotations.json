@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-7#xywh=838,76,246,186",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">13</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-7#xywh=860,232,1820,46",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the pear shaped lute on which the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> once played.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The \n            <choice>\n              <sic>furniyure</sic>\n              <corr>furniture</corr>\n            </choice> remains; \n            <choice>\n              <sic>syiff</sic>\n              <corr>stiff</corr>\n            </choice>, ornate, \n            <choice>\n              <sic>angaulr</sic>\n              <corr>angular</corr>\n            </choice> and uncushioned</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There are the very \"vardigalls\" that raised the preachers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wrath.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-7#xywh=788,672,1924,166",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Elizabthan</sic>\n              <corr>Elizabethan</corr>\n            </choice> \n            <choice>\n              <sic>cloth s</sic>\n              <corr>clothes</corr>\n            </choice> have had too much</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attention from the \n            <choice>\n              <sic>historival</sic>\n              <corr>historical</corr>\n            </choice> \n            <choice>\n              <sic>novelst</sic>\n              <corr>novelist</corr>\n            </choice>, and too little</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the psychologist. What desire was it that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">prompted this \n            <choice>\n              <sic>extraodrinady</sic>\n              <corr>extraordinary</corr>\n            </choice> display? There must have been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some protest, some desire to affirm something, behind the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">slashed cloaks; the stiff ruffs; the wrought chains</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the loops of pearls. The cost was great; the discomfort</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">appaling; yet the fashion prevailed. Was it perhaps,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the mark of an \n            <choice>\n              <sic>uannymous</sic>\n              <corr>anonymous</corr>\n            </choice>, \n            <choice>\n              <sic>unreorded</sic>\n              <corr>unrecorded</corr>\n            </choice> age to enforce the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>indivisual</sic>\n              <corr>individual</corr>\n            </choice>; to make ones ones physical body as bright,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as definite, as marked as possible? Fame must be \n            <choice>\n              <sic>concentrate</sic>\n              <corr>concentrated</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the body; since the other kind of fame, the publicity</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the paper, of the pxmxmxx photograph, was \n            <choice>\n              <sic>d nied</sic>\n              <corr>denied</corr>\n            </choice> them.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Did the \n            <choice>\n              <sic>elqoeunce</sic>\n              <corr>eloquence</corr>\n            </choice> of dress speak, when the art of verbal</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speech was \n            <choice>\n              <sic>stillunformed</sic>\n              <corr>still unformed</corr>\n            </choice>?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-7#xywh=800,2304,1892,94",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The Elizabethans are silent. There is no little \n            <choice>\n              <sic>languag</sic>\n              <corr>language</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nothing brief, intimate, \n            <choice>\n              <sic>collqouial</sic>\n              <corr>colloquial</corr>\n            </choice>. When they write</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>rhytm</sic>\n              <corr>rhythm</corr>\n            </choice> of the Bible is in their ears. It makes their \n            <choice>\n              <sic>speeh</sic>\n              <corr>speech</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unfamiliar. It is only expressive of certain emotions.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Thus when Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Anne\">Ann Bacon</rs> writes to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">her son</rs> she is a preacher</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">addressing a subordinate. Fear of God and distrust of man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">surround her as with the walls of a dungeon. She admonishes;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">she \n            <choice>\n              <sic>ehorst</sic>\n              <corr>exhorts</corr>\n            </choice>. The actual object--it is a basket of xxxxx</l>\n        "
+                ]
+            }
+        }
+    ]
+}

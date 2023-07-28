@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m110-annotations/m110-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-3/871,36,203,212/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">27</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-3/915,196,1667,332/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">How can it have been that they made no critical comment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">upon this extraordinary xmxmxmxmxmxmmxx revelation of this new</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">art?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-3/807,528,1907,1756/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Perhaps <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> in his essays supplies a reason.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote rend=\"inline\" source=\"#\">\"These things be but toyes\"</quote> he wrote in the essay called</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-masq\" key=\"Of Masques and Triumphs\">\"Of Masques and Triumphs.\"</rs> To the aristocratic <choice>\n            <sic>sch lar</sic>\n            <corr>scholar</corr>\n          </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the players were still only <choice>\n            <sic>mo ntebanks</sic>\n            <corr>mountebanks</corr>\n          </choice> bear leaders and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">acrobats. They spoke in the vulgar tongue. Off the stage</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they lived in the heart of darkness. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\"><choice>\n            <sic>Marloew</sic>\n            <corr>Marlowe</corr>\n          </choice></rs> lying on the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bed in Deptford reached out and stabbed <add place=\"inline\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-ifriz\" key=\"Ingram, Frizer\">Ingram</rs> in the head</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"above\">whoever</add> in the back. Mr <add place=\"above\">Ingram gave Marlowe a mortal wound</add> then drove his dagger through</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><choice>\n            <sic>Marloews</sic>\n            <corr>Marlowe's</corr>\n          </choice> <choice>\n            <sic>eeeye</sic>\n            <corr>eye</corr>\n          </choice> <add place=\"above\">over his right eye</add>. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Ben Jonson</rs> S <rs type=\"person\" ref=\"../resources/annotations.xml#psn#gspe\" key=\"Spenser, Gabriel\">Gabriel Spenser</rs> through the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">body with a sword that cost three and sixpence. So complete</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was bacons contempt for this underworld that he could be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tolerant. <quote source=\"#\" rend=\"inline\">The stage is more beholding to Love than the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">Life of Man..... great spirits and great businesses do keep</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">out of <choice>\n            <sic>thid</sic>\n            <corr>[this? their?]</corr>\n          </choice> weak passion.\"</quote> The proper place for the wak</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">weak passion was the stage, for love <quote source=\"#\" rend=\"inline\">leads to speaking in</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">perpetual hyperbole.</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-3/815,2296,1907,892/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The proper <choice>\n            <sic>tipic</sic>\n            <corr>topic</corr>\n          </choice> of discussion in the <choice>\n            <sic>upp r</sic>\n            <corr>upper</corr>\n          </choice> world</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was the life of man.   The <choice>\n            <sic>tiles</sic>\n            <corr>titles</corr>\n          </choice>of the Essays <choice>\n            <sic>enurmate</sic>\n            <corr>enumerate</corr>\n          </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><choice>\n            <sic>enurmarte</sic>\n            <corr>enumerate</corr>\n          </choice> those topics. \"Of Truth. Of Death. Of Unity in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Religion. Of Revenge. Of Simulation and Dissimulation.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Those were the <choice>\n            <sic>subjactes</sic>\n            <corr>subjects</corr>\n          </choice> that the rulers discussed at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their high tables. The sediment of that conversation is in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the rich deposits of the essays. He is concerned with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great world of action; with government; with the tortuous</l>\n        "
+                ]
+            }
+        }
+    ]
+}

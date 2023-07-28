@@ -1,0 +1,121 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2#xywh=471,248,311,304",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">76</add>"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2#xywh=765,10,1859,772",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She is taken home secretly by her father. Her mother</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cries <quote source=\"#\" rend=\"inline\">\"when a fresh [untaught?] is an [hoor?] \"If it</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>had pleased God when I did hear her that she &amp;</l>\n            <l>I had been buried it had saved me from a</l>\n            <l>great deal of sorrow &amp; grief &amp; her <del>..</del> from ....</l>\n            <l>such shame as never had Cheshire woman, ....</l>\n            <l>Write no more to me of her\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2#xywh=749,658,1891,1004",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But save for their sf</del> But the drama</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>of the</del> <del>abandoned girl</del> moves in darkness.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>She moves through the court without speaking</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>seen <del>by an</del> only by a</del> She is solicited by <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wkno\" key=\"Knollys, Sir William\">Knollys</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">seduced by <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wpem\" key=\"Pembroke, William (Lord)\">Pembroke</rs> <del>without</del> <del>[dressed?]</del> up as a man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>without opening her lips. We see her in the white</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cloak only through the eyes of one Mrs [Maeken?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who dwelt at the <rs type=\"place\" ref=\"../resources/annotations.xml/pla-chop\" key=\"Chopping Knife\">Chopping Knife</rs> near</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Ludgate\". And her single letter to her sister,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">only speaks ceremoniously of the passing of time.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>So</del> <del>She</del> <del>The letters are all</del> <del>The common speech</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2#xywh=889,1616,647,144",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Facts, <del>writing</del> She</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2#xywh=417,2988,263,232",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">127.</add>"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2#xywh=785,1646,1799,172",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Her own [passes?], the disgrace, the humiliation of the family</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are all hidden under <del>the</del> flourishes &amp; ornament,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">parables &amp; similes. <del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> is quoted</del>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spring &amp; summer: the frost that [illeg.] affection; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flower of a garden &#8211; the <del>kn</del> <del>semblance</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>naturally</del> her, levity &amp; laughter in their old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">metaphor; though the meaning &#8211; that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">man is in love with the girl &amp; wishes to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[breed?] from her <del>breaks</del> here &amp; again</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spenser is quoted. Indeed, the poets</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have <del>taken from the pen</del> have made it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impossible for simple squires &amp; country</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ladies to write English And behind their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">florid decoration, their strained elegance,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the men &amp; women are [fallible?], crude,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[barbal?]; seducing each other; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wolves &amp; foxes of the court pray &amp; raven.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Only we</del> The bastards are born. Reflections</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are [illeg.] [Why?] what</l>\n        "
+                ]
+            }
+        }
+    ]
+}

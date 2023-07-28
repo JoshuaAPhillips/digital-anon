@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-3-annotations/m111-3-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7#xywh=784,32,190,182",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><choice>\n            <sic>3L</sic>\n            <corr>31</corr>\n          </choice></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7#xywh=756,176,1788,796",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">venerable institutions were being \n            <choice>\n              <sic>critisiced</sic>\n              <corr>criticised</corr>\n            </choice>. But the public</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-glob\" key=\"Globe, The\">Globe</rs> and the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-rose\" key=\"Rose, The\">Rose</rs> could not feel as the public in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>i9th</sic>\n              <corr>19th</corr>\n            </choice> \n            <choice>\n              <sic>cent ry</sic>\n              <corr>century</corr>\n            </choice> felt when <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ghos\" key=\"Ghosts\">Ghosts</rs> was acted that old humbugs</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were being shown up; and the rottenness of society.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">After all, when country squires must call in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">express their meaning, prose was not yet serviceable;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the critical spirit had no proper tool.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7#xywh=680,972,1492,46",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And in fact the dramatists were not [depicting?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">society. They were showing men &amp; women</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">themselves <del hand=\"ms\">they were</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del hand=\"ms\">gulf silence</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-7#xywh=360,1432,2372,202",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">So</del> Anonymity thus lay over the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\" key=\"Bankside\">Bankside</rs><!-- come back to this... --></l>\n        "
+                ]
+            }
+        }
+    ]
+}

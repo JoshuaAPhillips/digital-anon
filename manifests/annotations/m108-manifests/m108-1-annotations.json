@@ -1,0 +1,65 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-annotations/m108-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1#xywh=772,92,234,202",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">23</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1#xywh=723,280,1938,804",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is a jolt at the points. Lovely as the words are,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the mind slides on to a another rail. To speak them the poet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has separated t himself from the \n            <choice>\n              <sic>actirs</sic>\n              <corr>actors</corr>\n            </choice>. He cannot yet make</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">Tamburlaine</rs> speak those words with his own lips. The play</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is still in part the work of the \n            <choice>\n              <sic>undiffrenetiated</sic>\n              <corr>undifferentiated</corr>\n            </choice> audience,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">demanding great names, great deeds, simple outlines,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and not the single subtlety of one soul.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1#xywh=731,1076,1978,1284",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The audience is silent. xmxmxmxmxmmxxxmmxmxmxxmmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmmxmxmxmxmxmxmxmxmmxmxmxmxmxmx <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hwri\" key=\"Wriothesley, Henry\">Lord Southampton</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fmann\" key=\"Manners, Francis\">Lord Rutland</rs>, as <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rwhy\" key=\"Whyte, Roland\">Roland \n            <choice>\n              <sic>W ite</sic>\n              <corr>Whyte</corr>\n            </choice></rs>wrote to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rsid\" key=\"Sidney, Robert\">Sir Robert</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-rsid\">Sidney</rs> <quote source=\"#\" rend=\"inline\">\"pass away their time in London, merely in going to</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">plays every day\"</quote> But the attraction, strong as it was,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that drew them to the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\" key=\"Bankside\">\n            <choice>\n              <sic>Banside</sic>\n              <corr>Bankside</corr>\n            </choice></rs>, roused no comment. A <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">young</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\">poet</rs> \n            <choice>\n              <sic>dedictes</sic>\n              <corr>dedicates</corr>\n            </choice>his sonnets to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mrwh\" key=\"Mr W. H.\">Mr W H.</rs> and not one of those</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">highly educated nobles troubles to ask Who is this patron?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is not a matter of \n            <choice>\n              <sic>i nterest</sic>\n              <corr>interest</corr>\n            </choice> \n            <choice> \n              <sic>i</sic>\n              <corr>in</corr>\n            </choice> court circles.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If we try to look at the audience off the stage</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in their private lives we see only wisps, passing phantoms.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

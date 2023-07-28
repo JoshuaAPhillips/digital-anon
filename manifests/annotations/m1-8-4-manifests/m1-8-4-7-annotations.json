@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-7#xywh=749,36,1875,1876",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reader <del>puts off</del> becomes <del>mould</del> differentiated,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">say [an note?]; author that is, as a <del>great</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world in which this is relevant, that not.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He chooses; discriminates. <del>He is not</del> And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the reader becomes himself aware</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that there are <del>not</del>  in <del>this</del> in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">literature certain [connections?], things that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">explain, that it may be, light up the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">folds, give meaning to the house; curiosities;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">knick knacks: <del>but also, <del>the is</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>what we recognise <del>as time</del> There are</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>people &#8211; whatever we mean when, by some</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pattern of words, the [lot?] at the times, as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the great plays emerge out of the mist,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">something that comes back to mind, in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] of the night: words that come to our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lips. <del>How we are in sight of that</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we are coming into the current which is to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>sweep aside the antiquary, which is to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>crash over the</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-7#xywh=795,1850,1839,1508",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The reader indeed is soon to be [appreciated?].</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This is one of the <del>delights</del> lures of the Elizabethans</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that they [revive?] the seer, the hearer, the actor in us.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If by</del> <del>Our anonym</del> <del>At some point &#8211; it</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>differs from age to age, &#8211; the reader is born;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>for in the</del>      <del>And anonymity</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del>what we have</del> anonymity is a great power.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It <del>has made one</del> is a great possession &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a stage that has no</del> <del>writer</del> the Elizabethan page:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> has kept the \n            <choice>\n              <sic>Eth</sic>\n              <corr>Elizabethan</corr>\n            </choice> drama [vigour? vision?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unattached; it has given it a general [state?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">vitality; a lack of personality; as</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>if all the [hours?] of the [19th?] century had been</l>\n            <l>cut away from W. &amp; [T?]. &amp; J. G. &amp; the B.</l>\n            <l>as if we could [slip?] the lives; the</l>\n            <l>[songs?]; the <del>as</del> a width, a bareness,</l>\n          </del>\n        "
+                ]
+            }
+        }
+    ]
+}

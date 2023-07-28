@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-1-annotations/m54-1-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-3#xywh=835,64,157,159",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">8</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-3#xywh=850,208,1734,1346",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Upstairs in the great room , as he tells us, <quote source=\"#\" rend=\"inline\">\"our ancient</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">ladies of the court\"</quote> were to be found reading the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Greeks and the Latins. as they sat at their needlework.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the \n            <choice>\n              <sic>sch;ars</sic>\n              <corr>scholars</corr>\n            </choice> in the \n            <choice>\n              <sic>c ege</sic>\n              <corr>college</corr>\n            </choice> library were reading the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">classics that were chained to the \n            <choice>\n              <sic>shlves</sic>\n              <corr>shelves</corr>\n            </choice> in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">college libraries. He turned away from the actors who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">even while he dug up \n            <choice>\n              <sic>voins</sic>\n              <corr>coins</corr>\n            </choice> in his garden were acting their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crude \n            <choice>\n              <sic>darams</sic>\n              <corr>dramas</corr>\n            </choice> in the market place. Hxmxmxmxmxmxmxmxmxm</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">atxmxmxmxmxmxmxmxmxmxxmmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wexmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmxx Yet in spite of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the printed book and the new learning, the the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">common people were still at their lewd practises.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

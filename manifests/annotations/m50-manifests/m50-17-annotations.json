@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-17-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17#xywh=893,86,114,106",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">9</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17#xywh=875,178,1707,496",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\n            <choice>\n              <sic>disctreion</sic>\n              <corr>discretion</corr>\n            </choice>\n           requireth, and that soberly then....\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">Let not Lawson that fox, be \n            <choice>\n              <sic>acqainted</sic>\n              <corr>acquainted</corr>\n            </choice> with my letters....\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">So \n            <choice>\n              <sic>Lthe</sic>\n              <corr>the</corr>\n            </choice> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-duno\" key=\"Norfolk, Duchess of\">Duchess of Norfolk</rs>, mother to the poet Earl</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-easu\" key=\"Surrey, Earl of\">Surrey</rs> writes:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><!-- find way to render gap --> </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"> </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"> </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"> </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"> </l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17#xywh=831,1094,1843,2",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Fear of God, fear of man, hate, agony, passion, surround</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">them with the walls of a dungeon. There is no gaiety,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>nu</sic>\n              <corr>no</corr>\n            </choice> freedom no \n            <choice>\n              <sic>familairity</sic> <!-- that's a good typo -->\n              <corr>familiarity</corr>\n            </choice> in the world the live in. Only in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">extremity, of hate, of fear, do urges them to pick up the pen</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The sound of the bible is in their ears, \n            <choice>\n              <sic>Itis</sic>\n              <corr>it is</corr>\n            </choice> a garment only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to be worn when the mind is in the right attitude. And the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">garment may of course conceal a Lady Ann who is merry and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gay; it may conceal a Duchess who is \n            <choice>\n              <sic>snesitove</sic>\n              <corr>sensitive</corr>\n            </choice>, amorous</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and sensual; we cannot tell. Anybody  may live on the other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">side of that wall of formal language. Using the prose of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Bible when they write prose the Elizabethans are unknown</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to us. They can say nothing simple, subtle, or little.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Bright contrasted colours meet on \n            <choice>\n              <sic>ther</sic>\n              <corr>their</corr>\n            </choice> faces; carnation</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and snow; ebony and gold. In their portraits, the young mens</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bodies are sewn into padded doublets; school boys faces</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are raised above \n            <choice>\n              <sic>strached</sic>\n              <corr>starched</corr>\n            </choice> ruffs; and young women serve only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to \n            <choice>\n              <sic>supp rt</sic>\n              <corr>support</corr>\n            </choice> heavy \n            <choice>\n              <sic> uilted</sic>\n              <corr>quilted</corr>\n            </choice> dresses stuck about with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">huge xxxx pearls.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-10-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-10#xywh=795,92,307,196",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">179</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-10#xywh=843,224,1707,924",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pilgrims had bxxxxxd <add hand=\"typewriter\" place=\"above\">bruised</add> the grass. The stain wxxxx made a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">path. It was growing dark. Since there were no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clouds to trouble the sky, the blue was bluer, and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">green for one moment greener. There was no longer a view.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No Folly; no spire of \n            <choice>\n              <sic>Bolmey</sic>\n              <corr>Bolney</corr>\n            </choice> Minster. It was land merely,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no land in \n            <choice>\n              <sic>particualr</sic>\n              <corr>particular</corr>\n            </choice>. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-latr\" key=\"Miss La Trobe\">She</rs> put down her case,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and stood looking at the land. Then something rose to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">surface.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-10#xywh=855,1108,1691,46",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"I should group 'em there\" she said. It would be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">midnight; two figures, hardly perceptible, half concealed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by a rock. The curtain would rise. What would the first</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words be? That floored her. The words escaped her.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-10#xywh=783,1572,1843,1276",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Again she lifted the heavy suit case to her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shoulder. She strode off across the lawn. The house was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dormant; one thread of smoke \n            <choice>\n              <sic>thockened</sic>\n              <corr>thickened</corr>\n            </choice> against the trees.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">How xxxxxx strange that the earth with all those flowers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">incandescent, the lilies, the roses, those clumps of white</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flowers, those bushes of burning green-- should still be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hard! The waters of illusion <add hand=\"typewriter\" place=\"above\">surrounded her.</add> fxmxmxmmxmxmxer. \n            <choice>\n              <sic>Aagain</sic>\n              <corr>Again</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">she was taking her voyage away from the shore.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"typewriter\" place=\"above\">She</add> xmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxmxmxm</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>riasing</sic>\n              <corr>raising</corr>\n            </choice> her hand, she lifted the latch of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ornamental iron gate.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

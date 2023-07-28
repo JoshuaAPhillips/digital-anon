@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-4#xywh=659,40,1957,3336",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">age can there have been a deeper gulf between the writer &amp; <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">society. <del>The great</del> <del>who presumably</del> Who is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mrwh\" key=\"Mr W. H.\">Mr W. H.</rs> to whom a young poet has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dedicated his sonnets? No body troubles to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ask. It is not a matter of importance it seems in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">court circles. The plays are not discussed.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The world of writers is too remote from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">court. The loves &amp; hates of these</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">descendants of the jugglers &amp; minstrels are too</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have no bearing upon the life of the nobles.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And <del>the reason may be that</del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">early works of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re.</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> <del>call for no</del> breed no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>out</del> comment. The reason may be that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the dramatists were not destroying anything:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If these</del> The indignation that, after the [fun?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.]; then, the example created in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">16th century <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs>, was in part the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rage of those who felt that their won</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world was being [civilised?]. <del>People</del> <del>Great</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great might be mocked in some of the plays.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The censor was [flush?] to control any</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">irreverence. But <del>the releas</del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">public at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-glob\" key=\"Globe, The\">Globe</rs> or the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-rose\" key=\"Rose, The\">Rose</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could not <del>resent</del> feel, as the public in the 19th</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">century felt when <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-ghos\" key=\"Ghosts\">Ghosts</rs> was acted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that a writer had arisen who was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[distinguishing?] the old humbugs: who was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>refle</del> <del>se</del> <del>holding</del> showing up <del>society</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the unmoveable of society. And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> after all, since prose was still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">half poetry, <del>a</del> no separate birth, but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>half</del> that function of the writer had</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the critical spirit had no proper tool.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

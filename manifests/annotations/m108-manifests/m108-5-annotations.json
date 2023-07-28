@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-annotations/m108-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5#xywh=894,44,194,206",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">25</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5#xywh=880,172,1764,1508",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But her passion, her disgrace, her \n            <choice>\n              <sic>humiltaion</sic>\n              <corr>humiliation</corr>\n            </choice> are all acted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">i in dumb show. They are \n            <choice>\n              <sic>hidd n</sic>\n              <corr>hidden</corr>\n            </choice> either by silence, or by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flourishes and ornaments that \n            <choice>\n              <sic>amont</sic>\n              <corr>amount</corr>\n            </choice> to silence.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even a plain country squire once he takes pen in hand</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has \n            <choice>\n              <sic>recource</sic>\n              <corr>recourse</corr>\n            </choice> to poetry. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbea\" key=\"Beaumont, Francis\">Mr Beaumont</rs>, after trying to ex-</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">plain <quote source=\"#\" rend=\"inline\">\"My conceit of this tripple love, of \n            <choice>\n              <sic>affcetion</sic>\n              <corr>affection</corr>\n            </choice> passion</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and conjunction\"</quote> has recourse to poetry. He quotes <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to help him out. It is the poets still who speak for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">squires. They have no serviceable language Yet behind</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">these florid decorations the wolves of the court prye</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">prey and raven. \n            <choice>\n              <sic>astards</sic>\n              <corr>Bastards</corr>\n            </choice> are born. \n            <choice>\n              <sic>eputations</sic>\n              <corr>reputations</corr>\n            </choice> are \n            <choice>\n              <sic>ru ned</sic>\n              <corr>ruined</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Only the auxmxmxmxmxmx people \n            <choice>\n              <sic>themslves</sic>\n              <corr>themselves</corr>\n            </choice> pass unseen.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They too like the dramatists remain anonymous.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5#xywh=2208,1478,537,607",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>there is an</l> <!-- nope, pray for Dirk's help, try Wim, etc. -->\n            <l>[illeg. tiny words...]</l>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n            <l/>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5#xywh=860,1652,1836,1588",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the play itself was still anonymous.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The lack of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\">Marlowes</rs> name, or <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tkyd\" key=\"Kyd, Thomas\">Kyds</rs>, shows how largely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the play was a common product, written by \n            <choice>\n              <sic>o e</sic>\n              <corr>one</corr>\n            </choice> hand, but so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">moulded in transition that the author had no \n            <choice>\n              <sic>snese</sic>\n              <corr>sense</corr>\n            </choice> \n            <choice>\n              <sic>od</sic>\n              <corr>of</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">property in it. It was in part the work of the audience.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the audience was a large one. Fifteen hundred</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">people, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-greg\" key=\"Greg, W. W.\">Dr Greg</rs> computes was an average audience,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Of these the \n            <choice>\n              <sic>gr ater</sic>\n              <corr>greater</corr>\n            </choice> part were apprentices, citizens</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>oredom</sic>\n              <corr>boredom</corr>\n            </choice> of the afternoon. Their presence is obvious enough</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the early plays. It is they who \n            <choice>\n              <sic>drw</sic>\n              <corr>draw</corr>\n            </choice> up the extravagance</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the hyperbole, as a sheet of paper draws \n            <choice>\n              <sic>yp</sic>\n              <corr>up</corr>\n            </choice> the fire.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was they who made the playwright capable of his great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">strides, of vast audacities beyond the reach of the solitary</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-7-annotations/m1-8-7-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-1#xywh=1017,82,1019,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Letter</del> <del>Comment</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-1#xywh=755,148,1877,3072",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If you have read this brittle &amp; imperfect sketch, with its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">exaggerations, its foreshortenings <del>you will complain</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">will <del>come to say</del> <del>given,</del> you will complain;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>there is nothing here to</del> <del>which leaves out</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the very</del> which <del>gives</del> <del>a</del> <del>&amp; the</del> a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>with justice.</del> <del>For the</del> <del>reader to</del> &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>this</del> <del>thus</del> &#8211; a naked attempt to point at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">art <del>,</del> <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St Pauls</rs>, <rs type=\"place\" ref=\"../resources/annotations.xml#pla-wmab\" key=\"Westminster Abbey\">Westminster Abbey</rs> &amp; the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-towe\" key=\"Tower of London\">Tower of</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-towe\" key=\"Tower of London\">London</rs> to a visitor from the country.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <del>What we will now attempt then is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>express</del> We will now <del>attempt</del> from there to look at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the famous monuments from another angle</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>to wander to for a moment, in free from</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Free from dates</del> <del>Let us</del> <del>free <del>ourselves</del> from</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>dates, free from the eyes of Professor [Bude?], who</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>by ears of work in [museums?] has established</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the probability &#8211; it is no more &#8211; that <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmid\" key=\"Middleton, Thomas\">Middleton</rs></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had a hand in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-reve\" key=\"Revenger's Tragedy, The\">Revengers Tragedy</rs> &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> to <del>discover</del> <del>what</del> <del>dream for a moment,</del> free</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>from dates</del> <del>[illeg.] for a moment from</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>tyranny of dates,</del> <del>&amp; from the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It is</del> <del>The</del> Let us try then to look</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at these famous monuments from another angle:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>to change <del>our</del> to the other side of the pillow: to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>discuss &amp; <del>together</del> some of the difficulties, the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>of</del>              <del>But to</del> <del>there is always</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>something unreal in literary criticism</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is always an <del>unreality</del> in <del>such</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>literary criticism,</del> something stiff &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unnatural in the critics prose. <del>It</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>would</del> <del>a</del> <del>If</del> <del>it is his</del> <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He has in the first place, to &#8211; to</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-7-annotations/m54-7-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-7-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1#xywh=886,106,191,139",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">14</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-7-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1#xywh=859,220,1825,3094",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">distinct from the \n            <choice>\n              <sic>mistrel</sic>\n              <corr>minstrel</corr>\n            </choice>, whose words are printed.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For when familiar \n            <choice>\n              <sic>lettres</sic>\n              <corr>letters</corr>\n            </choice> are written in Biblical prose</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there must be a barrier between what is sayable and what</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unsayable. There is a limit to what can be put</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">into words. He cannot talk; he cannot sing. <add hand=\"ms\">[illeg.]</add> At the beginning</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the sixteenth \n            <choice>\n              <sic>cnstury</sic>\n              <corr>century</corr>\n            </choice> he exists; the printing press has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">given him a name; but he is still unspecialised.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The man <add hand=\"ms\" place=\"above\">[with?]</add> who stands outside desiring by some impulse to \n            <choice>\n              <sic>obsev</sic>\n              <corr>observe</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">, to state, rather than to take part, is not yet wholly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writer, wholly musician or \n            <choice>\n              <sic>whllly</sic>\n              <corr>wholly</corr>\n            </choice> painter. It seems possible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the great English art \n            <choice>\n              <sic>ma</sic>\n              <corr>may</corr>\n            </choice> not be the art of words.</l> ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He still has the exact \n            <choice>\n              <sic>observan</sic>\n              <corr>observant</corr>\n            </choice> eye <add hand=\"ms\" place=\"above\">that sees exactly </add>; his ear is stimulated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by the sound of words spoken aloud. His words must have body</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>substnace</sic>\n              <corr>substance</corr>\n            </choice>, <add hand=\"ms\" place=\"inline\">H</add>e must make them <add hand=\"ms\" place=\"above\">words</add> \n            <choice>\n              <sic>sornous</sic>\n              <corr>sonorous</corr>\n            </choice>, since they are to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">be read out aloud. <quote source=\"#\" rend=\"inline\">I spent most of my time\"</quote> wrote Lady</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">Ann Clifford</rs> <quote source=\"#\" rend=\"inline\">\"in \n            <choice>\n              <sic>playin</sic>\n              <corr>playing</corr>\n            </choice> at Glecko and hearing <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mnev\" key=\"Neville, Moll\">Moll Neville</rs></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">read the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-arca\" key=\"Countess of Pembroke's Arcadia\"/>....Rivers used to read to me in</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">Montaignes</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#lit-essa\" key=\"Essais (Michel de Montaigne)\">Essays and Moll Neville in the <rs type=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs>.\"</rs></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Futher</sic>\n              <corr>Further</corr>\n            </choice>, words must <del hand=\"ms\">\n              <choice>\n                <sic>yeild</sic>\n                <corr>yield</corr>\n              </choice> themselves</del> <add hand=\"ms\" place=\"above\">move</add> easily to the lilt</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the singing voice, to the virginals<add place=\"inline\" hand=\"ms\">,</add> to the lute. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Eoglish</sic>\n              <corr>English</corr>\n            </choice> were a musical race. <add hand=\"ms\" place=\"above\">For the English were [always?] singing &amp; playing</add> When \n            <choice>\n              <sic>Londonwas</sic>\n              <corr>London was</corr>\n            </choice> burning</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-spep\" key=\"Pepys, Samuel\">Pepys</rs> noted that <quote source=\"#\" rend=\"inline\">\"hardly one lighter or boat in three</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">that had the goods of a house in it, but there was a pair</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">of virginals in it.\"</quote> <del hand=\"ms\">These were</del> the influences that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">told upon the poet; <add hand=\"ms\" place=\"above\">[illeg.] moved</add> Under neath the words<add hand=\"ms\" place=\"inline\">:</add> the old words</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the new words <add hand=\"ms\" place=\"above\">the <del>[illeg.]</del></add>, the \n            <choice>\n              <sic>Frechand</sic>\n              <corr>French and</corr>\n            </choice> the Latin moved the music.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No grammar bound them tightly to gether. They could be read</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aloud; danced to and sung to. But they could not follow the</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-7-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-1#xywh=528,1290,423,279",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>His senses are</l>\n            <l>attuned then:</l>\n            <l>he sees within</l>\n            <l>shadow</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

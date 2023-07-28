@@ -1,0 +1,71 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-3#xywh=767,8,1829,34",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to embody in any own [hinon?] the beliefs, &amp; fear, &amp;</l>  \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> which was so strong then, <del>in the</del> when the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so much depended on the sun; when so little</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was known. The <del>scholars tell us</del> <del>that</del> how</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>this double instinct</del> all through the <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>middle ages this belief,</del> <del>this desire</del> middle ages</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the roads were</del> <del>thus, as the \n            <choice>\n              <sic>sholar</sic>\n              <corr>scholar</corr>\n            </choice> tell us</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> <del>down that</del> <add place=\"above\">that</add> sunk in road, <del>the</del> that track of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ancient belief, lay between the great house &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cottage. In the noble, as in the peasant, a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">half spoken anonymous voice murmured of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old Gods, of old devils; of what moved</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">propitiate, <del>what moved</del> <del>of</del> <del>of what</del> the well &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the tree were still haunted. And, as the scholars</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tell us, both nobles &amp; peasants <del>imp</del> feeling</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"inline\">with</add> the same need of some<del>thing to</del> embody this</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>[illeg.], the <del>same need of a</del> something to</l>\n            <l>express the lal    hang the same need of</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">expression of embodiment, of dance, of song.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Every</del> <del>Down the roads</del> along the roads</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from town to town, from great house to great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">house, came the wandering minstrels, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rhymers, the mummers, the jugglers, the bear leader.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Because they shipped the</del> Even the King &amp; Queen</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must have their <add><del>[after?]</del></add> song makers attached to them.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> Even though, <del>[present?] ably</del> handles</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">because the <del>al</del> actor displays his body, <del>the action</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the art of the mummer</del> the <del>actors trade was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>depend</del>, partly too because <del>there</del> <del>there was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the [commentation?] <add place=\"above\">[urges?], to dance</add> is beyond the pale, &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>h</del> <del>sees the</del> sees the pageant [virulently?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mocking, the actors were <del>a</del> despised,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they were necessary. Even the churchmen,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anxious as <del>they were</del> that homage was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">being paid to another God than theirs,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could not suppress them; <del>or</del> all they could do</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was to divert the <del>[illeg.]</del> <del>stream of</del> <del>current</del> to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>merriment</del> <del>turn the uses</del> make the</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-3#xywh=151,1912,679,6",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>some one who</l>\n            <l>could express,</l>\n            <l>embody, give</l>\n            <l>voice to the</l>\n            <l>hidden instinct</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

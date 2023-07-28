@@ -1,0 +1,29 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-19-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-19#xywh=159,92,2262,1024",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <rs type=\"object\" ref=\"../resources/annotations.xml#obj-pill\">pilliwinks</rs> were applied to her, how she had sailed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in a [sieve?] singing, how she had raised a storm in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">north sea &amp; sunk the kings ships. The great house was not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silent then. In <del>the</del> <del>tries</del> There were [birds? bodies?] in the trees,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a deep murmur of old forgotten things humming in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mind. And down the roads came the wandering singer,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lewd, impudent; but to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spensers</rs> ear: but <del>he had seen,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who had seen, at the Green players acting his already</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">past before <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen Elizabeth</rs>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

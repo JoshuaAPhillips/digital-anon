@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-15#xywh=687,96,2061,248",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But for him of course we have to wait until <add place=\"above\">winter was past</add> there is a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">past. Time has to have drawn its blue veil over</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the [illeg.]. Then, when Anon is long dead, when the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">Canterbury Pilgrims</rs> have gone their way, <del>we begin to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>see the past</del> some body looks back. He is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a representative man; the fruit of <del>that</del> long line of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">learned &amp; <del>lea</del> <del>book</del> learned men who <del>have accomplished so many</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>who have been so so often of [certainty? continuity?] [illeg.]; have</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have <del>had</del> time to think about the past, in the [seat?] of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">parsonage. <del>They have been great</del> Like <del>[illeg.]</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cole\" key=\"???\">Cole</rs>, like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-skin\" key=\"???\">Skinner</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs>, the parson of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-radw\" key=\"Radwinter\">Radwinter</rs>, dug up the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">coins: <del>&amp; in the</del> <del>that were</del> presumably set so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">deep <add>[illeg.]</add> in the earth in 1570. He was <del>already</del> a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>lover</del> <del>of the past</del>. He already sees the present</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">against the past. He <del>complains of the</del> sees it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the past has become so settled <del>that the</del> already in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the present looks <del>[illeg.]</del> <del>crude</del>, &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ungainly, <del>false</del> degenerate <add place=\"above\">seen against its</add>  <del>He</del> <del>The</del> There is too much</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comfort; too <del>many much function</del>, too many <add place=\"above\">much</add> silver,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pots; <add place=\"above\">&amp;</add> too many chimneys, so that the <del>living</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the young\n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">res</hi></sic>\n              <corr>Shakespeares</corr>\n            </choice></rs> &amp; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\"/>Marlowes are not the men their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fathers were. <del>They have</del> The smoke is drawn off</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the sitting room by chimneys, so that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">instead of being bathed by <del>the</del> smoke <del>that came</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">eddying round them they are tender, subject to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rheumatism. They dress fantastically compared with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their ancestors.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-15#xywh=243,1842,455,248",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>too</l>\n            <l>much</l>\n            <l>glass</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-15#xywh=691,2442,1867,1012",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But the past of the</del> <del>The past of the body</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del>England [illeg.] only</del> <del>the</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrisons</rs> <del>past is not</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>English past</del>. But <del>Harrisons real</del> the past</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">against which Harrison set the present <del>was not the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>English past</del> <del>But England only served</del> to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the English past only served to show the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the change that had come over homes, [functions?] &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clothing. <del>The</del> there was <add>[illeg.] English</add> no literature to <del>against</del> <add place=\"above\">to</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>which the dif decline of English</del> shows up the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

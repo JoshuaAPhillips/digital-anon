@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-5#xywh=950,36,186,202",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">27</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-5#xywh=896,216,1812,322",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for ever weaving nets and threading mazes \n            <choice>\n              <sic>mist</sic>\n              <corr>must</corr>\n            </choice> relax them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>slves</sic>\n              <corr>themselves</corr>\n            </choice>. The <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> must have players to divert her.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">With all his craft and caution he himself \n            <choice>\n              <sic>emdoies</sic>\n              <corr>embodies</corr>\n            </choice> \n            <choice>\n              <sic>substantias</sic>\n              <corr>substantiates</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his meditations, gives them a body, a name a shape.</l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>\"Nay, retire men cannot, when they would: \n              <choice>\n                <sic>neihter</sic>\n                <corr>neither</corr>\n              </choice> will they</l>\n            <l>when it were Reason: But are impatient of privateness</l>\n            <l>even in Age and Sicknesse, which require the \n              <choice>\n                <sic>Sa dow</sic>\n                <corr>[Shadow?]</corr>\n              </choice>:</l>\n            <l>Like old \n              <choice>\n                <sic>Townemen</sic>\n                <corr>Townsmen</corr>\n              </choice> that will still be sitting at their strete</l>\n            <l>d or door, those who thereby they offer \n              <choice>\n                <sic>Agge</sic>\n                <corr>Age</corr>\n              </choice> to Scorn.\"</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even the <add hand=\"ms\" place=\"above\">[crowd?]</add> pressure of great \n            <choice>\n              <sic>tho ts</sic>\n              <corr>thoughts</corr>\n            </choice> issue in a concrete shape.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">These short meditations were \n            <choice>\n              <sic>themslves</sic>\n              <corr>themselves</corr>\n            </choice> making it possible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for the dramatist to <add>[illeg.]</add> impart them where they seemed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>i appropitae</sic>\n              <corr>inappropriate</corr>\n            </choice>. <add hand=\"ms\" place=\"above\">For</add> Everything when times are \n            <choice>\n              <sic>abobrent</sic>\n              <corr>absorbent</corr>\n            </choice> yields</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some savour to the stew. The \n            <choice>\n              <sic>i responsible</sic>\n              <corr>irresponsible</corr>\n            </choice> \n            <choice>\n              <sic>mountbanks</sic>\n              <corr>mountebanks</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clothed in their \n            <choice>\n              <sic>invisble</sic>\n              <corr>invisible</corr>\n            </choice> garment of anonymity were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Gos spies, in the streets, also at Court.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gren\" key=\"Greenwich\">Greenwich</rs> or at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-whit\" key=\"Whitehall\">\n            <choice>\n              <sic>Whotehall</sic>\n              <corr>Whitehall</corr>\n            </choice></rs>, one of them caught sight</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of that grave \n            <choice>\n              <sic>inscrutbale</sic>\n              <corr>inscrutable</corr>\n            </choice> figure, he could \n            <choice>\n              <sic>uickly</sic>\n              <corr>quickly</corr>\n            </choice> add</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him to \n            <choice>\n              <sic>t</sic>\n              <corr>the</corr>\n            </choice> list of characters. And hyperbole, though the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>gr ndl gs</sic>\n              <corr>groundlings</corr>\n            </choice> lusted \n            <choice>\n              <sic>fot</sic>\n              <corr>for</corr>\n            </choice> it, required correction. Bacon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>despsing</sic>\n              <corr>despising</corr>\n            </choice> \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> \n            <choice>\n              <sic>thetre</sic>\n              <corr>theatre</corr>\n            </choice> for its hyperbole was \n            <choice>\n              <sic>hel</sic>\n              <corr>held</corr>\n            </choice> contempt for the stage \n            <choice>\n              <sic>w</sic>\n              <corr>was</corr>\n            </choice> medicinal. He was teaching them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to speak slowly, closely, subtly: to stiffen their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">poetry with prose: A great age is like youth in \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">individual. Any hint is heard. Any voice takes \n            <choice>\n              <sic>effcet</sic>\n              <corr>effect</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Criticism, a grave \n            <choice>\n              <sic>an</sic>\n              <corr>man</corr>\n            </choice> \n            <choice>\n              <sic>frwoning</sic>\n              <corr>frowning</corr>\n            </choice> in his corner of the royal</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">box is <add hand=\"ms\" place=\"above\">drawn into</add> affecting the current. And so, as \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> seasons pass,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the aristocratic contempt \n            <choice>\n              <sic>sevres</sic>\n              <corr>severs</corr>\n            </choice> to restrain; The \n            <choice>\n              <sic>cabbbed</sic>\n              <corr>crabbed</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">prose of Bacon is seized and \n            <choice>\n              <sic>transfomred</sic>\n              <corr>transformed</corr>\n            </choice>. The plays are</l>\n        "
+                ]
+            }
+        }
+    ]
+}

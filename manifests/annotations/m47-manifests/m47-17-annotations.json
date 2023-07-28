@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-17-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17#xywh=418,122,1992,624",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voluptuous, his love of sound, <del>his</del> <del>addiction</del> the sweetness of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his private vocabulary, he tried to harden &amp; <del>ground</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stiffen his poem with the ruder speech which <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">used. For there was nothing, in the years that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">came between the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">Canterbury Tales</rs> and the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for him to destroy; or to abolish.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17#xywh=508,722,640,108",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Then again</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17#xywh=458,792,1768,1564",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He stands then, at the threshold of the great hall,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&#8211; <quote source=\"#\" rend=\"inline\">\"a little man with short hair, a small hand &amp;</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">cuffs'</quote>&#8211; looking back at <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs>; &amp; <del>He</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This public is a reading aloud public of nobles;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; he has, <del>perhaps</del> <add place=\"above\">the</add> disturbing [anticipation?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of a language to whuch anything may happen.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His desire to fasten to to the old English of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Chaucer arose perhaps from <del>his</del> a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sense <del>that we cannot</del> sense long lost to us -&#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a sense of the future. <del>Suppose that he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Why <del>look back to Chaucer, why graft his</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">what was going to happen to this new</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[attendantly?] growing speech which he must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with his sensibility to words he must have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">felt &#8211; everywhere &#8211; in talk, in songs &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>it</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17#xywh=560,2300,1488,788",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And <del>so we reach the force wh.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The future</del> <del><del>This is a sense that only comes</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The sense of the future is almost extinct, now.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But then, the writer must have been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aware, with the agitation of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that <del>something</del> it was all to come.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-13-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-13#xywh=636,74,2056,2628",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>to</del> <del>one of the</del> <del>the</del> <del>one of the [staple?], one of the</del> to enjoy singing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">enjoy hearing;&#8211;the song, [must?] be <del>among</del> the most deep rooted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <del>the</del> toughest of <add>all</add> human [inventions?] [its?]. <del>But</del> <del>But</del> And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>like</del> <del>the instinct</del> an invention of self-preservation, perhaps:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">only <del>by</del> when we put two &amp; two together do we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[require?]. <del>Two &amp; two maybe</del> two lines, two words, two</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bricks. <del>But</del> <del>The</del> Making whatever it is defies <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dissolution; <del>which is</del> &amp; <del>if we</del> <del>this accounts for</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the passion with which we seek <add place=\"above\">out</add> these creations, <del>is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in body, <del>[mind? music?] perhaps,</del> buildings according to <del>our</del></l> ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>is</del> seems to be <del>concerned with</del> <add place=\"above\">the [shape?]</add> of a piece with our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>longing</del> love of life. No poet would <add place=\"above\">put</add> write his hatred of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">life into words unless he <del>had a</del> <del>wished</del> loved <del>life</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del>when</del> <add place=\"above\">with</add> the printing press came into existence</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> <del>those other</del> forces <del>which</del> <del>with \n            <choice>\n              <sic>wh</sic>\n              <corr>which</corr>\n            </choice> we are</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>familiar: we know them so well that</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which cover <add place=\"above\">over</add> the song; &#8211; books themselves:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <del>then</del> the readers of books. <del>are</del> <del>covered with</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>at the important [illeg.]</del> <del>If we</del> Could we at this moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>by the use of some [illeg.]</del> X ray the singers mind, we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">should find, like a <del>nebulous</del> nimbus surrounding the song,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"> influences, <del>of</del> <del>streaming around him;</del> <del>the tug</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his clan; his family; <del>his</del> <del>the</del> the newspaper; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Editor: so many, &amp; some so obscure, that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we may call them by fanciful names &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-nin\" key=\"Nin\">Nin</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-crot\" key=\"Crot\">Crot</rs> &amp; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-pull\" key=\"Pulley\">Pully</rs>... Nin Crot &amp; Pully they are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">always at their tasks: <del>&amp; if</del> More &amp; more</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">complex they become as time passes. So the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">song is only too be discovered with great searching</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>and we must [fuss?]</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">a stream of</add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-13#xywh=304,478,308,228",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>do we</l>\n            <l>make way</l>\n            <l>again</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-13#xywh=324,2346,356,416",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\"> <!-- ask for another set of eyes on this -->\n            <l>[his?] and</l>\n            <l>[illeg.]</l>\n            <l>rung</l>\n            <l>under the [illeg.]</l>\n            <l>an [illeg.]</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-13#xywh=666,2570,1976,896",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> died then in 1476. That first author, that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">babbling, child like, <del>had</del> [stay?] fellow... <del>the</del> who was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">half the audience; &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And to <del>seek</del> follow his fortunes, we might turn  to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an outsider, one of those commentators, who tell us</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so much about <rs type=\"person\" ref=\"../resources/annotations.xml#psn-nin\" key=\"Nin\">Nin</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-crot\" key=\"Crot\">Crot</rs> &amp; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-pull\" key=\"Pulley\">Pully</rs>. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs> his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">name was</l>\n        "
+                ]
+            }
+        }
+    ]
+}

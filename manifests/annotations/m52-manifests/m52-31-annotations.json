@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-31-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-31#xywh=714,93,146,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">17</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-31#xywh=684,224,1992,968",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were necessary. Just as one tolerates the person who says what we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are all too proud or too self conscious to say, the minstrel was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>despsied</sic>\n              <corr>despised</corr>\n            </choice> but \n            <choice>\n              <sic>toelerated</sic>\n              <corr>tolerated</corr>\n            </choice>. Even the churchmen aware that the homage</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was paid not their god but the old discarded god, could not suppress</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>misnters</sic>\n              <corr>minstrels</corr>\n            </choice>; \n            <choice>\n              <sic>Alll</sic>\n              <corr>all</corr>\n            </choice> they could do was to make the irrepressible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>sinsinct</sic>\n              <corr>instinct</corr>\n            </choice> flow into the correct religious channel. If they could they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">constrained the jugglers and the bear leaders and the dancers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to put off their leaves, their bells, and striped \n            <choice>\n              <sic>clthing</sic>\n              <corr>clothing</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and robe \n            <choice>\n              <sic>them sleves</sic>\n              <corr>themselves</corr>\n            </choice> in the garb proper to the \n            <choice>\n              <sic>miravle</sic>\n              <corr>miracle</corr>\n            </choice> play.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-31#xywh=674,1182,2028,12",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This was a great bond between the great house and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>coottage</sic>\n              <corr>cottage</corr>\n            </choice>. For \n            <choice>\n              <sic>thoug t eh</sic>\n              <corr>though the</corr>\n            </choice> great speaking \n            <choice>\n              <sic>frech nglish</sic>\n              <corr>French, English</corr>\n            </choice>, with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Latin and \n            <choice>\n              <sic>reek</sic>\n              <corr>Greek</corr>\n            </choice> on their \n            <choice>\n              <sic>to gues</sic>\n              <corr>tongues</corr>\n            </choice>, might despise the jargon of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">peasant, they shared the memory of what he was doing when he danced,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they knew the old story he acted. Even to the King himself,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it was certain that an evil \n            <choice>\n              <sic>sp it</sic>\n              <corr>spirit</corr>\n            </choice> dwelt in the woman in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hovel. When the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-pill\" key=\"Pilliwinks\">\n            <choice>\n              <sic>pilliw nks</sic>\n              <corr>pilliwinks</corr>\n            </choice></rs> were applied to her she confessed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">how she \n            <choice>\n              <sic>h d</sic>\n              <corr>had</corr>\n            </choice> gone to sea in a sieve with two \n            <choice>\n              <sic>hu dred</sic>\n              <corr>hundred</corr>\n            </choice> other \n            <choice>\n              <sic>witched</sic>\n              <corr>witches</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and danced a reel how she had thrown a cat \n            <choice>\n              <sic>intot he</sic>\n              <corr>into the</corr>\n            </choice> sea and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">raised a \n            <choice>\n              <sic>stor</sic>\n              <corr>storm</corr>\n            </choice> that sunk the \n            <choice>\n              <sic>kin s</sic>\n              <corr>kings</corr>\n            </choice> ship. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> \n            <choice>\n              <sic>haerd</sic>\n              <corr>heard</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>r ymers</sic>\n              <corr>rhymers</corr>\n            </choice> and the \n            <choice>\n              <sic>mummenrs</sic>\n              <corr>mummers</corr>\n            </choice>. He was at \n            <choice>\n              <sic>he</sic>\n              <corr>the</corr>\n            </choice> festival when the</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-31#xywh=722,2378,1226,24",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>And after her came jolly june arrayed</l>\n            <l>All in greene leaves, as she a player were.</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-31#xywh=680,2600,2020,708",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He had seen the man at the festival, and noted his green leaves</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> had seen the masque at \n            <rs type=\"place\" ref=\"../resources/annotations.xml#pla-keni\" key=\"Kenilworth\"><choice>\n              <sic>Kenilsowrth</sic>\n              <corr>Kenilworth</corr>\n            </choice></rs>. It was a revival,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">already time had given those green leaves their mystery <add hand=\"ms\" place=\"above\">[illeg.]</add>. Already the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">other house was being built: \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-phen\" key=\"Henslowe, Philip\"><choice>\n              <sic>enslowew</sic>\n              <corr>Henslowe</corr>\n            </choice></rs> had jotted down in \n            <choice>\n              <sic>h</sic>\n              <corr>his</corr>\n            </choice> account</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book the \n            <choice>\n              <sic>ums</sic>\n              <corr>sums</corr>\n            </choice> he had paid for \n            <choice>\n              <sic>laths</sic>\n              <corr>lathes</corr>\n            </choice> and nails and timber to build a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">play house. He had given so much for painting the theatre. He</l>\n        "
+                ]
+            }
+        }
+    ]
+}

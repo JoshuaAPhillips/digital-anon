@@ -1,0 +1,77 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-1-annotations/m112-1-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-2#xywh=861,44,161,158",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">33</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-2#xywh=815,180,1826,1996",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">manner brings in suggestions that give it another meaning</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">almost. <add hand=\"ms\" place=\"above\">the word suggests often the manner of the clothes.</add> We cannot shut out the contrast often between</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the past and the present. And as the habit of reading becomes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">universal many \n            <choice>\n              <sic>varities</sic>\n              <corr>varieties</corr>\n            </choice> of reader split off.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There are the \n            <choice>\n              <sic>specilaised</sic>\n              <corr>specialised</corr>\n            </choice> readers whose power of drawing out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the meaning of words is tremendously developed; so that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remain attached to certain aspects of the \n            <choice>\n              <sic>rinted</sic>\n              <corr>printed</corr>\n            </choice> page;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the scholars, the \n            <choice>\n              <sic>sudents</sic>\n              <corr>students</corr>\n            </choice>. \n            <choice>\n              <sic>Agaian</sic>\n              <corr>Again</corr>\n            </choice> there is the very</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">large \n            <choice>\n              <sic>vlass</sic>\n              <corr>class</corr>\n            </choice> of perfectly literate people \n            <choice>\n              <sic>whoruns</sic>\n              <corr>who run</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who run their eyes over miles of print yet never read a word.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">The reader at the moment is probably the [illeg.] reader.</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When the reader proper, with his power to \n            <choice>\n              <sic>m kae</sic>\n              <corr>make</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ouses</sic>\n              <corr>houses</corr>\n            </choice> and countries visible, men and women and their \n            <choice>\n              <sic>though</sic>\n              <corr>thoughts</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and emotions from marks on a \n            <choice>\n              <sic>ice</sic>\n              <corr>piece</corr>\n            </choice> \n            <choice>\n              <sic>eof</sic>\n              <corr>of</corr>\n            </choice> paper bec</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">came into existence <del hand=\"ms\">it is difficult to say.</del> He is always</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>chnaging</sic>\n              <corr>changing</corr>\n            </choice>. The <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cine\" key=\"Cinema\">cinema</rs> is now \n            <choice>\n              <sic>develpoing</sic>\n              <corr>developing</corr>\n            </choice> his eye. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-broa\" key=\"Broadcast\">Broadcast</rs> is developing his ear. The fate \n            <choice>\n              <sic>if</sic>\n              <corr>of</corr>\n            </choice> literature of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>course is in his hands</del>. <add hand=\"ms\">But</add> Axxxhe <add>He is <del>still</del></add> is still <del>apparently</del> reading</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Shakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-2#xywh=811,2156,1826,126",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">One reason why \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Shakespare</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> is still read is simply</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the inadequacy of \n            <choice>\n              <sic>Shakespriean</sic>\n              <corr>Shakespearean</corr>\n            </choice> <choice>\n              <sic>cri  cism</sic>\n              <corr>criticism</corr>\n            </choice>. <del hand=\"ms\">The</del> inadequacy of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that criticism is means that is due of course to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is always autobiographical criticism.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxxxxxxxxxxxx It is a\n            <choice>\n              <sic>comm nplace</sic>\n              <corr>commonplace</corr>\n            </choice> \n            <choice>\n              <sic>tp</sic>\n              <corr>to</corr>\n            </choice> say that every</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">critic finds his own features in \n            <choice>\n              <sic>Shakepare</sic>\n              <corr>Shakespeare</corr>\n            </choice>. His variety</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is such that every one wxxxx can find scattered here or</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there the <add hand=\"ms\" place=\"above\">[that which?] he can</add> \n            <choice>\n              <sic>develop ent</sic>\n              <corr>development</corr>\n            </choice> of some one of his own \n            <choice>\n              <sic>attrbutes</sic>\n              <corr>attributes</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The critic then accents what is he is responsive to, and so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">composes his own meaning, in \n            <choice>\n              <sic>Shakesperes</sic>\n              <corr>Shakespeare's</corr>\n            </choice> words.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <rs type=\"person\" ref=\"../resources/annotations.xml#psn-sjoh\" key=\"Johnson, Samuel\">Johnson</rs> S. the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-stco\" key=\"Coleridge, Samuel Taylor\">Coleridge</rs> S. the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-acbr\" key=\"Bradley, A. C.\">Bradley</rs> S.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

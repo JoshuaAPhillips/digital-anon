@@ -1,0 +1,72 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-10-annotations/m1-8-10-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-5#xywh=799,120,1758,268",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">meditations in real people, acting a story. And so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the vast accumulations that have littered from books</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">down into the great [college?] room <del>flow</del> meander</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">over the page. He cannot write a sentence without</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remembering what some other man has said. <del>But</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>instead of</del> <del>His vision is multiple. He sees</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the eyes of a thousand men; yet <del>about</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He uses the eyes of a thousand dead men to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">verify what he sees. <del>Yet</del> He <del>does not</del> Yet all</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">these reflections serve to enrich his own vision.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Man is <del>melancholy, now</del> <del>But he has been</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Man has been melancholy always; in Greece in Rome;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he has been read always; he has been cruel; he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has tortured &amp; killed; &amp; even in England</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>yet there</del> is a tolerance in his soliloquy: he is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He sees through a thousand <quote source=\"#\" rend=\"inline\">green shades</quote> what lies</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">immediately before him &#8211; the unhappy heart of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">man. Yet these innumerable instances of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">passion, of melancholy, the reflections serve to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chequer the immediate spectacle. There is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> From books he has won <del>the</del> tolerance,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mediations, the sense that we are not single</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">figures, but <del>so</del> innumerably repeated; <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>individual comes</del> <del>He</del> In pursuit of melancholy he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">travels over the whole world, though he has never</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">left his college room. [pirtances?] are drawn</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from all [guardu?]. <del>They</del> are illustrated by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anecdotes. <del>And then</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>For th</del> Yet though the theme is Melancholy, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">treatment is humorous. <del>Over the</del> We are at a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remove from the thing treated. We are evading it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">generally. We are engaging the spectacle of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">melancholy, not sharing in its anguish.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-5#xywh=813,2706,1663,652",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That is the <del>present</del> gift of the book &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There we develop the other <del>gif</del> faculties that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the play left dormant: to [sense?], to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>speculate, to</del> the private faculties: the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the      to gloss, to [treat?], to compare, to feel our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">eyes upon the writer, &amp; to find at the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

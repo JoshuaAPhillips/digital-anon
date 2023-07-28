@@ -1,0 +1,100 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-2-annotations/m111-2-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5#xywh=929,58,155,161",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">31</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5#xywh=981,226,553,163",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The RxxxxReader.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-2-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5#xywh=860,380,1836,306",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The audience at the \n            <choice>\n              <sic>Elizabetahn</sic>\n              <corr>Elizabethan</corr>\n            </choice> play was not an \n            <choice>\n              <sic>audiejce</sic>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of readers. They had to draw \n            <choice>\n              <sic>int</sic>\n              <corr>in</corr>\n            </choice> the play through their ears, through their eyes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They could not deepen the impression and renew</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it at a table in a private room. This perhaps explains</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the scarcity of Elizabethan criticism; and the general nature</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of what criticism there is. Both <rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sidney</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Jonson</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">deal with the general rules of poetry; not with the \n            <choice>\n              <sic>particuar</sic>\n              <corr>particular</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">play or poem. The lack of a book of the words accounts too</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for the long pause, between <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Sahkepares</sic>\n              <corr>Shakespeare's</corr>\n            </choice></rs> death</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the eighteenth century, \n            <choice>\n              <sic>whe</sic>\n              <corr>when</corr>\n            </choice> the plays of \n            <choice>\n              <sic>Shakepere</sic>\n              <corr>Shakespeare</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">even hang suspended, \n            <choice>\n              <sic>unrea ised</sic>\n              <corr>unrealised</corr>\n            </choice>. They had to wait until the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">printed book was in many hands before they received</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the life that the reader \n            <choice>\n              <sic>co fers</sic>\n              <corr>confers</corr>\n            </choice> Much that was lost</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the playhouse was \n            <choice>\n              <sic>disocvered</sic>\n              <corr>discovered</corr>\n            </choice> in the private room.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But \n            <choice>\n              <sic>mu h</sic>\n              <corr>much</corr>\n            </choice> was lost for ever when the playhouse shut.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Txmxmmxmxmxmxmmxmxmxmmxmxmxmxmxm We have lost the sound of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spoken word; all that the sight of the actors bodies</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">suggests to the mind through the eye. We have lost the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sense of being part of the audience. We miss a \n            <choice>\n              <sic>th usnd</sic>\n              <corr>thousand</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">suggestions that the dramatist conveyed by the inflection</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of voice, by gesture, by the placing of the actors bodies.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This can still be proved by comparing our impression</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>aft</sic>\n              <corr>after</corr>\n            </choice> seeing the play acted with our impression after reading</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the play alone. But as the actor \n            <choice>\n              <sic>ipmports</sic>\n              <corr>imports</corr>\n            </choice> much that is of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his own day, and \n            <choice>\n              <sic>foreing</sic>\n              <corr>[foreign?]</corr>\n            </choice> to the past, so that there is t</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still something in every Elizabethan play sunk beyond recall.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-2-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We can be sure then that the reader has been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in existence for round about four hundred years. But his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">life history is an obscure one. At some point his ear must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have lost \n            <choice>\n              <sic>i s</sic>\n              <corr>its</corr>\n            </choice> \n            <choice>\n              <sic>acutness</sic>\n              <corr>acuteness</corr>\n            </choice>; then his \n            <choice>\n              <sic>eyees</sic>\n              <corr>eyes</corr>\n            </choice> became dulled.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Later he became more conscious of the suggestions and echoes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in words. He imported much into the \n            <choice>\n              <sic>w itten</sic>\n              <corr>written</corr>\n            </choice> word that was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unintended xxxxxxx by the writer. A word given in its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Elizabethan spelling brings in suggestions that give it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">almost another meaning. The words suggest other manners,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">other clothes. They accent the contrast between one society</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and another. And as the habit of reading becomes universal,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">many \n            <choice>\n              <sic>varities</sic>\n              <corr>varieties</corr>\n            </choice> of reader are created. There are the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>s ecialised</sic>\n              <corr>specialised</corr>\n            </choice> readers whose power of \n            <choice>\n              <sic>darwing</sic>\n              <corr>drawing</corr>\n            </choice> out the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

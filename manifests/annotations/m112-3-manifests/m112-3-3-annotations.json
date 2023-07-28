@@ -1,0 +1,73 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-3-annotations/m112-3-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-3#xywh=865,52,233,162",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">36</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-3#xywh=899,196,1715,1788",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">As the habit of reading becomes universal, readers split off</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">into different classes. There is the \n            <choice>\n              <sic>specilaised</sic>\n              <corr>specialised</corr>\n            </choice> reader, who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attaches himself to certain aspects of the \n            <choice>\n              <sic>rpinted</sic>\n              <corr>printed</corr>\n            </choice> word.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Again there is the very large class of perfectly literate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">people who strip many miles of print yearly from paper</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">yet never read a word. Finally \n            <choice>\n              <sic>ere</sic>\n              <corr>there</corr>\n            </choice> is the reader like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"typewriter\" place=\"above\">who, like</add> Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">\n            <choice>\n              <sic>AnnnClifford</sic>\n              <corr>Ann Clifford</corr>\n            </choice></rs> read excellent <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">\n              <choice>\n                <sic>C aucers</sic>\n                <corr>Chaucer's</corr>\n              </choice></rs> book when they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are in trouble <quote source=\"#\" rend=\"inline\">\"and a little part of his beauteous spirit</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">infuses itself in me.\"</quote> Hexmxmmxmxmxmxmxmxmmx And the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">curious faculty --the \n            <choice>\n              <sic>pow r</sic>\n              <corr>power</corr>\n            </choice> to make places and houses,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">men and women and \n            <choice>\n              <sic>theit</sic>\n              <corr>their</corr>\n            </choice> thoughts and emotions \n            <choice>\n              <sic>vivible</sic>\n              <corr>visible</corr>\n            </choice> on</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the printed page is a xxxx always changing. The <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cine\" key=\"Cinema\">cinema</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">now \n            <choice>\n              <sic>develping</sic>\n              <corr>developing</corr>\n            </choice> his eyes; the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-broa\" key=\"Broadcast\">Broadcast</rs> is \n            <choice>\n              <sic>develpoing</sic>\n              <corr>developing</corr>\n            </choice> his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ear. His importance can be gauged by the fact</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that when his attention is distracted, in times of public</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crisis, the writer exclaims: I can write no more.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-3#xywh=899,1996,1683,126",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the presence of the reader was felt even</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">while the play was still on \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> stage. It was for him that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-rbur\">Burton</rs> composed that \n            <choice>\n              <sic>extraodinary</sic>\n              <corr>extraordinary</corr>\n            </choice> composition the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-anat\" key=\"Anatomy of Melancholy\">Anatomy</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-anat\">of Melancholy</rs>. It is there that the reader makes his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">first appearance, for it is there that we find the writer</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">completely conscious of \n            <choice>\n              <sic>is</sic>\n              <corr>his</corr>\n            </choice> relation with the reader.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxx and He reveals himself. I am a \n            <choice>\n              <sic>bachelor</sic>\n              <corr>batchelor</corr>\n            </choice>I am neither</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rich nor poor. I am a tumbler over of other mens books.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">I live in college rooms. I am a spectator not an actor.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is \n            <choice>\n              <sic>n</sic>\n              <corr>no</corr>\n            </choice> playhouse audience forcing him to embody his</l>\n        "
+                ]
+            }
+        }
+    ]
+}

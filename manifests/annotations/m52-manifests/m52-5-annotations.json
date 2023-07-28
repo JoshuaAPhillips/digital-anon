@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-5#xywh=1223,109,140,102",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">3</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-5#xywh=940,214,1788,552",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was the printed book with the authors name attached that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was the death of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>. <add hand=\"ms\" place=\"above\">After that</add>The audience was separated from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the singer. After that (1478) the sing was attached to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the singer. Anon gives place to James or Thomas; he lives in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in a house; and he has books.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-5#xywh=1494,835,344,86",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">....2....</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-5#xywh=920,932,1784,256",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The heart of this vast proliferation of printed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pages is the song. The song has the same power over the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reader in the 20th century as over the hearer in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">11th. To enjoy singing, to enjoy \n            <choice>\n              <sic>h aring</sic>\n              <corr>hearing</corr>\n            </choice> the song,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must be the deepest rooted and tough of human instincts.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is an instinct of self-preservation, for only when we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">put two and two together to we overcome dissolution. Two</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lines, two words, two \n            <choice>\n              <sic>bri cks</sic>\n              <corr>bricks</corr>\n            </choice> make way against oblivion.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">Making whatever it is gives us life;</del> and the passion</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with which we seek for these creations, and attempt to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">make them, is of a piece with the instinct that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sets us preserving our bodies from wet, or cold.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But with the printing press came into existence</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">forces that cover over the original song--books</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">themselves and the readers of books. Could we at this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this moment X ray the singers mind we shound <add hand=\"ms\" place=\"inline\">f</add>ind</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a nimbus surrounding the song; a \n            <choice>\n              <sic>st eam</sic>\n              <corr>stream</corr>\n            </choice> of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">influences <del hand=\"ms\">to which so many ugly \n            <choice>\n              <sic>abstarct</sic>\n              <corr>abstract</corr>\n            </choice></del> names have been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">given-- <del hand=\"ms\">influences</del> of <del hand=\"ms\">society</del>; of education; of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">class; <add hand=\"ms\" place=\"above\">material; economic</add> of \n            <choice>\n              <sic>econmic</sic>\n              <corr>economic</corr>\n            </choice> stress. So many are they and so</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">obscure that we may call them nonsense names--</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">say <rs type=\"person\" ref=\"../resources/annotations.xml#psn-nin\" key=\"Nin\">Nin</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-crot\" key=\"Crot\">Crot</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-pull\" key=\"Pulley\">Pully</rs>. Nin Crot and Pully are always</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at their task. \n            <choice>\n              <sic>?ore</sic>\n              <corr>More</corr>\n            </choice> and more [complex]</l>\n        "
+                ]
+            }
+        }
+    ]
+}

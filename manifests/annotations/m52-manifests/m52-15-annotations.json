@@ -1,0 +1,36 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-15#xywh=860,84,180,172",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">9</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-15#xywh=882,234,1636,276",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no actors, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Shakeapere</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> might \n            <choice>\n              <sic>hev eben</sic>\n              <corr>have been</corr>\n            </choice> \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mich\" key=\"Michelangelo\"><choice>\n              <sic>Michael Angelo</sic>\n              <corr>Michelangelo</corr>\n            </choice></rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-raph\" key=\"Raphael\">\n            <choice>\n              <sic> a hael</sic>\n              <corr>Raphael</corr>\n            </choice></rs>, and <rs type=\"person\" ref=\"../resources/annotations.xml#cmar\" key=\"Marlowe, Christopher\">\n              <choice>\n                <sic>Marloew</sic>\n                <corr>Marlowe</corr>\n              </choice></rs> our first great musician.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

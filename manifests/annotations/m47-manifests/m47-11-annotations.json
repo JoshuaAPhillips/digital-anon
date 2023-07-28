@@ -1,0 +1,94 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-11#xywh=422,133,76,126",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">3</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-11#xywh=479,152,1887,272",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">depths of silence, writing that <del>was</del> <del>long</del> vast poem</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-11#xywh=411,376,1917,2392",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The artist however had chosen his medium. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great English art was not to be <del>l</del> music, or painting:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it was to be the art of words. And if we call</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">we call</add> Spenser the first artist, it is because we <del>can</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>are aware of his</del> <del>of his</del> <add place=\"above\">he was</add> awareness of his medium</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He was conscious not only of his public, not only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of his own need, a poor man, of patronage &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">support, but of the <del>limitations of the</del> fact that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the language was truly an [incitement?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It</del> \"Let us be Kings of our language...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Let</del> In order <del>to be an artist, must one</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer, like the chronicler, in order to see his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">medium cautiously, must be aware of the past</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>There</del> There must be a golden age behind him; &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>y</del> the present must be fallen, degenerate.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But which <del>we</del> the modern writer, who has a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">long tradition behind him, <del>who</del> naturally</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attacks the <del>old</del> generation which has just</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">past, thus giving himself a person to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">revolt against, the writer in Spenser's time,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had no definite past. This is a more general</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reaction. This <del>rather</del> a sense of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[delicacy? debauchery?] the decay the language of its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that he has to correct, rather than</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his actual predecessors.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-11#xywh=561,2720,1771,696",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Thus Spenser, on the threshold of his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">work as a poet, did not demolish his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">predecessors; he complained of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">debasement of English speech: <del>&amp; the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He <del>used</del> the old <del>Chaucerian</del> language</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">recovered the old words, <del>the</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucers</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words. <del>He</del> Curious perhaps of his own</l>\n        "
+                ]
+            }
+        }
+    ]
+}

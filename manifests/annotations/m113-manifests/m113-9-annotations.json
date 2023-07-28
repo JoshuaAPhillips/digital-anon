@@ -1,0 +1,27 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-9#xywh=772,108,1716,836",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But as most of these attempts have only added to \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>autobigraph</sic>\n              <corr>autobiography</corr>\n            </choice> of the critic, the reader decides wisely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">perhaps to keep \n            <choice>\n              <sic>Shakepare</sic>\n              <corr>Shakespeare</corr>\n            </choice> there not so much as a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book into which digging will perhaps turn up</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">something that sets a crown; The better part is to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have him in the mind; \n            <choice>\n              <sic>un reduced</sic>\n              <corr>unreduced</corr>\n            </choice>; but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the one writer who is never completely read.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

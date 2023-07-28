@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-5#xywh=711,48,1941,784",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is an entry in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-phen\" key=\"Henslowe, Philip\">Henslowes</rs> diary, which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Henslowe in      had jotted down in his diary the cost of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the lathe, the nails, the timber that he had</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bought. For painting the theatre</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and for the clothes worn by the play Hens&#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that was the house that</del> the playhouse</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was being built on the Banks of the Thames.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-5#xywh=675,728,1949,132",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But how far was the author <add place=\"above\">playwright</add> in 1570 separate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> the minstrel, the ballad singer?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The past seems to be that, when Spenser</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Attached his name to the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Fairy Queen</rs>, the author of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-span\" key=\"Spanish Tragedy, The\">The Spanish Tragedy</rs> left his work gu unsigned</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This is a sign <del>of the</del> that there were two publics:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the reading, &amp; the playgoing. <del>There is a division</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It marks a distinction between two kinds of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writer &#8211; two methods, <del>too</del> two attitudes of mind.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If there had been no minstrel, would English literature </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had remained a read, a book literature?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No stage, no common art; but always one book to be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">read, privately; &#8211;</l>\n        "
+                ]
+            }
+        }
+    ]
+}

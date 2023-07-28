@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-3-annotations/m54-3-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-7#xywh=877,110,205,198",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">12</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-7#xywh=915,272,1761,2658",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Latimer had read the \n            <choice>\n              <sic>Lord</sic>\n              <corr>Lord's</corr>\n            </choice> Prayer in English. The Bible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was printed in English. And, using the prose of the bible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when they write prose, the \n            <choice>\n              <sic>Elixabethans</sic>\n              <corr>Elizabethans</corr>\n            </choice> are \n            <choice>\n              <sic>unknwon</sic>\n              <corr>unknown</corr>\n            </choice> to us.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When in some extremity of anguish or fear they take up the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pen they use the \n            <choice>\n              <sic>rhyms</sic>\n              <corr>rhythms</corr>\n            </choice> of the Bible. \n            <choice>\n              <sic>Itis</sic>\n              <corr>It is</corr>\n            </choice> a garment only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to be worn when the mind is in the right \n            <choice>\n              <sic>attidtue</sic>\n              <corr>attitude</corr>\n            </choice>. They can</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">say nothing simple, subtle, or \n            <choice>\n              <sic>breif</sic>\n              <corr>brief</corr>\n            </choice>. At <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gorh\" key=\"Gorhambury\">\n              <choice>\n                <sic>Gorham nury</sic>\n                <corr>Gorhambury</corr>\n              </choice></rs> Lady</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Anne\">Ann Bacon</rs> sat writing to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">her son</rs>. But her letters are like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>seroms</sic>\n              <corr>sermons</corr>\n            </choice>, or \n            <choice>\n              <sic>satte doucments</sic>\n              <corr>state documents</corr>\n            </choice>, intricate, involved,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">circumtutious. She is a counsellor admonishing a subordinate;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She \n            <choice>\n              <sic>e hosrts</sic>\n              <corr>exhorts</corr>\n            </choice> <quote source=\"#\" rend=\"inline\">God keep us sound in the faith</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and send us health and a care to please God before all.\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She admonishes <quote source=\"#\" rend=\"inline\">Be not speedy of speech, nor talk</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\n            <choice>\n              <sic>suuddenly</sic>\n              <corr>suddenly</corr>\n            </choice>, \n            <choice>\n                <sic>discrteion</sic>\n                <corr>discretion</corr>\n            </choice>\n            <choice>\n              <sic>requieth</sic>\n              <corr>requireth</corr>\n            </choice> and that</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">soberly then...\"</quote> If she has to descend to an actual object</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a basket of \n            <choice>\n              <sic>starwberries</sic>\n              <corr>strawberries</corr>\n            </choice> it is with c dark \n            <choice>\n              <sic>insintuat ons</sic>\n              <corr>insinuations</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Greek and \n            <choice>\n              <sic>atin</sic>\n              <corr>Latin</corr>\n            </choice> come as easily to her pen as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">English. There is no \n            <choice>\n              <sic>gaity</sic>\n              <corr>gaiety</corr>\n            </choice>, no freedom no \n            <choice>\n              <sic>familairty</sic>\n              <corr>familiarity</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in this world. Fear of God, \n            <choice>\n              <sic>suspciion</sic>\n              <corr>suspicion</corr>\n            </choice> of man surround</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the writer as with the \n            <choice>\n              <sic>wlls</sic>\n              <corr>walls</corr>\n            </choice> of a dungeon. The wall may</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">conceal a Lady Ann \n            <choice>\n              <sic>whois</sic>\n              <corr>who is</corr>\n            </choice>merry and gay; it may <del hand=\"ms\">conceal</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">must \n            <choice>\n              <sic>cobneceal</sic>\n              <corr>conceal</corr>\n            </choice> passion, laughter and sorrow;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but no one can tell who it is that lives on the other side</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the wall of formal \n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

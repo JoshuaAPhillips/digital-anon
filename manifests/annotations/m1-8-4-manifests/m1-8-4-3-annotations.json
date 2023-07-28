@@ -1,0 +1,78 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-3#xywh=795,74,1875,174",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">under cover of their flowery speech, the <del>real</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-efyt\" key=\"Fytton, Sir Edward\">Fitton</rs> &amp; the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wkno\" key=\"Knollys, Sir William\">Knollys</rs> &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Pembrokes remain unseen. We only know of the [exchange?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the plays that were acted <del>at</del> <del>in</del> on the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\" key=\"Bankside\">Bankside</rs> <del>that they felt</del> <del>excited</del> Anonymity</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>has</del> They too, like <del>Mar</del> the dramatist, are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>nameless.</del> anonymous. <del>Only</del> <del>But all</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But by a queer</del> <del>The</del> <del>The trappings are there.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No generation had more anxiety to preserve</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the substance from decay. The tombs</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>tombs</del> They <del>seem to pretend</del> Their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">graves are immaculately. <del>One</del> They defy death</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with their great tombs. In life they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">eat prodigously. They wear clothes that are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so heavy they can scarcely stand in them.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The outer life is as [illeg.]: as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>great</del> cloth of gold &amp; marble can make it.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But the passions <del>that</del> <del>hunt in the</del> heart</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>are</del> within are <del>silent</del> Until the dramatists</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speak <add place=\"above\">for</add> them on the stage, they themselves are silent.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-3#xywh=789,1778,1675,356",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l><del>A literature</del> The nobles in the</l>\n            <l>upper part of the house then supplied</l>\n            <l>their \n              <choice>\n                <sic>liverie</sic>\n                <corr>livery</corr>\n              </choice> the players &amp; the</l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-3#xywh=783,2066,1851,1276",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Their attachment to the substance of the earth;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>their</del> body; <del>their</del> the greed with which they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">acquire; their catalogues of property of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">furniture; their perpetual [illeg.] for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their estates. This has survived, in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">inventories, in little supplicating places;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>in the</del> For everything was their <del>at th</del> in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the gift of individuals, the family</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was the queen, or her nobles, who had the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[personal?] of patronage. <del>The</del> The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">patron was in his prime. The book</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">depended on his favour. And yet in no</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-1-annotations/m112-1-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-5#xywh=872,97,135,141",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">35</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-5#xywh=799,212,1811,1868",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so long as the play was \n            <choice>\n              <sic>domenant</sic>\n              <corr>dominant</corr>\n            </choice>. The audience at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>plahouse</sic>\n              <corr>playhouse</corr>\n            </choice> had to draw in the play with their eyes and ears.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Without a book of the words they could not deepen and revive</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the impression left by the play, or ask those questions that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are debated daily now in every newspaper. The lack of \n            <choice>\n              <sic>generl</sic>\n              <corr>general</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>r ading</sic>\n              <corr>reading</corr>\n            </choice> \n            <choice>\n              <sic>acconts</sic>\n              <corr>accounts</corr>\n            </choice> for the long pause between \n            <choice>\n              <sic>Sahkespsreas</sic>\n              <corr>Shakespeare's</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">death and the \n            <choice>\n              <sic>i8th</sic>\n              <corr>18th</corr>\n            </choice> \n            <choice>\n              <sic>centiry</sic>\n              <corr>century</corr>\n            </choice> when the plays of \n            <choice>\n              <sic>Shakespre</sic>\n              <corr>Shakespeare</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hung suspended \n            <choice>\n              <sic>unreaslied</sic>\n              <corr>unrealised</corr>\n            </choice>. Even in 17 - <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmor\" key=\"Morgann, Maurice\">Morgann</rs> could</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">say that \n            <choice>\n              <sic>Shakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice> still lacked half his proper fame.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It \n            <choice>\n              <sic>accojts</sic>\n              <corr>accounts</corr>\n            </choice> too for the scarcity of criticism, and for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">general nature of what \n            <choice>\n              <sic>critisim</sic>\n              <corr>criticism</corr>\n            </choice> there was. Both <rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sidney</rs> and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Jonson</rs> are writing for the \n            <choice>\n              <sic>s ll</sic>\n              <corr>[small? still?]</corr>\n            </choice> critical public,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and thus deal general questions \n            <choice>\n              <sic>andnot</sic>\n              <corr>and not</corr>\n            </choice> with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>partciularities</sic>\n              <corr>particularities</corr>\n            </choice> and \n            <choice>\n              <sic>personalitties</sic>\n              <corr>personalities</corr>\n            </choice>. Mxmxmxmxmmxmxmxmxmxe</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mxmxmmxmxmxmxmmmxmxmxmxmxmxmxmmxmxmxmxmmxmxmxmxmxmmxmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">primxmxmxmmxmxmxmxmxmxmxmxmxmxmxmmxmxmxmxmxmxmxmmxmxmxy</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmmxmxmxmxmxmxmxmxmx</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-5#xywh=843,2056,1803,596",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">A life history of the reader during the past</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">four hundred years would <add hand=\"typewriter\" place=\"above\">be needed</add> \n            <choice>\n              <sic>disocver</sic>\n              <corr>discover</corr>\n            </choice> at what point he lost</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>acuten ss</sic>\n              <corr>acuteness</corr>\n            </choice> of his eyes; of his ears. at what point he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>devloped</sic>\n              <corr>developed</corr>\n            </choice> \n            <choice>\n              <sic>he</sic>\n              <corr>the</corr>\n            </choice> power of \n            <choice>\n              <sic>asscoation</sic>\n              <corr>association</corr>\n            </choice>; so that now a word printed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the old spelling suggests a \n            <choice>\n              <sic>thosand</sic>\n              <corr>thousand</corr>\n            </choice> a</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-5#xywh=811,2688,1803,596",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The biographer of the reader during the past four</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hundred years \n            <choice>\n              <sic>w uld</sic>\n              <corr>would</corr>\n            </choice> discover at what point his ear lost</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">its acuteness; when his \n            <choice>\n              <sic>ey d</sic>\n              <corr>eyes</corr>\n            </choice> became dull; when to balance</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this loss, he became \n              <choice>\n                <sic>cosncious</sic>\n                <corr>conscious</corr>\n              </choice> of suggestions and echoes,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and as time passed added much that was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unintended by the wxmxmxx writer. It would show that</l>\n        "
+                ]
+            }
+        }
+    ]
+}

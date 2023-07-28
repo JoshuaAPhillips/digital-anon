@@ -1,0 +1,117 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-17-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17#xywh=653,24,1887,456",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the decline of English literature. <del>The great</del> <quote source=\"#\">\"English had gone</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">underground for four centuries...\"</quote> <del>The</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> had sung</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>an</del> his <del>uncouth strain</del> <add place=\"above\">song</add> at the back door, <del>or</del> in a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language which was as uncouth to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs> as to us</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17#xywh=837,430,1251,268",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\">\n            <l>Icham for woing al forwake,</l>\n            <l>Wery no water in wore &#8211;</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17#xywh=1135,626,475,1",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">....</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17#xywh=827,674,1607,264",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">An hendy hap ichabhe ghent</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Ichot from hevene it is me sent &#8211;</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17#xywh=649,844,2027,1776",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was as difficult for him to spell out those</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words as for us. <del>The readers of books</del> <del>The</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>books that were chained to the desk in the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>college libraries were written in a nobler tongue</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>They were written by</del>    The <del>literat</del> past, <del>in</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in literature was the past of the Greeks, of the Latins.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It was to that past that Harrison compared the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucers</rs> &amp; the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jgow\" key=\"Gower, John\">Gowers</rs> &amp; the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jlyd\" key=\"Lydgate, John\">Lydgates</rs></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That was the literature that occupied the same</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">place in Harrisons mind that the Elizabethans</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">occupy in our minds. <del>When the</del> The readers of his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">time were the learned men who had access to <del>the</del> college</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">libraries where the valuable books were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chained to the shelves. Or they were <del>noble men &amp;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>women, who</del> the nobles <quote source=\"#\">\"our ancient ladies of the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">court\"</quote> were <del>always</del> <add place=\"above\">for ever</add> reading the holy scriptures,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">\"or translating of other mens into our</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">English &amp; Latin tongues</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17#xywh=711,2584,1963,776",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so <del>that we s</del> <del>we do not see</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <del>Anon sang his songs</del> The parson then</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>when he looks back, sees</del> <del>has, for a background to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>his</del> does not see Anon, at all, when he looks</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">back; he sees <rs type=\"person\" ref=\"../resources/annotations.xml#psn-agrip\" key=\"Agrippa\">Henricus Cornelius Agrippa,</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-suet\" key=\"Suetonius\">Suetonius</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-plin\" key=\"Pliny\">Pliny</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cato\" key=\"Cato, Marcus\">Marcus Cato</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cice\" key=\"Cicero\">Cicero</rs>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

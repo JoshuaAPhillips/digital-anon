@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-9#xywh=616,60,2072,604",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a broadsheet at the, in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-chea\" key=\"Cheapside\">Cheapside</rs>; <del>a</del> <del>and</del> but you can see <del>at [illeg.]</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the author: <del>And</del> &amp; anonymity has become the cloak worn</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by those who wish to conceal. <del>Not</del> The old <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had nothing to conceal; <del>his audience was</del> <del>But</del> <del>It for his audience</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the audience was so little interested in him <add place=\"above\">his name</add> that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>adoption of a name was</del> he never thought to give it.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-9#xywh=640,660,1736,1156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The voice that broke <del>that silence was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; the voice that sang was like a birds voice.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was the voice of Anon singing out of doors.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Some one must have heard the song &amp; noted it,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for it was remembered, &amp; later written down.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The singer had his audience, but the audience was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so little interested in his name that he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">never thought to give it. The audience</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">took part in the song. [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they sang <del>or [claphed?], or</del> filling in the [illeg.];</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">helping out the meaning</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-9#xywh=702,1766,1840,1336",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del>author singer had no house, no name;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anon is only a voice; without <del>home, with</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sex, <del>without lodging</del><add place=\"inline\">|</add> He sings because the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spring has come, &amp; winter is gone; because he loves</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">because he is hungry; or thirsty; or merry.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His songs are rough; but remembered because they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>bear</del> everybody shares the emotion <add>&amp; knows the story.</add> <del>the love of</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Love; <del>&amp; fear, [depth?] &amp; laughter are</del> <del>original</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>pure</del> <del>emotions the</del> Anon therefore is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">common singer; the undifferentiated. <del>He is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sometimes woman; sometimes man. <del>We can</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>see him going</del> <del>never indoors</del>, along out of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">doors; seeing, <del>the if</del> <del>the</del> Anon is</l>\n        "
+                ]
+            }
+        }
+    ]
+}

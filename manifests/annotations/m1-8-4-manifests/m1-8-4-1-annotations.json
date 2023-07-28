@@ -1,0 +1,114 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1#xywh=807,136,575,156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that the Court</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1#xywh=817,246,1571,18",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del>hates</del> loves &amp; hates of the Elizabethans themselves</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1#xywh=785,410,1615,544",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Yet the</del> The <del>actual words of the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> <del>But</del> <del>Compared with their</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If we <del>turn from the play to the model</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It is a strange experience,</del> <del>this strange</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The nobles, who spoke so</del> It is strange to turn from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the stage to the private house. On the stage,</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1#xywh=773,970,1627,34",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l><del>Their inarticulateness is real</del></l>\n            <l>They spoke with great difficulty at the</l>\n            <l>court of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Elizabeth</rs></l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1#xywh=451,2128,231,312",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">9</add>"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1#xywh=795,1258,1819,2032",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Their own voices are <del>scarcely audible</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scarcely to be heard. <del>If we look into the</del></l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\"><l><del>heart of that</del> great room when Elizabeth sat</l></del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>within her</del> we can make out</del>the <del>beautiful</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mfyt\">daughter</rs> <del>of a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-efyt\" key=\"Fytton, Sir Edward\">Sir Edward Fylton</rs> knight, of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gaws\" key=\"Gawsworth\">Gawsworth</rs> in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-ches\" key=\"Cheshire\">Cheshire</rs>, <del>goes to Court</del> becomes one of Elizabeth's</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">maids of honour. <del>The court was</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wkno\" key=\"Knollys, Sir William\">Sir William</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wkno\" key=\"Knollys, Sir William\">Knollys</rs> vows that he wil not <quote rend=\"inline\" source=\"#\">\"fail to</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" rend=\"inline\" source=\"#\">\n            <l>to fulfil your desire in playing the good</l>\n            <l>shepherd &amp; will to thy power defend this</l>\n            <l>innocent lamb from the wolvish cruelty &amp;</l>\n            <l>foxlike subtlety of the tame beasts of this place...\"</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>And then, by a married man, falls in love with</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>her. And then</del> <del>Bit the</del> <del>No</del> Then there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silence. <del>Had</del> The curtain lifts surprisingly at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">odd intervals. <del>We see the</del> The old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] is free to seduce the girl. Again</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there is solence. The girl falls in love with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wpem\" key=\"Pembroke, William (Lord)\">Lord Pembroke</rs>. Gossip says she \n            <choice>\n              <sic>wd.</sic>\n              <corr>would</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dress up as a man in a large white</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cloak &amp; <del>[match?]</del> meet the earl privately.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Silence falls. Then she has home a parted.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

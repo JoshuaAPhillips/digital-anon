@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-11#xywh=1081,68,178,168",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">7</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-11#xywh=815,216,1839,2504",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great Elizabethan house is still in \n            <choice>\n              <sic>exist nce</sic>\n              <corr>existence</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sxpxmx standing in its green island of <add hand=\"ms\" place=\"above\">[herb?]</add> grass, separated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">often from the high road only by a sxmxmxx dip in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ground and <add hand=\"ms\" place=\"above\">a low red</add> an old wall. It <del hand=\"ms\">can be seen lying there,</del> out of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>proprtion</sic>\n              <corr>proportion</corr>\n            </choice> somehow, Either it is too big, or the village</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with its \n            <choice>\n              <sic>eignteen</sic>\n              <corr>eighteenth</corr>\n            </choice> \n            <choice>\n              <sic>ce tury</sic>\n              <corr>century</corr>\n            </choice> and \n            <choice>\n              <sic>tw ntieth</sic>\n              <corr>twentieth</corr>\n            </choice> century shops and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">villas is too small. \n            <choice>\n              <sic> ith</sic>\n              <corr>With</corr>\n            </choice> its \n            <choice>\n              <sic>congomeration</sic>\n              <corr>conglomeration</corr>\n            </choice> of roofs</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and chimneys, <del hand=\"ms\">garden</del> and chapels, it dwarfs its \n            <choice>\n              <sic>n  ghbours</sic>\n              <corr>neighbours</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the great \n            <choice>\n              <sic>Elizabethna</sic>\n              <corr>Elizabethan</corr>\n            </choice> house \n            <choice>\n              <sic>dwrafs</sic>\n              <corr>dwarfs</corr>\n            </choice> its \n            <choice>\n              <sic>neig bours</sic>\n              <corr/>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Inside all is kept as if the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> were expected. <add hand=\"ms\" place=\"after\">[illeg.]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The rooms are \n            <choice>\n              <sic>sti ll</sic>\n              <corr>still</corr>\n            </choice> the rooms the lords and \n            <choice>\n              <sic>l ies</sic>\n              <corr>ladies</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lived in. The upright \n            <choice>\n              <sic>Elizabethna</sic>\n              <corr>Elizabethan</corr>\n            </choice> chairs stand round the wall.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Their fringes and their tapestry is not much faded.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great carved tables are polished nad lustrous.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The carved <add hand=\"ms\" place=\"above\">[great?]</add> chests and cupboards look brand new.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even the toys and \n            <choice>\n              <sic>kicknacks</sic>\n              <corr>knick-knacks</corr>\n            </choice> have survived intact <add hand=\"ms\" place=\"inline\">:/</add> <add hand=\"ms\" place=\"inline\">inlaid</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">boxes;</add> Here are the inlaid work boxes, and the that the Queen \n            <choice>\n              <sic>nahdle</sic>\n              <corr>[needled?]</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as she sat upright on the faded pink day couch. And there,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is the swollen big \n            <choice>\n              <sic>bel ied</sic>\n              <corr>bellied</corr>\n            </choice> lute or theorbo,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on which she played, still resonant. The floor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is strewn with rugs; the windows curtained with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>silv r thraed</sic>\n              <corr>silver thread</corr>\n            </choice> brocades; <del hand=\"ms\"> and here are</del> the cut glass <add hand=\"ms\" place=\"inline\">Venice</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chandeliers <add hand=\"ms\" place=\"above\">[illeg.]</add> which lighted this byegone company.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-11#xywh=315,2194,539,692",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>&amp; the</l>\n            <l>varnished</l>\n            <l>pear-shaped</l>\n            <l>lute</l>\n            <l>upon which</l>\n            <l>the Queen</l>\n            <l>once</l>\n            <l>played.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-11#xywh=767,2728,1863,608",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But where are the Elizabethans <add hand=\"ms\" place=\"above\">people</add>? <del hand=\"ms\">They were more \n            <choice>\n              <sic>ehmepral</sic>\n              <corr>ephemeral</corr>\n            </choice></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">than their possessions.</del> <add hand=\"ms\" place=\"above\">Human</add> Life has \n            <choice>\n              <sic>recded</sic>\n              <corr>receded</corr>\n            </choice> \n            <choice>\n              <sic>fromthis</sic>\n              <corr>from this</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">convoluted iridescent shell; with its fringes and its laces,</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"ms\">\n            <l>its \n              <choice>\n                <sic>elborate</sic>\n                <corr>elaborate</corr>\n              </choice> carved legs, its \n              <choice>\n                <sic>lops</sic>\n                <corr>loops</corr>\n              </choice> and knots,</l>\n            <l>festoons and draperies upon which the spring sun of 1940</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">still shines so strong <add hand=\"ms\" place=\"above\">bright</add></del>. There is a gulf between them and</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m108-annotations/m108-10-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10#xywh=902,34,146,134",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">28</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10#xywh=880,176,1756,1276",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bed at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-dept\" key=\"Deptford\">Deptford</rs> reached out and stabbed <rs type=\"person\" ref=\"../resources/annotations.xml#psn-ifriz\" key=\"Frizer, Ingram\">Ingram</rs> in the head</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">whereupon Ingram gave \n            <choice>\n              <sic>Mar loew</sic>\n              <corr>Marlowe</corr>\n            </choice> a mortal wound over the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">right eye. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Ben Jonson</rs> ran <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gspe\" key=\"Spenser, Gabriel\">Gabriel Spenser</rs> through the body</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with a sword that cost three and sixpence. If such had been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the behaviour of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aten\" key=\"Tennyson, Alfred\">Tennyson</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rbro\" key=\"Browning, Robert\">Browning</rs>, <add place=\"above\"><!-- come back to this --> </add>, thxmxmxmmxmxmxmxmxmxmxmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxm <add place=\"above\"><!-- come back to this --> there would have been a gulf between them and</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Court. So \n            <choice>\n              <sic>com;lete</sic>\n              <corr>complete</corr>\n            </choice> was Bacons contempt for this under</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world that he could be tolerant. <quote source=\"#\">\"The Stage is more \n            <choice>\n              <sic>behilding</sic>\n              <corr>beholding</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">to Love than the life of Man.... great spirits and great</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">businesse do keep out of this weak passion.\"</quote> The proper</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">place for the weak passion was the stage, for love <quote source=\"#\" rend=\"inline\">\"leads to</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">speaking in <add hand=\"typewriter\" place=\"above\">a</add> \n            <choice>\n              <sic>perpetaul</sic>\n              <corr>perpetual</corr>\n            </choice> hyperbole.\"</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10#xywh=238,262,670,422",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"inline\" place=\"margin\">\n            <l><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wkem\" key=\"Kempe, William\">Kempe</rs>, one of the actors,</l>\n            <l><del hand=\"ms\">danced to</del></l>\n            <l>went dancing to <rs type=\"place\" ref=\"../resources/annotations.xml#pla-norw\" key=\"Norwich\">Norwich</rs>.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m108-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10#xywh=872,1488,1788,1924",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The proper topics of \n            <choice>\n              <sic>discccuion</sic>\n              <corr>discussion</corr>\n            </choice> in the \n            <choice>\n              <sic>pper</sic>\n              <corr>upper</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world was not the Play at \n            <choice>\n              <sic>t e</sic>\n              <corr>the</corr>\n            </choice> Bankside but the life of man.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <add place=\"above\" hand=\"typewriter\">titles</add> xxxxxxx of the Essays \n            <choice>\n              <sic>enumaerate</sic>\n              <corr>enumerate</corr>\n            </choice> <add hand=\"ms\" place=\"above\">the [illeg.]</add> of those topics.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"Of Truth. Of Death. Of Unity in religion. Of Revenge.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Of Simulation and \n            <choice>\n              <sic>Dissumlation</sic>\n              <corr>Dissimulation</corr>\n            </choice>.\" These were the subjects</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the rulers discussed at their high tables;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the play was a diversion with which to relax the mind</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">after serious work. The sediment of that conversation is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to be found in the rich deposits of the essays. He is concern</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the great world of action; with government; with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tortuous matures of Princes; with the arts by which Princes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">can \n            <choice>\n              <sic>way</sic>\n              <corr>sway</corr>\n            </choice>, can coax, can suppress. He lives entirely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the world of great spirits and great business. The common</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>peopl</sic>\n              <corr>people</corr>\n            </choice> is contemptible. <quote source=\"#\" rend=\"inline\">The master of superstition is</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\n            <choice>\n              <sic>t e</sic>\n              <corr>the</corr>\n            </choice> people.\"</quote> Praise, <quote>\"if it be from the common people,</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>it is commonly false and naught. The lowest virtues draw</l>\n            <l>praise from them; the middle virtues work in them astonish</l>\n          </quote>\n        "
+                ]
+            }
+        }
+    ]
+}

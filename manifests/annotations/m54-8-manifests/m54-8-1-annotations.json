@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1#xywh=945,42,191,166",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">16</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1#xywh=958,188,1662,892",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The road led to the old graves, to the stones where the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old pagan English had offered sacrifice. The peasants still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">went that way, in \n            <choice>\n              <sic>spir ng</sic>\n              <corr>spring</corr>\n            </choice>, summer and winter, by instinct.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The old Gods \n            <choice>\n              <sic>stil</sic>\n              <corr>still</corr>\n            </choice> lay hidden beneath the new.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even if they were now nameless, it was to txxxxx do them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">homage, to win crops, husbands, health, that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">peasants came amxmxmxmxmxmxm in spring summer and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">winter.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-1#xywh=911,1104,1830,2124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is the printing press that we owe their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">preservation. <quote source=\"#\" rend=\"inline\">\"After that I had accomplished and \n            <choice>\n              <sic>finsihed</sic>\n              <corr>finished</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">divers histories\"</quote> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs> wrote in \n            <choice>\n              <sic>41470</sic>\n              <corr>1470</corr>\n            </choice> in the preface</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mort\" key=\"Morte d'Arthur\">Morte DArthur</rs>, <quote source=\"#\">\"many noble and divers gentlemen</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">of this realm of England came and demanded me many and oft</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">times ..... to imprint the history of the said noble king</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and conqueror <rs type=\"person\" ref=\"../resources/annotations.xml#psn-kart\" key=\"Arthur (King)\">King Arthur</rs>, and of his knights with the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">history of the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-gral\" key=\"Holy Gral (Sang Gral)\">San greal</rs> and of the death and ending of</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">the said Arthur.\"</quote> The twenty one books of the Morte DArthur</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">preserve what lay \n            <choice>\n              <sic>benea th</sic>\n              <corr>beneath</corr>\n            </choice>, <add><!-- come back to this later --></add>\n            <choice>\n              <sic>Ther</sic>\n              <corr>there</corr>\n            </choice> we tap into the deep reservoir</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of common belief that lay behind <add><!-- come back to this later --> </add>the peasant and the noble.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The \n            <choice>\n              <sic>legnd</sic>\n              <corr>legend</corr>\n            </choice> was still alive in the nineteenth century.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"...folks do say\"</quote> said a peasant at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-cadb\" key=\"Cadbury\">Cadbury</rs> <quote source=\"#\">that on the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">night of the full moon King \n            <choice>\n              <sic>Arthus</sic>\n              <corr>Arthur</corr>\n            </choice> and his men ride round</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">the hill, and their horses are shod with silver...\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">A silver horseshoe, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jlel\" key=\"Leland, John\">Leland</rs> says, was found in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hen8\" key=\"Henry VIII\"/></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">time at <rs type=\"person\" ref=\"../resources/annotations.xml#pla-came\" key=\"Camelot\">Camelot</rs>. It is in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malorys</rs> pages that we hear the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice of anon murmuring in the mind of King and Queen and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">peasant, They remembered how the old King</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-7-annotations/m1-8-7-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5#xywh=797,48,1583,1912",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shiny slab of mud beneath the warehouses; &amp; <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St Pauls</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rises. The gulls are swooping; &amp; some small boys</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">paddle in the pebbles. Above the sky is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">huddled &amp; crowded with purple streamers.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We are still thinking of the plays, because</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it was here that the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-glob\" key=\"Globe, The\">Globe</rs> stood. Now let us</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">give way to the imagination. <del>After all</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>what are four hundred years.</del> <del>We can</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>What</del> The roar &amp; the chaos; the [friend?] of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which; the general diffusion: all</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">soon breed a great device for statement.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Such was one of the elements in the drama.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Another, <del>the language.</del> <del>In</del> Here is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unwritten poem. In this disorder, this sound,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the difficulty of keeping away from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">statement. A roar, a general incoherence.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the presence of light, &amp; [sentences?]; some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">saying: an attitude. In us</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">leaving over the river, long one way in some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">alley; there rises the curious nameless</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>drive</del> <del>to express</del> &#8211; <del>but less</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5#xywh=867,1873,1342,228",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del>more heightened the more need of</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>poetry</del> <del>Who is there</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5#xywh=745,2047,1650,458",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If</del> It is equally important, to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">understanding of the poem, <del>to</del> not to read at all.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to dip, now &amp; again into the inchoate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; to talk, with many [illeg.], much</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">felt art.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5#xywh=776,2470,1638,33",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>This is particularly true today; when </l>\n            <l>the [economic?] force is cutting the critic into</l>\n            <l>a special force.</l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-7-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5#xywh=746,2724,1650,41",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For then we revive the reader &#8211; a very</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impatient person. <del>The</del> For the reader was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">born when the playhouse closed.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

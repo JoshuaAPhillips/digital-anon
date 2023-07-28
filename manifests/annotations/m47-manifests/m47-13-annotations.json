@@ -1,0 +1,61 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-13-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-13#xywh=578,70,104,142",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">2.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-13#xywh=531,204,2111,3176",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer then, came to birth with difficulty in England:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for so long as familiar letters are written in biblical</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>prose, he must remain</del> be <del>only</del> <del>confined</del> there are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">limits <del>to his</del> &#8211;&#8211; <del>something that remains unfitting</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> to his freedom; a barrier between the sayable &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the unsayable. He is writing, for the printing press has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">given him a name; but <del>as yet suppressed in the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>submerged; it</del> <del>oppressed, by</del> <del>what</del> the</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>contorted <del>at many</del> by <del>wh</del> <del>in</del> the inadequacy <del>in</del> <add place=\"above\">of</add> his</l>\n            <l>instrument; <del>its</del> which, <del>when it</del> <del>if</del> it seems must</l>\n            <l>take <del>evade</del> dumb, unable, that is,</l>\n            <l><del>it cannot</del> but <add place=\"above\">he</add> still <del>submerged;</del> <del>partly by</del></l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unspecialised, undifferentiated. <del>There is a passage in</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The eye was</del> <del>For one</del> <del>He was, seeing;</del> The artist</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is not wholly writer, wholly musician, or wholly</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">painter. It seems possible that the great English art</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">may not be the art of words. His</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">eye <del>was</del> <add place=\"above\">is</add> stimulated <del>in that empty world</del>, by the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">colours <add place=\"above\">of the</add> of the clothing. His ear <del>was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>stimulated</del> by the sound of <add place=\"above\">music</add> words. <quote rend=\"inline\" source=\"#\">\"Pritchard\"</quote> said</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">Lady Ann Clifford</rs> <quote rend=\"inline\" source=\"#\">read aloud <del>They</del> The Faery Queen...\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">England was given substance &amp; sharpness of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speaking voice. And <del>the</del> music gave lilt &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rhythm, melody to the spoken word.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote rend=\"inline\" source=\"#\">\"Hardly one lighter or boat in three that had the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote rend=\"inline\" source=\"#\">goods of a home in it <del>\"</del> but there was a</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote rend=\"inline\" source=\"#\">pair of virginals in it\"</quote> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-spep\">Pepys</rs> observed, in 1666,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when the people of London were loading their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">goods onto boats in the great fire. His</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world then was full of undifferentiated words:</l>\n        "
+                ]
+            }
+        }
+    ]
+}

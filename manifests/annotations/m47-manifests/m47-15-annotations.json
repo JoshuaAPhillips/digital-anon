@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15#xywh=487,146,143,92",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">3.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15#xywh=487,172,2059,428",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old words &amp; new words; French &amp; Latin. No grammar</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">held them tightly together. They were elastic, they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could be danced to &amp; sung to. But they could</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not follow the sound of the speaking voice.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15#xywh=443,576,2007,2872",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\">Spenser</rs> then in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs> seems like a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">half articulate monster, rising from the depths of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silence, <del>with</del> hung with the weeds &amp; pearls of <del>that</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the deep sea in which the writer had been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">submerged. <del>The Faery Queen</del>: <del>is</del> we cannot read it: <add place=\"above\">the \n            <choice>\n              <sic>Fr Q.</sic>\n              <corr>Faerie Queene</corr>\n            </choice></add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we cannot leave it unread. <del>This</del> is a poem without a plot;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the metre, casting its regular fling, but somehow</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comes to ground too [wholy?]. Unlike <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">goes ahead, simply, directly, <del>It</del> The Knights, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ladies, <del>become</del> <del>loo</del> are <del>see</del> disembodied:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>what</del> &amp; <del>the</del> But <del>we cannot leave</del> it unread:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it has <del>the vitality of the</del> we see it: the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>compound</del> in groups, like <del>[illeg.]</del> the great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">caravans, painted, brought together into <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the [illeg.] comes together on the [finial?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the ground. Sometimes the comment is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">perfectly free, expressive <del>of some</del> still of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some emotion; &amp; then the [warbly]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">becomes sound merely, the [illeg.] merely,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an incantation; &amp; it passes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">away like a cloud; sleep, indifference,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.], along the ear, &#8211; still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we must return to it, because of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language &#8211; partly for that love of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old they seem: it is the thing itself: not </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wmor\" key=\"Morris, William\">Morris</rs> or <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aten\" key=\"Tennyson, Alfred\">Tennyson</rs>: <del>it is</del> &amp; [pearly?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a [illeg.] such a poem as an exile might</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">write by way of refuge from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">damp <del>of</del> &amp; the savagery of the Irish</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">country</l>\n        "
+                ]
+            }
+        }
+    ]
+}

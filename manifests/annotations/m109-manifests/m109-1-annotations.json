@@ -1,0 +1,32 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-1#xywh=107,108,1466,1628",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At what point in \n            <choice>\n              <sic>E<hi rend=\"superscript\">th</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> drama</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> is the reader born?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at what point does one</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">come to be aware of their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[shape?] in the play: of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">presence of the audience: of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that of paper drawing up</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the past; &amp; become</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in a room reading alone?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">With \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\"><choice>\n              <sic>S<hi rend=\"superscript\">hre</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> of course. <del>He</del> It was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Sh<hi rend=\"superscript\">hre</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice> who created the reader.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And <del>changed</del> <del>liter</del></l>\n        "
+                ]
+            }
+        }
+    ]
+}

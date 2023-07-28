@@ -1,0 +1,64 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-5#xywh=388,83,104,7",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">3</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-5#xywh=371,68,2237,3152",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"above\">from the air</add> foundations of old houses are still marked, we should see the house</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>in</del> connected with the village. We should see <del>here</del> a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>ring in the</del> a ring, an oasis, in the midst of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fields &amp; forests: the road a mere track: &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">oasis thus like a fortress built against the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">uncivilised <del>country</del>; if out, against the <del>sige</del> siege &#8211; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">everlasting sieve. <del>of</del> If the enemy comes there <del>are</del> is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">armour in the church. If [flood?] &amp; hunger. then there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">grain in the great barn. <del>And for the spirit <del>there</del> it is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>too</del> and to feed the mind</del> <del>But for the hunger of the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>mind, the curiosity, the desire to escape from</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>there <del>were books [illeg.]</del></del> That connection <del>is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">between house &amp; church, master &amp; labourer,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is <del>obvious</del> detailed in the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-past\" key=\"Pastons\">Paston</rs> letters, making</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">indeed the staple of that correspondence. <del>But</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the less visible connections is to</del> there is <add place=\"above\">was</add> also the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">other connection, which, <del>just as the <del>of</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>bodily connection was</del> <del>looked</del> ended by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> has become <del>almost invisible now;</del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that bond between the great house &amp; the small</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has faded till it is like one of those perhaps</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rather greener lanes <del>her</del> still to be found in England</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">along which antiquarians say the <rs type=\"person\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">pilgrims</rs> went to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#pla-cant\" key=\"Canterbury Tales, The\">Canterbury</rs>. <del>When</del> <add place=\"above\">Yet</add> the scholars tell us that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so the scholars tell us <del>that</del> how</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>long before Chaucer,</del> how long before the <del>to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Christians came, the <del>sun was</del> fire <del>was a god</del> <add place=\"above\">was worshipped</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or the sea was a god, &amp; how their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ancient worship <del>was</del> <add place=\"above\">went</add> was beneath the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">other; &amp; <del>how the harvest was</del> &amp; they</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-3-annotations/m112-3-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-5#xywh=867,82,193,154",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">37</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-5#xywh=831,204,1849,122",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>meditayions</sic>\n              <corr>meditations</corr>\n            </choice>. The vast accumulations, of \n            <choice>\n              <sic>lear ing</sic>\n              <corr>learning</corr>\n            </choice>, that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have filtered from books into the quiet college room</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">meander over the page. He sees through a thousand <quote source=\"#\" rend=\"inline\">green \n            <choice>\n              <sic>shads</sic>\n              <corr>shades</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">what lies \n            <choice>\n              <sic>immidately</sic>\n              <corr>immediately</corr>\n            </choice> before him-- the unhappy heart of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">man. The reflections serve to chequer the immediate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spectacle. From books he has won the tolerant sense</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that we are not \n            <choice>\n              <sic>singl</sic>\n              <corr>single</corr>\n            </choice> figures but innumerably \n            <choice>\n              <sic>rep ated</sic>\n              <corr>repeated</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In pursuit of melancholy he travels over the whole world,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">though he has never left his college room. We are at a remove</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the thing treated. We are enjoying the spectacle of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">melancholy, not sharing is anguish.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-5#xywh=819,1424,1849,1324",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is here then that we develop \n            <choice>\n              <sic>facuoties</sic>\n              <corr>faculties</corr>\n            </choice> that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the play left dormant. to stop; to pause; to \n            <choice>\n              <sic>refelct</sic>\n              <corr>reflect</corr>\n            </choice>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to Now the reader is completely in being. He can</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pause; he can ponder; he can compare; he can draw back from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the page and see behind it a man sitting alone in the centre</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the labyrinth of words in a college room \n            <choice>\n              <sic>thinkinh</sic>\n              <corr>thinking</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of suicide. He can gratify many different moods.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He can read directly what is on the page, or, drawing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aside, can read what is not written. There is a long drawn</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">continuity in the book that the \n            <choice>\n              <sic>paly</sic>\n              <corr>play</corr>\n            </choice> has not. It gives a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">different pace to the mind. We are in a world where</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nothing is concluded.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

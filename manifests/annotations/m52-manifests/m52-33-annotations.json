@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-33-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-33#xywh=921,52,191,18",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">18</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-33#xywh=929,220,1739,868",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">distance he sees them \n            <choice>\n              <sic>pictriallly</sic>\n              <corr>pictorally</corr>\n            </choice>; grouped, like the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>figur s</sic>\n              <corr>figures</corr>\n            </choice> in a fresco,with the flowers growing at their feet,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">behind them marble pillars, trees with bright birds, and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the libbard and the lion \n            <choice>\n              <sic>couching</sic>\n              <corr>couchant</corr>\n            </choice> or \n            <choice>\n              <sic>rampamt</sic>\n              <corr>rampant</corr>\n            </choice>. There is no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tension; no direction but always movement, as the metre</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flings its curve of sound that, like a wave, breaks always</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on the same \n            <choice>\n              <sic>pace</sic>\n              <corr>place</corr>\n            </choice>. Folded in this \n            <choice>\n              <sic>intation</sic>\n              <corr>incantation</corr>\n            </choice> we \n            <choice>\n              <sic>drwose</sic>\n              <corr>drowse</corr>\n            </choice>and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sleep yet always start awake. <add hand=\"ms\" place=\"inline\">For the T [illeg.] is illuminated.</add></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-33#xywh=955,1068,1551,352",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"inline\">&lt;</add>Still there is something anonymous about <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He cannot confine emotions within one person.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He must externalise and symbolise.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-33#xywh=855,1392,1843,1632",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">But</del> Spenser standing on the threshold of the great room</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is half in \n            <choice>\n              <sic>shdow</sic>\n              <corr>shadow</corr>\n            </choice>, half in light. He is still anonymous</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in that he cannot confine emotions within one person.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He must symbolise; exteriorise. If a man is jealous, he \n            <choice>\n              <sic>canno</sic>\n              <corr>cannot</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">show it save by making a symbol of jealousy. He must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Jealusy</sic>\n              <corr>Jealousy</corr>\n            </choice> becomes     The feelings of men and women must be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>symblised</sic>\n              <corr>symbolised</corr>\n            </choice> and given a body outside \n            <choice>\n              <sic>th ir</sic>\n              <corr>their</corr>\n            </choice> own. He ignores</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>hims lf</sic>\n              <corr>himself</corr>\n            </choice>, the individual. Yet at the same time, forces are at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">work that make him conscious of himself, the man who is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separate from the \n            <choice>\n              <sic>audeince</sic>\n              <corr>audience</corr>\n            </choice>, who is giving the \n            <choice>\n              <sic>wolrd</sic>\n              <corr>world</corr>\n            </choice> something</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of himself, \n            <choice>\n              <sic>whois</sic>\n              <corr>who is</corr>\n            </choice> conscious of the worlds \n            <choice>\n              <sic>scron</sic>\n              <corr>scorn</corr>\n            </choice> and neglect</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of what he gives. He is aware of his art as <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not, nor <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wlan\" key=\"Langland, William\">Langland</rs>, nor <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">\n            <choice>\n              <sic>Malry</sic>\n              <corr>Malory</corr>\n            </choice></rs>. His is no longer a wandering</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice, but the voice of a man practising an art, and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">asking for recognition.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-33#xywh=841,3018,1887,38",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Had the poet remained in the great room, \n            <choice>\n              <sic>profferig</sic>\n              <corr>proffering</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his book to the little group of readers, English poetry</l>\n        "
+                ]
+            }
+        }
+    ]
+}

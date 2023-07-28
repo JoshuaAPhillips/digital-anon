@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7#xywh=904,144,114,124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">4</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7#xywh=852,252,1840,2856",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we should see tracks across the fields \n            <choice>\n              <sic>joing</sic>\n              <corr>joining</corr>\n            </choice> manor house to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hovel, and hovel to church. Some of those paths of course</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were worn by \n            <choice>\n              <sic>soliders</sic>\n              <corr>soldiers</corr>\n            </choice> and\n            <choice>\n              <sic>labouerers</sic>\n              <corr>labourers</corr>\n            </choice>. They must fight to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>gether</sic>\n              <corr>gather</corr>\n            </choice> and plough together if they were not to be conquered</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by man and by nature. That connection isxx as time goes on</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the <add hand=\"ms\" place=\"above\">[he? her?] <del hand=\"ms\">me</del> records the daily struggle</add><del hand=\"ms\">classes separate themselves</del>, is still painfully</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">recorded in old letter books and ledgers. It makes the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">staple of the old \n            <choice>\n              <sic>corresp ondence</sic>\n              <corr>correspondence</corr>\n            </choice> between the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-past\" key=\"Pastons\">Pastons</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-norf\" key=\"Norfolk\">Norfolk</rs> and the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bets\" key=\"Betsons\">Betsons</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-payc\" key=\"Paycockes\">Paycockes</rs> of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-esse\" key=\"Essex\">Essex</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But there was also the the other less visible connection</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">--the common belief. That track between the houses in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">village has been grown over<add hand=\"ms\" place=\"inline\">;-</add> like the track along which the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">pilgrims</rs> rode to <rs type=\"place\" ref=\"../resources/annotations.xml#pla-cant\" key=\"Canterbury\"/>.--no one rides that way now.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But before <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucers</rs> time thxxxxxxxxxxxxxxxxxxxx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it was trod daily. <add hand=\"ms\" place=\"above\">which</add> It led <del hand=\"ms\">the peasants</del> to the tree</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the well. In spring it led to the Maypole, where they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">danced and sung Anons song. At Midsummer they lit the bon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>fir</sic>\n              <corr>fire</corr>\n            </choice> on the hill. At Christmas the mummers acted the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anons old play; and the boys came singing his wassailing</l>  \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">song. The road led to the old graves, to the stones where</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in time past the English had done sacrifice. The <choice>\n            <sic>peasnts</sic>\n            <corr>peasants</corr>\n          </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">led by anon, still went that way by instinct, in spring</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and summer and winter. The old Gods lay hidden beneath the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">new. It was to them led by Anon that they did worship,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in their coats of green leaves, bearing swords in their hands</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dancing through the houses, enacting their ancient parts.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7#xywh=912,3095,1752,3",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-pres\">printing press</rs> <del>in 1477</del> that k <add hand=\"ms\" place=\"above\">finally was to kill</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anon. but it was the press also that preserved him. When</l>\n        "
+                ]
+            }
+        }
+    ]
+}

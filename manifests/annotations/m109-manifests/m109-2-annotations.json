@@ -1,0 +1,35 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-2#xywh=83,708,2205,2636",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was <choice>\n          <sic>h  </sic>\n          <corr>her</corr>\n        </choice> marriage however that brought about her</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">peculiar relationship with <rs type=\"person\" ref=\"../resources/annotations.xml#psn-sjoh\" key=\"Johnson, Samuel\">Johnson</rs>. Had she been happy,</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">she would never have known him as she did. It was through</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him that she got what <rs type=\"person\" key=\"Thrale, Henry\">Thrale</rs> denied <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hthr\" key=\"Thrale, Hester\">her</rs>-- stimulus, society,</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an outlet for her irrepressible curiosity and ambition.</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the <choice>\n          <sic>freindship</sic>\n          <corr>friendship</corr>\n        </choice> between the old man and the young wife</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">went far <choice>\n          <sic>depper</sic>\n          <corr>deeper</corr>\n        </choice> than <rs>Boswell</rs> allowed the world to guess.</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Johnson was not merely a <choice>\n          <sic>distingusihed</sic>\n          <corr>distinguished</corr>\n        </choice> guest at the dinner</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">table. He had the run of <choice>\n          <sic>th</sic>\n          <corr>the</corr>\n        </choice> house. He knew <choice>\n          <sic>th</sic>\n          <corr>the </corr>\n        </choice> dark passages</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the cupboards with their skeletons. Mrs Thrale told him</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">all her troubles. She turned to him when Queeney snubbed her;</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when Mr Txxxxxx <add place=\"above\">Thrale</add> took another mistress; when ruin <choice>\n          <sic>threatned</sic>\n          <corr>threatened</corr>\n        </choice></l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">them; when one after another the children fell ill, and</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">died. \"What shall I do? What can I do? has th flattery</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of my mxmxmxmxmmxmmmxxxmmx <choice>\n          <sic>freinds</sic>\n          <corr>friends</corr>\n        </choice> made me too proud of my own</l>\n      "
+                ]
+            }
+        }
+    ]
+}

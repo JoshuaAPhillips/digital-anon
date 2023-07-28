@@ -1,0 +1,59 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-3#xywh=856,147,154,118",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">2</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-3#xywh=700,256,1972,668",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of what they saw-- a flat fen, reed whispering, water</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">logged; or a down still covered with turf only.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">On the down is the green scar still, to mark the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">road along which the travellers came, past the circle where</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they were buried; past the stone that marks the meeting place</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or the burial place.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-3#xywh=740,930,1972,668",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxxxxxx <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> sings because love and spring make him</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">vocal or the horror of winter dark <add hand=\"typewriter\" place=\"above\">But</add>, who listens? Somebody</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">heard that particular song, or it would not have been written</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">down. The singer then had his \n            <choice>\n              <sic>audeince</sic>\n              <corr>audience</corr>\n            </choice>; but the audience was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so little interested in his name that he never thought to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">give it.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

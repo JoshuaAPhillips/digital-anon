@@ -1,0 +1,99 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-2#xywh=759,32,1837,3344",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No one uses it now. But <del>in the</del> when <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> came to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-pens\" key=\"Penshurst Place\">Penshurst</rs>, that track led from the great house to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hovel. <del>They believed</del> In the spring they danced</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">round the maypole; in <del>summer</del> at midsummer the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bon fire was lit on the hill; at harvest time the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">waggons were crowned: at Christmas the mummers &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wassailers sung under the windows: <del>Long</del> <del>They</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rem</del> <del>believed</del> <del>Beneath the</del> <del>the tree</del> <del>Summer</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spring &amp; summer &amp; winter were gods. The sea was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a god, the earth a goddess. This ancient belief</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lay beneath the Christian belief;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <del>there was still in being the</del> <del>old</del> <del>Pagan</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was <del>still in being; the old Eight gods were</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Pagan Gods were still <add>in the fields</add> <del>to be</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>worshipped</del> alive to be [remembered?], to be worshipped.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>And</del> <del>Even if the Christian faith had</del> And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Even</del> of <del>the Gods were losing their fervor, thewe was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>Even if the service of the Pagan gods was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>losing <del>its</del> authority</del>, <del>there was still</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; even the names of the Pagan <del>gods were</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">slowly sinking into forgetfulness, there</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>remained</del> the <del>desire, when spring came, to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>put on the</del> the <del>des</del> desire remained <del>to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when spring came after the winter, or in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cold of Christmas,  to slip <del>off the</del> hours of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>work</del>; to <del>make</del> cease, for one day only, from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">daily work; to <del>be</del> enact, to represent, to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">make something which had no use or</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">give <del>shape to the old</del>^ <del>which</del> connection</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the daily <del>fight</del> struggle, to impersonate,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to <del>draw up</del> to become, for one day, a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>thing that was</del> <del>b</del> belief in person, to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>represent in</del> <del>make a</del> to make with ones</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>own</del> body a symbol of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to bring out, to <del>le</del> <del>leap [illeg]</del> <add place=\"above\"><del>be</del></add> into the <del>air</del> light,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the decked up presentation <del>of those</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">log, of laughter, <del>of</del> to dance &amp; sing, to</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-2#xywh=233,768,539,404",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n          <l>still showed</l>\n          <l>the scholars tell us,</l>\n          <l>in the \n            <choice>\n              <sic>E<hi rend=\"superscript\">thn</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n          <l>common mind.</l>\n        </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-2#xywh=207,1172,539,404",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n          <l>were [remembered?]</l>\n          <l>under the</l>\n          <l>semblance of the</l>\n          <l>Christian one</l>\n        </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-2#xywh=241,1930,539,404",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">to celebrate the common instinct, to</add>"
+                ]
+            }
+        }
+    ]
+}

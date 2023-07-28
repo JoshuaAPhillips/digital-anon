@@ -1,0 +1,69 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-6-annotations/m1-8-6-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2#xywh=761,116,1703,632",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thus makes \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> in his own image. <del>\n            <choice>\n              <sic>Shre</sic>\n              <corr>Shakespeare</corr>\n            </choice> is infinitely various.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>\n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice> changes with every play. That is a good reason</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>for [writing?] up <del>pull</del> evading \n            <choice>\n              <sic>Shre</sic>\n              <corr>Shakespeare</corr>\n            </choice></del> &#8211;&#8211; <del>that in order to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it <del>proves</del>   <del>If we</del> We cannot <del>tether</del> him; he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>He</del> It is one of the <add place=\"above\">[differently?]</add> <del>baffling</del> <add place=\"above\">but</add>, perpetually obliterating:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rubbing</del> <del>all</del> <del>&amp; consumed</del> so <add>[commonly?] [expression?]</add> consumed, that he he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has no separate existence. <del>The firs</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2#xywh=731,700,1845,256",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And when in \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> this pressure to say [illeg.] through other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">people [must? mock?], the <del>single</del> person who is saying them is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">obliterated. <del>And</del> <del>The reader</del> <del>is not</del> On the one hand</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we have the most completely articulate of men:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; at the same time, nobody in particular. This</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is this that makes criticism inadequate. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>critic tries to [impute?] his own measure</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; set enthralling. <del>Very few of the [illeg.]</del> <del>There is</del> It is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impossible to read him without feeling his presence:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but    to feel always that he is there: &amp; at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">same time that he is somewhere else.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to feel that he is, more than any other poet,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the poet who <del>says</del> <del>spe</del> expresses; <del>&amp;</del> And every reader</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has a dozen methods of [courting?] him   <del>there is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> I will, says one, visualise him: &amp;:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He was fine &amp; generous; &amp; if we like to add, about</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">middle height with a [clothed?] fine head, no one offends.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He certainly walked down <rs type=\"place\" ref=\"../resources/annotations.xml#pla-blac\" key=\"Blackfriars\">Blackfriars</rs>: &amp; ate at times</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-merm\" key=\"Mermaid, The\">Mermaid</rs>. That line soon closes. The other &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which ambitiously casts a line round the plays</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cannot succeed because it is different every time.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Do they show a regular development?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">A force of nature? Is there a pinnacle?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Is there a decline? <del>Did the</del> Was the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[retirement?] \n            <choice>\n              <sic>fr.</sic>\n              <corr>from</corr>\n            </choice> body [illeg.]: or from the inadequacy</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the stage? <del>Another one their</del> Then his [actual?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hard upon the letter. And [struggle?] of all, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">form. For it seems unnatural, that a body</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>shd.</sic>\n              <corr>should</corr>\n            </choice> have been the [crux?]</l>\n        "
+                ]
+            }
+        }
+    ]
+}

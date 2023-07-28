@@ -1,0 +1,115 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m113-annotations/m113-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5#xywh=930,138,158,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">25</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5#xywh=888,256,1828,556",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hates uttered. The world was made visible to them,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">now at this very \n            <choice>\n              <sic>oment</sic>\n              <corr>moment</corr>\n            </choice>. It was magnified, heightened,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Poetry, the stimulus of metre, of decoration of fine \n            <choice>\n              <sic>languag</sic>\n              <corr>language</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was was a necessity. The poet was urged into falsification</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and hyperbole.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But in the seats under the ceiling, in the \n            <choice>\n              <sic>nblemens</sic>\n              <corr>noblemens'</corr>\n            </choice> rooms,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there were nobles, rulers, scholars. They too are silent.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And their \n            <choice>\n              <sic>sielnce</sic>\n              <corr>silence</corr>\n            </choice> is harder to explain. For they were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">readers; they xmxmxmx had Latin and Greek behind them and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the plays of the classics. How can it have been that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the little highly educated Elizabethan \n            <choice>\n              <sic>p blic</sic>\n              <corr>public</corr>\n            </choice> made no more</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comment upon the play at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\" key=\"Bankside\">Bankside</rs> than the groundlings?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5#xywh=622,954,358,574",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"ms\" place=\"margin\">\n            <l>A <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">poet</rs> wrote</l>\n            <l>sonnets to</l>\n            <l><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mrwh\" key=\"Mr W. H.\">Mr W. H.</rs></l>\n            <l>Who is</l>\n            <l>W H?</l>\n            <l>The <choice>\n              <sic>E<hi rend=\"superscript\">thn</hi></sic>\n              <corr>Elizabethan</corr></choice></l>\n            <l><del>audience</del></l>\n            <l>have no</l>\n            <l>interest</l>\n            <l>in the</l>\n            <l>matter</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5#xywh=904,1552,1756,1564",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Perhaps <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> in his <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-baes\" key=\"Essays (Francis Bacon)\">essays</rs> supplies a reason.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">\"These things be but toyes\"</quote> he wrote in the essay called</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#lit-masq\" key=\"Of Masques and Triumphs\">Of \n            <choice>\n              <sic>Masues</sic>\n              <corr>Masques</corr>\n            </choice> and \n            <choice>\n              <sic>Tirumphs</sic>\n              <corr>Triumphs</corr>\n            </choice></rs>.\" To the \n            <choice>\n              <sic>aristorcrati</sic>\n              <corr>aristocratic</corr>\n            </choice> scholar</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the players were still only mountebanks, bear leaders and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">acrobats. Off the stage they lived in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-hear\" key=\"Heart of Darkness\">heart of darkness</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Was Not <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\">\n            <choice>\n              <sic>Marloew</sic>\n            </choice></rs> killed in a house of ill fame? Did not <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Ben</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\">\n            <choice>\n              <sic>Josnon</sic>\n              <corr>Jonson</corr>\n            </choice></rs> run <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gspe\" key=\"Spenser, Gabriel\">\n              <choice>\n                <sic>Spencer</sic>\n                <corr>Spenser</corr>\n              </choice></rs> through the body with a sword that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cost three and sixpence? So complete was bacons contempt for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this \n            <choice>\n              <sic>unde rwolrd</sic>\n              <corr>underworld</corr>\n            </choice> that he can be tolerant. <quote source=\"#\" rend=\"inline\">\"The Stage is</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">more beholding to Love than the life of Man....</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">great spirits and great Business do keepe out of this weak</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">passion.<add hand=\"ms\" place=\"inline\">\"</add></quote> The proper place for the weak passion was not real</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">life but the stage, for love <quote source=\"#\" rend=\"inline\">\"leads to speaking in a \n            <choice>\n              <sic>perpeta</sic>\n              <corr>perpetual</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\n            <choice>\n              <sic>hypberole</sic>\n              <corr>hyperbole</corr>\n            </choice></quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m113/m113-5#xywh=904,3080,1692,324",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The proper topics of \n            <choice>\n              <sic>dicssuun</sic>\n              <corr>discussion</corr>\n            </choice> in the upper</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world axxx is the life of man. The titles of Bacons essays</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9#xywh=828,68,186,161",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">20</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9#xywh=804,232,1816,2004",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was at half past two in \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> afternoon that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">trumpets \n            <choice>\n              <sic>dounded</sic>\n              <corr>sounded</corr>\n            </choice> and the flag flew over the Theatre.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The playhouse was open to the sky. A penny or twopence was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the price of a seat. There was no scenery; but the walls</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were painted; and the actors were richly dressed, according</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to one spectator in the cast off robes of the nobles, sold</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by their servants. What other amusement \n            <choice>\n              <sic>as</sic>\n              <corr>was</corr>\n            </choice> there in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">afternoon, for the gentlement of the court, txxx of the Inns</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of Court, for the numbers of captains and soldiers about</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">London? Only the amusements that Latimer deplored;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">carding, dicing, gaming, following of xmxmxmxmxmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">harlots and drinking. The rivxmxmxmxmx audience came from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>drowded</sic>\n              <corr>crowded</corr>\n            </choice> festering little streets txxxx round <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St Pauls</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">where the buried smelt so strong. The river was crowded with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wherries ferrying them across: The riverside people \n            <choice>\n              <sic>depnded</sic>\n              <corr>depended</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">upon their fares. The flag flew; the trumpets \n            <choice>\n              <sic>dsounded</sic>\n              <corr>sounded</corr>\n            </choice>; and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>audince</sic>\n              <corr>audience</corr>\n            </choice> crowded into the open playhouse, clustered round the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stage; and heard:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9#xywh=962,2216,1364,346",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>Brother Cosroe, I find myself aggrieved,</l>\n            <l>Yet insufficient \n              <choice>\n                <sic>yto</sic>\n                <corr>to</corr>\n              </choice> express the same;</l>\n            <l>For it requires a great and thundering speech</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-9#xywh=768,2544,1912,87",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At last the voice speaks from the actual body of one man.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxm.And the \n            <choice>\n              <sic>wolrd</sic>\n              <corr>world</corr>\n            </choice> became visible. Egypt, Libya;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Persia; Greece. It unrolled itself <add hand=\"ms\" place=\"above\">time</add>; and the armies of \n            <choice>\n              <sic>gr at</sic>\n              <corr>great</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Kings; and plains; and palaces. There is no abstraction any</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">longer. All is visible tangible, audible. Txmxmxmxmxm</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ords</sic>\n              <corr>Words</corr>\n            </choice> seem to swell and stretch and tumble over \n            <choice>\n              <sic>themslves</sic>\n              <corr>themselves</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the effort to give body to this vast universe.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They can scarcely contain all they would bring forward.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

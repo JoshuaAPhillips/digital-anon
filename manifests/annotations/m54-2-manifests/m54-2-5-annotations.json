@@ -1,0 +1,49 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-2-annotations/m54-2-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-5#xywh=889,131,115,155",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">10</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-2-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-2/m54-2-5#xywh=825,244,1797,1706",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by the speaking voice. And the \n            <choice>\n              <sic>l tes</sic>\n              <corr>lutes</corr>\n            </choice> and the \n            <choice>\n              <sic>cithersn</sic>\n              <corr>citherns</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>have</sic>\n              <corr>gave</corr>\n            </choice> lilt and \n            <choice>\n              <sic>rhym</sic>\n              <corr>rhythm</corr>\n            </choice> and melody to the spoken word.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His mind was full of half sung half \n            <choice>\n              <sic>spoekn</sic>\n              <corr>spoken</corr>\n            </choice> words;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">full of undifferentiated words; \n            <choice>\n              <sic>ol</sic>\n              <corr>old</corr>\n            </choice> words, new words; French words</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Latin words. No grammar bound them tightly together.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They were elastic. They could stretch to any \n            <choice>\n              <sic>lgneth</sic>\n              <corr>length</corr>\n            </choice>. They \n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could \n            <choice>\n              <sic>refelct</sic>\n              <corr>reflect</corr>\n            </choice> many colours; they could \n            <choice>\n              <sic>fol ow</sic>\n              <corr>follow</corr>\n            </choice> many tunes,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they could be danced to, and sung to. But they could not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">follow the words of the speaking voice. For a moment then</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there is a pause on the threshold of the \n            <choice>\n              <sic>gre t</sic>\n              <corr>great</corr>\n            </choice> \n            <choice>\n              <sic>lizabethan</sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">room. The artist is not wholly writer, wholly musician, or</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wholly \n            <choice>\n              <sic>paineter</sic>\n              <corr>painter</corr>\n            </choice>. xmxsxmxsmssxmxsxmxmxmxmxmxmxmmxmxmxsxmxmxmxmxmxmmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmmxmxmxmxmxmxmmxmxmxm. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n            <choice>\n              <sic>Sahekeapere</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> may be <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mich\" key=\"Michelangelo\">\n              <choice>\n                <sic>Michael</sic>\n                <corr>Michelangelo</corr>\n              </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mich\">Angelo</rs>; \n            <choice>\n              <sic>Soenser</sic>\n              <corr>Spenser</corr>\n            </choice> may be <rs type=\"person\" ref=\"../resources/annotations.xml#psn-perg\" key=\"Pergolesi\">Pergolesi</rs>. It seems possible that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great English art may not be the art of poetry.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

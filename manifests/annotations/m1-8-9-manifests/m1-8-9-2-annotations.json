@@ -1,0 +1,108 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-9-annotations/m1-8-9-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2#xywh=747,112,1811,996",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">curious of <del>any</del> <add place=\"above\">a</add> duty <add place=\"above\">owed</add> to the general public; for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">public <del>has</del> <add place=\"above\">is</add> as yet <del>making no</del> <del>asking no questions</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rather a</del> asking <add place=\"above\">then</add> for information; <del>either about the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">play, <del>or the playwright,</del> for instance, for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the general public <del>s</del> had to draw in the play as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they stood or <del>st</del> sat at the playhouse, through</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their earsor through the eye. They could not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">deepen &amp; service these impressions at a table in a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">private room. &amp; <del>thus</del> [We?] that a book of the words by <add place=\"inline\">[illeg.]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they could not ask the kind of question which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was to call forth <del>our</del> a profession</del> in our day</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is <add place=\"above\">debated</add> answered <del>in</del> every day in the newspapers.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2#xywh=775,1052,1763,56",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>Much that was lost in the playhouse was</l>\n            <l>discovered when the play was read in the</l>\n            <l>private room &#8211; the criticism of the past hundred years</l>\n            <l>has has added to the <del>common</del> understanding of</l>\n            <l><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">Shakespeare</rs>. But much was <del>also</del> lost for ever</l>\n            <l>when the playhouse shut: the sound of his spoken word;</l>\n            <l><del>the</del>   <del>what</del>   <del>the</del></l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2#xywh=1015,1626,1159,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">As <del>for the</del> <del>the Gr</del> <del>Whether the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>To the</del> <del>It is of course</del> <del>But how far</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2#xywh=337,1780,391,316",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>So far the</l>\n            <l>Elizabethan</l>\n            <l>drama is</l>\n            <l>concerned</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-9-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-2#xywh=769,1684,1763,1708",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> <del>To</del> The profits &amp; losses of this account are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">difficult to settle &#8211; on the one hand, the habit of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">brought into existence much that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could only be discovered in the private room:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-sjoh\" key=\"Johnson, Samuel\">Johnson</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-stco\" key=\"Coleridge, Samuel Taylor\">Coleridge</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-acbr\" key=\"Bradley, A. C.\">Bradley</rs> <del>to name some</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to take some <add place=\"above\">of the</add> obvious <del>names</del>, who have been</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reading <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">Shakespeare</rs> into existence, during the past</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">200 years &#8211; has increased our understanding.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But much was lost for ever when the playhouse</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shut we have lost the sound of the spoken</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">word: all that l   an individual [lushe?] &amp; bloom, an</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">those in a physical quality, in \n            <choice>\n              <sic>E<hi rend=\"superscript\">an</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> language</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> may <del>spring</del> <del>be</del> come <del>from the</del> when there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no <del>printed</del>  it is heard, not printed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We [men?] a thousand suggestions that the dramatist</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this can be tested <del>chiefly in the</del> <add place=\"above\">but almost solely</add> in Shakespeare:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the &#8211; some \n            <choice>\n              <sic>Et<hi rend=\"superscript\">hn</hi></sic>\n              <corr>Elizabethans</corr>\n            </choice> are only acted once in a blue moon )</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have almost disappeared from the stage ) by comparing our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impressions after seeing the play with our impressions after</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reading the play.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-11#xywh=856,90,158,138",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">35</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-11#xywh=848,188,1692,276",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Thus the life of a reader is bound</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">up in the life of the book. <add hand=\"typewriter\" place=\"above\">a xxxx constantly merging</add> is to some extent the life of <add hand=\"typewriter\" place=\"above\">the book.</add></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-11#xywh=780,432,1852,1108",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was to satisfy this unshaled blind infant,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>s retching</sic>\n              <corr>stretching</corr>\n            </choice> out his hands and covering his eyes in the Eliza</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bethan playhouse that the \n            <choice>\n              <sic>oew</sic>\n              <corr>owe</corr>\n            </choice> the Elizabethans novels.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or that very curious book <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-trav\" key=\"Unfortunate Traveller, The\">The Unfortunate \n            <choice>\n              <sic>Travller</sic>\n              <corr>Traveller</corr>\n            </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a half born book; a book that is still amorphous</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>neother</sic>\n              <corr>neither</corr>\n            </choice> one thing nor the \n            <choice>\n              <sic>othet</sic>\n              <corr>other</corr>\n            </choice>; a book that cannot walk;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and yet now and then like an \n            <choice>\n              <sic>unwildy</sic>\n              <corr>unwieldy</corr>\n            </choice> child gambols and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">breaks the \n            <choice>\n              <sic>ornmanets</sic>\n              <corr>ornaments</corr>\n            </choice>. But while <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">\n              <choice>\n                <sic>Sahkepeare</sic>\n                <corr>Shakespeare</corr>\n              </choice></rs> lived,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the novel was always turning into the play. The reader</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was too weak to make his influence felt.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

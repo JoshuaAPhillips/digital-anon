@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m51-annotations/m51-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-5#xywh=898,60,160,176",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">4</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-5#xywh=850,202,1856,332",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">houses, \n            <choice>\n              <sic>furinture</sic>\n              <corr>furniture</corr>\n            </choice>\n            <choice>\n              <sic>clothing&#189;</sic>\n              <corr>clothing</corr>\n            </choice> There was no English literature</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to show up the change in the mind. There were no English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>boo s</sic>\n              <corr>books</corr>\n            </choice> to show up the decline of English writing.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-5#xywh=828,520,1864,2912",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Up stairs in the great room, as \n            <choice>\n              <sic>Ha ison</sic>\n              <corr>Harrison</corr>\n            </choice> tells us,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">\"...our ancient ladies of the \n            <choice>\n              <sic>co rt</sic>\n              <corr>court</corr>\n            </choice>\"</quote> \n            <choice>\n              <sic>we e</sic>\n              <corr>were</corr>\n            </choice> to be found reading</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>Gekks</sic>\n              <corr>Greeks</corr>\n            </choice> and Latins as they sat at their \n            <choice>\n              <sic>needlwork</sic>\n              <corr>needlework</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Greek and Latin</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">came as easily to their pens as English. At <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gorh\" key=\"Gorhambury\">Gorhambury</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>isnatnec</sic>\n              <corr>instance</corr>\n            </choice> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Ann\">Lady \n              <choice>\n                <sic>An</sic>\n                <corr>Anne</corr>\n              </choice> Bacon</rs> sat writing to her son. Her letters</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">might have been sermons from the pulpit. Shxxxxxxxxxxxxxxxxxx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxxxxxxxxxxxxxxxxxxx She \n            <choice>\n              <sic>exhorst</sic>\n              <corr>exhorted</corr>\n            </choice>; she \n            <choice>\n              <sic>admonsihed</sic>\n              <corr>admonished</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Fear of God, \n            <choice>\n              <sic>suspcion</sic>\n              <corr>suspicion</corr>\n            </choice> of man surround her with the walls</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of a dungeon. There is no gaiety, no familiarity, no intimacy</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in this world. \n            <choice>\n              <sic> hw</sic>\n              <corr>She</corr>\n            </choice> \n            <choice>\n              <sic>draoes</sic>\n              <corr>drapes</corr>\n            </choice> herself in the \n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice> of the \n            <choice>\n              <sic>B  le</sic>\n              <corr>Bible</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when she writes; and it is a garment only to fit a certain</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">attitude. Save for <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wlan\" key=\"Langland, William\">\n            <choice>\n              <sic>Langdale</sic>\n              <corr>Langland</corr>\n            </choice></rs> and the voice of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> singing at the back door, making his \n            <choice>\n              <sic>irrevent</sic>\n              <corr>irreverent</corr>\n            </choice> mockeries</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmx the English might be a dumb race; a race of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">merchants \n            <choice>\n              <sic>soliders</sic>\n              <corr>soldiers</corr>\n            </choice> priests, who left \n            <choice>\n              <sic> ehind</sic>\n              <corr>behind</corr>\n            </choice> them stone houses</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cultivated fields and many churches, but no words. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great house is \n            <choice>\n              <sic>sielnt</sic>\n              <corr>silent</corr>\n            </choice>. We can see it still, \n            <choice>\n              <sic>satnding</sic>\n              <corr>standing</corr>\n            </choice> in its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">green island of park, \n            <choice>\n              <sic>seaparated</sic>\n              <corr>separated</corr>\n            </choice> often from the high road,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">only by a dip in the ground and a low red wall. It is out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>porpotion</sic>\n              <corr>proportion</corr>\n            </choice> now; \n            <choice>\n              <sic>iether</sic>\n              <corr>either</corr>\n            </choice> it is too large or the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">village with its \n            <choice>\n              <sic>bungalwos</sic>\n              <corr>bungalows</corr>\n            </choice> and shops is too small. The \n            <choice>\n              <sic>furn</sic>\n              <corr>furniture</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is in \n            <choice>\n              <sic>exsitnce</sic>\n              <corr>existence</corr>\n            </choice> too. Inside all is kept as if the Queen were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">expected. The up right Elizabethan chairs stand round the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">walls. Their fringes and their \n            <choice>\n              <sic>tap st y</sic>\n              <corr>tapestry</corr>\n            </choice> is not much faded</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The oak tables are heavy and polished. The floor is \n            <choice>\n              <sic>str wn</sic>\n              <corr>strewn</corr>\n            </choice></l>\n        "
+                ]
+            }
+        }
+    ]
+}

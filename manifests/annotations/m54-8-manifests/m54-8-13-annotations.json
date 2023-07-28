@@ -1,0 +1,118 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-13-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=949,97,122,133",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">22</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=935,206,1000,127",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>\n              <choice>\n                <sic>An</sic>\n                <corr>And</corr>\n              </choice> tis a pretty toy to be a poet..</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=947,314,1375,238",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">So distended with rapture, the tune changes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">effectively.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=913,1302,1671,666",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Could he stop, he would cutdeeper. But there is no pause;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no shadow. The \n            <choice>\n              <sic>pagenat</sic>\n              <corr>pageant</corr>\n            </choice> <add hand=\"ms\" place=\"above\">[illeg.]</add>. The horses neigh.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Kings and \n            <choice>\n              <sic>Empeors</sic>\n              <corr>Emperors</corr>\n            </choice> emerge. Battles are fought. Blood flows.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And all over this \n            <choice>\n              <sic>multitidionous</sic>\n              <corr>multitudinous</corr>\n            </choice> splendour broods \n            <choice>\n              <sic>agedy</sic>\n              <corr>tragedy</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmmxmxmxxx We forbode. We behold the thing as <add hand=\"ms\" place=\"above\">We [illeg.] there</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spectacle. There is the end to come. Meanwhile, let us \n            <choice>\n              <sic>boas</sic>\n              <corr>boast</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and triumph.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=919,1302,1695,662",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>Our souls, whose faculties can comprehend</l>\n            <l>The wondrous architecture of the world,</l>\n            <l>And measure very wandering planets course</l>\n            <l>Still climbing after \n              <choice>\n                <sic>knowlede</sic>\n                <corr>knowledge</corr>\n              </choice> \n              <choice>\n                <sic>infinute</sic>\n                <corr>infinite</corr>\n              </choice>,</l>\n            <l>And always moving as the restless \n              <choice>\n                <sic>spe eres</sic>\n                <corr>spheres</corr>\n              </choice>,</l>\n            <l>Well us to wear ourselves, and never rest...</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=933,1950,1707,566",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That is the \n            <choice>\n              <sic>meldy</sic>\n              <corr>melody</corr>\n            </choice> the marching song of this brave</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>septacle</sic>\n              <corr>spectacle</corr>\n            </choice>. And yet, as if the poet slipped the noose of his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audiences, \n            <choice>\n              <sic>releved</sic>\n              <corr>relieved</corr>\n            </choice> himself of its pressure for one moment,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we hear:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">amid the \n            <choice>\n              <sic>so nding</sic>\n              <corr>sounding</corr>\n            </choice> brass:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-13#xywh=923,2500,1779,946",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>What is \n              <choice>\n                <sic>beautym</sic>\n                <corr>beauty,</corr>\n              </choice> saith my sufferings, then?</l>\n            <l>If all the pens that ever poets held</l>\n            <l>Had fed the \n              <choice>\n                <sic>feelingsx</sic>\n                <corr>feelings</corr>\n              </choice> of their masters' thoughts,</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">.....</l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>If all these had made one poems \n              <choice>\n                <sic>riod</sic>\n                <corr>period</corr>\n              </choice>,</l>\n            <l>And all combined in \n              <choice>\n                <sic>b auty's</sic>\n                <corr>beauty's</corr>\n              </choice> worthiness,</l>\n            <l>Yet should there hover in their \n              <choice>\n                <sic>estless</sic>\n                <corr>restless</corr>\n              </choice> heads</l>\n            <l>one thought, one wxxxxxxx grace, one wonder, at the least,</l>\n          </quote>\n        "
+                ]
+            }
+        }
+    ]
+}

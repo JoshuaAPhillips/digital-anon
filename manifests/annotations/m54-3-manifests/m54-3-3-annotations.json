@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-3-annotations/m54-3-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-3#xywh=984,80,166,154",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">10</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-3#xywh=906,244,1826,279",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thirty <quote source=\"#\" rend=\"inline\">\"had walked in the shadow of \n            <choice>\n              <sic>d ath</sic>\n              <corr>death</corr>\n            </choice>.\"</quote> It was Master</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-tbil\" key=\"Bilney, Thomas\">\n            <choice>\n              <sic>Boilney</sic>\n              <corr>Bilney</corr>\n            </choice></rs> at \n            <rs type=\"place\" ref=\"../resources/annotations.xml#psn-camb\" key=\"Cambridge\"><choice>\n              <sic>Ca, fiege</sic>\n              <corr>Cambridge</corr>\n            </choice></rs> who \n            <choice>\n              <sic>ppened</sic>\n              <corr>opened</corr>\n            </choice> his eyes; Master Bilney</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who went about among the poor and the \n            <choice>\n              <sic>sivk</sic>\n              <corr>sick</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Master Bilney heard him preach \n            <choice>\n              <sic>agianst</sic>\n              <corr>against</corr>\n            </choice> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-pmel\" key=\"Melancthon, Philipp\">\n              <choice>\n                <sic>Melnchton</sic>\n                <corr>Melancthon</corr>\n              </choice></rs> and his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">opinons. <quote source=\"#\" rend=\"inline\">and desired me for Gods sake to hear his \n            <choice>\n              <sic>confessio</sic>\n              <corr>confession</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"did so; and to say the very truth, by his confession</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">I learnt ed more than for many \n            <choice>\n              <sic>yeares</sic>\n              <corr>yeares</corr>\n            </choice>.</quote> With Bilney he \n            <choice>\n              <sic>vi ted</sic>\n              <corr>visited</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>prisones</sic>\n              <corr>prisoners</corr>\n            </choice> in the Tower at Cambridge, for he was ever \n            <choice>\n              <sic>visig</sic>\n              <corr>visiting</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>pirsoners</sic>\n              <corr>prisoners</corr>\n            </choice> \n            <choice>\n              <sic>andsick</sic>\n              <corr>and sick</corr>\n            </choice> folk. There was a woman who had killed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">her child. And <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hlat\" key=\"Latimer, Hugh\">Latimer</rs> brought her story before King</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-hen8\" key=\"Henry VIII\">\n            <choice>\n              <sic>Hnery</sic>\n              <corr>Henry</corr>\n            </choice> the eighth</rs> as he talked with him after the sermon in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the gallery. and he got her \n            <choice>\n              <sic>padrdon</sic>\n              <corr>pardon</corr>\n            </choice>. Master Bilney was burnt;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so it may wi be, he will be burnt. \n            <choice>\n              <sic>eanehile</sic>\n              <corr>Meanwhile</corr>\n            </choice> he will speak</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the truth so that the \n            <choice>\n              <sic>simp le</sic>\n              <corr>simple</corr>\n            </choice> can understand. In their own</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tongue. Standing on the verge of the \n            <choice>\n              <sic>Elizabetha</sic>\n              <corr>Elizabethan</corr>\n            </choice> age,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he saw, as <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs> saw, the great buildings rise on the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">foundations of the old. <quote source=\"#\" rend=\"inline\">\"There \n            <choice>\n              <sic>ws</sic>\n              <corr>was</corr>\n            </choice> never such buildings then</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">as \n            <choice>\n              <sic>if</sic>\n              <corr>is</corr>\n            </choice> now, planting, nor marrying.\"</quote> And yet the \n            <choice>\n              <sic>Englis</sic>\n              <corr>English</corr>\n            </choice> are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still sunk in \n            <choice>\n              <sic>supe stition</sic>\n              <corr>superstition</corr>\n            </choice>. Give \n            <choice>\n              <sic>thmoey</sic>\n              <corr>the money</corr>\n            </choice> he implores that</l>          \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">was wont to bestow on \n            <choice>\n              <sic>pilgrimagesmatters</sic>\n              <corr>pilgrimages matters</corr>\n            </choice>, in trentalls</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">in masses, in purgatory matters\"</quote> to poor men sons so that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they may become \n            <choice>\n              <sic>schlars</sic>\n              <corr>scholars</corr>\n            </choice>. <quote source=\"#\" rend=\"inline\">\"There be now none but greate mens</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">sons in colleges.\"</quote> <quote source=\"#\" rend=\"inline\">It will come to pass that</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>we \n              <choice>\n                <sic>shallhave</sic>\n                <corr>shall have</corr>\n              </choice> nothing but a little \n              <choice>\n                <sic>Ebglish</sic>\n                <corr>English</corr>\n              </choice> divinity, that will</l>\n            <l>bring the realm into a very barbarousness, and utter</l>\n            <l>decay of learning.\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-3#xywh=1002,3040,1710,394",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This was the voice of the new \n            <choice>\n              <sic>lraning</sic>\n              <corr>learning</corr>\n            </choice>, the \n            <choice>\n              <sic>vo ce</sic>\n              <corr>voice</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that ousted \n            <choice>\n              <sic>superstiti,n</sic>\n              <corr>superstition</corr>\n            </choice>, the voice of reason, charity, common</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sense. But it was by an \n            <choice>\n              <sic>irnoy</sic>\n              <corr>irony</corr>\n            </choice> ironically enough, the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-5-annotations/m1-8-5-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-1#xywh=1025,62,631,144",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><hi rend=\"underline\">The Reader</hi></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-1#xywh=737,114,1895,2168",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At what point is the reader born?- this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">faculty, the power to make <add place=\"above\">visible</add> out of print <del>ho</del> men, countries,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>houses, &amp;</del> visble <del>cou</del> places &amp; houses &amp; <del>the</del> words &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">warm bodies, &amp; their thoughts, is rare; it is not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">exercised on the [strips] of newspaper. It is non existent</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in great masses of <del>literate</del> the literate. It is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">different from the scholars gift or the critics.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>So then the plays are</del> It is <del>[illeg.]</del> complex <del>not</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in itself; for it <del>has</del> to see, <add place=\"above\">it has</add> to hear, <del>but</del> <add place=\"above\">also</add> it is for ever</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is <del>influenced</del> at the mercy of <del>the time</del> circumstances <add place=\"above\">always its [dupe?]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">One generation <del>brings out this</del> perceives this in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the printed page; another <del>sees</del> that     the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> in the early plays, obviously, the reader</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>becomes</del> is scarcely in existence. We <del>see</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are <del>in the</del> among the audence. <del>The</del> And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that is one of the attractions of the early plays&#8211;&#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to be <del>unaware of the</del> <del>that they bring out the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>spectator: make an appeal to the body:</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>are so visible, palpable, audible. So crude:</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>They have the frailty of</del> They need to be read in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">company. They are the product of the company.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If we</del> <del>So</del> At <del>their best</del> <del>they have the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rush &amp; the tumult of</del>    The body is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">always palpable in them. <del>The humour is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at <del>some point the</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-1#xywh=761,2116,1815,1076",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> <del>The modern reader has to read just himself</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But the reader is <add place=\"above\">also</add> <del>possessed of</del> <del>aware</del> <del>another</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>sense, besides the</del> <del>the power</del> some one who</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>connects.</del></del>  But, to the modern reader, there is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">much that is disguised of the presence of the body</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">on the stage. <del>This</del> An <del>embodiment</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>And</del> But at some point there comes a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">break. The <del>playwright t</del> There is a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">point when the playwright <del>h</del> has</l>\n        "
+                ]
+            }
+        }
+    ]
+}

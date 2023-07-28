@@ -1,0 +1,77 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-9#xywh=950,64,144,168",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">6</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-9#xywh=940,216,1760,328",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> had sung his song at the back door in a jargon that was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as uncouth and fxmxmxnxmxmxmxmxmus to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as to ourselves; <del hand=\"ms\">and more barbarous</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-9#xywh=969,555,952,404",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>Icham for wowing al forwake,</l>\n            <l>Wery no water in wore</l>\n            <l>An hendy hap ichable yghent;</l>\n            <l>Ichot from heven it is me sent</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-9#xywh=904,952,1816,1636",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the words were as difficult for him to spell out as for us;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and <add hand=\"ms\" place=\"above\">more</add> for him <add hand=\"typewriter\" place=\"above\">painful;</add> they were <add hand=\"ms\" place=\"above\">[illeg.]</add> reminders of a savagery of low \n            <choice>\n              <sic>b rth</sic>\n              <corr>birth</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmxmxx tokens of base birth, of a close <del hand=\"ms\">savage</del> past.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the background, mxmxmxmxxx of \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\"><choice>\n              <sic>Har isons</sic>\n              <corr>Harrison's</corr>\n            </choice></rs> mind stood</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Greeks and the romans; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-agrip\" key=\"Agrippa\">Henrcus Cornelius Agrippa</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-suet\" key=\"Suetonius\">Suetonius</rs>; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-plin\" key=\"Pliny\">Pliny</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cice\" key=\"Cicero\">Cicero</rs>. <del hand=\"ms\">Those were</del> the \n            <choice>\n              <sic>anicenits</sic>\n              <corr>ancients</corr>\n            </choice> who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">occupied the same place in Harrisons mind that the \n            <choice>\n              <sic>Elizabetha</sic>\n              <corr>Elizabethans</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">occupy in our minds. The readers of his time read the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">classics, Those were the valuable books that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were chained to the \n            <choice>\n              <sic>sleves</sic>\n              <corr>shelves</corr>\n            </choice> in college libraries. The \n            <choice>\n              <sic>leanred</sic>\n              <corr>learned</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">read them; and the nobles too. <quote source=\"#\" rend=\"inline\">\"...our ancient ladies of the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">court\" were to be found reading the holy \n            <choice>\n              <sic>scrpitures</sic>\n              <corr>scriptures</corr>\n            </choice></quote> as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they did their \n            <choice>\n              <sic>needlwork</sic>\n              <corr>needlework</corr>\n            </choice>; and histories;</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-1-annotations/m111-1-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1#xywh=880,82,125,141",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">29</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1#xywh=759,192,1953,2428",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">But</add> Her own passion, the disgrace, the humiliation of her <add>are all [actual?] in dumb shows</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">family are all hidden under silence itself; or such</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flourishes and ornaments that reveal \n            <choice>\n              <sic>notning</sic>\n              <corr>nothing</corr>\n            </choice>. After</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that amount to \n            <choice>\n              <sic>sielnce</sic>\n              <corr>silence</corr>\n            </choice>. The plain country squires, \n            <choice>\n              <sic>the</sic>\n              <corr>they</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are all teased once they take pen in hand by the demon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of poetry. \n            <choice>\n              <sic>Af e</sic>\n              <corr>After</corr>\n            </choice> fl flxmxmxmxmxm floundering out a page</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of conceits and \n            <choice>\n              <sic>fanatsies</sic>\n              <corr>fantasies</corr>\n            </choice>, Mr <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbea\" key=\"Beaumont, Francis\">Beaumont</rs> has indeed recourse</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to poetry. After trying to explain <quote source=\"#\" rend=\"inline\">My conceit of this</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">triple love, of affection passion and \n            <choice>\n              <sic>conjnuction</sic>\n              <corr>conjunction</corr>\n            </choice></quote>\" with a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>w nedrin</sic>\n              <corr>[wandering?]</corr>\n            </choice> \n            <choice>\n              <sic>welt th</sic>\n              <corr>wealth</corr>\n            </choice> of imagery he quotes <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs>... <quote source=\"#\" rend=\"inline\">\"... of lae</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>late I have light upon Mr \n              <choice>\n                <sic>Soensers</sic>\n                <corr>Spensers</corr>\n              </choice> opinion so rightly \n              <choice>\n                <sic>Soensers</sic>\n                <corr>Spensers</corr>\n              </choice> opinion so rightly \n              <choice>\n                <sic>agreeig</sic>\n                <corr>agreeing</corr>\n              </choice></l>\n            <l>with that which nature had \n              <choice>\n                <sic>taight</sic>\n                <corr>taught</corr>\n              </choice> me before, as the</l>\n            <l>same might have been thought to have drawn out of his</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">discipline.\"</quote> It is the poets still who speak for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">squires \n            <choice>\n              <sic>whocannot</sic>\n              <corr>who cannot</corr>\n            </choice> speak for \n            <choice>\n              <sic>themslces</sic>\n              <corr>themselves</corr>\n            </choice>. Yet behind these</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>gfloird</sic>\n              <corr>florid</corr>\n            </choice> decorations, these strained elegancies,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the wolves and foxes of the \n            <choice>\n              <sic>cort</sic>\n              <corr>court</corr>\n            </choice> prey and raven.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Bastards are \n            <choice>\n              <sic>borb</sic>\n              <corr>born</corr>\n            </choice>. There is a crude appetite a greed a \n            <choice>\n              <sic>passin</sic>\n              <corr>passion</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which moves under the flowers and suddenly glares at us.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Bastards are born in the flesh. Reputations are ruined.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Only the people \n            <choice>\n              <sic>themlves</sic>\n              <corr>themselves</corr>\n            </choice> pass unseen. They too like the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dramatists remain anonymous.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-1#xywh=779,2628,1921,764",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet there is a strange contradiction. If the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wr country \n            <choice>\n              <sic>bgentlemen</sic>\n              <corr>gentlement</corr>\n            </choice> and their wives must speak in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hyperbole when they write \n            <choice>\n              <sic>f</sic>\n              <corr>of</corr>\n            </choice> love, they write of possessions</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in plain English. No generation had more anxiety to preserve <add hand=\"ms\" place=\"above\">[illeg.]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their physical bodies from decay. \n            <choice>\n              <sic>Theyeat</sic>\n              <corr>They eat</corr>\n            </choice> prodigously.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They wear clothes that are so heavy they can scarcely move</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in them. \n            <choice>\n              <sic>Invenory</sic>\n              <corr>Inventory</corr>\n            </choice> after inventory records their \n            <choice>\n              <sic>furiture</sic>\n              <corr>furniture</corr>\n            </choice>,</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-10-annotations/m1-8-10-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1#xywh=815,96,1758,3056",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great house <add place=\"above\">that <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tlat\" key=\"Latimer, Thomas\">Latimer</rs> deplored</add> is visible in the pages of Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">Anne</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, An\">Cliffords</rs> diary. <del>It is</del> <del>It is stuffed with</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>furniture</del> <del>it is</del> She <del>is above all things possessive</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>She is aware from her first youth of her</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rights, <del>of her position</del> She <del>is</del> has her [fields?]</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[graved?] upon her lands.</del> <del>She has no</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She has no <del>doubt whatsoever tha</del> a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">profound <add>&amp; [fervent?]</add> belief in the rights as the possessor.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It <del>Even as</del> <del>Solid</del> <del>She believes, with a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the solidity of the land; in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rights of ownership</del> <del>The reality of the</del> <del>body is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The body is visible to her. She <del>sma</del> is for ever</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">beholding castles; acquiring land, asserting her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rights to property; accumulating; hoarding</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">claiming diamond buttons, making inventories of her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">possessions, establishing her family, sending for her</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">grand children so that <del>m</del> they too may</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">taste the delights of possession. <del>She</del> <del>No</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The living body is robed in black taffeta with a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">yellow taffeta wan [breast?]. When the body is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dead, it is wrapped in lead; <del>to</del> as if <del>those were</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it <del>were</del> to preserve it as long as possible <add place=\"above\">from decay</add>. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sense of the body permeates her pages: the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">solidity of matter; <del>the</del> as if <del>silver, diamonds,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fur <del>cloaks esp</del> <del>enforced some</del> <del>were a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the body gained in dignity, <del>were more <add place=\"above\">was</add></del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">human soul <del>were</del> <add place=\"above\">was</add> more expressive, more itself</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when it's carcass fleshed. <del>to</del> <add type=\"above\">in</add> to the public eye</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the body is</del> <del>She reveals the emptiness of</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>England, when, surely to see an old countess [bared?]</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the common people come flocking.</del> <del>l</del> The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">effort of <del>moving across</del> All movements</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">become spectacular. Six bay horses drag the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">coach. The coach is laced with green cloth &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">laced with green &amp; black silk lace; crowds</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1#xywh=279,1244,543,344",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>as if to solidify</l>\n            <l>them still further</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

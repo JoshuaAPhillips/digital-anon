@@ -1,0 +1,84 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m51-annotations/m51-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-11#xywh=936,84,150,122",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">7</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-11#xywh=893,194,1831,764",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">simplicity of its belief. It is a \n            <choice>\n              <sic>chi  s</sic>\n              <corr>child's</corr>\n            </choice> story in its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">particularity. Beauty is stated, not suggested. <quote source=\"#\">So he went</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>in and searched from chamber to chamber, and found his bed,</l>\n            <l>but she was \n              <choice>\n                <sic>ot</sic>\n                <corr>not</corr>\n              </choice> here; then Balin looked into a little garden,</l>\n            <l>and under a laurel tree \n              <choice>\n                <sic>e sae</sic>\n                <corr>he saw</corr>\n              </choice> her lie upon a quilt of green</l>\n            <l>samite and a knght with her, and under their heads</l>\n            <l>\n              <choice>\n                <sic>grasa</sic>\n                <corr>grass</corr>\n              </choice> and herbs.\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-11#xywh=951,940,1751,1216",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But, save that self \n            <choice>\n              <sic>oncsiousnes</sic>\n              <corr>consciousness</corr>\n            </choice> has not yet raised</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">its mirror, it is not a childs world. The men and women are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">corrupt already in this fresh world. They have evil dreams.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#kart\" key=\"Arthur (King)\">Arthur</rs> is doomed. \n            <choice>\n              <sic> reat ki gs</sic>\n              <corr>Great kings</corr>\n            </choice> are undone by their own vices.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The \n            <choice>\n              <sic>Quuens</sic>\n              <corr>Queens</corr>\n            </choice> are lustful. Still we can \n            <choice>\n              <sic>revsit</sic>\n              <corr>revisit</corr>\n            </choice> their world.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But of the \n            <choice>\n              <sic>wr ter</sic>\n              <corr>writer</corr>\n            </choice> nothing is known. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malory</rs> is not distinct</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from his book. It is still the voice of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">anon</rs>, speaking to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the voice of anon. The dream is still dreamt. <quote source=\"#\">\"...folks</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">do say\"</quote> a \n            <choice>\n              <sic>peasnt</sic>\n              <corr>peasant</corr>\n            </choice> at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-cadb\" key=\"Cadbury\">Cadbury</rs> said in the \n            <choice>\n              <sic>ninenenth</sic>\n              <corr>nineteenth</corr>\n            </choice> century,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"that on the night of the full moon King Arthur and his men</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">ride round the hill, and their horses are shod with silver...\"</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-11#xywh=953,2156,1751,1216",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\">Caxton</rs>, printing the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-mort\" key=\"Morte d'Arthur\">Morte Darthur</rs> at the \n            <choice>\n              <sic>solitictaion</sic>\n              <corr>solicitation</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the nobles and the gentry, had his doubts. Anon wxxxx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still \n            <choice>\n              <sic>existsed</sic>\n              <corr>existed</corr>\n            </choice> but a shade has fallen \n            <choice>\n              <sic>upo</sic>\n              <corr>upon</corr>\n            </choice> him. The printed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book with its writers name attached to was destined to kill</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him. After that, the audience became separate from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the singer. And the \n            <choice>\n              <sic>audeince</sic>\n              <corr>audience</corr>\n            </choice> no longer took part in the song</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>supp ied</sic>\n              <corr>supplied</corr>\n            </choice> the story, filled in the pauses, and added sometimes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a nonsensical chorus. The printed book \n            <choice>\n              <sic>seapareted</sic>\n              <corr>separated</corr>\n            </choice> from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice and was read by those who could afford to buy them.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great read them in the great rooms. <quote source=\"#\" rend=\"inline\">\"I spent most of</quote></l>\n        "
+                ]
+            }
+        }
+    ]
+}

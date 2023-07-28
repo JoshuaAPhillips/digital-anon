@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-17-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-17#xywh=908,143,114,136",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>1o</sic>\n              <corr>10</corr>\n            </choice>\n          </l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-17#xywh=878,266,1752,664",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The writer then came to birth with difficulty in England--</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the writer who is distinct from the minstrel, whose words</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are printed. For when familiar \n            <choice>\n              <sic>lettees</sic>\n              <corr>letters</corr>\n            </choice> are written in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Biblical prose there must be axmxmxmxmxmxmxmxmxmxmxm</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a barrier between what is sayable and what unsayable.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a limit thus to what he can put into words <add hand=\"ms\" place=\"above\">writing</add>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-17#xywh=820,924,1792,2416",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is in being <add hand=\"ms\" place=\"inline\">,</add> at the beginning of the sixteenth century;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for the \n            <choice>\n              <sic>priting</sic>\n              <corr>printing</corr>\n            </choice> press has given him a name; but he is still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unspecialised, undifferentiated. The artist --the person</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who stands \n            <choice>\n              <sic>otside</sic>\n              <corr>outside</corr>\n            </choice> amxmxmxmxmxmxmxmx, by some impulse</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">desiring to observe <add hand=\"ms\" place=\"above\">to</add> state <add hand=\"ms\" place=\"above\">rather than to take part</add> -- is not wholly writer,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wholly musician, or wholly painter. It seems possible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the great English art may not be the art of words.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His eye like a painters, is alive to the \n            <choice>\n              <sic>clour</sic>\n              <corr>colour</corr>\n            </choice> of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clothing, of country, of beats and birds; his ear, like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a musicians, is stimulated by the sound of words spoken aloud</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">His book</del> <add hand=\"typewriter\" place=\"above\">What he wrote</add> was read out<del hand=\"ms\">aloud</del> <add hand=\"ms\" place=\"above\">in company</add>. <quote source=\"#\" rend=\"inline\">\"I spent most of my time\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wrote <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">Lady Ann Clifford</rs> <quote source=\"#\" rend=\"inline\">in playing <del hand=\"ms\">Glocko</del> at Glecko,</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>and hearing <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mnev\" key=\"Neville, Moll\">Moll Neville</rs> read <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-arca\" key=\"Countess of Pembroke's Arcadia\">the Arcadia.\"</rs>.. <rs type=\"person\" ref=\"psn-unkn\">Rivers</rs> used</l>\n            <l>to read to me on <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">Montaigne</rs> <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-essa\" key=\"Essais (Michel de Montaigne)\"/> and Moll Neville in the</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"><rs type=\"lit\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen\"</rs></quote> (1617-1619) Every word had its \n            <choice>\n              <sic>sharpnes</sic>\n              <corr>sharpness</corr>\n            </choice> <add hand=\"ms\" place=\"above\">weight</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">its weight <add hand=\"ms\" place=\"above\">&amp; edge</add> given to it by the speaking voice. And then the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lute and the virginals gave lilt, rhythm melody to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">written words. When the fire of London was burning <add hand=\"typewriter\" place=\"above\">and the citizens loading their goods \n            <choice>\n              <sic>intob</sic>\n              <corr>into boats</corr>\n            </choice></add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-spep\" key=\"Pepys, Samuel\">Pepys</rs> noted that <quote source=\"#\">\"Hardly one lighter or \n            <choice>\n              <sic>baot</sic>\n              <corr>boat</corr>\n            </choice> in three</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">that had the goods of of a house in it, but there was a</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">pair of virginals in it.\"</quote> The writers mind was full</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>undiffrentiated</sic>\n              <corr>undifferentiated</corr>\n            </choice> words; old words, new words; French and</l>\n        "
+                ]
+            }
+        }
+    ]
+}

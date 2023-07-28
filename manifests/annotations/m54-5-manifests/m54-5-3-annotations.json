@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-5-annotations/m54-5-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-5-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-3#xywh=823,106,185,138",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">13</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-5-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-3#xywh=727,208,1861,263",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">Of thine owne spirit which doth in me survive</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He looks back to \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\"><choice>\n              <sic>Cah cer</sic>\n              <corr>Chaucer</corr>\n            </choice></rs>; he descends from \n            <choice>\n              <sic>Cahucer</sic>\n              <corr>Chaucer</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was Chaucer that gave him the <del>\n            <choice>\n              <sic>meausre</sic>\n              <corr>measure</corr>\n            </choice></del> <add hand=\"typewriter\" place=\"above\">\n              <choice>\n                <sic>stabdard</sic>\n                <corr>standard</corr>\n              </choice></add> by which to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">measure \n            <choice>\n              <sic>hiw</sic>\n              <corr>his</corr>\n            </choice> own words. <add hand=\"ms\" place=\"above\">But</add> Where the modern writer \n            <choice>\n              <sic>attackes</sic>\n              <corr>attacks</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">actual works of some \n            <choice>\n              <sic>on</sic>\n              <corr>one</corr>\n            </choice> of the generation that is just</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gone, making that book the kicking off point <add hand=\"ms\" place=\"above\">starting point</add> in another</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">direction, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spensers</rs> revolt was against no \n            <choice>\n              <sic>particualr</sic>\n              <corr>particular</corr>\n            </choice> writer</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">---had not years of silence intervened? <add hand=\"ms\" place=\"above\">who was there in English save <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs>?</add>--- but against the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>langauge</sic>\n              <corr>language</corr>\n            </choice> itself, its decay, since Chaucer, its corruption.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was partly as an antidote to his own facility; <del hand=\"ms\">that he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">needed him</del>. He found the e \n            <choice>\n              <sic>ourge</sic>\n              <corr>urge</corr>\n            </choice> which the self critical</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writer so often applies to his own disease in the old English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words that were now obsolete. A glossary was added to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#lit-shep\" key=\"Shepherd's Calendar, The\">Shepherds Calendar</rs> to explain them. But partly he used the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crabbed, English of the past not as we in our day</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">seek to bring back the sharpness which much use has worn</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">smooth; but to restrain what was to come. He was, as we <add hand=\"ms\" place=\"inline\">are not</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">cannot be</del>, aware of the future. Everywhere, in \n            <choice>\n              <sic>ballds</sic>\n              <corr>ballads</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">songs, talk in the street, at the tavern, at the back</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">door, he heard \n            <choice>\n              <sic>wit</sic>\n              <corr>with</corr>\n            </choice> his acute ear for sound</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thxx something rising, moving, \n            <choice>\n              <sic>buursting</sic>\n              <corr>bursting</corr>\n            </choice> up</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from \n            <choice>\n              <sic>beanth</sic>\n              <corr>beneath</corr>\n            </choice> <add place=\"above\">[illeg.]</add> the old exact words; the crabbed but precise</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language of Chaucer. Was it not <add place=\"above\">[illeg.]</add> to restrain that \n            <choice>\n              <sic>insur ction</sic>\n              <corr>insurrection</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>thzthe</sic>\n              <corr>that he</corr>\n            </choice> looked back to the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">Canterbury Pilgrims?</rs></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-5-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-3#xywh=669,2854,1897,53",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet what comparison is possible between the poetry of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> and the poetry of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs>? The one clear, sharp,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>me erry</sic>\n              <corr>merry</corr>\n            </choice>; definite; \n            <choice>\n              <sic>strifding</sic>\n              <corr>striding</corr>\n            </choice> straight on. the other sen</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>sisensuous</sic>\n              <corr>sensuous</corr>\n            </choice>, sinuous, dallying, winding in out of the glooms</l>\n        "
+                ]
+            }
+        }
+    ]
+}

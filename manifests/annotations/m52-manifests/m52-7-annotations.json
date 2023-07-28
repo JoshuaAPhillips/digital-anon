@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-7#xywh=926,80,152,164",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">4</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-7#xywh=938,228,1728,768",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at their work--tugging, obscuring, distracting. \n            <choice>\n              <sic>invisble</sic>\n              <corr>invisible</corr>\n            </choice><add hand=\"ms\" place=\"above\">some only visible to the writer; others only visible in [rear?]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the sufferer himself often. More and more complex</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they become as time passes. The song is only to be discovered</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ixmxmxmxmxmxmxmxmxmxmxmxmxmxmxmx instaneously; in a flash</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of recognition; some say they feel it when their beards</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>brsitle</sic>\n              <corr>bristle</corr>\n            </choice>; others that a thrill runs down the nerves of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thigh. But the song is there still...</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-7#xywh=1306,995,426,164",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Waves...</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-7#xywh=1184,1220,426,164",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">...3....</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-7#xywh=904,1368,1824,108",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That babbling child<add hand=\"ms\" place=\"inline\">_</add>like<add hand=\"ms\" place=\"inline\">-</add> \n            <choice>\n              <sic>stroy</sic>\n              <corr>story</corr>\n            </choice> teller, <del hand=\"ms\">that</del><add hand=\"ms\" place=\"above\">the</add> gossip at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the farm door, that innocent eyed, <del hand=\"ms\">very</del> naked, \n            <choice>\n              <sic> u tful</sic>\n              <corr>lustful</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">religious singer, <del hand=\"ms\">that great a</del>xmxmxx <add hand=\"ms\" place=\"above\">&amp; new &amp; aged great</add> artist, Anon, died \n            <choice>\n              <sic>thn</sic>\n              <corr>then</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in in 1476<add hand=\"ms\" place=\"above\">&amp;</add>. With \n            <choice>\n              <sic>hi</sic>\n              <corr>him</corr>\n            </choice> died something in the audience-- <add hand=\"ms\" place=\"after\">the</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">They \n            <choice>\n              <sic>nollonger</sic>\n              <corr>no longer</corr>\n            </choice></del> <add hand=\"ms\" place=\"above\">[illeg.]</add> filled in the \n            <choice>\n              <sic>payses</sic>\n              <corr>pauses</corr>\n            </choice>, and joined in the chorus</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To \n            <choice>\n              <sic>follw</sic>\n              <corr>follow</corr>\n            </choice> his \n            <choice>\n              <sic>firtunes</sic>\n              <corr>fortunes</corr>\n            </choice> \n            <choice>\n              <sic>futhrer</sic>\n              <corr>further</corr>\n            </choice>, we must turn <del hand=\"ms\">to an outsider.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">one of those commentators who tell us so much about the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>invisib</sic>\n              <corr>invisible</corr>\n            </choice> influences; about <rs type=\"person\" ref=\"../resources/annotations.xml#psn-nin\" key=\"Nin\">Nin</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-crot\" key=\"Crot\">Crot</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-pull\" key=\"Pulley\">Pulley</rs>.. His name was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#whar\" key=\"Harrison, William\">Harrison</rs></l>\n        "
+                ]
+            }
+        }
+    ]
+}

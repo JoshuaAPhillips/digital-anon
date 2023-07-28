@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-3-annotations/m54-3-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-5#xywh=877,84,145,166",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">11</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-5#xywh=863,206,1809,77",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the preacher who was for banishing <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rhoo\" key=\"Robin Hood\">Robin Hood</rs>and such</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>supersitions</sic>\n              <corr>superstitions</corr>\n            </choice> was forging the very weapon \n            <choice>\n              <sic>theat</sic>\n              <corr>that</corr>\n            </choice> give the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>mibstrels</sic>\n              <corr>minstrels</corr>\n            </choice> a new lease of life. <del hand=\"ms\">His English.</del> When he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">said the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-lord\" key=\"Lord's Prayer\">Lords prayer</rs> at the beginning and at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">theend of his \n            <choice>\n              <sic>ermon</sic>\n              <corr>sermon</corr>\n            </choice> he was putting English intpo high places.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He was rescuing it from the back door. He was teaching</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Spenser and \n            <choice>\n              <sic>Shakespere</sic>\n              <corr>Shakespeare</corr>\n            </choice> how to write.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-5#xywh=823,966,1813,1982",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Both Harrison and Latimer see the very same house <add hand=\"ms\" place=\"above\">[The house was being?]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>hose</sic>\n              <corr>house</corr>\n            </choice> that was being built on the foundations of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">old house. We can still see the great Elizabethan house</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">whose building was to both preacher and antiquary a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sign of txmxmxmxmxmxmxmxxx luxury. in all its glory.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There it is, standing in its green island of Park \n            <choice>\n              <sic>seapareted</sic>\n              <corr>separated</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">often from the high road by only a \n            <choice>\n              <sic>d p</sic>\n              <corr>dip</corr>\n            </choice> in the ground and a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">low red wall. With its \n            <choice>\n              <sic>congloeration</sic>\n              <corr>conglomeration</corr>\n            </choice> of roofs and chapels</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>chimeys</sic>\n              <corr>chimneys</corr>\n            </choice> \n            <choice>\n              <sic>i</sic>\n              <corr>it</corr>\n            </choice> dwarfs its \n            <choice>\n              <sic>neighboyrs</sic>\n              <corr>neighbours</corr>\n            </choice>. Inside all is kept as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">if the Queen Elizabeth were expected. The upright \n            <choice>\n              <sic>Elizabetahn</sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chairs stand round the walls. Their \n            <choice>\n              <sic>ftinges</sic>\n              <corr>fittings</corr>\n            </choice> and tapestry</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are not much faded. The great oak tables are heavy</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and polished. The \n            <choice>\n              <sic>carbed</sic>\n              <corr>carved</corr>\n            </choice> chairs and cupboards look \n            <choice>\n              <sic>barnd</sic>\n              <corr>brand</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">new. The floor is strewn with carpets; cut glass chandeliers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hang down from the decorated \n            <choice>\n              <sic>pl ter</sic>\n              <corr>plaster</corr>\n            </choice> work on the \n            <choice>\n              <sic>celing</sic>\n              <corr>ceiling</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even knick knacks \n            <choice>\n              <sic>ha v</sic>\n              <corr>have</corr>\n            </choice> survived; the inlaid work box,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the and the pear shaped \n            <choice>\n              <sic>l te</sic>\n              <corr>lute</corr>\n            </choice> on which the Queen once</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">played.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-5#xywh=883,2940,1697,398",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the Elizabethans themselves are silent. Only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the furniture remains,, stiff and ornate, fantastic and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>uncushioned</sic>\n              <corr>uncushioned</corr>\n            </choice>.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

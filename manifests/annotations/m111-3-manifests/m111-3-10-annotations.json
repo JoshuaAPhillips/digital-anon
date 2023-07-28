@@ -1,0 +1,151 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-3-annotations/m111-3-10-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=894,114,194,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">185</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=848,244,1692,26",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the horse had a green tail&#8230; What had happened \n            <choice>\n              <sic>tp</sic>\n              <corr>to</corr>\n            </choice> her?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When she looked out again, the flowers had vanished.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=804,476,1868,74",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-bart\" key=\"Oliver, Bartholomew\">\n            <choice>\n              <sic>Bartholo mew</sic>\n              <corr>Bartholomew</corr>\n            </choice></rs> flicked on the reading lamp. The circle of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">readers was lit up. There in that hollow of the sun baked</l> \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">field were congregated the grass hopper, the ant, and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">beetle, rolling pebbles of baked earth through the glistening</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stubble. In that rosy corner of the sun baked field,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Bartholomew, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gile\" key=\"Oliver, Giles\">Giles</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-lucy\" key=\"Swithin, Lucy\">Lucy</rs>, polished and nibbled, and broke off crumbs,</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=800,1240,1868,228",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"A gentleman at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-surb\" key=\"Surbiton\">\n            <choice>\n              <sic>Subriton</sic>\n              <corr>Surbiton</corr>\n            </choice></rs> has seen a <rs type=\"object\" ref=\"../resources/annotations.xml#obj-comm\" key=\"Comma\">comma</rs> in his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">garden\" Bartholomew announced.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=816,1448,1868,228",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The butterfly that looks \n              <choice>\n              <sic>life</sic>\n              <corr>like</corr>\n            </choice> a leaf? Lucy queried.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">looking up from her letter.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=824,1672,1860,124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The newspaper dropped.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=828,1776,1860,124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"Done?\" said Giles taking it from his fathers hand.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#8.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=820,1888,1892,1084",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The old man relinquished his paper. He basked,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">silently</del>, in the mixed light; one hand, caressing the dog,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xixlxcx rippled folds of skin towards the collar.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The clock ticked; the house gave little cracks as if it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were very brittle, very dry. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-isa\">Isa</rs> hand on the window sill</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">suddenly felt cold. Shadow had obliterated the garden.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Roses had \n            <choice>\n              <sic>withdarwn</sic>\n              <corr>withdrawn</corr>\n            </choice> fxxm <add hand=\"typewriter\" place=\"above\">for</add> the night.\tMrs Swithin,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">folding her letter, \n            <choice>\n              <sic>l ant</sic>\n              <corr>leant</corr>\n            </choice> towards <rs type=\"person\" ref=\"../resources/annotations.xml#psn-isa\" key=\"Oliver, Isa\">Isa</rs> and said; \"I looked</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in and saw the babies; so happy; with the paper flowers on</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their cots.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#9.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10#xywh=840,2956,1844,316",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Giles looked up from his newspaper; Isa became a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mother again, and also a wife.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

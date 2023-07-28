@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-9#xywh=885,113,175,147",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">34</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-9#xywh=795,268,1859,2052",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">much sharper. As these faculties became atrophied,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he became more conscious of the suggestions and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">associations of words. Txxxs One word written in \n            <choice>\n              <sic>Elizabathn</sic>\n              <corr>Elizabethan</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spelling bxmxmxmxmx xxxx has suggestions that give it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">almost another meaning. It suggests other manners, other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">clothes; the difference between one society and another.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then as reading becomes a universal habit, readers split</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">off into many varieties. There are the specialised readers,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">whose power of \n            <choice>\n              <sic>darwing</sic>\n              <corr>drawing</corr>\n            </choice> out the meaning of words is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tremendously developed; so that they remain attached to \n            <choice>\n              <sic>certn</sic>\n              <corr>certain</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aspects of the printed wxxdxx page--the scholars, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">students. At the opposite end of the scale, there is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very large class of perfectly literate people whose eyes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">travel over miles of print yearly, yet never read a word.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">Some <del hand=\"ms\">way</del> <add hand=\"ms\" place=\"above\">where</add> between the two,</add> The reader at the present moment exxxxxsx is placed somewhere</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">between these two extremes. And his faculty is a very</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>curous</sic>\n              <corr>curious</corr>\n            </choice> one. He has the power to make houses and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">places, men and women and their thoughts and emotions</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>isible</sic>\n              <corr>visible</corr>\n            </choice> to him, from marks on a piece of paper.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-9#xywh=743,2344,1835,1124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Somehwere</sic>\n              <corr>Somewhere</corr>\n            </choice> between the two comes the reader. His faculty is a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very curious one. He has the power to make houses and places</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">visible from marks on a \n            <choice>\n              <sic>ipiece</sic>\n              <corr>piece</corr>\n            </choice> of paper; to draw \n            <choice>\n              <sic>emitons</sic>\n              <corr>emotions</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>very</sic>\n              <corr>every</corr>\n            </choice> kind; and also some quality that is independent</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of emotion; form; unity. He is capable of all the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impulses of a writer; but lacks the power of creation.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His \n            <choice>\n              <sic>influnece</sic>\n              <corr>influence</corr>\n            </choice> upon what is \n            <choice>\n              <sic>wr tten</sic>\n              <corr>written</corr>\n            </choice> at any time is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">immense; In times of public stress, for instance, the writer</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is \n            <choice>\n              <sic>uincapable</sic>\n              <corr>incapable</corr>\n            </choice> of \n            <choice>\n              <sic>swriting</sic>\n              <corr>writing</corr>\n            </choice>; in part at least because</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he has no audience. The life of a reader is thus</l>\n        "
+                ]
+            }
+        }
+    ]
+}

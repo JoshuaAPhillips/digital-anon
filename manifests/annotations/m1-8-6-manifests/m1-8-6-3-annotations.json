@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-6-annotations/m1-8-6-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-6-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-3#xywh=735,164,1861,316",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Further, <del>this</del> he has given currency to much more</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>than any other writer,</del> that everyone can <del>find</del> [make? small?] [hug?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">himself in \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> <del>The scholars</del> <del>We have therefore</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>self no</del> <del>the reader can always extract the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>very words that fit himself.</del> In other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>books there is</del> <del>this</del> It is for this reason</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>that</del> the critic <del>paits his o</del> is always</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>accenting the</del> can always find in \n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a</del> something that only he can find &#8211; his own</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">idiosyncrasies. Hence the autobiographical</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">element in             \n            <choice>\n              <sic>Sh.</sic>\n              <corr>Shakespeare</corr>\n            </choice> criticism: Each of their explorers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is <del>drawn</del> seems for a moment to sum up, &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">then is consumed, &amp; the light forms from behind him:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this effort which it leaves \n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice> always\n          </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">undiscivered, in the sense that [later?] writers are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">summed up because there are such obvious</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">limits to their power. But it means that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice> is always alive. <del>It is useless to fight</del>\n          </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[survived?] him s</del> <del>At</del> <del>The</del> <del>And although</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the appetite of the reader is always capacious:</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he is not, as so many writers are, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He does not, as so many writers do, feed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">momentary appetites &amp; all readers who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are themselves writers, feel <del>at</del> inexplicable</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hunger, for certain styles, for certain forms.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare's</corr>\n            </choice> styles are so innumerable that he never\n          </l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lowers <del>as to</del> to clear up any particular points</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>any</del> <del>the</del> He can as [soon?] be read, when the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ink has gone dry on the pen, to restore language</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He can give the general sense of speed.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the style &amp; the [scope?] make him</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">unsuitable, unless, for the writer as a model.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m110-annotations/m110-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/926,98,125,123/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">26</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/939,220,1666,220/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> with his eye upon the reader in the great room.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet the audience for all its size and compulsion is silent.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/595,180,443,540/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>If we</l>\n            <l><choice>\n              <sic>cd.</sic>\n              <corr>could</corr>\n            </choice> measure</l>\n            <l>the effect</l>\n            <l>of the audience</l>\n            <l>we <choice>\n              <sic>shd.</sic>\n              <corr>should</corr>\n            </choice></l>\n            <l>have a hold</l>\n            <l>upon the</l>\n            <l>play.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/923,436,1754,1660/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That is one of the deep gulfs that lies between us</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the play. They crowd there; daily; but they neither</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>priase</sic>\n              <corr>praise</corr>\n            </choice> nor blame. We must compare it with our \n            <choice>\n              <sic>won</sic>\n              <corr>own</corr>\n            </choice> \n            <choice>\n              <sic>sielnce</sic>\n              <corr>silence</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-balle\" key=\"Ballet Russes\">Russian ballet</rs> or the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cine\" key=\"Cinema\">\n            <choice>\n              <sic>cima</sic>\n              <corr>cinema</corr>\n            </choice>, in their early days.</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">A new art comes upon us so \n            <choice>\n              <sic>surpinsgly</sic>\n              <corr>surprisingly</corr>\n            </choice> that we sit</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silent, recognising what we cannot measure.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To the Elizabethans the expressive power of words</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">after their long inadequacy \n            <choice>\n              <sic>ust</sic>\n              <corr>must</corr>\n            </choice> have been overwhelming.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-glob\" key=\"Globe, The\">\n            <choice>\n              <sic>Glove</sic>\n              <corr>Globe</corr>\n            </choice></rs> or at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-rose\" key=\"Rose, The\">Rose</rs> men and women whose only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reading had been the Bible or some old \n            <choice>\n              <sic>chonicle</sic>\n              <corr>chronicle</corr>\n            </choice> came out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">into the light of the present moment. They saw themselves</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">splendidly dressed. They heard \n            <choice>\n              <sic>themslves</sic>\n              <corr>themselves</corr>\n            </choice> saying out loud</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">what they had never said yet. They heard their aspirations,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their profanities, their \n            <choice>\n              <sic>ribaldires</sic>\n              <corr>ribaldries</corr>\n            </choice> spoken out loud by human</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voices in poetry.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\"><!-- come back to this on the big screen --></add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/859,2128,1754,1220/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The play then owes its hyperbole to the audience in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">penny seats. At their command it is \n            <choice>\n              <sic>vio;ent</sic>\n              <corr>violent</corr>\n            </choice>; it xmxmxmmxmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is coarse; it is poexxx xmxmxmxm a parody, of actual</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">facts. like our own detective stories and best sellers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a \n            <choice>\n              <sic>paody</sic>\n              <corr>parody</corr>\n            </choice> a \n            <choice>\n              <sic>trasnformation</sic>\n              <corr>transformation</corr>\n            </choice> of actual fact. But in the seats</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the covered part of the house, there were nobles, rulers,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scholars. Their \n            <choice>\n              <sic>silenc</sic>\n              <corr>silence</corr>\n            </choice> is harder to explain. For they were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>redares</sic>\n              <corr>readers</corr>\n            </choice>; they had the Latins and the Greeks at the back</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of their minds. How could it have been that the trained</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">taste of such \n            <choice>\n              <sic>speactoars</sic>\n              <corr>spectators</corr>\n            </choice> received the extraordinary</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">illumination of these English plays with no more comment</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/526,3010,518,434/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>said nothing</l>\n            <l>about the</l>\n            <l>[revelation?],</l>\n            <l>was not</l>\n            <l>outraged, by</l>\n            <l>an excited</l>\n            <l>- as seems to be the <del hand=\"ms\">common</del> reader to a [illeg.] </l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

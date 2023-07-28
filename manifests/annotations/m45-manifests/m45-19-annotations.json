@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-19-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-19#xywh=686,106,2012,1708",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> <del>But</del> <del>As for</del> <del>It is against that</del> He shuffles his pages</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with <del>those heroic figures</del> these are the great figures</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that surround the peasants; the pilgrims; the singers; &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del>he sees that</del> The wandering singer, the [beginner?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who sings to the dairy maids at the back door</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">makes no show against those Greeks &amp; Romans.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> <del>But he shows us the actual house;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>which has been built</del>  But there is England itself,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>village, with</del> the [forest?] as been felled; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hut has given place to the house; the house has</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">windows, chimneys, pillows, &amp; silver jugs:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the smok</del> And there is <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs>; with its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gren\" key=\"Greenwich\">Greenwich</rs> &amp; the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">queen</rs>; &amp; a few ships: &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; there, though he cannot see himself, is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Harrison, a [illeg.] yet kindly man,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">obsessively addressing his patron, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcob\" key=\"Cobham, William\">Lord Cobham</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rooted to his <rs type=\"place\" ref=\"../resources/annotations.xml#pla-radw\" key=\"Radwinter\">Radwinter</rs> in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-esse\" key=\"Essex\">Essex</rs> <del>with a</del> owning a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mastiff; <del>He</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-19#xywh=692,1800,2024,288",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">English had gone downstairs, into the kitchen, into the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">farmyard.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-19#xywh=670,2012,2024,288",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; more painful. For they reminded him of his lack of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">birth; <del>of his [illeg.] his mind</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-19#xywh=692,2278,1984,112",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When he looks back, he does not see <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jlyd\" key=\"Lydgate, John\">Lydgate</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-jwyc\" key=\"Wycliffe, John\">Wycliffe</rs>, <del>he does not</del> <add place=\"above\">Not</add> the plain \n            <choice>\n              <sic>unmetaphoracal</sic>\n              <corr>unmetaphorical</corr>\n            </choice></l> ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language to which we [illeg.], in claiming</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an ancestor, was <del>to him</del> not <del>the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Chaucer is not his ancestor, as he is ours; he looks</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>When</del> His ancestors, by way of the mind, are the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Greeks or the Romans. &#8211; <del>The</del> <del>Bible</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the background of his mind [strained?] the old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[facts?] <del>~</del> They occupied the same place in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his mind that the \n            <choice>\n              <sic>Ethns</sic>\n            </choice> occupy in ours</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great books that were chained to the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

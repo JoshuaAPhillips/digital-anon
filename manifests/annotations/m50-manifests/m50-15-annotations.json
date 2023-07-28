@@ -1,0 +1,90 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15#xywh=861,128,108,152",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">8</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15#xywh=855,268,1734,1528",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The \n            <choice>\n              <sic>histroians</sic>\n              <corr>historians</corr>\n            </choice> work from the outer to the inner;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from the house they infer the tenant of the house. It is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">house they uncover; the chairs, the tables, the bills, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">close \n            <choice>\n              <sic>stolls</sic>\n              <corr>stools</corr>\n            </choice>, the spinning wheels, the tapestry.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It is as if we were bidden to infer from a tweed suit,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">six hats, a fox terrier, and a silver \n            <choice>\n              <sic>knovved</sic>\n              <corr>knobbed</corr>\n            </choice> walking stick</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the life and works of a novelist called <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hjam\" key=\"James, Henry\">\n            <choice>\n              <sic>Hnery james</sic>\n              <corr>Henry James</corr>\n            </choice></rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Save for \n            <choice>\n              <sic>Vhaucer</sic>\n              <corr>Chaucer</corr>\n            </choice> and Lydgate and the voice of Anon singing</l>  \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at the back door the English might be a dumb race; a race</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of merchants, \n            <choice>\n              <sic>s ldiers</sic>\n              <corr>soldiers</corr>\n            </choice>, \n            <choice>\n              <sic>preists</sic>\n              <corr>priests</corr>\n            </choice> and builders who left\n            <choice>\n              <sic>nehind</sic>\n              <corr>behind</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">them stone houses, cultivated fields and many churches and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cathedrals. ; but no words. The great house is silent.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Only the furniture remains, stiff and ornate, fantastic and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">uncushioned.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15#xywh=839,1780,1814,1664",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At <rs type=\"place\" ref=\"../resources/annotations.xml#psn-gorh\" key=\"Gorhambury\">Gorhambury</rs> for \n            <choice>\n              <sic>instnace</sic>\n              <corr>instance</corr>\n            </choice> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Ann\">Lady Ann Bacon</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sat at her table <choice>\n            <sic>rwiting</sic>\n            <corr>writing</corr>\n          </choice> to <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">her son</rs>. Her <choice>\n            <sic>lettres</sic>\n            <corr>letters</corr>\n          </choice> <add hand=\"ms\" place=\"above\">&#8212;compare them with</add> might have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>veen</sic>\n              <corr>been</corr>\n            </choice> sermons from the <choice>\n              <sic>pulpi;t</sic>\n              <corr>pulpit</corr>\n            </choice>; or state <choice>\n              <sic>dosuments</sic>\n              <corr>documents</corr>\n            </choice>, <choice>\n              <sic>intrcaite</sic>\n              <corr>intricate</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>inlvoved</sic>\n              <corr>involved</corr>\n            </choice> and evasive. She is a counsellor admonishing a sub</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ordinate; \n            <choice>\n              <sic>sShe</sic>\n              <corr>she</corr>\n            </choice> is \n            <choice>\n              <sic>awrae</sic>\n              <corr>aware</corr>\n            </choice> only of the wickedness \n            <choice>\n              <sic>fof</sic>\n              <corr>of</corr>\n            </choice> men,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the dangers and \n            <choice>\n              <sic>decits</sic>\n              <corr>deceits</corr>\n            </choice> of the world; and the awfuless of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">God. Greek and Latin come to her pen as easily as \n            <choice>\n              <sic> nglish</sic>\n              <corr>English</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If she has to descend to the actual object--a basket of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">strawberries--it is with \n            <choice>\n              <sic>cirumlocuitions</sic>\n              <corr>circumlocutions</corr>\n            </choice> and dark</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>insiutaions</sic>\n              <corr>insinuations</corr>\n            </choice>. <quote source=\"#\" rend=\"inline\">\"I have sent them by the boy of my kitchen,</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\">a shrewd witted boy and prettily \n            <choice>\n              <sic>catchized</sic>\n              <corr>catechized</corr>\n            </choice> but yet an un</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">toward \n            <choice>\n              <sic>rcrafty</sic>\n              <corr>crafty</corr>\n            </choice> boy....\"</quote> She xxxxxx <choice>\n              <sic>ex horts</sic>\n              <corr>exhorts</corr>\n            </choice>:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"God keep us sound in faith the faith and send us \n            <choice>\n              <sic>h  lth</sic>\n              <corr>health</corr>\n            </choice></quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">and a care to please God above all.\"</quote> She admonishes:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"Be not speedy of speech, nor talk suddenly, but where</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15#xywh=199,1876,667,264",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"ms\" place=\"margin\">\n            <l>until <rs type=\"person\" ref=\"../resources/annotations.xml#psn-msev\" key=\"Madame de Sevign&#233;\">Madame de</rs></l>\n            <l><rs type=\"person\" ref=\"../resources/annotations.xml#psn-msev\">Sevign&#233;'s</rs></l></add>\n        "
+                ]
+            }
+        }
+    ]
+}

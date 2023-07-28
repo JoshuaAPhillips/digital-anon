@@ -1,0 +1,74 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m51-annotations/m51-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-15#xywh=965,123,112,142",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">9</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-15#xywh=908,264,1748,312",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>theless</sic>\n              <corr>Nevertheless</corr>\n            </choice>, they could not follow the speaking voice, that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice that talks briefly, colloquially. The audience is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speechless.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-15#xywh=959,608,1694,2728",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> \n            <choice>\n              <sic>the n</sic>\n              <corr>then</corr>\n            </choice>, standing on the threshold of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great room at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-pens\" key=\"Penshurst\">\n            <choice>\n              <sic>Penshurt</sic>\n              <corr>Penshurst</corr>\n            </choice></rs>--<quote source=\"#\" rend=\"inline\">\"a little man with short</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">hair, a small band and cuffs\"</quote>--- was separate from Anon the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>misntrel</sic>\n              <corr>minstrel</corr>\n            </choice>; separate from \n            <choice>\n              <sic>Holingshed</sic>\n              <corr>Holinshed</corr>\n            </choice> the \n            <choice>\n              <sic>chorniclaer</sic>\n              <corr>chronicler</corr>\n            </choice>; and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separate, in that he saw the scene with detachment and wished</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to record it, \n            <choice>\n              <sic>fro </sic>\n              <corr>from</corr>\n            </choice> his \n            <choice>\n              <sic>audie ce</sic>\n              <corr>audience</corr>\n            </choice>. But the book which had</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">given his word a separate \n            <choice>\n              <sic>exsience</sic>\n              <corr>existence</corr>\n            </choice>, had brought into being</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a little group of readers. That influence, unknown to Anon,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">began at once to exert its pressure. What is \n            <choice>\n              <sic>he</sic>\n              <corr>the</corr>\n            </choice> poem that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">will please <rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sir Philip Sidney</rs>? What is the theme that will</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flatter the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs>? What will so flatter the audience that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they will procure for the poet a place, a pension?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">From this \n            <choice>\n              <sic>tiem</sic>\n              <corr>time</corr>\n            </choice> onward these are to be among the influences</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that tug, that distort, that \n            <choice>\n              <sic>twart</sic>\n              <corr>thwart</corr>\n            </choice>; as also they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stimulate, and draw out. There are some among them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the writer only \n            <choice>\n              <sic>reaslies</sic>\n              <corr>realises</corr>\n            </choice>; others that the readers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in time to come discover. More and more complex do \n            <choice>\n              <sic>t ey</sic>\n              <corr>they</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">grow, as \n            <choice>\n              <sic>t e</sic>\n              <corr>the</corr>\n            </choice> book with the authors name on it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>r aches</sic>\n              <corr>reaches</corr>\n            </choice> a more various a more divided \n            <choice>\n              <sic>audi ce</sic>\n              <corr>audience</corr>\n            </choice>. The the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">public insists; it wants, according to its \n            <choice>\n              <sic>welah</sic>\n              <corr>wealth</corr>\n            </choice> and its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>poeverty</sic>\n              <corr>poverty</corr>\n            </choice>, its education or \n            <choice>\n              <sic>irgnoarnce,</sic>\n              <corr>ignorance</corr>\n            </choice>, now \n            <choice>\n              <sic>hist ry</sic>\n              <corr>history</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">now \n            <choice>\n              <sic>meloframa</sic>\n              <corr>melodrama</corr>\n            </choice>, now \n            <choice>\n              <sic>powtry</sic>\n              <corr>poetry</corr>\n            </choice>, now whatever will make it forget</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">its drab and dismal existence. As the book becomes more and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">more aware of these \n            <choice>\n              <sic>infl unces</sic>\n              <corr>influences</corr>\n            </choice> the thing that the writer</l>\n        "
+                ]
+            }
+        }
+    ]
+}

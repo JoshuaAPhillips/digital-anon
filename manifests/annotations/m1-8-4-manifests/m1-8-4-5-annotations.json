@@ -1,0 +1,94 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-4-annotations/m1-8-4-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-5#xywh=721,80,1775,2056",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Then</del> <del>a</del><add place=\"inline\">A</add>gain the curtain rises; <add place=\"inline\">&amp;</add> the shadowy</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">insubstantial life that was <del>smothered</del> in</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>th</del> <del>in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-ches\" key=\"Cheshire\">Cheshire</rs>, at [illeg.], invisible</del></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>ought to</del> of the country squire, of the maid of</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">honour is <del>visible to us</del> is revealed. The</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>all</del> in a round, almost before we have had</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">time to settle in our seats, we are</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the thick of <del>real powers</del>: of love; of adultery</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of murder. Everything is on tip toe. The</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mute silent <del>loves</del> figures are seen in all</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their [bravery?]. The pressure of unexpressed</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion, <del>of the things that</del> has embodied itself</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">into [illeg.], into the figures of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-frana\" key=\"Frankland\">Frankland</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-franb\" key=\"Frankland's Wife\">his wife</rs>:</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wend\" key=\"Wendoll\">Wendoll</rs> the adulterer; in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-acto\" key=\"Acton\">Acton</rs> the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the supper is laid; the cards are on the table; &amp;</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the husband sees his wife lying [always?], in the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">arms of her lover. <del>We</del> the old yellow pages,</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with their blanks, their riddles, their [suppressions?]</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that can no longer be deciphered, <del>are</del></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">give place to the outright downright speech.</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the play <add place=\"above\">light</add> all is evident &amp; [outspoken?]. In</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">real life all is hidden <add place=\"above\">&amp;</add> <del>covered</del> <del>over</del> suppressed:</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> <del>And</del> <del>The playwright has some of [colour?] in</del></l>\n          "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-5#xywh=123,708,695,388",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n              <l>all their concealed,</l>\n              <l>all their suppressed</l>\n              <l>[immediately?], as</l>\n            </add>\n          "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-5#xywh=857,2086,671,172",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But how far can</del></l>\n          "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-4-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-5#xywh=755,2148,1691,114",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anonymity is fast dispersing. The <del>play</del> dramatist</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is <del>becoming self [anxious?]. The play is coming to be</del></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the merits the</del> And <del>at some point, the</del></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the dramatist is emerging from the <del>old</del></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">juggler &amp; the bear leader. He is <del>becoming</del></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">freeing himself from the compulsion of the audience.</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He is <del>reserving</del> <del>A</del> <del>There is a</del> The</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>bodily, the actual,</del> If the body must still</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dominate the little stage, if the</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">actual must be before the eye, &amp; the</l>\n          "
+                ]
+            }
+        }
+    ]
+}

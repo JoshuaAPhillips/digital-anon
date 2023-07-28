@@ -1,0 +1,76 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-7#xywh=832,88,145,151",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">31</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-7#xywh=796,228,1796,3188",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The great house that <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hlat\" key=\"Latimer, Hugh\">Latimer</rs> \n            <choice>\n              <sic>delpored</sic>\n              <corr>deplored</corr>\n            </choice> becomes solid and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">entire in the pages of Lady <rs type=\"person\" ref=\"../resources/annotations.xml#psn-aclif\" key=\"Clifford, Ann\">Anne Cliffords</rs> diary.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">From the first she is aware of her rights of a noble.</add> She is aware from her first youth of her rights as a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">land owner. She has a profound sense of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the rights of the \n            <choice>\n              <sic>possesor</sic>\n              <corr>possessor</corr>\n            </choice>. The body is visible to her.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">what she [illeg.], the [illeg.]<!-- come back to this --></add>She is for ever rebuilding castles,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">acquiring land, asserting her rights to property,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">claiming diamond buttons, making \n            <choice>\n              <sic>inventroies</sic>\n              <corr>inventories</corr>\n            </choice> of her \n            <choice>\n              <sic>possesin</sic>\n              <corr>possessions</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as if to \n            <choice>\n              <sic>soldify</sic>\n              <corr>solidify</corr>\n            </choice> them further. <add hand=\"ms\" place=\"above\">Family love is in part the desire to maintain her [honour?]</add> She has asense of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">family who will \n            <choice>\n              <sic>imherit</sic>\n              <corr>inherit</corr>\n            </choice> her possessions.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She sends for her \n            <choice>\n              <sic>grandcholdren</sic>\n              <corr>grandchildren</corr>\n            </choice> in order that \n            <choice>\n              <sic>ghey</sic>\n              <corr>they</corr>\n            </choice> may</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">taste the delight of \n            <choice>\n              <sic>posseson</sic>\n              <corr>possession</corr>\n            </choice> and so refresh her own satis</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">faction. The living body is robed in black and yellow</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">taffeta. Clothes are so \n            <choice>\n              <sic>imp rtant</sic>\n              <corr>important</corr>\n            </choice> that they become things</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to be handed on. The living body is robed in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">black and yellow taffeta. The dead body is sealed in lead</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to preserve its flesh from \n            <choice>\n              <sic>d cay</sic>\n              <corr>decay</corr>\n            </choice>. The The sense of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">body permeates her pages; <del hand=\"ms\">whether alive or dead.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The human soul seems to become more expressive when its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>carcase</sic>\n              <corr>carcass</corr>\n            </choice> flashed in the public eye. All movements of the human</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">body, from place to place, are attended with great effort;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and become \n            <choice>\n              <sic>specatacular</sic>\n              <corr>spectacular</corr>\n            </choice>. Six bay horses drag the coach;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Th</sic>\n              <corr>The</corr>\n            </choice> coach is lined with green cloth, and laced</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with green and black silk lace. \n            <choice>\n              <sic>Crwods</sic>\n              <corr>Crowds</corr>\n            </choice> \n            <choice>\n              <sic>attned</sic>\n              <corr>attend</corr>\n            </choice> her.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She is for ever asserting her identity,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with \n            <choice>\n              <sic>inittails</sic>\n              <corr>initials</corr>\n            </choice> carved in stone even over \n            <choice>\n              <sic>farm hous</sic>\n              <corr>farmhouse</corr>\n            </choice> walls.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This is her property; this land is hers by right.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Fxmxmxmxmxmmxmx \n            <choice>\n              <sic>Certian</sic>\n              <corr>Certain</corr>\n            </choice> flesh and blood--txmxmmxmxmxmx</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-7#xywh=206,302,646,618",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"ms\" place=\"margin\">\n            <l>of what was</l>\n            <l>due to her </l>\n            <l>birth &#8211;&#8211;</l>\n            <l>then, as she grows older,</l>\n            <l>she fights, even in the</l>\n            <l>Kings presence, for her</l>\n            <l>land</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

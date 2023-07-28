@@ -1,0 +1,120 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11#xywh=685,76,1891,1712",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">has a very quick eye. <del>He</del> <del>The eye</del> is connected with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">body rather than the brain. <del>He</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> has no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">home. He lives a roaming out of door life,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>hears rather than thinks, &amp;</del> <del>it is a</del> <del>lives</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>out of doors, in Anon's day, was</del> spring from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">village to village, <del>through</del> along \n            <choice>\n              <sic>strang</sic>\n              <corr>strange</corr>\n            </choice> paths, <del>where</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">over the <del>downs;</del> <add place=\"above\">hills;</add> <del>is seeing</del> <del>we can still sometimes</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Now &amp; then,</del> by choosing a view carefully to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shut out a chimney or a bungalow, we can still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">see what <del>he</del> <add place=\"above\">Anon</add> saw &#8211; <add place=\"above\">[the?]</add> a flat fen, bird haunted, reed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">whispering, <del>water logged,</del> <del>in a</del> <add place=\"above\">the</add> a down <del>with turf only,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">covered with turf, &amp; the scar on the down, along</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> Anon came, when he made his journeys.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11#xywh=197,1176,495,444",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>Anon [was not?]</l>\n            <l>an author:</l>\n            <l>he knew</l>\n            <l>when to</l>\n            <l>stop</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11#xywh=685,1270,1795,504",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs> who killed <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>. by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by giving him a name. <del>It was</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs> made <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">some one apart from his song. <del>But the author lived</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was the author was before in existence, however,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>before Caxton:</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11#xywh=657,1670,2019,744",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>C</del> The printed book, with the author's name attached</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">by brought in the author, ended the [nameless? anonymous?] song of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience. <del>At</del> The <del>song became</del> the author became</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">alone responsible. Never again was the song to be a [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It <del>was</del> attached the song to the author.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">After that <add place=\"above\">(1478)</add> Anon becomes James &amp; Thomas: he lives in a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">home; <add place=\"above\">&amp;</add> he has books <del>&amp; his</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11#xywh=1345,2386,347,136",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">3.2</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11#xywh=669,2490,1891,964",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The heart of this vast proliferation of printed pages is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>always</del> the song. <del>It has</del> <del>is as</del> <add place=\"above\">The song</add> has <del>exactly</del> the same</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">power over the <del>mind in</del> reader in the 20<hi rend=\"superscript\">th</hi> century as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">over the hearer in the 11<hi rend=\"superscript\">th</hi> century. <del>The thing [fumes?]</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>in the hand</del> <del>in the hand reading</del> <del>It</del> <del>So</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> Either to <del>be</del> <del>come upon the song, expressed, or</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to feel the [heroic?] to <del>express</del> <add>[run?]</add>, &#8211; <del>to to be the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or to enjoy the expression <add place=\"above\">song made</add> by another, is <del>so</del> the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

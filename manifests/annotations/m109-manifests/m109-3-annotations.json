@@ -1,0 +1,40 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m109-annotations/m109-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-3#xywh=976,42,154,186",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">26</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m109-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-3#xywh=895,192,1818,748",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But under the <choice>\n            <sic>celing</sic>\n            <corr>ceiling</corr>\n          </choice>, on the seats, there were gentlemen,</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and noblemen, men versed in Latin and Greek; scholars,</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">courtiers, statesmen. Their silence was equally profound.</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But their influence was also effective. ThxmxBaconsxxmxmx</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-stra\" key=\"Elizabeth and Essex\">Elizabeth and Essex</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> found what suited them too</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the \n          <choice>\n            <sic>plyhouse</sic>\n            <corr>playhouse</corr>\n          </choice></l>\n        "
+                ]
+            }
+        }
+    ]
+}

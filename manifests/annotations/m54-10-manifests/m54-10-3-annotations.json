@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-10-annotations/m54-10-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3#xywh=883,54,227,198",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">21</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3#xywh=881,218,1811,143",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">strong. The watermen of the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\" key=\"Bankside\">Bankside</rs> lived on their fares.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The flag flew; the trumpets sounded; and the \n            <choice>\n              <sic>audince</sic>\n              <corr>audience</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">paying their penny, their two pence or their six pence,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>criwded</sic>\n              <corr>crowded</corr>\n            </choice> into the playhouse, and beheld in the light</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of day noxmxmxmxmxmx <add hand=\"ms\" place=\"above\">[illeg.]</add> actors, richly dressed \n            <choice>\n              <sic>accoring</sic>\n              <corr>according</corr>\n            </choice> to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">one spectator in  the cast off robes of the \n            <choice>\n              <sic>novbles</sic>\n              <corr>nobles</corr>\n            </choice>, sold by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their servants. in the taffetas and tinsels that \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-phen\" key=\"Henslowe, Philip\"><choice>\n              <sic>Hensloew</sic>\n              <corr>Henslowe</corr>\n            </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the satin doublets and hose laid thick with gold lace</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that \n            <choice>\n              <sic>Henslew</sic>\n              <corr>Henslowe</corr>\n            </choice> entered in his book. But; or \n            <choice>\n              <sic>accorind</sic>\n              <corr>according</corr>\n            </choice> to th \n            <choice>\n              <sic>on</sic>\n              <corr>one</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spectator, dressed in the cast off robes of their servants. There was no scenery. The sun beat</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or the rain \n            <choice>\n              <sic>pour d</sic>\n              <corr>poured</corr>\n            </choice> on the common people standing in the yard.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>A d</sic>\n              <corr>And</corr>\n            </choice> then the actor spoke:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3#xywh=895,1626,1355,358",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>Brother Cosroe, I find myself aggrieved,</l>\n            <l>Yet insufficient to express the same;</l>\n            <l>For it requires a great and \n              <choice>\n                <sic>thunder ng</sic>\n                <corr>thundering</corr>\n              </choice> speech</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3#xywh=891,1970,1831,386",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At last the voice of a real man speaks. The play is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">centred; concentrated. It has a lodging. The \n            <choice>\n              <sic>wabdering</sic>\n              <corr>wandering</corr>\n            </choice> voices</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxxx are concentrated; the</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-10-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3#xywh=907,2342,1803,986",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">At last the wandering voices are collected. One man speaks</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in his own person. The \n            <choice>\n              <sic>wnadering</sic>\n              <corr>wandering</corr>\n            </choice> voices are collected<add place=\"inline\" hand=\"ms\">: [centred?]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is no abstraction any longer. All is visible, \n            <choice>\n              <sic>tamgible</sic>\n              <corr>tangible</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audible. The world takes shape behind him. Egypt and Libya</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and \n            <choice>\n              <sic>Perisa</sic>\n              <corr>Persia</corr>\n            </choice> and Greece unroll bxmxmxmxmmxx and armies and</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Kings and \n              <choice>\n                <sic>p ains</sic>\n                <corr>plains</corr>\n              </choice>. Kings and Emperors \n              <choice>\n                <sic>strdie</sic>\n                <corr>stride</corr>\n              </choice> \n              <choice>\n                <sic>fort </sic>\n                <corr>forth</corr>\n              </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">palpable, and strident. They emerge like great moths,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmx sxmxmxmx shaking their wings still creased and</l>  \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">damp in \n            <choice>\n              <sic>ansurd</sic>\n              <corr>absurd</corr>\n            </choice> hyperboles.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

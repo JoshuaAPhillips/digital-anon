@@ -1,0 +1,106 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m110-annotations/m110-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-5/861,30,161,202/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">28</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-5/831,196,1857,1020/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nature of Princes; with the arts by which rulers can sway,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">can coax, and can supress. He lives \n            <choice>\n              <sic>netirely</sic>\n              <corr>entirely</corr>\n            </choice> in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world of great spirits and great business. The common people</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is contemptible. <quote source=\"#\" rend=\"inline\">\"The master of superstition is the \n            <choice>\n              <sic>Peopoe</sic>\n              <corr>People</corr>\n            </choice>.</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Praise <quote source=\"#\" rend=\"inline\">\"if it be from the common people, it is \n            <choice>\n              <sic>commnoly</sic>\n              <corr>commonly</corr>\n            </choice></quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>false and naught. The lowest virtues draw \n              <choice>\n                <sic>priase</sic>\n                <corr>praise</corr>\n              </choice> from them;</l>\n            <l>the middle virtues work in them \n              <choice>\n                <sic>Astonihsment</sic>\n                <corr>Astonishment</corr>\n              </choice>; and admiration;</l>\n            <l>but of the highest vertues they have no sense or \n              <choice>\n                <sic>perceibging</sic>\n                <corr>perceiving</corr>\n              </choice></l>\n            <l>at all...\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even in the delicate grove thought is coloured.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-5/823,1212,1865,1108/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The soul that walked between delicate groves keeps to a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">narrow path between hedges. While <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">Montaigne</rs> ranged the world.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>micing</sic>\n              <corr>mixing</corr>\n            </choice> garrulously with everyone, and speculating freely,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> kept to the narrow path. Yet even in the shade</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his thought is embodied. His deep meditations are given \n            <choice>\n              <sic>visibe</sic>\n              <corr>visible</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxxxx concrete form. <quote source=\"#\" rend=\"inline\">\"Nay \n            <choice>\n              <sic>bretire</sic>\n              <corr>retire</corr>\n            </choice> men cannot when they would:</quote></l>\n            ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n              <l>neither will they when it were reason; \n                <choice>\n                  <sic>bu</sic>\n                  <corr>but</corr>\n                </choice> are \n                <choice>\n                  <sic>impateint</sic>\n                  <corr>impatient</corr>\n                </choice></l>\n              <l>of privateness even in age and sickness which require the</l>\n              <l>Shadow; Like old Townsmen that will still be sitting at \n                <choice>\n                  <sic>ther</sic>\n                  <corr>their</corr>\n                </choice></l>\n              <l>street door, though thereby they offer Age to scorn.\"</l>\n            </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-5/507,2348,1834,236/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"ms\" place=\"margin\">\n            <quote source=\"#\">\n            <l>The <hi rend=\"underline\">colours</hi> that <del hand=\"ms\">show</del> shew best by candlelight, are:</l>\n            <l>white, carnation, &amp; a kinde of sea-water green</l></quote>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m110-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-5/827,2624,1834,644/full/0/default.jpg",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">His contempt was \n            <choice>\n              <sic>fr</sic>\n              <corr>for</corr>\n            </choice> hyperbole; not for the art of speech.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He was teaching the ranting players to speak slowly, closely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">subtly. He was proving that there is another kind of poetry,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>thepoetry</sic>\n              <corr>the poetry</corr>\n            </choice> of prose. He was doing his part to bring the \n            <choice>\n              <sic>critic</sic>\n              <corr>critical</corr>\n            </choice> <add hand=\"ms\" place=\"above\">share in bringing the shade</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">faculty into being. <add hand=\"ms\" place=\"above\">prose of the mind</add> He was making an end of anonymity. <add hand=\"ms\" place=\"above\">There by [making?] <!-- come back to this --></add></l>\n        "
+                ]
+            }
+        }
+    ]
+}

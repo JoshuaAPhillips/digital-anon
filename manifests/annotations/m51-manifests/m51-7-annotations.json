@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m51-annotations/m51-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-7#xywh=898,142,124,136",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">5</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-7#xywh=902,236,1740,596",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The oak tables are heavy and polished. The floor is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">laid with rugs; cut glass \n            <choice>\n              <sic>chand liers</sic>\n              <corr>chandeliers</corr>\n            </choice> hang down from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">decorated plaster work of the \n            <choice>\n              <sic>celing</sic>\n              <corr>ceiling</corr>\n            </choice>. \n            <choice>\n              <sic>Kick kncaks</sic>\n              <corr>Knick knacks</corr>\n            </choice> have \n            <choice>\n              <sic>survid</sic>\n              <corr>survived</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">an inlaid work box, an old doublet; and the pear shaped</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lute that the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs> once played.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m51-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-7#xywh=808,796,1856,2584",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But \n            <choice>\n              <sic>of</sic>\n              <corr>if</corr>\n            </choice> the great \n            <choice>\n              <sic>Elizabethna</sic>\n              <corr>Elizabethan</corr>\n            </choice> house looks to us out of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">proportion, a derelict among the bungalows, it is \n            <choice>\n              <sic>b cause</sic>\n              <corr>because</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the connection between it and the village is lost. If we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">could see the great house as it was in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">\n            <choice>\n              <sic> arriosn</sic>\n              <corr>Harrison's'</corr>\n            </choice></rs> time we</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">should see tracks raying out from the great house across the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fields to the cottage, to the farm, even to the hovel.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Paths were worn by the fighters; and the ploughers.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They must be armed against other men. They must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">plough and sow together if they were not to starve in winter</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This connection \n            <choice>\n              <sic>isbetween</sic>\n              <corr>between</corr>\n            </choice> master and man is \n            <choice>\n              <sic>pa nfully</sic>\n              <corr>painfully</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>minutelt recoredc</sic>\n              <corr>minutely recorded</corr>\n            </choice> in the medieval letters. \n            <choice>\n              <sic>I Its is</sic>\n              <corr>It is</corr>\n            </choice> the \n            <choice>\n              <sic>stape</sic>\n              <corr>staple</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> whole correspondence between <rs type=\"person\" ref=\"../resources/annotations.xml#psn-past\" key=\"Pastons\">\n              <choice>\n                <sic>aston</sic>\n                <corr>Paston</corr>\n              </choice></rs> <add hand=\"typewriter\" place=\"above\">of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-norf\" key=\"Norfolk\">Norfolk</rs></add> and the <rs type=\"place\" ref=\"../resources/annotations.xml#psn-bets\" key=\"Betsons\">Betsons</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-payc\" key=\"Paycockes\">Paycockes</rs> of <rs type=\"place\" ref=\"../resources/annotations.xml#pla-esse\" key=\"Essex\">Essex</rs>. But there was also the other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">less \n            <choice>\n              <sic>visibl</sic>\n              <corr>visible</corr>\n            </choice> connection--the common belief. That</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bond between the houses has been \n            <choice>\n              <sic>gorwn</sic>\n              <corr>grown</corr>\n            </choice> over, \n            <choice>\n              <sic>li e</sic>\n              <corr>lies</corr>\n            </choice> the track</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">along which the <rs type=\"literary-work\" ref=\"../resources/annotations/xml#lit-cant\" key=\"Canterbury Tales, The\"/> rode to <rs type=\"place\" ref=\"../resources/annotations.xml#pla-cant\" key=\"Canterbury\">Canterbury</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Nobody rides there now. But when <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rhol\" key=\"Holinshed, Raphael\">Holinshed</rs> made \n            <choice>\n              <sic>is</sic>\n              <corr>his</corr>\n            </choice></l> \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#lit-chro\" key=\"Holinshed's Chronicles\">chronicle</rs> that track led from house to house. It led to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">village green; it led to the tree; to the \n            <choice>\n              <sic>welll</sic>\n              <corr>well</corr>\n            </choice>. In the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spring they danced round the maypole; in at midsummer they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>llit</sic>\n              <corr>lit</corr>\n            </choice> the bon fire on the hill. At christmas the mummers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">acted their dumb shows; and the boys came \n            <choice>\n              <sic>wassiling</sic>\n              <corr>wassailing</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The road led to the old Kings graces, to the stones</l>\n        "
+                ]
+            }
+        }
+    ]
+}

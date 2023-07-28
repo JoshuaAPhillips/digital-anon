@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-21-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-21#xywh=890,81,166,154",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">12</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-21#xywh=867,192,1835,1556",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">more <add place=\"above\" hand=\"ms\">crowded</add> numerous, a more divided audience, to a public which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"inline\">[</add>emerging from the \n            <choice>\n              <sic>silce</sic>\n              <corr>silence</corr>\n            </choice> of the middle ages <add hand=\"ms\" place=\"inline\">]</add> desires</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">according to its education, <add hand=\"ms\" place=\"above\">its poverty its</add> to it \n            <choice>\n              <sic>weath</sic>\n              <corr>wealth</corr>\n            </choice>, now history, now</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">instruction, now poetry itself, and now what will make them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">forget the that life is ugly, or drab. As the book</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">becomes more covered over <add hand=\"ms\" place=\"above\">with these influences</add>, the thing that the writer ser</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">set out to say becomes increasingly \n            <choice>\n              <sic>encu bered</sic>\n              <corr>encumbered</corr>\n            </choice>. It is only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to be discovered in a flash of \n            <choice>\n              <sic>recgnition</sic>\n              <corr>recognition</corr>\n            </choice>; Some say they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">feel it--<del hand=\"ms\">the original, the vital</del>--when their beards bristle.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Others that a \n            <choice>\n              <sic>trhill</sic>\n              <corr>thrill</corr>\n            </choice> runs down the nerves of the thigh.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">To disengage the song from its encumbrances becomes as time</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">goes on, a task for the critic-- that specially equipped</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">official who was \n            <choice>\n              <sic>carcely</sic>\n              <corr>scarcely</corr>\n            </choice> in \n            <choice>\n              <sic>existnce</sic>\n              <corr>existence</corr>\n            </choice> when <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> emerged</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with his <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-faer\" key=\"Faerie Queene, The\">Faery Queen</rs> from the depths of silence.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-21#xywh=847,1732,1851,1076",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"inline\">[</add>He had chosen his medium<add hand=\"ms\" place=\"inline\">:</add> <add hand=\"ms\" place=\"above\">&amp;</add> The great English art</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was to be, not music, not painting, but the art of words.<add hand=\"ms\" place=\"inline\">]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We call Spenser an artist, more so than the \n            <choice>\n              <sic>misntels</sic>\n              <corr>minstrels</corr>\n            </choice> and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the song writers, because he was aware of his \n            <choice>\n              <sic>medoum</sic>\n              <corr>medium</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>H ewas</sic>\n              <corr>He was</corr>\n            </choice> conscious of the possibilities and of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>limtations</sic>\n              <corr>limitations</corr>\n            </choice> of the English \n            <choice>\n              <sic>lang age</sic>\n              <corr>language</corr>\n            </choice>. <quote>For why, a Gods name,</quote></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">may not we, as else the Greekes, hav the kingdome of our owne</quote></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\n              <choice>\n                <sic>langauge</sic>\n                <corr>language</corr>\n              </choice>, and measure our accents by the sound ,</quote></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">reserving the quantity to the verse?</quote> He applied \n              <choice>\n                <sic>himslef</sic>\n                <corr>himself</corr>\n              </choice></l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the art.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-21#xywh=899,2824,1739,592",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">And</del> <add hand=\"ms\" place=\"inline\">L</add>ike the \n            <choice>\n              <sic>chornicler</sic>\n              <corr>chronicler</corr>\n            </choice>, the writer in order to use</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">his medium consciously, must be aware of the past. There must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">be a golden age behind him<add hand=\"ms\" place=\"inline\">;</add> <del hand=\"ms\">and</del> the present must be fallen,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">degenerate. But, while the modern writer with a long line</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">behind him, naturally <choice>\n            <sic>at ackes</sic>\n            <corr>attacks</corr>\n          </choice> the generation which</l>\n        "
+                ]
+            }
+        }
+    ]
+}

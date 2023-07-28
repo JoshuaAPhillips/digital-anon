@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11#xywh=888,100,130,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">6</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11#xywh=863,212,1799,156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">out of perspective, xxx elongated, foreshortened, but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very old, with a knowledge of all good and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>allevil</sic>\n              <corr>all evil</corr>\n            </choice>. They are already corrupt in this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fresh world. They have evil dreams. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-kart\" key=\"Arthur (King)\">Arthur</rs> is doomed; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Queens are \n            <choice>\n              <sic>luftful</sic>\n              <corr>lustful</corr>\n            </choice>. There never was, it seems, a time</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when men and women were without memory; <del hand=\"ms\">were innocent</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There \n            <choice>\n              <sic>enver</sic>\n              <corr>never</corr>\n            </choice> was a young world. <del hand=\"ms\">There</del> <add hand=\"ms\">B</add><del hand=\"ms\">b</del>ehind the English</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lay ages of toil and love. \n            <choice>\n              <sic>T is</sic>\n              <corr>This</corr>\n            </choice> <add place=\"above\">That</add> is the world beneath our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">consciousness; the \n            <choice>\n              <sic>anoymous</sic>\n              <corr>anonymous</corr>\n            </choice> world to \n            <choice>\n              <sic>whcich</sic>\n              <corr>which</corr>\n            </choice> we can still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>re urn</sic>\n              <corr>return</corr>\n            </choice>. Of the writer nothing is known. <add hand=\"ms\" place=\"above\">The scholar can find something. But</add> Malory is not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">distinct from his book. The voice is still the voice of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>. murmuring <add hand=\"ms\" place=\"above\">[illeg.]</add> about Kings and Queens who are base and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">heroic; vile and gentle, like \n            <choice>\n              <sic>ourslves</sic>\n              <corr>ourselves</corr>\n            </choice>, stripped of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">encumbrances that time has wrapped about us.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11#xywh=895,1762,1799,156",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">But </del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxtons</rs> printing press \n            <choice>\n              <sic>foreold</sic>\n              <corr>foretold</corr>\n            </choice> the end of that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>anoyl s</sic>\n              <corr>anonymous</corr>\n            </choice> world; it is now written down; fixed; nothing will</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">be added; even if the legend still murmurs on, and still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">down in <rs type=\"place\" ref=\"../resources/annotations.xml#pla-some\" key=\"Somerset\">Somersetshire</rs> the <choice>\n            <sic>peants</sic>\n            <corr>peasants</corr>\n          </choice> \n          <choice>\n            <sic>rmember</sic>\n            <corr>remember</corr>\n          </choice> how <quote source=\"#\" rend=\"inline\">\" on the night</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">of the full moon King Arthur and his men ride round the</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">hill, and their horses are shod with silver.\"</quote> After</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the audience became separate from the singer; <del hand=\"ms\">After that</del><add hand=\"ms\">For a time we</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we hxxxx find someone who looks back, who gathers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">together a \n            <choice>\n              <sic>chornicle</sic>\n              <corr>chronicle</corr>\n            </choice> of what has happened. We find the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">individual, emerging from the past; His name his <rs type=\"person\" ref=\"../resources/annotations.xml#psn-whar\" key=\"Harrison, William\">Harrison</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he has a library; he owns a mastiff and digs up coins. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">dead when we meet with him. The <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">Canterbury pilgrims</rs> have gone</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their way. He sees the past against a back ground of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>presn t</sic>\n              <corr>present</corr>\n            </choice>, and the present looks raw, degenerate against</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11#xywh=257,2006,639,1124",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" hand=\"ms\" place=\"margin\">\n            <l>But The</l>\n            <l>printed book</l>\n            <l>brought into existence</l>\n            <l>the man who can</l>\n            <l>read the man who</l>\n            <l>becomes</l>\n            <l>conscious, of the</l>\n            <l>present, of</l>\n            <l>himself, against</l>\n            <l>the background</l>\n            <l>of the past.</l>\n            <l>it brings into being the</l>\n            <l>whole, the audience&#8212;</l>\n            <l>a man like it.</l>\n          </add>\n        "
+                ]
+            }
+        }
+    ]
+}

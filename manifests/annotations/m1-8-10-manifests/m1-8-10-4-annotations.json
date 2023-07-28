@@ -1,0 +1,69 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-10-annotations/m1-8-10-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-4#xywh=759,164,1885,136",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The reader then comes into existence some time in the 16th</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">century, &amp; his life history, could we dis cover it, \n            <choice>\n              <sic>wd</sic>\n              <corr>would</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">be well worth writing. At some point his ear must</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">have lost its acuteness, at another his eye must have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lost its sharpness. Our our attempts when we read the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">early plays, to supply the <del>trumpets</del> &amp; the plays, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">citizens &amp; the apprentices in an <del>attempt</del> <add place=\"above\">[offer?]</add> to revert to an</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">earlier stage. The <del>difficulty</del> is great. <del>The In</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>trying to <del>see read see</del> we are trying to be <del>among the audience:</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>to be a spectator not a reader.</del> <del>B</del> <del>But</del> <del>The</del> <del>We</del> are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>making an effort to forget</del> <del>As time goes on,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>reader</del> Our reading faculty <del>disturbs us;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>distracts us.</del> <del>But as the</del> <del>As</del> Later, as the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reading faculty develops, readers separate into</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">different classes;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-10-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-4#xywh=803,1392,1742,1888",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet the prevalence of the reader is felt even when</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the re</del> in the audience on the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\" key=\"Bankside\">Bankside</rs>. It was for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him that <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tnas\" key=\"Nashe, Thomas\">Nashe</rs> wrote that strange amorphous book</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-trav\" key=\"Unfortunate Traveller, The\">Poor Traveller</rs>&#8211; <del>which</del> <del>which belongs</del> to no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>class</del>, <del>which has its</del> <del>the</del> <del>in</del> for him that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-rbur\" key=\"Burton, Thomas\">Burton</rs> composed that extraordinary medley, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-anat\" key=\"Anatomy of Melancholy, The\">Anatomy of Melancholy</rs>. It is though the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>influence of the reader</del> It is there that the reader</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">makes his first appearance; <del>It is</del> for it is there that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">we find the writer, completely anxious of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reader; adding here in [illeg.] &amp; bringing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">himself, the man behind the book, into existence.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>He find <del>ex</del> [existence?] that curious power which</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>is as [towards?] top become highly developed &#8211; the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>power af</del> I am a <del>sib</del> batchelor... I am neither</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rich nor poor... I am content... I am [lazy?]...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">I despise <del>book se</del> [water?]... I am <del>very</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a fumbler over of other mens bookes... I am</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a spectator, not an actor. <del>He is</del> There is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no audience forcing him to embody his</l>\n        "
+                ]
+            }
+        }
+    ]
+}

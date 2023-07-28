@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m47-annotations/m47-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3#xywh=445,140,1975,1092",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-duno\" key=\"Norfolk, Duchess of\">duchess of Norfolk</rs>, the wife of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-easu\" key=\"Surrey, Earl of\">Lord Surrey</rs> <del>who</del> the poet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who was executed <del>comes to the surface</del> <add place=\"above\">writes</add>, she writes:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Only in some extremity of passion or of need do they <del>come to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">take up the pen. <del>She</del> The sound of the Bible is in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their ears. <del>As if</del> It is a garment only to be put on when the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">being is in <del>an attitude</del> a certain attitude.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the garment may of course conceal a <rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Anne\">Lady Ann</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">who is merry, who is, normally, <del>occupied with</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>happy</del> amused, or charming, or &#8211; we cannot tell</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">what real woman lives in the other side of that</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wall of words.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3#xywh=557,1182,1935,104",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Using the prose of the Bible then, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Elizabethans are shut off from us. They can say</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nothing subtle, nothing little. Bright contrasted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">colours meet on their faces: carnation &amp; snow, ebony &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gold. <del>Stitched into their doublets,</del> <del>the young men look</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Young men's bodies <del>look</del> are stiffly sewn into padded</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">doublets, school boys faces are raised above</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">starched collars &amp; young women serve only to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">display heavy [guiled?] robes [strewn?] about with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">huge pearls.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3#xywh=1199,2174,459,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">....</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3#xywh=643,2364,539,12",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But the writ</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m47-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3#xywh=595,2410,1839,848",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>The separation of the writer from the audience&#8211;</l>\n            <l><del>was</del> the creation of a <add place=\"above\">an art of</add> writing, <del>profession art</del></l>\n            <l>seems to have been slow</l>\n            <l><del>When the</del> <del>the</del> <del>writer</del></l>\n            <l><del>The writer</del> <del>The speaking voice</del> <del>When the</del></l>\n            <l>the <del>speaking voice is concealed with the writing voice</del></l>\n            <l>If familiar letters are written in biblical English,</l>\n            <l><del>the writer cannot be</del> then the writer</l>\n          </del>\n        "
+                ]
+            }
+        }
+    ]
+}

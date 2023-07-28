@@ -1,0 +1,123 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m50-annotations/m50-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3#xywh=851,118,152,17",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">2</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "n",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">common voice singing out of doors, He has no house. He <choice>\n            <sic>l ves</sic>\n            <corr>lives</corr>\n          </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a <choice>\n            <sic>r ming</sic>\n            <corr>roaming</corr>\n          </choice> life crossing the fields, mounting the hills,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lying under the hawthown to listen to the <choice>\n            <sic>nightigale</sic>\n            <corr>nightingale</corr>\n          </choice>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3#xywh=841,248,1851,1116",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">By shutting out a chimney or a factory we can still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">see what <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs> saw-- the bird haunted reed whispering fen,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the down and the green scar<del>e</del> never quite <add place=\"above\">not yet</add> healed along which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he came when he made his journeys. He was a simple singer,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lifting a song or a story from other peoples lips and <choice>\n            <sic>lettig</sic>\n            <corr>letting</corr>\n          </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the audience join in the chorus. <choice>\n            <sic>Somemimes</sic>\n            <corr>Sometimes</corr>\n          </choice> he made a few lines</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that exactly matched his emotion--</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3#xywh=851,1616,1251,196",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but there is no <add place=\"above\">name</add> <choice>\n            <sic>mae</sic>\n            <corr>name</corr>\n          </choice> to that song.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3#xywh=783,1830,1891,76",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then when the houses had come together in some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><choice>\n            <sic>lcearing</sic>\n            <corr>clearing</corr>\n          </choice> in a ring and roads, often flooded, often deep in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mud, led from hxxxx the cottage to the Manor, from the Manor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the Church in the middle, along the roads came <choice>\n            <sic>minstersl</sic>\n            <corr>minstrels</corr>\n          </choice> <add hand=\"ms\" place=\"inline\">came</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">jugglers, bear leaders, singing their songs at the back door</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the farm hands and the maid servants in the uncouth</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">jargon of their native tongue.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3#xywh=1162,2604,832,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>Icham for woing al forwake</l>\n            <l>Wery no water in wore</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m50-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3#xywh=837,2774,1819,572",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Up stairs they spoke French. Anons words were as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">uncouth to the master and mistress as to us. Anon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">singing at <choice>\n            <sic>yhe</sic>\n            <corr>the</corr>\n          </choice> back door was  <choice>\n            <sic>despsied</sic>\n            <corr>despised</corr>\n          </choice>. He had no name;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he had no place, yet even if they felt contempt for the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"above\">singer whose body took its [small?] part in the [dance?]</add> man who made songs, they tolerated him. Even Kings and Queens</l>\n        "
+                ]
+            }
+        }
+    ]
+}

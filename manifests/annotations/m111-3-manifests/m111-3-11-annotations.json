@@ -1,0 +1,101 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-3-annotations/m111-3-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11#xywh=916,58,190,174",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">33</l>\n      "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11#xywh=996,188,1274,146",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In every \n          <choice>\n            <sic>Elizabethna</sic>\n            <corr>Elizabethan</corr>\n          </choice> play sunk beyond recall.</l>\n      "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11#xywh=916,316,1572,212",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If xmxmxmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxmxmmxmxmxmxm</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">somxmxmxmxmxmxmxmx</l>\n      "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11#xywh=824,544,1892,242",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del hand=\"typewriter\">life</del> The reader then is born sometime in</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n          <choice>\n            <sic>siteenth</sic>\n            <corr>sixteenth</corr>\n          </choice> century. But he is xmxmxmxmxmxmmxmxmxmxm</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but his \n          <choice>\n            <sic>p wer</sic>\n            <corr>power</corr>\n          </choice> of influencing the playwright is very weak</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the early days. The \n          <choice>\n            <sic>twentiteh</sic>\n            <corr>twentieth</corr>\n          </choice> century reader</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that is to say, \n          <choice>\n            <sic>instinctivly</sic>\n            <corr>instinctively</corr>\n          </choice> tries to adapt himself</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to unfamiliar conditions in reading the earlier plays.</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He tries to supply the trumpets and the flags; the citizens</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the apprentices. He \n          <choice>\n            <sic>substanitates</sic>\n            <corr>substantiates</corr>\n          </choice> the <del hand=\"ms\">rather</del> shadowy</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion that is all he can get in the plays with a dip into</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-phen\" key=\"Henslowe, Philip\">\n          <choice>\n            <sic>Hensloew</sic>\n            <corr>Henslowe</corr>\n          </choice></rs>, with a dip into <rs type=\"person\" ref=\"../resources/annotations.xml#psn-rhol\" key=\"Holinshed, Raphael\">\n            <choice>\n              <sic>Holingshed</sic>\n              <corr>Holinshed</corr>\n            </choice></rs>. He labours to supply</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the sunk parts of the play;  <del hand=\"ms\">he labours</del> to revive</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the vanished cooperation between the playwright and the</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience. And he is perpetually rebuffed. He cannot</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">read the play into \n          <choice>\n            <sic>comlete</sic>\n            <corr>complete</corr>\n          </choice> being. He is therefore apt</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to become not a reader but a student, a careful</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">collector of scattered bones. Reading is an imperfect</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">way of bringing the early plays into existence. It is only</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">fitfully that the readers faculty comes into play.</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When the dramatist becomes \n          <choice>\n            <sic>consc ous</sic>\n            <corr>conscious</corr>\n          </choice> of the play as a work</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of art; when he is able to unite the play by something</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in himself-- his \n          <choice>\n            <sic>personal ty</sic>\n            <corr>personality</corr>\n          </choice>, his style, his conception</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">it is then that he brings the reader into existence.</l>\n      "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-11#xywh=868,2948,1828,34",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The life history of the reader from Elizabethan</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">times to our own is full of obscurity. At some point his</l>\n        ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ear must have been much more acute than it is now; his sight</l>\n      "
+                ]
+            }
+        }
+    ]
+}

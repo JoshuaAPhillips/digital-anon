@@ -1,0 +1,133 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m45-annotations/m45-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=143,72,487,256",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>24<hi rend=\"superscript\">th</hi> Nov</l>\n            <l>1940</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=1183,44,487,256",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><hi rend=\"underline\">Anon.</hi></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=1250,264,504,176",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Introduction</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=672,376,1980,848",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\"For many centuries after Britain became an island\" the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#gtre\" key=\"Trevelyan, George\">historian</rs> says, \"the untamed forest was king. \" On the matted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">branches of that forest innumerable birds sang; but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that song was heard only by <del>a few</del> <add><del>few</del> a few</add> skin clad hunters in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>a few</del> <add place=\"above\"><del>the</del></add> <del>clearings</del> an occasional clearing \n            <choice>\n              <sic>wld</sic>\n              <corr>Would</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">desire to sing come to one of those savages because he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">heard the birds sing? \n            <choice>\n              <sic>Wld</sic>\n              <corr>Would</corr>\n            </choice> he rest his axe against a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tree for a moment <del>[illeg.]</del>?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=152,376,520,42",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l><rs>G. M. Trevelyan</rs></l>\n            <l>History of</l>\n            <l>England p. 3.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=604,1090,2056,748",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The tree was felled. Some [illeg.] hut was made</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">from its branches; &amp; then by degree, the clearing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gets larger &amp; larger, the birds fewer &amp; fewer, &amp; the human</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">being</add> sings instead. <add place=\"above\"><del>of [these?]</del></add> The first songs are out of door songs,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[spring?] songs, summer songs, winter songs; <del>as they</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for there was no comfort indoors; <del>no</del> little light, &amp; no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">books.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m45-annotation#7.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3#xywh=490,1760,2244,162",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The eye therefore was <del>a</del> much more important to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">first singers than to <del>ourselves</del> <add place=\"above\">us</add>. <del>And what did he see?</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">And</add> Some parts of England can still be seen as they saw them &#8211;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the fens, &amp; the downs.</del> <del>It</del> Now &amp; then, by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">choosing a view carefully, we [art?] eclipse a chimney or a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bungalow we can still see a flat <add place=\"above\">reed whispering <del>weed</del></add> fen <del>where nothing is</del> <add place=\"above\">[illeg.] <del>heavy</del></add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[built?]</del>, water logged, or a <del>high</del> down <add>bare</add>; &amp; then <add place=\"above\">the</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a <del>track, like a</del> green scar, &amp; <add place=\"above\">on a</add> some <del>[strang?]</del> smooth</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>circle</del> &#8211; the <del>pack horses came along that road</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>travelling [tithes?]; came along that road; &amp;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>as time went on</del>, along which the travellers came <add place=\"above\">[ready?]</add> [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as <del>time went on</del> the skins became <add place=\"above\">were</add> <del>woolen cloaks:</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were changed to <del>wool</del> cloth; <del>he carried</del> <del>an</del> <del>a dagger</del> <add place=\"above\">the axe to a dagger</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">instead of an axe, at last <del>where the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">instead of a grey rock, <del>to mark</del> <add>to mark by the [illeg.] play, the burial place</add> there was a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">cross.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-5-annotations/m54-5-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-5-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-5#xywh=915,93,133,131",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">14</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-5-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-5#xywh=853,220,1761,2214",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> forest glades. The one direct, \n            <choice>\n              <sic>abo t</sic>\n              <corr>about</corr>\n            </choice> this real</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">man, this real woman, here and now; \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> other making qua</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">qualities \n            <choice>\n              <sic>og</sic>\n              <corr>of</corr>\n            </choice> \n            <choice>\n              <sic>noblenees</sic>\n              <corr>nobleness</corr>\n            </choice> of baseness in to \n            <choice>\n              <sic>symblic</sic>\n              <corr>symbolic</corr>\n            </choice> Knights,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">or \n            <choice>\n              <sic>dawrfs</sic>\n              <corr>dwarfs</corr>\n            </choice>; and sending this \n            <choice>\n              <sic>visionay</sic>\n              <corr>visionary</corr>\n            </choice> company, \n            <choice>\n              <sic>thse</sic>\n              <corr>these</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ladies and demons, these Squires and \n            <choice>\n              <sic>domerdaries</sic>\n              <corr>dromedaries</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">through time which is neither past \n            <choice>\n              <sic>npr</sic>\n              <corr>nor</corr>\n            </choice> present,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">through lands which are neither hxxxx known or \n            <choice>\n              <sic>unkwon</sic>\n              <corr>unknown</corr>\n            </choice>. Like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the figures in dreams they are distorted; \n            <choice>\n              <sic>y tlike</sic>\n              <corr>like</corr>\n            </choice> dreams</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">very vivid, now close, now \n            <choice>\n              <sic>dfading</sic>\n              <corr>fading</corr>\n            </choice> away. Now,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">like the \n            <choice>\n              <sic>fgures</sic>\n              <corr>figures</corr>\n            </choice> in some great fresco, they cxmxmxmxmx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are <del hand=\"ms\">composed</del> <add hand=\"ms\" place=\"above\">grouped</add>, with the flowers \n            <choice>\n              <sic>grwoing</sic>\n              <corr>growing</corr>\n            </choice> at their feet, and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">behind them marble pillars, or trees with bright birds</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and <add hand=\"ms\" place=\"above\">with</add> the libbard and the lion couchant or romaning.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The monotony of the metre, flinging its</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">curve of sound <add hand=\"ms\" place=\"inline\">[</add>like a wave that always falls<add hand=\"ms\" place=\"inline\">]</add> <add hand=\"ms\" place=\"above\">there</add> fills and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">falls, like a wave, is beneath them. There is no tension;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">no direction. but always movement, <del hand=\"ms\">on and on</del> and bright</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>visons</sic>\n              <corr>visions</corr>\n            </choice>, <add hand=\"ms\" place=\"inline\">[</add>and folded in this \n            <choice>\n              <sic>inactation</sic>\n              <corr>incantation</corr>\n            </choice> we \n            <choice>\n              <sic>drwise</sic>\n              <corr>drowse</corr>\n            </choice> and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sleep; but again, wake so such is the and we sleep,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"above\">so that we drowse yet</add> yet a start awake.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-5-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-5#xywh=849,2390,1785,934",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">English poetry, then, might have continued to be a v</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book read aloud; a pageant; a recollection; \n            <choice>\n              <sic>somet ing</sic>\n              <corr>something</corr>\n            </choice> half</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">seen half heard, by the leisured, listening in \n            <choice>\n              <sic>th</sic>\n              <corr>the</corr>\n            </choice> great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">room to some one reading aloud. Onxmxmxmxmxmxm</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But there was the other voice.         - the voice of <rs type=\"person\" ref=\"../resources/annotations.xml#psn-anon\" key=\"Anon\">Anon</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmx not as we hear it, reading those first</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>carbbed</sic>\n              <corr>crabbed</corr>\n            </choice> lyrics in the beginning \n            <choice>\n              <sic>ot</sic>\n              <corr>of</corr>\n            </choice> the anthology; but the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice that <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> heard; loud; rough; brutal.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

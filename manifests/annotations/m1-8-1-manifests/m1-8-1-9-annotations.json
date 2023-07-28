@@ -1,0 +1,98 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-1-annotations/m1-8-1-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-9#xywh=755,120,1278,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">book told the story of <rs type=\"person\" ref=\"../resources/annotations.xml#kart\" key=\"Arthur (King)\">Arthur</rs>.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-9#xywh=817,216,1799,1752",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Then, the instinct to enact, to impersonate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">what they <del>see</del> heard came into being. Even the King &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Queen must have their minstrels to give shape</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to this hidden instinct. The author was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[special?]: <del>the</del> for he displayed his body: after,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">because, feeling himself an outcast, he used the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">outsiders \n            <choice>\n              <sic>prvilge</sic>\n              <corr>privilege</corr>\n            </choice> <del>to</del> of irresponsible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mockery. Yet just as we isolate those who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">say  what we are too proud to admit, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">minstrel was tolerated. Even the churchmen,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aware that <del>the</del> other gods than his were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">being worshipped, <del>mus</del> could not suppress the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">actor. <del>When he was no longer</del> If they could,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they constrained the juggler &amp; the dancer</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to put off their leaves &amp; their bells &amp; to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">robe themselves as the [pilgrimages?] in a miracle</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">play. But when the old <del>pl</del> <del>story</del> \n            <choice>\n              <sic>relgios</sic>\n              <corr>religious</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">story was stale, they <del>left</del> played in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[courtyard? churchyard?], &amp; at last set up their pageant in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">market place.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-9#xywh=333,890,515,252",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>The churchmen</l>\n            <l>loathed him.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-9#xywh=853,1824,1735,392",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#espe\" key=\"Spenser, Edmund\">Spenser</rs>, it is said, was <del>a</del> <del>with</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">among the audience at one of these old pageants.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>He noted</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-1-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-1/m1-8-1-9#xywh=841,2114,1735,392",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>And after her came jolly June \n              <choice>\n                <sic>arryed</sic>\n                <corr>arrayed</corr>\n              </choice></l>\n            <l><del>arrayed</del> all in green leaves, as he a</l>\n            <l>player were</l>\n          </quote>\n        "
+                ]
+            }
+        }
+    ]
+}

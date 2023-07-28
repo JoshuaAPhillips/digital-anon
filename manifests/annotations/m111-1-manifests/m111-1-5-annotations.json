@@ -1,0 +1,60 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-1-annotations/m111-1-5-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-5#xywh=900,76,182,19",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">31</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-5#xywh=796,264,1884,3036",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The Elizabethan audience were not readers. They had to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">draw in the play as they sat or stood at the playhouse,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">through their ears, through their eyes. There was no book</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of \n            <choice>\n              <sic>thee</sic>\n              <corr>the</corr>\n            </choice> words. They could not dxxxx deepen the impression,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">chew it over, and compare it, at a <del hand=\"ms\">\n            <choice>\n              <sic>atble</sic>\n              <corr>table</corr>\n            </choice></del> in a private room.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">This perhaps \n            <choice>\n              <sic>exp;ains</sic>\n              <corr>explains</corr>\n            </choice> the scarcity of Elizabethan</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">criticism; and the general nature of what <add hand=\"ms\">[certain?]</add> there is.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>Bioth</sic>\n              <corr>Both</corr>\n            </choice> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-psid\" key=\"Sidney, Philip\">Sidney</rs> and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-bjon\" key=\"Jonson, Ben\">Ben Jonson</rs> deal with the \n            <choice>\n              <sic><add hand=\"ms\" place=\"inline\">g</add>neral</sic>\n              <corr>general</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not with the \n            <choice>\n              <sic>particualr</sic>\n              <corr>particular</corr>\n            </choice>; with the rules of \n            <choice>\n              <sic>compsition</sic>\n              <corr>composition</corr>\n            </choice>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not with \n            <choice>\n              <sic>t e</sic>\n              <corr>the</corr>\n            </choice> details of one play or poem in \n            <choice>\n              <sic>partciualr</sic>\n              <corr>particular</corr>\n            </choice>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It accounts too for the long pause <add hand=\"ms\" place=\"above\">between [sixteenth? seventeenth?] &amp; the 18th centuries</add> when the plays of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Shakepaere</sic>\n              <corr>Shakespeare</corr>\n            </choice></rs> even hang suspended and unrealised. It was only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">when <add hand=\"ms\" place=\"above\">they had to [wait?]</add> they were printed and the book of the words lay in many</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">private rooms txxxx <add hand=\"ms\" place=\"above\">before they</add> received their other life from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the reader. Much that was lost in the \n            <choice>\n              <sic>playhous e</sic>\n              <corr>playhouse</corr>\n            </choice> was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">discovered in the private room. But much has also been lost <add hand=\"ms\" place=\"inline\">, when the <!--come back to this --></add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We have lost the sound of the spoken word; all that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sight of the actors body gives through the eye to the mind.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We have lost too the sense of being part of the audience.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We miss a thousand shades that the \n            <choice>\n              <sic>darmatistconveyed</sic>\n              <corr>dramatist conveyed</corr>\n            </choice>by inflection of voice, by gesture, by the \n            <choice>\n              <sic>palcing</sic>\n              <corr>placing</corr>\n            </choice> of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the actors \n            <choice>\n              <sic>vbodies</sic>\n              <corr>bodies</corr>\n            </choice>. This can still be tested, at least with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Shakespeare, by \n            <choice>\n              <sic>comapring</sic>\n              <corr>comparing</corr>\n            </choice> whxmxmxmxmxmxmmxmxmxmxx our impression</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmxxx after seeing the \n            <choice>\n              <sic>p ay</sic>\n              <corr>play</corr>\n            </choice> with our</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">impression after reading the play. But as the modern actor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">inevitably imports much that is of his own day, but foreign</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to \n            <choice>\n              <sic>Shshakespeare</sic>\n              <corr>Shakespeare</corr>\n            </choice>, there is still something sunk beyond</l>\n        "
+                ]
+            }
+        }
+    ]
+}

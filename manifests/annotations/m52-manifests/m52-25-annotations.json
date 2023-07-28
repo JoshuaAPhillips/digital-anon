@@ -1,0 +1,86 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m52-annotations/m52-25-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-25#xywh=849,90,175,14",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">15</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-25#xywh=873,222,1123,328",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>With that a joyous fellowship issewed</l>\n            <l>of Minsterls making goodly merriment</l>\n            <l>With wanton Bardes and Rhymers impudent</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-25#xywh=873,554,1655,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That was the voice <add hand=\"ms\" place=\"above\">too</add> that was heard too in the great room.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m52-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m52/m52-25#xywh=791,652,1849,2684",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For when we see the great \n            <choice>\n              <sic>Elizabthan</sic>\n              <corr>Elizabethan</corr>\n            </choice> house--<rs type=\"place\" ref=\"../resources/annotations.xml#pla-wilt\">Wilton</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">say, or <rs type=\"place\" ref=\"../resources/annotations.xml#pla-pens\">\n            <choice>\n              <sic>Penshurt</sic>\n              <corr>Penshurst</corr>\n            </choice></rs>-- we see the stranded relic that has e</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>merged</sic>\n              <corr>emerged</corr>\n            </choice> <add hand=\"ms\" place=\"above\">like the ribs of a wreck on the shore</add> from thxmxmxx its surroundings. Could we see it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as it is said that the airman sees a village <add hand=\"typewriter\" place=\"above\">field</add> wxmxmxxxx</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xxx from the air with thexxxx scars of <add hand=\"typewriter\" place=\"above\">old roads,</add> other villages</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and other houses on it. we should see the great house <add hand=\"ms\" place=\"above\">not alone, but</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">connected with the village. \n            <choice>\n              <sic>W</sic>\n              <corr>We</corr>\n            </choice> should see a <del hand=\"ms\">ring</del>, an oasis</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the midst of \n            <choice>\n              <sic>va c</sic>\n              <corr>vast</corr>\n            </choice> wild country; the \n            <choice>\n              <sic>raod</sic>\n              <corr>road</corr>\n            </choice> a track only;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the oasis like a fortress holding out \n            <choice>\n              <sic>agianst</sic>\n              <corr>against</corr>\n            </choice> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">uncultivated land; stored against the everlasting siege of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nature. If the enemy were man, there was armour \n            <choice>\n              <sic>i</sic>\n              <corr>in</corr>\n            </choice> the church.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If frost or winter there was grain in the great barn.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">That is the connection between great house and small,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">between master and \n            <choice>\n              <sic>la ouere</sic>\n              <corr>labourer</corr>\n            </choice> that is detailed in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-past\" key=\"Paston Letters\">Paston</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-past\" key=\"Paston Letters\">letters</rs>, and makes indeed the staple of the \n            <choice>\n              <sic>mediaveal</sic>\n              <corr>medieval</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">letter writing. But there was also that other connection--</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the common belief. That bond between the great house and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">small has faded, till it is like one of those perhaps rather</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">greener rides \n            <choice>\n              <sic>stillto</sic>\n              <corr>still to</corr>\n            </choice> be found in England along which,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>abntiquaries</sic>\n              <corr>antiquaries</corr>\n            </choice> say the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cant\" key=\"Canterbury Tales, The\">Pilgrims</rs>rode to <rs type=\"place\" ref=\"../resources/annotations.xml#pla-cant\" key=\"Canterbury\">Canterbury</rs>. So the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scholars tell us of the roads now faded in the mind.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Long before the \n            <choice>\n              <sic>Christains ocame</sic>\n              <corr>Christians came</corr>\n            </choice> the tree was a God;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the sun was a God; Earth was God; Death was a God. <add hand=\"ms\" place=\"inline\">the</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del hand=\"ms\">and how</del> this \n            <choice>\n              <sic>anceint</sic>\n              <corr>ancient</corr>\n            </choice> worship lies beneath the other; how</l>\n        "
+                ]
+            }
+        }
+    ]
+}

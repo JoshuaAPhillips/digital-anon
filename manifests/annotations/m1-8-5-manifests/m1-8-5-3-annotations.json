@@ -1,0 +1,95 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-5-annotations/m1-8-5-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-3#xywh=743,90,1743,996",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">too powerful, in play after play: it creates improvisation;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crowd; confusion; a sense of waste; here</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">profane; here bareness. <del>The</del> The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">character is <del>volubly explored; &amp; in the</del> wings</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>propituous</del> bound to the wheel of the plot.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And <del>apparently the lack of curtains makes</del> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anonymous player is [irreparable?] in the wrong [same?].</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He bolts his words out; has no [existence?];</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">deforms.   We are left in the end with out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">   <del>But</del> an end. <del>And</del> so much of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion is wasted.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-3#xywh=791,1012,1715,356",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>All this of course leads up to the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It is thus, in [ready?] [illeg.] through a handful of the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>early plays, that</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-3#xywh=905,1306,1063,14",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Exactly what problems had to</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-5-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-5/m1-8-5-3#xywh=769,1342,1671,1912",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">If, however, we scramble the plays together,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>taking them <del>as a</del> not so much as separate</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>creations, but as a</del> we can unite them</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">not separately, but as a <del>great</del> complete</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">experiment: as the common effort to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>sede</del> explore in their immense [reserves?] of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotion; <del>an</del> <del>an expression which in <del>\n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs></del> becomes</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>at last <del>finalised;</del> when <del>all its</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>it <del>has been</del> then has been freed, that [shocked?],</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>when the</del> as a repeated experiment, which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>relieves its [pressure?]</del> at last, until \n            <choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice> succeeds.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Only</del> <del>It</del> <del>Its silence</del> The [workshop? woodshop] is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">without laws. There is no comment.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">We are left thus to read fitfully; [unsatisfied?]:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">without direction. Unless indeed we see the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bodily cauldron of their plays; &amp; conceive</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the nameless, uncommonly [illeg.], were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">somehow all compressing to [thread?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.], towards \n            <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\"><choice>\n              <sic>Sh<hi rend=\"superscript\">re</hi></sic>\n              <corr>Shakespeare</corr>\n            </choice></rs>   And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-efyt\">Fyttons</rs> or the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mher\" key=\"Herbert, Mary\">Herberts</rs> <del>we</del> &amp; the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-abac\" key=\"Bacon, Anne\">Bacons</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were also ressign their weight their</l>\n        "
+                ]
+            }
+        }
+    ]
+}

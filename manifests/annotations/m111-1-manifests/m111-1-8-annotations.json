@@ -1,0 +1,49 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m111-1-annotations/m111-1-8-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-8#xywh=1740,3287,209,159",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">155</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-8#xywh=159,1528,1985,1772",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>ho mes</sic>\n              <corr>homes</corr>\n            </choice> will be built. <add hand=\"ms\" place=\"above\">Each flat with</add> With refrigerators <del hand=\"ms\">in each flat</del>?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">xmxmxmxmxmmxmxmxm xxxx <del>And churches</del>...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The tune <del hand=\"ms\">changed. It</del> chopped and changed. <del hand=\"ms\">It broke off. It</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">broke up. \n            <choice>\n              <sic>Withthe</sic>\n              <corr>With the</corr>\n            </choice> means at \n            <choice>\n              <sic>he</sic>\n              <corr>her</corr>\n            </choice> \n            <choice>\n              <sic>dispoal</sic>\n              <corr>disposal</corr>\n            </choice> you couldnt ask too</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>mcu</sic>\n              <corr>much</corr>\n            </choice>. Thxmxmxmxmxmxmx; What a cackle; a \n            <choice>\n              <sic>cocophony</sic>\n              <corr>cacophony</corr>\n            </choice>...</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">like the yaffle, a they call the woodpecker. The laughing</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bird who flits from tree to tree. <add hand=\"ms\" place=\"inline\">Out they skipped.</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Children? Imps --elfs... <del hand=\"ms\">Out they skipped.</del> The riff raff</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of the village... Holding what? Tin cans? Bed room candle</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sticks? <del hand=\"ms\">S<add hand=\"ms\" place=\"above\">h</add>aving glasses?</del> Old \n            <choice>\n              <sic>tobbaco</sic>\n              <corr>tabacco</corr>\n            </choice> jars? My dear, thats the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>cehval</sic>\n              <corr>cheval</corr>\n            </choice> glass from the rectory... and the mirror-- I lent her.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">My \n            <choice>\n              <sic>motgers</sic>\n              <corr>mother's</corr>\n            </choice>... And \n            <choice>\n              <sic>grabdpas</sic>\n              <corr>grandpa's</corr>\n            </choice> old top hat! Whats the notion?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Anything thats bright enough, presumably, to \n            <choice>\n              <sic>refelct</sic>\n              <corr>reflect</corr>\n            </choice>...</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>Thats the mens shaving glass from the stable..</l>\n            <l>Mrs Sands, did you really lend her that?</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Ourselves Ourselves?</l>\n        "
+                ]
+            }
+        }
+    ]
+}

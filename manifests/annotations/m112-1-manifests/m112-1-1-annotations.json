@@ -1,0 +1,75 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m112-1-annotations/m112-1-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-1#xywh=949,118,139,171",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">30</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-1#xywh=899,244,1794,1572",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But again down on the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-bank\">Bankside</rs> the curtain rises.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The trumpets sound; the flag blows and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shadowy insubstantial life txmxmxx of Squires, nobles</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Maids of \n            <choice>\n              <sic>hnour</sic>\n              <corr>honour</corr>\n            </choice> and country \n            <choice>\n              <sic>gentlmen</sic>\n              <corr>gentlemen</corr>\n            </choice> is before us.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In one second we are in the thick of love; murder; adultery.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-york\" key=\"Yorkshire\">Yorkshire</rs> is before us. There is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-frana\" key=\"Frankland\">Frankland</rs> and his <rs type=\"person\" ref=\"../resources/annotations.xml#psn-franb\" key=\"Frankland's Wife\">wife</rs>;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">there is <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wend\" key=\"Wendoll\">Wendoll</rs> the \n            <choice>\n              <sic>adulterere</sic>\n              <corr>adulterer</corr>\n            </choice>; and <rs type=\"person\" ref=\"../resources/annotations.xml#psn-acto\" key=\"Acton\">Acton</rs> the villain.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Supper is laid; the cards are on the table, and next moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the husband throwing open the door sees his wife lying in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the arms of her lover. The yellow pages in Record offices</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and Muniments rooms \n            <choice>\n              <sic>wit</sic>\n              <corr>with</corr>\n            </choice> their \n            <choice>\n              <sic>contorsions</sic>\n              <corr>contortions</corr>\n            </choice>, their evasions,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">give place to outright speech. In the play \n            <choice>\n              <sic>tself</sic>\n              <corr>itself</corr>\n            </choice> all is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">evident, \n            <choice>\n              <sic>outapoken</sic>\n              <corr>outspoken</corr>\n            </choice>. In \n            <choice>\n              <sic>r al</sic>\n              <corr>real</corr>\n            </choice> life all is shadowy and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">suppressed.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m112-1-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-1#xywh=934,1800,1794,1572",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But by \n            <choice>\n              <sic>degrrees</sic>\n              <corr>degrees</corr>\n            </choice> the dramatist sheds his anonymity.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He separates himself from his audience. He pauses, sometimes;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">he \n            <choice>\n              <sic>di erts</sic>\n              <corr>diverts</corr>\n            </choice> the interest from the action to the \n            <choice>\n              <sic>mtove</sic>\n              <corr>motive</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">motive behind the action. What, he broods in <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-woma\" key=\"Woman Killed with Kindness, A\">a Woman killed</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs>with kindness</rs>, is the effect of mercy?--- if the adulters</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are confronted not with death but with a guilty conscience?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">As the plays come faster and faster, as the curtain rises</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">again and again, upon <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\">\n            <choice>\n              <sic>Marloew</sic>\n              <corr>Marlowe</corr>\n            </choice></rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tkyd\" key=\"Kyd, Thomas\">Kyd</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-they\" key=\"Heywood, Thomas\">Heywood</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jmar\" key=\"Marlowe, John\">\n              <choice>\n                <sic>Marts n</sic>\n                <corr>Marston</corr>\n              </choice></rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-ctou\" key=\"Tourneur, Cecil\">Tourneur</rs>, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-jfor\" key=\"Ford, John\">Ford</rs>-- anonymity and the pressure of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience cease to bind the playwright. The reader loses his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">anonymity too. He \n            <choice>\n              <sic>chhoses</sic>\n              <corr>chooses</corr>\n            </choice>; he \n            <choice>\n              <sic>discrimitaes</sic>\n              <corr>discriminates</corr>\n            </choice>. Here are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>kick nacks</sic>\n              <corr>knicknacks</corr>\n            </choice>; curiosities; illustrations of the time. But</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">here on the other hand, what we call for short ourselves--</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the thought that we think \n            <choice>\n              <sic>instcintively</sic>\n              <corr>instinctively</corr>\n            </choice>, the comment that</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m54-8-annotations/m54-8-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3#xywh=976,147,138,143",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">17</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3#xywh=958,262,1744,678",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and his knights went their ways through the wild woods seek</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ing adventure. <add hand=\"ms\" place=\"above\">When</add> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxton</rs> <del hand=\"ms\">himself</del> doubted. <del>No</del>such <add hand=\"ms\" place=\"above\">a</add> man, he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">objected, had ever lived. But the nobles were positive,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they said that you could see <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gawa\" key=\"Gawain\">Gawaines</rs> skull at <rs type=\"place\" ref=\"../resources/annotations.xml#psn-dove\" key=\"Dover\">Dover</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and the <rs type=\"object\" ref=\"../resources/annotations.xml#obj-roun\" key=\"Round Table\">Round Table</rs> at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-winc\" key=\"Winchester\">Winchester</rs> and in <quote source=\"#\" rend=\"inline\">\"in other places</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-lanc\" key=\"Lancelot\">Launcelots</rs> sword and many other things.</quote></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3#xywh=935,924,1782,198",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The book itself represents <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wcax\" key=\"Caxton, William\">Caxtons</rs> scepticism, and the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">nobles faith. It is half fable, half fact. There is <rs type=\"place\" ref=\"../resources/annotations.xml#pla-lond\" key=\"London\">London</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">and <rs type=\"place\" ref=\"../resources/annotations.xml#pla-carl\" key=\"Carlisle\">Carlisle</rs> and <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stal\" key=\"St Albans\">St Albans</rs>; there is the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\">Archbishop of</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-arch\" key=\"Archbishop of Canterbury\">Canterbury</rs> and <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St Pauls</rs>. But the roads lead past London to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">castles where Knights lie in prison; down the roads ride</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Queens on white mules; <rs type=\"person\" ref=\"../resources/annotations.xml#psn-morg\" key=\"Morgan le Fay\">Morgan le Fay</rs> turns suddenly to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stone; and a hand rises from a lake holding <rs type=\"object\" ref=\"../resources/annotations.xml#obj-exca\" key=\"Excalibur\">Excalibur</rs>.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">In the \n            <choice>\n              <sic>canfdour</sic>\n              <corr>candour</corr>\n            </choice> with \n            <choice>\n              <sic>wh h</sic>\n              <corr>which</corr>\n            </choice> it is told, it is a childs story.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But <del hand=\"ms\">the</del> <add hand=\"ms\" place=\"above\">the</add> child has lived for centuries. It has not our pers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spective. The inventories, the catalogues are \n            <choice>\n              <sic>mad</sic>\n              <corr>made</corr>\n            </choice> with</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a childs \n            <choice>\n              <sic>partciularity</sic>\n              <corr>particularity</corr>\n            </choice>. The clear eye sees definitely and</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">without exaggeration. Beauty is in the thing itself, not i</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the writers manipulation. <quote source=\"#\" rend=\"inline\">So he went in and searched</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>chamber from chamber to chamber, and found his bed, but she</l>\n            <l>was not there; then Balin lookedinto a fxmx little garden</l>\n            <l>and under a laurel tree he saw her lie upon a quilt of</l>\n            <l>green samite and a \n              <choice>\n                <sic>kmight</sic>\n                <corr>knight</corr>\n              </choice> with her, and under their heads</l>\n            <l>grass and herbs.\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m54-8-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3#xywh=975,2864,1694,588",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add hand=\"ms\" place=\"inline\">But</add> It is not a childs world; it is a world before self</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">consciousness has raised \n            <choice>\n              <sic>i s</sic>\n              <corr>its</corr>\n            </choice> mirror. The men and women are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>angualr</sic>\n              <corr>angular</corr>\n            </choice>, gigantic; freed from \n            <choice>\n              <sic>somthing</sic>\n              <corr>something</corr>\n            </choice> impure; yet sin</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">tarnished, \n            <choice>\n              <sic>acqauinted</sic>\n              <corr>acquainted</corr>\n            </choice> with sorrow, corrupt, in the midst of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this fresh landscape, remembering,</l>\n        "
+                ]
+            }
+        }
+    ]
+}
