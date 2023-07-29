@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-6-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6#xywh=777,128,1587,148",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">No name was <del>attached to <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">Tamburlaine</rs></del> anonymous.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6#xywh=847,264,1679,22",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The play was anonymous. That fact by itself</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is enough to show how largely the <del>play was</del> still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>work of</del> <del>inspired</del> a <del>common product.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">detached from the author, unclaimed, <del>as they made</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a common product, <del>shaped</del> written by one hand, but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so moulded in its transition from the written word</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the spoken that the author had no sense of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">propriety in it. <del>Thus,</del> <del>when we</del> <del>If we</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>And yet</del> <del>Our</del> <del>The silence of the audience</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet the audience itself is dumb. <del>We</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">They <del>flocked</del> to the play. <del>They</del> <del>The</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Fifteen hundred people, the main part apprentices, citizens,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">heard <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">Tamburlane</rs>; but <del>for</del> <del>they say but one</del> <del>in silence</del> word.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The silence of the \n            <choice>\n              <sic>Ethn</sic>\n              <corr>Elizabethan</corr>\n            </choice> audience is one of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gulfs that separates us \n            <choice>\n              <sic>fr.</sic>\n              <corr>from</corr>\n            </choice> the plays. We can</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">feel, in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-cmar\" key=\"Marlowe, Christopher\">Marlowe</rs>, the <del>pr</del> presence of some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>them a l. drawing up the <del>fee</del> extravagance,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[likeness?], as a a [daub drawn?] as a paper draws up a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[foie?]. <del>They</del> We <del>can suppose that the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It has the audacity &amp; the [illeg.] <add place=\"above\">vigour</add> <del>of a play</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">which even in our day a <del>a greatly</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">best selling novel. <del>It is</del> The flow &amp; the speed &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>something</del> as if something were eager the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">writer to accomodate &amp; great deeds</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">beyond his private reach. But</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the silence is unbroken.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-6#xywh=857,2278,1587,976",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Thus to understand</del> <del>The audience at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-rose\" key=\"Rose, The\">the Rose</rs></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If</del> To understand that silence we have to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">compare it with our own sense of something</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that takes the breath away, is emerging, is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">natural, is [illeg.] released, yet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">uncritical &#8211; The attitude say of our own</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audiences at the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-balle\" key=\"Ballet Russes\">Russian ballet</rs>, at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-cine\" key=\"Cinema\">cinema</rs>. <del>It seems one can</del> if new art</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">comes upon us so suddenly &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">surprisingly that we <del>sit silent,</del></l>\n        "
+                ]
+            }
+        }
+    ]
+}

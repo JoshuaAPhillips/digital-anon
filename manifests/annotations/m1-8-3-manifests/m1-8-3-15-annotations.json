@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-15-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-15#xywh=843,80,1806,3104",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the statesman, having for a moment in their incessant labour,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">added to the play something aristocratic, high, intricate.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The grave figures <del>t</del> to whom the play was nothing serious,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to whom players were the riff raff of the ages, sit round</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">themselves, as time went on, on the stage themselves.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The <del>plays</del> <del>they have</del> the playwrights have not</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>nothing</del> to incorporate them too. <del>And so, through</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>th</del> Gradually they learn the trick of <del>involved</del> sw</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">swift thought. <del>Therefore</del> <del>making</del> Clothed in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their innumerable [jewels?] had anonymity, the players</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were about the court, in the groves. Even</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">if <del>the soul</del> there was no <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">Montaigne</rs> to <del>put</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">give the soul fluency, freedom, vagrancy, there <del>was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were <del>then packed</del> <del>the</del> was <del>in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacons</rs> eye</del> Bacon to [illeg.]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> <del>some</del> knowledge, [imagery?], [everylt?], the arts of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">made available; in very close words; in <del>such</del> few</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">wordsl in words that compress meaning, yet give it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">also a palpable body. <del>The great states</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>pholosopher made his thoughts [accumulate?]: &amp;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>in addition, <del>the very soul</del> <del>something</del> the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>[Gass tion?]</del>  <del>&amp;</del> there was Bacon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">himself in his essays, furtive, ambiguous, noble</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">timid, crafty; &#8211; &amp; the Queen.  The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silence of the <del>up</del> <del>cei</del> nobles in the upper room is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>is broken,</del>    <del>the silence</del> the nobles, scholars</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">may ignore the play itself. But their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">presence is obvious too. The presence of their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">version, <del>[contorted?] silence,</del> [illeg.], even if they</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sit there, without saying anything, is reflected; <del>as the</del> <add place=\"above\">in the</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>whole of Elizabeth</del> way that the other</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">whole body of [illeg.] life is separated</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If</del> By a curious [reverse?], though</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the \n            <choice>\n              <sic>Ethns</sic>\n              <corr>Elizabethans</corr>\n            </choice> are unknown to us through their own</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">words,they are known to us in their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reflection. There <del>normal</del> <add place=\"above\">the</add> men &amp; women who are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so <del>[illeg.]</del> curtail <del>where they</del> <add place=\"above\">in their home it</add> themselves, are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>all</del> vanish, unaudible, <del>a</del> love &amp; hate &amp; laugh</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>in</del> on the stage.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

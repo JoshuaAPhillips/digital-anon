@@ -1,0 +1,89 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-2-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-2#xywh=765,98,1895,224",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was at half past two in the afternoon,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that the trumpets sounded &amp; the flag went up <del>on the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; the <del>audience paid their</del> audience accumulated. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">playhouse was open to the sky. <del>The audience paid</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a <del>penny or twopence.</del> <del>They crowded the</del> The playhouse was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the walls were painted; there was no scenery; but the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">players were nobly dressed, according to one spectator, in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the cast off robes of the nobles sold by their servants.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For a penny <del>the</del> <del>apprentices &amp; nob</del> audience \n            <choice>\n              <sic>cd.</sic>\n              <corr>could</corr>\n            </choice> see</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">Tamburlaine</rs>: the trumpets sounded; the [wherries?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>crowd</del> The river was <del>being</del> covered with wherries</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">bring the audience across. <del>These</del> <del>The</del> <del>What</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If the pl</del> What other amusements were there</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for the <del>captain &amp; the</del> gentleman &amp; the court, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] a [boar?], &amp; the number of captains &amp; soldiers</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">about London &#8211; only <quote source=\"#\" rend=\"inline\">'gaming, following of harlots</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">drinking &#8211; unless they were ferried over the river</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">to see the play.'</quote> The audience came from the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crowded, festering little streets, round <rs type=\"place\" ref=\"../resources/annotations.xml#pla-stpa\" key=\"St Paul's Cathedral\">St Pauls</rs>. The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>trumpets sounded;</del> they paid a penny or two pence. They</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crowded round the stage; &amp; then the curtain rose,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; they <del>[feasted?]</del> often all their [illeg.] of [illeg.] they <add place=\"below\">heard</add>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>upon the</del> <del>return</del> upon <del>the splendour</del> of Tamburlaine:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-2#xywh=1005,2196,1467,36",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>Brother Cosroe, I find myself much aggrieved</l>\n            <l>Yet insufficient to express the same; </l>\n            <l>For it requires a great &amp; thundering speech:</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-2#xywh=893,2390,1527,428",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The silence is broken;</del> at last the voice speaks [fi?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It</del> <del>It</del> The Kings &amp; Emperors are on the stage.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The world is made visible <del>the</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-2#xywh=913,2688,1547,472",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>For us</del> This is a play fanned by some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">extraordinary [hearts?] into being &#8211; an</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>huperbole</sic>\n              <corr>hyperbole</corr>\n            </choice>, a [illeg.]: at last, there is</l>\n        "
+                ]
+            }
+        }
+    ]
+}

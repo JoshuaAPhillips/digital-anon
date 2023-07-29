@@ -1,0 +1,88 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-14-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-14#xywh=419,272,431,216",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\"><l>213</l></add>"
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-14#xywh=779,90,1919,688",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"> the people are contemptible <quote source=\"#\" rend=\"inline\">\"The marker of superstition is</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">the people..</quote> <del>Praise ...</del> Praise, <quote source=\"#\" rend=\"inline\">\"if it be from the</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>Common People, <del>is</del> it is commonly False &amp; Naught:...</l>\n            <l>The Lowest Vertues draw praise from them:</l>\n            <l>The middle vertues worke in their astonismnent, in</l>\n            <l>admiration; but of the Highest Vertues, they have no</l>\n            <l>sense, in perceiving at all. But shewes, &amp;</l>\n            <l>species virtubus similes, serve best with them\"</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-14#xywh=803,702,1867,992",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <del>Yet,</del> <del>The soul is shut in by these delicate groves.</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Walking in his groves, <del>he</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs></del> The soul that walks in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>those delicate groves</del> <del>is</del> keeps to a narrow path between</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hedges. <del>The Elizabethan soul is <del>shut</del> has</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">while <rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">Montaigne</rs> ranges the world, rambling &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>vagrant,</del> [infectuous?], <add place=\"above\">[slovenly?] &amp;</add> loose, fertile, <del>fecund</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">endlessly <del>infectuous</del> <del>Mast</del> Bacon keeps to the narrow</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">path. <del>And, as</del> <del>There was</del> between hedges. <del>There was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>no</del> <del>And the</del> <del>Yet even the presence of their</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>force of the thoughts brewed there</del> Yet, <del>there is a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even in those <add place=\"above\">first shades</add> groves, thought <del>is</del> is <add place=\"above\">but</add> embodied, palpable.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It <del>uses is rich</del> This <del>rich, embo</del> ...</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-14#xywh=819,1576,1787,1408",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacons</rs> contempt for hyperbole was medicinal.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He was teaching the [irrepressible?] atheistical player to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">speak slowly, clearly, subtly, to stiffen their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">poetry with prose. If a creative eye is, like</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">youth in the [individu?], infinity suggestible, thus</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>\n            <choice>\n              <sic>tho</sic>\n              <corr>though</corr>\n            </choice> <del>Lord Ch</del> waiting [illeg.] [gender?], in setting by his</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Q [Lah?] when for his solace, she</del> Bacon packed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">little bags added <del>in their</del> something to the common stock.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For <del>the essays</del> <del>But</del> <quote source=\"#\" rend=\"inline\">These things are but toyes</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">but since Princes will have such things,</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There was a child even in these who was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">enmeshed in the body of [illeg.] The queen needed</l> ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the solace of her players. <del>And</del> the queen &amp;</l>\n        "
+                ]
+            }
+        }
+    ]
+}

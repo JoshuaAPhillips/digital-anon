@@ -1,0 +1,82 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-7-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-7#xywh=795,76,1829,2952",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">weighing what we know, but cannot measure. And</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to the Elizabethans words after their long <del>of</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">silence, the power of words to say at last what</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was in them, <del>corked up,</del> <del>must be</del> must have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">given their early <del>plays</del> <del>in</del> returned them in front of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their early plays, where, for the first time,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they [listened?] themselves. <del>They</del> as if after ages of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">entombment, they had <del>lifted the</del> come out into the air:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as if at last, they [hiheed?] what is human life;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">what is love, what is <del>sorrow.</del> and for the <del>first</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> This knowledge was conveyed not by the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">preacher, nor by the historian. It was made audible</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">visible tangible in the <del>to see freely for</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">flesh. <del>But</del> This is a curious invention.</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l><del>to be aware</del> The dramatists gave the</l>\n            <l>audiences their existence. We are made aware</l>\n            <l>of the \n              <choice>\n                <sic>Ethn</sic>\n                <corr>Elizabethan</corr>\n              </choice> by the <del>fiction</del> dramatists.</l>\n            <l><del>This</del> In Marlowe we see them as great</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>conquerers</del> But <add place=\"above\">if</add> the audience received this</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">extraordinary proof of their being without comment.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was unto <del>t</del> rapture. Again &amp; again the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-lmay\" key=\"Lord Mayor of London\">Lord Mayor</rs> [propated?] against the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">intoxication that was offered at the Playhouse.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">But the attraction was irresistible.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>If we imagine</del> <del>This</del> For there at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-rose\" key=\"Rose, The\">Rose</rs>, in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-glob\" key=\"Globe, The\">Globe</rs>, at the <rs type=\"place\" ref=\"../resources/annotations.xml#pla-fort\" key=\"Fortune, The\">Fortune</rs>, men &amp; women who</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had never seen themselves yet, whose only</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">reading was a letter, or a sermon, or an old</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">story of Knights &amp; ladies, <del>saw</del> or perhaps</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice> not even read, but were [buy?] all day</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">labours, struggling; getting a livelihood in one of [illeg.]</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">saw <del>the ver</del> their own lives composed</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lit up, adorned: &amp; heard, at last,</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their own daily experiences, the dreams they had</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the passions they felt, <del>the</del> spoken out loud.</l>\n            ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in poetry.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-7#xywh=327,604,503,568",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>[illeg.], as they</l>\n            <l>were;</l>\n            <l><del>making</del> joking:</l>\n            <l>squalling:</l>\n            <l>fighting.</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-7#xywh=954,2800,1646,432",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <del>poetry was</del> <del>But</del> <del>Poetry \n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice> not of course</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <del>The audience</del> The popular play</l>\n        "
+                ]
+            }
+        }
+    ]
+}

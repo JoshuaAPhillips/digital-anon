@@ -1,0 +1,119 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-4-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-4#xywh=819,108,1909,272",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And yet the tragic motive <del>is</del> broods over their</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[acts?] &amp; trampling vanguards; over their multitudes</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">confusion &amp; splendour. Are we not entranced into a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sense of tragedy ? Do we not foretell the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[funereal?] [illeg.]? Such tremendous blows</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the smiling &amp; the kneeling king, the pride of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rampant emperor knock. And they,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as in in the [hoal?] [timely?] at one moment</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still and heavy from the [firmament?] into</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">press of their [being] &amp; splendour we hear:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this art is keeping somehow: a break in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[struggle?]; a sign that the <del>auth</del> dramatist</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is separating from the anonymous play maker:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">a sign that there is as yet no little</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">language: so that he cannot amalgamate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[flow?] naturally; <del>from</del> <del>the</del> diction from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rhetoric, &amp; speak, <del>with</del> simply.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Marlowe, Christopher\">Marlowe</rs> was swept away by his characters.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For, the audience, the shopkeepers, soldiers, [align?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">crowding to the stage, <del>f</del> <del>spurred</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>spurr</del> implored not [stillness?], but movement,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.]. <del>We</del> The play is still</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">partly the work of the audience: of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">undifferentiated mass. It is not yet a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">separate book. It is imprinted by the common</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">voice, demanding great names, many</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">multitudes, a whole clamour on</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stage, not reflection, not the <del>brooding</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">subtlety of one soul. An orgy, a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[shapioly?], a spendid [illeg.]:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-4#xywh=401,378,419,428",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>with</l>\n            <l>tremendous</l>\n            <l>clash &amp;</l>\n        </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-4#xywh=293,1202,235,22",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>38</l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-4#xywh=111,1412,739,15",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n          <quote source=\"#\" rend=\"block\">\n            <p>\n              <l>our souls, whose</l>\n              <l>faculties can</l>\n              <l>comprehend,</l>\n            </p>\n            <p>\n              <l>The wonderous</l>\n              <l>architecture of the</l>\n              <l>world,</l>\n            </p>\n            <p>\n              <l>And measure</l>\n              <l>every wandering</l>\n              <l>planet's</l>\n              <l>course,</l>\n            </p>\n            <p>\n              <l>Still climbing</l>\n              <l>after</l>\n              <l>knowledge infinite</l>\n            </p>\n            <p>\n              <l>Will us to</l>\n              <l>wear ourselves</l>\n              <l>&amp; never</l>\n              <l>[rest?] &#8211;&#8211;</l>\n            </p>\n          </quote>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-4#xywh=893,2796,1755,392",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">our souls are still the souls of many;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; so the single statement falls out of place</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#6.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-4#xywh=441,3102,391,236",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": []
+            }
+        }
+    ]
+}

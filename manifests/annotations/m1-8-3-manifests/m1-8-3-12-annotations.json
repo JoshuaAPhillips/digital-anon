@@ -1,0 +1,107 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-12-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12#xywh=823,94,1819,1012",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">It was half the work of the audience. The audience was a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">large one. Fifteen hundred people, <rs type=\"person\" ref=\"../resources/annotations.xml#psn-greg\" key=\"Greg, W. W.\">Dr Greg</rs> computes was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was</del> an average audience. Of them, the greater part <del>was is</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were <del>in</del> apprentices, citizens, soldiers, the common people.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Their presence is in the being part of the house is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">obvious. <del>They</del> It is they who draw up the <del>play</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hyperbole, the extravagance of <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-tamb\" key=\"Tamburlaine\">Tamburlaine</rs> as a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sheet of paper draws up a fire. <del>An eager</del> It is the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>audie</del> presence of an enthusiastic audience</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">that makes the writer embrace a great [strides?] &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">vast audacities beyond his private reach.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12#xywh=919,1074,967,128",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Yet the audience is silent.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12#xywh=823,1122,1747,436",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The silence of the \n            <choice>\n              <sic>E<hi rend=\"superscript\">thn</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> audience is one of the deep</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gulfs that lies between us &amp; the \n            <choice>\n              <sic>E<hi rend=\"superscript\">thn</hi></sic>\n              <corr>Elizabethan</corr>\n            </choice> play.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The audience <del>makes no comment; it is</del> neither praises nor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">damns. So</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12#xywh=841,1530,1819,122",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The <del>play</del> dramatist then, had every incitement to</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>to rant, to rhapsodise</del>, to <del>write wh</del> write <del>in</del> poetry:</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>the height</del> <del>From the common part of the house</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[illeg.] the house. <del>But</del> They need <del>their</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>heightening</del> <del>[rapsody?] &amp; the rhythm</del> what heightens</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">magnifies, <del>&amp;</del> <del>the falsification</del> <del>&amp; the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">even yet falsifies. But in the seats under the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ceiling there were nobles, rulers <del>men to whom the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scholars. Their silence is harder to explain.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It is difficult to understand how</del> <del>Yet</del> <del>might</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">day <del>after day they.</del> How <del>as</del> was it that the little</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">highly educated Elizabethan public <del>sat</del> <del>made no</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"inline\">more</add> <del>comment upon</del> <del>this</del> <del>the play than the groundlings?</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were as silent as the groundlings?</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-12#xywh=859,2634,1747,644",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Perhaps <del>one of the most</del> Bacon, who, in his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">youth had seen <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wsha\" key=\"Shakespeare, William\">Shakespeare</rs> <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-come\" key=\"Comedy of Errors\">Comedy of Errors</rs> acted</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gray\" key=\"Gray's Inn\">\n            <choice>\n              <sic>Greys</sic>\n              <corr>Gray's</corr>\n            </choice> Inn</rs>, <del>hints at</del> drops a hint</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">These things be but toyes\"</quote> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> wrote in the essay</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-masq\" key=\"Of Masques and Triumphs\">On Masques &amp; Triumphs</rs> The actors were</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-8-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8#xywh=783,36,1925,872",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">owes its extravagance, its lust, its bright [yellow?] quality to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">audience in the penny seats. But there was also a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">sprinkling of gentry, [sultry?] [interpass?], <del>under th</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with a ceiling over them. Their silence was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">equally profound. <del>It is strange that among</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was <del>it that</del> a native art still seemed despicable?</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Or <del>was it that</del> <del>at</del> But the cultivated, the wealthy,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\">Bacon</rs>, the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Elizabeth</rs>, the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-wral\" key=\"Raleigh, Walter\">Raleigh</rs>, also</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[listened?]</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8#xywh=825,716,1707,328",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l><rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> <del>for example</del>, set down some of his</l>\n            <l>meditations, in the <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-baes\" key=\"Essays (Bacon)\">Essays</rs></l>\n          </del>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8#xywh=503,2090,287,152",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">156</add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-8#xywh=833,980,1799,234",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">\"These things are but toyes\"</quote> Bacon wrote, in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">essay <del>called</del> <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-masq\" key=\"Of Masques and Triumphs\">\"Of Masques &amp; Triumphs\"</rs>..</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>whenever</del> <del>Comedies</del> <del>Their proper</del> <quote source=\"#\" rend=\"inline\">\"The stage is</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"/>more beholding to Love, than the Life of Man\"</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>life of man</del> .... <quote source=\"#\" rend=\"inline\">great sports &amp; great</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">baseness, doe keepe out of this weake passion\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>its</del> proper place was on the stage, where</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">Love \n            <choice>\n              <sic>wh.</sic>\n              <corr>which</corr>\n            </choice> leads to</add> <quote source=\"#\" rend=\"inline\">\"speaking in <del>p</del> a perpetual hyperbole\"</quote> was</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was</del> <del>as</del> The place for that was the stage.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">When Bacon walked in his <quote source=\"#\" rend=\"inline\">\"delicate groves\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">meditating, <del>he</del> <del><quote source=\"#\" rend=\"inline\">this one of mens activities</quote></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Ke</del> <del>scarcely took its place</del> had no place in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was dismissed</del> away fellow observations</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><add place=\"margin\">156</add> though <quote source=\"#\" rend=\"inline\">\"Princes will have such things\"</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"/>save that since Princes will have such things</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\"/>it is better they \n            <choice>\n              <sic>shd</sic>\n              <corr>should</corr>\n            </choice> be graced with elegancy</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">than daubed with cost\"</quote> The <del>conduct</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>not essays</del> <del>The</del> The Essays <del>are</del> <add place=\"above\">[graves?]</add> separate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[hypocrites?] <del>The thoughts that <del>darted into</del> his mind</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>as <del>he walked [illeg.] in the shade of his trees</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are <del>rich, grave</del>; the <del>grave</del> <del>They</del> The real &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>world</del> walking in his gloves, the life of man</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>appears</del> the <del>world</del> He is <del>meditating</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Comedies &amp; tragedies.</del> He is meditating the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">real life of man. <del>He is</del> the intricacies, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">difficulties, the fortunes ways of state; the</l>\n        "
+                ]
+            }
+        }
+    ]
+}

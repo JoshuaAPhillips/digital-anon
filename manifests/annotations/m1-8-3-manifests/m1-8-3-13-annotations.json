@@ -1,0 +1,58 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-13-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-13#xywh=803,12,1861,34",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">still <del>much</del> only mountebanks, bear leaders, acrobats. <del>The</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>It</del> The <del>play was simply a diversion; &amp; the players</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the players</del> <del>were</del> were <del>sill</del> still beyond the pale of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">civilised society; <del>When they had</del> Off the stage they were</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">they <del>brawled,</del> <del>stuck knives into</del> <del>knifed each other,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>brawled,</del> cut each others throats; lived in the <del>depths of</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-hear\" key=\"Heart of Darkness\">heart of darkness</rs>, <del>in danger</del>, <del>The</del> <del>So complete</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with <del>knives</del> cut throats &amp; [atheists?]. Bacon</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">so complete in his contempt for the mountebanks at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-sout\" key=\"Southwark\">Southwark</rs> that he can be tolerant. The proper</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">place for the weak passion of love was the stage <del>\"</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">for <quote source=\"#\" rend=\"inline\">love leads to speaking in a perpetual</quote></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">hyperbole.\"</quote> <del>That</del> <del>Was it this gulf between the</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>rulers &amp; the players that</del> <del>In any other age,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>the</del> a thousand pens would have <del>recorded, the</del></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del><del>told</del> been busy with gossip</del> Such was the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">gulf between players &amp; society that no <del>one</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>ga</del> <del>busied</del> <del>gossiped when a player</del> <del>goings was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>flouted to</del> <del>went</del> \n            <choice>\n              <sic>gossipd</sic>\n              <corr>gossiped</corr>\n            </choice> about [Mr Witt?]: &amp; <add place=\"above\">no one</add> asked</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Shakespeare.</del> The moments addressed to him by one of his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">players. <del>There</del> Such   In <del>the upper</del> world</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Bacon</del> <del>The</del> propper topics for discussion in the upper</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">world are to be found in the titles of Bacons</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">essays. If we want to hear what was said</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the nobleman rooms we must [put on?] to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Bacon, meditating in the <add place=\"above\">his</add> delicate groves; of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">state; of death; of [scripture?] in Religion; of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Revenge; of Audacity, of simulation and dissimulation</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">of parents &amp; children, of Marriage and Single life..</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">The essays preserve the sediment of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">folk at the high table, <del>with <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-stra\" key=\"Elizabeth and Essex\">Elizabeth, with</rs></del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-stra\" key=\"Elizabeth and Essex\"><del>with Essex</del></rs> <del>If the <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">Queen</rs></del> <add place=\"above\"><del>the</del></add> He is concerned</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the world of princes; with the art of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Government, with the</del> <del>ruling men:</del> with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">art of <del>see</del> <del>putting affairs</del> <del>seeing</del> government; with the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>extreme</del> <del>difficulties <del>of</del> that meet the ruler,</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with the tortuous natures of mankind; &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">as it shows itself in business, in state affairs:</l>\n        "
+                ]
+            }
+        }
+    ]
+}

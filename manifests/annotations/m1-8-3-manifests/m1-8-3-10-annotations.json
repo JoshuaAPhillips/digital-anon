@@ -1,0 +1,92 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-10-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-10#xywh=269,126,431,328",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>at this grave</l>\n            <l>hour, this</l>\n            <l>[holiday?] \n              <choice>\n                <sic>shd</sic>\n                <corr>should</corr>\n              </choice></l>\n          </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-10#xywh=827,92,1806,3048",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the play could not disregard the <del>presence</del> in</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[purence?], at court, in the loud room at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">theatre. <del>The sag</del> <del>A</del> <del>Suggestivene</del> When</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Even in <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs> himself, with <del>his</del> all his [creyt?] his</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[canhou?] his astuteness there is <del>the same</del> some</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thing rich, figured, fantastic. He <del>too embodies</del>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">substantiates: even the great moralities are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">coloured. <quote source=\"#\" rend=\"inline\">'Nay retire man cannot, when they</quote></l>\n          ",
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"inline\">\n            <l>would; neither will they when it were Reason;</l>\n            <l>But are impatient of privateness, even in</l>\n            <l>Life, &amp; Sicknesse, which require the Shadow:</l>\n            <l>Like old Townesmen, that will still in</l>\n            <l>sitting at their street doore; though thereby</l>\n          </quote>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><quote source=\"#\" rend=\"inline\">they offer Age to Scorne.\"</quote> In <del>an age</del> of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>creation,</del> no figure <del>can take its seat</del> \n            <choice>\n              <sic>cd.</sic>\n              <corr>could</corr>\n            </choice></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">take its seat in the playhouse without</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">affecting the play. The <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-essa\" key=\"Essays (Bacon)\">Essays</rs> were after all</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">making <del>a way</del> <add>it [point?]</add> for the dramatist to <del>t</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to express, even in the play, in the stage, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">thought that was compressed, subtle:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">if, at <rs type=\"place\" ref=\"../resources/annotations.xml#pla-gren\" key=\"Greenwich\">\n            <choice>\n              <sic>Grenwich</sic>\n              <corr>Greenwich</corr>\n            </choice></rs> or <rs type=\"place\" ref=\"../resources/annotations.xml#pla-whit\" key=\"Whitehall\">Whitehall</rs>, one of the <del>dramatists</del> <add place=\"above\"><del>s</del> [servant?]</add></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">caught sight of that inscrutable, [dusk?] figure, he</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">whose stake was so low, who were</l>  \n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">more [movable?] [egged?] in solace the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Queens leisure, the figure \n            <choice>\n              <sic>wd.</sic>\n              <corr>would</corr>\n            </choice> <de>en</de> use again</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the play, adding another personage to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great company.  Hyperbole required [cowal?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>The</del> <del>An</del> Everything, when times are absorbent,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">everything is thrown into the pot. <rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs>,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-stra\" key=\"Elizabeth and Essex\">Elizabeth, Essex</rs>; the little rooms were to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">this high aristocratic mood. Anonymity</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">confers with its cloak of invisibility the power to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to go everywhere. The dramatists were gods</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">spies.     They    And so, Bacon</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-10#xywh=371,1900,447,304",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>their</l>\n            <l>irrepressible</l>\n            <l>number</l>\n        </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-10#xywh=439,808,335,144",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\"><l>39</l></add>"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-3-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-3#xywh=763,118,1927,26",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">every life, complete, <del>beat</del> <del>beating behind</del> And the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mounting image, the wind &amp; [illeg.], still blow out</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the speech, even in the printed book.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>There is</del> <del>The</del> It is crude. The poet is anonymous.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>This</del> <del>And yet what a</del> All is now spoken by</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">each actor. There are no abstractions.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>All is realised:</del> the pomp &amp; the masks &amp; the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">great swollen figures; <del>as if</del> Nothing is left</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lurking in the shades. <del>Still</del> <del>Even</del> The figures are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">palpable, coloured, strident. Is it</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">something has set in motion, not knights &amp; ladies,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but the crude, jagged outlines of real</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">men. [And for?] there is a bombast &amp; a splendour,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the great painted wigs &amp; their [illeg.] [logs?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">are <del>as</del> still damp, un carved. Laughter,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">like great moths brought by the [illeg.]:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But</del> It is momentuous, [naked?]; resonant:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">And the great names clash like brass.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Resound <del>&amp; [comedy?]</del> No one is delicately</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">depicted. There is no shadow: but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">all is gold &amp; purple. And yet</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the [currency?], the trumpets, fill the words: the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[abeard?], the <choice>\n            <sic>huperbole</sic>\n            <corr>hyperbole</corr>\n          </choice>: this is a mood, a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">splendid rhapsody: <del>filled</del> blown like a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">with [folio?], in their [hur?], in suffering; but</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">yet &#8211; <del>for there is no quarter, no stalling;</del></l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>suddenly, in the stress of emotion; a</l>\n            <l>another &amp; yet, for all its stridency, its</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pomp, all the height of splendour, how</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the poet can cut a gash in the fabric:</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-3#xywh=1069,2602,1295,28",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<quote xmlns=\"http://www.tei-c.org/ns/1.0\" source=\"#\" rend=\"block\">\n            <l>So poets say, my Lord</l>\n            <l>And tis a pretty thing to be a poet</l>\n          </quote>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-3#xywh=893,2782,1699,316",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Could he stop, he would suffer. But there is no</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[poem?], no shade as he travels. The [assess?]</l>\n        "
+                ]
+            }
+        }
+    ]
+}

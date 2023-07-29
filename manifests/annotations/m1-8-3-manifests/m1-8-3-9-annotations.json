@@ -1,0 +1,91 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-9-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-9#xywh=497,416,355,8",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<add xmlns=\"http://www.tei-c.org/ns/1.0\" place=\"margin\">\n            <l>the talk of</l>\n            <l>rulers</l>\n            <l>[gush?] about</l>\n            <l>[ruler?]</l>\n            <l>[illeg.]</l>\n            <l>needing</l>\n            <l>[disculion?]</l>\n            <l>in the</l>\n            <l>dark</l>\n            <l>[illeg.] of</l>\n        </add>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-9#xywh=821,104,1851,2316",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the difficult lives of princes and rulers; who are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to whom the conduct of government is contracted. He</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the Essays are the sediment of the <del>high</del> talk at</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">high tables; <del>when the</del> the common people are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">contemptible, their diversions toys. The proper</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>subject</del> topic for rulers is the conduct of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">affairs: where to [yield?]; how to steer; how to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">placate, how to coax; how to control. <del>He</del> <add>To</add> the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">aristocrat the play at the Globe or the Rose was</l>\n          ",
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>a mere diversion, a rhapsody; something to</l>\n            <l>amuse the common people, but outside the pale of</l>\n            <l>ridicule; a diversion, <del>the</del> <del>best</del> to be vilified, as a</l>\n            <l><del>sign of</del> since the ruler meant to be aware of</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the close <del>[complaint?]</del> reflections, that darted into his head,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">pass through [illeg.] channels, &amp; if the in crabbed</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">&amp; [compait?] statements <add place=\"above\">sentences</add>. <del>The groves shall wall</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">him in. <del>There is none of the</del> The soul is</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">shut in; not, as in the other common Essays, free:</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-mmon\" key=\"Montaigne, Michel de\">Montaigne</rs>, by comparison, is free, <del>of every</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">rambling, <del>live</del> [unjust?], a vagabond, a ranger.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>But in</del> <del>And yet the</del> <del>But Lord Chancellor two</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Nothing <del>it</del> \n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice> be more antipathetic to the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">stage than this absorbed, [autoeratic?] [region?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Pacing his groves, jotting his experience into</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">close packed sentences. The wild <del>[attitudes?]</del> as</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">action, <del>irr</del> irresponsible plays <del>seem</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>dis</del> with their hyperbole, <del>their</del> seems childs play.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-9#xywh=827,2218,1683,508",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<del xmlns=\"http://www.tei-c.org/ns/1.0\">\n            <l>And yet, in <del>it</del> <del>the thought of the [illeg.], the</del></l>\n            <l>the ruler, the speaker, the press of experience</l>\n            <l>which <del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacon</rs></del> <del>gave</del> which lay behind</l>\n          </del>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>was</del> <del>is</del>   <del>And</del> The      And yet</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-9#xywh=879,2588,1675,636",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">was there not even in the grave &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">subtle rulers a child? <rs type=\"person\" ref=\"../resources/annotations.xml#psn-eliz\" key=\"Elizabeth I\">The Queen</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[surveyed?] plays as a \"solace.\" The</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">scheming minds of the Elizabethan nobles</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">had their need of farce, of hyperbole.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-11-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-11#xywh=787,68,1861,3024",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">to whom masques were toyes, who, much as a</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">modern <del>imp</del>statesman must hold aloof from</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the <del>current film, the</del> extravagance of the popular</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">taste, was [homily?] and <del>exploited.</del> <del>The images</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>there was</del> the aristocratic world was soon to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">find that the mountebanks could</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>ex</del> put them onto the stage; \n            <choice>\n              <sic>cd.</sic>\n              <corr>could</corr>\n            </choice> impersonate</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">greatness, as <del>well as</del> <del>as</del> with <del>in commoners, &amp;</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>ex</del> speak until <del>all the</del> &amp; speak slowly, closely</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">ponderously <add place=\"above\">humbly</add>. <del><rs type=\"person\" ref=\"../resources/annotations.xml#psn-fbac\" key=\"Bacon, Francis\">Bacons</rs> power</del> The little <rs type=\"literary-work\" ref=\"../resources/annotations.xml#lit-essa\" key=\"Essays (Bacon)\">essays</rs></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">were making it possible to check [hourly?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">hyperbole with prose. <del>The extravagance</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Had there been no prose in the plays, the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"place\" ref=\"../resources/annotations.xml#pla-glob\" key=\"Globe, The\">Globe</rs> &amp; <rs type=\"place\" ref=\"../resources/annotations.xml#pla-rose\" key=\"Rose, The\">the Rose</rs> &amp; <rs type=\"place\" ref=\"../resources/annotations.xml#pla-swan\" key=\"Swan, The\">the Swan</rs> might have</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">remained trivial. <del>Poetry ha</del> The poetry that the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">masses loved was easy, extravagant, it \n            <choice>\n              <sic>cd</sic>\n              <corr>could</corr>\n            </choice> be</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[bold?] &amp; [ranting?]. But a great age is an</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">immensely suggestible age. Player to queen,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">prince, chancellor &amp; statesman, the play <del>must</del> <add place=\"above\">was</add> took <del>colour from them. It was</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">noted, other ways. <del>The <del>vast</del> Marlowe</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>For</del> <del>There was to be an amalgamation</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">As the <del>plays</del> <del>years</del> scenes passed, &amp; play</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">succeeded play, the presence of the Lords</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">in the [ailid?] rooms <del>was</del> <del>gave</del> had its effect.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">There is poetry for the groundlings, <del>but</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but for the gentlemen upstaise, there are</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>the</del> is thought, subtlety, <add place=\"above\">&amp;</add> a the contrast</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">[deine?] essays concerned between delicate groves</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">lines, at last, in the lips of actors &amp;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the brooding mind is given a body to</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">inhabit. Bacon is set among the [set?]</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">given the comment &amp; the contrast which</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">the other's supply.</l>\n        "
+                ]
+            }
+        }
+    ]
+}

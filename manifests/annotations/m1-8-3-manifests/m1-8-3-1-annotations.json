@@ -1,0 +1,94 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m1-8-3-annotations/m1-8-3-1-annotations.json",
+    "type": "AnnotationPage",
+    "items": [
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#1.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-1#xywh=817,90,1815,232",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For <del>a</del> the long poem is <del>lit up</del> luminous, <del>irradi</del> radiant.</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#2.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-1#xywh=771,274,1887,452",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>Yet</del> <rs type=\"person\" ref=\"../resources/annotations.xml#psn-espe\" key=\"Spenser, Edmund\">Spenser</rs> standing on the threshold of the great</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">room is half in shadow half in light. He is not <del>a</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>fully realised: <del>it</del> <add place=\"inline\">He</add> is still anonymous, <del>He</del> in that he</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>does not <del>embody</del> <del>confine emotions to the</del> give</del></l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#3.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-1#xywh=809,656,1847,1192",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">is still anonymous, in that he cannot confine</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">emotions within one place. He must symbolise;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">exteriorise: jealousy is not a passion to be spoken;</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He cannot convey jealousy by <del>the speaking voice He must</del></l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>make jealousy an</del> actual words from an actual</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">mouth. He must make jealousy abstract, a symbol.</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">He <del>ignores</del> <del>cannot</del> cannot speak \n            <choice>\n              <sic>thro'</sic>\n              <corr>through</corr>\n            </choice> the mouth of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">individual. The single is <add place=\"below\">still in shadow</add>. Yet, the other half of him is in the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">light He is aware of his [ancestors?] as <rs type=\"person\" ref=\"../resources/annotations.xml#psn-gcha\" key=\"Chaucer, Geoffrey\">Chaucer</rs> was not, nor</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><rs type=\"person\" ref=\"../resources/annotations.xml#psn-wlan\" key=\"Langland, William\">Langland</rs>, nor <rs type=\"person\" ref=\"../resources/annotations.xml#psn-tmal\" key=\"Malory, Thomas\">Malory</rs>. His is no longer a wandering voice,</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">but the voice of a man \n            <choice>\n              <sic>praitig</sic>\n              <corr>practising</corr>\n            </choice> an art, asking for</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">recognition,, <del>resenting his</del> &amp; bitterly cautious of</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>de</del> <del>his own</del> <del>that the world</del> of the world's scorn</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#4.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-1#xywh=819,1816,1791,472",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Had to the common voice, the voice of the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">English commoner, the mummer, the maker, the man at the</l>\n          ",
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">back door &#8211; Spenser had heard it&#8211;&#8211;&#8211;</l>\n        "
+                ]
+            }
+        },
+        {
+            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m1-8-3-annotation#5.json",
+            "type": "Annotation",
+            "motivation": "commenting",
+            "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-3/m1-8-3-1#xywh=827,2272,1043,14",
+            "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/html",
+                "value": [
+                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>When <rs type=\"person\" ref=\"../resources/annotations.xml#psn-hlat\">Latimer</rs></del></l>\n        "
+                ]
+            }
+        }
+    ]
+}
