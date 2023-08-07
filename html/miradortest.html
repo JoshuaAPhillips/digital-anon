@@ -98,9 +98,17 @@ var mirador = Mirador.viewer({
         "manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m113-manifest.json"
         }
     ],
-    window: [
-      {defaultView: 'single'}
+    window: 
+      {
+        defaultView: 'single',
+        forceDrawAnnotations: true,
+        sideBarOpen: false,
+        views: [
+      { key: 'single', behaviors: ['individuals'] },
+      { key: 'scroll', behaviors: ['continuous'] },
+      { key: 'gallery' },
     ]
+      }
 });
 </script>
 
