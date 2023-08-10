@@ -99,11 +99,27 @@ var mirador = Mirador.viewer({
         }
     ],
     windows: [
-      {"manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-manifest.json"},
-      {"manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-manifest.json"}
+      {
+        "manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-manifest.json",
+        "canvasId": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-10"
+    },
+      {
+        "manifestId": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m111-3-manifest.json",
+        "canvasId": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-3/m111-3-9"
+      
+      }
     ],
-    window:
-      {defaultView: 'single'}
+    "window": 
+      {
+        defaultView: 'single',
+        forceDrawAnnotations: true,
+        sideBarOpen: false,
+        views: [
+      { key: 'single', behaviors: ['individuals'] },
+      { key: 'scroll', behaviors: ['continuous'] },
+      { key: 'gallery' },
+    ]
+      }
 });
 </script>
 
