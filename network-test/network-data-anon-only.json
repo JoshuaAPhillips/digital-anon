@@ -1,0 +1,1992 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.10.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "network-data.tsv",
+    "name" : "network-data.tsv",
+    "SUID" : 43956,
+    "__Annotations" : [ ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "44373",
+        "shared_name" : "Puritans",
+        "name" : "Puritans",
+        "SUID" : 44373,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -192.20087616443635,
+        "y" : -30.1978394685313
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44365",
+        "shared_name" : "Macbeth",
+        "name" : "Macbeth",
+        "SUID" : 44365,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 191.4982701063156,
+        "y" : -55.7550904450938
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44360",
+        "shared_name" : "Falstaff",
+        "name" : "Falstaff",
+        "SUID" : 44360,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -84.01922028064729,
+        "y" : -26.39786693435161
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44328",
+        "shared_name" : "Channel, The",
+        "name" : "Channel, The",
+        "SUID" : 44328,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -53.59720795154573,
+        "y" : 186.46606281418354
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44311",
+        "shared_name" : "Holinshed, Raphael",
+        "name" : "Holinshed, Raphael",
+        "SUID" : 44311,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 124.30453689098357,
+        "y" : 78.28283967841418
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44279",
+        "shared_name" : "Morgan le Fay",
+        "name" : "Morgan le Fay",
+        "SUID" : 44279,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -115.12931244373323,
+        "y" : 156.61395862717183
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44274",
+        "shared_name" : "Archbishop of Canterbury",
+        "name" : "Archbishop of Canterbury",
+        "SUID" : 44274,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -188.57969086170198,
+        "y" : 34.822855264134716
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44269",
+        "shared_name" : "Henry VIII",
+        "name" : "Henry VIII",
+        "SUID" : 44269,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -109.76716034412385,
+        "y" : -165.9847047029063
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44264",
+        "shared_name" : "Lancelot",
+        "name" : "Lancelot",
+        "SUID" : 44264,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -172.58332245349885,
+        "y" : -100.3186890779063
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44259",
+        "shared_name" : "Gawain",
+        "name" : "Gawain",
+        "SUID" : 44259,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -40.40557281970979,
+        "y" : -186.5649048982188
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44251",
+        "shared_name" : "Malory, Thomas",
+        "name" : "Malory, Thomas",
+        "SUID" : 44251,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 79.38220794200896,
+        "y" : 170.4312346281484
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44240",
+        "shared_name" : "Bacon, Ann",
+        "name" : "Bacon, Ann",
+        "SUID" : 44240,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 183.68484313488005,
+        "y" : 79.35070517677815
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44181",
+        "shared_name" : "Marlowe, Christopher",
+        "name" : "Marlowe, Christopher",
+        "SUID" : 44181,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -103.20827667713166,
+        "y" : -102.91456004958599
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44176",
+        "shared_name" : "Shakespeare, William",
+        "name" : "Shakespeare, William",
+        "SUID" : 44176,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 41.06788451671599,
+        "y" : -131.37790843825786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44165",
+        "shared_name" : "Arthur (King)",
+        "name" : "Arthur (King)",
+        "SUID" : 44165,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -170.46714203357698,
+        "y" : 101.74107578415425
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44154",
+        "shared_name" : "Bacon, Francis",
+        "name" : "Bacon, Francis",
+        "SUID" : 44154,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 27.661031794548023,
+        "y" : -193.44899913650005
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44149",
+        "shared_name" : "Bacon, Anne",
+        "name" : "Bacon, Anne",
+        "SUID" : 44149,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 102.34781844615935,
+        "y" : -164.3618561921641
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44138",
+        "shared_name" : "James, Henry",
+        "name" : "James, Henry",
+        "SUID" : 44138,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 18.012609553337086,
+        "y" : 190.65768268723042
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44133",
+        "shared_name" : "Browne, Sir Thomas",
+        "name" : "Browne, Sir Thomas",
+        "SUID" : 44133,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 138.5241251707077,
+        "y" : 145.22637012619526
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44116",
+        "shared_name" : "Wycliffe, John",
+        "name" : "Wycliffe, John",
+        "SUID" : 44116,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -123.64743988513948,
+        "y" : 5.291219979710888
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44096",
+        "shared_name" : "Trevelyan, George",
+        "name" : "Trevelyan, George",
+        "SUID" : 44096,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 149.2930641889572,
+        "y" : -116.30053111892192
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44091",
+        "shared_name" : "Sidney, Philip",
+        "name" : "Sidney, Philip",
+        "SUID" : 44091,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -116.4691256761551,
+        "y" : 81.55520275253804
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44086",
+        "shared_name" : "Elizabeth I",
+        "name" : "Elizabeth I",
+        "SUID" : 44086,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 38.55037505626677,
+        "y" : 104.96851566452534
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44081",
+        "shared_name" : "Spenser, Edmund",
+        "name" : "Spenser, Edmund",
+        "SUID" : 44081,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 69.03304107189177,
+        "y" : 83.39671400208027
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44076",
+        "shared_name" : "Pastons",
+        "name" : "Pastons",
+        "SUID" : 44076,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -35.34565155506135,
+        "y" : -122.94431468825786
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44068",
+        "shared_name" : "Cicero",
+        "name" : "Cicero",
+        "SUID" : 44068,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -60.89313690662385,
+        "y" : -80.57604381423442
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44063",
+        "shared_name" : "Cato, Marcus",
+        "name" : "Cato, Marcus",
+        "SUID" : 44063,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 189.15031249523162,
+        "y" : 12.922140389867138
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44058",
+        "shared_name" : "Pliny",
+        "name" : "Pliny",
+        "SUID" : 44058,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 47.95107085704802,
+        "y" : -81.90836498122661
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44053",
+        "shared_name" : "Suetonius",
+        "name" : "Suetonius",
+        "SUID" : 44053,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 106.06314284801482,
+        "y" : 15.948049813695263
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44048",
+        "shared_name" : "Agrippa",
+        "name" : "Agrippa",
+        "SUID" : 44048,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -52.99004547595979,
+        "y" : 77.47751536983998
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44043",
+        "shared_name" : "Lydgate, John",
+        "name" : "Lydgate, John",
+        "SUID" : 44043,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -121.31723968982698,
+        "y" : -49.786920279078174
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44038",
+        "shared_name" : "Gower, John",
+        "name" : "Gower, John",
+        "SUID" : 44038,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -62.49762909412385,
+        "y" : 114.25360706467183
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44024",
+        "shared_name" : "Pulley",
+        "name" : "Pulley",
+        "SUID" : 44024,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 135.4475994825363,
+        "y" : -34.12441417556255
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44019",
+        "shared_name" : "Crot",
+        "name" : "Crot",
+        "SUID" : 44019,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -4.982248234748852,
+        "y" : 132.9329321684316
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44014",
+        "shared_name" : "Nin",
+        "name" : "Nin",
+        "SUID" : 44014,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 87.31885344982146,
+        "y" : -32.68252727370708
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44009",
+        "shared_name" : "Caxton, William",
+        "name" : "Caxton, William",
+        "SUID" : 44009,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 90.52019317150115,
+        "y" : -83.71656200271099
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44004",
+        "shared_name" : "Harrison, William",
+        "name" : "Harrison, William",
+        "SUID" : 44004,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2.0504550218582267,
+        "y" : -99.01378795485942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "43996",
+        "shared_name" : "Langland, William",
+        "name" : "Langland, William",
+        "SUID" : 43996,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -93.02059357166291,
+        "y" : 36.121187478490185
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "43986",
+        "shared_name" : "Chaucer, Geoffrey",
+        "name" : "Chaucer, Geoffrey",
+        "SUID" : 43986,
+        "selected" : false
+      },
+      "position" : {
+        "x" : 84.25905807018279,
+        "y" : 49.25391605515034
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "43984",
+        "shared_name" : "Anon",
+        "name" : "Anon",
+        "SUID" : 43984,
+        "selected" : false
+      },
+      "position" : {
+        "x" : -0.8986911058426017,
+        "y" : 0.6621001066640133
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "44378",
+        "source" : "43984",
+        "target" : "44360",
+        "shared_name" : "Anon (interacts with) Falstaff",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Falstaff",
+        "interaction" : "interacts with",
+        "SUID" : 44378,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44375",
+        "source" : "43984",
+        "target" : "44373",
+        "shared_name" : "Anon (interacts with) Puritans",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Puritans",
+        "interaction" : "interacts with",
+        "SUID" : 44375,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44370",
+        "source" : "43984",
+        "target" : "44081",
+        "shared_name" : "Anon (interacts with) Spenser, Edmund",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Spenser, Edmund",
+        "interaction" : "interacts with",
+        "SUID" : 44370,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44367",
+        "source" : "43984",
+        "target" : "44365",
+        "shared_name" : "Anon (interacts with) Macbeth",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Macbeth",
+        "interaction" : "interacts with",
+        "SUID" : 44367,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44362",
+        "source" : "43984",
+        "target" : "44360",
+        "shared_name" : "Anon (interacts with) Falstaff",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Falstaff",
+        "interaction" : "interacts with",
+        "SUID" : 44362,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44357",
+        "source" : "43984",
+        "target" : "44081",
+        "shared_name" : "Anon (interacts with) Spenser, Edmund",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Spenser, Edmund",
+        "interaction" : "interacts with",
+        "SUID" : 44357,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44354",
+        "source" : "43984",
+        "target" : "44086",
+        "shared_name" : "Anon (interacts with) Elizabeth I",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Elizabeth I",
+        "interaction" : "interacts with",
+        "SUID" : 44354,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44351",
+        "source" : "43984",
+        "target" : "44076",
+        "shared_name" : "Anon (interacts with) Pastons",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pastons",
+        "interaction" : "interacts with",
+        "SUID" : 44351,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44348",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44348,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44345",
+        "source" : "43984",
+        "target" : "44311",
+        "shared_name" : "Anon (interacts with) Holinshed, Raphael",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Holinshed, Raphael",
+        "interaction" : "interacts with",
+        "SUID" : 44345,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44342",
+        "source" : "43984",
+        "target" : "44086",
+        "shared_name" : "Anon (interacts with) Elizabeth I",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Elizabeth I",
+        "interaction" : "interacts with",
+        "SUID" : 44342,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44339",
+        "source" : "43984",
+        "target" : "43996",
+        "shared_name" : "Anon (interacts with) Langland, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Langland, William",
+        "interaction" : "interacts with",
+        "SUID" : 44339,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44336",
+        "source" : "43984",
+        "target" : "44076",
+        "shared_name" : "Anon (interacts with) Pastons",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pastons",
+        "interaction" : "interacts with",
+        "SUID" : 44336,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44333",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44333,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44330",
+        "source" : "43984",
+        "target" : "44328",
+        "shared_name" : "Anon (interacts with) Channel, The",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Channel, The",
+        "interaction" : "interacts with",
+        "SUID" : 44330,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44325",
+        "source" : "43984",
+        "target" : "44116",
+        "shared_name" : "Anon (interacts with) Wycliffe, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Wycliffe, John",
+        "interaction" : "interacts with",
+        "SUID" : 44325,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44322",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44322,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44319",
+        "source" : "43984",
+        "target" : "44086",
+        "shared_name" : "Anon (interacts with) Elizabeth I",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Elizabeth I",
+        "interaction" : "interacts with",
+        "SUID" : 44319,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44316",
+        "source" : "43984",
+        "target" : "44091",
+        "shared_name" : "Anon (interacts with) Sidney, Philip",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Sidney, Philip",
+        "interaction" : "interacts with",
+        "SUID" : 44316,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44313",
+        "source" : "43984",
+        "target" : "44311",
+        "shared_name" : "Anon (interacts with) Holinshed, Raphael",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Holinshed, Raphael",
+        "interaction" : "interacts with",
+        "SUID" : 44313,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44308",
+        "source" : "43984",
+        "target" : "44081",
+        "shared_name" : "Anon (interacts with) Spenser, Edmund",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Spenser, Edmund",
+        "interaction" : "interacts with",
+        "SUID" : 44308,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44305",
+        "source" : "43984",
+        "target" : "44068",
+        "shared_name" : "Anon (interacts with) Cicero",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "SUID" : 44305,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44302",
+        "source" : "43984",
+        "target" : "44058",
+        "shared_name" : "Anon (interacts with) Pliny",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "SUID" : 44302,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44299",
+        "source" : "43984",
+        "target" : "44053",
+        "shared_name" : "Anon (interacts with) Suetonius",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "SUID" : 44299,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44296",
+        "source" : "43984",
+        "target" : "44048",
+        "shared_name" : "Anon (interacts with) Agrippa",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "SUID" : 44296,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44293",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44293,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44290",
+        "source" : "43984",
+        "target" : "44024",
+        "shared_name" : "Anon (interacts with) Pulley",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pulley",
+        "interaction" : "interacts with",
+        "SUID" : 44290,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44287",
+        "source" : "43984",
+        "target" : "44019",
+        "shared_name" : "Anon (interacts with) Crot",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Crot",
+        "interaction" : "interacts with",
+        "SUID" : 44287,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44284",
+        "source" : "43984",
+        "target" : "44014",
+        "shared_name" : "Anon (interacts with) Nin",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Nin",
+        "interaction" : "interacts with",
+        "SUID" : 44284,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44281",
+        "source" : "43984",
+        "target" : "44279",
+        "shared_name" : "Anon (interacts with) Morgan le Fay",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Morgan le Fay",
+        "interaction" : "interacts with",
+        "SUID" : 44281,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44276",
+        "source" : "43984",
+        "target" : "44274",
+        "shared_name" : "Anon (interacts with) Archbishop of Canterbury",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Archbishop of Canterbury",
+        "interaction" : "interacts with",
+        "SUID" : 44276,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44271",
+        "source" : "43984",
+        "target" : "44269",
+        "shared_name" : "Anon (interacts with) Henry VIII",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Henry VIII",
+        "interaction" : "interacts with",
+        "SUID" : 44271,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44266",
+        "source" : "43984",
+        "target" : "44264",
+        "shared_name" : "Anon (interacts with) Lancelot",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Lancelot",
+        "interaction" : "interacts with",
+        "SUID" : 44266,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44261",
+        "source" : "43984",
+        "target" : "44259",
+        "shared_name" : "Anon (interacts with) Gawain",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Gawain",
+        "interaction" : "interacts with",
+        "SUID" : 44261,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44256",
+        "source" : "43984",
+        "target" : "44009",
+        "shared_name" : "Anon (interacts with) Caxton, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Caxton, William",
+        "interaction" : "interacts with",
+        "SUID" : 44256,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44253",
+        "source" : "43984",
+        "target" : "44251",
+        "shared_name" : "Anon (interacts with) Malory, Thomas",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Malory, Thomas",
+        "interaction" : "interacts with",
+        "SUID" : 44253,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44248",
+        "source" : "43984",
+        "target" : "43996",
+        "shared_name" : "Anon (interacts with) Langland, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Langland, William",
+        "interaction" : "interacts with",
+        "SUID" : 44248,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44245",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44245,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44242",
+        "source" : "43984",
+        "target" : "44240",
+        "shared_name" : "Anon (interacts with) Bacon, Ann",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Bacon, Ann",
+        "interaction" : "interacts with",
+        "SUID" : 44242,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44237",
+        "source" : "43984",
+        "target" : "44181",
+        "shared_name" : "Anon (interacts with) Marlowe, Christopher",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Marlowe, Christopher",
+        "interaction" : "interacts with",
+        "SUID" : 44237,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44234",
+        "source" : "43984",
+        "target" : "44176",
+        "shared_name" : "Anon (interacts with) Shakespeare, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Shakespeare, William",
+        "interaction" : "interacts with",
+        "SUID" : 44234,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44231",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44231,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44228",
+        "source" : "43984",
+        "target" : "44068",
+        "shared_name" : "Anon (interacts with) Cicero",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "SUID" : 44228,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44225",
+        "source" : "43984",
+        "target" : "44058",
+        "shared_name" : "Anon (interacts with) Pliny",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "SUID" : 44225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44222",
+        "source" : "43984",
+        "target" : "44053",
+        "shared_name" : "Anon (interacts with) Suetonius",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "SUID" : 44222,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44219",
+        "source" : "43984",
+        "target" : "44048",
+        "shared_name" : "Anon (interacts with) Agrippa",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "SUID" : 44219,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44216",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44216,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44213",
+        "source" : "43984",
+        "target" : "43996",
+        "shared_name" : "Anon (interacts with) Langland, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Langland, William",
+        "interaction" : "interacts with",
+        "SUID" : 44213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44210",
+        "source" : "43984",
+        "target" : "44038",
+        "shared_name" : "Anon (interacts with) Gower, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Gower, John",
+        "interaction" : "interacts with",
+        "SUID" : 44210,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44207",
+        "source" : "43984",
+        "target" : "44068",
+        "shared_name" : "Anon (interacts with) Cicero",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "SUID" : 44207,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44204",
+        "source" : "43984",
+        "target" : "44058",
+        "shared_name" : "Anon (interacts with) Pliny",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "SUID" : 44204,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44201",
+        "source" : "43984",
+        "target" : "44053",
+        "shared_name" : "Anon (interacts with) Suetonius",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "SUID" : 44201,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44198",
+        "source" : "43984",
+        "target" : "44048",
+        "shared_name" : "Anon (interacts with) Agrippa",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "SUID" : 44198,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44195",
+        "source" : "43984",
+        "target" : "44116",
+        "shared_name" : "Anon (interacts with) Wycliffe, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Wycliffe, John",
+        "interaction" : "interacts with",
+        "SUID" : 44195,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44192",
+        "source" : "43984",
+        "target" : "43996",
+        "shared_name" : "Anon (interacts with) Langland, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Langland, William",
+        "interaction" : "interacts with",
+        "SUID" : 44192,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44189",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44189,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44186",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44186,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44183",
+        "source" : "43984",
+        "target" : "44181",
+        "shared_name" : "Anon (interacts with) Marlowe, Christopher",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Marlowe, Christopher",
+        "interaction" : "interacts with",
+        "SUID" : 44183,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44178",
+        "source" : "43984",
+        "target" : "44176",
+        "shared_name" : "Anon (interacts with) Shakespeare, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Shakespeare, William",
+        "interaction" : "interacts with",
+        "SUID" : 44178,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44173",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 2,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44173,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44170",
+        "source" : "43984",
+        "target" : "44009",
+        "shared_name" : "Anon (interacts with) Caxton, William",
+        "_" : 2,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Caxton, William",
+        "interaction" : "interacts with",
+        "SUID" : 44170,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44167",
+        "source" : "43984",
+        "target" : "44165",
+        "shared_name" : "Anon (interacts with) Arthur (King)",
+        "_" : 2,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Arthur (King)",
+        "interaction" : "interacts with",
+        "SUID" : 44167,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44162",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44162,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44159",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44159,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44156",
+        "source" : "43984",
+        "target" : "44154",
+        "shared_name" : "Anon (interacts with) Bacon, Francis",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Bacon, Francis",
+        "interaction" : "interacts with",
+        "SUID" : 44156,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44151",
+        "source" : "43984",
+        "target" : "44149",
+        "shared_name" : "Anon (interacts with) Bacon, Anne",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Bacon, Anne",
+        "interaction" : "interacts with",
+        "SUID" : 44151,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44146",
+        "source" : "43984",
+        "target" : "44043",
+        "shared_name" : "Anon (interacts with) Lydgate, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Lydgate, John",
+        "interaction" : "interacts with",
+        "SUID" : 44146,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44143",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44143,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44140",
+        "source" : "43984",
+        "target" : "44138",
+        "shared_name" : "Anon (interacts with) James, Henry",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) James, Henry",
+        "interaction" : "interacts with",
+        "SUID" : 44140,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44135",
+        "source" : "43984",
+        "target" : "44133",
+        "shared_name" : "Anon (interacts with) Browne, Sir Thomas",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Browne, Sir Thomas",
+        "interaction" : "interacts with",
+        "SUID" : 44135,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44130",
+        "source" : "43984",
+        "target" : "44068",
+        "shared_name" : "Anon (interacts with) Cicero",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "SUID" : 44130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44127",
+        "source" : "43984",
+        "target" : "44058",
+        "shared_name" : "Anon (interacts with) Pliny",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "SUID" : 44127,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44124",
+        "source" : "43984",
+        "target" : "44053",
+        "shared_name" : "Anon (interacts with) Suetonius",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "SUID" : 44124,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44121",
+        "source" : "43984",
+        "target" : "44048",
+        "shared_name" : "Anon (interacts with) Agrippa",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "SUID" : 44121,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44118",
+        "source" : "43984",
+        "target" : "44116",
+        "shared_name" : "Anon (interacts with) Wycliffe, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Wycliffe, John",
+        "interaction" : "interacts with",
+        "SUID" : 44118,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44113",
+        "source" : "43984",
+        "target" : "44043",
+        "shared_name" : "Anon (interacts with) Lydgate, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Lydgate, John",
+        "interaction" : "interacts with",
+        "SUID" : 44113,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44110",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44110,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44107",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44107,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44104",
+        "source" : "43984",
+        "target" : "44038",
+        "shared_name" : "Anon (interacts with) Gower, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Gower, John",
+        "interaction" : "interacts with",
+        "SUID" : 44104,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44101",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44101,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44098",
+        "source" : "43984",
+        "target" : "44096",
+        "shared_name" : "Anon (interacts with) Trevelyan, George",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Trevelyan, George",
+        "interaction" : "interacts with",
+        "SUID" : 44098,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44093",
+        "source" : "43984",
+        "target" : "44091",
+        "shared_name" : "Anon (interacts with) Sidney, Philip",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Sidney, Philip",
+        "interaction" : "interacts with",
+        "SUID" : 44093,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44088",
+        "source" : "43984",
+        "target" : "44086",
+        "shared_name" : "Anon (interacts with) Elizabeth I",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Elizabeth I",
+        "interaction" : "interacts with",
+        "SUID" : 44088,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44083",
+        "source" : "43984",
+        "target" : "44081",
+        "shared_name" : "Anon (interacts with) Spenser, Edmund",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Spenser, Edmund",
+        "interaction" : "interacts with",
+        "SUID" : 44083,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44078",
+        "source" : "43984",
+        "target" : "44076",
+        "shared_name" : "Anon (interacts with) Pastons",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pastons",
+        "interaction" : "interacts with",
+        "SUID" : 44078,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44073",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44073,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44070",
+        "source" : "43984",
+        "target" : "44068",
+        "shared_name" : "Anon (interacts with) Cicero",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Cicero",
+        "interaction" : "interacts with",
+        "SUID" : 44070,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44065",
+        "source" : "43984",
+        "target" : "44063",
+        "shared_name" : "Anon (interacts with) Cato, Marcus",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Cato, Marcus",
+        "interaction" : "interacts with",
+        "SUID" : 44065,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44060",
+        "source" : "43984",
+        "target" : "44058",
+        "shared_name" : "Anon (interacts with) Pliny",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pliny",
+        "interaction" : "interacts with",
+        "SUID" : 44060,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44055",
+        "source" : "43984",
+        "target" : "44053",
+        "shared_name" : "Anon (interacts with) Suetonius",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Suetonius",
+        "interaction" : "interacts with",
+        "SUID" : 44055,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44050",
+        "source" : "43984",
+        "target" : "44048",
+        "shared_name" : "Anon (interacts with) Agrippa",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Agrippa",
+        "interaction" : "interacts with",
+        "SUID" : 44050,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44045",
+        "source" : "43984",
+        "target" : "44043",
+        "shared_name" : "Anon (interacts with) Lydgate, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Lydgate, John",
+        "interaction" : "interacts with",
+        "SUID" : 44045,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44040",
+        "source" : "43984",
+        "target" : "44038",
+        "shared_name" : "Anon (interacts with) Gower, John",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Gower, John",
+        "interaction" : "interacts with",
+        "SUID" : 44040,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44035",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44035,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44032",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44032,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44029",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44029,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44026",
+        "source" : "43984",
+        "target" : "44024",
+        "shared_name" : "Anon (interacts with) Pulley",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Pulley",
+        "interaction" : "interacts with",
+        "SUID" : 44026,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44021",
+        "source" : "43984",
+        "target" : "44019",
+        "shared_name" : "Anon (interacts with) Crot",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Crot",
+        "interaction" : "interacts with",
+        "SUID" : 44021,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44016",
+        "source" : "43984",
+        "target" : "44014",
+        "shared_name" : "Anon (interacts with) Nin",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Nin",
+        "interaction" : "interacts with",
+        "SUID" : 44016,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44011",
+        "source" : "43984",
+        "target" : "44009",
+        "shared_name" : "Anon (interacts with) Caxton, William",
+        "_" : 3,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Caxton, William",
+        "interaction" : "interacts with",
+        "SUID" : 44011,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44006",
+        "source" : "43984",
+        "target" : "44004",
+        "shared_name" : "Anon (interacts with) Harrison, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Harrison, William",
+        "interaction" : "interacts with",
+        "SUID" : 44006,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "44001",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 44001,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "43998",
+        "source" : "43984",
+        "target" : "43996",
+        "shared_name" : "Anon (interacts with) Langland, William",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Langland, William",
+        "interaction" : "interacts with",
+        "SUID" : 43998,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "43988",
+        "source" : "43984",
+        "target" : "43986",
+        "shared_name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "_" : 1,
+        "shared_interaction" : "interacts with",
+        "name" : "Anon (interacts with) Chaucer, Geoffrey",
+        "interaction" : "interacts with",
+        "SUID" : 43988,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}
