@@ -1,10 +1,10 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/annotations/m48-annotations/m48-2-annotations.json",
+    "id": "./manifests/annotations/m48-annotations/m48-4-annotations.json",
     "type": "AnnotationPage",
     "items": [
         {
-            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m48-annotation#1.json",
+            "id": "./manifests/m48-annotation#1.json",
             "type": "Annotation",
             "motivation": "commenting",
             "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2#xywh=543,160,703,648",
@@ -13,15 +13,14 @@
                 "language": "en",
                 "format": "text/html",
                 "value": [
-                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">For <rs type=\"person\" ref=\"../../resources/annotations.xml#psn-smil\" key=\"Miller, Sissy\">Sissy Miller</rs></l> ",
-                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">She comes.</l>\n          ",
-                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">Scene.</l>\n          ",
-                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\">their [searches?]</l>\n        "
+                    "<br xmlns=\"http://www.tei-c.org/ns/1.0\"/> \n          She comes.",
+                    "<br xmlns=\"http://www.tei-c.org/ns/1.0\"/>\n          Scene.",
+                    "<br xmlns=\"http://www.tei-c.org/ns/1.0\"/>\n          their [searches?]"
                 ]
             }
         },
         {
-            "id": "https://raw.githubusercontent.com/JoshuaAPhillips/digital-anon/main/manifests/m48-annotation#2.json",
+            "id": "./manifests/m48-annotation#2.json",
             "type": "Annotation",
             "motivation": "commenting",
             "target": "https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2#xywh=552,795,426,17",
@@ -30,7 +29,7 @@
                 "language": "en",
                 "format": "text/html",
                 "value": [
-                    "<l xmlns=\"http://www.tei-c.org/ns/1.0\"><del>P</del> R. M.</l>\n        "
+                    "<s xmlns=\"http://www.tei-c.org/ns/1.0\">P</s> R. M."
                 ]
             }
         }
