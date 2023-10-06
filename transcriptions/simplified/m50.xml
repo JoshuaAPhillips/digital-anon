@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr> tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m50.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1/909,104,243,252/full/0/default.tif">
+          <l>1</l>
+          <l>ANON.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1/829,368,1859,1108/full/0/default.tif">
+          <l><quote source="#" rend="inline">"For many centuries <choice>
+            <sic>afte</sic>
+            <corr>after</corr></choice> Britain became an island"</quote> the</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">historian</rs> says "#"<quote source="#">the untamed forest was king. Its moist</quote></l>
+          <l><quote source="#" rend="inline">and mossy floor was hidden from Heavens eye by a close drawn</quote></l>
+          <l><quote source="#" rend="inline">curtain woven of innumerable tree tops."</quote> On those matted</l>
+          <l>boughs innumerable birds sang; but their song was only heard</l>
+          <l>by a few skin clad hunters in the <choice>
+            <sic>lcearings</sic>
+            <corr>clearings</corr>
+          </choice>. Did the desire</l>
+          <l>to sing come to one of those huntsmen because he heard the</l>
+          <l>birds sing, and so rested his axe against the tree for a</l>
+          <l>moment? But the tree had to be felled; and a hut made</l>
+          <l>from its branches before the human voice sang too.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1/1059,1450,1003,468/full/0/default.tif">
+          <quote source="#" rend="block">
+            <l>By a bank as I lay</l>
+            <l>Musing myself alone, hey ho!</l>
+            <l>A birdes voice</l>
+            <l>Did me rejoice,</l>
+            <l>Singing before the day</l>
+            <l>And me thought in her lay</l>
+            <l>She said, winter was past, hey ho!</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-1/687,1904,2015,1424/full/0/default.tif">
+          <l>The voice that broke the <choice>
+            <sic>sielnce</sic>
+            <corr>silence</corr>
+          </choice> of the forests was</l>
+          <l>the voice of <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>. Some one heard the song and <choice>
+           <sic>re embered</sic>
+           <corr>remembered</corr>
+          </choice> it</l>
+         <l>for it was later <choice>
+            <sic>wrteen</sic>
+            <corr>written</corr>
+          </choice> down, beautifully on parchment.</l>
+          <l>Thus the singer had his audience, but the audience was so</l>
+          <l>little interested in his name that he never thought to give</l>
+          <l>it. <del hand="ms">For</del> <add hand="ms" place="inline">T</add><del hand="ms">t</del>he audience was itself the singer; <quote source="#" rend="inline">Terly terlow"</quote></l>
+          <l>they sand; and <quote source="#" rend="inline">"By, by lullay"</quote> filling in the pauses,</l>
+          <l>helping <add hand="ms" place="above">out</add> with a chorus. Every body shared in the emotion</l>
+          <l>of Anons song, and supplied the story. Anon sang because</l>
+          <l>spring has come; or winter is gone; because he loves; because</l>
+          <l>he is hungry, or lustful; or merry. or because he adores</l>
+          <l>some God. Anon is sometimes man; sometimes woman. He is the</l>
+        </p>
+      </div>
+      <div xml:id="m50.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-2" />
+      <div xml:id="m50.2r" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/851,118,152,170/full/0/default.tif">
+          <l>2</l>
+        </p>
+        <p>
+          <l>common voice singing out of doors, He has no house. He <choice>
+            <sic>l ves</sic>
+            <corr>lives</corr>
+          </choice></l>
+          <l>a <choice>
+            <sic>r ming</sic>
+            <corr>roaming</corr>
+          </choice> life crossing the fields, mounting the hills,</l>
+          <l>lying under the hawthown to listen to the <choice>
+            <sic>nightigale</sic>
+            <corr>nightingale</corr>
+          </choice>.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/841,248,1851,1116/full/0/default.tif">
+          <l>By shutting out a chimney or a factory we can still</l>
+          <l>see what <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> saw-- the bird haunted reed whispering fen,</l>
+          <l>the down and the green scar<del>e</del> never quite <add place="above">not yet</add> healed along which</l>
+          <l>he came when he made his journeys. He was a simple singer,</l>
+          <l>lifting a song or a story from other peoples lips and <choice>
+            <sic>lettig</sic>
+            <corr>letting</corr>
+          </choice></l>
+          <l>the audience join in the chorus. <choice>
+            <sic>Somemimes</sic>
+            <corr>Sometimes</corr>
+          </choice> he made a few lines</l>
+          <l>that exactly matched his emotion--</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/851,1616,1251,196/full/0/default.tif">
+          <!--find a way to render the blank lines -->
+          <l> </l>
+          <l> </l>
+          <l> </l>
+          <l> </l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/851,1616,1251,196/full/0/default.tif">
+          <l>but there is no <add place="above">name</add> <choice>
+            <sic>mae</sic>
+            <corr>name</corr>
+          </choice> to that song.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/783,1830,1891,760/full/0/default.tif">
+          <l>Then when the houses had come together in some</l>
+          <l><choice>
+            <sic>lcearing</sic>
+            <corr>clearing</corr>
+          </choice> in a ring and roads, often flooded, often deep in</l>
+          <l>mud, led from hxxxx the cottage to the Manor, from the Manor</l>
+          <l>to the Church in the middle, along the roads came <choice>
+            <sic>minstersl</sic>
+            <corr>minstrels</corr>
+          </choice> <add hand="ms" place="inline">came</add></l>
+          <l>jugglers, bear leaders, singing their songs at the back door</l>
+          <l>to the farm hands and the maid servants in the uncouth</l>
+          <l>jargon of their native tongue.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/1162,2604,832,148/full/0/default.tif">
+          <quote source="#" rend="block">
+            <l>Icham for woing al forwake</l>
+            <l>Wery no water in wore</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-3/837,2774,1819,572/full/0/default.tif">
+          <l>Up stairs they spoke French. Anons words were as</l>
+          <l>uncouth to the master and mistress as to us. Anon</l>
+          <l>singing at <choice>
+            <sic>yhe</sic>
+            <corr>the</corr>
+          </choice> back door was  <choice>
+            <sic>despsied</sic>
+            <corr>despised</corr>
+          </choice>. He had no name;</l>
+          <l>he had no place, yet even if they felt contempt for the</l>
+          <l><add place="above">singer whose body took its [small?] part in the [dance?]</add> man who made songs, they tolerated him. Even Kings and Queens</l>
+        </p>
+      </div>
+      <div xml:id="m50.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-4" />
+      <div xml:id="m50.3r" n="3 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5/877,70,123,160/full/0/default.tif">
+          <l>3</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5/827,188,1871,1528/full/0/default.tif">
+          <l>the scholar tell us, must have their 
+            <choice>
+              <sic>misntre</sic>
+              <corr>minstrel</corr>
+            </choice>. They must</l>
+          <l>have They needed his comment, his buffoonery. <add place="above">his [uncouth?] at [illeg.]</add> They kept him</l>
+          <l>in <add hand="ms" place="above">the [illeg.]</add> being, 
+            <choice>
+              <sic>tolerting</sic>
+              <corr>tolerating</corr>
+            </choice> <choice>
+              <sic>h m</sic>
+              <corr>him</corr>
+            </choice>, as we tolerate those who say out</l>
+          <l>loud what we feel but are too proud to admit. He used the</l>
+          <l>outsiders privilege to co mock the 
+            <choice>
+              <sic>solmen</sic>
+              <corr>solemn</corr>
+            </choice>, to comment upon</l>
+          <l>the established. The  church men hxmxmxmxmxmxmxxx feared</l>
+          <l>and hated <add place="above">hating the</add> the 
+            <choice>
+              <sic>anonymo s</sic>
+              <corr>anonymous</corr>
+            </choice> singer. They did their best to <add hand="ms" place="inline">[illeg.]</add></l>
+          <l>If they could, they pressed him and his <add hand="ms" place="above">[illeg.]</add> actors gift into</l>
+          <l>the service of the church. He was to be found acting the</l>
+          <l>Mass in the church; but <add hand="ms" place="above">[illeg.]</add> as he acted more and more his own</l>
+          <l>art, he left the church, and staged his pageant in the</l>
+          <l>churchyard, or later was given a pitch for his drama in the</l>
+          <l>market place. Still he remained nameless, often ribald,</l>
+          <l>often obscene.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-5/839,1710,1867,1672/full/0/default.tif">
+          <l><add place="above">Yet </add>During the silent 
+            <choice>
+              <sic>centruies</sic>
+              <corr>centuries</corr>
+            </choice> before the book was printed</l>
+          <l>his was the only voice to be heard in England.</l>
+          <l>Save for <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> singing his song at 
+            <choice>
+              <sic>yhe</sic>
+              <corr>the</corr>
+            </choice> back door the English</l>
+          <l>might be a dumb race, a race of merchants, soldiers, 
+            <choice>
+              <sic>preists</sic>
+              <corr>priests</corr>
+            </choice>;</l>
+          <l>who left behind them stones houses, cultivated fields and</l>  
+          <l>great churches, but no words. <del>He it was</del><add place="above">It was he</add> who gave voice to</l>
+          <l>the old stories, who incidted the peasants when he came to</l>
+          <l>the back door to put off their working clothes and deck them</l>
+          <l>selves in green leaves. He it was who found words for them</l>
+          <l>to sing, and 
+            <choice>
+              <sic> shen</sic>
+              <corr>when</corr>
+            </choice> they went at the great seasons to do</l>
+          <l>
+            <choice>
+              <sic>himage</sic>
+              <corr>homage</corr>
+            </choice> to the old pagan Gods. He wxxxxxxxx taught them</l>
+          <l>the songs the  sung at Christmas and at midsummer. He</l>
+          <l>led them to the haunted tree; to the well; to the old</l>
+          <l>burial place where they did 
+            <choice>
+              <sic>himage</sic>
+              <corr>homage</corr>
+            </choice> to the pagan gods.</l>
+          <l>If we could see the village as it was before <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey"><choice>
+            <sic>Cahucers</sic>
+            <corr>Chaucer's'</corr>
+          </choice></rs> time</l>
+        </p>
+      </div>
+      <div xml:id="m50.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-6" />
+      <div xml:id="m50.4r" n="4 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7" >
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7/904,144,114,124/full/0/default.tif">
+          <l>4</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7/852,252,1840,2856/full/0/default.tif">
+          <l>we should see tracks across the fields 
+            <choice>
+              <sic>joing</sic>
+              <corr>joining</corr>
+            </choice> manor house to</l>
+          <l>hovel, and hovel to church. Some of those paths of course</l>
+          <l>were worn by 
+            <choice>
+              <sic>soliders</sic>
+              <corr>soldiers</corr>
+            </choice> and
+            <choice>
+              <sic>labouerers</sic>
+              <corr>labourers</corr>
+            </choice>. They must fight to</l>
+          <l>
+            <choice>
+              <sic>gether</sic>
+              <corr>gather</corr>
+            </choice> and plough together if they were not to be conquered</l>
+          <l>by man and by nature. That connection isxx as time goes on</l>
+          <l>and the <add hand="ms" place="above">[he? her?] <del hand="ms">me</del> records the daily struggle</add><del hand="ms">classes separate themselves</del>, is still painfully</l>
+          <l>recorded in old letter books and ledgers. It makes the</l>
+          <l>staple of the old 
+            <choice>
+              <sic>corresp ondence</sic>
+              <corr>correspondence</corr>
+            </choice> between the <rs type="person" ref="../resources/annotations.xml#psn-past" key="Pastons">Pastons</rs></l>
+          <l>of <rs type="place" ref="../resources/annotations.xml#pla-norf" key="Norfolk">Norfolk</rs> and the <rs type="person" ref="../resources/annotations.xml#psn-bets" key="Betsons">Betsons</rs> and <rs type="person" ref="../resources/annotations.xml#psn-payc" key="Paycockes">Paycockes</rs> of <rs type="place" ref="../resources/annotations.xml#pla-esse" key="Essex">Essex</rs>.</l>
+          <l>But there was also the the other less visible connection</l>
+          <l>--the common belief. That track between the houses in the</l>
+          <l>village has been grown over<add hand="ms" place="inline">;-</add> like the track along which the</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">pilgrims</rs> rode to <rs type="place" ref="../resources/annotations.xml#pla-cant" key="Canterbury"></rs>.--no one rides that way now.</l>
+          <l>But before <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> time thxxxxxxxxxxxxxxxxxxxx</l>
+          <l>it was trod daily. <add hand="ms" place="above">which</add> It led <del hand="ms">the peasants</del> to the tree</l>
+          <l>to the well. In spring it led to the Maypole, where they</l>
+          <l>danced and sung Anons song. At Midsummer they lit the bon</l>
+          <l>
+            <choice>
+              <sic>fir</sic>
+              <corr>fire</corr>
+            </choice> on the hill. At Christmas the mummers acted the old</l>
+          <l>Anons old play; and the boys came singing his wassailing</l>  
+          <l>song. The road led to the old graves, to the stones where</l>
+          <l>in time past the English had done sacrifice. The <choice>
+            <sic>peasnts</sic>
+            <corr>peasants</corr>
+          </choice>,</l>
+          <l>led by anon, still went that way by instinct, in spring</l>
+          <l>and summer and winter. The old Gods lay hidden beneath the</l>
+          <l>new. It was to them led by Anon that they did worship,</l>
+          <l>in their coats of green leaves, bearing swords in their hands</l>
+          <l>dancing through the houses, enacting their ancient parts.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-7/912,3095,1752,300/full/0/default.tif">
+          <l>It was the <rs type="object" ref="../resources/annotations.xml#obj-pres">printing press</rs> <del>in 1477</del> that k <add hand="ms" place="above">finally was to kill</add></l>
+          <l>Anon. but it was the press also that preserved him. When</l>
+        </p>
+      </div>
+      <div xml:id="m50.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-8" />
+      <div xml:id="m50.5r" n="5 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-9">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-9/883,126,94,88/full/0/default.tif">
+          <l>5</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-9/815,212,1869,2976/full/0/default.tif">
+          <l>in 1477 <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxton</rs> printed the twenty one <rs type="literary-work" ref="../resources/annotations.xml#lit-mort" key="Morte d'Arthur">Morte</rs></l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-mort">
+            <choice>
+              <sic>DArthur</sic>
+              <corr>D'Arthur</corr>
+            </choice></rs> he fixed the voice of Anon for ever. There we tap</l>
+          <l>the reservoir of common belief that lay deep sunk in the</l>
+          <l>minds 
+            <choice>
+              <sic>od</sic>
+              <corr>of</corr>
+            </choice> peasants and nobles. There in <rs type="person" ref="../resources/annotations.xml#psn-tmal" key="Malory, Thomas">Malorys</rs> pages</l>
+          <l>we hear the voice of Anon murmuring still. Hexxxxxx</l>
+          <l>If Caxton himself doubted--- <rs type="person" ref="../resources/annotations.xml#psn-kart" key="Arthur (King)">King Arthur</rs> he objected</l>
+          <l>never lived-- there were still nobles and gentry who</l>
+          <l>xxxxxxxxxxxxxxxxxxxxx were positive. They said that</l>
+          <l>you 
+            <choice>
+              <sic>soulc</sic>
+              <corr>could</corr>
+            </choice> see <rs type="person" ref="../resources/annotations.xml#psn-gawa" key="Gawain">Gawaines</rs> skull at <rs type="place" ref="../resources/annotations.xml#pla-dove" key="Dover">Dover</rs>; and the <rs type="object" ref="../resources/annotations.xml#obj-roun" key="Round Table">Round Table</rs></l>
+          <l>at <rs type="place" ref="../resources/annotations.xml#pla-winc" key="Winchester">Winchester</rs>; and <quote source="#" rend="inline">"in other places <rs type="person" ref="../resources/annotations.xml#psn-lanc" key="Lancelot">Launcelots</rs> sword and</quote></l>
+          <l><quote source="#" rend="inline">many other things."</quote> So <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxton</rs> printed the old dream.</l> 
+          <l>It is still half fact. <add hand="ms" place="above">[illeg.] It is a [buried?] world</add>
+            <choice>
+              <sic>Ythere</sic>
+              <corr>There</corr>
+            </choice> is <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>; and <rs type="place" ref="../resources/annotations.xml#pla-carl" key="Carlisle">Carlisle</rs>; and</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-stal" key="St Albans">St Albans</rs>; there is the <rs type="person" ref="../resources/annotations.xml#pers-arch" key="Archbishop of Canterbury, The">Archbishop of Canterbury</rs> and</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedra;">St Pauls</rs>. But real places are set in a dream world.</l>
+          <l>The 
+            <choice>
+              <sic>raods</sic>
+              <corr>roads</corr>
+            </choice> lead past CxmxmxxuLondon to castles where 
+            <choice>
+              <sic>Kinghts</sic>
+              <corr>Knights</corr>
+            </choice></l>
+          <l>lie 
+            <choice>
+              <sic>enchannted</sic>
+              <corr>enchanted</corr>
+            </choice>; down the 
+            <choice>
+              <sic>rodas</sic>
+              <corr>roads</corr>
+            </choice> ride Queens on white mules;</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-morg" key="Morgan le Fay">Morgan le Fay</rs> 
+            <choice>
+              <sic>truns</sic>
+              <corr>turns</corr>
+            </choice> herself to stone; and a hand rises from</l>
+          <l>a lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca" key="Excalibur">Excalibur</rs>. <add hand="ms" place="above">The [illeg.]</add> It has a childs implicit belief. <add hand="ms" place="inline">in the [story?]</add></l>
+          <l>It has a childs love of particularity. Txxxxxxxx Everything</l>
+          <l>is stated. The beauty is in the statement, not in the</l>
+          <l>suggestion. <quote source="#" rend="inline">"So he went in and searched from chamber to</quote></l>
+          <quote source="#" rend="inline">
+            <l>chamber, and found his bed, but she was not there; then Balin</l>
+            <l>looked into a little garden, and under a laurel tree</l>
+            <l>he saw her lie upon a quilt of green samite and a knight with</l></quote>
+          <l><quote source="#" rend="inline">her, and under their 
+            <choice>
+              <sic>hedads</sic>
+              <corr>heads</corr>
+            </choice> grass and herbs".</quote> The world is</l>
+          <l>seen without comment; <add hand="ms" place="above">and</add> did the writer know what beauty he</l>
+          <l>makes us see?</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-9/415,1178,447,484/full/0/default.tif">
+          <add place="margin">
+            <l>it brought to</l>
+            <l>the surface</l>
+            <l>the old</l>
+            <l>hidden</l>
+            <l>world</l>
+          </add>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-9/839,3142,1867,280/full/0/default.tif">
+          <l>But, save that self consciousness had not 
+            <choice>
+              <sic>hyet</sic>
+              <corr>yet</corr>
+            </choice></l>
+          <l>raised its mirror, the men and women are ourselves, seen</l>
+        </p>
+      </div>
+      <div xml:id="m50.5v" n="5 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-10" />
+      <div xml:id="m50.6r">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11/888,100,130,148/full/0/default.tif">
+          <l>6</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11/863,212,1799,1560/full/0/default.tif">
+          <l>out of perspective, xxx elongated, foreshortened, but</l>
+          <l>very old, with a knowledge of all good and</l>
+          <l>
+            <choice>
+              <sic>allevil</sic>
+              <corr>all evil</corr>
+            </choice>. They are already corrupt in this</l>
+          <l>fresh world. They have evil dreams. <rs type="person" ref="../resources/annotations.xml#psn-kart" key="Arthur (King)">Arthur</rs> is doomed; the</l>
+          <l>Queens are 
+            <choice>
+              <sic>luftful</sic>
+              <corr>lustful</corr>
+            </choice>. There never was, it seems, a time</l>
+          <l>when men and women were without memory; <del hand="ms">were innocent</del></l>
+          <l>There 
+            <choice>
+              <sic>enver</sic>
+              <corr>never</corr>
+            </choice> was a young world. <del hand="ms">There</del> <add hand="ms">B</add><del hand="ms">b</del>ehind the English</l>
+          <l>lay ages of toil and love. 
+            <choice>
+              <sic>T is</sic>
+              <corr>This</corr>
+            </choice> <add place="above">That</add> is the world beneath our</l>
+          <l>consciousness; the 
+            <choice>
+              <sic>anoymous</sic>
+              <corr>anonymous</corr>
+            </choice> world to 
+            <choice>
+              <sic>whcich</sic>
+              <corr>which</corr>
+            </choice> we can still</l>
+          <l>
+            <choice>
+              <sic>re urn</sic>
+              <corr>return</corr>
+            </choice>. Of the writer nothing is known. <add hand="ms" place="above">The scholar can find something. But</add> Malory is not</l>
+          <l>distinct from his book. The voice is still the voice of</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>. murmuring <add hand="ms" place="above">[illeg.]</add> about Kings and Queens who are base and</l>
+          <l>heroic; vile and gentle, like 
+            <choice>
+              <sic>ourslves</sic>
+              <corr>ourselves</corr>
+            </choice>, stripped of the</l>
+          <l>encumbrances that time has wrapped about us.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11/895,1762,1799,1560/full/0/default.tif">
+          <l><del hand="ms">But </del><rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxtons</rs> printing press 
+            <choice>
+              <sic>foreold</sic>
+              <corr>foretold</corr>
+            </choice> the end of that</l>
+          <l>
+            <choice>
+              <sic>anoyl s</sic>
+              <corr>anonymous</corr>
+            </choice> world; it is now written down; fixed; nothing will</l>
+          <l>be added; even if the legend still murmurs on, and still</l>
+          <l>down in <rs type="place" ref="../resources/annotations.xml#pla-some" key="Somerset">Somersetshire</rs> the <choice>
+            <sic>peants</sic>
+            <corr>peasants</corr>
+          </choice> 
+          <choice>
+            <sic>rmember</sic>
+            <corr>remember</corr>
+          </choice> how <quote source="#" rend="inline">" on the night</quote></l>
+          <l><quote source="#" rend="inline">of the full moon King Arthur and his men ride round the</quote></l>
+          <l><quote source="#" rend="inline">hill, and their horses are shod with silver."</quote> After</l>
+          <l>that the audience became separate from the singer; <del hand="ms">After that</del><add hand="ms">For a time we</add></l>
+          <l>we hxxxx find someone who looks back, who gathers</l>
+          <l>together a 
+            <choice>
+              <sic>chornicle</sic>
+              <corr>chronicle</corr>
+            </choice> of what has happened. We find the</l>
+          <l>individual, emerging from the past; His name his <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs>;</l>
+          <l>he has a library; he owns a mastiff and digs up coins. <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> is</l>
+          <l>dead when we meet with him. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">Canterbury pilgrims</rs> have gone</l>
+          <l>their way. He sees the past against a back ground of the</l>
+          <l>
+            <choice>
+              <sic>presn t</sic>
+              <corr>present</corr>
+            </choice>, and the present looks raw, degenerate against</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-11/257,2006,639,1124/full/0/default.tif">
+          <add hand="ms" place="margin">
+            <l>But The</l>
+            <l>printed book</l>
+            <l>brought into existence</l>
+            <l>the man who can</l>
+            <l>read the man who</l>
+            <l>becomes</l>
+            <l>conscious, of the</l>
+            <l>present, of</l>
+            <l>himself, against</l>
+            <l>the background</l>
+            <l>of the past.</l>
+            <l>it brings into being the</l>
+            <l>whole, the audience—</l>
+            <l>a man like it.</l>
+          </add>
+        </p>
+      </div>
+      <div xml:id="m49.6v" n="6 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-12" />
+      <div xml:id="m49.7r" n="7 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-13">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-13/961,58,110,124/full/0/default.tif">
+          <l>7</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-13/947,144,1743,664/full/0/default.tif">
+          <l>against the past. There is too much comfort now; <del hand="typewriter">too many</del></l>
+          <l>xmxmxx the pillow has taken the place of the old log with</l>
+          <l>a dip in the middle; there are too many 
+            <choice>
+              <sic>chimenys</sic>
+              <corr>chimneys</corr>
+            </choice>. The young</l>
+          <l><rs type="person" ref="../resources/annotations.xml#wsha" key="Shakespeare, William">
+            <choice>
+              <sic>Shakspres</sic>
+              <corr>Shakespeares</corr>
+            </choice></rs> and <rs type="person" ref="../resources/annotations.xml#cmar" key="Marlowe, Christopher">
+            <choice>
+              <sic> arlowes</sic>
+              <corr>Marlowes</corr>
+          </choice></rs> are not the men their fathers were.</l>
+          <l>They are tender and subject to rheumatism. Also</l>
+          <l>they dress most 
+            <choice>
+              <sic>fantasically</sic>
+              <corr>fantastically</corr>
+            </choice> 
+            <choice>
+              <sic>com ared</sic>
+              <corr>compared</corr>
+            </choice> with 
+            <choice>
+              <sic>theirancestors</sic>
+              <corr>their ancestors</corr>
+            </choice>.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-13/879,812,1855,2536/full/0/default.tif">
+          <l>He does not see the mummers and the wassailers;</l>
+          <l>he does not hear the voice of <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>; he 
+            <choice>
+              <sic>scracely</sic>
+              <corr>scarcely</corr>
+            </choice> listens even</l>
+          <l>to the song of <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> Canterbury pilgrims. <add hand="ms" place="above">For </add>The English</l>
+          <l>past as <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs> saw it, served only to show up the material</l>
+          <l>change--the change that had come over houses, 
+            <choice>
+              <sic>furnt iture</sic>
+              <corr>furniture</corr>
+            </choice></l>
+          <l>clothing. There was no English literature to show up the</l>
+          <l>
+            <choice>
+              <sic>chnage</sic>
+              <corr>change</corr>
+            </choice> in the mind. <add hand="ms" place="above">the English songs were [illeg.]</add> Anons song at the back door was as</l>
+          <l>difficult 
+            <choice>
+              <sic>cfor</sic>
+              <corr>for</corr>
+            </choice> him to spell as for us. But the old</l>
+          <l>
+            <choice>
+              <sic>Eglish</sic>
+              <corr>English</corr>
+            </choice> songs were more painful. for they reminded him of</l>
+          <l>his lack of intellectual 
+            <choice>
+              <sic>ancstry</sic>
+              <corr>ancestry</corr>
+            </choice>. His intellectual pedigree</l>
+          <l>only reached back to <rs type="person" ref="../resources/annotations.xml#gcha" key="Chaucer, Geoffrey">Chaucer</rs>, to <rs type="person" ref="../resources/annotations.xml#psn-wlan" key="Langland, William">Langland</rs> to <rs type="person" ref="../resources/annotations.xml#psn-jwyc" key="Wycliffe, John">Wycliffe</rs>.</l>
+          <l>In order to have 
+            <choice>
+              <sic>anscetors</sic>
+              <corr>ancestors</corr>
+            </choice> by way of the mind he must cross</l>
+          <l>the <rs type="place" ref="../resources/annotations.xml#pla-chan" key="Channel, The">channel</rs> his ancestors by way of the mind are the</l>
+          <l>Greeks and Romans. His page is 
+            <choice>
+              <sic>burdneed</sic>
+              <corr>burdened</corr>
+            </choice> with these proofs</l>
+          <l>ofgood breeding--- <rs type="person" ref="../resources/annotations.xml#psn-agrip" key="Agrippa">Henricus Cornelius Agrippa</rs>; <rs type="person" ref="../resources/annotations.xml#psn-suet" key="Suetonius">Suetonius</rs>; <rs type="person" ref="../resources/annotations.xml#psn-plin" key="Pliny">Pliny</rs>, <rs type="person" ref="../resources/annotations.xml#psn-cice" key="Cicero">Cicero</rs>--he quotes them to prove his</l>
+          <l>nobility of mind as we to prove ours quote the</l>
+          <l>Elizabethans. The mummers and the wassailers,</l>
+          <l>the actors who <add hand="typewriter" place="above">were acting</add>who staged their crude dramas in the 
+            <choice>
+              <sic>churchayrd</sic>
+              <corr>churchyard</corr>
+            </choice></l>
+          <l>or in the market place hxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</l>
+          <l>were sxmxmx   He turns from the present to the past;</l>
+          <l>he ignores the 
+            <choice>
+              <sic>acors</sic>
+              <corr>actors</corr>
+            </choice> who were acting their crude 
+            <choice>
+              <sic>daramas</sic>
+              <corr>dramas</corr>
+            </choice></l>
+          <l>now in the market place. Yxmxmxmxmxmxmxmxmxmxmx</l>
+        </p>
+      </div>
+      <div xml:id="m50.7v" n="7 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-14" />
+      <div xml:id="m50.8r" n="8 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15/861,128,108,152/full/0/default.tif">
+          <l>8</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15/855,268,1734,1528/full/0/default.tif">
+          <l>The 
+            <choice>
+              <sic>histroians</sic>
+              <corr>historians</corr>
+            </choice> work from the outer to the inner;</l>
+          <l>from the house they infer the tenant of the house. It is the</l>
+          <l>house they uncover; the chairs, the tables, the bills, the</l>
+          <l>close 
+            <choice>
+              <sic>stolls</sic>
+              <corr>stools</corr>
+            </choice>, the spinning wheels, the tapestry.</l>
+          <l>It is as if we were bidden to infer from a tweed suit,</l>
+          <l>six hats, a fox terrier, and a silver 
+            <choice>
+              <sic>knovved</sic>
+              <corr>knobbed</corr>
+            </choice> walking stick</l>
+          <l>the life and works of a novelist called <rs type="person" ref="../resources/annotations.xml#psn-hjam" key="James, Henry">
+            <choice>
+              <sic>Hnery james</sic>
+              <corr>Henry James</corr>
+            </choice></rs>.</l>
+          <l>Save for 
+            <choice>
+              <sic>Vhaucer</sic>
+              <corr>Chaucer</corr>
+            </choice> and Lydgate and the voice of Anon singing</l>  
+          <l>at the back door the English might be a dumb race; a race</l>
+          <l>of merchants, 
+            <choice>
+              <sic>s ldiers</sic>
+              <corr>soldiers</corr>
+            </choice>, 
+            <choice>
+              <sic>preists</sic>
+              <corr>priests</corr>
+            </choice> and builders who left
+            <choice>
+              <sic>nehind</sic>
+              <corr>behind</corr>
+            </choice></l>
+          <l>them stone houses, cultivated fields and many churches and</l>
+          <l>cathedrals. ; but no words. The great house is silent.</l>
+          <l>Only the furniture remains, stiff and ornate, fantastic and</l>
+          <l>uncushioned.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15/839,1780,1814,1664/full/0/default.tif">
+          <l>At <rs type="place" ref="../resources/annotations.xml#psn-gorh" key="Gorhambury">Gorhambury</rs> for 
+            <choice>
+              <sic>instnace</sic>
+              <corr>instance</corr>
+            </choice> <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Ann">Lady Ann Bacon</rs></l>
+          <l>sat at her table <choice>
+            <sic>rwiting</sic>
+            <corr>writing</corr>
+          </choice> to <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">her son</rs>. Her <choice>
+            <sic>lettres</sic>
+            <corr>letters</corr>
+          </choice> <add hand="ms" place="above">—compare them with</add> might have</l>
+          <l>
+            <choice>
+              <sic>veen</sic>
+              <corr>been</corr>
+            </choice> sermons from the <choice>
+              <sic>pulpi;t</sic>
+              <corr>pulpit</corr>
+            </choice>; or state <choice>
+              <sic>dosuments</sic>
+              <corr>documents</corr>
+            </choice>, <choice>
+              <sic>intrcaite</sic>
+              <corr>intricate</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>inlvoved</sic>
+              <corr>involved</corr>
+            </choice> and evasive. She is a counsellor admonishing a sub</l>
+          <l>ordinate; 
+            <choice>
+              <sic>sShe</sic>
+              <corr>she</corr>
+            </choice> is 
+            <choice>
+              <sic>awrae</sic>
+              <corr>aware</corr>
+            </choice> only of the wickedness 
+            <choice>
+              <sic>fof</sic>
+              <corr>of</corr>
+            </choice> men,</l>
+          <l>the dangers and 
+            <choice>
+              <sic>decits</sic>
+              <corr>deceits</corr>
+            </choice> of the world; and the awfuless of</l>
+          <l>God. Greek and Latin come to her pen as easily as 
+            <choice>
+              <sic> nglish</sic>
+              <corr>English</corr>
+            </choice>.</l>
+          <l>If she has to descend to the actual object--a basket of</l>
+          <l>strawberries--it is with 
+            <choice>
+              <sic>cirumlocuitions</sic>
+              <corr>circumlocutions</corr>
+            </choice> and dark</l>
+          <l>
+            <choice>
+              <sic>insiutaions</sic>
+              <corr>insinuations</corr>
+            </choice>. <quote source="#" rend="inline">"I have sent them by the boy of my kitchen,</quote></l>
+          <l><quote source="#">a shrewd witted boy and prettily 
+            <choice>
+              <sic>catchized</sic>
+              <corr>catechized</corr>
+            </choice> but yet an un</quote></l>
+          <l><quote source="#" rend="inline">toward 
+            <choice>
+              <sic>rcrafty</sic>
+              <corr>crafty</corr>
+            </choice> boy...."</quote> She xxxxxx <choice>
+              <sic>ex horts</sic>
+              <corr>exhorts</corr>
+            </choice>:</l>
+          <l><quote source="#" rend="inline">"God keep us sound in faith the faith and send us 
+            <choice>
+              <sic>h  lth</sic>
+              <corr>health</corr>
+            </choice></quote></l>
+          <l><quote source="#" rend="inline">and a care to please God above all."</quote> She admonishes:</l>
+          <l><quote source="#" rend="inline">"Be not speedy of speech, nor talk suddenly, but where</quote></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-15/199,1876,667,264/full/0/default.tif">
+          <add hand="ms" place="margin">
+            <l>until <rs type="person" ref="../resources/annotations.xml#psn-msev" key="Madame de Sevigné">Madame de</rs></l>
+            <l><rs type="person" ref="../resources/annotations.xml#psn-msev">Sevigné's</rs></l></add>
+        </p>
+      </div>
+      <div xml:id="m50.8v" n="8 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-16" />
+      <div xml:id="m50.9r" n="9 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17/893,86,114,106/full/0/default.tif">
+          <l>9</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17/875,178,1707,496/full/0/default.tif">
+          <l><quote source="#" rend="inline">
+            <choice>
+              <sic>disctreion</sic>
+              <corr>discretion</corr>
+            </choice>
+           requireth, and that soberly then...."</quote></l>
+          <l><quote source="#" rend="inline">Let not Lawson that fox, be 
+            <choice>
+              <sic>acqainted</sic>
+              <corr>acquainted</corr>
+            </choice> with my letters...."</quote></l>
+          <l>So 
+            <choice>
+              <sic>Lthe</sic>
+              <corr>the</corr>
+            </choice> <rs type="person" ref="../resources/annotations.xml#psn-duno" key="Norfolk, Duchess of">Duchess of Norfolk</rs>, mother to the poet Earl</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-easu" key="Surrey, Earl of">Surrey</rs> writes:</l>
+        </p>
+        <p>
+          <l><!-- find way to render gap --> </l>
+          <l> </l>
+          <l> </l>
+          <l> </l>
+          <l> </l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-17/831,1094,1843,2000/full/0/default.tif">
+          <l>Fear of God, fear of man, hate, agony, passion, surround</l>
+          <l>them with the walls of a dungeon. There is no gaiety,</l>
+          <l>
+            <choice>
+              <sic>nu</sic>
+              <corr>no</corr>
+            </choice> freedom no 
+            <choice>
+              <sic>familairity</sic> <!-- that's a good typo -->
+              <corr>familiarity</corr>
+            </choice> in the world the live in. Only in</l>
+          <l>extremity, of hate, of fear, do urges them to pick up the pen</l>
+          <l>The sound of the bible is in their ears, 
+            <choice>
+              <sic>Itis</sic>
+              <corr>it is</corr>
+            </choice> a garment only</l>
+          <l>to be worn when the mind is in the right attitude. And the</l>
+          <l>garment may of course conceal a Lady Ann who is merry and</l>
+          <l>gay; it may conceal a Duchess who is 
+            <choice>
+              <sic>snesitove</sic>
+              <corr>sensitive</corr>
+            </choice>, amorous</l>
+          <l>and sensual; we cannot tell. Anybody  may live on the other</l>
+          <l>side of that wall of formal language. Using the prose of</l>
+          <l>the Bible when they write prose the Elizabethans are unknown</l>
+          <l>to us. They can say nothing simple, subtle, or little.</l>
+          <l>Bright contrasted colours meet on 
+            <choice>
+              <sic>ther</sic>
+              <corr>their</corr>
+            </choice> faces; carnation</l>
+          <l>and snow; ebony and gold. In their portraits, the young mens</l>
+          <l>bodies are sewn into padded doublets; school boys faces</l>
+          <l>are raised above 
+            <choice>
+              <sic>strached</sic>
+              <corr>starched</corr>
+            </choice> ruffs; and young women serve only</l>
+          <l>to 
+            <choice>
+              <sic>supp rt</sic>
+              <corr>support</corr>
+            </choice> heavy 
+            <choice>
+              <sic> uilted</sic>
+              <corr>quilted</corr>
+            </choice> dresses stuck about with</l>
+          <l>huge xxxx pearls.</l>
+        </p>
+      </div>
+      <div xml:id="m50.9v" n="9 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m50/m50-18" />
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 37-42. 6p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-10</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 42. 6p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m1-8-10.1" n="1" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1/815,96,1758,3056/full/0/default.tif">
+          <l>The great house <add place="above">that <rs type="person" ref="../resources/annotations.xml#psn-tlat" key="Latimer, Thomas">Latimer</rs> deplored</add> is visible in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Anne</rs></l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, An">Cliffords</rs> diary. <del>It is</del> <del>It is stuffed with</del></l>
+          <l><del>furniture</del> <del>it is</del> She <del>is above all things possessive</del></l>
+          <l><del>She is aware from her first youth of her</del></l>
+          <l><del>rights, <del>of her position</del> She <del>is</del> has her [fields?]</del></l>
+          <l><del>[graved?] upon her lands.</del> <del>She has no</del></l>
+          <l>She has no <del>doubt whatsoever tha</del> a</l>
+          <l>profound <add>&amp; [fervent?]</add> belief in the rights as the possessor.</l>
+          <l>It <del>Even as</del> <del>Solid</del> <del>She believes, with a</del></l>
+          <l>in the solidity of the land; in the</l>
+          <l><del>rights of ownership</del> <del>The reality of the</del> <del>body is</del></l>
+          <l>The body is visible to her. She <del>sma</del> is for ever</l>
+          <l>beholding castles; acquiring land, asserting her</l>
+          <l>rights to property; accumulating; hoarding</l>
+          <l>claiming diamond buttons, making inventories of her</l>
+          <l>possessions, establishing her family, sending for her</l>
+          <l>grand children so that <del>m</del> they too may</l>
+          <l>taste the delights of possession. <del>She</del> <del>No</del></l>
+          <l>The living body is robed in black taffeta with a</l>
+          <l>yellow taffeta wan [breast?]. When the body is</l>
+          <l>dead, it is wrapped in lead; <del>to</del> as if <del>those were</del></l>
+          <l>it <del>were</del> to preserve it as long as possible <add place="above">from decay</add>. The</l>
+          <l>sense of the body permeates her pages: the</l>
+          <l>solidity of matter; <del>the</del> as if <del>silver, diamonds,</del></l>
+          <l>fur <del>cloaks esp</del> <del>enforced some</del> <del>were a</del></l>
+          <l>the body gained in dignity, <del>were more <add place="above">was</add></del> the</l>
+          <l>human soul <del>were</del> <add place="above">was</add> more expressive, more itself</l>
+          <l>when it's carcass fleshed. <del>to</del> <add type="above">in</add> to the public eye</l>
+          <l><del>the body is</del> <del>She reveals the emptiness of</del></l>
+          <l><del>England, when, surely to see an old countess [bared?]</del></l>
+          <l><del>the common people come flocking.</del> <del>l</del> The</l>
+          <l>effort of <del>moving across</del> All movements</l>
+          <l>become spectacular. Six bay horses drag the</l>
+          <l>coach. The coach is laced with green cloth &amp;</l>
+          <l>laced with green &amp; black silk lace; crowds</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1/279,1244,543,344/full/0/default.tif">
+          <add place="margin">
+            <l>as if to solidify</l>
+            <l>them still further</l>
+          </add>
+        </p>
+      </div>
+      <div xml:id="m1-8-10.2" n="2" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/709,64,1867,988/full/0/default.tif">
+          <l>attend her. And she is for ever asserting her self, her</l>
+          <l>property, with [critical?] carved in stone, even over</l>
+          <l>farm house walls. This is her property; this land</l>
+          <l>is hers. Her <del>sense</del> of <del>the rights of blood,</del> of something</l>
+          <l>sacred in flesh &amp; blood: <add>so</add> when Lord <rs type="person" ref="../resources/annotations.xml#psn-eshe" key="Sheffield, Edmund">Sheffield</rs> marries</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-mirw" key="Erwin, Anne">Anne Erwin</rs> it "<quote source="#" rend="inline">was held a very mean</quote></l>
+          <l><quote source="#" rend="inline">match, an indiscreet on part of him.</quote>" <del>already</del></l>
+          <l><add place="margin">For</add> the noble families, the Herberts, the Russels, the Stanleys</l>
+          <l>are already <del>weaving themselves together; &amp; there at</del></l>
+          <l><del>set apart</del> <del>weaving their</del> webs, at the centre of which is</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-kjam" key="James I of England and VI of Scotland">King James</rs></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/801,972,1743,476/full/0/default.tif">
+          <l>Her whole effort is to count, <del>to amass</del>, to hoard; <del>&amp; to</del></l>
+          <l>as if she had no sense of change; as if she believed that</l>
+          <l>it is not only right but <del>[advisaber?] to</del> <del>that the concrete</del></l>
+          <l><del>body, <del>it</del> can <del>survive</del> survive; as if there were for her</del></l>
+          <l>an immortality of the body:</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/275,976,547,636/full/0/default.tif">
+          <add place="margin">
+            <l>are most</l>
+            <l><del>proclaim its</del></l>
+            <l><del>solidity under</del></l>
+            <l><del>just</del></l>
+            <l>believe in the</l>
+            <l>body, as one</l>
+            <l>believes in the</l>
+            <l>soul</l>
+          </add>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/865,1344,1631,488/full/0/default.tif">
+          <l>Yet there were moments when <del>hear</del></l>
+          <l>carapace of <del>possessions</del> proved to much to be any <del>for her: when</del></l>
+          <l>she upon the 1st [score?] by times in the morning</l>
+          <l>&amp; went up to the Pagan Tower to say prayers &amp; saw</l>
+          <l>the sun rise, <del>again <add place="inline">she saw</add> a strange comet like a</del></l>
+          <l><del>canopy in the air:</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/867,1780,1639,520/full/0/default.tif">
+          <quote source="inline" rend="block">
+            <l>If I had not excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> back here to comfort me,</l>
+            <l>I were in a pitiable case, having so many troubles</l>
+            <l>as I have here, but when I read in that, I scorn &amp;</l>
+            <l>make light of them all, &amp; a little part of his</l>
+            <l>beauteous spirit infuses itself in me"</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/849,2196,1727,956/full/0/default.tif">
+          <l>It is <del>a queer transition</del> a strange reversal – <del>for the</del></l>
+          <l>world <del>of rubies &amp; diamonds,</del> from the solid</l>
+          <l>earth <del>to the</del> of <rs type="place" ref="../resources/annotations.xml#pla-west" key="Westmoreland">Westmoreland</rs>, to the other world<del>; &amp;</del></l>
+          <l>a [feverish?] one, when her eye turns from the</l>
+          <l>delight of possessing land, to the other delight of the</l>
+          <l>a change of [public?] office, &amp; these abide in</l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-knol" key="Knole">Knole</rs>, &amp; she adds that postcript to a letter about</l>
+          <l>a little cabinet a cup 
+            <choice>
+              <sic>wh.</sic>
+              <corr>which</corr>
+            </choice> she had left with</l>
+          <l>Lady <rs type="person" ref="../resources/annotations.xml#psn-egre" key="Grey, Elizabeth">Kent</rs>, when she borrowed a hundred pounds <del>off her</del></l>
+        </p>
+      </div>
+      <div xml:id="m1-8-10.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3/693,48,1811,608/full/0/default.tif">
+          <l><add place="margin">But</add> It is only when she reads that she comments: when she goes to</l>
+          <l>the play she says only "<quote rend="inline" source="#">Supped with my Lord &amp; Lady</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-arun" key="Arundel, Lord and Lady">Arundel</rs> &amp; after supper I saw the play of the Mad Lover in </quote></l>
+          <l><quote source="#" rend="inline">the Hall</quote>.. or "<quote source="#" rend="inline">We stood to see the Masque in the</quote></l>
+          <l><quote source="#" rend="inline">box with my Lady <rs type="person" ref="../resources/annotations.xml#psn-ruth">Ruthven</rs>.</quote>" For the reader was born</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3/771,570,1811,608/full/0/default.tif">
+          <l><del>The reader</del> <del>[is here?]</del> presumably when the playhouse</l>
+          <l>shut. The curious faculty of making [houses?] &amp;</l>
+          <l>countries visible, men &amp; women &amp; their emotions, from</l>
+          <l>marks on a printed page, was in <del>abey</del> undeveloped</l>
+          <l>so long as the play was dominant. The</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-10.4" n="4" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-4">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-4/759,164,1885,1360/full/0/default.tif">
+          <l>The reader then comes into existence some time in the 16th</l>
+          <l>century, &amp; his life history, could we dis cover it, 
+            <choice>
+              <sic>wd</sic>
+              <corr>would</corr>
+            </choice></l>
+          <l>be well worth writing. At some point his ear must</l>
+          <l>have lost its acuteness, at another his eye must have</l>
+          <l>lost its sharpness. Our our attempts when we read the</l>
+          <l>early plays, to supply the <del>trumpets</del> &amp; the plays, the</l>
+          <l>citizens &amp; the apprentices in an <del>attempt</del> <add place="above">[offer?]</add> to revert to an</l>
+          <l>earlier stage. The <del>difficulty</del> is great. <del>The In</del></l>
+          <l><del>trying to <del>see read see</del> we are trying to be <del>among the audience:</del></del></l>
+          <l><del>to be a spectator not a reader.</del> <del>B</del> <del>But</del> <del>The</del> <del>We</del> are</l>
+          <l><del>making an effort to forget</del> <del>As time goes on,</del></l>
+          <l>the <del>reader</del> Our reading faculty <del>disturbs us;</del></l>
+          <l><del>distracts us.</del> <del>But as the</del> <del>As</del> Later, as the</l>
+          <l>reading faculty develops, readers separate into</l>
+          <l>different classes;</l>
+          <l><del>the</del></l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-4/803,1392,1742,1888/full/0/default.tif">
+          <l>Yet the prevalence of the reader is felt even when</l>
+          <l><del>the re</del> in the audience on the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs>. It was for</l>
+          <l>him that <rs type="person" ref="../resources/annotations.xml#psn-tnas" key="Nashe, Thomas">Nashe</rs> wrote that strange amorphous book</l>
+          <l>the <rs type="literary-work" ref="../resources/annotations.xml#lit-trav" key="Unfortunate Traveller, The">Poor Traveller</rs>– <del>which</del> <del>which belongs</del> to no</l>
+          <l><del>class</del>, <del>which has its</del> <del>the</del> <del>in</del> for him that</l>
+          <l><rs type="person" ref="../resources/annotations.xml#psn-rbur" key="Burton, Thomas">Burton</rs> composed that extraordinary medley, the</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-anat" key="Anatomy of Melancholy, The">Anatomy of Melancholy</rs>. It is though the</l>
+          <l><del>influence of the reader</del> It is there that the reader</l>
+          <l>makes his first appearance; <del>It is</del> for it is there that</l>
+          <l>we find the writer, completely anxious of the</l>
+          <l>reader; adding here in [illeg.] &amp; bringing</l>
+          <l>himself, the man behind the book, into existence.</l>
+          <l><del>He find <del>ex</del> [existence?] that curious power which</del></l>
+          <l><del>is as [towards?] top become highly developed – the</del></l>
+          <l><del>power af</del> I am a <del>sib</del> batchelor... I am neither</l>
+          <l>rich nor poor... I am content... I am [lazy?]...</l>
+          <l>I despise <del>book se</del> [water?]... I am <del>very</del></l>
+          <l>a fumbler over of other mens bookes... I am</l>
+          <l>a spectator, not an actor. <del>He is</del> There is</l>
+          <l>no audience forcing him to embody his</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-10.5" n="5" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-5/799,120,1758,2680/full/0/default.tif">
+          <l>meditations in real people, acting a story. And so</l>
+          <l>the vast accumulations that have littered from books</l>
+          <l>down into the great [college?] room <del>flow</del> meander</l>
+          <l>over the page. He cannot write a sentence without</l>
+          <l>remembering what some other man has said. <del>But</del></l>
+          <l><del>instead of</del> <del>His vision is multiple. He sees</del></l>
+          <l>with the eyes of a thousand men; yet <del>about</del></l>
+          <l>He uses the eyes of a thousand dead men to</l>
+          <l>verify what he sees. <del>Yet</del> He <del>does not</del> Yet all</l>
+          <l>these reflections serve to enrich his own vision.</l>
+          <l>Man is <del>melancholy, now</del> <del>But he has been</del></l>
+          <l>Man has been melancholy always; in Greece in Rome;</l>
+          <l>he has been read always; he has been cruel; he</l>
+          <l>has tortured &amp; killed; &amp; even in England</l>
+          <l><del>yet there</del> is a tolerance in his soliloquy: he is</l>
+          <l>He sees through a thousand <quote source="#" rend="inline">green shades</quote> what lies</l>
+          <l>immediately before him – the unhappy heart of</l>
+          <l>man. Yet these innumerable instances of</l>
+          <l>passion, of melancholy, the reflections serve to</l>
+          <l>chequer the immediate spectacle. There is</l>
+          <l><del>a</del> From books he has won <del>the</del> tolerance,</l>
+          <l>mediations, the sense that we are not single</l>
+          <l>figures, but <del>so</del> innumerably repeated; <del>the</del></l>
+          <l><del>individual comes</del> <del>He</del> In pursuit of melancholy he</l>
+          <l>travels over the whole world, though he has never</l>
+          <l>left his college room. [pirtances?] are drawn</l>
+          <l>from all [guardu?]. <del>They</del> are illustrated by</l>
+          <l>anecdotes. <del>And then</del></l>
+          <l><del>For th</del> Yet though the theme is Melancholy, the</l>
+          <l>treatment is humorous. <del>Over the</del> We are at a</l>
+          <l>remove from the thing treated. We are evading it</l>
+          <l>generally. We are engaging the spectacle of</l>
+          <l>melancholy, not sharing in its anguish.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-5/813,2706,1663,652/full/0/default.tif">
+          <l>That is the <del>present</del> gift of the book –</l>
+          <l>There we develop the other <del>gif</del> faculties that</l>
+          <l>the play left dormant: to [sense?], to</l>
+          <l><del>speculate, to</del> the private faculties: the</l>
+          <l>the      to gloss, to [treat?], to compare, to feel our</l>
+          <l>eyes upon the writer, &amp; to find at the</l>
+        </p>
+      </div>
+      <div xml:id="m1-8-10.6" n="6" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-6">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-6/803,92,1747,944/full/0/default.tif">
+          <l>find at the centre of the labyrinth of words, a man</l>
+          <l>sitting alone in his college room, thinking – about</l>
+          <l>Now the reader is <del>aware of</del> completely in being</l>
+          <l>He can read in many different moods. He can</l>
+          <l>satisfy the desire for information, he can</l>
+          <l>draw in from the printed page knowledge of times past:</l>
+          <l>[illeg.] anecdotes; reflections; he can see England</l>
+          <l>at the moment: he can <del>forge</del> circle forwards &amp;</l>
+          <l>backwards; he can draw in what feeds</l>
+          <l><del>reflections; or</del> he can read directly what is on the page;</l>
+          <l>or drawing aside can read what is not <del>said</del> there.</l>        
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-6/805,1016,1651,604/full/0/default.tif">
+          <l>The <del>reader then</del> A <del>sense of sense of</del> <del>a sen</del></l>
+          <l>Time seems endless. There is a <add>[lifeblood?]</add> continually in the</l>
+          <l>book that the play has not. It gives a</l>
+          <l>different pace to the mind. <del>It loosens it</del></l>
+          <l><del>from the present moment.</del> We are in a </l>
+          <l>world where nothing is concluded. And</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 8 of 11. [Anon: With that a joyous fellow issued]. Typescript fragment, 3 fols.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-8</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 8 of 11. [Anon: With that a joyous fellow issued]. Typescript fragment, 3 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m54-8.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-1/922,110,291,117/full/0/default.tif">
+          <l><del>16</del>xx 15</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-1/843,270,1301,370/full/0/default.tif">
+          <quote source="#" rend="block">
+            <l>With that a joyous fellowship 
+              <choice>
+                <sic>iissued</sic>
+                <corr>issued</corr>
+              </choice></l>
+            <l>Of 
+              <choice>
+                <sic>misnterls</sic>
+                <corr>minstrels</corr>
+              </choice> making goodly merriment</l>
+            <l>With wanton bardes and Rhymers impudent</l>
+          </quote>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-1/819,612,1889,2652/full/0/default.tif">
+          <l>The word remind us that if the great Elizabethan</l>
+          <l>house, <rs type="person" ref="../resources/annotations.xml#psn-pens" key="Penshurst">Penshurst</rs> or <rs type="place" ref="../resources/annotations.xml#pla-wilt">Wilton</rs> looks to us out of proportion,</l>
+          <l>xmxmx a derelict among 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> bungalows, it is because the</l>
+          <l>connection between it and the village is lost. If we could</l>
+          <l>see the house as it was in <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spensers</rs> time we should see</l>
+          <l>tracks raying out from the great house across the fields to</l>
+          <l>the cottage, to the farm, even to the hovel. War connected</l>
+          <l>them. Armour, if the enemy came was stored in the church.</l>
+          <l>The young men practised the great English art of</l>
+          <l>the long bow. Also, there was the other fight, the 
+            <choice>
+              <sic>pertual</sic>
+              <corr>perpetual</corr>
+            </choice></l>
+          <l>fight with nature. They must together plough and sow if the</l>
+          <l>winter were not to starve them. This connection xxx</l>
+          <l>between master and man is painfully and minutely recorded</l>
+          <l>in the medieval letters. It is 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> staple of the whole</l>
+          <l>correspondence. But there was also the other less</l>
+          <l>visible connection--the common belief. That bond between</l>
+          <l>the different houses has been grown over, like the</l>
+          <l>track along which the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">pilgrims</rs> rode to <rs type="place" ref="../resources/annotations.xml#pla-cant" key="Canterbury">Canterbury</rs>. No one</l>
+          <l>drives there now. <add hand="ms" place="above">[illeg.]</add>. But 
+            <choice>
+              <sic>whe</sic>
+              <corr>when</corr>
+            </choice> <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> came to <rs type="person" ref="../resources/annotations.xml#psn-pens" key="Penshurst">Penshurst</rs> that</l>
+          <l>track led from house to house. It led to the village green.</l>
+          <l>It led to the tree; to the well. In the spring they danced</l>
+          <l>round the Maypole; at midsummer they lit the bon fire on the</l>
+          <l>hill; at Christmas the mummers acted their dumb show;</l>
+          <l>the boys came wassailing xmxmxmxmxmxmxmxmxmxm</l>
+        </p>
+      </div>
+      <div xml:id="m54-8.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-2" />
+      <div xml:id="m54-8.2r" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-3/961,48,137,170/full/0/default.tif">
+          <l>16</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-3/930,184,1738,884/full/0/default.tif">
+          <l>at Harvest time the God was worshipped in the</l>
+          <l>sheaf of corn; how thxmXmxmxmmxmx the God was in the</l>
+          <l>
+            <choice>
+              <sic>ay</sic>
+              <corr>bay</corr>
+            </choice> tree--how in the dances and songs that 
+            <choice>
+              <sic>childre</sic>
+              <corr>children</corr>
+            </choice> sing</l>
+          <l>the old Gods were worshipped, and served. In these dressings</l>
+          <l>up at thxmxmxx midsummer, at Christmas the 
+            <choice>
+              <sic>En lish</sic>
+              <corr>English</corr>
+            </choice> 
+            <choice>
+              <sic>rememberig</sic>
+              <corr>remembering</corr>
+            </choice></l>
+          <l>the Gods who were there when the stones were set on end</l>
+          <l>at <rs type="place" ref="../resources/annotations.xml#pla-ames" key="Amesbury">Amesbury</rs>, at <rs type="place" ref="../resources/annotations.xml#pla-ston" key="Stonehenge">Stonehenge</rs>, celebrated their gods; and</l>
+          <l>at the same 
+            <choice>
+              <sic>tiem</sic>
+              <corr>time</corr>
+            </choice> gave shape to to the desire to cease, for</l>
+          <l>that one day, from the 
+            <choice>
+              <sic>pertual</sic>
+              <corr>perpetual</corr>
+            </choice> fight; to be free; to be som</l>
+          <l>
+            <choice>
+              <sic>tjing</sic>
+              <corr>something</corr>
+            </choice>; to act in their own persons the inner joy; to make</l>
+          <l>something which had no reason, no use. The 
+            <choice>
+              <sic>schloars</sic>
+              <corr>scholars</corr>
+            </choice> tell us</l>
+          <l>that though 
+            <choice>
+              <sic>t e e</sic>
+              <corr>the</corr>
+            </choice> actors, presumably because they slipped</l>
+          <l>from the common task, and often made mock of it, were 
+            <choice>
+              <sic>despsed</sic>
+              <corr>despised</corr>
+            </choice></l>
+          <l>despised, yet the great had so much of the common desire</l>
+          <l>in them that Kings and Queens must have their 
+            <choice>
+              <sic>minstresl</sic>
+              <corr>minstrels</corr>
+            </choice>, 
+            <choice>
+              <sic>ther</sic>
+              <corr>their</corr>
+            </choice></l>
+          <l>dancers and singers. Even the Church, conscious as the</l>
+          <l>
+            <choice>
+              <sic>preists</sic>
+              <corr>priests</corr>
+            </choice> were that it was not 
+            <choice>
+              <sic>theirGod</sic>
+              <corr>their God</corr>
+            </choice> but some pagan</l>
+          <l>
+            <choice>
+              <sic>wh</sic>
+              <corr>who</corr>
+            </choice> was thus 
+            <choice>
+              <sic>hinoured</sic>
+              <corr>honoured</corr>
+            </choice>, could not suppress the minstrels and</l>
+          <l>and the rhymers, the mummers, the jugglers, the bear leaders</l>
+          <l>who came into the village, who acted 
+            <choice>
+              <sic>t eir</sic>
+              <corr>their</corr>
+            </choice></l>
+          <l>parts in the churchyard.</l>
+        </p>
+        <p>
+          <l>This was the other 
+            <choice>
+              <sic>bo d</sic>
+              <corr>bond</corr>
+            </choice> between the great house</l>
+          <l>and the cottage. In the noble, as in the 
+            <choice>
+              <sic>pe asnt</sic>
+              <corr>peasant</corr>
+            </choice>, a half</l>
+          <l>conscious, anonymous voice 
+            <choice>
+              <sic>mur ured</sic>
+              <corr>murmured</corr>
+            </choice> of. The well and the</l>
+          <l>tree were still 
+            <choice>
+              <sic>hanuted</sic>
+              <corr>haunted</corr>
+            </choice>; Some 
+            <choice>
+              <sic>o d</sic>
+              <corr>old</corr>
+            </choice> woman in her hovel</l>
+          <l>was still to the King even the vessel of an unclean spirit.</l>
+          <l>She 
+            <choice>
+              <sic>mowed</sic>
+              <corr>mewed</corr>
+            </choice> and mobbed and plucked her chin. When the</l>
+          <l>pilliwinks were 
+            <choice>
+              <sic>appied</sic>
+              <corr>applied</corr>
+            </choice> to her, she confessed how she had</l>
+        </p>
+      </div>
+      <div xml:id="m54-8.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-4" />
+      <div xml:id="m54-3.3r" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-5/911,97,142,137/full/0/default.tif">
+          <l>17</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-5/885,188,1707,414/full/0/default.tif">
+          <l>how she sailed in a 
+            <choice>
+              <sic>sive</sic>
+              <corr>sieve</corr>
+            </choice> singing to the <rs type="place" ref="../resources/annotations.xml#pla-lund" key="Isle of Lundy">
+              <choice>
+                <sic>idle</sic>
+                <corr>Isle</corr>
+              </choice> of 
+              <choice>
+                <sic>undy</sic>
+                <corr>Lundy</corr>
+              </choice></rs></l>
+          <l>she confessed to how she had 
+            <choice>
+              <sic>throw</sic>
+              <corr>thrown</corr>
+            </choice> a cat into the sea and</l>
+          <l>
+            <choice>
+              <sic>rasied</sic>
+              <corr>raised</corr>
+            </choice> a storm that had sunk the kings ships.</l>
+        </p>
+      </div>
+      <div xml:id="m54-8.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-6" />
+    </body>
+  </text>
+</TEI>

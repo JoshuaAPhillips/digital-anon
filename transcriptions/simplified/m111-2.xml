@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M111, Set 2 of 3 [The Reader: Anonymity was a great possession]. Typescript fragment, unsigned and undated. 4 fols.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m111-2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M111, Set 2 of 3 [The Reader: Anonymity was a great possession]. Typescript fragment, unsigned and undated. 4 fols.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m111-2.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-1/845,149,161,137/full/0/default.tif">
+          <l>29</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-1/844,292,1812,1732/full/0/default.tif">
+          <l>Anonymity was a great possession. It gave the early</l>
+          <l>plays <add hand="typewriter" place="above">writing</add> a general nature.
+            <choice>
+              <sic>t</sic>
+              <corr>It</corr>
+            </choice> gave us the 
+            <choice>
+              <sic>ballds</sic>
+              <corr>ballads</corr>
+            </choice>; it gave</l>
+           <l>us the 
+            <choice>
+              <sic>somgs</sic>
+              <corr>songs</corr>
+            </choice>. It allowed us to know nothing of the mans</l>
+          <l>name. <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> had great privileges. He is not responsible.</l>
+          <l>He is not self conscious. He can borrow. He can repeat.</l>
+          <l>He can say what everyone feels. No one asks that he shall</l>
+          <l>stamp his own name on his work. He keeps at a distance from</l>
+          <l>the present moment. Anon the lyric writer 
+            <choice>
+              <sic>repeat</sic>
+              <corr>repeats</corr>
+            </choice> over and</l>
+          <l>
+            <choice>
+              <sic>ove</sic>
+              <corr>over</corr>
+            </choice> again that flowers fade; that death is the end.</l>
+          <l>He is never tired of 
+            <choice>
+              <sic>clebrating</sic>
+              <corr>celebrating</corr>
+            </choice> red roses and the white</l>
+          <l>
+            <choice>
+              <sic>bresast</sic>
+              <corr>breast</corr>
+            </choice> of his mistress. The anonymous dxmxmxmxmxmx</l>
+          <l>playwright has like the singer this 
+            <choice>
+              <sic>namless</sic>
+              <corr>nameless</corr>
+            </choice> vitality.</l>
+          <l>something drawn from the crowd in the penny seats. and not</l>
+          <l>yet dead in 
+            <choice>
+              <sic>ouslves</sic>
+              <corr>ourselves</corr>
+            </choice>. For we too have become 
+            <choice>
+              <sic>aninymous</sic>
+              <corr>anonymous</corr>
+            </choice>, and</l>
+          <l>forget something that we have learnt, in reading the plays</l>
+          <l>that no one troubled to set a name to.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-1/824,2044,1812,1204/full/0/default.tif">
+          <l>Later when the audience becomes critical, when the</l>
+          <l>emotion in the audience becomes self 
+            <choice>
+              <sic>oncsious</sic>
+              <corr>conscious</corr>
+            </choice>, when</l>
+          <l>the country squire can say without quoting <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> what</l>
+          <l>is in his mind, we lose this general quality to gain---</l>
+          <l>everything it 
+            <choice>
+              <sic>seemes</sic>
+              <corr>seems</corr>
+            </choice>. For until the <rs type="person" ref="../resources/annotations.xml#psn-puri" key="Puritans">puritans</rs> shut the 
+            <choice>
+              <sic>thea</sic>
+              <corr>theatre</corr>
+            </choice></l>
+          <l>the 
+            <choice>
+              <sic>curayin</sic>
+              <corr>curtain</corr>
+            </choice> rises 
+            <choice>
+              <sic>incesaantly</sic>
+              <corr>incessantly</corr>
+            </choice>. It goes on rising until</l>
+          <l>finally it rises on the <rs type="literary-work" ref="../resources/annotations.xml#lit-temp" key="Tempest, The">Tempest</rs>. But by then the stage has</l>
+          <l>become too small for the play. It has outgrown the uncovered</l>
+          <l>theatre where 
+            <choice>
+              <sic>eh</sic>
+              <corr>the</corr>
+            </choice> sun beats and the rain pours. And the</l>
+          <l>reader is born. He acts the play in the theatre of his own</l>
+          <l>brain. Perhaps after centuries the play is born again,</l>
+        </p>
+      </div>
+      <div xml:id="m111-2.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-2" />
+      <div xml:id="m111-2.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-3/957,59,195,169/full/0/default.tif">
+          <l>30</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-3/958,196,1762,804/full/0/default.tif">
+          <l>revealed, is often a 
+            <choice>
+              <sic>supended</sic>
+              <corr>suspended</corr>
+            </choice> derelict irrelevant beauty.</l>
+          <l>There is no sequence. It does not connect; axxxx the</l>
+          <l>rxmxmxmxmxf the parts are u 
+            <choice>
+              <sic>sevred</sic>
+              <corr>severed</corr>
+            </choice>, and  something runs to</l>
+          <l>waste. For the anonuymous playwright is 
+            <choice>
+              <sic>irrepsonsible</sic>
+              <corr>irresponsible</corr>
+            </choice>.</l>
+          <l>He flouts 
+            <choice>
+              <sic>trith</sic>
+              <corr>truth</corr>
+            </choice> at the bidding of the audience. he cares 
+            <choice>
+              <sic>ony</sic>
+              <corr>only</corr>
+            </choice></l>
+          <l>for the plot. We are left in the end without an end. The</l>
+          <l>emotion is wasted.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-3/934,980,1778,2068/full/0/default.tif">
+          <l>But gradually the audience is mastered by the 
+            <choice>
+              <sic>playwrgiht</sic>
+              <corr>playwright</corr>
+            </choice>.</l>
+          <l>The mist withdraws. So many 
+            <choice>
+              <sic>darmatists</sic>
+              <corr>dramatists</corr>
+            </choice> are 
+            <choice>
+              <sic>explroing</sic>
+              <corr>exploring</corr>
+            </choice></l>
+          <l>tunnels that lead at last to some common 
+            <choice>
+              <sic>disocvery</sic>
+              <corr>discovery</corr>
+            </choice>.</l>
+          <l>So many private people are pressing their weight of</l>
+          <l>
+            <choice>
+              <sic>eunexpressed</sic>
+              <corr>unexpressed</corr>
+            </choice> emotion upon the writers 
+            <choice>
+              <sic>consciouness</sic>
+              <corr>consciousness</corr>
+            </choice>.</l>
+          <l>Country squires are 
+            <choice>
+              <sic>earning</sic>
+              <corr>learning</corr>
+            </choice> to speak what they feel without</l>
+          <l>quoting Spenser. The curtain rises on play 
+            <choice>
+              <sic>afte</sic>
+              <corr>after</corr>
+            </choice> play.</l>
+          <l>Each time it rises upon a more detached, a more matured</l>
+          <l>drama. The 
+            <choice>
+              <sic>indivisual</sic>
+              <corr>individual</corr>
+            </choice> on the stage becomes more and more</l>
+          <l>
+            <choice>
+              <sic>diife entiated</sic>
+              <corr>differentiated</corr>
+            </choice>; and the whole group is more closely</l>
+          <l>
+            <choice>
+              <sic>rleated</sic>
+              <corr>related</corr>
+            </choice> and less at the mercy of the lp plot. The curtain</l>
+          <l>rises upon Hxmxmmxmx <rs type="literary-work" ref="../resources/annotations.xml#lit-hen6" key="Henry VI">Henry the 
+            <choice>
+              <sic>Si th</sic>
+              <corr>Sixth</corr>
+            </choice></rs>; and <rs type="literary-work" ref="../resources/annotations.xml#lit-john" key="King John">King John</rs>;</l>
+          <l>upon <rs type="literary-work" ref="../resources/annotations.xml#lit-haml" key="Hamlet">Hamlet</rs> and <rs type="literary-work" ref="../resources/annotations.xml#lit-ancl" key="Antony and Cleopatra">Antony and 
+            <choice>
+              <sic>Cleoptra</sic>
+              <corr>Cleopatra</corr>
+            </choice></rs> and upon <rs type="literary-work" ref="../resources/annotations.xml#lit-macb" key="Macbeth">Macbeth</rs>.</l>
+          <l>Finally it rises upon the Tempest. But the play has outgrown</l>
+          <l>the uncovered theatre where the 
+            <choice>
+              <sic>s n</sic>
+              <corr>sun</corr>
+            </choice> beats and the rain</l>
+          <l>pours. That 
+            <choice>
+              <sic>thetare</sic>
+              <corr>theatre</corr>
+            </choice> must be replaced by the</l>
+          <l>
+            <choice>
+              <sic>thestre</sic>
+              <corr>theatre</corr>
+            </choice> of the brain. The playwright is replaced by the man</l>
+          <l>who writes a book. The audience is replaced by the reader.</l>
+          <l>Anon is dead.</l>
+        </p> 
+      </div>
+      <div xml:id="m111-2.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-4" />
+      <div xml:id="m111-2.3r" n="3 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5/929,58,155,161/full/0/default.tif">
+          <l>31</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5/981,226,553,163/full/0/default.tif">
+          <l>The RxxxxReader.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-5/860,380,1836,3060/full/0/default.tif">
+          <l>The audience at the 
+            <choice>
+              <sic>Elizabetahn</sic>
+              <corr>Elizabethan</corr>
+            </choice> play was not an 
+            <choice>
+              <sic>audiejce</sic>
+            </choice></l>
+          <l>of readers. They had to draw 
+            <choice>
+              <sic>int</sic>
+              <corr>in</corr>
+            </choice> the play through their ears, through their eyes</l>
+          <l>They could not deepen the impression and renew</l>
+          <l>it at a table in a private room. This perhaps explains</l>
+          <l>the scarcity of Elizabethan criticism; and the general nature</l>
+          <l>of what criticism there is. Both <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Jonson</rs></l>
+          <l>deal with the general rules of poetry; not with the 
+            <choice>
+              <sic>particuar</sic>
+              <corr>particular</corr>
+            </choice></l>
+          <l>play or poem. The lack of a book of the words accounts too</l>
+          <l>for the long pause, between <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
+            <choice>
+              <sic>Sahkepares</sic>
+              <corr>Shakespeare's</corr>
+            </choice></rs> death</l>
+          <l>and the eighteenth century, 
+            <choice>
+              <sic>whe</sic>
+              <corr>when</corr>
+            </choice> the plays of 
+            <choice>
+              <sic>Shakepere</sic>
+              <corr>Shakespeare</corr>
+            </choice></l>
+          <l>even hang suspended, 
+            <choice>
+              <sic>unrea ised</sic>
+              <corr>unrealised</corr>
+            </choice>. They had to wait until the</l>
+          <l>printed book was in many hands before they received</l>
+          <l>the life that the reader 
+            <choice>
+              <sic>co fers</sic>
+              <corr>confers</corr>
+            </choice> Much that was lost</l>
+          <l>in the playhouse was 
+            <choice>
+              <sic>disocvered</sic>
+              <corr>discovered</corr>
+            </choice> in the private room.</l>
+          <l>But 
+            <choice>
+              <sic>mu h</sic>
+              <corr>much</corr>
+            </choice> was lost for ever when the playhouse shut.</l>
+          <l>Txmxmmxmxmxmxmmxmxmxmmxmxmxmxmxm We have lost the sound of the</l>
+          <l>spoken word; all that the sight of the actors bodies</l>
+          <l>suggests to the mind through the eye. We have lost the</l>
+          <l>sense of being part of the audience. We miss a 
+            <choice>
+              <sic>th usnd</sic>
+              <corr>thousand</corr>
+            </choice></l>
+          <l>suggestions that the dramatist conveyed by the inflection</l>
+          <l>of voice, by gesture, by the placing of the actors bodies.</l>
+          <l>This can still be proved by comparing our impression</l>
+          <l>
+            <choice>
+              <sic>aft</sic>
+              <corr>after</corr>
+            </choice> seeing the play acted with our impression after reading</l>
+          <l>the play alone. But as the actor 
+            <choice>
+              <sic>ipmports</sic>
+              <corr>imports</corr>
+            </choice> much that is of</l>
+          <l>his own day, and 
+            <choice>
+              <sic>foreing</sic>
+              <corr>[foreign?]</corr>
+            </choice> to the past, so that there is t</l>
+          <l>still something in every Elizabethan play sunk beyond recall.</l>
+        </p>
+        <p>
+          <l>30</l>
+        </p>
+        <p>
+          <l>Presumably the earlier plays, in which the playwright</l>
+          <l>and the audience were mxxxx in closer cooperation, are the</l>
+          <l>more damaged by reading them. The reader 
+            <choice>
+              <sic>instinctivly</sic>
+              <corr>instinctively</corr>
+            </choice> tries</l>
+          <l>to be there in person. He tries to supply the trumpets</l>
+          <l>and the flags; the citizens and the apprentices. He</l>
+          <l>nourishes the 
+            <choice>
+              <sic>inadeuate</sic>
+              <corr>inadequate</corr>
+            </choice> emotion with a dip into <rs type="person" ref="../resources/annotations.xml#psn-phen" key="Henslowe, Philip">
+              <choice>
+                <sic>Hensloew</sic>
+                <corr>Henslowe</corr>
+              </choice></rs>,</l>
+          <l>with a dip into <rs type="person" ref="../resources/annotations.xml#psn-rhol" key="Holinshed, Raphael">
+            <choice>
+              <sic>Holigshed</sic>
+              <corr>Holinshed</corr>
+            </choice></rs>. He labours to supply the sunk</l>
+          <l>part of the play. He is 
+            <choice>
+              <sic>perpetaully</sic>
+              <corr>perpetually</corr>
+            </choice> rebuffed. He is apt</l>
+          <l>to become not a reader but a student; a 
+            <choice>
+              <sic>crafeul</sic>
+              <corr>careful</corr>
+            </choice> collector of</l>
+          <l>old scattered bones. At some point however in Elizabethan</l>
+          <l>drama the readerr is born. When the dramatist 
+            <choice>
+              <sic>beceomes</sic>
+              <corr>becomes</corr>
+            </choice> consi</l>
+          <l>of the play as a work of art; when he is able to unite the</l>
+          <l>play by something in himself--his personality, his</l>
+          <l>conception-- it is then that, he brings the reader into 
+            <choice>
+              <sic>beig</sic>
+              <corr>being</corr>
+            </choice></l>
+        </p>
+        <p>
+          <l>We can be sure then that the reader has been</l>
+          <l>in existence for round about four hundred years. But his</l>
+          <l>life history is an obscure one. At some point his ear must</l>
+          <l>have lost 
+            <choice>
+              <sic>i s</sic>
+              <corr>its</corr>
+            </choice> 
+            <choice>
+              <sic>acutness</sic>
+              <corr>acuteness</corr>
+            </choice>; then his 
+            <choice>
+              <sic>eyees</sic>
+              <corr>eyes</corr>
+            </choice> became dulled.</l>
+          <l>Later he became more conscious of the suggestions and echoes</l>
+          <l>in words. He imported much into the 
+            <choice>
+              <sic>w itten</sic>
+              <corr>written</corr>
+            </choice> word that was</l>
+          <l>unintended xxxxxxx by the writer. A word given in its</l>
+          <l>Elizabethan spelling brings in suggestions that give it</l>
+          <l>almost another meaning. The words suggest other manners,</l>
+          <l>other clothes. They accent the contrast between one society</l>
+          <l>and another. And as the habit of reading becomes universal,</l>
+          <l>many 
+            <choice>
+              <sic>varities</sic>
+              <corr>varieties</corr>
+            </choice> of reader are created. There are the</l>
+          <l>
+            <choice>
+              <sic>s ecialised</sic>
+              <corr>specialised</corr>
+            </choice> readers whose power of 
+            <choice>
+              <sic>darwing</sic>
+              <corr>drawing</corr>
+            </choice> out the</l>
+        </p>
+      </div>
+      <div xml:id="m111-2.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-2/m111-2-6" />
+      </body>
+  </text>
+</TEI>

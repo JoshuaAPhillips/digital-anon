@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 4 of 11. [Anon: Anon has emerged sufficiently from the forests...]. Typescript fragment, 2 fols.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-4</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 4 of 11. [Anon has emerged sufficiently from the forests...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m54-4.1r" n="1 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-1">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-1/900,112,162,150/full/0/default.tif">
+          <l>9</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-1/888,232,1788,3132/full/0/default.tif">
+          <l><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> has emerged 
+            <choice>
+              <sic>suffievcntly</sic>
+              <corr>sufficiently</corr>
+            </choice> from the forests and the</l>
+          <l>floods to let us see a rough outline of a human shape.</l>
+          <l>He has a dog and a garden. He has books; and he digs in</l>
+          <l>the earth. His name is of no great moment. It may be</l>
+          <l>Harrison; or it may be <rs type="person" ref="../resources/annotations.xml#past" key="Pastons">Paston</rs>. There is very little to dis 
+            <choice>
+              <sic>dis</sic>
+              <corr>distinguish</corr>
+            </choice></l>
+          <l>
+            <choice>
+              <sic>tingusih</sic>
+              <corr>distinguish</corr>
+            </choice> one from the other. He has no 
+            <choice>
+              <sic>exr ssion</sic>
+              <corr>expression</corr>
+            </choice> on his 
+            <choice>
+              <sic>fae</sic>
+              <corr>face</corr>
+            </choice></l>
+          <l>He conveys to us chiefly what his eye sees, what his body</l>
+          <l>feels. He sees 
+            <choice>
+              <sic>ngland</sic>
+              <corr>England</corr>
+            </choice> very clearly. He sees</l>
+          <l>its 
+            <choice>
+              <sic>emptines</sic>
+              <corr>emptiness</corr>
+            </choice>; ; he conveys the scarcity of people; the</l>
+          <l>
+            <choice>
+              <sic>predominace</sic>
+              <corr>predominance</corr>
+            </choice> of individuals. The <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs> is the dominant</l>
+          <l>
+            <choice>
+              <sic>fogure</sic>
+              <corr>figure</corr>
+            </choice>. He can count her 
+            <choice>
+              <sic>posses ons</sic>
+              <corr>possessions</corr>
+            </choice>-- a few ships; a few</l>
+          <l>great 
+            <choice>
+              <sic>hous s</sic>
+              <corr>houses</corr>
+            </choice>. He watches her 
+            <choice>
+              <sic>progeresses</sic>
+              <corr>progresses</corr>
+            </choice>. She is 
+            <choice>
+              <sic>parliemtn</sic>
+              <corr>parliament</corr>
+            </choice>,</l>
+          <l>press, society, law and order. But the man who sees this</l>
+          <l>the individual, is still cumbered and stiff. Writing is</l>
+          <l>still an art that requires great ceremony. What you make</l>
+          <l>with the pen is separate from what you say with the tongue.</l>
+          <l>Only a few years back words were written 
+            <choice>
+              <sic>elbaorately</sic>
+              <corr>elaborately</corr>
+            </choice> in</l>
+          <l>lustrous ink upon valuable parchment; and the leaves,</l>
+          <l>bound together, were chained to the lectern and read,</l>
+          <l>by a few, in great physical discomfort,</l>
+          <l>on hard 
+            <choice>
+              <sic>neches</sic>
+              <corr>benches</corr>
+            </choice> in the cold. Even now, when words are printed,</l>
+          <l>the great public is not the reader, or the paymaster.</l>
+          <l>Written words must please a single man in the first place,</l>
+          <l>must find its way into some noble room, where the nobles</l>
+          <l>and the gentry, have 
+            <choice>
+              <sic>lisure</sic>
+              <corr>leisure</corr>
+            </choice> after hunting, after</l>
+          <l>seeing their estates, and 
+            <choice>
+              <sic>contrlling</sic>
+              <corr>controlling</corr>
+            </choice> their servants,</l>
+          <l>to to pick up a book and read its history or sing its song.</l>
+          <l>For Words must tell stories; or they must sound to</l>
+          <l>the ear. For the nobles had their music; they played tunes</l>
+        </p>
+      </div>
+      <div xml:id="m54-4.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-2" />
+      <div xml:id="m54-4.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3">
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3/919,112,173,146/full/0/default.tif">
+          <l>10</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3/905,228,1401,142/full/0/default.tif">
+          <l>tunes to the words that the writers wrote.</l>
+        </p>
+        <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-3/831,352,1861,2938/full/0/default.tif">
+          <l>It is the printing press 
+            <choice>
+              <sic>th t</sic>
+              <corr>that</corr>
+            </choice> disturbs this company.</l>
+          <l>It is the printing press that makes the writer a 
+            <choice>
+              <sic>nany</sic>
+              <corr>many</corr>
+            </choice> headed</l>
+          <l>many limbed. a mongrel with so many different 
+            <choice>
+              <sic>pearants</sic>
+              <corr>parents</corr>
+            </choice></l>
+          <l>that it requires a 
+            <choice>
+              <sic>hole</sic>
+              <corr>whole</corr>
+            </choice> army of learned men, and a perpetual</l>
+          <l>provision of fine tasters to keep any order or distinction</l>
+          <l>
+            <choice>
+              <sic>etween</sic>
+              <corr>between</corr>
+            </choice> the different members. The presses of <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>, <rs type="place" ref="../resources/annotations.xml#pla-oxfo" key="Oxford"></rs></l>
+          <l><rs type="place" ref="../resources/annotations.xml#pla-camb" key="Cambridge">
+            <choice>
+              <sic>Ca,bridge</sic>
+              <corr>Cambridge</corr>
+            </choice></rs>, sucking in copy, and casting out legible books</l>
+          <l>that 
+            <choice>
+              <sic>nany one</sic>
+              <corr>any one</corr>
+            </choice> could read was not a nice 
+            <choice>
+              <sic>fedder</sic>
+              <corr>[feeder?]</corr>
+            </choice>. Anything</l>
+          <l>that could be written could be printed. What Any morality,</l>
+          <l>any record, whatever men wished 
+            <choice>
+              <sic>recored</sic>
+              <corr>recorded</corr>
+            </choice>, it would deliver</l>
+          <l>as a book. Unlike the 
+            <choice>
+              <sic>pa nter</sic>
+              <corr>painter</corr>
+            </choice> or the musician the writer</l>
+          <l>after the birth of the printing press is exposed to</l>
+          <l>innumerable 
+            <choice>
+              <sic>inappropirate</sic>
+              <corr>inappropriate</corr>
+            </choice> and 
+            <choice>
+              <sic>irelveant</sic>
+              <corr>irrelevant</corr>
+            </choice> 
+            <choice>
+              <sic>s licitaions</sic>
+              <corr>solcitations</corr>
+            </choice>.</l>
+          <l>Why not write the 
+            <choice>
+              <sic>hist</sic>
+              <corr>history</corr>
+            </choice> of your parish? Or the life of a</l>
+          <l>Roman emperor? Why not take part in the 
+            <choice>
+              <sic>governement</sic>
+              <corr>government</corr>
+            </choice> of your</l>
+          <l>country? Why not advise the soul of its 
+            <choice>
+              <sic>erils</sic>
+              <corr>perils</corr>
+            </choice>? Why not become</l>
+          <l>
+            <choice>
+              <sic>pampheleteer</sic>
+              <corr>pamphleteer</corr>
+            </choice> 
+            <choice>
+              <sic>histroain</sic>
+              <corr>historian</corr>
+            </choice> moralist, or playwright? The Press is</l>
+          <l>read to accept anything. And as the 
+            <choice>
+              <sic>oublic</sic>
+              <corr>public</corr>
+            </choice> becomes less</l>
+          <l>
+            <choice>
+              <sic>serivile</sic>
+              <corr>servile</corr>
+            </choice>, less martial less concerned to keep out the cold</l>
+          <l>and fight the enemy, as glass is fitted into windows</l>
+          <l>and pillows replace logs, the public adds its own invitation</l>
+          <l>to the writer. It is an inquisitive 
+            <choice>
+              <sic>acti e</sic>
+              <corr>active</corr>
+            </choice> minded public;</l>
+          <l>it soon dissipates and takes hold of <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>. It makes him</l>
+          <l>into an innumerable 
+            <choice>
+              <sic>comany</sic>
+              <corr>company</corr>
+            </choice> of familiar 
+            <choice>
+              <sic>sprits</sic>
+              <corr>spirits</corr>
+            </choice>, one</l>
+          <l>
+            <choice>
+              <sic>pr aching</sic>
+              <corr>preaching</corr>
+            </choice> another delighting, 
+            <choice>
+              <sic>anotherinstructing</sic>
+              <corr>another instructing</corr>
+            </choice>. Only a few</l>
+          <l>still persist into making words into works of art.</l>
+        </p>
+      </div>
+      <div xml:id="m54-4.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-4/m54-4-4" />
+    </body>
+  </text>
+</TEI>
