@@ -108,7 +108,10 @@ var mirador = Mirador.viewer({
       { key: 'scroll', behaviors: ['continuous'] },
       { key: 'gallery' },
     ]
-      }
+      },
+  annotations: {
+    htmlSanitizationRuleSet: 'liberal', // See src/lib/htmlRules.js for acceptable values
+  },
 });
 </script>
 
