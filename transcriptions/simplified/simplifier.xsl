@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#default">
+<xsl:stylesheet version="3.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="#all">
     
     <xsl:output method="xml"/>
 
@@ -28,10 +28,7 @@
     </xsl:template>
     
     <xsl:template match="tei:l">
-        <xsl:apply-templates select="node()"/>
-        <xsl:if test="(following-sibling::tei:l)">
-            <br/>
-        </xsl:if>
+        <xsl:apply-templates select="node() normalise-space($text)"/>
     </xsl:template>
     
     <xsl:template match="tei:quote">
@@ -39,14 +36,14 @@
     </xsl:template>
     
     <xsl:template match="tei:choice">
-        <xsl:apply-templates select="tei:corr/text()"/>
-        <xsl:if test="not(following-sibling::tei:sic)">
-            <xsl:text> (</xsl:text><xsl:apply-templates select="tei:sic/text()"/><xsl:text>)</xsl:text>
+        <xsl:apply-templates select="tei:sic/text()"/>
+        <xsl:if test="not(following-sibling::tei:corr)">
+            <xsl:text> (</xsl:text><xsl:apply-templates select="tei:corr/text()"/><xsl:text>)</xsl:text>
         </xsl:if>
     </xsl:template>
     
     <xsl:template match="tei:rs">
-        <xsl:apply-templates select="tei:rs/text()"/>
+        <xsl:apply-templates select="tei:rs/node()"/>
     </xsl:template>
     
     <xsl:template match="tei:add">
