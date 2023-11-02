@@ -105,7 +105,7 @@
           <l>When the <rs type="person" ref="../resources/annotations.xml#psn-duno" key="Norfolk, Duchess of">duchess of Norfolk</rs>, the wife of <rs type="person" ref="../resources/annotations.xml#psn-easu" key="Surrey, Earl of">Lord Surrey</rs> <del>who</del> the poet</l>
           <l>who was executed <del>comes to the surface</del> <add place="above">writes</add>, she writes:</l>
           <l>Only in some extremity of passion or of need do they <del>come to</del></l>
-          <l>take up the pen. <del>She</del> The sound of the Bible is in</l>
+          <l>take up the pen. <del>&amp;</del> The sound of the Bible is in</l>
           <l>their ears. <del>As if</del> It is a garment only to be put on when the</l>
           <l>being is in <del>an attitude</del> a certain attitude.</l>
           <l>And the garment may of course conceal a <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Lady Ann</rs></l>
@@ -347,7 +347,7 @@
         </p>
       </div>
       <div xml:id="m47.7v" n="7 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-14" />
-      <div xml:id="m47.8r" n="8 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15"> <!-- come back to this! -->
+      <div xml:id="m47.8r" n="8 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15/487,146,143,92/full/0/default.tif">
           <l>3.</l>
         </p>
@@ -505,7 +505,11 @@
           <l><del>The</del> The age of anonymity is over.</l>
         </p>
       </div>
-      <div xml:id="m47.11v" n="11 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-22" />
+      <div xml:id="m47.11v" n="11 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-22">
+        <p>
+          <l>Mrs Parsons 3/2/73</l>
+        </p>
+      </div>
     </body>
   </text>
 </TEI>

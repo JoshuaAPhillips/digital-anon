@@ -122,7 +122,7 @@
               <sic>th </sic>
               <corr>the</corr>
             </choice> pause<del>,</del></l>
-          <l>helping out the <add place="above">larger</add>meaning.<add hand="ms" place="inline">[</add><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> sings because spring has</l>
+          <l>helping out the <add place="above">singer</add>meaning.<add hand="ms" place="inline">[</add><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> sings because spring has</l>
           <l>come; or winter is gone; 
             <choice>
               <sic>b cause</sic>
@@ -136,7 +136,7 @@
           <l>For <rs type="person" ref="../../resources/annotations.xml#psn-smil" key="Miller, Sissy">Sissy Miller</rs></l> <!-- my thanks to Bryony Randall for supplying Sissy Miller as a reading -->
           <l>She comes.</l>
           <l>Scene.</l>
-          <l>their [searches?]</l>
+          <l>their diaries</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-2/552,795,426,170/full/0/default.tif">
           <l><del>P</del> R. M.</l>
@@ -203,7 +203,11 @@
           <l><del>finished.</del></l>
         </p>
       </div>
-      <div xml:id="m48.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-4" />
+      <div xml:id="m48.2v" n="2 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m48/m48-4">
+        <p>
+          <l>Parsons 3.2.73</l> <!-- different hand to M.45-M.47 -->
+        </p>
+      </div>
     </body>
   </text>
 </TEI>
