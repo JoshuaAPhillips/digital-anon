@@ -147,7 +147,7 @@
             <choice>
               <sic>ditioc nary</sic>
               <corr>dictionary</corr>
-            </choice> now.</l>]
+            </choice> now.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-1/1276,2426,852,180/full/0/default.tif">
           <quote source="#" rend="block">
@@ -227,8 +227,8 @@
               <choice>
                 <sic>Civero</sic>
                 <corr>Cicero</corr>
-              </choice></rs>--xxxxxxx</l>
-            <l>ixx quotes them to prove his good breeding as we to prove</l>
+              </choice></rs>--<del>his page</del></l>
+            <l><del>is</del> quotes them to prove his good breeding as we to prove</l>
             <l>ours quote the 
               <choice>
                 <sic>Elizabthans</sic>
@@ -254,7 +254,7 @@
             <choice>
               <sic>mistrels</sic>
               <corr>minstrels</corr>
-            </choice>, their xxxxxxx actors.</l>
+            </choice>, their <del>minstr</del> actors.</l>
           <l>But he was despised. Did he not feeling himself an outcast,</l>
           <l>use the outsiders privilege of 
             <choice>
@@ -424,7 +424,7 @@
               <sic>needlwork</sic>
               <corr>needlework</corr>
             </choice>.</l>
-          <l>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx Greek and Latin</l>
+          <l><del>The great house is still in existence</del> Greek and Latin</l>
           <l>came as easily to their pens as English. At <rs type="place" ref="../resources/annotations.xml#pla-gorh" key="Gorhambury">Gorhambury</rs></l>
           <l>
             <choice>
@@ -435,8 +435,8 @@
                 <sic>An</sic>
                 <corr>Anne</corr>
               </choice> Bacon</rs> sat writing to her son. Her letters</l>
-          <l>might have been sermons from the pulpit. Shxxxxxxxxxxxxxxxxxx</l>
-          <l>xxxxxxxxxxxxxxxxxxxx She 
+          <l>might have been sermons from the pulpit. <del>She is [illeg.]</del></l>
+          <l><del>admonishing a subordinate;</del> She 
             <choice>
               <sic>exhorst</sic>
               <corr>exhorted</corr>
@@ -479,7 +479,7 @@
               <sic>irrevent</sic>
               <corr>irreverent</corr>
             </choice> mockeries</l>
-          <l>xmxmxmxmxmx the English might be a dumb race; a race of</l>
+          <l><del>acting his</del> the English might be a dumb race; a race of</l>
           <l>merchants 
             <choice>
               <sic>soliders</sic>
@@ -828,7 +828,7 @@
               <sic>solitictaion</sic>
               <corr>solicitation</corr>
             </choice></l>
-          <l>of the nobles and the gentry, had his doubts. Anon wxxxx</l>
+          <l>of the nobles and the gentry, had his doubts. Anon <del>was</del></l>
           <l>still 
             <choice>
               <sic>existsed</sic>
@@ -897,7 +897,7 @@
               <corr>business</corr>
             </choice> and the sport of the day is over.</l>  
           <l>And with the printed book, the writer at last comes into</l>
-          <l>existence--the writer wxxxxx who, 
+          <l>existence--the writer <del>whose</del> who, 
             <choice>
               <sic>unl e</sic>
               <corr>unlike</corr>
@@ -1137,7 +1137,11 @@
           <l>It was still connected with the village.</l>
         </p>
       </div>
-      <div xml:id="m51.9v" n="9 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-18" />
+      <div xml:id="m51.9v" n="9 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-18">
+      <p>
+        <l>Parsons 3.2.73</l>
+      </p>
+      </div>
     </body>
   </text>
 </TEI>
