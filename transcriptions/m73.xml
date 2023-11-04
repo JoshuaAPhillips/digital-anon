@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M73. [The Reader? "Elizabethan clothes"]. Holograph fragment, undated. 1p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m73</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M73. ["Elizabethan clothes..."]. Holograph fragment. 1p.</p>
+            <p>Possible fragment of 'The Reader' not initially catalogued as such.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml:id="m73.1r" n="1 recto"> <!-- images for this! -->
+        <p>
+          <l>Elizabethan clothes have had too much attention from</l>
+          <l>the historical novelist, &amp; too little from the</l>
+          <l>psychologist. What <del>[feelings?]</del> <add place="above">[diverse?]</add> <del>did they represent</del></l>
+          <l>was gratified by their <add place="above">an</add> extraordinary display? <del>The</del></l>
+          <l><del>histories of men</del>. What <del>were they being</del> <del>was behind</del></l>
+          <l><del>the discomfort of this <del>[tortuous?]</del> cloaks, their</del></l>
+          <l><del>loops of pearls, their stiff ruffs <del>there</del> their</del></l>
+          <l>enormous expense &amp; discomfort? to</l>
+          <l><del>the clothes. <del>They drew</del> They are [fir?] in fancy dress.</del></l>
+          <l><del>But for whom were they</del></l>
+          <l>cladding men &amp; women as if [in?] a fancy</l>
+          <l>dress party. The cost was great, &amp; the</l>
+          <l>they must have been acting some part</l>
+          <l>There must have been <del>some</del> <add place="above">[other?]</add>presence <del>on them</del></l>
+          <l><del>to induce them</del> that forced them to</l>
+          <l>this extraordinary display?- <del>some meaning</del></l>
+          <l>that <del>ordained</del> - <del>not some</del> the cost was</l>
+          <l>great; the discomfort appalling: <del>But</del></l>
+          <l>Inwardly the must have dread to [proclaim?] some</l>
+          <l>device –– to <del>appear</del> make visible something</l>
+          <l>that was of some body. The old</l>
+          <l>clothes in the museums are <del>part</del> an</l>
+          <l>attempt at saying <add place="above">proving</add> something: stating something</l>
+          <l>somebody some view of life <choice>
+            <sic>wh.</sic>
+            <corr>which</corr>
+          </choice> is foreign, a</l>
+          <l>[product?] perhaps: an affirmation –</l>
+        </p>
+      </div>
+      <div xml:id="m73.1v" n="1 verso">
+        <p>
+          <l>Hammill 11/17/58</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
