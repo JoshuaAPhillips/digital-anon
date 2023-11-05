@@ -78,8 +78,8 @@
           <l>and not the single subtlety of one soul.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/731,1076,1978,1284/full/0/default.tif">
-          <l>The audience is silent. xmxmxmxmxmmxxxmmxmxmxxmmx</l>
-          <l>xmmxmxmxmxmxmxmxmxmmxmxmxmxmxmx <rs type="person" ref="../resources/annotations.xml#psn-hwri" key="Wriothesley, Henry">Lord Southampton</rs></l>
+          <l>The audience is silent. <del>If we try to look at them</del></l>
+          <l><del>in their [real?] person</del> <add place="inline">[</add><rs type="person" ref="../resources/annotations.xml#psn-hwri" key="Wriothesley, Henry">Lord Southampton</rs></l>
           <l>and <rs type="person" ref="../resources/annotations.xml#psn-fmann" key="Manners, Francis">Lord Rutland</rs>, as <rs type="person" ref="../resources/annotations.xml#psn-rwhy" key="Whyte, Roland">Roland 
             <choice>
               <sic>W ite</sic>
@@ -106,7 +106,7 @@
             <choice> 
               <sic>i</sic>
               <corr>in</corr>
-            </choice> court circles.</l>
+            </choice> court circles.<add place="inline">]</add></l>
           <l>If we try to look at the audience off the stage</l>
           <l>in their private lives we see only wisps, passing phantoms.</l>
         </p>
@@ -158,7 +158,7 @@
               <sic>weve</sic>
               <corr>weave</corr>
             </choice> a veil</l>
-          <l>through which nothing is seen in its actual shape. <add hand="ms" place="above">some horror is concealed [behind?] the flowers</add>. There is</l>
+          <l>through which nothing is seen in its actual shape. <add hand="ms" place="above">some horror is concealed beneath the flowers</add>. There is</l>
           <l>silence. Then 
             <choice>
               <sic>Sile ce</sic>
@@ -265,18 +265,18 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5/2208,1478,537,607/full/0/default.tif">
           <add place="margin">
-            <l>there is an</l> <!-- nope, pray for Dirk's help, try Wim, etc. -->
-            <l>[illeg. tiny words...]</l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
-            <l></l>
+            <l>there is an</l>
+            <l>[enormous?] [reserve?]</l>
+            <l>of expressed</l>
+            <l>emotion</l>
+            <l>yet no</l>
+            <l>[primitive?]</l>
+            <l>[with?]</l>
+            <l>it is the</l>
+            <l>[chief?]</l>
+            <l>too</l>
+            <l>new</l>
+            <l>learning</l>
           </add>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5/860,1652,1836,1588/full/0/default.tif">
@@ -343,7 +343,7 @@
               <corr>irresistible</corr>
             </choice> attraction to the play, is silent.</l>
         </p>
-        <p>
+        <p> <!-- grab IIIF selector -->
           <l>That 
             <choice>
               <sic>sielnce</sic>
@@ -354,7 +354,7 @@
               <sic>crodwing</sic>
               <corr>crowding</corr>
             </choice> across the river daily;</l>
-          <l>but they nxmxmxx sit there silent. They neither 
+          <l>but they <del>neither</del> sit there silent. They neither 
             <choice>
               <sic>priasise</sic>
               <corr>praise</corr>
@@ -375,7 +375,7 @@
               <sic>recongsing</sic>
               <corr>recognising</corr>
             </choice> before we take the measure.</l>
-          <l><del hand="ms">And</del> <add place="above" hand="ms">But</add>, while we have a measuring rod, <add place="above">beauty, on our part</add> thexmxmxmxmxmxm</l>
+          <l><del hand="ms">And</del> <add place="above" hand="ms">But</add>, while we have a measuring rod, <add place="above">beauty, on our part</add> <del>the Elizabethans had no</del></l>
           <l>a press that at once applies a standard, the Elizabethans</l>
           <l>had no literature behind them to with which to compare the</l>
           <l>play, and no press to give it speech. To the 
@@ -530,8 +530,8 @@
             </choice> a mortal wound over the</l>
           <l>right eye. <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Ben Jonson</rs> ran <rs type="person" ref="../resources/annotations.xml#psn-gspe" key="Spenser, Gabriel">Gabriel Spenser</rs> through the body</l>
           <l>with a sword that cost three and sixpence. If such had been</l>
-          <l>the behaviour of <rs type="person" ref="../resources/annotations.xml#psn-aten" key="Tennyson, Alfred">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-rbro" key="Browning, Robert">Browning</rs>, <add place="above"><!-- come back to this --> </add>, thxmxmxmmxmxmxmxmxmxmxmx</l>
-          <l>xmxmxmxm <add place="above"><!-- come back to this --> there would have been a gulf between them and</add></l>
+          <l>the behaviour of <rs type="person" ref="../resources/annotations.xml#psn-aten" key="Tennyson, Alfred">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-rbro" key="Browning, Robert">Browning</rs>, <add place="above">[illeg.]</add>, <del>the gulf between</del></l>
+          <l><del>them and</del> <add place="above">over the [illeg.] in [dancing?] shown no doubt [illeg.] wd. have kept them at a distance</add> there would have been a gulf between them and</l>
           <l>the Court. So 
             <choice>
               <sic>com;lete</sic>
@@ -616,7 +616,10 @@
       <div xml:id="m108.6v" n="6 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-12">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-12/776,36,1868,300/full/0/default.tif">
           <quote source="#" rend="inline">
-            <l>ment; and admiration; but of the highest vertues they have</l>
+            <l><choice>
+              <sic>ment</sic>
+              <corr>astonishment</corr>
+            </choice>; and admiration; but of the highest vertues they have</l>
             <l>no sense or 
               <choice>
                 <sic>percebing</sic>
@@ -678,7 +681,7 @@
             </choice> coloured. <quote source="#" rend="inline">The Colours that show best</quote></l>
           <l><quote source="#" rend="inline">by candlelight , are: White, Carnation, and a kinde of</quote></l>
           <l><quote source="#" rend="inline">Sea-Water Green".</quote> It only needs the playwright to put <add place="above">one push for their thoughts</add></l>
-          <l>flesh and blood onto his thoughts. <add place="above">to become [people?]</add></l><!--come back to additions -->
+          <l>flesh and blood onto his thoughts. <add place="above">to become people</add></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-12/736,2056,1924,900/full/0/default.tif">
           <l>Bacons contempt was for hyperbole; not for the art of</l>
