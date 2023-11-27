@@ -60,7 +60,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-1/819,228,1810,1652/full/0/default.tif">
           <l>so long as the play was dominant. The audience at the play</l>
-          <l>house had to draw in txxxx the play with their eyes and</l>
+          <l>house had to draw in <del hand="typewriter">their</del> the play with their eyes and</l>
           <l>ears. Without a book of the words they could not deepen and</l>
           <l>revise the impression left by the play, or ask those</l>
           <l>questions that are debated now in every newspaper. The lack</l>
@@ -154,7 +154,7 @@
             <choice>
               <sic>dvelops</sic>
               <corr>develops</corr>
-            </choice>. Hxxx A word spelt on the old spelling brings</l>
+            </choice>. <del hand="typewriter">He</del> A word spelt on the old spelling brings</l>
           <l>in 
             <choice>
               <sic>asscoations</sic>
@@ -200,7 +200,7 @@
                 <corr>Chaucer's</corr>
               </choice></rs> book when they</l>
           <l>are in trouble <quote source="#" rend="inline">"and a little part of his beauteous spirit</quote></l>
-          <l><quote source="#" rend="inline">infuses itself in me."</quote> Hexmxmmxmxmxmxmxmxmmx And the</l>
+          <l><quote source="#" rend="inline">infuses itself in me."</quote> <del hand="typewriter">He has a curious faculty</del> And the</l>
           <l>curious faculty --the 
             <choice>
               <sic>pow r</sic>
@@ -215,7 +215,7 @@
               <sic>vivible</sic>
               <corr>visible</corr>
             </choice> on</l>
-          <l>the printed page is a xxxx always changing. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs></l>
+          <l>the printed page is a <del hand="typewriter">lwa</del> always changing. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs></l>
           <l>now 
             <choice>
               <sic>develping</sic>
@@ -248,7 +248,7 @@
               <sic>is</sic>
               <corr>his</corr>
             </choice> relation with the reader.</l>
-          <l>xxx and He reveals himself. I am a 
+          <l><del hand="typewriter">He</del> and He reveals himself. I am a 
             <choice>
               <sic>bachelor</sic>
               <corr>batchelor</corr>
@@ -335,7 +335,11 @@
           <l>nothing is concluded.</l>
         </p>
       </div>
-      <div xml:id="m112-3.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-6" />
+      <div xml:id="m112-3.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-3/m112-3-6">
+        <p> <!-- grab IIIF selector -->
+          <l>Parsons 3.2.73</l>
+        </p>
+      </div>
     </body>
   </text>
 </TEI>

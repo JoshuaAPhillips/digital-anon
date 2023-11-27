@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M112, set 1 of 3 [The Reader: manner brings in suggestions that give it another meaning]. Typescript fragment with the author's ms. corrections, unsigned and undated. 4 fols.
+        <title>M112, set 1 of 3 [The Reader: But again down on the Bankside...]. Typescript fragment with the author's ms. corrections, unsigned and undated. 4 fols.
         </title>
         <author>Virginia Woolf</author>
         <respStmt>
@@ -63,7 +63,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-1/899,244,1794,1572/full/0/default.tif">
           <l>But again down on the <rs type="place" ref="../resources/annotations.xml#pla-bank">Bankside</rs> the curtain rises.</l>
           <l>The trumpets sound; the flag blows and the</l>
-          <l>shadowy insubstantial life txmxmxx of Squires, nobles</l>
+          <l>shadowy insubstantial life <del>that</del> of Squires, nobles</l>
           <l>Maids of 
             <choice>
               <sic>hnour</sic>
@@ -125,7 +125,7 @@
               <corr>motive</corr>
             </choice></l>
           <l>motive behind the action. What, he broods in <rs type="literary-work" ref="../resources/annotations.xml#lit-woma" key="Woman Killed with Kindness, A">a Woman killed</rs></l>
-          <l><rs>with kindness</rs>, is the effect of mercy?--- if the adulters</l>
+          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-woma" key="Woman Killed with Kindness, A">with kindness</rs>, is the effect of mercy?--- if the adulters</l>
           <l>are confronted not with death but with a guilty conscience?</l>
           <l>As the plays come faster and faster, as the curtain rises</l>
           <l>again and again, upon <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">
@@ -243,7 +243,7 @@
               <sic>if</sic>
               <corr>of</corr>
             </choice> literature of</l>
-          <l><del>course is in his hands</del>. <add hand="ms">But</add> Axxxhe <add>He is <del>still</del></add> is still <del>apparently</del> reading</l>
+          <l><del>course is in his hands</del>. <add place="above">But</add> <del>And</del> <add>He is <del>still</del></add> is still <del>apparently</del> reading</l>
           <l><rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
             <choice>
               <sic>Shakespere</sic>
@@ -266,7 +266,10 @@
             </choice>. <del hand="ms">The</del> inadequacy of</l>
           <l>that criticism is means that is due of course to the</l>
           <l>it is always autobiographical criticism.</l>
-          <l>xxxxxxxxxxxxx It is a
+          <l><del hand="typewriter">In <choice>
+            <sic>othe</sic>
+            <corr>other</corr>
+          </choice> words,</del> It is a
             <choice>
               <sic>comm nplace</sic>
               <corr>commonplace</corr>
@@ -280,7 +283,7 @@
               <sic>Shakepare</sic>
               <corr>Shakespeare</corr>
             </choice>. His variety</l>
-          <l>is such that every one wxxxx can find scattered here or</l>
+          <l>is such that every one <del hand="typewriter">who</del> can find scattered here or</l>
           <l>there the <add hand="ms" place="above">[that which?] he can</add> 
             <choice>
               <sic>develop ent</sic>
@@ -299,12 +302,12 @@
           <l>The <rs type="person" ref="../resources/annotations.xml#psn-sjoh" key="Johnson, Samuel">Johnson</rs> S. the <rs type="person" ref="../resources/annotations.xml#psn-stco" key="Coleridge, Samuel Taylor">Coleridge</rs> S. the <rs type="person" ref="../resources/annotations.xml#psn-acbr" key="Bradley, A. C.">Bradley</rs> S.</l>
         </p>
       </div>
-      <div xml:id="m112-1.2r" n="2 recto" facs=""> <!-- remainder of pages in this fragment seem to be completely separate... and it seems to be about diary/letters of Anne Clifford? Maybe designate it as a different fragment?-->
+      <div xml:id="m112-1.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-3/"> <!-- remainder of pages in this fragment seem to be completely separate... and it seems to be about diary/letters of Anne Clifford? Maybe designate it as a different fragment?-->
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-3/895,77,143,139/full/0/default.tif">
           <l>34</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-3/871,224,1810,868/full/0/default.tif">
-          <l>that of the <rs type="person" ref="../resources/annotations.xml#psn-astan" key="Stanley, Anne">Stanleys</rs>, the Cxmxmxxxx <rs type="person" ref="../resources/annotations.xml#psn-arus" key="Russell, Anne">
+          <l>that of the <rs type="person" ref="../resources/annotations.xml#psn-astan" key="Stanley, Anne">Stanleys</rs>, the <del hand="typewriter">Clifmo</del> <rs type="person" ref="../resources/annotations.xml#psn-arus" key="Russell, Anne">
             <choice>
               <sic>Rissells</sic>
               <corr>Russells</corr>
@@ -328,7 +331,7 @@
             <choice>
               <sic>ifit</sic>
               <corr>it</corr>
-            </choice> was <quote source="#" rend="inline">"held a very mean match</quote></l>
+            </choice> was <quote source="#" rend="inline">" held a very mean match</quote></l>
           <l><quote source="#" rend="inline">an 
             <choice>
               <sic>indiscreet on</sic>
@@ -344,7 +347,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-3/887,1064,1810,1132/full/0/default.tif">
           <l>Yet there were moments when even this carapace of</l>
           <l>possessions proved too heavy for her; <del hand="ms">when on the first day</del></l>
-          <l>xmxmxmxmmxmxx <quote source="#" rend="inline">If I had not excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer's</rs> book</quote></l>
+          <l><del hand="typewriter">of November</del> <quote source="#" rend="inline">If I had not excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer's</rs> book</quote></l>
           <quote source="#">
             <l>here to comfort me, I were in a pitiable case, having so</l>
             <l>many troubles as I have here, but when I read in that,</l>
@@ -361,7 +364,7 @@
             <choice>
               <sic>postcriot</sic>
               <corr>postscript</corr>
-            </choice> wxmxmxmxmxmx to a letter about a</l>
+            </choice> <del hand="typewriter">when she</del> to a letter about a</l>
           <l>little cabinet and cup which she had left with Lady <rs type="person" ref="../resources/annotations.xml#psn-egre" key="Grey, Elizabeth">Kent</rs></l>
           <l>when she borrowed a hundred pounds of her.</l>
         </p>
@@ -376,7 +379,7 @@
             </choice> saw the play of the Mad Lover..."</quote> or</l>
           <l><quote source="#" rend="inline">"We stood to see the Masque in the box with my Lady</quote></l>
           <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-ruth" key="Ruthven, Lady">Ruthven</rs>"</quote> It was when the playhouses were shut</l>
-          <l>presumably that the reader was born. xmxmxmxmxmxmxm</l>
+          <l>presumably that the reader was born. <del hand="typewriter">for in [illeg.]</del></l>
           <l>The 
             <choice>
               <sic>cur  us</sic>
@@ -447,7 +450,7 @@
             <choice>
               <sic>unreaslied</sic>
               <corr>unrealised</corr>
-            </choice>. Even in 17 - <rs type="person" ref="../resources/annotations.xml#psn-mmor" key="Morgann, Maurice">Morgann</rs> could</l>
+            </choice>. Even in 17 <add place="inline">-</add> <rs type="person" ref="../resources/annotations.xml#psn-mmor" key="Morgann, Maurice">Morgann</rs> could</l>
           <l>say that 
             <choice>
               <sic>Shakespere</sic>
@@ -481,10 +484,10 @@
             <choice>
               <sic>personalitties</sic>
               <corr>personalities</corr>
-            </choice>. Mxmxmxmxmmxmxmxmxmxe</l>
-          <l>mxmxmmxmxmxmxmmmxmxmxmxmxmxmxmmxmxmxmxmmxmxmxmxmxmmxmx</l>
-          <l>primxmxmxmmxmxmxmxmxmxmxmxmxmxmxmmxmxmxmxmxmxmxmmxmxmxy</l>
-          <l>xmxmxmxmmxmxmxmxmxmxmxmxmx</l>
+            </choice>. <del hand="typewriter">much that was lost in the</del></l>
+          <l><del hand="typewriter">playhouse was discovered when the play was read in the</del></l>
+          <l><del hand="typewriter">private room; but much was lost for ever when the play</del></l>
+          <l><del hand="typewriter">house was shut-- we can test this by</del></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-5/843,2056,1803,596/full/0/default.tif">
           <l>A life history of the reader during the past</l>
@@ -535,7 +538,7 @@
                 <corr>conscious</corr>
               </choice> of suggestions and echoes,</l>
           <l>and as time passed added much that was</l>
-          <l>unintended by the wxmxmxx writer. It would show that</l>
+          <l>unintended by the <del hand="typewriter">[wrimer?]</del> writer. It would show that</l>
         </p>
       </div>
       <div xml:id="m111-2.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m112-1/m112-1-6" />

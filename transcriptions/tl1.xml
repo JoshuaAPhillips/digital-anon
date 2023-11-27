@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>T.L. (draft, fragment) to Ben [Nicolson]. [Aug. 24, 1940] 1p. On verso her [The Reader] Typescript fragment.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>tl1</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>T.L. (draft, fragment) to Ben [Nicolson]. [Aug. 24, 1940], 1p.</p>
+            <p>On verso her: [The reader] Typescript fragment.</p>
+            <p><!-- look up letter in L6 --></p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div xml.id="tl1.1r" n="1 recto">
+        <p>
+          <l>Dear Ben,</l>
+        </p>
+        <p>
+          <l>My letter also was written very hastily. We have been very</l>
+          <l>subject to air raids. Five bombers almost crashed into this house,</l>
+          <l>They just missed; but I find it <choice>
+            <sic>diffiult</sic>
+            <corr>difficult</corr>
+          </choice> to concentrate; and</l>
+          <l>no doubt misinterpreted what you said.  though I didnt mean to.</l>
+          <l>To be frank, I doubt if I've got your meaning in your last letter.</l>
+          <l>But I would like to understand your point of view and if possible</l>
+          <l>make clear my own; so I answer, in the hope <choice>
+            <sic>thta</sic>
+            <corr>that</corr>
+          </choice> the <choice>
+            <sic>iren</sic>
+            <corr>[iron?]</corr>
+          </choice> will remain</l>
+          <l>silent.</l>
+        </p>
+        <p>
+          <l>You say you dont wish any one to give up painting writing or</l>
+          <l>thinking about art and <choice>
+            <sic>litetrure</sic>
+            <corr>literature</corr>
+          </choice>. <del hand="typewriter">But for some reason Roger Fry</del></l>
+          <l><del hand="typewriter">did this in the wrong way.</del> You mean to go on doing it yourself</l>
+          <l>when the wars over. My <choice>
+            <sic> uarrel</sic>
+            <corr>quarrel</corr>
+          </choice> <choice>
+            <sic>yoy</sic>
+            <corr>you</corr>
+          </choice> say is not with art but with</l>
+          <l>Bloomsbury." But what is Bloomsbury? It means, as far as I can see,</l>
+          <l>a set of people who sat on the floor of Bernard Street</l>
+          <l>saying "more and more I understand nothing of humanity in the mass</l>
+          <l>and were content with that instead of trying to make <choice>
+            <sic>h manity</sic>
+            <corr>humanity</corr>
+          </choice> in the</l>
+          <l>mass understand and appreciate what you knew and saw"</l>
+        </p>
+        <p>
+          <l>Who is "you" in that passage? <del>Do you mean</del> I take it that you mean</l>
+          <l>me in the first place; and to that I reply, I never said anything</l>
+          <l>of the kind. I quoted Rogers saying; I also quoted his saying,</l>
+          <l>Am I responsible for all that Roger said Then I am also responsible</l>
+          <l>for his saying, More and more [I] dread <choice>
+            <sic>impirsonment</sic>
+            <corr>imprisonment</corr>
+          </choice> <del hand="typewriter">in the</del></l>
+          <l>the imprisonment of <choice>
+            <sic>egotims</sic>
+            <corr>egotism</corr>
+          </choice>; I am also responsible for teaching the elementary school children [in] the black country</l>
+          <l>how to draw. I am also responsible for his attempt to make art</l>
+          <l>enjoyed by the <choice>
+            <sic> ublic</sic>
+            <corr>public</corr>
+          </choice> in Southwark. In fact I am not <choice>
+            <sic>reposnible</sic>
+            <corr>responsible</corr>
+          </choice> for</l>
+          <l>any thing Roger did or said. About 150 was spent on my education.</l>
+        </p>
+      </div>
+      <div xml.id="tl1.1v" n="1 verso">
+        <p>
+          <l>Letter.</l>
+        </p>
+        <p>
+          <l>You will complain very justly that this brittle and</l>
+          <l><choice>
+            <sic>im rfect</sic>
+            <corr>imperfect</corr>
+          </choice> sketch <del hand="typewriter">is only</del> with all its <choice>
+            <sic>exeggerations</sic>
+            <corr>exaggerations</corr>
+          </choice>,</l>
+          <l>foreshortenings <del hand="typewriter">and is a thing but a</del> gives you nothing</l>
+          <l>of the emotion which is presumably to be found</l>
+          <l>in the books <choice>
+            <sic>themslves</sic>
+            <corr>themselves</corr>
+          </choice>.</l>
+        </p>
+        <p>
+          <l>Here then let us make a <choice>
+            <sic>transiton</sic>
+            <corr>transition</corr>
+          </choice> from</l>
+          <l>one kind of reader to another. In order to <choice>
+            <sic>divezt</sic>
+            <corr>divest</corr>
+          </choice> <choice>
+            <sic>ourslves</sic>
+            <corr>ourselves</corr>
+          </choice></l>
+          <l>of the attitude which <choice>
+            <sic>Letxus</sic>
+            <corr>lets us</corr>
+          </choice> make certain confessions.</l>
+          <l>The first is that the critical attitude pinches the mind.</l>
+          <l>It is no longer fitting. This is partly due to the</l>
+          <l>it pinches; it compresses; it puts the mind in whalebones,</l>
+          <l>like a stays, or <choice>
+            <sic>picnhes</sic>
+            <corr>pinches</corr>
+          </choice> the foot like too tight shoes.</l>
+          <l>Even to copy <choice>
+            <sic>accura ely</sic>
+            <corr>accurately</corr>
+          </choice> a quotation breaks the <choice>
+            <sic>st eam</sic>
+            <corr>stream</corr>
+          </choice> of</l>
+          <l>thought. The need of accuracy is again inimical. In short,</l>
+          <l>the critic today is like a in the position of a</l>
+          <l>body <choice>
+            <sic>owhich</sic>
+            <corr>which</corr>
+          </choice> feels the attraction of many magnets at</l>
+          <l>one and the same time</l>
+        </p>
+        <p>
+          <l>To demagnetise <choice>
+            <sic>ourlves</sic>
+            <corr>ourselves</corr>
+          </choice> we have to shut the book;</l>
+          <l>If we can, let us be aware only of the   and to seek if we</l>
+          <l>can find it a state of mind that is propitious; that state</l>
+          <l>of mind which in which it seems possible to us to write the</l>
+          <l>book, not to read it. In that state of mind <choice>
+            <sic>fu </sic>
+            <corr>full</corr>
+          </choice> of <choice>
+            <sic>impresion</sic>
+            <corr>impressions</corr>
+          </choice></l>
+          <l><choice>
+            <sic>incordinated</sic>
+            <corr>uncoordinated</corr>
+          </choice>, contradictory, <choice>
+            <sic>i</sic>
+            <corr>in</corr>
+          </choice> which so many <choice>
+            <sic>sneses</sic>
+            <corr>senses</corr>
+          </choice> seem to</l>
+          <l>take part; and yet one or two gradually become significant.</l>
+          <l>Here we are trying to <choice>
+            <sic>disover</sic>
+            <corr>discover</corr>
+          </choice> what the source of the sunk</l>
+          <l>impulse. And the <choice>
+            <sic>didden</sic>
+            <corr>hidden</corr>
+          </choice> spring, the gush of water</l>
+          <l>deep <choice>
+            <sic>beanth</sic>
+            <corr>beneath</corr>
+          </choice> the mud. Whether it holds true universally, or</l>
+          <l>if not, the <choice>
+            <sic>fi st</sic>
+            <corr>first</corr>
+          </choice> instinct is to be</l>
+        </p>
+        <p>
+          <l>Mrs Parsons 3/2/73</l>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
