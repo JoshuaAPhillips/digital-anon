@@ -146,6 +146,108 @@
         <note>Queen of Egypt</note>
         <idno type="viaf">http://viaf.org/viaf/67762941</idno>
       </person>
+      <person xml:id="psn-aclif">
+        <persName>Clifford, Anne</persName>
+        <event type="birth" date="1590-01-30" />
+        <event type="death" date="1676-03-22" />
+        <note>Countess of Dorset, Pembroke, and Montgomery. Woolfs had Diary in library, introduced by VSW and w/ LW's annotations!</note>
+        <idno type="viaf">http://viaf.org/viaf/35250493</idno>
+      </person>
+      <person xml:id="psn-wcob">
+        <persName>Cobham, Baron William Brooke</persName>
+        <event type="birth" date="1527-11-01" />
+        <event type="death" date="1597-03-06" />
+        <note>Baron Cobham, patron of Harrison - dedicated Description of England to him</note>
+        <idno type="viaf">http://viaf.org/viaf/3382863</idno>
+      </person>
+      <person xml:id="psn-ccol">
+        <persName>Coleridge, Samuel Taylor</persName>
+        <event type="birth" date="1772-10-21" />
+        <event type="death" date="1834-07-25" />
+        <note>Samuel Taylor Coleridge, poet. Woolfs must have had about a trillion copies of him (20), gonna be a big ol' note.</note>
+        <idno type="viaf">http://viaf.org/viaf/24599809</idno>
+      </person>
+      <person xml:id="psn-crot">
+        <persName>Crot</persName>
+        <note>Part of trio of 'invisible influences'...</note>
+      </person>
+      <person xml:id="psn-tdek">
+        <persName>Dekker, Thomas</persName>
+        <event type="birth" date="1572?" />
+        <event type="death" date="1632-08-25" />
+        <note>Thomas Dekker, playwright. Two editions, one part of a series titled 'The Best Plays of the Old Dramatists' and the other a 1924 Bodley Head reprint of his 1603 play 'The VVonderfull Yeare'.</note>
+        <idno type="viaf">http://viaf.org/viaf/39402413</idno>
+      </person>
+      <person xml:id="psn-denb">
+        <persName>William Feilding, 1st Earl of Denbigh</persName>
+        <event type="birth" date="1587?" />
+        <event type="death" date="1643-04-08" />
+        <note>First Earl of Denbigh. Can't remember why Woolf brings him up... Interesting life though</note>
+        <idno type="viaf">http://viaf.org/viaf/50660168</idno>
+      </person>
+      <person xml:id="psn-edw4">
+        <persName>Edward IV of England</persName>
+        <event type="birth" date="1442-04-28" />
+        <event type="death" date="1483-04-09" />
+        <note>Edward IV, King of England</note>
+        <idno type="viaf">http://viaf.org/viaf/286746619</idno>
+      </person>
+      <person xml:id="psn-edw6">
+        <persName>Edward VI of England</persName>
+        <event type="birth" date="1537-10-12" />
+        <event type="death" date="1553-07-06" />
+        <note>Edward VI, King of England</note>
+        <idno type="viaf">http://viaf.org/viaf/67259838</idno>
+      </person>
+      <person xml:id="psn-eliz">
+        <persName>Elizabeth I of England</persName>
+        <event type="birth" date="1533-09-07" />
+        <event type="death" date="1603-03-24" />
+        <note>Elizabeth I, Queen of England</note>
+        <idno type="viaf">http://viaf.org/viaf/97107753</idno>
+      </person>
+      <person xml:id="psn-mirw">
+        <persName>Irwin, Mariana</persName>
+        <note>A Mystery - do some digging. She marries Lord Sheffield, right?</note>
+      </person>
+      <person xml:id="psn-fals">
+        <persName>Falstaff</persName>
+        <note>Character in Shakespeare's <rs xml:id="lit-hen4">Henry IV</rs> plays (check this...!)</note>
+      </person>
+      <person xml:id="psn-jfor">
+        <persName>Ford, John</persName>
+        <event type="birth" date="1586?" />
+        <event type="death" date="1639?" />
+        <note>John Ford, playwright. Known today for his 1631 tragedy 'Tis Pity She's a Whore. The Woolfs owned an edition of his plays, edited by Havelock Ellis and published as part of a series titled 'The Best Plays of the Old Dramatists.'</note>
+        <idno type="viaf">http://viaf.org/viaf/44323561</idno>
+      </person>
+      <person xml:id="psn-frana">
+        <persName>Frankland</persName>
+        <note>Character from A Woman Killed with Kindness (flesh out note).</note>
+      </person>
+      <person xml:id="psn-franb">
+        <persName>Frankland's Wife</persName>
+        <note>Character from A Woman Killed...</note>
+      </person>
+      <person xml:id="psn-ifriz">
+        <persName>Frizer, Ingram</persName>
+        <event type="death" date="1627-08?" />
+        <note>Reputedly killed Marlowe (find source for quotes)</note>
+      </person>
+      <person xml:id="psn-mfyt">
+        <persName>Fytton, Mary</persName>
+        <event type="birth" date="1578-06-25" />
+        <event type="death" date="1647?" />
+        <note>Possible Dark Lady of Shakespeare's sonnets</note>
+        <idno type="viaf">http://viaf.org/viaf/105142299</idno>
+      </person>
+      <person xml:id="psn-efyt">
+        <persName>Fytton, Sir Edward</persName>
+        <event type="birth" date="1548?" />
+        <event type="death" date="1606?" />
+        <note>Came from Gawsworth in Cheshire, Member of Parliament for Wigan, father of Mary Fytton (expand)</note>
+        <idno type="viaf">http://viaf.org/viaf/29360176</idno>
+      </person>
     </listPerson>
   </body>
 </TEI>
