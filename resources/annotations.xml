@@ -248,6 +248,58 @@
         <note>Came from Gawsworth in Cheshire, Member of Parliament for Wigan, father of Mary Fytton (expand)</note>
         <idno type="viaf">http://viaf.org/viaf/29360176</idno>
       </person>
+      <person xml:id="psn-gawa">
+        <persName>Gawain</persName>
+        <note>Wawan</note>
+      </person>
+      <person xml:id="psn-jgow">
+        <persName>Gower, John</persName>
+        <event type="birth" date="1330?" />
+        <event type="death" date="1408-10" />
+        <note>John Gower, poet. Nowt in Woolfs lib by him but maybe in RN, E?</note>
+        <idno type="viaf">http://viaf.org/viaf/120695167</idno>
+      </person>
+      <person xml:id="psn-greg">
+        <persName>Greg, W. W. (Walter Wilson)</persName>
+        <event type="birth" date="1875-07-09" />
+        <event type="death" date="1959-03-04" />
+        <note>Walter Wilson Greg, Shakespeare scholar. Check RN for work by him.</note>
+        <idno type="viaf">http://viaf.org/viaf/14810300</idno>
+      </person>
+      <person xml:id="psn-egre">
+        <persName>Grey, Elizabeth</persName>
+        <event type="birth" date="1582?" />
+        <event type="death" date="1651-12-06" />
+        <note>Possibly Elizabeth Grey, Countess of Kent. Collected medical recipes which saw publication after her death.</note>
+        <idno type="viaf">http://viaf.org/viaf/7520168453558166300004</idno>
+      </person>
+      <person xml:id="psn-whar">
+        <persName>Harrison, William</persName>
+        <event type="birth" date="1534-04-18" />
+        <event type="death" date="1593-04-24" />
+        <note>William Harrison, author of <rs xml:id="lit-desc">A Description of England</rs> (CHECK)</note>
+        <idno type="viaf">http://viaf.org/viaf/30613815</idno>
+      </person>
+      <person xml:id="psn-hen8">
+        <persName>Henry VIII of England</persName>
+        <event type="birth" date="1491-06-28" />
+        <event type="death" date="1547-01-28" />
+        <note>Henry VIII, King of England. Too many wives.</note>
+        <idno type="viaf">http://viaf.org/viaf/172419710</idno>
+      </person>
+      <person xml:id="psn-phen">
+        <persName>Henslowe, Philip</persName>
+        <event type="birth" date="1550?" />
+        <event type="death" date="1616-01-06" />
+        <note>Philip Henslowe, theatre owner and manager. Look at RN for diaries</note>
+        <idno type="viaf">http://viaf.org/viaf/100254817</idno>
+      </person>
+      <person xml:id="psn-mher">
+        <persName>Herbert, Mary</persName>
+        <event type="birth" date="?" />
+        <event type="death" date="?" />
+        <note>Possibly Mary Herbert (nee Sidney), Countess of Pembroke of Countess of Pembroke's Arcadia fame http://viaf.org/viaf/32005754 or her granddaughter, Mary Herbert... Do some digging</note>
+      </person>
     </listPerson>
   </body>
 </TEI>
