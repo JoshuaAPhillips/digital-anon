@@ -30,6 +30,7 @@
       <person xml:id="psn-anon">
         <persName>Anon</persName>
         <note>The hero of this story...</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-arch">
         <persName>Archbishop of Canterbury</persName>
@@ -38,6 +39,7 @@
       <person xml:id="psn-kart">
         <persName>Arthur (King)</persName>
         <note>The once and future king of England</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-abac">
         <persName>Bacon, Anne</persName>
@@ -125,6 +127,7 @@
         <event type="birth" date="1343?" />
         <event type="death" date="1400-10-25" />
         <note>We're gonna need a bigger note.</note>
+        <idno type="viaf">http://viaf.org/viaf/100185203</idno>
       </person>
       <person xml:id="psn-cice">
         <persName>Cicero, Marcus Tullius</persName>
@@ -136,10 +139,12 @@
       <person xml:id="psn-acla">
         <persName>Clandon, Angela</persName>
         <note>Character from 'A Legacy'.</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-gcla">
         <persName>Clandon, Gilbert</persName>
         <note>Character from 'A Legacy'.</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-cleo">
         <persName>Cleopatra</persName>
@@ -170,6 +175,7 @@
       <person xml:id="psn-crot">
         <persName>Crot</persName>
         <note>Part of trio of 'invisible influences'...</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-tdek">
         <persName>Dekker, Thomas</persName>
@@ -213,6 +219,7 @@
       <person xml:id="psn-fals">
         <persName>Falstaff</persName>
         <note>Character in Shakespeare's <rs xml:id="lit-hen4">Henry IV</rs> plays (check this...!)</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-jfor">
         <persName>Ford, John</persName>
@@ -224,15 +231,18 @@
       <person xml:id="psn-frana">
         <persName>Frankland</persName>
         <note>Character from A Woman Killed with Kindness (flesh out note).</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-franb">
         <persName>Frankland's Wife</persName>
         <note>Character from A Woman Killed...</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-ifriz">
         <persName>Frizer, Ingram</persName>
         <event type="death" date="1627-08?" />
         <note>Reputedly killed Marlowe (find source for quotes)</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-mfyt">
         <persName>Fytton, Mary</persName>
@@ -251,6 +261,7 @@
       <person xml:id="psn-gawa">
         <persName>Gawain</persName>
         <note>Wawan</note>
+        <idno>N/A</idno>
       </person>
       <person xml:id="psn-jgow">
         <persName>Gower, John</persName>
@@ -299,6 +310,52 @@
         <event type="birth" date="?" />
         <event type="death" date="?" />
         <note>Possibly Mary Herbert (nee Sidney), Countess of Pembroke of Countess of Pembroke's Arcadia fame http://viaf.org/viaf/32005754 or her granddaughter, Mary Herbert... Do some digging</note>
+      </person>
+      <person xml:id="psn-they">
+        <persName>Heywood, Thomas</persName>
+        <event type="birth" date="1574?" />
+        <event type="death" date="1641-08-16" />
+        <note>Thomas Heywood, playwright. Author of <rs xml:id="lit-woma">A Woman Killed with Kindness</rs>.</note>
+        <idno type="viaf">http://viaf.org/viaf/76355576</idno>
+      </person>
+      <person xml:id="psn-thob">
+        <persName>Hobbes, Thomas</persName>
+        <event type="birth" date="1588-04-05" />
+        <event type="death" date="1679-12-20" />
+        <note>Thomas Hobbes, philosopher. Woolfs had two copies of his <hi rend="italic">Leviathan</hi> and one of his <hi rend="italic">Behemoth, or The Long Parliament</hi> in their library.</note>
+        <idno type="viaf">http://viaf.org/viaf/59083895</idno>
+      </person>
+      <person xml:id="psn-rhol">
+        <persName>Holinshed, Raphael</persName>
+        <event type="birth" date="1525?" />
+        <event type="death" date="1580-01-24?" />
+        <note>Raphael Holinshed, chronicler. Author of whatever</note>
+        <idno type="viaf">http://viaf.org/viaf/100254818</idno>
+      </person>
+      <person xml:id="psn-rhoo">
+        <persName>Hood, Robin</persName>
+        <note>Robin Hood, quasi-mythical outlaw who lived in Sherwood Forest, Nottingham.</note>
+      </person>
+      <person xml:id="psn-hibs">
+        <persName>Ibsen, Henrik</persName>
+        <event type="birth" date="1828-03-20" />
+        <event type="death" date="1906-05-23" />
+        <note>Henrik Ibsen, playwright. Woolfs had a copy of his <hi rend="italic">The Master Builder</hi> and of his 12-volume <hi rend="italic">Collected Works</hi> in their library.</note>
+        <idno type="viaf">http://viaf.org/viaf/71378383</idno>
+      </person>
+      <person xml:id="psn-kjam">
+        <persName>James I of England and VI of Scotland</persName>
+        <event type="birth" date="1566-06-19" />
+        <event type="death" date="1625-03-27" />
+        <note>James I, King of England and Scotland. Author of <hi rend="italic">Daemonologie</hi> (1597), Woolfs had reprint of this in library - check!.</note>
+        <idno type="viaf">http://viaf.org/viaf/88905668</idno>
+      </person>
+      <person xml:id="psn-hjam">
+        <persName>James, Henry</persName>
+        <event type="birth" date="1843-04-15" />
+        <event type="death" date="1916-02-28" />
+        <note>Henry James, novelist. Woolfs had 24 works by him in their library.</note>
+        <idno type="viaf">http://viaf.org/viaf/27068553</idno>
       </person>
     </listPerson>
   </body>
