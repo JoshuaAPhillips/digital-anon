@@ -757,5 +757,111 @@
         <idno type="viaf">http://viaf.org/viaf/46768718</idno>
       </person>
     </listPerson>
+    <listBibl>
+      <bibl xml:id="lit-amba">
+        <title level="a">The Ambassadors</title>
+        <author>James, Henry</author>
+        <date>1903</date>
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/179763698</idno>
+      </bibl>
+      <bibl xml:id="lit-anat">
+        <title level="a">Anatomy of Melancholy</title>
+        <author>Burton, Robert</author>
+        <date>1621</date>
+        <note>Three editions, including a fourth edition dating from 1632, one from 1676 given to VW by Violet Dickinson, the third signed by LW.</note>
+        <idno type="viaf">http://viaf.org/viaf/175756847</idno>
+      </bibl>
+      <bibl xml:id="lit-ancl">
+        <title level="a">Antony and Cleopatra</title>
+        <author>Shakespeare, William</author>
+        <date>1606-1607?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere (if, indeed, anywhere?).</note>
+        <idno type="viaf">http://viaf.org/viaf/296512157</idno>
+      </bibl>
+      <bibl xml:id="lit-balle">
+        <title level="a">Ballet Russes</title>
+        <note>Ballet Russes. Come up with something.</note>
+        <idno>N/A</idno>
+      </bibl>
+      <bibl xml:id="lit-broa">
+        <title level="a">Broadcast</title>
+        <note>Something about radio technology</note>
+        <idno>N/A</idno>
+      </bibl>
+      <bibl xml:id="lit-cant">
+        <title level="a">The Canterbury Tales</title>
+        <author>Chaucer, Geoffrey</author>
+        <date>1387-1400</date>
+        <note>Three copies of Chaucer's works in modern editions dating from late 1890s to early 1900s, incl. Skeat and Liddell eds.</note>
+        <idno type="viaf">http://viaf.org/viaf/180531378</idno>
+      </bibl>
+      <bibl xml:id="lit-cine">
+        <title level="a">Cinema</title>
+        <note>Something about cinema</note>
+        <idno>N/A</idno>
+      </bibl>
+      <bibl xml:id="lit-come">
+        <title level="a">The Comedy of Errors</title>
+        <author>Shakespeare, William</author>
+        <date>1589-1594?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere (if, indeed, anywhere?).</note>
+        <idno type="viaf">http://viaf.org/viaf/174770715</idno>
+      </bibl>
+      <bibl xml:id="lit-arca">
+        <title level="a">The Countess of Pembroke's Arcadia</title>
+        <author>Sidney, Sir Philip</author>
+        <date>1593</date>
+        <note>Something here. Two editions, the earlier from 1655 and the later from 1662, which was signed by Leslie Stephen.</note>
+        <idno type="viaf">http://viaf.org/viaf/306144094</idno>
+      </bibl>
+      <bibl xml:id="lit-defe">
+        <title level="a">A Defense of Poesie</title>
+        <author>Sidney, Sir Philip</author>
+        <date>1595</date>
+        <note>Also referred to as the Apologie for Poesie.</note>
+        <idno type="viaf">http://viaf.org/viaf/186060785</idno>
+      </bibl>
+      <bibl xml:id="lit-desc">
+        <title level="a">A Description of England</title>
+        <author>Harrison, William</author>
+        <note>Okay, actually do some digging and find out what this was called, where it could be read - "Harrison, William. Harrison’s Description of England in Shakspere’s [sic] Youth: Being the Second and Third Books of his Description of Britaine and England. Ed. by Frederick J. Furnivall. London: N. Trübner, 1877-1881. 3 vols. Vols. 1 and 2 only. VW—bookplate." in library</note>
+      </bibl>
+      <bibl xml:id="lit-stra">
+        <title level="a">Elizabeth and Essex</title>
+        <author>Strachey, Lytton</author>
+        <date>1928</date>
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/294456136</idno>
+      </bibl>
+      <bibl xml:id="lit-essa">
+        <title level="a">Essais (Essays)</title>
+        <author>Montaigne, Michel de</author>
+        <date>1580-1588</date>
+        <note>cf. <rs xml:id="psn-mmon">Montaigne, Michel de</rs> entry. Maybe I should merge the two?</note>
+        <idno type="viaf">http://viaf.org/viaf/178225204</idno>
+      </bibl>
+      <bibl xml:id="lit-baes">
+        <title level="a">Essays</title>
+        <author>Bacon, Francis</author>
+        <date>1597-1625</date>
+        <note>Something here. Several editions incl. 1924 review copy - look up the review and see if I can track down the edition. Also, seven-vol. edition of FB's Life and Letters with LS's signature, annotations, drawing, 10-vol edition of Works with VW's binding, James Stephen Jr (who?) bookplates, LW's annotations. A family affair!</note>
+        <idno type="viaf">http://viaf.org/viaf/182261978</idno>
+      </bibl>
+      <bibl xml:id="lit-ever">
+        <title level="a">Everyman</title>
+        <author>Anonymous</author>
+        <date>Before 1510</date>
+        <note>English morality play, probably based on Dutch play <hi rend="italic">Elckerlyc</hi>.</note>
+        <idno type="viaf">http://viaf.org/viaf/305230637</idno>
+      </bibl>
+      <bibl xml:id="lit-faer">
+        <title level="a">The Faerie Queene</title>
+        <author>Spenser, Edmund</author>
+        <date>1590-1596</date>
+        <note>Gonna need a bigger note. The only way to read the Faerie Queene is to not read the Faerie Queene or something.</note>
+        <idno type="viaf">http://viaf.org/viaf/313693962</idno>
+      </bibl>
+    </listBibl>
   </body>
 </TEI>
