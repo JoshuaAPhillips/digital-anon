@@ -766,7 +766,7 @@
         <idno type="viaf">http://viaf.org/viaf/179763698</idno>
       </bibl>
       <bibl xml:id="lit-anat">
-        <title level="a">Anatomy of Melancholy</title>
+        <title level="a">The Anatomy of Melancholy</title>
         <author>Burton, Robert</author>
         <date>1621</date>
         <note>Three editions, including a fourth edition dating from 1632, one from 1676 given to VW by Violet Dickinson, the third signed by LW.</note>
@@ -861,6 +861,139 @@
         <date>1590-1596</date>
         <note>Gonna need a bigger note. The only way to read the Faerie Queene is to not read the Faerie Queene or something.</note>
         <idno type="viaf">http://viaf.org/viaf/313693962</idno>
+      </bibl>
+      <bibl xml:id="lit-faus">
+        <title level="a">The Tragical History of Doctor Faustus</title>
+        <author>Marlowe, Christopher</author>
+        <date>1592-1593</date>
+        <note>Fastarse.</note>
+        <idno type="viaf">http://viaf.org/viaf/174770715</idno>
+      </bibl>
+      <bibl xml:id="lit-fide">
+        <title level="a">Fidelio</title>
+        <author>Beethoven, Ludwig van</author>
+        <date>1805</date>
+        <note><rs xml:id="psn-lvbe">Ludwig Van Beethoven</rs>'s only opera'. Have to admit I'm unsure why this in particular...</note>
+        <idno type="viaf">http://viaf.org/viaf/34145304849278610464</idno>
+      </bibl>
+      <bibl xml:id="lit-gamme">
+        <title level="a">Gammer Gurton's Needle</title>
+        <title level="b">A Ryght Pithy, Pleasaunt and merrie Comedie: Intytuled Gammer gurtons Nedle</title>
+        <date>1575?</date>
+        <author>Anonymous</author>
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/179836672</idno>
+      </bibl>
+      <bibl xml:id="lit-gard">
+        <title level="a">The Garden</title>
+        <author>Marvell, Andrew</author>
+        <date>1681</date>
+        <note>Green shade references.</note>
+        <idno type="viaf">http://viaf.org/viaf/220376759</idno>
+      </bibl>
+      <bibl xml:id="lit-ghos">
+        <title level="a">Ghosts</title>
+        <title level="b">Gengangere</title>
+        <author>Ibsen, Henrik</author>
+        <date>1881</date>
+        <note>Watershed for so-called modern drama. Cannae remember why.</note>
+        <idno type="viaf">http://viaf.org/viaf/310251235</idno>
+      </bibl>
+      <bibl xml:id="lit-gold">
+        <title type="a">The Golden Bowl</title>
+        <author>James, Henry</author>
+        <date>1904</date>
+        <note>Woolfs had first English edition in library, from 1905.</note>
+        <idno type="viaf">http://viaf.org/viaf/177406024</idno>
+      </bibl>
+      <bibl xml:id="lit-haml">
+        <title level="a">Hamlet</title>
+        <title level="b">The tragedy of Hamlet, Prince of Denmark</title>
+        <author>Shakespeare, William</author>
+        <date>1599-1601?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere? She must do!</note>
+        <idno type="viaf">http://viaf.org/viaf/176993890</idno>
+      </bibl>
+      <bibl xml:id="lit-hear">
+        <title level="a">The Heart of Darkness</title>
+        <author>Conrad, Joseph</author>
+        <date>1899</date>
+        <note>Woolfs didn't have a standalone copy of this, but VW reviewed a 22-volume collected works (Dent, 1923-28) - find review.</note>
+        <idno type="viaf">http://viaf.org/viaf/182831945</idno>
+      </bibl>
+      <bibl xml:id="lit-hen5">
+        <title level="a">Henry V</title>
+        <title level="b"></title>
+        <author>Shakespeare, William</author>
+        <date>1599?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere?</note>
+        <idno type="viaf">http://viaf.org/viaf/313229934</idno>
+      </bibl>
+      <bibl xml:id="lit-hen6">
+        <title level="a">Henry VI</title>
+        <author>Shakespeare, William</author>
+        <date>1591?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Need to note that this is three plays - Woolf just says Henry VI, I think</note>
+        <idno type="viaf">http://viaf.org/viaf/302801682</idno>
+        <idno type="viaf">http://viaf.org/viaf/303463240</idno>
+        <idno type="viaf">http://viaf.org/viaf/303026888</idno>
+      </bibl>
+      <bibl>
+        <title level="a">History of England</title>
+        <author>???</author>
+        <note>Find out what I mean by this...</note>
+      </bibl>
+      <bibl xml:id="lit-chro">
+        <title level="a">Holinshed's Chronicles</title>
+        <title level="b">The Chronicles of England, Scotlande and Irelande</title>
+        <author>Holinshed, Raphael</author>
+        <date>1577-8</date>
+        <note>Something here. Try to find out where/how Woolf read this because not in library</note>
+        <idno type="viaf">http://viaf.org/viaf/292945095</idno>
+      </bibl>
+      <bibl xml:id="lit-john">
+        <title level="a">King John</title>
+        <title level="b">The Life and Death of King John</title>
+        <author>Shakespeare, William</author>
+        <date>1590-1599?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere? Suspect not as it's a bit of a blah one and she's invoking it in that spirit.</note>
+        <idno type="viaf">http://viaf.org/viaf/312554675</idno>
+      </bibl>
+      <bibl xml:id="lit-lear">
+        <title level="a">King Lear</title>
+        <title level="b">The tragedie of King Lear</title>
+        <author>Shakespeare, William</author>
+        <date>1605-1606?</date>
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere?</note>
+        <idno type="viaf">http://viaf.org/viaf/210981740</idno>
+      </bibl>
+      <bibl xml:id="lit-mort">
+        <title level="a">Le Morte D'Arthur</title>
+        <author>Malory, Sir Thomas</author>
+        <date>1485</date>
+        <note>Two editions, including one edited by Edward Strachey, note says Caxton's text - find out more!.</note>
+        <idno type="viaf">http://viaf.org/viaf/184684384</idno>
+      </bibl>
+      <bibl xml:id="lit-lord">
+        <title level="a">The Lord's Prayer</title>
+        <author> Wycliffe, John (translator)</author>
+        <author>Tyndale, William (translator)</author>
+        <note>Our Father who art in heaven, etc. Where else in Woolf?</note>
+        <idno type="viaf">http://viaf.org/viaf/175787845</idno>
+      </bibl>
+      <bibl xml:id="lit-macb">
+        <title level="a">Macbeth</title>
+        <title level="b">The Tragedie of Macbeth</title>
+        <author>Shakespeare, William</author>
+        <date>1606?</date>
+        <note>Scottish Play.</note>
+      </bibl>
+      <bibl xml:id="lit-madl">
+        <title level="a">The Mad Lover</title>
+        <author>Fletcher, John</author>
+        <date notAfter="1647">Before 1647</date>
+        <note>Something here.</note>
+        <idno type="viaf">N/A</idno>
       </bibl>
     </listBibl>
   </body>
