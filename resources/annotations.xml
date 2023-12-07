@@ -761,7 +761,7 @@
       <bibl xml:id="lit-amba">
         <title level="a">The Ambassadors</title>
         <author>James, Henry</author>
-        <date>1903</date>
+        <event type="publication" when="1903" />
         <note>Something here.</note>
         <idno type="viaf">http://viaf.org/viaf/179763698</idno>
       </bibl>
@@ -843,6 +843,7 @@
       </bibl>
       <bibl xml:id="lit-baes">
         <title level="a">Essays</title>
+        <title level="b">Essayes, Religious Meditations, Places of Perswasion &amp; Disswasion</title>
         <author>Bacon, Francis</author>
         <date>1597-1625</date>
         <note>Something here. Several editions incl. 1924 review copy - look up the review and see if I can track down the edition. Also, seven-vol. edition of FB's Life and Letters with LS's signature, annotations, drawing, 10-vol edition of Works with VW's binding, James Stephen Jr (who?) bookplates, LW's annotations. A family affair!</note>
@@ -895,14 +896,14 @@
         <title level="a">Ghosts</title>
         <title level="b">Gengangere</title>
         <author>Ibsen, Henrik</author>
-        <date>1881</date>
+        <event type="publication" when="1881" />
         <note>Watershed for so-called modern drama. Cannae remember why.</note>
         <idno type="viaf">http://viaf.org/viaf/310251235</idno>
       </bibl>
       <bibl xml:id="lit-gold">
         <title type="a">The Golden Bowl</title>
         <author>James, Henry</author>
-        <date>1904</date>
+        <event type="publication" when="1904" />
         <note>Woolfs had first English edition in library, from 1905.</note>
         <idno type="viaf">http://viaf.org/viaf/177406024</idno>
       </bibl>
@@ -910,14 +911,14 @@
         <title level="a">Hamlet</title>
         <title level="b">The tragedy of Hamlet, Prince of Denmark</title>
         <author>Shakespeare, William</author>
-        <date>1599-1601?</date>
+        <event type="performance" when="1602-07-26" />
         <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere? She must do!</note>
         <idno type="viaf">http://viaf.org/viaf/176993890</idno>
       </bibl>
       <bibl xml:id="lit-hear">
         <title level="a">The Heart of Darkness</title>
         <author>Conrad, Joseph</author>
-        <date>1899</date>
+        <event type="serialisation" notBefore="1899-02" notAfter="1899-04" />
         <note>Woolfs didn't have a standalone copy of this, but VW reviewed a 22-volume collected works (Dent, 1923-28) - find review.</note>
         <idno type="viaf">http://viaf.org/viaf/182831945</idno>
       </bibl>
@@ -925,18 +926,23 @@
         <title level="a">Henry V</title>
         <title level="b"></title>
         <author>Shakespeare, William</author>
-        <date>1599?</date>
+        <event type="composition" when="1599" />
         <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere?</note>
         <idno type="viaf">http://viaf.org/viaf/313229934</idno>
       </bibl>
       <bibl xml:id="lit-hen6">
         <title level="a">Henry VI</title>
         <author>Shakespeare, William</author>
-        <date>1591?</date>
+        <event type="performance (Part I)" when="1592-03-03" />
+        <event type="publication (Part I)" when="1632" />
+        <event type="performance (Part II)" when="1594-03-12" />
+        <event type="publication (Part II)" when="1594" />
+        <event type="performance (Part III)" when="1595-06-19" />
+        <event type="publication (Part III)" when="1595" />
         <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Need to note that this is three plays - Woolf just says Henry VI, I think</note>
-        <idno type="viaf">http://viaf.org/viaf/302801682</idno>
-        <idno type="viaf">http://viaf.org/viaf/303463240</idno>
-        <idno type="viaf">http://viaf.org/viaf/303026888</idno>
+        <idno type="viaf">http://viaf.org/viaf/302801682 (Part I)</idno>
+        <idno type="viaf">http://viaf.org/viaf/303463240 (Part II)</idno>
+        <idno type="viaf">http://viaf.org/viaf/303026888 (Part III)</idno>
       </bibl>
       <bibl>
         <title level="a">History of England</title>
@@ -947,7 +953,8 @@
         <title level="a">Holinshed's Chronicles</title>
         <title level="b">The Chronicles of England, Scotlande and Irelande</title>
         <author>Holinshed, Raphael</author>
-        <date>1577-8</date>
+        <event type="publication (first edition)" when="1577" />
+        <event type="publication (second edition)" when="1587" />
         <note>Something here. Try to find out where/how Woolf read this because not in library</note>
         <idno type="viaf">http://viaf.org/viaf/292945095</idno>
       </bibl>
@@ -955,7 +962,7 @@
         <title level="a">King John</title>
         <title level="b">The Life and Death of King John</title>
         <author>Shakespeare, William</author>
-        <date>1590-1599?</date>
+        <event type="publication (F)" when="1623" />
         <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere? Suspect not as it's a bit of a blah one and she's invoking it in that spirit.</note>
         <idno type="viaf">http://viaf.org/viaf/312554675</idno>
       </bibl>
@@ -964,13 +971,17 @@
         <title level="b">The tragedie of King Lear</title>
         <author>Shakespeare, William</author>
         <date>1605-1606?</date>
+        <event type="performance" when="1606" />
+        <event type="publication (Q1)" when="1608" />
+        <event type="publication (Q2)" when="1619" />
+        <event type="publication (F)" when="1623" />
         <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere?</note>
         <idno type="viaf">http://viaf.org/viaf/210981740</idno>
       </bibl>
       <bibl xml:id="lit-mort">
         <title level="a">Le Morte D'Arthur</title>
         <author>Malory, Sir Thomas</author>
-        <date>1485</date>
+        <event type="publication" when="1485" />
         <note>Two editions, including one edited by Edward Strachey, note says Caxton's text - find out more!.</note>
         <idno type="viaf">http://viaf.org/viaf/184684384</idno>
       </bibl>
@@ -985,15 +996,133 @@
         <title level="a">Macbeth</title>
         <title level="b">The Tragedie of Macbeth</title>
         <author>Shakespeare, William</author>
-        <date>1606?</date>
+        <event type="performance" when="1606" />
+        <event type="publication (F)" when="1623" />
         <note>Scottish Play.</note>
       </bibl>
       <bibl xml:id="lit-madl">
         <title level="a">The Mad Lover</title>
         <author>Fletcher, John</author>
-        <date notAfter="1647">Before 1647</date>
+        <event type="first performance" notBefore="1616" notAfter="1619" />
+        <event type="attested performance" when="1617-01-05" />
         <note>Something here.</note>
         <idno type="viaf">N/A</idno>
+      </bibl>
+      <bibl xml:id="lit-magi">
+        <title level="a">The Magic Flute</title>
+        <title level="b">Die Zauberflöte</title>
+        <author>Mozart, Wolfgang Amadeus</author>
+        <event type="composition" when="1791" />
+        <note>K. 620. Does Woolf discuss it elsewhere?</note>
+        <idno type="viaf">http://viaf.org/viaf/176580465</idno>
+      </bibl>
+      <bibl xml:id="lit-mids">
+        <title level="a">A Midsummer Night's Dream</title>
+        <author>Shakespeare, William</author>
+        <event type="composition" when="1595-1596?" />
+        <event type="publication (Q1)" when="1600-10-08" />
+        <event type="performance" when="1604-01-01" />
+        <event type="publication (False Folio)" when="1619" />
+        <event type="publication (F)" when="1623" />
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere?</note>
+        <idno type="viaf">http://viaf.org/viaf/182253235</idno>
+      </bibl>
+      <bibl xml:id="lit-masq">
+        <title level="a">Of Masques and Triumphs</title>
+        <author>Bacon, Francis</author>
+        <event type="publication" when="1625" />
+        <note>One of Bacon's Essays. Which other essays does she mention? Truth and Dissimulation?</note>
+        <idno type="viaf">http://viaf.org/viaf/182261978</idno>
+      </bibl>
+      <bibl xml:id="lit-outl">
+        <title level="a">The Outline of History</title>
+        <author>Wells, H. G.</author>
+        <date>1919-1920</date>
+        <note>Lucy Swithin's choice of reading material.</note>
+        <idno type="viaf">http://viaf.org/viaf/306062745</idno>
+      </bibl>
+      <bibl xml:id="lit-past">
+        <title level="a">The Paston Letters</title>
+        <author>Various members of the Paston family and correspondents</author>
+        <event type="composition" when="1422-1509" />
+        <event type="publication" when="1787" />
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/180199445</idno>
+      </bibl>
+      <bibl xml:id="lit-reve">
+        <title level="a">The Revenger's Tragedy</title>
+        <author>Middleton, Thomas</author>
+        <event type="first performance" when="1606" />
+        <event type="publication" when="1607" />
+        <note>The most extra of the EM dramas.</note>
+        <idno type="viaf">http://viaf.org/viaf/195894334</idno>
+      </bibl>
+      <bibl xml:id="lit-rome">
+        <title level="a">Romeo and Juliet</title>
+        <title level="b">The Tragedie of Romeo and Ivliet</title>
+        <author>Shakespeare, William</author>
+        <event type="composition" when="1591-1595?" />
+        <event type="first performance" when="1597" />
+        <note>Cf. <rs xml:id="psn-wsha">Shakespeare, William</rs>. Where does Woolf discuss this elsewhere?</note>
+        <idno type="viaf">http://viaf.org/viaf/180598772</idno>
+      </bibl>
+      <bibl xml:id="lit-shep">
+        <title level="a">The Shepheardes Calendar</title>
+        <author>Spenser, Edmund</author>
+        <event type="publication" when="1579" />
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/191558754</idno>
+      </bibl>
+      <bibl xml:id="lit-span">
+        <title level="a">The Spanish Tragedy</title>
+        <title level="b">The Spanish Tragedie: Or, Hieronimo is mad againe</title>
+        <author>Kyd, Thomas</author>
+        <event type="composition" when="1582-1592?" />
+        <note>OG revenge tragedy. Woolfs had 1898 edition in library.</note>
+        <idno type="viaf">http://viaf.org/viaf/179033447</idno>
+      </bibl>
+      <bibl xml:id="lit-tamb">
+        <title level="a">Tamburlaine the Great</title>
+        <author>Marlowe, Christopher</author>
+        <event type="composition" when="1587-1588" />
+        <note>Two-parter. A close second for title of most extra renaissance drama.</note>
+        <idno type="viaf">http://viaf.org/viaf/175755404</idno>
+      </bibl>
+      <bibl xml:id="lit-temp">
+        <title level="a">The Tempest</title>
+        <author>Shakespeare, William</author>
+        <event type="composition" when="1610-1611?" />
+        <note>Rough magic, etc.</note>
+        <idno type="viaf">http://viaf.org/viaf/310216967</idno>
+      </bibl>
+      <bibl xml:id="lit-3gui">
+        <title level="a">Three Guineas</title>
+        <author>Woolf, Virginia</author>
+        <event type="publication" when="1938" />
+        <note>Guess I need a note for VW as well?</note>
+        <idno type="viaf">http://viaf.org/viaf/219311671</idno>
+      </bibl>
+      <bibl xml:id="lit-timb">
+        <title level="a">Timber; Or, Discoveries</title>
+        <author>Jonson, Ben</author>
+        <event type="publication" when="1641" />
+        <note>Something here. Published some years after BJ's death.</note>
+      </bibl>
+      <bibl xml:id="lit-trav">
+        <title level="a">The Unfortunate Traveller</title>
+        <title level="b">The Unfortunate Traveller: Or, the Life of Jack Wilton</title>
+        <author>Nashe, Thomas</author>
+        <event type="publication" when="1594" />
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/181415528</idno>
+      </bibl>
+      <bibl xml:id="lit-woma">
+        <title level="a">A Woman Killed with Kindness</title>
+        <author>Heywood, Thomas</author>
+        <event type="first performance" when="1603" />
+        <event type="publication" when="1607" />
+        <note>Something here.</note>
+        <idno type="viaf">http://viaf.org/viaf/178588584</idno>
       </bibl>
     </listBibl>
   </body>
