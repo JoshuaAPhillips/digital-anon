@@ -1125,5 +1125,52 @@
         <idno type="viaf">http://viaf.org/viaf/178588584</idno>
       </bibl>
     </listBibl>
+    <listObject>
+      <object xml:id="obj-comm">
+        <objectIdentifier>
+          <objectName>Comma (Butterfly)</objectName>
+        </objectIdentifier>
+        <note>A comma is a butterfly of the species Polygonia c-album. In <hi rend="italic">A History of British Butterflies</hi> (1853 but reprinted well into the twentieth century), naturalist F.O. Morris notes that this ‘handsome and singularly shaped species’ appeared across Britain, but evidently it was rare enough (at least in the south-west London suburb of Surbiton) by the time Woolf wrote to justify being mentioned in the newspaper. With its wings closed, the butterfly looks like a fallen autumn leaf; its wings open to reveal a ‘beautiful rich fulvous orange colour.’ Cf. Morris (70-72). Francis Orpen Morris (1810-1893) was a popular British naturalist, cleric, and anti-Darwinist. In <hi rend="italic">Jacob’s Room</hi>, the young Jacob Flanders corrects one of Morris’s works, probably the four-volume <hi rend="italic">History of British Moths</hi> (1859-70), cf. <hi rend="italic">JR</hi> 34</note>
+      </object>
+      <object xml:id="obj-exca">
+        <objectIdentifier>
+          <objectName>Excalibur</objectName>
+        </objectIdentifier>
+        <note>The mythical sword of King Arthur, lobbed at him by the Lady of the Lake</note>
+      </object>
+      <object xml:id="obj-gral">
+        <objectIdentifier>
+          <objectName>Holy Grail (Sang Gral)</objectName>
+        </objectIdentifier>
+        <note>The Holy Grail, the cup used by Jesus at the Last Supper and sought by the Knights of the Round Table, and by Indiana Jones and some Nazis</note>
+      </object>
+      <object xml:id="obj-mono">
+        <objectIdentifier>
+          <objectName>Monotype</objectName>
+        </objectIdentifier>
+        <note>lead bubbling up</note>
+      </object>
+      <object xml:id="obj-nord">
+        <!-- should this be under lit? -->
+      </object>
+      <object xml:id="obj-pill">
+        <objectIdentifier>
+          <objectName>Pilliwinks</objectName>
+        </objectIdentifier>
+        <note>Thumbscrews</note>
+      </object>
+      <object xml:id="obj-pres">
+        <objectIdentifier>
+          <objectName>Printing Press</objectName>
+        </objectIdentifier>
+        <note>Gonnae be a big 'un</note>
+      </object>
+      <object xml:id="obj-roun">
+        <objectIdentifier>
+          <objectName>Round Table</objectName>
+        </objectIdentifier>
+        <note>Knights of the round table, our shows are formid-able etc.</note>
+      </object>
+    </listObject>
   </body>
 </TEI>
