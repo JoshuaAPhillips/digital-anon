@@ -12,6 +12,9 @@
       <sourceDesc>
         <p>Annotations for the Digital Anon project</p>
       </sourceDesc>
+      <encodingDesc>
+        <geoDecl xml:id="WGS" datum="WGS84">World Geodetic System</geoDecl>
+      </encodingDesc>
     </fileDesc>
   </teiHeader>
   <body>
@@ -1172,5 +1175,217 @@
         <note>Knights of the round table, our shows are formid-able etc.</note>
       </object>
     </listObject>
+    <listPlace>
+      <place xml:id="pla-ames">
+        <placeName>Amesbury</placeName>
+        <region>Wiltshire, England</region>
+        <geo decls="#WGS">-1.767126 51.169567</geo>
+        <note>Town in Wiltshire. Not sure why it's here but hey-ho.</note>
+      </place>
+      <place xml:id="pla-bank">
+        <placeName>Bankside</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.099134 51.508176</geo>
+        <note>Bankside, London. South of the river, where the Globe etc. were located.</note>
+      </place>
+      <place xml:id="pla-barg">
+        <placeName>Barge, The</placeName>
+        <region>London, England?</region>
+        <geo decls="#wgs">???</geo>
+        <note>Think this was a tavern or something.</note>
+      </place>
+      <place xml:id="pla-bell">
+        <placeName>Bell, The</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Another tavern, probs. Or a theatre?</note>
+      </place>
+      <place xml:id="pla-nber">
+        <placeName>Berwick, North</placeName>
+        <region>Northumberland, England</region>
+        <geo decls="#wgs">-70.731354 43.307942</geo>
+        <note>North Berwick, Northumberland. On the border of England and Scotland, apparently something to do with the pilliwinks.</note>
+      </place>
+      <place xml:id="pla-blac">
+        <placeName>Blackfriars</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.103956 51.512205</geo>
+        <note>Blackfriars, London. North of the river, where Copilot thinks the indoor theatres were located. Orlando's remaining property was located here.</note>
+      </place>
+      <place xml:id="pla-boca">
+        <placeName>Bocardo, The</placeName>
+        <region>Oxford, England</region>
+        <geo decls="#wgs">-1.258361 51.753750</geo>
+        <note>Prison in Oxford from c.13th to 1771. Cramner and Latimer were imprisoned here before being burnt at stake. Look up something called Jackson's Oxford Journal...</note>
+      </place>
+      <place xml:id="pla-cadb">
+        <placeName>Cadbury</placeName>
+        <region>Somerset, England</region>
+        <geo decls="#wgs">-3.544679 50.836706</geo>
+        <note>Site of a hill fort in Somerset, England, according to Copilot, which seems to know a fair amount about small English towns. Thought to be Arthurian, which is probably the link.</note>
+      </place>
+      <place xml:id="pla-camb">
+        <placeName>Cambridge</placeName>
+        <region>Cambridgeshire, England</region>
+        <geo decls="#wgs">0.119390 52.204714</geo>
+        <note>Cambridge, Cambridgeshire.</note>
+      </place>
+      <place xml:id="pla-came">
+        <placeName>Camelot</placeName>
+        <region>England</region>
+        <geo decls="#wgs">N/A</geo>
+        <note>Camelot, England. Arthurian. Where is this?</note>
+      </place>
+      <place xml:id="pla-cant">
+        <placeName>Canterbury</placeName>
+        <region>Kent, England</region>
+        <geo decls="#wgs">1.080253 51.280028</geo>
+        <note>Canterbury, Kent. Where Thomas Becket got murdered and the Pilgrims tried to go.</note>
+      </place>
+      <place xml:id="pla-carl">
+        <placeName>Carlisle</placeName>
+        <region>Cumbria, England</region>
+        <geo decls="#wgs">-2.937573 54.895443</geo>
+        <note>Carlisle, Cumbria. Very northern, think Woolf discusses this with reference to Arthurian stuff.</note>
+      </place>
+      <place xml:id="pla-chan">
+        <placeName>Channel, English</placeName>
+        <region>North Sea</region>
+        <geo decls="#wgs">1.647949 51.062113</geo>
+        <note>Narrow channel of ocean connecting England and France. Rather choppy.</note>
+      </place>
+      <place xml:id="pla-ches">
+        <placeName>Cheshire</placeName>
+        <region>Cheshire, England</region>
+        <geo decls="#wgs">-2.891464 53.191225</geo>
+        <note>Cheshire, Cheshire. Where the Cheshire Cat comes from.</note>
+      </place>
+      <place xml:id="pla-chop">
+        <placeName>The Chopping Knife near Ludgate</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.103147 51.514101</geo>
+        <note>Something to do with the pilliwinks?</note>
+      </place>
+      <place xml:id="pla-cock">
+        <placeName>The Cock</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Old tavern, probs.</note>
+      </place>
+      <place xml:id="pla-crow">
+        <placeName>The Crown</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Old tavern, probs.</note>
+      </place>
+      <place xml:id="pla-dept">
+        <placeName>Deptford</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.021517 51.475845</geo>
+        <note>South-East London suburb, home to one Christopher Marlowe.</note>
+      </place>
+      <place xml:id="pla-dove">
+        <placeName>Dover</placeName>
+        <region>Kent, England</region>
+        <geo decls="#wgs">1.317158 51.126152</geo>
+        <note>Major port on the South coast of England. White cliffs, Dover Castle and suchlike.</note>
+      </place>
+      <place xml:id="pla-durh">
+        <placeName>Durham</placeName>
+        <region>County Durham, England</region>
+        <geo decls="#wgs">-1.575615 54.777072</geo>
+        <note>University with a small town attached to it. Too hilly for words.</note>
+      </place>
+      <place xml:id="pla-esse">
+        <placeName>Essex</placeName>
+        <region>Essex, England</region>
+        <geo decls="#wgs">0.473053 51.734533</geo>
+        <note>County.</note>
+      </place>
+      <place xml:id="pla-fort">
+        <placeName>Fortune, The</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Fortune Theatre, London. Presumably not the current one, though.</note>
+      </place>
+      <place xml:id="pla-gaws">
+        <placeName>Gawsworth</placeName>
+        <region>Cheshire, England</region>
+        <geo decls="#wgs">-2.166839 53.230444</geo>
+        <note>Cheshire village. Gawsworth Hall is there, which is where the Cheshire Cat comes from.</note>
+      </place>
+      <place xml:id="pla-glob">
+        <placeName>Globe, The</placeName>
+        <region>Southwark, England</region>
+        <geo decls="#wgs">-0.097096 51.508108</geo>
+        <note>Where Shakespeare's plays were performed. Bring good shoes.</note>
+      </place>
+      <place xml:id="pla-gorh">
+        <placeName>Gorhambury</placeName>
+        <region>Hertfordshire, England</region>
+        <geo decls="#wgs">-0.366667 51.766667</geo>
+        <note>The Bacons' house.</note>
+      </place>
+      <place xml:id="pla-gray">
+        <placeName>Gray's Inn</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.113844 51.520415</geo>
+        <note>One of the four Inns of Court. The Woolfs lived here, didn't they?</note>
+      </place>
+      <place xml:id="pla-gren">
+        <placeName>Greenwich</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.004542 51.482085</geo>
+        <note>Greenwich, London. Where the Prime Meridian is.</note>
+      </place>
+      <place xml:id="pla-hard">
+        <placeName>Hardwick Hall</placeName>
+        <region>Derbyshire, England</region>
+        <geo decls="#wgs">-1.308671 53.168797</geo>
+        <note>Elizabeth Talbot, Countess of Shrewsbury, aka Bess of Hardwick, lived here.</note>
+      </place>
+      <place xml:id="pla-keni">
+        <placeName>Kenilworth</placeName>
+        <region>Warwickshire, England</region>
+        <geo decls="#wgs">-1.571750 52.344506</geo>
+        <note>Kenilworth, Warwickshire. Where Robert Dudley, Earl of Leicester, lived.</note>
+      </place>
+      <place xml:id="pla-knol">
+        <placeName>Knole</placeName>
+        <region>Kent, England</region>
+        <geo decls="#wgs">0.205361 51.266191</geo>
+        <note>Knole, Kent. Where Vita Sackville-West and generations of Sackville-Westses lived. Can't remember why it came up here</note>
+      </place>
+      <place xml:id="pla-rlea">
+        <placeName>Lea, The</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.460085 51.910814</geo>
+        <note>Tributary of the Thames. Can't remember why it's of note here?</note>
+      </place>
+      <place xml:id="pla-lond">
+        <placeName>London</placeName>
+        <region>England</region>
+        <geo decls="#wgs">-0.088180 51.489766</geo>
+        <note>Capital of England and the United Kingdom. Big Smoke.</note>
+      </place>
+      <place xml:id="pla-lobr">
+        <placeName>London Bridge</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.087622 51.507961</geo>
+        <note>London Bridge, London. Where the nursery rhyme happened.</note>
+      </place>
+      <place xml:id="pla-loth">
+        <placeName>Lothian</placeName>
+        <region>Scotland</region>
+        <geo decls="#wgs">-3.188438 55.951987</geo>
+        <note>Historic region of Scotland centring on Edinburgh. Where the pilliwinks were?</note>
+      </place>
+      <place xml:id="pla-lund">
+        <placeName>Lundy</placeName>
+        <region>Devon, England</region>
+        <geo decls="#wgs">-4.667988 51.176276</geo>
+        <note>Small island off the coast of Devon. Beloved of puffins.</note>
+      </place>
+    </listPlace>
   </body>
 </TEI>
