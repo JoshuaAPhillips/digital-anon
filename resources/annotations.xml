@@ -1386,6 +1386,132 @@
         <geo decls="#wgs">-4.667988 51.176276</geo>
         <note>Small island off the coast of Devon. Beloved of puffins.</note>
       </place>
+      <place xml:id="pla-merm">
+        <placeName>Mermaid, The</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Old tavern, probs.</note>
+      </place>
+      <place xml:id="pla-norf">
+        <placeName>Norfolk</placeName>
+        <region>Norfolk, England</region>
+        <geo decls="#wgs">1.296451 52.628596</geo>
+        <note>County. Blo' Norton Hall, Joan Martyn story, Pastons</note>
+      </place>
+      <place xml:id="pla-oxf">
+        <placeName>Oxford</placeName>
+        <region>Oxfordshire, England</region>
+        <geo decls="#wgs">-1.254019 51.753423</geo>
+        <note>City. Where the Bocardo is.</note>
+      </place>
+      <place xml:id="pla-pale">
+        <placeName>Palestine</placeName>
+        <region>Middle East</region>
+        <geo decls="#wgs">N/A</geo>
+        <note>Yeeeeeesh, how the hell do I note this. Guess historical Palestine not coterminous with current Palestine, centred around Jerusalem (?) and subject of Crusades? Where does this come up...</note>
+      </place>
+      <place xml:id="pla-pens">
+        <placeName>Penshurst</placeName>
+        <region>Kent, England</region>
+        <geo decls="#wgs">0.183672 51.174604</geo>
+        <note>Home of Sir Philip Sidney.</note>
+      </place>
+      <place xml:id="pla-radw">
+        <placeName>Radwinter</placeName>
+        <region>Essex, England</region>
+        <geo decls="#wgs">0.340748 52.011355</geo>
+        <note>Village and civil parish in Essex, and home to Harrison.</note>
+      </place>
+      <place xml:id="pla-rome">
+        <placeName>Rome</placeName>
+        <region>Lazio, Italy</region>
+        <geo decls="#wgs">12.488129 41.889851</geo>
+        <note>Capital of Italy. Not quite sure why this comes up here. Wasn't there a heavy leather curtain in a church in Rome somewhere in Woolf?</note>
+      </place>
+      <place xml:id="pla-rose">
+        <placeName>Rose, The</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Old playhouse, I think.</note>
+      </place>
+      <place xml:id="pla-sout">
+        <placeName>Southwark</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.095336 51.507721</geo>
+        <note>District of London on the south bank of the Thames, where the Globe and other playhouses were situated.</note>
+      </place>
+      <place xml:id="pla-stal">
+        <placeName>St Albans</placeName>
+        <region>Hertfordshire, England</region>
+        <geo decls="#wgs">-0.336161 51.754668</geo>
+        <note>City in Hertfordshire. Where Bacon was born and lived.</note>
+      </place>
+      <place xml:id="pla-stpa">
+        <placeName>St Paul's Cathedral</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.098330 51.513777</geo>
+        <note>St Paul's Cathedral, London. Where the pilliwinks were?</note>
+      </place>
+      <place xml:id="pla-ston">
+        <placeName>Stonehenge</placeName>
+        <region>Wiltshire, England</region>
+        <geo decls="#wgs">-1.826187 51.178859</geo>
+        <note>Stonehenge, Wiltshire. Where the pilliwinks were?</note>
+      </place>
+      <place xml:id="pla-surb">
+        <placeName>Surbiton</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.304227 51.392431</geo>
+        <note>Southern London suburb, surprisingly close to Hampton Court Park and Kingston. Funny, always thought it was further out.</note>
+      </place>
+      <place xml:id="pla-swan">
+        <placeName>Swan, The</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">???</geo>
+        <note>Old playhouse, perhaps.</note>
+      </place>
+      <place xml:id="pla-towe">
+        <placeName>Tower of London</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.076110 51.508061</geo>
+        <note>Where the Crown Jewels are kept. Also where Anne Boleyn was imprisoned and executed.</note>
+      </place>
+      <place xml:id="pla-wmab">
+        <placeName>Westminster Abbey</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.127330 51.499420</geo>
+        <note>Head church of the Church of England, where monarchs crowned etc.</note>
+      </place>
+      <place xml:id="pla-west">
+        <placeName>Westmorland</placeName>
+        <region>Cumbria, England</region>
+        <geo decls="#wgs">-2.746362 54.328440</geo>
+        <note>Historic county that's now part of Cumbria. Nae idea.</note>
+      </place>
+      <place xml:id="pla-whit">
+        <placeName>Whitehall</placeName>
+        <region>London, England</region>
+        <geo decls="#wgs">-0.126147 51.503504</geo>
+        <note>Where the civil servants hang out</note>
+      </place>
+      <place xml:id="pla-wilt">
+        <placeName>Wilton House</placeName>
+        <region>Salisbury, England</region>
+        <geo decls="#wgs">-1.859372 51.078023</geo>
+        <note>Country house in Wiltshire, England. Where the Herberts lived.</note>
+      </place>
+      <place xml:id="pla-winc">
+        <placeName>Winchester</placeName>
+        <region>Hampshire, England</region>
+        <geo decls="#wgs">-1.313290 51.060710</geo>
+        <note>City in Hampshire. Can't remember why Woolf brings this up</note>
+      </place>
+      <place xml:id="pla-york">
+        <placeName>Yorkshire</placeName>
+        <region>Yorkshire, England</region>
+        <geo decls="#wgs">-1.083688 53.962168</geo>
+        <note>Maker of the best tea.</note>
+      </place>
     </listPlace>
   </body>
 </TEI>
