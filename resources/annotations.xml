@@ -20,15 +20,16 @@
   <body>
     <listPerson>
       <person xml:id="psn-acto">
-        <persName>Acton</persName>
+        <persName>Acton, Sir Francis</persName>
         <note>Sir Francis Acton is an antagonist in one of the two intertwined subplots of <rs xml:id="psh-they">Thomas Heywood</rs>'s domestic tragedy <rs xml:id="lit-woma">A Woman Killed with Kindness</rs>. He is the brother of <rs xml:id="psn-franb">Anne Frankford</rs> (persistently referred to by Woolf as Frankland). He and Sir Charles Mountford brawl over the result of a hawking competition, and in the brawl Mountford kills Acton's two huntsmen. Mountford is released from prison but left impoverished by the fees: at the time Heywood was writing, English gaols charged their inmates for food, upkeep, and any privileges that an inmate could afford, and becomes significantly indebted and returns to prison as a debtor. Seeking further revenge against Mountford, Acton decides to seduce Mountford's sister, Susan. Acton wishes to use their affair to disgrace Mountford but falls in love with Susan. Hoping to win Susan's affection, Acton pays off Mountford's debts and drops charges for the murder of his huntsmen. In a gesture of thanks, Mountford offers his sister to Acton, whether to marry or 'To seize her as a rape or lustful prey [...] To murder her that never meant thee harm' (14.127-9). Susan reluctantly agrees to marry Acton when he professes his genuine love for her. See <rs xml:id="lit-woma">A Woman Killed With Kindness for more details</rs>.</note>
       </person>
       <person xml:id="psn-agrip">
         <persName>Agrippa, Henricus Cornelius</persName>
         <event type="birth" date="1486-09-14" />
         <event type="death" date="1535-02-18" />
-        <note>Agrippa is a blooper</note>
-        <idno type="viaf">http://viaf.org/viaf/24596804</idno>
+        <note>Henricus Cornelius Agrippa von Nettesheim was a 15th and 16th century German polymath who claimed to have doctoral degrees in theology, medicine, and law. He wore many hats over his life, teaching at the universities of Dôle and Padua, practiced law in Metz and medicine in Geneva, Fribourg and Antwerp, acted as court astrologer to Louise de Savoi in Lyon and court historiographer to Margaret of Austria (cf. Hoorens and Renders, pp. 3-4). Agrippa was best known, however, as the author of works of skeptical and occultist philosophy. However, it should be noted that the Agrippa Woolf names in these drafts is somewhat of an outlier: an early modern interloper among lists of classical orators and writers. Of the many ancient Romans named Agrippa, Woolf may have had in mind Marcus Vipsanius Agrippa (c. 63–12 BCE), statesman and soldier discussed by Horace, Suetonius, and Livy, among others.</note>
+        <idno type="viaf">http://viaf.org/viaf/24596804 (Henricus Cornelius Agrippa)</idno>
+        <idno type="viaf">http://viaf.org/viaf/6352894 (Marcus Vipsanius Agrippa)</idno>
       </person>
       <person xml:id="psn-anon">
         <persName>Anon</persName>
@@ -232,12 +233,12 @@
         <idno type="viaf">http://viaf.org/viaf/44323561</idno>
       </person>
       <person xml:id="psn-frana">
-        <persName>John Frankford (Frankland)</persName>
+        <persName>Frankford (Frankland), John</persName>
         <note>Master John Frankford (persistently referred to by Woolf as Frankland) is a major character in <rs>Thomas Heywood</rs>'s domestic tragedy <rs xml:id="lit-woma">A Woman Killed With Kindness</rs>. The play opens with his marriage to <rs xml:id="psn-franb">Anne Frankford</rs>, the sister of <rs xml:id="psn-acto">Sir Francis Acton</rs>, and his decision to invite <rs xml:id="psn-wend">Wendoll</rs> to stay in his household as a long-term, perhaps permanent, guest. Anne Frankford and Wendoll begin an affair, which Frankland later discovers, walking in on Anne and Wendoll in bed. He is restrained from killing Wendoll and exiles Anne, saying that he intends to 'not martyr thee | Nor mark thee for a strumpet, but with usage | Of more humility torment thy soul | And kill thee, even with kindness' (13.150-1). Seeking to repent, Anne starves herself. Hearing of her parlous health, Frankford rushes to Anne's sickbed and the two reconcile, but this is not enough to prevent her death.</note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-franb">
-        <persName>Anne Frankford (Frankland)</persName>
+        <persName>Frankford (Frankland), Anne</persName>
         <note>Anne Frankford (consistently referred to by Woolf as Frankland) is a major character in one of the two subplots of <rs>Thomas Heywood</rs>'s domestic tragedy <rs xml:id="lit-woma">A Woman Killed With Kindness</rs>. She is the sister of <rs xml:id="psn-acto">Sir Francis Acton</rs>. The play opens with her marriage to <rs xml:id="psn-frana">Master John Frankland</rs>. John Frankland invites <rs xml:id="psn-wend">Wendoll</rs> to live in the newlyweds' home as a permanent guest, and Anne and Wendoll begin an affair. Frankford discovers the pair, and is restrained from killing Wendoll. In an act of retribution intended to 'torment [her] soul' and 'kill [her], even with kindness' (13.150-1), John exiles Anne and all of her possessions to a manor some seven miles from their home, and directs her to live out the rest of her days there. Her days are cut short as Anne starves herself, seeking to repent. Frankford is summoned to Anne's side, which gives the pair the chance to reconcile, but this is not enough to prevent Anne's death.</note>
         <idno>N/A</idno>
       </person>
@@ -318,7 +319,7 @@
         <persName>Heywood, Thomas</persName>
         <event type="birth" date="1574?" />
         <event type="death" date="1641-08-16" />
-        <note>Thomas Heywood, playwright. Author of <rs xml:id="lit-woma">A Woman Killed with Kindness</rs>.</note>
+        <note>Thomas Heywood was an English playwright, writer, and actor best known today as the author of <rs xml:id="lit-woma">A Woman Killed with Kindness</rs>. Though a fraction of his work survives, Heywood was, by his own accounts, an extraordinarily prolific figure on the Elizabethan and Jacobean stage. In his epistle dedicatory to the reader in <hi rend="italic">The English Traveller</hi> he claims that this is one 'amongst two hundred and twenty, in which I have had either an entire hand, or at the least a maine finger' but that these plays were –– fittingly, for the subject matter of Woolf's history –– ephemeral, that his 'Playes are not exposed unto the world in Volumes, to beare the title of Workes (as others)' and that 'it was never any great ambition in me, to bee in this kind Voluminously read' (cf. fol. A3).</note>
         <idno type="viaf">http://viaf.org/viaf/76355576</idno>
       </person>
       <person xml:id="psn-thob">
@@ -1124,7 +1125,7 @@
         <author>Heywood, Thomas</author>
         <event type="first performance" when="1603" />
         <event type="publication" when="1607" />
-        <note><hi rend="italic">A Woman Killed with Kindness</hi>, by <rs xml:id="psn-they">Thomas Heywood</rs>, was first performed in 1603 though the earliest surviving text of the play dates from 1607. The play originates the genre of the domestic tragedy, and its two intertwining plots deal with lust and chastity, friendship and duty, retribution and pity. TBC.</note>
+        <note><hi rend="italic">A Woman Killed with Kindness</hi>, by <rs xml:id="psn-they">Thomas Heywood</rs>, was first performed in 1603 though the earliest surviving text of the play dates from 1607. The play arguably originates the genre of the domestic tragedy, and its two intertwining plots deal with lust and chastity, friendship and duty, retribution and pity: for more detailed summaries of the play's two plots, cf. <rs xml:id="psn-acto">Acton, Sir Francis</rs>, <rs xml:id="psn-frana">Frankfort (Frankland), John</rs>, <rs xml:id="psn-franb">Frankford (Frankland), Anne</rs>, and <rs xml:id="psn-wend">Wendoll</rs>. The cry of 'Oh God' that Woolf cites in M.1-8-5. The Reader, fol. 2 punctuate the play: Charles Mountford cries 'My God –– what have I done? What have I done?' (3.41) when he realises he has killed two of Acton's retainers, and Mountford's sister Susan, similarly, cries 'O God! O God!' (3.103) when her brother is imprisoned for the crime. Wendoll cries 'O God! O God! With what a violence | I am hurried to my own destruction. | There goest thou, the most perfectest man | That ever England bred [...] And shall I wrong his bed?' (6.16-20) when he is torn between his friendship with John Frankford and his infatuation with Anne Frankford. Having been told of his wife's infidelity by his servant, John Frankford says to himself in soliloquy 'O God, O God. | Shall I put up these wrongs? No. Shall I trust | The bare report of this suspicious groom | Before the double gilt, the well-hatched ore | Of their two hearts?' (8.102-5), and again cries 'O God, O God' when his servant presents him with irrefutable evidence of Anne and Wendoll's affair (13.47). He again exclaims 'O God' when discovering his wife's lute after having banished her (15.13), before directing his servant to bring the lute to Anne, while Wendoll provides the final O God, lamenting that he has 'divorced the truest turtles | That ever lived together' (16.49-50) on hearing Anne play this lute one final time.</note>
         <idno type="viaf">http://viaf.org/viaf/178588584</idno>
       </bibl>
     </listBibl>
