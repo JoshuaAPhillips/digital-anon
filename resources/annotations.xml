@@ -142,12 +142,12 @@
       </person>
       <person xml:id="psn-acla">
         <persName>Clandon, Angela</persName>
-        <note>Character from 'A Legacy'.</note>
+        <note>Character from 'The Legacy'.</note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-gcla">
         <persName>Clandon, Gilbert</persName>
-        <note>Character from 'A Legacy'.</note>
+        <note>Character from 'The Legacy'.</note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-cleo">
@@ -159,7 +159,9 @@
         <persName>Clifford, Anne</persName>
         <event type="birth" date="1590-01-30" />
         <event type="death" date="1676-03-22" />
-        <note>Countess of Dorset, Pembroke, and Montgomery. Woolfs had Diary in library, introduced by VSW and w/ LW's annotations!</note>
+        <note>Lady Anne Clifford, countess of Pembroke, Dorset, and Montgomery was a woman of letters and a noblewoman associated with the court of <rs xml:id="psn-kjam">James I</rs>. Her surviving diaries, kept between January 1616 and December 1617, speak to her love of literature and vigorous autodidacticism: she writes of reading (or listening to) the Bible, contemporary literature including the <rs xml:id="lit-essa">Essays</rs> of <rs xml:id="psn-mmon">Michel de Montaigne</rs> and <rs xml:id="psn-espe">Edmund Spenser</rs>'s long poem <rs xml:id="lit-faer">The Faerie Queene</rs>, Turkish history, and the sermons of John Donne, whom she met at least once, on the 20th July 1617 (Clifford 74). For his part, Donne said of Clifford that 'she knew well how to discourse of all things, from predestination to slea-silk' (Spence n.p.). The extant portions of Clifford's diaries were written in the shadow of legal disputes sparked by her father George Clifford, third earl of Cumberland's unlawful decision to settle his estate not upon Clifford but upon his brother, Francis Clifford and Clifford's decision to challenge the will. This was a challenge that ended only with Francis Clifford's death without male heirs, upon which the lot reverted to Anne Clifford (cf. Sackville-West in Clifford, xxviii-xxx). Anne Clifford spent much of the period that the diaries cover at <rs xml:id="pla-knol">Knole</rs>, the house in which Vita Sackville-West was born and Orlando's great house in <hi rend="italic">O</hi>. 
+          
+        The Woolfs had a copy of Sackville-West's 1924 edition of Clifford's diaries in their library: Woolf made three sets of notes on it, in preparation for <hi rend="italic">CRI</hi> and again in preparing to write the 'Anon' drafts (cf. Silver <hi rend="italic">RN</hi> XIX, XXXVII, see also RN2. [Holograph reading notes] Notes for reading at random., fol. 8r). At some point, LW annotated this volume. VW writes to VSW twice about Anne Clifford, first on Boxing Day 1940 (<hi rend="italic">L</hi>6 454-5, no. 3672) and the second time on 4 February 1941 (<hi rend="italic">L</hi>6 469-70, no. 3689), both times asking for biographies and material on her life: as VW notes in the latter of the two letters, their Mecklenburgh Square residence had been bombed and 'all my books are to bits.'</note>
         <idno type="viaf">http://viaf.org/viaf/35250493</idno>
       </person>
       <person xml:id="psn-wcob">
@@ -218,7 +220,7 @@
       </person>
       <person xml:id="psn-mirw">
         <persName>Irwin, Mariana</persName>
-        <note>A Mystery - do some digging. She marries Lord Sheffield, right?</note>
+        <note>A Mystery - do some digging. She marries Lord Sheffield, right? in Clifford, p. 89-90, married Lord Sheffield, a mean match, an undiscreet on part of him</note>
       </person>
       <person xml:id="psn-fals">
         <persName>Falstaff</persName>
@@ -696,6 +698,13 @@
         <note>Character in Between the Acts. Old Flimsy.</note>
         <idno>N/A</idno>
       </person>
+      <person xml:id="psn-arun">
+        <persName>Talbot, Aletheia, Countess of Arundel</persName>
+        <event type="birth" date="1585-11-28" />
+        <event type="death" date="1654-06-09" />
+        <note>Countess of Arundel, mentioned in passing here as an associate of <rs xml:id="psn-aclif">Anne Clifford</rs> but important in her own right - WHY?.</note>
+        <idno type="viaf">http://viaf.org/viaf/78504431</idno>
+      </person>
       <person xml:id="psn-aten">
         <persName>Tennyson, Alfred</persName>
         <event type="birth" date="1809-08-06" />
@@ -1009,7 +1018,7 @@
         <author>Fletcher, John</author>
         <event type="first performance" notBefore="1616" notAfter="1619" />
         <event type="attested performance" when="1617-01-05" />
-        <note>Something here.</note>
+        <note>Cf. Clifford, p. 46 (2/1/1617).</note>
         <idno type="viaf">N/A</idno>
       </bibl>
       <bibl xml:id="lit-magi">
