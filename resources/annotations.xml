@@ -63,7 +63,7 @@
         <persName>Beaumont, Francis</persName>
         <event type="birth" date="1584" />
         <event type="death" date="1616-03-06" />
-        <note>Francis Beaumont, playwright</note>
+        <note>Francis Beaumont was an English playwright, best known for his plays written with John Fletcher, even if only nine plays in the 1647 folio <hi rend="italic">Comedies and Tragedies written by Francis Beaumont and John Fletcher, Gentlemen</hi> can be definitively attributed to the pair (cf. Finkelpearl, n.p.). As a figure who almost always worked in collaboration with others, his body of work has waxed and waned over the centuries. Beaumont frequented the <rs xml:id="pla-merm">Mermaid Tavern</rs>, where he reputedly met <rs xml:id="psn-bjon">Ben Jonson</rs> (cf. O'Callaghan n.p.). The Woolfs had two editions of works by (or at least attributed to) Beaumont and Fletcher in their library: an 1840 edition which had belonged to Leslie Stephen, with his annotations and drawings, and a two-volume set published as part of the Mermaid series 'The Best Plays of the Old Dramatists' and edited by John St. Loe Strachey, cousin to Lytton Strachey. VW took notes on <hi rend="italic">The Maid's Tragedy</hi> (1619, Beaumont and Fletcher) and <hi rend="italic">The Two Noble Kinsmen</hi> (1613-4?), which was attributed previously to Beaumont and Fletcher but is now attributed to <rs xml:id="psn-wsha">William Shakespeare</rs> and Fletcher (Cf. Silver, XIX).</note>
         <idno type="viaf">http://viaf.org/viaf/49333217</idno>
       </person>
       <person xml:id="psn-lvbe">
@@ -1262,13 +1262,13 @@
         <placeName>Channel, English</placeName>
         <region>North Sea</region>
         <geo decls="#wgs">1.647949 51.062113</geo>
-        <note>Narrow channel of ocean connecting England and France. Rather choppy.</note>
+        <note>The English Channel is the stretch of sea separating southern England from northern France. <rs xml:id="pla-dove">Dover</rs> is a major port as it is located closest to France: the Strait of Dover is only 33km wide.</note>
       </place>
       <place xml:id="pla-ches">
         <placeName>Cheshire</placeName>
         <region>Cheshire, England</region>
         <geo decls="#wgs">-2.891464 53.191225</geo>
-        <note>Cheshire, Cheshire. Where the Cheshire Cat comes from.</note>
+        <note>Ceremonial county in northern England, on the Welsh border. The parish of <rs xml:id="pla-gaws">Gawsworth</rs> is located in Cheshire.</note>
       </place>
       <place xml:id="pla-chop">
         <placeName>The Chopping Knife near Ludgate</placeName>
@@ -1496,7 +1496,7 @@
         <placeName>Westmorland</placeName>
         <region>Cumbria, England</region>
         <geo decls="#wgs">-2.746362 54.328440</geo>
-        <note>Historic county that's now part of Cumbria. Nae idea.</note>
+        <note>Historic county in the north of England which now forms part of Cumbria. <rs xml:id="psn-aclif">Anne Clifford</rs> inherited her father's estates in Westmorland, though not after a lengthy legal struggle. In so doing, she became a wealthy landowner in her own right. Clifford's diary makes reference to her active role as landowner, collecting rents and pursuing lawsuits against her tenants.</note>
       </place>
       <place xml:id="pla-whit">
         <placeName>Whitehall</placeName>
