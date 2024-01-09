@@ -395,12 +395,12 @@
         <persName>Kyd, Thomas</persName>
         <event type="birth" date="1558?" />
         <event type="death" date="1594-08-15?" />
-        <note>Thomas Kyd, playwright. Woolfs had an 1898 copy of his <hi rend="italic">Spanish Tragedy</hi> in their library.</note>
+        <note>Thomas Kyd was an English playwright, best-known for <rs xml:id="lit-span">The Spanish Tragedy</rs>, though it was not attributed to him until 1773, over 175 years after his death: the play was considered anonymous until that point (cf. Mulryne n.p.). Details of Kyd's life are scant until he was arrested on charges of libel on 11th May 1593: officers searched Kyd's lodgings and did not find libellous material; rather, they found material deeped heretical. Kyd was almost certainly tortured by 'strappado' and wrote letters upon his release claiming that the heretical material belonged to <rs xml:id="psn-cmar">Christopher Marlowe</rs>, with whom he was sharing lodgings. Kyd wrote these letters after Marlowe's death on 30th May 1593, and died himself shortly afterwards (Calvo and Tronch in Kyd 6-9).</note>
         <idno type="viaf">http://viaf.org/viaf/29614087</idno>
       </person>
       <person xml:id="psn-latr">
-        <persName>Miss La Trobe</persName>
-        <note>Character in Between the Acts</note>
+        <persName>La Trobe, Miss</persName>
+        <note>The semi-anonymous playwright in <hi rend="italic">BA</hi>. Miss La Trobe writes and directs the pageant that is performed in Woolf's 1941 novel. Eisenberg identifies La Trobe and <rs xml:id="psn-anon">Anon</rs> as counterparts (260) in an essay published in 1981 but drafted prior to Silver's publication of her edition of the 'Anon' drafts.</note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-lanc">
@@ -1091,7 +1091,8 @@
         <title level="b">The Spanish Tragedie: Or, Hieronimo is mad againe</title>
         <author>Kyd, Thomas</author>
         <event type="composition" when="1582-1592?" />
-        <note>OG revenge tragedy. Woolfs had 1898 edition in library.</note>
+        <event type="first attested performance" when="1592-02-23" />
+        <note>Jacobean drama written in the late 16th century by <rs xml:id="psn-kyd">Thomas Kyd</rs>, though only attributed to him after his death and considered anonymous until 1773. The play was most likely composed after the Battle of Terceira on the 26th July 1582 (Calvo and Tronch in Kyd 13) and certainly before the 23rd February 1592 performance that <rs xml:id="psn-phen">Philip Henslowe</rs> mentions in his diary (Henslowe CHECK). Though no record of its first performance survives, it was nonetheless 'one of the first and longest-lasting Renaissance box-office hits' (Calvo and Tronch in Kyd 1), and Kyd's play revitalises Senecan tragedy for the English stage and originates the revenge tragedy genre. The play narrates Hieronimo's elaborate quest for revenge over the murder of his son. Hieronimo's desire for revenge drives him mad, leading him to stage a play within a play that sees him kill his son's two murderers before biting out his own tongue and killing both the Duke of Castille and himself. The play was enormously influential on the Jacobean and Elizabethan stage, providing a theatrical lexis that would be deployed by playwrights includng, <hi rend="italic">inter alia</hi>, <rs xml:id="psn-wsha">Shakespeare</rs> (cf. <hi rend="italic">Titus Andronicus</hi>, <rs xml:id="psn-haml">Hamlet</rs>) and <rs xml:id="psn-tmid">Thomas Middleton</rs> (cf. <rs xml:id="lit-reve">The Revenger's Tragedy</rs>). The Woolfs had a standalone 1898 edition of this play in library, published as part of the Temple Dramatists series (cf. King and Miletic-Vejzovic n.p.). VW made notes on this edition in preparation for <hi rend="italic">CRI</hi> (cf. Silver XIX, XXV).</note>
         <idno type="viaf">http://viaf.org/viaf/179033447</idno>
       </bibl>
       <bibl xml:id="lit-tamb">
