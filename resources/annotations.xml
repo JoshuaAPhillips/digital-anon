@@ -733,7 +733,7 @@
       </person>
       <person xml:id="psn-mrwh">
         <persName>Mr. W.H.</persName>
-        <note>Mr. W.H., the unknown dedicatee of Shakespeare's Sonnets.</note>
+        <note>The pseudonymous dedicatee of <rs xml:id="psn-wsha">William Shakespeare</rs>'s Sonnets. Candidates include...</note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-wend">
@@ -1221,7 +1221,7 @@
         <placeName>Blackfriars</placeName>
         <region>London, England</region>
         <geo decls="#wgs">-0.103956 51.512205</geo>
-        <note>A district in the City of London between <rs xml:id="pla-stpa">St Paul's Cathedral</rs> and the Thames, centred around Blackfriars Bridge. The area is named for a priory of Dominican friars (known as 'black' friars owing to the colour of their garb), who acquired land here in 1275 (Chambers ii.473). Over the next three centuries the priory waned in influence, and its estates were dissolved in 1538 by <rs xml:id="hen8">Henry VIII</rs> (ii.476). Sir William More inherited the former priory in 1560 and a theatre was established in 1576 (ii.480, 496-7). This first theatre hosted companies of boy actors and shuttered in 1587. In 1596, More sold a portion of the building to James Burbage for £600 (ii.503). Orlando's remaining property was located here - CHECK note.</note>
+        <note>A district in the City of London between <rs xml:id="pla-stpa">St Paul's Cathedral</rs> and the Thames, centred around Blackfriars Bridge, which gave its name to two indoor, private playhouses, the latter associated with <rs xml:id="psn-wsha">William Shakespeare</rs> and his theatre company, The King's Men. The area is named for a priory of Dominican friars (known as 'black' friars owing to the colour of their garb), who acquired land here in 1275 (Chambers ii.473). Over the next three centuries the priory waned in influence, and its estates were dissolved in 1538 by <rs xml:id="hen8">Henry VIII</rs> (ii.476). Sir William More inherited the former priory in 1560 and a theatre was established in 1576 (ii.480, 496-7). This first theatre hosted companies of boy actors and shuttered in 1587. In 1596, More sold the building's refectory to James Burbage, father of the Shakespearean actor Richard Burbage, for £600 (ii.503). On James Burbage's death, his son inherited the theatre but he and the King's Men were prohibited from using it until 1609 (Edmond n.p.), after which time its decades-long association with Shakespeare began. The theatre was closed in 1642 after the English Civil War was won by the <rs xml:id="psn-puri">Puritans</rs>, who shuttered the theatres, and the building itself was torn down in 1655 (Chambers ii.515 - CHECK). Orlando's remaining property was located here - CHECK note.</note>
       </place>
       <place xml:id="pla-boca">
         <placeName>Bocardo, The</placeName>
