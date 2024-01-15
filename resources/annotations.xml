@@ -231,7 +231,7 @@
         <persName>Ford, John</persName>
         <event type="birth" date="1586?" />
         <event type="death" date="1639?" />
-        <note>John Ford, playwright. Known today for his 1631 tragedy 'Tis Pity She's a Whore. The Woolfs owned an edition of his plays, edited by Havelock Ellis and published as part of a series titled 'The Best Plays of the Old Dramatists.'</note>
+        <note>John Ford, playwright. Known today for his 1631 tragedy 'Tis Pity She's a Whore. The Woolfs owned an edition of his plays, edited by Havelock Ellis and published as part of the Mermaid series titled 'The Best Plays of the Old Dramatists' (cf. King and Miletic-Vejzovic n.p.).</note>
         <idno type="viaf">http://viaf.org/viaf/44323561</idno>
       </person>
       <person xml:id="psn-frana">
@@ -695,7 +695,7 @@
       </person>
       <person xml:id="psn-lucy">
         <persName>Swithin, Lucy</persName>
-        <note>A member of the Oliver family in <hi rend="italic">BA</hi>, and a denizen of Pointz Hall along with her brother <rs xml:id="psn-bart">Bartholomew Oliver</rs> and his descendants. Swithin has several nicknames, including Old Flimsy -- TBC.</note>
+        <note>A member of the Oliver family in <hi rend="italic">BA</hi>, and a denizen of Pointz Hall along with her brother <rs xml:id="psn-bart">Bartholomew Oliver</rs> and his descendants. Lucy's surname, Swithin, is most likely a reference to St. Swithin (c. 800-862), and his eponymous saints' day on July 15th. According to English folkloric tradition, if it rains on St. Swithin's day then it will rain for forty days thereafter; if the weather is fine then the next forty days will be fine.  has several nicknames, including Old Flimsy (CHECK), Batty (CHECK), and Cindy (CHECK). After the pageant, she tells <rs xml:id="psn-latr">La Trobe</rs> that the pageant made her feel she 'could have played <rs xml:id="psn-ancl">Cleopatra</rs>' CHECK -- TBC.</note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-arun">
@@ -1443,13 +1443,13 @@
         <placeName>Rose, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">???</geo>
-        <note>The Rose was a playhouse built by <rs xml:id="psn-phen">Philip Henslowe</rs> from 1587 in the Liberty of the Clink, <rs xml:id="pla-sout">Southwark</rs>, to the south of the modern-day Southwark Bridge (cf. Cerasano n.p.). Little is known about the early days of the playhouse: it took its name from a former rose garden upon which it was built, and Henslowe engaged in a joint venture with John Cholmley, 'citizen and grocer of London' to build a playhouse on the site in 1587, and thereafter we know from Henslowe's diary that performances were held from spring 1592 onwards. The playhouse that Henslowe built was most likely oval and thatched, and it was torn down around 1605 when Henslowe's lease on the site expired (Chambers ii.405-10, cf. also Henslowe i.13).</note>
+        <note>Old playhouse, I think.</note>
       </place>
       <place xml:id="pla-sout">
         <placeName>Southwark</placeName>
         <region>London, England</region>
         <geo decls="#wgs">-0.095336 51.507721</geo>
-        <note>District of London on the south bank of the Thames, where the Globe and other playhouses were situated.</note>
+        <note>District of London on the south bank of the Thames, across the river from the City of London and centred around <rs xml:id="pla-lobr">London Bridge</rs>. The <rs xml:id="pla-rose">Rose</rs> was the first playhouse to be built here in CHECK DATE, with several others, including The <rs xml:id="pla-glob">Globe</rs> following thereafter.</note>
       </place>
       <place xml:id="pla-stal">
         <placeName>St Albans</placeName>
