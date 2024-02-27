@@ -56,7 +56,7 @@
         <persName>Bacon, Anne</persName>
         <event type="birth" date="1527-8?" />
         <event type="death" date="1610-08-27" />
-        <note>Anne Bacon, mother of Francis Bacon</note>
+        <note>Anne Bacon was the mother of politician and philosopher <rs xml:id="psn-fbac">Francis Bacon</rs>, and a woman of great learning and intellect in her own right: she and her sisters were educated in ancient languages and theology from childhood. She published translations of the sermons of Bernadino Ochino from Italian (1548, 1551), and translated from Latin John Jewel's <hi rend="italic">Apologie of the Churche of Englande (1564)</hi>.  (Magnusson n.p.).</note>
         <idno type="viaf">http://viaf.org/viaf/100248817</idno>
       </person>
       <person xml:id="psn-fbac">
@@ -158,11 +158,6 @@
         <note>Character from Woolf's short story 'The Legacy' (1940), drafted in 1940 for <hi rend="italic">Harper's Bazaar</hi> but published posthumously in <hi rend="italic">HH</hi>. Gilbert Clandon is a minor politician sorting through the effects of his recently deceased wife <rs xml:id="psn-acla">Angela</rs>. He begins to read her diary and becomes convinced that she was having an affair with a man referred to as 'B.M.,' who introduced her to radical politics, and that she took her life in order to join 'B.M.' in death. Clandon's 'legacy,' it seems is 'the truth': that Angela had 'stepped off the kerb to rejoin her lover' and to 'escape from him' (<hi rend="italic">CSF</hi> 287)</note>
         <idno>N/A</idno>
       </person>
-      <person xml:id="psn-cleo">
-        <persName>Cleopatra</persName>
-        <note>Queen of Egypt</note>
-        <idno type="viaf">http://viaf.org/viaf/67762941</idno>
-      </person>
       <person xml:id="psn-aclif">
         <persName>Clifford, Anne</persName>
         <event type="birth" date="1590-01-30" />
@@ -176,7 +171,7 @@
         <persName>Cobham, Baron William Brooke</persName>
         <event type="birth" date="1527-11-01" />
         <event type="death" date="1597-03-06" />
-        <note>Baron Cobham, patron of Harrison - dedicated Description of England to him</note>
+        <note>William Brooke, tenth Baron Cobham, was a well-connected diplomat who acted as patron for <rs xml:id="psn-whar">William Harrison</rs>, who dedicated his <rs xml:id="lit-desc">Description of England</rs> to Brooke.</note>
         <idno type="viaf">http://viaf.org/viaf/3382863</idno>
       </person>
       <person xml:id="psn-ccol">
@@ -286,7 +281,7 @@
         <persName>Gower, John</persName>
         <event type="birth" date="1330?" />
         <event type="death" date="1408-10" />
-        <note>John Gower, poet. Nowt in Woolfs lib by him but maybe in RN, E?</note>
+        <note>John Gower was a trilingual poet who wrote Latin, French, and English poems of extraordinary length: the Latin <hi rend="italic">Vox Clamantis</hi> [The Crying Voice] is over 10,000 lines long, while the Anglo-Norman <hi rend="italic">Mirour de l'Omme</hi> [The Mirror of Man] and the Middle English <hi rend="italic">Confessio Amantis</hi> [The Lover's Confession] are both roughly 30,000 lines in length. Little documentary evidence survives to speak to his life, though he was evidently friends with <rs xml:id="psn-gcha">Geoffrey Chaucer</rs>. In the epilogue of <hi rend="italic">Confessio Amantis</hi>, Gower dedicates the poem to Chaucer (CHECK citation), while Chaucer's <hi rend="italic">Troilus and Criseyde</hi> mentions Gower (CHECK citations).</note>
         <idno type="viaf">http://viaf.org/viaf/120695167</idno>
       </person>
       <person xml:id="psn-greg">
@@ -1325,7 +1320,7 @@
         <placeName>Essex</placeName>
         <region>Essex, England</region>
         <geo decls="#wgs">0.473053 51.734533</geo>
-        <note>County.</note>
+        <note>Essex is a large county in south-east England, abutting <rs xml:id="pla-lond">London</rs>. It is bounded to the south by the Thames Estuary. It plays a minor role in the 'Anon' drafts: Woolf notes that <rs xml:id="psn-tbet">Thomas Betson</rs> was from Essex.</note>
       </place>
       <place xml:id="pla-fort">
         <placeName>Fortune, The</placeName>
@@ -1487,7 +1482,7 @@
         <placeName>Surbiton</placeName>
         <region>London, England</region>
         <geo decls="#wgs">-0.304227 51.392431</geo>
-        <note>Southern London suburb, surprisingly close to Hampton Court Park and Kingston. Funny, always thought it was further out.</note>
+        <note>A south-western <rs xml:id="pla-lond">London</rs> suburb, south of the Thames and across the river from Hampton Court Park.</note>
       </place>
       <place xml:id="pla-swan">
         <placeName>Swan, The</placeName>
