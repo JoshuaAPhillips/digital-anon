@@ -228,7 +228,9 @@
       </person>
       <person xml:id="psn-mirw">
         <persName>Irwin, Mariana</persName>
-        <note>A Mystery - do some digging. She marries Lord Sheffield, right? in Clifford, p. 89-90, married Lord Sheffield, a mean match, an undiscreet on part of him</note>
+        <event type="birth" date="1603?" />
+        <event type="death" date="1676?" />
+        <note>Very little has been written about the life of Mariana Irwin, beyond <rs xml:id="psn-aclif">Anne Clifford</rs>'s description of her marriage to <rs xml:id="psn-eshe">Edmund Sheffield</rs> as 'a mean match, an undiscreet on part of him' (89-90). The two married on 4 March 1619: he was 64; she 16 (Stater n.p.).</note>
       </person>
       <person xml:id="psn-fals">
         <persName>Falstaff</persName>
@@ -632,8 +634,8 @@
         <persName>Sheffield, Edmund</persName>
         <event type="birth" date="1611?" />
         <event type="death" date="1658-08-24" />
-        <note>Edmund Sheffield, 2nd Earl of Mulgrave, I think...</note>
-        <idno type="viaf">http://viaf.org/viaf/17109244</idno>
+        <note>Edmund Sheffield was an English courtier to <rs xml:id="psn-eliz">Elizabeth I</rs> and later <rs xml:id="psn-kjam">James I</rs>, who captained three ships as the Spanish Armada approached Britain in May 1588. On 4 March 1619, he married <rs xml:id="psn-mirw">Mariana Irwin</rs>, a marriage which <rs xml:id="psn-aclif">Anne Clifford</rs> described in her diary as 'a mean match, an undiscreet on part of him' (cf. Stater n.p., Clifford 89-90).</note>
+        <idno type="viaf">N/A</idno>
       </person>
       <person xml:id="psn-psid">
         <persName>Sidney, Sir Philip</persName>
