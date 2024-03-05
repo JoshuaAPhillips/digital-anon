@@ -429,7 +429,7 @@
         <persName>Leland, John</persName>
         <event type="birth" date="1503-09-13?" />
         <event type="death" date="1552-04-18" />
-        <note>John Leland, very influential antiquary and English historian. No idea what Woolf does with him.</note>
+        <note>John Leland was an English antiquary, historian, and collector of books whose <hi rend="italics">Itineraries</hi>, records of his journeys around England undertaken 1538-43, did much to establish local history as a methodology. Leland was a fervent believer in the historical reality of <rs xml:id="psn-kart">King Arthur</rs> and Arthurian legend: the only prose work he published in his lifetime was the Latin tract <hi rend="italics">Assertio inclytissimi Arturii regis Britanniae</hi>, which 'attempted to establish the validity of Arthur's historical existence' (Carley n.p.). His 1542 <hi rend="italics">Itinerary</hi> reports that Arthur's castle, <rs xml:id="pla-came">Camelot</rs>, was located in the Somerset village of <rs xml:id="pla-cadb">Cadbury</rs>, and that a silver horseshoe was found in the village (Leland I.151).</note>
         <idno type="viaf">http://viaf.org/viaf/14849374</idno>
       </person>
       <person xml:id="psn-lmay">
@@ -1251,7 +1251,7 @@
         <placeName>Cadbury</placeName>
         <region>Somerset, England</region>
         <geo decls="#wgs">-3.544679 50.836706</geo>
-        <note>Site of a hill fort in Somerset, England, according to Copilot, which seems to know a fair amount about small English towns. Thought to be Arthurian, which is probably the link.</note>
+        <note>South Cadbury is a small village in Somerset, England, and the site of Cadbury Castle, a sprawling neolithic hillfort that spans some 18 acres. In his <hi rend="italics">Itinerary</hi> of 1542, antiquary <rs xml:id="psn-jlel">John Leland</rs> identifies Cadbury Castle as the site of <rs xml:id="psn-kart">King Arthur</rs>'s castle, <rs xml:id="pla-came">Camelot</rs> (Leland I.151).</note>
       </place>
       <place xml:id="pla-camb">
         <placeName>Cambridge</placeName>
