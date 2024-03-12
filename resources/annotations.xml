@@ -304,7 +304,7 @@
         <persName>Harrison, William</persName>
         <event type="birth" date="1534-04-18" />
         <event type="death" date="1593-04-24" />
-        <note>William Harrison, author of <rs xml:id="lit-desc">A Description of England</rs> (CHECK)</note>
+        <note>William Harrison, was a cleric and historian. He was household chaplain to <rs xml:id="psn-wcob">William Brooke</rs>, tenth Baron Cobham, who would later institute him as rector of the parish of <rs xml:id="pla-radw">Radwinter</rs> in Essex. In the 1560s and '70s, he embarked on a historiographical project that was ambitious, to say the least, working on a manuscript titled <hi rend="italics">Chronological computations from the beginning of the world to his own times</hi>, which he later expanded into <hi rend="italics">The great English chronology</hi> (Parry n.p.). In 1576, <rs xml:id="psn-rhol">Raphael Holinshed</rs> commissioned Harrison to write <rs xml:id="lit-desc">A Description of England</rs>, which formed part of Holinshed's <rs xml:id="lit-chro">Chronicles</rs>. Harrison dedicated his <hi rend="italics">Description</hi> to Baron Cobham. </note>
         <idno type="viaf">http://viaf.org/viaf/30613815</idno>
       </person>
       <person xml:id="psn-hen8">
@@ -323,9 +323,10 @@
       </person>
       <person xml:id="psn-mher">
         <persName>Herbert, Mary</persName>
-        <event type="birth" date="?" />
+        <event type="birth" date="27-10-1561" />
         <event type="death" date="?" />
-        <note>Possibly Mary Herbert (nee Sidney), Countess of Pembroke of Countess of Pembroke's Arcadia fame http://viaf.org/viaf/32005754 or her granddaughter, Mary Herbert... Do some digging</note>
+        <note>Mary Herbert (née Sidney), was a poet, translator, and literary patron. She was the sister of <rs xml:id="psn-psid">Philip Sidney</rs> and their brother <rs xml:id="psn-rsid">Robert</rs>. She received a humanist education at home before joining the court of <rs xml:id="psn-eliz">Elizabeth I</rs>, marrying Henry Herbert, second earl of Pembroke in 1577. She and her husband lived at <rs xml:id="pla-wilt">Wilton House</rs>. Philip Sidney dedicated <hi rend="italics">The Countess of Pembroke's Arcadia</hi> (1593). After Philip's death in 1586 she continued to act as patron for many poets who had benefited from her brother's largesse, and she was a skilled poet and translator in her own right, creating a virtuosic translation of the Book of Psalms.</note>
+        <idno type="viaf">http://viaf.org/viaf/32005754</idno>
       </person>
       <person xml:id="psn-they">
         <persName>Heywood, Thomas</persName>
@@ -338,19 +339,19 @@
         <persName>Hobbes, Thomas</persName>
         <event type="birth" date="1588-04-05" />
         <event type="death" date="1679-12-20" />
-        <note>Thomas Hobbes, philosopher. Woolfs had two copies of his <hi rend="italic">Leviathan</hi> and one of his <hi rend="italic">Behemoth, or The Long Parliament</hi> in their library.</note>
+        <note>Thomas Hobbes was a philosopher whose work both speaks to the political turmoil of sixteenth and seventeenth century Britain and is of enormous importance to later political theory. <hi rend="italics">LLVW</hi> contains two copies of his 1651 <hi rend="italic">Leviathan</hi> (one of which bears LW's annotations) and one copy of his <hi rend="italic">Behemoth, or The Long Parliament</hi> (1668; pub'd posthumously in 1681) in their library.</note>
         <idno type="viaf">http://viaf.org/viaf/59083895</idno>
       </person>
       <person xml:id="psn-rhol">
         <persName>Holinshed, Raphael</persName>
         <event type="birth" date="1525?" />
         <event type="death" date="1580-01-24?" />
-        <note>Raphael Holinshed, chronicler. Author of whatever</note>
+        <note>Raphael Holinshed was a historian who was employed in Reyner Wolfe's printing house to assist Wolfe's ambitious project to create a ' "universal cosmographie"' (Clegg n.p.). Holinshed did not quite manage to create a universal history, but he nonetheless was able to publish the first edition of the <hi rend="italics">Chronicles of England, Scotland, and Ireland</hi> in 1577 in two lavishly-produced volumes. The <hi rend="italics">Chronicles</hi> was expanded significantly seven years after Holinshed's 1580 death (Clegg). <rs xml:id="psn-whar">William Harrison</rs>'s <hi rend="italics">Description of England</hi> is collected in both editions. Though the history Holinshed's volumes told was not the most accurate, it was vastly influential nonetheless, providing a source text for many of <rs xml:id="psn-wsha">Shakespeare</rs>'s history plays, <rs xml:id="lit-lear">King Lear</rs>, <rs xml:id="lit-macb">Macbeth</rs>, and <hi rend="italics">Cymbeline</hi>.</note>
         <idno type="viaf">http://viaf.org/viaf/100254818</idno>
       </person>
       <person xml:id="psn-rhoo">
         <persName>Hood, Robin</persName>
-        <note>Robin Hood, quasi-mythical outlaw who lived in Sherwood Forest, Nottingham.</note>
+        <note>Robin Hood is a legendary outlaw hero. Tales of his deeds date from as early as 1450 (Holt n.p.) and, popularly, he lived in Sherwood Forest, Nottinghamshire, with his band of Merry Men and stole from the rich in order to give to the poor. CHECK Latimer sermon references</note>
       </person>
       <person xml:id="psn-hibs">
         <persName>Ibsen, Henrik</persName>
@@ -655,7 +656,7 @@
         <persName>Sidney, Robert</persName>
         <event type="birth" date="1563-11-19" />
         <event type="death" date="1626-07-13" />
-        <note>Robert Sidney, First Earl of Leicester, was the younger brother of <rs xml:id="psn-psid">Sir Philip Sidney</rs>. Patron of arts, Ben Jonson wrote about Penshurst (LOOK UP!).</note>
+        <note>Robert Sidney, first earl of Leicester, was the brother of <rs xml:id="psn-psid">Sir Philip Sidney</rs> and <rs xml:id="psn-mher">Mary Herbert (née Sidney)</rs>, and the father of poet Mary Wroth. Much like his brother, he was a courtier and a poet: their father 'urged [Robert Sidney] to imitate his elder brother in all things' (Shephard n.p.). He met with the approval of both <rs xml:id="psn-eliz">Elizabeth I</rs> and her successor <rs xml:id="psn-kjam">James</rs> and later in life maintained <rs xml:id="pla-pens">Penshurst</rs> as a locus of courtly literary culture.</note>
         <idno type="viaf">http://viaf.org/viaf/9855501</idno>
       </person>
       <person xml:id="psn-skin">
@@ -719,7 +720,7 @@
         <persName>Howard, Aletheia, Countess of Arundel</persName>
         <event type="birth" date="1585-11-28" />
         <event type="death" date="1654-06-09" />
-        <note>Aletheia Howard, Countess of Arundel, of Surrey, and of Norfolk, is mentioned in passing here as an associate of <rs xml:id="psn-aclif">Anne Clifford</rs> but important in her own right. A granddaughter of Bess of Hardwick, and sister to <rs xml:id="psn-mher">Mary Herbert, Countess of Pembroke</rs>, Howard was a patron of the visual arts both in Britain and in Italian cities including Venice, where she lived in 1622. During her sojourn there, she was accused of treason by the Doge but exonerated herself. She spent the final fourteen years of her life in exile in Amsterdam. A work of domestic science bearing her engraving on the flyleaf and titled <hi rend="italic">Natura Exenterata</hi> has been attributed to her (cf. DiMeo, Anonymous [attr. Aletheia Howard, Countess of Arundel]).</note>
+        <note>Aletheia Howard, Countess of Arundel, of Surrey, and of Norfolk, is mentioned in passing here as an associate of <rs xml:id="psn-aclif">Anne Clifford</rs> but important in her own right. A granddaughter of Bess of Hardwick, and sister to <rs xml:id="psn-egre">Elizabeth Grey, countess of Kent</rs>, Howard was a patron of the visual arts both in Britain and in Italian cities including Venice, where she lived in 1622. During her sojourn there, she was accused of treason by the Doge but exonerated herself. She spent the final fourteen years of her life in exile in Amsterdam. A work of domestic science bearing her engraving on the flyleaf and titled <hi rend="italic">Natura Exenterata</hi> has been attributed to her (cf. DiMeo, Anonymous [attr. Aletheia Howard, Countess of Arundel]).</note>
         <idno type="viaf">http://viaf.org/viaf/78504431</idno>
       </person>
       <person xml:id="psn-aten">
@@ -740,7 +741,7 @@
         <persName>Trevelyan, George Macaulay</persName>
         <event type="birth" date="1876-02-16" />
         <event type="death" date="1962-07-21" />
-        <note>G.M. Trevelyan was an eminent historian associated with Trinity College, Cambridge. Was he there same time as LW?. In addition to histories of England and Britain, wrote a trilogy of works on Garibaldi. Seven works in library.</note>
+        <note>G.M. Trevelyan was a historian whose popular works sought to engage in nation-building and the construction of what he called 'Englishry' (cf. Cannadine, n.p.). During his time at Trinity College, Cambridge, he was elected as an Apostle (though he left Cambridge in 1903, the same year that LW arrived). VW uses his <hi rend="italics">History of England</hi> (1926) as a source for the 'Anon' drafts, quoting from its opening pages and citing it in M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. (cf. also Silver XXXVII). As well as histories of England and Britain, Trevelyan wrote a trilogy of works on Garibaldi, figuring him as a 'Carlylean hero' and a 'champion of freedom, progress, and tolerance' (Cannadine n.p.). <hi rend="italics">LLVW</hi> contains seven works by Trevelyan, including the <hi rend="italics">History of England</hi> from which VW quotes: this volume contains LW's annotations.</note>
         <idno type="viaf">http://viaf.org/viaf/24609782</idno>
       </person>
       <person xml:id="psn-unkn">
@@ -769,14 +770,14 @@
         <persName>Wriothesley, Henry</persName>
         <event type="birth" date="1573-10-06" />
         <event type="death" date="1624-11-10" />
-        <note>Henry Wriothesley, 3rd Earl of Southampton. Dedicatee of Shax's <hi rend="italic">Venus and Adonis</hi> and <hi rend="italic">The Rape of Lucrece</hi> and has been identified as the Fair Youth of Shakespeare's sonnets (BY WHOMST)? Pronounced 'Risley'.</note>
+        <note>Henry Wriothesley, third earl of Southampton was a literary patron and courtier. He was briefly patron of <rs xml:id="psn-wsha">William Shakespeare</rs>: Shakespeare dedicated his two long poems <hi rend="italic">Venus and Adonis</hi> (1593) and <hi rend="italic">The Rape of Lucrece</hi> (1594) to Wriothesley.</note>
         <idno type="viaf">http://viaf.org/viaf/35252941</idno>
       </person>
       <person xml:id="psn-jwyc">
         <persName>Wycliffe, John</persName>
         <event type="birth" date="1328?" />
         <event type="death" date="1384-12-31" />
-        <note>Bible Guy.</note>
+        <note>John Wycliffe was a scholastic philospher and theologian, reformist priest, and Biblical translator active in the fourteenth century. Though his theological views, which anticipated those of the later Protestant reformation, were controversial enough to spark a riot in 1376 and a Papal bull censuring him, his most lasting achievement was probably the Wycliffite Bible, the first complete English translation of the Bible. His followers were known as Lollards, and were active throughout England until the 1500s.</note>
         <idno type="viaf">http://viaf.org/viaf/98313983</idno>
       </person>
       <person xml:id="psn-yeat">
