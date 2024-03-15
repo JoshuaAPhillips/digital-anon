@@ -351,7 +351,7 @@
       </person>
       <person xml:id="psn-rhoo">
         <persName>Hood, Robin</persName>
-        <note>Robin Hood is a legendary outlaw hero. Tales of his deeds date from as early as 1450 (Holt n.p.) and, popularly, he lived in Sherwood Forest, Nottinghamshire, with his band of Merry Men and stole from the rich in order to give to the poor. CHECK Latimer sermon references</note>
+        <note>Robin Hood is a legendary outlaw hero. Tales of his deeds date from as early as 1450 (Holt n.p.) and, popularly, he lived in Sherwood Forest, Nottinghamshire, with his band of Merry Men and stole from the rich in order to give to the poor. CHECK Latimer sermon references. VW's handmade index to Edward Arber's <hi rend="italics">English Garner</hi> anthology has an entry titled 'Hood, Robin, song of' ('Arber Anthology Index fol. 9r).</note>
       </person>
       <person xml:id="psn-hibs">
         <persName>Ibsen, Henrik</persName>
@@ -602,7 +602,7 @@
         <persName>Raleigh, Sir Walter</persName>
         <event type="birth" date="1552?" />
         <event type="death" date="1618-10-29" />
-        <note>Favourite of Queen Elizabeth, discovered potatoes, despite contribution to British cuisine this did not save him from the axe.</note>
+        <note>Sir Walter Raleigh wore several hats: he was a courtier and favourite of <rs xml:id="psn-eliz">Elizabeth I</rs>, a soldier in Ireland, a colonist in Virginia, an explorer who searched for El Dorado, and a propagandist and poet. He is popularly credited with introducing tobacco and the potato to Britain; despite his putative contributions to British cuisine, he did not find favour with <rs xml:id="psn-kjam">James I</rs>, who had him executed (Nicholls and Williams n.p.). VW reviewed a selection of Raleigh's prose for <hi rend="italics">TLS</hi>, published 15 March 1917 (<hi rend="italics">E</hi>2 91-96). VW's handmade index to Edward Arber's <hi rend="italics">English Garner</hi> anthology notes has two entries for Raleigh's writing ('Arber Anthology Index fol. 20r).</note>
         <idno type="viaf">http://viaf.org/viaf/68938944</idno>
       </person>
       <person xml:id="psn-raph">
@@ -884,7 +884,7 @@
       <bibl xml:id="lit-ever">
         <title level="a">Everyman</title>
         <author>Anonymous</author>
-        <date>Before 1510</date>
+        <date type="">Before 1510</date>
         <note>English morality play, probably based on Dutch play <hi rend="italic">Elckerlyc</hi>.</note>
         <idno type="viaf">http://viaf.org/viaf/305230637</idno>
       </bibl>
@@ -904,17 +904,18 @@
       </bibl>
       <bibl xml:id="lit-fide">
         <title level="a">Fidelio</title>
+        <title level="b">Leonore, oder Der Triumph der ehelichen Liebe</title>
         <author>Beethoven, Ludwig van</author>
-        <date>1805</date>
-        <note><rs xml:id="psn-lvbe">Ludwig Van Beethoven</rs>'s only opera'. Have to admit I'm unsure why this in particular...</note>
+        <date type="first performance">1805</date>
+        <note>The only opera by <rs xml:id="psn-lvbe">Ludwig Van Beethoven</rs>. The opera's hero, Leonore, disguises herself as a boy named Fidelio to free her husband from death in a political prison. In a May 1934 letter addressed to Ethel Smyth, VW complains that her plans to see Fidelio were derailed by '[t]his d––––d influenza' (<hi rend="italics">L</hi> 5 302-3, no. 2891).</note>
         <idno type="viaf">http://viaf.org/viaf/34145304849278610464</idno>
       </bibl>
       <bibl xml:id="lit-gamme">
         <title level="a">Gammer Gurton's Needle</title>
-        <title level="b">A Ryght Pithy, Pleasaunt and merrie Comedie: Intytuled Gammer gurtons Nedle</title>
-        <date>1575?</date>
+        <title level="b">A Ryght Pithy, Pleasaunt and merrie Comedie: Intytuled Gammer gurtons Nedle played on stage, not longe a go in Christes Colledge in Cambridge</title>
+        <date type="first printed edition">1575</date>
         <author>Anonymous</author>
-        <note>Something here.</note>
+        <note>The authorship and composition date of <hi rend="italics">Gammer Gurton's Needle</hi> are both unknown, though the earliest edition of the play dates from 1575: its title page attests that it was 'played on stage not longe a goe' in Cambridge (Gammer Gurton fol. 1r). The play's plot is simple: Gammer Gurton is at work patching her servant's breeches and chaos erupts when she loses her needle. In <hi rend="italics">BA</hi>, <rs xml:id="psn-lucy">Lucy Swithin</rs> says that the villagers performed <hi rend="italics">Gammer Gurton's Needle</hi> one year (43). Hussey notes that Angelica Bell acted in a touring production of the play in 1938, which VW saw on 13 August (Hussey in <hi rend="italics">BA</hi> 188).</note>
         <idno type="viaf">http://viaf.org/viaf/179836672</idno>
       </bibl>
       <bibl xml:id="lit-gard">
@@ -1045,8 +1046,8 @@
         <title level="a">The Magic Flute</title>
         <title level="b">Die Zauberflöte</title>
         <author>Mozart, Wolfgang Amadeus</author>
-        <event type="composition" when="1791" />
-        <note>K. 620. Does Woolf discuss it elsewhere?</note>
+        <event type="premiere" when="1791" />
+        <note>Mozart's final opera, which premiered only two months before his death in December 1791. In <hi rend="italics">Virginia Woolf and the Languages of Patriarchy</hi>, Jane Marcus suggests VW composed <hi rend="italics">ND</hi> as a 'modern <hi rend="italics">Magic Flute</hi> (Marcus 20), while in the same novel William Rodney 'pick[s] out the melodies in "The Magic Flute" upon the piano' while waiting for Katharine Hilbery (<hi rend="italics">ND</hi> 295). In 'The Modern Essay,' published initially as 'Modern Essays' in <hi rend="italics">TLS</hi> on 30 November 1922 and revised for inclusion in <hi rend="italics">CRI</hi>, VW gestures to Mozart's opera. She writes that the modern essay is shorter in length than its forebears but it has 'brought about a corresponding expansion of individuality. We no longer have the "I" of Max [Beerbohm] or [Walter] Lamb, but the "we" of public bodies and other sublime personages. It is "we" who go to hear the <hi rend="italics">Magic Flute</hi>; "we" who ought to profit by it; "we," in some mysterious way, who, in our corporate capacity, once upon a time actually wrote it' (<hi rend="italics">E</hi>4 223).</note>
         <idno type="viaf">http://viaf.org/viaf/176580465</idno>
       </bibl>
       <bibl xml:id="lit-mids">
@@ -1355,7 +1356,7 @@
         <placeName>Gorhambury</placeName>
         <region>Hertfordshire, England</region>
         <geo decls="#wgs">-0.366667 51.766667</geo>
-        <note>The Bacons' house.</note>
+        <note>A country estate to the west of the city of <rs xml:id="pla-stal">St Albans</rs>, Hertfordshire. It is the ancestral home of the Bacon family, and both <rs xml:id="psn-abac">Anne Bacon</rs> and <rs xml:id="psn-fbac">her son, Francis</rs> lived here, though the Elizabethan house they inhabited is now in ruins.</note>
       </place>
       <place xml:id="pla-gray">
         <placeName>Gray's Inn</placeName>
@@ -1415,7 +1416,7 @@
         <placeName>Lundy</placeName>
         <region>Devon, England</region>
         <geo decls="#wgs">-4.667988 51.176276</geo>
-        <note>Small island off the coast of Devon. Beloved of puffins.</note>
+        <note>Lundy is a small island in the Bristol Channel, off the coast of Devon, England, inhabited by a flock of puffins and other seabirds. It is unclear why VW mentions Lundy in this context, though in <rs xml:id="lit-macb">Macbeth</rs>, the First Witch says that she will sail 'in a sieve' to Aleppo (<hi rend="italics">Macb</hi> I.iii, l. 8).</note>
       </place>
       <place xml:id="pla-merm">
         <placeName>Mermaid, The</placeName>
@@ -1529,7 +1530,7 @@
         <placeName>Wilton House</placeName>
         <region>Salisbury, England</region>
         <geo decls="#wgs">-1.859372 51.078023</geo>
-        <note>Country house in Wiltshire, England. Where the Herberts lived. VW visited, cf PA(188-90)</note>
+        <note>A village in Wiltshire, England, which gives its name to a country house, which was the home of the Herbert family, the earls of Pembroke: <rs xml:id="psn-mher">Mary Herbert</rs> lived here after marrying Henry Herbert, third earl. VW visited Wilton on a family holiday to Wiltshire in 1903, writing two sketches about her trip. The first, 'Wilton – From Outside the Walls' describes the village of Wilton as 'more smug &amp; well pleased with itself than the majority of English villages [...] that sit in the shadow of a great house,' leading her to conclude that 'it is safe to say that the feudal spirit in England is not yet dead' (<hi rend="italics">PA</hi> 188-90). VW returned at a later date, when the house was open to the public and 'the public [could] enter the great gates of Wilton as freely as any Herbert in the land.' She was not altogether pleased with the excursion: 'Honestly, I was disappointed in my first view of a great house. I had imagined something more spacious &amp; more harmonious.' Returning to the diary entry a week later, she writes: 'I can find nothing very profitable to say about the beauties of Wilton' (196).</note>
       </place>
       <place xml:id="pla-winc">
         <placeName>Winchester</placeName>
