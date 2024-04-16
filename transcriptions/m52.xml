@@ -1783,7 +1783,7 @@
               <sic>E  ry man</sic>
               <corr>Everyman</corr>
             </choice></rs>,</l>
-          <l>not <rs>St Georges</rs> play but <rs type="literary-work" ref="../resources/annotations.xml#lit-faus" key="Doctor Faustus">Faust</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">
+          <l>not <rs xml:id="psn-stge" ref="../resources/annotations.xml#psn-stge" key="Saint George">St Georges</rs> play but <rs type="literary-work" ref="../resources/annotations.xml#lit-faus" key="Doctor Faustus">Faust</rs>, <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">
             <choice>
               <sic>Tamberlaine</sic>
               <corr>Tamburlaine</corr>
