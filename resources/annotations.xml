@@ -660,7 +660,7 @@
         <idno type="viaf">http://viaf.org/viaf/9855501</idno>
       </person>
       <person xml:id="psn-skin">
-        <note>CHECK – steamed hams steamed hams steamed hams</note>
+        <note>Perhaps Rev. John Skinner, one of the two parsons from CRII?</note>
       </person>
       <person xml:id="psn-sohr">
         <persName>Sohrab</persName>
@@ -960,10 +960,11 @@
         <idno type="viaf">http://viaf.org/viaf/176993890</idno>
       </bibl>
       <bibl xml:id="lit-hear">
-        <title level="a">The Heart of Darkness</title>
+        <title level="a">Heart of Darkness</title>
         <author>Conrad, Joseph</author>
         <event type="serialisation" notBefore="1899-02" notAfter="1899-04" />
-        <note>Woolf makes a passing reference to Joseph Conrad's novella <hi rend="italics">Heart of Darkness</hi> here.  but VW reviewed a 22-volume collected works (Dent, 1923-28) – find review.</note>
+        <event type="publication" when="1902" />
+        <note>Woolf makes a passing reference to Joseph Conrad's novella 'Heart of Darkness' here. Conrad's novel was initially serialised in <hi rend="italics">Blackwood's Edinburgh Magazine</hi> in 1899 and published by Blackwood in 1802 as part of the volume <hi rend="italics">Youth: A Narrative and Two Other Stories"</hi>. Woolf reviews the 1917 J.M. Dent reissue of this volume for <hi rend="italics">TLS</hi> (<hi rend="italics">E</hi>2 158-60), and  mentions 'Heart of Darkness' in her 1917 review of <hi rend="italics">Lord Jim</hi> (<hi rend="italics">E</hi>2 141).<hi rend="italics">LLVW</hi> does not contain a standalone copy of the Blackwood volume but it does have a later version collected as part of the 22-volume collected works published by J.M. Dent (1923-28). Woolf reviewed the first tranche of this edition in 1923 for <hi rend="italics">Nation &amp; Athenaeum</hi>: her essay, 'Mr Conrad: A Conversation' does not discuss 'Heart of Darkness' specifically, but the conversationalists do discuss Marlow, the narrator of many of Conrad's stories including 'Heart of Darkness' (<hi rend="italics">E</hi>3377-8). Similarly, VW's 1924 obituary of Conrad for <hi rend="italics">TLS</hi> (collected in <hi rend="italics">CR</hi>I, 1925) does not cite 'Heart of Darkness' but does discuss Marlow (<hi rend="italics">E</hi>4 231).</note>
         <idno type="viaf">http://viaf.org/viaf/182831945</idno>
       </bibl>
       <bibl xml:id="lit-hen5">
