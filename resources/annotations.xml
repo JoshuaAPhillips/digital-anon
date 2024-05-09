@@ -118,7 +118,7 @@
         <persName>Burton, Robert</persName>
         <event type="birth" date="1557-02-08" />
         <event type="death" date="1640-01-25" />
-        <note>Robert Burton was the author of <rs xml:id="lit-anat">The Anatomy of Melancholy</rs>, first published in 1621 and significantly expanded by Burton in the years following this: it grew 'by more than two thirds of its original size' over the thirty years from its initial publication to the publication of the final edition to bear Burton's additions in 1651 (Gowland in Burton xviii). Burton was a life-long student of Christ Church College, Oxford, where he studied theology and practiced an eclectic autodidacticism. Though he held positions other than that of the 'tumbler over of other mens books' (M112, Set 3 of 3 [The Reader: so long as the play was dominant.] fol. 1r) the <hi rend="italics">Anatomy</hi> was his life's work, and little else by him survives beyond a Latin university comedy titled <hi rend="italics">Philophaster</hi> (1606-15).</note>
+        <note>Robert Burton was the author of <rs xml:id="lit-anat">The Anatomy of Melancholy</rs>, first published in 1621 and significantly expanded by Burton in the years following this: it grew 'by more than two thirds of its original size' over the thirty years from its initial publication to the publication of the final edition to bear Burton's additions in 1651 (Gowland in Burton xviii). Burton was a life-long student of Christ Church College, Oxford, where he studied theology and practiced an eclectic autodidacticism. Though he held positions other than that of the 'tumbler over of other mens books' (M112, Set 3 of 3 [The Reader: so long as the play was dominant.] fol. 1r) the <hi rend="italics">Anatomy</hi> was his life's work, and little else by him survives beyond a Latin university comedy titled <hi rend="italics">Philophaster</hi> (1606-15). </note>
         <idno type="viaf">http://viaf.org/viaf/24641986</idno>
       </person>
       <person xml:id="psn-cato">
@@ -818,8 +818,9 @@
       <bibl xml:id="lit-amba">
         <title level="a">The Ambassadors</title>
         <author>James, Henry</author>
-        <event type="publication" when="1903" />
-        <note>Something here.</note>
+        <event type="composition" when="1900-1" />
+        <event type="serialization" when="1903" />
+        <note><rs xml:id="psn-hjam">Henry James</rs>'s 1903 comedy details Lambert Strether's journey to Europe to bring the wayward Chad Newsome back to work at his family's business in Massachusetts. VW did not take notes on this work, nor is there a copy in LLVW. However, in a letter to Katherine Arnold-Forster (Ka Cox) sent 01 January 1920, she writes that she is planning to work on 'Henry James' letters [...] — unless someone else has done it for me.' She notes that she 'shan't be sorry since I'm stuck in the Ambassadors' (<hi rend="italics">L</hi>2 411. §. 1107). Two years later, in 'On Re-reading Novels,' she writes that James 'surmounts in <hi rend="italics">The Ambassadors</hi> problems which baffled [Samuel] Richardson in <hi rend="italics">Clarissa</hi>' and that in James's novel 'there is not a hint of a yawn, not a sign of condescension' (<hi rend="italics">E</hi>2 343, 344).</note>
         <idno type="viaf">http://viaf.org/viaf/179763698</idno>
       </bibl>
       <bibl xml:id="lit-anat">
@@ -827,12 +828,12 @@
         <title level="b">The Anatomy of Melancholy, What it is: With all the Kinds, Causes, Symptomes, Prognostickes, and Several Cures of it. In Three Maine Partitions with their several Sections, Members, and Subsections. Philosophically, Medicinally, Historically, Opened and Cut Up</title>
         <author>Burton, Robert</author>
         <date>1621</date>
-        <note>Three editions, including a fourth edition dating from 1632, one from 1676 given to VW by Violet Dickinson, the third signed by LW.</note>
+        <note><rs xml:id="psn-rbur">Robert Burton</rs>'s encyclopaedic investigation into melancholy, published initially in 1621 and significantly expanded in subsequent editions. VW took notes on this compendious work in preparation for the 'Anon' drafts (cf. <hi rend="italics">RN</hi> 16) but it is likely that she encountered the <h rend="italics">Anatomy</h> far earlier. LLVW contains three editions of the text: a fourth edition dating from 1632, a 1676 edition presented to VW by her lifelong friend Violet Dickinson, the third a three-volume 1893 edition signed by Leonard Woolf. Burton's work holds a privileged place in Woolf's literary-historical narrative as a document of incipient modernity whose inwardness and involution brings the figure of the reader into focus and ends anonymity.</note>
         <idno type="viaf">http://viaf.org/viaf/175756847</idno>
       </bibl>
       <bibl xml:id="lit-ancl">
         <title level="a">Antony and Cleopatra</title>
-        <title level="b">The Tragedie of Anhtonie, and Cleopatra</title>
+        <title level="b">The Tragedie of Antonie, and Cleopatra</title>
         <author>Shakespeare, William</author>
         <event type="composition" when="1606-7" />
         <event type="publication" when="1623" />
