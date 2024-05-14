@@ -899,9 +899,10 @@
       </bibl>
       <bibl xml:id="lit-stra">
         <title level="a">Elizabeth and Essex</title>
+        <title level="b">Elizabeth and Essex: A Tragic History</title>
         <author>Strachey, Lytton</author>
-        <date>1928</date>
-        <note>Cf. The Art of Biography (1939).</note>
+        <event type="publication" when="1928" />
+        <note>A reference to Lytton Strachey's 1928 dual biography of <rs xml:id="psn-eliz">Elizabeth I</rs> and Robert Devereux, second earl of Essex, an erstwhile favourite of Elizabeth who led an attempted coup against her in 1601. VW was not a fan, calling it a 'lively superficial meretricious book' in her diary entry of 28 November 1928 (<hi rend="italics">D</hi>3 208). She discussesd broaching the subject with Strachey in a diary entry of 15 June 1929, six months after the publication of <hi rend="italics">Elizabeth and Essex</hi>. It is a 'painful' conversation but 'we were glad to say it, &amp; have this reserve over.' She describes Strachey's 'suppression of irony; his being tied by the story; the difficulty of using reality imaginatively; a wrong subject for him [which] could only be treated imaginatively' (233-4). In 'The Art of Biography' (1939), she writes that despite its 'failure,' Strachey's work was the 'result of a daring experiment carried out with magnificent skill, lead[ing] the way to further discoveries' (E<hi rend="italics">6</hi> 185).</note>
         <idno type="viaf">http://viaf.org/viaf/294456136</idno>
       </bibl>
       <bibl xml:id="lit-essa">
@@ -936,10 +937,13 @@
         <idno type="viaf">http://viaf.org/viaf/313693962</idno>
       </bibl>
       <bibl xml:id="lit-faus">
-        <title level="a">The Tragical History of Doctor Faustus</title>
+        <title level="a">Doctor Faustus</title>
+        <title level="b">The Tragical History of the Life and Death of Doctor Faustus</title>
         <author>Marlowe, Christopher</author>
-        <date>1592-1593</date>
-        <note>Fastarse.</note>
+        <event type="composition" notAfter="1593-05-30" />
+        <event type="first attested performance" when="1654-09-30" />
+        <event type="publication" when="1616" />
+        <note>Probably the last play <rs xml:id="psn-cmar">Christopher Marlowe</rs> wrote before his death. Woolf read the play at least twice: she writes in a letter to Thoby Stephen dated 1901 that she has been reading Marlowe and 'was much more impressed by him than I thought I should be.' She had read 'Dr Faustus, and Edward II' and thought Marlowe's characters were drawn 'with more humanity' than those of the 'great man' <rs xml:id="psn-wsha">Shakespeare</rs>, whom Thoby idolised (<hi rend="italics">L</hi>1 45-6, §. 39). Her youthful enthusiasm for the play evidently faded by the time she came to take notes on the play twenty-two years later, in August 1923. She writes that <hi rend="italics">Faustus</hi> is a 'very poor play compared with the two <rs xml:id="lit-tamb">Tamburlaines</rs>' calling it 'short, scrappy cut up [...] far less rich &amp; harmonious than the other two' (<hi rend="italics">RN</hi> 25). In her diary entry for 25 December 1931 she writes of reading 'Faust' but it is not clear whether she refers to Marlowe's play or Goethe's (1808; 1832), a German-language copy of which is in LLVW with Leonard Woolf's signature.</note>
         <idno type="viaf">http://viaf.org/viaf/174770715</idno>
       </bibl>
       <bibl xml:id="lit-fide">
@@ -1179,7 +1183,9 @@
         <title level="a">Tamburlaine the Great</title>
         <author>Marlowe, Christopher</author>
         <event type="composition" when="1587-1588" />
-        <note>Two-parter. A close second for title of most extra renaissance drama.</note>
+        <event type="first attested performance (part one)" when="1587?" />
+        <event type="publication (O1)" when="1590" />
+        <note><rs xml:id="psn-cmar">Christopher Marlowe</rs>'s two-part historical epic play vividly and viscerally depicts the Scythian shepherd Tamburlaine's rise to become ruler of a vast empire and his subsequent demise after burning the Qu'ran and rhetorically challenging the prophet Mohammed. It was evidently a crowd-pleaser, being frequently performed at <rs xml:id="psn-phen">Philip Henslowe</rs>'s <rs xml:id="pla-rose">Rose</rs> playhouse. VW took notes on both parts of the play, although non-consecutively. Her notes are collected in a composite notebook kept from 1922 to 1928, made up of loose leaf paper. In August 1923: she read the second part alongside <rs xml:id="lit-faus">Doctor Faustus</rs> and The Jew of Malta, writing that 'T. can embody his greater extreme of thought in words w. topple over, not ridiculous, so much as unwieldy' (<hi rend="italics">RN</hi>25 28-30), while at some other point she read the first part of the play. Though this set of notes are sequenced after those taken in the summer of 1923, it is plausible that she read it beforehand, based on her observation that she expected Tamburlaine to face a 'downfall after his behaviour, to the virgins especially' (<hi rend="italics">RN</hi>25 39-41). Tamburlaine does not face his expected downfall until the end of part two. Though she discusses Marlowe in essays and novels, she does not mention either play by name elsewhere in her corpus.</note>
         <idno type="viaf">http://viaf.org/viaf/175755404</idno>
       </bibl>
       <bibl xml:id="lit-temp">
