@@ -75,7 +75,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-3/672,376,1980,848/full/0/default.tif">
           <l>"For many centuries after Britain became an island" the</l>
-          <l><rs type="person" ref="../resources/annotations.xml#gtre" key="Trevelyan, George">historian</rs> says, "the untamed forest was king. " On the matted</l>
+          <l><rs type="person" xml:id="gtre" key="Trevelyan, George">historian</rs> says, "the untamed forest was king. " On the matted</l>
           <l>branches of that forest innumerable birds sang; but</l>
           <l>that song was heard only by <del>a few</del> <add><del>few</del> a few</add> skin clad hunters in</l>
           <l><del>a few</del> <add place="above"><del>the</del></add> <del>clearings</del> an occasional clearing 
@@ -159,7 +159,7 @@
           </quote>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-5/660,1552,1832,588/full/0/default.tif">
-          <l>That is <del>the voice of</del> <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>, singing out of doors,</l>
+          <l>That is <del>the voice of</del> <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>, singing out of doors,</l>
           <l><del>singing</del> because love &amp; spring make him vocal; </l>
           <l>but <del>he, or she, has</del> But who listens? <del>What was</del></l>
           <l><del>the</del> <del>the first songs were sung</del> If once the song is</l>
@@ -190,9 +190,9 @@
       </div>
       <div xml:id="m45.5r" n="5 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-9">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-9/616,60,2072,604/full/0/default.tif">
-          <l>a broadsheet at the, in <rs type="place" ref="../resources/annotations.xml#pla-chea" key="Cheapside">Cheapside</rs>; <del>a</del> <del>and</del> but you can see <del>at [illeg.]</del></l>
+          <l>a broadsheet at the, in <rs type="place" xml:id="pla-chea" key="Cheapside">Cheapside</rs>; <del>a</del> <del>and</del> but you can see <del>at [illeg.]</del></l>
           <l>the author: <del>And</del> &amp; anonymity has become the cloak worn</l>
-          <l>by those who wish to conceal. <del>Not</del> The old <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> was</l>
+          <l>by those who wish to conceal. <del>Not</del> The old <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> was</l>
           <l>had nothing to conceal; <del>his audience was</del> <del>But</del> <del>It for his audience</del></l>
           <l>the audience was so little interested in him <add place="above">his name</add> that</l>
           <l>the <del>adoption of a name was</del> he never thought to give it.</l>
@@ -230,7 +230,7 @@
       <div xml:id="m45.6r" n="6 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11/685,76,1891,1712/full/0/default.tif"> <!-- still see what Anon saw!!! -->
           <l>has a very quick eye. <del>He</del> <del>The eye</del> is connected with the</l>
-          <l>body rather than the brain. <del>He</del> <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> has no</l>
+          <l>body rather than the brain. <del>He</del> <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> has no</l>
           <l>home. He lives a roaming out of door life,</l>
           <l><del>hears rather than thinks, &amp;</del> <del>it is a</del> <del>lives</del></l>
           <l><del>out of doors, in Anon's day, was</del> spring from</l>
@@ -261,8 +261,8 @@
           </add>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-11/685,1270,1795,504/full/0/default.tif">
-          <l>It was <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxton</rs> who killed <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>. by</l>
-          <l>by giving him a name. <del>It was</del> <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxton</rs> made <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs></l>
+          <l>It was <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxton</rs> who killed <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>. by</l>
+          <l>by giving him a name. <del>It was</del> <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxton</rs> made <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs></l>
           <l>some one apart from his song. <del>But the author lived</del></l>
           <l><del>was the author was <del>before</del> in existence, however,</del></l>
           <l><del>before Caxton:</del></l>
@@ -322,7 +322,7 @@
           <l>his clan; his family; <del>his</del> <del>the</del> the newspaper; the</l>
           <l>Editor: so many, &amp; some so obscure, that</l>
           <l>we may call them by fanciful names –</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-nin" key="Nin">Nin</rs>, <rs type="person" ref="../resources/annotations.xml#psn-crot" key="Crot">Crot</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-pull" key="Pulley">Pully</rs>... Nin Crot &amp; Pully they are</l>
+          <l><rs type="person" xml:id="psn-nin" key="Nin">Nin</rs>, <rs type="person" xml:id="psn-crot" key="Crot">Crot</rs> &amp; <rs type="person" xml:id="psn-pull" key="Pulley">Pully</rs>... Nin Crot &amp; Pully they are</l>
           <l>always at their tasks: <del>&amp; if</del> More &amp; more</l>
           <l>complex they become as time passes. So the</l>
           <l>song is only too be discovered with great searching</l>
@@ -345,12 +345,12 @@
           </add>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-13/666,2570,1976,896/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> died then in 1476. That first author, that</l>
+          <l><rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> died then in 1476. That first author, that</l>
           <l>babbling, child like, <del>had</del> [stay?] fellow... <del>the</del> who was</l>
           <l>half the audience; –</l>
           <l>And to <del>seek</del> follow his fortunes, we might turn  to</l>
           <l>an outsider, one of those commentators, who tell us</l>
-          <l>so much about <rs type="person" ref="../resources/annotations.xml#psn-nin" key="Nin">Nin</rs> <rs type="person" ref="../resources/annotations.xml#psn-crot" key="Crot">Crot</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-pull" key="Pulley">Pully</rs>. <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs> his</l>
+          <l>so much about <rs type="person" xml:id="psn-nin" key="Nin">Nin</rs> <rs type="person" xml:id="psn-crot" key="Crot">Crot</rs> &amp; <rs type="person" xml:id="psn-pull" key="Pulley">Pully</rs>. <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> his</l>
           <l>name was</l>
         </p>
       </div>
@@ -360,14 +360,14 @@
           <l>But for him of course we have to wait until <add place="above">winter was past</add> there is a</l>
           <l>past. Time has to have drawn its blue veil over</l>
           <l>the horizon. Then, when Anon is long dead, when the</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">Canterbury Pilgrims</rs> have gone their way, <del>we begin to</del></l>
+          <l><rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Canterbury Pilgrims</rs> have gone their way, <del>we begin to</del></l>
           <l><del>see the past</del> some body looks back. He is</l>
           <l>a representative man; the fruit of <del>that</del> long line of</l>
           <l>learned &amp; <del>lea</del> <del>book</del> learned men who <del>have accomplished so many</del></l>
           <l><del>who have been so so often of [certainty? continuity?] [illeg.]; have</del></l>
           <l>have <del>had</del> time to think about the past, in the [seat?] of the</l>
-          <l>parsonage. <del>They have been great</del> Like <del>[illeg.]</del> <rs type="person" ref="../resources/annotations.xml#psn-cole" key="???">Cole</rs>, like</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-skin" key="???">Skinner</rs>, <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs>, the parson of <rs type="place" ref="../resources/annotations.xml#pla-radw" key="Radwinter">Radwinter</rs>, dug up the old</l>
+          <l>parsonage. <del>They have been great</del> Like <del>[illeg.]</del> <rs type="person" xml:id="psn-cole" key="???">Cole</rs>, like</l>
+          <l><rs type="person" xml:id="psn-skin" key="???">Skinner</rs>, <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs>, the parson of <rs type="place" xml:id="pla-radw" key="Radwinter">Radwinter</rs>, dug up the old</l>
           <l>coins: <del>&amp; in the</del> <del>that were</del> presumably set so</l>
           <l>deep <add>[illeg.]</add> in the earth in 1570. He was <del>already</del> a</l>
           <l><del>lover</del> <del>of the past</del>. He already sees the present</l>
@@ -378,10 +378,10 @@
           <l>comfort; too <del>many much function</del>, too many <add place="above">much</add> silver,</l>
           <l>pots; <add place="above">&amp;</add> too many chimneys, so that the <del>living</del></l>
           <l>the young
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">res</hi></sic>
               <corr>Shakespeares</corr>
-            </choice></rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher"></rs>Marlowes are not the men their</l>
+            </choice></rs> &amp; <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher"></rs>Marlowes are not the men their</l>
           <l>fathers were. <del>They have</del> The smoke is drawn off</l>
           <l>from the sitting room by chimneys, so that</l>
           <l>instead of being bathed by <del>the</del> smoke <del>that came</del></l>
@@ -405,7 +405,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-15/691,2442,1867,1012/full/0/default.tif">
           <l><del>But the past of the</del> <del>The past of the body</del></l>
-          <l>But <del>England serves only</del> <del>the</del> <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrisons</rs> <del>past is not</del></l>
+          <l>But <del>England serves only</del> <del>the</del> <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrisons</rs> <del>past is not</del></l>
           <l>the <del>English past</del>. But <del>Harrisons real</del> the past</l>
           <l>against which Harrison set the present <del>was not the</del></l>
           <l><del>English past</del> <del>But England only served</del> to</l>
@@ -419,9 +419,9 @@
       <div xml:id="m45.9r" n="9 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17/653,24,1887,456/full/0/default.tif">
           <l>the decline of English literature. <del>The great</del> <quote source="#">"English had gone</quote></l>
-          <l><quote source="#">underground for four centuries..."</quote> <del>The</del> <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> had sung</l>
+          <l><quote source="#">underground for four centuries..."</quote> <del>The</del> <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> had sung</l>
           <l><del>an</del> his <del>uncouth strain</del> <add place="above">song</add> at the back door, <del>or</del> in a</l>
-          <l>language which was as uncouth to <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs> as to us</l>
+          <l>language which was as uncouth to <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> as to us</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-17/837,430,1251,268/full/0/default.tif">
           <quote source="#">
@@ -444,7 +444,7 @@
           <l><del>They were written by</del>    The <del>literat</del> past, <del>in</del></l>
           <l>in literature was the past of the Greeks, of the Latins.</l>
           <l><del>It was to that past that Harrison compared the</del></l>
-          <l><del><rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-jgow" key="Gower, John">Gowers</rs> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-jlyd" key="Lydgate, John">Lydgates</rs></del></l>
+          <l><del><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> &amp; the <rs type="person" xml:id="psn-jgow" key="Gower, John">Gowers</rs> &amp; the <rs type="person" xml:id="psn-jlyd" key="Lydgate, John">Lydgates</rs></del></l>
           <l>That was the literature that occupied the same</l>
           <l>place in Harrisons mind that the Elizabethans</l>
           <l>occupy in our minds. <del>When the</del> The readers of his</l>
@@ -461,8 +461,8 @@
           <l><del>The</del> <del>Anon sang his songs</del> The parson then</l>
           <l><del>when he looks back, sees</del> <del>has, for a background to</del></l>
           <l><del>his</del> does not see Anon, at all, when he looks</l>
-          <l>back; he sees <rs type="person" ref="../resources/annotations.xml#psn-agrip" key="Agrippa">Henricus Cornelius Agrippa,</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-suet" key="Suetonius">Suetonius</rs>, <rs type="person" ref="../resources/annotations.xml#psn-plin" key="Pliny">Pliny</rs>, <rs type="person" ref="../resources/annotations.xml#psn-cato" key="Cato, Marcus">Marcus Cato</rs>, <rs type="person" ref="../resources/annotations.xml#psn-cice" key="Cicero">Cicero</rs>.</l>
+          <l>back; he sees <rs type="person" xml:id="psn-agrip" key="Agrippa">Henricus Cornelius Agrippa,</rs></l>
+          <l><rs type="person" xml:id="psn-suet" key="Suetonius">Suetonius</rs>, <rs type="person" xml:id="psn-plin" key="Pliny">Pliny</rs>, <rs type="person" xml:id="psn-cato" key="Cato, Marcus">Marcus Cato</rs>, <rs type="person" xml:id="psn-cice" key="Cicero">Cicero</rs>.</l>
         </p>
       </div>
       <div xml:id="m45.9v" n="9 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-18" />
@@ -479,12 +479,12 @@
           <l>the <del>village, with</del> the [forest?] as been felled; the</l>
           <l>hut has given place to the house; the house has</l>
           <l>windows, chimneys, pillows, &amp; silver jugs:</l>
-          <l><del>the smok</del> And there is <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>; with its</l>
-          <l>&amp; <rs type="place" ref="../resources/annotations.xml#pla-gren" key="Greenwich">Greenwich</rs> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">queen</rs>; &amp; a few ships: &amp;</l>
+          <l><del>the smok</del> And there is <rs type="place" xml:id="pla-lond" key="London">London</rs>; with its</l>
+          <l>&amp; <rs type="place" xml:id="pla-gren" key="Greenwich">Greenwich</rs> &amp; the <rs type="person" xml:id="psn-eliz" key="Elizabeth I">queen</rs>; &amp; a few ships: &amp;</l>
           <l>&amp; there, though he cannot see himself, is</l>
           <l>Harrison, a [illeg.] yet kindly man,</l>
-          <l>obsessively addressing his patron, <rs type="person" ref="../resources/annotations.xml#psn-wcob" key="Cobham, William">Lord Cobham</rs></l>
-          <l>rooted to his <rs type="place" ref="../resources/annotations.xml#pla-radw" key="Radwinter">Radwinter</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse" key="Essex">Essex</rs> <del>with a</del> owning a</l>
+          <l>obsessively addressing his patron, <rs type="person" xml:id="psn-wcob" key="Cobham, William">Lord Cobham</rs></l>
+          <l>rooted to his <rs type="place" xml:id="pla-radw" key="Radwinter">Radwinter</rs> in <rs type="place" xml:id="pla-esse" key="Essex">Essex</rs> <del>with a</del> owning a</l>
           <l>mastiff; <del>He</del></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-19/692,1800,2024,288/full/0/default.tif">
@@ -496,8 +496,8 @@
           <l>birth; <del>of his [illeg.] his mind</del></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m45/m45-19/692,2278,1984,1120/full/0/default.tif">
-          <l>When he looks back, he does not see <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jlyd" key="Lydgate, John">Lydgate</rs>,</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-jwyc" key="Wycliffe, John">Wycliffe</rs>, <del>he does not</del> <add place="above">Not</add> the plain 
+          <l>When he looks back, he does not see <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, <rs type="person" xml:id="psn-jlyd" key="Lydgate, John">Lydgate</rs>,</l>
+          <l><rs type="person" xml:id="psn-jwyc" key="Wycliffe, John">Wycliffe</rs>, <del>he does not</del> <add place="above">Not</add> the plain 
             <choice>
               <sic>unmetaphoracal</sic>
               <corr>unmetaphorical</corr>

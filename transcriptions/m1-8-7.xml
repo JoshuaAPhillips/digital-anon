@@ -66,8 +66,8 @@
           <l><del>the very</del> which <del>gives</del> <del>a</del> <del>&amp; the</del> a</l>
           <l><del>with justice.</del> <del>For the</del> <del>reader to</del> &amp;</l>
           <l><del>this</del> <del>thus</del> – a naked attempt to point at</l>
-          <l>art <del>,</del> <rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs>, <rs type="place" ref="../resources/annotations.xml#pla-wmab" key="Westminster Abbey">Westminster Abbey</rs> &amp; the <rs type="place" ref="../resources/annotations.xml#pla-towe" key="Tower of London">Tower of</rs></l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-towe" key="Tower of London">London</rs> to a visitor from the country.</l>
+          <l>art <del>,</del> <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs>, <rs type="place" xml:id="pla-wmab" key="Westminster Abbey">Westminster Abbey</rs> &amp; the <rs type="place" xml:id="pla-towe" key="Tower of London">Tower of</rs></l>
+          <l><rs type="place" xml:id="pla-towe" key="Tower of London">London</rs> to a visitor from the country.</l>
           <l><del>The</del> <del>What we will now attempt then is</del></l>
           <l><del>express</del> We will now <del>attempt</del> from there to look at</l>
           <l>the famous monuments from another angle</l>
@@ -75,8 +75,8 @@
           <l><del>Free from dates</del> <del>Let us</del> <del>free <del>ourselves</del> from</del></l>
           <l><del>dates, free from the eyes of Professor [Bude?], who</del></l>
           <l><del>by ears of work in [museums?] has established</del></l>
-          <l><del>the probability – it is no more – that <rs type="person" ref="../resources/annotations.xml#psn-tmid" key="Middleton, Thomas">Middleton</rs></del></l>
-          <l>had a hand in the <rs type="literary-work" ref="../resources/annotations.xml#lit-reve" key="Revenger's Tragedy, The">Revengers Tragedy</rs> –</l>
+          <l><del>the probability – it is no more – that <rs type="person" xml:id="psn-tmid" key="Middleton, Thomas">Middleton</rs></del></l>
+          <l>had a hand in the <rs type="literary-work" xml:id="lit-reve" key="Revenger's Tragedy, The">Revengers Tragedy</rs> –</l>
           <l><del>the</del> to <del>discover</del> <del>what</del> <del>dream for a moment,</del> free</l>
           <l><del>from dates</del> <del>[illeg.] for a moment from</del></l>
           <l>the <del>tyranny of dates,</del> <del>&amp; from the</del></l>
@@ -235,7 +235,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-4/837,2166,1599,1156/full/0/default.tif">
           <l>If [illeg.] If still ran, let us take it</l>
           <l>when the [owling?] time is at hand, down to</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-lobr" key="London Bridge">London Bridge</rs>. There is a curious smell</l>
+          <l><rs type="place" xml:id="pla-lobr" key="London Bridge">London Bridge</rs>. There is a curious smell</l>
           <l>in this part of the world, of hops, [illeg.];</l>
           <l>&amp; also a curious [illeg.]</l>
           <l>a woman from one way hails a man from</l>
@@ -249,12 +249,12 @@
       </div>
       <div xml:id="m1-8-7.5" n="5" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-5/797,48,1583,1912/full/0/default.tif">
-          <l>shiny slab of mud beneath the warehouses; &amp; <rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs></l>
+          <l>shiny slab of mud beneath the warehouses; &amp; <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs></l>
           <l>rises. The gulls are swooping; &amp; some small boys</l>
           <l>paddle in the pebbles. Above the sky is</l>
           <l>huddled &amp; crowded with purple streamers.</l>
           <l>We are still thinking of the plays, because</l>
-          <l>it was here that the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs> stood. Now let us</l>
+          <l>it was here that the <rs type="place" xml:id="pla-glob" key="Globe, The">Globe</rs> stood. Now let us</l>
           <l>give way to the imagination. <del>After all</del></l>
           <l><del>what are four hundred years.</del> <del>We can</del></l>
           <l><del>What</del> The roar &amp; the chaos; the [friend?] of</l>
@@ -312,12 +312,12 @@
           <l>to stiffen himself     a more supple method [illeg.]</l>
           <l>needed. If we <del>could</del> return to the age of</l>
           <l>innocence: if we could talk, if we could</l>
-          <l>even write a letter to a friend <del>about <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeare</rs>.</del></l>
+          <l>even write a letter to a friend <del>about <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeare</rs>.</del></l>
           <l><del>Indeed the</del> <del>som</del> deplore some way of</l>
           <l>preserving those natural exclamations.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-7/m1-8-7-6/869,1712,1647,1592/full/0/default.tif">
-          <l><del><del>Much</del> It is a <del>long time</del> our <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>; our</del></l>
+          <l><del><del>Much</del> It is a <del>long time</del> our <rs type="place" xml:id="pla-lond" key="London">London</rs>; our</del></l>
           <l><del>the London of books; <del>their</del> the <del>we</del> frequency</del></l>
           <l><del>with which they [dumb?] [hunger?]: if we could</del></l>
           <l><del>return to the innocent state of [memory?]: as</del></l>

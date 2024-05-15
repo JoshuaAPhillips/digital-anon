@@ -76,7 +76,7 @@
           <l>must have a small one: <del>a r</del> <del>recruited</del> <add place="above">[compared?]</add> <del>from</del> <add place="above">a</add> <del>the</del></l>
           <l>scholars &amp; aristocrats. The lack of</l>
           <l>general <del>wider spread</del> <add place="above">common</add> reading <del>explains</del> accounts for</l>
-          <l>the long pause, between <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeares</rs> death &amp; the</l>
+          <l>the long pause, between <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeares</rs> death &amp; the</l>
           <l>18th century when the plays of Shakespeare</l>
           <l>hang suspended, unrealised. They had to</l>
           <l>wait until the plays were <del>in m</del> <del>on</del></l>
@@ -90,7 +90,7 @@
               <corr>Elizabethan</corr>
             </choice> criticism, &amp; the general</l>
             <l>nature of what criticism there is. <del>Both</del></l>
-          <l><del><rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> &amp; <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Jonson</rs></del> <del>deal with the general</del></l>
+          <l><del><rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sidney</rs> &amp; <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Jonson</rs></del> <del>deal with the general</del></l>
           <l><del>Both Sidney &amp; Jonson <del>are</del> deal with the theory of</del></l>
           <l><del>poetry or of drama not with the particular play or</del></l>
           <l><del>poem;</del>     the <del>attention which</del> <add place="above">task [thus?]</add> both Sidney &amp;</l>
@@ -133,7 +133,7 @@
             <l>discovered when the play was read in the</l>
             <l>private room – the criticism of the past hundred years</l>
             <l>has has added to the <del>common</del> understanding of</l>
-            <l><rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeare</rs>. But much was <del>also</del> lost for ever</l>
+            <l><rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeare</rs>. But much was <del>also</del> lost for ever</l>
             <l>when the playhouse shut: the sound of his spoken word;</l>
             <l><del>the</del>   <del>what</del>   <del>the</del></l>
           </del>
@@ -155,9 +155,9 @@
           <l>difficult to settle – on the one hand, the habit of</l>
           <l>brought into existence much that</l>
           <l>could only be discovered in the private room:</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-sjoh" key="Johnson, Samuel">Johnson</rs>, <rs type="person" ref="../resources/annotations.xml#psn-stco" key="Coleridge, Samuel Taylor">Coleridge</rs>, <rs type="person" ref="../resources/annotations.xml#psn-acbr" key="Bradley, A. C.">Bradley</rs> <del>to name some</del></l>
+          <l><rs type="person" xml:id="psn-sjoh" key="Johnson, Samuel">Johnson</rs>, <rs type="person" xml:id="psn-stco" key="Coleridge, Samuel Taylor">Coleridge</rs>, <rs type="person" xml:id="psn-acbr" key="Bradley, A. C.">Bradley</rs> <del>to name some</del></l>
           <l>to take some <add place="above">of the</add> obvious <del>names</del>, who have been</l>
-          <l>reading <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeare</rs> into existence, during the past</l>
+          <l>reading <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeare</rs> into existence, during the past</l>
           <l>200 years – has increased our understanding.</l>
           <l>But much was lost for ever when the playhouse</l>
           <l>shut we have lost the sound of the spoken</l>
@@ -234,7 +234,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-9/m1-8-9-3/921,1826,1507,148/full/0/default.tif">
           <l>But <del>these</del> then said that 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi>.</sic>
               <corr>Shakespeare</corr>
             </choice></rs> <del>had</del> look a glance [illeg.] it</l>

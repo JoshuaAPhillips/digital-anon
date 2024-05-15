@@ -111,13 +111,13 @@
               <corr>sonorous</corr>
             </choice>, since they are to</l>
           <l>be read out aloud. <quote source="#" rend="inline">I spent most of my time"</quote> wrote Lady</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Ann Clifford</rs> <quote source="#" rend="inline">"in 
+          <l><rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Ann Clifford</rs> <quote source="#" rend="inline">"in 
             <choice>
               <sic>playin</sic>
               <corr>playing</corr>
-            </choice> at Glecko and hearing <rs type="person" ref="../resources/annotations.xml#psn-mnev" key="Neville, Moll">Moll Neville</rs></quote></l>
-          <l><quote source="#" rend="inline">read the <rs type="literary-work" ref="../resources/annotations.xml#lit-arca" key="Countess of Pembroke's Arcadia"></rs>....Rivers used to read to me in</quote></l>
-          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-mmon" key="Montaigne, Michel de">Montaignes</rs> <rs type="person" ref="../resources/annotations.xml#lit-essa" key="Essais (Michel de Montaigne)">Essays and Moll Neville in the <rs type="../resources/annotations.xml#lit-faer" key="Faerie Queene, The">Faery Queen</rs>."</rs></quote></l>
+            </choice> at Glecko and hearing <rs type="person" xml:id="psn-mnev" key="Neville, Moll">Moll Neville</rs></quote></l>
+          <l><quote source="#" rend="inline">read the <rs type="literary-work" xml:id="lit-arca" key="Countess of Pembroke's Arcadia"></rs>....Rivers used to read to me in</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" xml:id="psn-mmon" key="Montaigne, Michel de">Montaignes</rs> <rs type="person" xml:id="lit-essa" key="Essais (Michel de Montaigne)">Essays and Moll Neville in the <rs type="../resources/annotations.xml#lit-faer" key="Faerie Queene, The">Faery Queen</rs>."</rs></quote></l>
           <l>
             <choice>
               <sic>Futher</sic>
@@ -137,7 +137,7 @@
               <sic>Londonwas</sic>
               <corr>London was</corr>
             </choice> burning</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-spep" key="Pepys, Samuel">Pepys</rs> noted that <quote source="#" rend="inline">"hardly one lighter or boat in three</quote></l>
+          <l><rs type="person" xml:id="psn-spep" key="Pepys, Samuel">Pepys</rs> noted that <quote source="#" rend="inline">"hardly one lighter or boat in three</quote></l>
           <l><quote source="#" rend="inline">that had the goods of a house in it, but there was a pair</quote></l>
           <l><quote source="#" rend="inline">of virginals in it."</quote> <del hand="ms">These were</del> the influences that</l>
           <l>told upon the poet; <add hand="ms" place="above">Music moved</add> Under neath the words<add hand="ms" place="inline">:</add> the old words</l>
@@ -168,13 +168,13 @@
           <l>the private world.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-7/m54-7-3/716,448,1890,2478/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> then --<quote source="#" rend="inline">"a little man with short hair,</quote></l>
+          <l><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> then --<quote source="#" rend="inline">"a little man with short hair,</quote></l>
           <l><quote source="#" rend="inline">a small 
             <choice>
               <sic>vband</sic>
               <corr>band</corr>
             </choice> and cuffs"</quote> standing on the threshold of the</l>
-          <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" ref="../resources/annotations.xml#pla-pens" key="Spenser, Edmund">
+          <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" xml:id="pla-pens" key="Spenser, Edmund">
             <choice>
               <sic>enshurst</sic>
               <corr>Penshurst</corr>
@@ -184,7 +184,7 @@
               <sic>misntre</sic>
               <corr>minstrel</corr>
             </choice>; and from 
-            <rs type="person" ref="../resources/annotations.xml#psn-rhol" key="Holinshed, Raphael"><choice>
+            <rs type="person" xml:id="psn-rhol" key="Holinshed, Raphael"><choice>
               <sic>Holmshed</sic>
               <corr>Holinshed</corr>
             </choice></rs> the Chronicler;</l>
@@ -204,12 +204,12 @@
               <sic>plase</sic>
               <corr>please</corr>
             </choice></l>
-          <l>my patron <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sir Philip 
+          <l>my patron <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sir Philip 
             <choice>
               <sic>Sidmey</sic>
               <corr>Sidney</corr>
             </choice>?</rs> What is the theme that will</l>
-          <l>recommend itself to the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs>? At once come into 
+          <l>recommend itself to the <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs>? At once come into 
             <choice>
               <sic>ecistence</sic>
               <corr>existence</corr>

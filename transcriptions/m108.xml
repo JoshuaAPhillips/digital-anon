@@ -68,7 +68,7 @@
               <sic>actirs</sic>
               <corr>actors</corr>
             </choice>. He cannot yet make</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tamburlaine</rs> speak those words with his own lips. The play</l>
+          <l><rs type="literary-work" xml:id="lit-tamb" key="Tamburlaine">Tamburlaine</rs> speak those words with his own lips. The play</l>
           <l>is still in part the work of the 
             <choice>
               <sic>undiffrenetiated</sic>
@@ -79,24 +79,24 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-1/731,1076,1978,1284/full/0/default.tif">
           <l>The audience is silent. <del>If we try to look at them</del></l>
-          <l><del>in their [real?] person</del> <add place="inline">[</add><rs type="person" ref="../resources/annotations.xml#psn-hwri" key="Wriothesley, Henry">Lord Southampton</rs></l>
-          <l>and <rs type="person" ref="../resources/annotations.xml#psn-fmann" key="Manners, Francis">Lord Rutland</rs>, as <rs type="person" ref="../resources/annotations.xml#psn-rwhy" key="Whyte, Roland">Roland 
+          <l><del>in their [real?] person</del> <add place="inline">[</add><rs type="person" xml:id="psn-hwri" key="Wriothesley, Henry">Lord Southampton</rs></l>
+          <l>and <rs type="person" xml:id="psn-fmann" key="Manners, Francis">Lord Rutland</rs>, as <rs type="person" xml:id="psn-rwhy" key="Whyte, Roland">Roland 
             <choice>
               <sic>W ite</sic>
               <corr>Whyte</corr>
-            </choice></rs>wrote to <rs type="person" ref="../resources/annotations.xml#psn-rsid" key="Sidney, Robert">Sir Robert</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-rsid">Sidney</rs> <quote source="#" rend="inline">"pass away their time in London, merely in going to</quote></l>
+            </choice></rs>wrote to <rs type="person" xml:id="psn-rsid" key="Sidney, Robert">Sir Robert</rs></l>
+          <l><rs type="person" xml:id="psn-rsid">Sidney</rs> <quote source="#" rend="inline">"pass away their time in London, merely in going to</quote></l>
           <l><quote source="#" rend="inline">plays every day"</quote> But the attraction, strong as it was,</l>
-          <l>that drew them to the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">
+          <l>that drew them to the <rs type="place" xml:id="pla-bank" key="Bankside">
             <choice>
               <sic>Banside</sic>
               <corr>Bankside</corr>
-            </choice></rs>, roused no comment. A <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">young</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wsha">poet</rs> 
+            </choice></rs>, roused no comment. A <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">young</rs></l>
+          <l><rs type="person" xml:id="psn-wsha">poet</rs> 
             <choice>
               <sic>dedictes</sic>
               <corr>dedicates</corr>
-            </choice>his sonnets to <rs type="person" ref="../resources/annotations.xml#psn-mrwh" key="Mr W. H.">Mr W H.</rs> and not one of those</l>
+            </choice>his sonnets to <rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W H.</rs> and not one of those</l>
           <l>highly educated nobles troubles to ask Who is this patron?</l>
           <l>It is not a matter of 
             <choice>
@@ -124,9 +124,9 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-3/760,256,1908,3100/full/0/default.tif">
           <l>If we try to look at them, off the stage, in their real</l>
           <l>persons <add hand="ms" place="above">private lives</add>, we see only wisps; passing phantoms. There are the</l>
-          <l>Fytton sisters, daughters of <rs type="person" ref="../resources/annotations.xml#psn-efyt" key="Fytton, Edward">Sir Edward Fytton</rs>, knight of <rs type="place" ref="../resources/annotations.xml#pla-gaws" key="Gawsworth">Gawsworth</rs> in <rs type="place" ref="../resources/annotations.xml#pla-ches" key="Cheshire">Cheshire</rs>. <rs type="person" ref="../resources/annotations.xml#psn-mfyt" key="Fytton, Mary">Mary</rs>, the younger,</l>
-          <l>became one of <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Elizabeths</rs> Maids of Honour. She goes</l>
-          <l>from her country hometo the great world. <rs type="person" ref="../resources/annotations.xml#psn-wkno" key="Knollys, William">Sir William Knollys</rs>,</l>
+          <l>Fytton sisters, daughters of <rs type="person" xml:id="psn-efyt" key="Fytton, Edward">Sir Edward Fytton</rs>, knight of <rs type="place" xml:id="pla-gaws" key="Gawsworth">Gawsworth</rs> in <rs type="place" xml:id="pla-ches" key="Cheshire">Cheshire</rs>. <rs type="person" xml:id="psn-mfyt" key="Fytton, Mary">Mary</rs>, the younger,</l>
+          <l>became one of <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Elizabeths</rs> Maids of Honour. She goes</l>
+          <l>from her country hometo the great world. <rs type="person" xml:id="psn-wkno" key="Knollys, William">Sir William Knollys</rs>,</l>
           <l>xmxmxmmxmx a person of great consequence there, promised her</l>
           <l>father that he will not fail <quote source="#" rend="inline">to fulfil your desire in 
             <choice>
@@ -187,7 +187,7 @@
           <l><quote>dwelt at the <rs type="place" ref="../resources/annotations.xml/pla-chop" key="Chopping Knife">Chopping Knife near Ludgate"</rs></quote></l>
           <l>gossips that the Maid of Honour has dressed up <add hand="typewriter" place="above">as a man</add></l>
           <l>in a <add hand="typewriter" place="above">large</add> great white cloak and gone to meet her lover Lord</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wpem" key="Pembroke, William">Pembroke</rs> privately. Silence again descends. Then</l>
+          <l><rs type="person" xml:id="psn-wpem" key="Pembroke, William">Pembroke</rs> privately. Silence again descends. Then</l>
           <l>Mary has borne him a bastard, whom he refuses to acknowledge.</l>
           <l>And her father conveys her home. 
             <choice>
@@ -233,13 +233,13 @@
             <choice>
               <sic>recource</sic>
               <corr>recourse</corr>
-            </choice> to poetry. <rs type="person" ref="../resources/annotations.xml#psn-fbea" key="Beaumont, Francis">Mr Beaumont</rs>, after trying to ex-</l>
+            </choice> to poetry. <rs type="person" xml:id="psn-fbea" key="Beaumont, Francis">Mr Beaumont</rs>, after trying to ex-</l>
           <l>plain <quote source="#" rend="inline">"My conceit of this tripple love, of 
             <choice>
               <sic>affcetion</sic>
               <corr>affection</corr>
             </choice> passion</quote></l>
-          <l><quote source="#" rend="inline">and conjunction"</quote> has recourse to poetry. He quotes <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs></l>
+          <l><quote source="#" rend="inline">and conjunction"</quote> has recourse to poetry. He quotes <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs></l>
           <l>to help him out. It is the poets still who speak for the</l>
           <l>squires. They have no serviceable language Yet behind</l>
           <l>these florid decorations the wolves of the court prye</l>
@@ -281,7 +281,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-5/860,1652,1836,1588/full/0/default.tif">
           <l>And the play itself was still anonymous.</l>
-          <l>The lack of <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">Marlowes</rs> name, or <rs type="person" ref="../resources/annotations.xml#psn-tkyd" key="Kyd, Thomas">Kyds</rs>, shows how largely</l>
+          <l>The lack of <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">Marlowes</rs> name, or <rs type="person" xml:id="psn-tkyd" key="Kyd, Thomas">Kyds</rs>, shows how largely</l>
           <l>the play was a common product, written by 
             <choice>
               <sic>o e</sic>
@@ -298,7 +298,7 @@
             </choice></l>
           <l>property in it. It was in part the work of the audience.</l>
           <l>And the audience was a large one. Fifteen hundred</l>
-          <l>people, <rs type="person" ref="../resources/annotations.xml#psn-greg" key="Greg, W. W.">Dr Greg</rs> computes was an average audience,</l>
+          <l>people, <rs type="person" xml:id="psn-greg" key="Greg, W. W.">Dr Greg</rs> computes was an average audience,</l>
           <l>Of these the 
             <choice>
               <sic>gr ater</sic>
@@ -364,11 +364,11 @@
               <sic>siel ce</sic>
               <corr>silence</corr>
             </choice> with our own d</l>
-          <l>silence at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle" key="Ballet Russes">
+          <l>silence at the <rs type="literary-work" xml:id="lit-balle" key="Ballet Russes">
             <choice>
               <sic>uddian</sic>
               <corr>Russian</corr>
-            </choice></rs> or at the <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs> in their</l>
+            </choice></rs> or at the <rs type="literary-work" xml:id="lit-cine" key="Cinema">cinema</rs> in their</l>
           <l>early days. A new art comes upon us so surprisingly</l>
           <l>that we sit silent, 
             <choice>
@@ -389,7 +389,7 @@
               <corr>long</corr>
             </choice> inadequacy</l>
           <l>must have been overwhelming. Silence must have kept them</l>
-          <l>silent. There at the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs> or at the <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">
+          <l>silent. There at the <rs type="place" xml:id="pla-glob" key="Globe, The">Globe</rs> or at the <rs type="place" xml:id="pla-rose" key="Rose, The">
             <choice>
               <sic> ose</sic>
               <corr>Rose</corr>
@@ -488,7 +488,7 @@
           <l>part of the public when a new writer of genius appears?</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-8/852,2392,1796,812/full/0/default.tif">
-          <l>Perhaps <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> in his <rs type="literary-work" ref="../resources/annotations.xml#lit-baes" key="Essays (Francis Bacon)">Essays</rs> 
+          <l>Perhaps <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">Bacon</rs> in his <rs type="literary-work" xml:id="lit-baes" key="Essays (Francis Bacon)">Essays</rs> 
             <choice>
               <sic>supplys</sic>
               <corr>supplies</corr>
@@ -498,7 +498,7 @@
               <sic>b y</sic>
               <corr>but</corr>
             </choice> Toyes"</quote> he wrote in the essay</l>
-          <l>called <rs type="literary-work" ref="../resources/annotations.xml#lit-masq" key="Of Masques and Triumphs">"Of Masques and Triumphs"</rs>. To the 
+          <l>called <rs type="literary-work" xml:id="lit-masq" key="Of Masques and Triumphs">"Of Masques and Triumphs"</rs>. To the 
             <choice>
               <sic>aristocratuc</sic>
               <corr>aristocratic</corr>
@@ -509,8 +509,8 @@
               <sic>acroats</sic>
               <corr>acrobats</corr>
             </choice>. They spoke in the vulgar tongue. Off the stage</l>
-          <l>they lived in the <rs type="literary-work" ref="../resources/annotations.xml#lit-hear" key="Heart of Darkness, The">heart of darkness</rs>. 
-            <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher"><choice>
+          <l>they lived in the <rs type="literary-work" xml:id="lit-hear" key="Heart of Darkness, The">heart of darkness</rs>. 
+            <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher"><choice>
               <sic>Marloew</sic>
               <corr>Marlowe</corr>
             </choice></rs> lying on the</l>
@@ -522,15 +522,15 @@
           <l>28</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10/880,176,1756,1276/full/0/default.tif">
-          <l>bed at <rs type="place" ref="../resources/annotations.xml#pla-dept" key="Deptford">Deptford</rs> reached out and stabbed <rs type="person" ref="../resources/annotations.xml#psn-ifriz" key="Frizer, Ingram">Ingram</rs> in the head</l>
+          <l>bed at <rs type="place" xml:id="pla-dept" key="Deptford">Deptford</rs> reached out and stabbed <rs type="person" xml:id="psn-ifriz" key="Frizer, Ingram">Ingram</rs> in the head</l>
           <l>whereupon Ingram gave 
             <choice>
               <sic>Mar loew</sic>
               <corr>Marlowe</corr>
             </choice> a mortal wound over the</l>
-          <l>right eye. <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Ben Jonson</rs> ran <rs type="person" ref="../resources/annotations.xml#psn-gspe" key="Spenser, Gabriel">Gabriel Spenser</rs> through the body</l>
+          <l>right eye. <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Ben Jonson</rs> ran <rs type="person" xml:id="psn-gspe" key="Spenser, Gabriel">Gabriel Spenser</rs> through the body</l>
           <l>with a sword that cost three and sixpence. If such had been</l>
-          <l>the behaviour of <rs type="person" ref="../resources/annotations.xml#psn-aten" key="Tennyson, Alfred">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-rbro" key="Browning, Robert">Browning</rs>, <add place="above">[illeg.]</add>, <del>the gulf between</del></l>
+          <l>the behaviour of <rs type="person" xml:id="psn-aten" key="Tennyson, Alfred">Tennyson</rs> and <rs type="person" xml:id="psn-rbro" key="Browning, Robert">Browning</rs>, <add place="above">[illeg.]</add>, <del>the gulf between</del></l>
           <l><del>them and</del> <add place="above">over the [illeg.] in [dancing?] shown no doubt [illeg.] wd. have kept them at a distance</add> there would have been a gulf between them and</l>
           <l>the Court. So 
             <choice>
@@ -553,9 +553,9 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10/238,262,670,422/full/0/default.tif">
           <add hand="inline" place="margin">
-            <l><rs type="person" ref="../resources/annotations.xml#psn-wkem" key="Kempe, William">Kempe</rs>, one of the actors,</l>
+            <l><rs type="person" xml:id="psn-wkem" key="Kempe, William">Kempe</rs>, one of the actors,</l>
             <l><del hand="ms">danced to</del></l>
-            <l>went dancing to <rs type="place" ref="../resources/annotations.xml#pla-norw" key="Norwich">Norwich</rs>.</l>
+            <l>went dancing to <rs type="place" xml:id="pla-norw" key="Norwich">Norwich</rs>.</l>
           </add>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-10/872,1488,1788,1924/full/0/default.tif">
@@ -638,8 +638,8 @@
               <sic>y ng</sic>
               <corr>young</corr>
             </choice></l>
-          <l>secretary <rs type="person" ref="../resources/annotations.xml#psn-thob" key="Hobbes, Thomas">Thomas Hobbes</rs>, kept to a narrow path between</l>
-          <l>hedges. While <rs type="person" ref="../resources/annotations.xml#psn-mmon" key="Montaigne, Michel de">Montaigne</rs> ranged 
+          <l>secretary <rs type="person" xml:id="psn-thob" key="Hobbes, Thomas">Thomas Hobbes</rs>, kept to a narrow path between</l>
+          <l>hedges. While <rs type="person" xml:id="psn-mmon" key="Montaigne, Michel de">Montaigne</rs> ranged 
             <choice>
               <sic>th</sic>
               <corr>the</corr>
@@ -673,8 +673,8 @@
             <l>even in age and sickness which require the Shadow: Like old</l>
             <l>Townmen that will be still sitting at their street door,</l>
           </quote>
-          <l><quote source="#" rend="inline">though thereby they offer Age to scorn."</quote> Even in the <rs type="literary-work" ref="../resources/annotations.xml#lit-gard" key="The Garden">green</rs></l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-gard">shade</rs> thought 
+          <l><quote source="#" rend="inline">though thereby they offer Age to scorn."</quote> Even in the <rs type="literary-work" xml:id="lit-gard" key="The Garden">green</rs></l>
+          <l><rs type="literary-work" xml:id="lit-gard">shade</rs> thought 
             <choice>
               <sic>ic</sic>
               <corr>is</corr>

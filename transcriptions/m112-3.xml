@@ -65,7 +65,7 @@
           <l>revise the impression left by the play, or ask those</l>
           <l>questions that are debated now in every newspaper. The lack</l>
           <l>of general reading accounts for the long pause between</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeares</rs> death and the 
+          <l><rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeares</rs> death and the 
             <choice>
               <sic>k8th</sic>
               <corr>18th</corr>
@@ -75,7 +75,7 @@
               <sic>Shakespere</sic>
               <corr>Shakespeare</corr>
             </choice> hung suspended, unrealised-- even in 17</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-mmor" key="Morgann, Maurice">Morgann</rs> could say that 
+          <l><rs type="person" xml:id="psn-mmor" key="Morgann, Maurice">Morgann</rs> could say that 
             <choice>
               <sic>Shakespera</sic>
               <corr>Shakespeare</corr>
@@ -86,8 +86,8 @@
               <corr>proper</corr>
             </choice> fame. The lack of a reading public</l>
           <l>accounts too for the scarcity of criticism and for the</l>
-          <l>general nature of what criticism there is. Both <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> and</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Jonson</rs> are writing for the small critical public, and thus</l>
+          <l>general nature of what criticism there is. Both <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sidney</rs> and</l>
+          <l><rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Jonson</rs> are writing for the small critical public, and thus</l>
           <l>deal with 
             <choice>
               <sic>ggneral</sic>
@@ -190,11 +190,11 @@
               <sic>ere</sic>
               <corr>there</corr>
             </choice> is the reader like</l>
-          <l><add hand="typewriter" place="above">who, like</add> Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">
+          <l><add hand="typewriter" place="above">who, like</add> Lady <rs type="person" xml:id="psn-aclif" key="Clifford, Ann">
             <choice>
               <sic>AnnnClifford</sic>
               <corr>Ann Clifford</corr>
-            </choice></rs> read excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">
+            </choice></rs> read excellent <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">
               <choice>
                 <sic>C aucers</sic>
                 <corr>Chaucer's</corr>
@@ -215,12 +215,12 @@
               <sic>vivible</sic>
               <corr>visible</corr>
             </choice> on</l>
-          <l>the printed page is a <del hand="typewriter">lwa</del> always changing. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs></l>
+          <l>the printed page is a <del hand="typewriter">lwa</del> always changing. The <rs type="literary-work" xml:id="lit-cine" key="Cinema">cinema</rs></l>
           <l>now 
             <choice>
               <sic>develping</sic>
               <corr>developing</corr>
-            </choice> his eyes; the <rs type="literary-work" ref="../resources/annotations.xml#lit-broa" key="Broadcast">Broadcast</rs> is 
+            </choice> his eyes; the <rs type="literary-work" xml:id="lit-broa" key="Broadcast">Broadcast</rs> is 
             <choice>
               <sic>develpoing</sic>
               <corr>developing</corr>
@@ -236,12 +236,12 @@
               <sic>th</sic>
               <corr>the</corr>
             </choice> stage. It was for him that</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-rbur">Burton</rs> composed that 
+          <l><rs type="person" xml:id="psn-rbur">Burton</rs> composed that 
             <choice>
               <sic>extraodinary</sic>
               <corr>extraordinary</corr>
-            </choice> composition the <rs type="literary-work" ref="../resources/annotations.xml#lit-anat" key="Anatomy of Melancholy">Anatomy</rs></l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-anat">of Melancholy</rs>. It is there that the reader makes his</l>
+            </choice> composition the <rs type="literary-work" xml:id="lit-anat" key="Anatomy of Melancholy">Anatomy</rs></l>
+          <l><rs type="literary-work" xml:id="lit-anat">of Melancholy</rs>. It is there that the reader makes his</l>
           <l>first appearance, for it is there that we find the writer</l>
           <l>completely conscious of 
             <choice>

@@ -90,29 +90,29 @@
               <sic>ow</sic>
               <corr>own</corr>
             </choice> centre, their playhouse. <add place="above">The playhouse is takes its place [illeg.]</add> In 1593</l>
-          <l>the <rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs> in <rs type="place" ref="../resources/annotations.xml#pla-sout" key="Southwark">Southwark</rs> needed rebuilding. Planks and nails</l>
+          <l>the <rs type="place" xml:id="pla-rose">Rose</rs> in <rs type="place" xml:id="pla-sout" key="Southwark">Southwark</rs> needed rebuilding. Planks and nails</l>
           <l>and hinges and timber were The sums paid for 
             <choice>
               <sic>plnaks</sic>
               <corr>planks</corr>
             </choice> and</l>
-          <l>and nails and hinges and timber were entered by <rs type="person" ref="../resources/annotations.xml#psn-phen" key="Henslowe, Philip">
+          <l>and nails and hinges and timber were entered by <rs type="person" xml:id="psn-phen" key="Henslowe, Philip">
             <choice>
               <sic>Hensloew</sic>
               <corr>Henslowe</corr>
             </choice></rs></l>
           <l>in his vellum bound book. It was a wooden house, part</l>
           <l><del>half</del> open to the air, <del>half</del> part thatched. It stood</l>
-          <l>on the <add>[Bankside?]</add> <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">
+          <l>on the <add>[Bankside?]</add> <rs type="place" xml:id="pla-bank" key="Bankside">
             <choice>
               <sic>Banksdie</sic>
               <corr>Bankside</corr>
-            </choice></rs> next to the <rs type="place" ref="../resources/annotations.xml#pla-barg" key="Barge">
+            </choice></rs> next to the <rs type="place" xml:id="pla-barg" key="Barge">
               <choice>
                 <sic>Bargem</sic>
                 <corr>Barge,</corr>
-              </choice></rs> the <rs type="place" ref="../resources/annotations.xml#pla-bell" key="Bell, The">Bell</rs> and the</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-cock" key="Cock, The">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
+              </choice></rs> the <rs type="place" xml:id="pla-bell" key="Bell, The">Bell</rs> and the</l>
+          <l><rs type="place" xml:id="pla-cock" key="Cock, The">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
             <choice>
               <sic>Bakside</sic>
               <corr>Bankside</corr>
@@ -122,7 +122,7 @@
               <corr>infested</corr>
             </choice> with hogs.</del></l>
           <l>and the Bankside was infested with hogs. <add hand="ms" place="inline">[</add>It would hold,</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-greg" key="Greg, W. W.">Dr Greg</rs> 
+          <l><rs type="person" xml:id="psn-greg" key="Greg, W. W.">Dr Greg</rs> 
             <choice>
               <sic>calaculates</sic>
               <corr>calculates</corr>
@@ -173,7 +173,7 @@
               <sic>fesertig</sic>
               <corr>festering</corr>
             </choice></l>
-          <l>little streets round <rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs>, where the dead bodies smelt</l>
+          <l>little streets round <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs>, where the dead bodies smelt</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-1/847,904,1846,2492/full/0/default.tif">
           <add place="margin">
@@ -195,7 +195,7 @@
           <l>21</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-10/m54-10-3/881,218,1811,1430/full/0/default.tif">
-          <l>strong. The watermen of the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs> lived on their fares.</l>
+          <l>strong. The watermen of the <rs type="place" xml:id="pla-bank" key="Bankside">Bankside</rs> lived on their fares.</l>
           <l>The flag flew; the trumpets sounded; and the 
             <choice>
               <sic>audince</sic>
@@ -218,7 +218,7 @@
               <corr>nobles</corr>
             </choice>, sold by</l>
           <l>their servants. in the taffetas and tinsels that 
-            <rs type="person" ref="../resources/annotations.xml#psn-phen" key="Henslowe, Philip"><choice>
+            <rs type="person" xml:id="psn-phen" key="Henslowe, Philip"><choice>
               <sic>Hensloew</sic>
               <corr>Henslowe</corr>
             </choice></rs></l>

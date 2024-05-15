@@ -133,10 +133,10 @@
           <l>&amp; yet the particular figute is the particular figure</l>
           <l><del>This is</del> <del>Their</del> This extraordinary intensification</l>
           <l>comes fitfully: we note a passage that</l>
-          <l><del>seems</del>   it flits through <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">Marlowe</rs>;</l>
-          <l>it is in the <rs type="literary-work" ref="../resources/annotations.xml#lit-reve" key="Revenger's Tragedy, The">Revengers Tragedy</rs>. <del>Their</del> It is in</l>
-          <l>in words like <rs type="person" ref="../resources/annotations.xml#psn-they" key="Heywood, Thomas">Heywoods</rs>: oh God...</l>
-          <l><del>or in</del> <del>the</del> &amp; of course finally in <rs type="person" ref="../resources/annotations.xml#lit-wsha" key="Shakespeare, William">
+          <l><del>seems</del>   it flits through <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">Marlowe</rs>;</l>
+          <l>it is in the <rs type="literary-work" xml:id="lit-reve" key="Revenger's Tragedy, The">Revengers Tragedy</rs>. <del>Their</del> It is in</l>
+          <l>in words like <rs type="person" xml:id="psn-they" key="Heywood, Thomas">Heywoods</rs>: oh God...</l>
+          <l><del>or in</del> <del>the</del> &amp; of course finally in <rs type="person" xml:id="lit-wsha" key="Shakespeare, William">
             <choice>
               <sic>Sh<hi rend="superscript">re</hi>.</sic>
               <corr>Shakespeare</corr>
@@ -181,7 +181,7 @@
           <l>experiment: as the common effort to</l>
           <l><del>sede</del> explore in their immense [reserves?] of</l>
           <l>emotion; <del>an</del> <del>an expression which in <del>
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs></del> becomes</del></l>
@@ -201,11 +201,11 @@
           <l>that the nameless, uncommonly [illeg.], were</l>
           <l>somehow all compressing to [thread?]</l>
           <l>[illeg.], towards 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs>   And</l>
-          <l>the <rs type="person" ref="../resources/annotations.xml#psn-efyt">Fyttons</rs> or the <rs type="person" ref="../resources/annotations.xml#psn-mher" key="Herbert, Mary">Herberts</rs> <del>we</del> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Bacons</rs></l>
+          <l>the <rs type="person" xml:id="psn-efyt">Fyttons</rs> or the <rs type="person" xml:id="psn-mher" key="Herbert, Mary">Herberts</rs> <del>we</del> &amp; the <rs type="person" xml:id="psn-abac" key="Bacon, Anne">Bacons</rs></l>
           <l>were also ressign their weight their</l>
         </p>
       </div>

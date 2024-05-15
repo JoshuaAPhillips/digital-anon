@@ -88,7 +88,7 @@
               <corr>which</corr>
             </choice> the reader extracts from the</l>
           <l>printed page. But it <add place="above">are not</add> This is the reason, perhaps, why</l>
-          <l>we do not 'know' <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">Marlowe</rs>, <rs type="person" ref="../resources/annotations.xml#psn-tdek" key="Dekker, Thomas">Dekker</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou" key="Tourneur, Cecil">Tourneur</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jfor" key="Ford, John">Ford</rs>.</l>
+          <l>we do not 'know' <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">Marlowe</rs>, <rs type="person" xml:id="psn-tdek" key="Dekker, Thomas">Dekker</rs>, <rs type="person" xml:id="psn-ctou" key="Tourneur, Cecil">Tourneur</rs>, <rs type="person" xml:id="psn-jfor" key="Ford, John">Ford</rs>.</l>
           <l>No scholar will ever now discover them. What we</l>
           <l>have of them is what it was possible for their</l>
           <l>actors to <del>convey.</del> <del>a generalised tendency.</del></l>
@@ -102,7 +102,7 @@
       <div xml:id="m1-8-6.2" n="2" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2/761,116,1703,632/full/0/default.tif">
           <l>thus makes 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs> in his own image. <del>
@@ -127,7 +127,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-6/m1-8-6-2/731,700,1845,2560/full/0/default.tif">
           <l>And when in 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs> this pressure to say [illeg.] through other</l>
@@ -147,8 +147,8 @@
           <l><del>the</del> I will, says one, visualise him: &amp;:</l>
           <l>He was fine &amp; generous; &amp; if we like to add, about</l>
           <l>middle height with a [clothed?] fine head, no one offends.</l>
-          <l>He certainly walked down <rs type="place" ref="../resources/annotations.xml#pla-blac" key="Blackfriars">Blackfriars</rs>: &amp; ate at times</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-merm" key="Mermaid, The">Mermaid</rs>. That line soon closes. The other –</l>
+          <l>He certainly walked down <rs type="place" xml:id="pla-blac" key="Blackfriars">Blackfriars</rs>: &amp; ate at times</l>
+          <l><rs type="place" xml:id="pla-merm" key="Mermaid, The">Mermaid</rs>. That line soon closes. The other –</l>
           <l>which ambitiously casts a line round the plays</l>
           <l>cannot succeed because it is different every time.</l>
           <l>Do they show a regular development?</l>
@@ -174,7 +174,7 @@
           <l>Further, <del>this</del> he has given currency to much more</l>
           <l><del>than any other writer,</del> that everyone can <del>find</del> [make? small?] [hug?]</l>
           <l>himself in 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs> <del>The scholars</del> <del>We have therefore</del></l>
@@ -257,7 +257,7 @@
           <l>The <del>spoken</del> <del>&amp;</del> <del>&amp;</del> &amp; for <del>the general forms</del></l>
           <l>it accounts too for the <del>delay</del> <del>slow</del> <del>long</del></l>
           <l><del>delay in</del> <del>marked pause in</del> <del>suspense,</del> <del>in</del></l>
-          <l><del>even as <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">Shakespeares</rs> fame</del> long pause, when</l>
+          <l><del>even as <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeares</rs> fame</del> long pause, when</l>
           <l>even Shakespeares <add place="above">fame</add> seems to have hung suspended <del>in</del></l>
           <l>unrealised in the air. <del>Then when the plays</del> were</l>
           <l>printed, that <del>the reader was</del> born: &amp;</l>
@@ -286,7 +286,7 @@
           <l>inflection, gestures, [placings?] <add place="above">plays</add>. Anybody</l>
           <l><del>can test</del> this <add place="above">can be tested</add> by comparing the impressions</l>
           <l>after seeing 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs> acted, &amp; after reading the play</l>
@@ -306,7 +306,7 @@
           <l><del>imagines</del> the trumpets &amp; the flags: the presence</l>
           <l>of the citizens &amp; apprentices: He does what he</l>
           <l>can to supply what is so obviously a part of</l>
-          <l><del>the</del> <del><rs ref="../resources/annotations.xml#lit-gamme" type="literary-work" key="Gammer Gurton's Needle">Gammer Gurton Needle,</rs> of <rs type="literary-work" ref="../resources/lit-woma" key="Woman Killed with Kindness, A">A Woman Killed</rs></del></l>
+          <l><del>the</del> <del><rs xml:id="lit-gamme" type="literary-work" key="Gammer Gurton's Needle">Gammer Gurton Needle,</rs> of <rs type="literary-work" ref="../resources/lit-woma" key="Woman Killed with Kindness, A">A Woman Killed</rs></del></l>
           <l>play. At some point in 
             <choice>
               <sic>E<hi rend="superscript">tn</hi></sic>

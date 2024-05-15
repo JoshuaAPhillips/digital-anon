@@ -89,7 +89,7 @@
             <choice>
               <sic>fanatsies</sic>
               <corr>fantasies</corr>
-            </choice>, Mr <rs type="person" ref="../resources/annotations.xml#psn-fbea" key="Beaumont, Francis">Beaumont</rs> has indeed recourse</l>
+            </choice>, Mr <rs type="person" xml:id="psn-fbea" key="Beaumont, Francis">Beaumont</rs> has indeed recourse</l>
           <l>to poetry. After trying to explain <quote source="#" rend="inline">My conceit of this</quote></l>
           <l><quote source="#" rend="inline">triple love, of affection passion and 
             <choice>
@@ -104,7 +104,7 @@
             <choice>
               <sic>welt th</sic>
               <corr>wealth</corr>
-            </choice> of imagery he quotes <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs>... <quote source="#" rend="inline">"... of lae</quote></l>
+            </choice> of imagery he quotes <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs>... <quote source="#" rend="inline">"... of lae</quote></l>
           <quote source="#" rend="inline">
             <l>late I have light upon Mr 
               <choice>
@@ -204,7 +204,7 @@
               <sic>contrbutions</sic>
               <corr>contributions</corr>
             </choice> to our knowledge</l>
-          <l>of what <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
+          <l>of what <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">
             <choice>
               <sic>Shakespre</sic>
               <corr>Shakespeare</corr>
@@ -301,7 +301,7 @@
               <corr>substantial</corr>
             </choice> as cloth of gold and pigs capons hogs</l>
           <l>can make it. But the mind that lives in the head, the</l>
-          <l>heart that <del>ha</del> speak only on the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs>, through the</l>
+          <l>heart that <del>ha</del> speak only on the <rs type="place" xml:id="pla-bank" key="Bankside">Bankside</rs>, through the</l>
           <l>mouths of the players.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m111-1/m111-1-3/273,318,541,326/full/0/default.tif">
@@ -320,8 +320,8 @@
             <choice>
               <sic>socity</sic>
               <corr>society</corr>
-            </choice>. <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare">A young poet</rs> dedicates his</l>
-          <l>sonnets to <rs type="person" ref="../resources/annotations.xml#psn-mrwh" key="Mr W. H.">Mr W. H.</rs> Not one of all those highly 
+            </choice>. <rs type="person" xml:id="psn-wsha" key="Shakespeare">A young poet</rs> dedicates his</l>
+          <l>sonnets to <rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W. H.</rs> Not one of all those highly 
             <choice>
               <sic>eduvated</sic>
               <corr>educated</corr>
@@ -332,8 +332,8 @@
             <choice>
               <sic>Southmapton</sic>
               <corr>Southampton</corr>
-            </choice> and Lord Rutland, <rs type="person" ref="../resources/annotations.xml#psn-rwhy" key="Whyte, Roland">Roland White</rs> wrote to</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-rsid" key="Sidney, Robert">Sir Robert Sidney</rs>, <quote source="#" rend="inline">pass away the time in London, merely in</quote></l>
+            </choice> and Lord Rutland, <rs type="person" xml:id="psn-rwhy" key="Whyte, Roland">Roland White</rs> wrote to</l>
+          <l><rs type="person" xml:id="psn-rsid" key="Sidney, Robert">Sir Robert Sidney</rs>, <quote source="#" rend="inline">pass away the time in London, merely in</quote></l>
           <l><quote source="#" rend="inline">going to plays 
             <choice>
               <sic>ev y</sic>
@@ -383,10 +383,10 @@
             <choice>
               <sic>re encated</sic>
               <corr>reenacted</corr>
-            </choice>. But the <rs type="person" ref="../resources/annotations.xml#psn-stat" key="Stationer's Office, The">censor</rs></l>
+            </choice>. But the <rs type="person" xml:id="psn-stat" key="Stationer's Office, The">censor</rs></l>
           <l>was quick to control irreverence. And in fact the dramatist</l>
           <l>wasn ot destroying society. The indignation that, after the</l>
-          <l>first silent surprise, that <rs type="person" ref="../resources/annotations.xml#psn-hibs" key="Ibsen, Henrik">Ibsen</rs> for example stirred in</l>
+          <l>first silent surprise, that <rs type="person" xml:id="psn-hibs" key="Ibsen, Henrik">Ibsen</rs> for example stirred in</l>
           <l>London was partly the rage of those who felt that</l>
         </p>
       </div>
@@ -523,7 +523,7 @@
             <choice>
               <sic>Bioth</sic>
               <corr>Both</corr>
-            </choice> <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs> and <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Ben Jonson</rs> deal with the 
+            </choice> <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sidney</rs> and <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Ben Jonson</rs> deal with the 
             <choice>
               <sic><add hand="ms" place="inline">g</add>neral</sic>
               <corr>general</corr>
@@ -548,7 +548,7 @@
             </choice>.</l>
           <l>It accounts too for the long pause <add hand="ms" place="above">between [sixteenth? seventeenth?] &amp; the 18th centuries</add> when the plays of</l>
           <l>
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Shakepaere</sic>
               <corr>Shakespeare</corr>
             </choice></rs> even hang suspended and unrealised. It was only</l>
@@ -633,12 +633,12 @@
               <corr>trumpets</corr>
             </choice></l>
           <l>and the flags; the citizens and the apprentices.</l>
-          <l>He furbishes himself <add hand="typewriter" place="above">nourishes himself</add> with a dip into <rs type="person" ref="../resources/annotations.xml#psn-phen" key="Henslowe, Philip">
+          <l>He furbishes himself <add hand="typewriter" place="above">nourishes himself</add> with a dip into <rs type="person" xml:id="psn-phen" key="Henslowe, Philip">
             <choice>
               <sic>hensloew</sic>
               <corr>Henslowe</corr>
             </choice></rs>,</l>
-          <l>with a dip into <rs type="person" ref="../resources/annotations.xml#psn-rhol" key="Holinshed, Raphael">
+          <l>with a dip into <rs type="person" xml:id="psn-rhol" key="Holinshed, Raphael">
             <choice>
               <sic>Holingshed</sic>
               <corr>Holinshed</corr>
@@ -840,13 +840,13 @@
             <choice>
               <sic>agains</sic>
               <corr>again</corr>
-            </choice> is always changing. The <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">cinema</rs> is now</l>
+            </choice> is always changing. The <rs type="literary-work" xml:id="lit-cine" key="Cinema">cinema</rs> is now</l>
           <l>
             <choice>
               <sic>develpojg</sic>
               <corr>developing</corr>
             </choice> his eyes, the 
-            <rs type="literary-work" ref="../resources/annotations.xml#lit-broa" key="Broadcast"><choice>
+            <rs type="literary-work" xml:id="lit-broa" key="Broadcast"><choice>
               <sic>Braodcast</sic>
               <corr>Broadcast</corr>
             </choice></rs> is 

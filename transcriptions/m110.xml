@@ -60,7 +60,7 @@
           <l>26</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/939,220,1666,220/full/0/default.jpg">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> with his eye upon the reader in the great room.</l>
+          <l><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> with his eye upon the reader in the great room.</l>
           <l>Yet the audience for all its size and compulsion is silent.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-1/595,180,443,540/full/0/default.jpg">
@@ -97,7 +97,7 @@
               <sic>sielnce</sic>
               <corr>silence</corr>
             </choice></l>
-          <l>at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle" key="Ballet Russes">Russian ballet</rs> or the <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">
+          <l>at the <rs type="literary-work" xml:id="lit-balle" key="Ballet Russes">Russian ballet</rs> or the <rs type="literary-work" xml:id="lit-cine" key="Cinema">
             <choice>
               <sic>cima</sic>
               <corr>cinema</corr>
@@ -114,11 +114,11 @@
               <sic>ust</sic>
               <corr>must</corr>
             </choice> have been overwhelming.</l>
-          <l>There at the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">
+          <l>There at the <rs type="place" xml:id="pla-glob" key="Globe, The">
             <choice>
               <sic>Glove</sic>
               <corr>Globe</corr>
-            </choice></rs> or at the <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">Rose</rs> men and women whose only</l>
+            </choice></rs> or at the <rs type="place" xml:id="pla-rose" key="Rose, The">Rose</rs> men and women whose only</l>
           <l>reading had been the Bible or some old 
             <choice>
               <sic>chonicle</sic>
@@ -207,9 +207,9 @@
           <l>art?</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-3/807,528,1907,1756/full/0/default.jpg">
-          <l>Perhaps <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> in his essays supplies a reason.</l>
+          <l>Perhaps <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">Bacon</rs> in his essays supplies a reason.</l>
           <l><quote rend="inline" source="#">"These things be but toyes"</quote> he wrote in the essay called</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-masq" key="Of Masques and Triumphs">"Of Masques and Triumphs."</rs> To the aristocratic <choice>
+          <l><rs type="literary-work" xml:id="lit-masq" key="Of Masques and Triumphs">"Of Masques and Triumphs."</rs> To the aristocratic <choice>
             <sic>sch lar</sic>
             <corr>scholar</corr>
           </choice></l>
@@ -218,11 +218,11 @@
             <corr>mountebanks</corr>
           </choice> bear leaders and</l>
           <l>acrobats. They spoke in the vulgar tongue. Off the stage</l>
-          <l>they lived in the heart of darkness. <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher"><choice>
+          <l>they lived in the heart of darkness. <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher"><choice>
             <sic>Marloew</sic>
             <corr>Marlowe</corr>
           </choice></rs> lying on the</l>
-          <l>bed in Deptford reached out and stabbed <add place="inline"><rs type="person" ref="../resources/annotations.xml#psn-ifriz" key="Ingram, Frizer">Ingram</rs> in the head</add></l>
+          <l>bed in Deptford reached out and stabbed <add place="inline"><rs type="person" xml:id="psn-ifriz" key="Ingram, Frizer">Ingram</rs> in the head</add></l>
           <l><add place="above">whoever</add> in the back. Mr <add place="above">Ingram gave Marlowe a mortal wound</add> then drove his dagger through</l>
           <l><choice>
             <sic>Marloews</sic>
@@ -230,7 +230,7 @@
           </choice> <choice>
             <sic>eeeye</sic>
             <corr>eye</corr>
-          </choice> <add place="above">over his right eye</add>. <rs type="person" ref="../resources/annotations.xml#psn-bjon" key="Jonson, Ben">Ben Jonson</rs> S <rs type="person" ref="../resources/annotations.xml#psn#gspe" key="Spenser, Gabriel">Gabriel Spenser</rs> through the</l>
+          </choice> <add place="above">over his right eye</add>. <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Ben Jonson</rs> S <rs type="person" xml:id="psn#gspe" key="Spenser, Gabriel">Gabriel Spenser</rs> through the</l>
           <l>body with a sword that cost three and sixpence. So complete</l>
           <l>was bacons contempt for this underworld that he could be</l>
           <l>tolerant. <quote source="#" rend="inline">The stage is more beholding to Love than the</quote></l>
@@ -323,13 +323,13 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-5/823,1212,1865,1108/full/0/default.jpg">
           <l>The soul that walked between delicate groves keeps to a</l>
-          <l>narrow path between hedges. While <rs type="person" ref="../resources/annotations.xml#psn-mmon" key="Montaigne, Michel de">Montaigne</rs> ranged the world.</l>
+          <l>narrow path between hedges. While <rs type="person" xml:id="psn-mmon" key="Montaigne, Michel de">Montaigne</rs> ranged the world.</l>
           <l>
             <choice>
               <sic>micing</sic>
               <corr>mixing</corr>
             </choice> garrulously with everyone, and speculating freely,</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> kept to the narrow path. Yet even in the shade</l>
+          <l><rs type="person" xml:id="psn-fbac" key="Bacon, Francis">Bacon</rs> kept to the narrow path. Yet even in the shade</l>
           <l>his thought is embodied. His deep meditations are given 
             <choice>
               <sic>visibe</sic>
@@ -403,7 +403,7 @@
               <corr>ballads</corr>
             </choice>; it</l>
           <l>gave us the songs. It allowed us to know nothing of the</l>
-          <l>mans name. <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> had great privileges. He is not</l>
+          <l>mans name. <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> had great privileges. He is not</l>
           <l>resopnsible. He is not self conscious. He can borrow.</l>
           <l>He can repeat. He can say what 
             <choice>
@@ -491,18 +491,18 @@
           <l>186</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/875,240,1763,356/full/0/default.jpg">
-          <l>"But we neednt have been to all that trouble," she <add hand="ms"><rs type="person" ref="../resources/annotations.xml#psn-lucy" key="Swithin, Lucy">Lucy</rs></add></l>
+          <l>"But we neednt have been to all that trouble," she <add hand="ms"><rs type="person" xml:id="psn-lucy" key="Swithin, Lucy">Lucy</rs></add></l>
           <l>continued "making the Barn ready, for it didnt rain this</l>
           <l>year"</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/907,580,1763,356/full/0/default.jpg">
           <l>"This year, last year, next year, never..." muttered</l>
-          <l>old <rs type="person" ref="../resources/annotations.xml#psn-bart" key="Oliver, Bartholomew">Bartholomew</rs>. "Tinker, tailor, soldier, sailor..." He was</l>
+          <l>old <rs type="person" xml:id="psn-bart" key="Oliver, Bartholomew">Bartholomew</rs>. "Tinker, tailor, soldier, sailor..." He was</l>
           <l>talking in his sleep.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/871,924,1859,540/full/0/default.jpg">
           <l>Lucy slipped her letter into its envelop<add hand="ms" place="inline">e</add>. It was time</l>
-          <l>to read her boo<add hand="ms" place="inline">k</add>---the <rs type="literary-work" ref="../resources/annotations.xml#lit-outl" key="Outline of History, The">Outline of History</rs>. She had lost her</l>
+          <l>to read her boo<add hand="ms" place="inline">k</add>---the <rs type="literary-work" xml:id="lit-outl" key="Outline of History, The">Outline of History</rs>. She had lost her</l>
           <l>place. She looked at the pictures; mammoths and mastodons,</l>
           <l>and prehistoric birds. Then she found the page where she</l>
           <l>had stopped.</l>
@@ -535,7 +535,7 @@
           <l>blue. The shadow crept over Bartholomews face. He looked</l>
           <l>leafless, spectral. As a dog shudders its skin, his skin</l>
           <l>shuddered. He rose, shook himself, glared at nothing,</l>
-          <l>and stalked from the room. They hard the <rs type="person" ref="../resources/annotations.xml#psn-sohr">dog's</rs> paws padding</l>
+          <l>and stalked from the room. They hard the <rs type="person" xml:id="psn-sohr">dog's</rs> paws padding</l>
           <l>on the carpet behind him.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-8/835,2888,1835,444/full/0/default.jpg">
@@ -608,7 +608,7 @@
               <sic>themsleves</sic>
               <corr>themselves</corr>
             </choice> able</l>
-          <l>to say what they think without quoting <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs>.</l>
+          <l>to say what they think without quoting <rs type="person" xml:id="psn-espe">Spenser</rs>.</l>
           <l>The 
             <choice>
               <sic>curatin</sic>
@@ -621,19 +621,19 @@
           <l><add>Every Each time, with Sh<hi rend="superscript">re</hi> it rises upon a more complex, <del hand="ms">highly</del> matured drama.</add></l>
           <l>After it has risen again and again it rises finally upon</l>
           <l>upon the completely embodied; and upon the completely</l>
-          <l>controlled. It rises upon <rs type="literary-work" ref="../resources/annotations.xml#lit-haml" key="Hamlet">Hamlet</rs> and <rs type="literary-work" ref="../resources/annotations.xml#lit-ancl" key="Antony and Cleopatra">
+          <l>controlled. It rises upon <rs type="literary-work" xml:id="lit-haml" key="Hamlet">Hamlet</rs> and <rs type="literary-work" xml:id="lit-ancl" key="Antony and Cleopatra">
             <choice>
               <sic>Cleoptara</sic>
               <corr>Cleopatra</corr>
-            </choice></rs> and <rs type="person" ref="../resources/annotations.xml#psn-fals" key="Falstaff">
+            </choice></rs> and <rs type="person" xml:id="psn-fals" key="Falstaff">
               <choice>
                 <sic>Flastaff</sic>
                 <corr>Falstaff</corr>
               </choice></rs></l>
-          <l>and <rs type="person" ref="../resources/annotations.xml#lit-macb" key="Macbeth">Macbeth</rs>. Finally it rises upon <rs type="literary-work" ref="../resources/annotations.xml#lit-temp" key="Tempest, The">the Tempest</rs>. But the play</l>
+          <l>and <rs type="person" xml:id="lit-macb" key="Macbeth">Macbeth</rs>. Finally it rises upon <rs type="literary-work" xml:id="lit-temp" key="Tempest, The">the Tempest</rs>. But the play</l>
           <l>has outgrown the uncovered theatre where the sun beats and</l>
           <l>the rain pours. The theatre must be replaced</l>
-          <l>by the theatre of the brain. <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> is replaced by the man</l>
+          <l>by the theatre of the brain. <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> is replaced by the man</l>
           <l>who writes a book. The audience is replaced by the the</l>
           <l>reader. <add hand="ms" place="inline">Anon, <del hand="ms">when</del> is dead.</add></l>
         </p>

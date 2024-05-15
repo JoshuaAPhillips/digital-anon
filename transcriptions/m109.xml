@@ -73,7 +73,7 @@
           <l>the past; &amp; become</l>
           <l>in a room reading alone?</l>
           <l>With 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha"><choice>
+            <rs type="person" xml:id="psn-wsha"><choice>
               <sic>S<hi rend="superscript">hre</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs> of course. <del>He</del> It was</l>
@@ -91,9 +91,9 @@
           <sic>h  </sic>
           <corr>her</corr>
         </choice> marriage however that brought about her</l>
-        <l>peculiar relationship with <rs type="person" ref="../resources/annotations.xml#psn-sjoh" key="Johnson, Samuel">Johnson</rs>. Had she been happy,</l>
+        <l>peculiar relationship with <rs type="person" xml:id="psn-sjoh" key="Johnson, Samuel">Johnson</rs>. Had she been happy,</l>
         <l>she would never have known him as she did. It was through</l>
-        <l>him that she got what <rs type="person" key="Thrale, Henry">Thrale</rs> denied <rs type="person" ref="../resources/annotations.xml#psn-hthr" key="Thrale, Hester">her</rs>-- stimulus, society,</l>
+        <l>him that she got what <rs type="person" key="Thrale, Henry">Thrale</rs> denied <rs type="person" xml:id="psn-hthr" key="Thrale, Hester">her</rs>-- stimulus, society,</l>
         <l>an outlet for her irrepressible curiosity and ambition.</l>
         <l>But the <choice>
           <sic>freindship</sic>
@@ -140,7 +140,7 @@
         <l>and noblemen, men versed in Latin and Greek; scholars,</l>
         <l>courtiers, statesmen. Their silence was equally profound.</l>
         <l>But their influence was also effective. <del hand="typewriter">The Bacons and</del></l>
-        <l><rs type="literary-work" ref="../resources/annotations.xml#lit-stra" key="Elizabeth and Essex">Elizabeth and Essex</rs> and <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">Bacon</rs> found what suited them too</l>
+        <l><rs type="literary-work" xml:id="lit-stra" key="Elizabeth and Essex">Elizabeth and Essex</rs> and <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">Bacon</rs> found what suited them too</l>
         <l>in the 
           <choice>
             <sic>plyhouse</sic>
@@ -181,7 +181,7 @@
             <choice>
               <sic>slves</sic>
               <corr>themselves</corr>
-            </choice>. The <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs> must have players to divert her.</l>
+            </choice>. The <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs> must have players to divert her.</l>
           <l>With all his craft and caution he himself 
             <choice>
               <sic>emdoies</sic>
@@ -250,7 +250,7 @@
               <corr>invisible</corr>
             </choice> garment of anonymity were</l>
           <l>Gos spies, in the streets, also at Court.</l>
-          <l>If at <rs type="place" ref="../resources/annotations.xml#pla-gren" key="Greenwich">Greenwich</rs> or at <rs type="place" ref="../resources/annotations.xml#pla-whit" key="Whitehall">
+          <l>If at <rs type="place" xml:id="pla-gren" key="Greenwich">Greenwich</rs> or at <rs type="place" xml:id="pla-whit" key="Whitehall">
             <choice>
               <sic>Whotehall</sic>
               <corr>Whitehall</corr>
@@ -346,12 +346,12 @@
           <l>31</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m109/m109-7/796,228,1796,3188/full/0/default.tif">
-          <l>The great house that <rs type="person" ref="../resources/annotations.xml#psn-hlat" key="Latimer, Hugh">Latimer</rs> 
+          <l>The great house that <rs type="person" xml:id="psn-hlat" key="Latimer, Hugh">Latimer</rs> 
             <choice>
               <sic>delpored</sic>
               <corr>deplored</corr>
             </choice> becomes solid and</l>
-          <l>entire in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Anne Cliffords</rs> diary.</l>
+          <l>entire in the pages of Lady <rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Anne Cliffords</rs> diary.</l>
           <l><add hand="ms" place="above">From the first she is aware of her rights of a noble.</add> She is aware from her first youth of her rights as a</l>
           <l>land owner. She has a profound sense of the</l>
           <l>the rights of the 
@@ -584,7 +584,7 @@
               <sic>oew</sic>
               <corr>owe</corr>
             </choice> the Elizabethans novels.</l>
-          <l>or that very curious book <rs type="literary-work" ref="../resources/annotations.xml#lit-trav" key="Unfortunate Traveller, The">The Unfortunate 
+          <l>or that very curious book <rs type="literary-work" xml:id="lit-trav" key="Unfortunate Traveller, The">The Unfortunate 
             <choice>
               <sic>Travller</sic>
               <corr>Traveller</corr>
@@ -608,7 +608,7 @@
             <choice>
               <sic>ornmanets</sic>
               <corr>ornaments</corr>
-            </choice>. But while <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
+            </choice>. But while <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">
               <choice>
                 <sic>Sahkepeare</sic>
                 <corr>Shakespeare</corr>

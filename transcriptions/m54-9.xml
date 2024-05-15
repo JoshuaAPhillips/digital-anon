@@ -84,16 +84,16 @@
               <sic>finsihed</sic>
               <corr>finished</corr>
             </choice></quote></l>
-          <l><quote source="#" rend="inline">divers histories"</quote> <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxton</rs> wrote in 
+          <l><quote source="#" rend="inline">divers histories"</quote> <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxton</rs> wrote in 
             <choice>
               <sic>41470</sic>
               <corr>1470</corr>
             </choice> in the preface</l>
-          <l>to the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort" key="Morte d'Arthur">Morte DArthur</rs>, <quote source="#">"many noble and divers gentlemen</quote></l>
+          <l>to the <rs type="literary-work" xml:id="lit-mort" key="Morte d'Arthur">Morte DArthur</rs>, <quote source="#">"many noble and divers gentlemen</quote></l>
           <l><quote source="#" rend="inline">of this realm of England came and demanded me many and oft</quote></l>
           <l><quote source="#" rend="inline">times ..... to imprint the history of the said noble king</quote></l>
-          <l><quote source="#" rend="inline">and conqueror <rs type="person" ref="../resources/annotations.xml#psn-kart" key="Arthur (King)">King Arthur</rs>, and of his knights with the</quote></l>
-          <l><quote source="#" rend="inline">history of the <rs type="object" ref="../resources/annotations.xml#obj-gral" key="Holy Gral (Sang Gral)">San greal</rs> and of the death and ending of</quote></l>
+          <l><quote source="#" rend="inline">and conqueror <rs type="person" xml:id="psn-kart" key="Arthur (King)">King Arthur</rs>, and of his knights with the</quote></l>
+          <l><quote source="#" rend="inline">history of the <rs type="object" xml:id="obj-gral" key="Holy Gral (Sang Gral)">San greal</rs> and of the death and ending of</quote></l>
           <l><quote source="#" rend="inline">the said Arthur."</quote> The twenty one books of the Morte DArthur</l>
           <l>preserve what lay 
             <choice>
@@ -110,15 +110,15 @@
               <sic>legnd</sic>
               <corr>legend</corr>
             </choice> was still alive in the nineteenth century.</l>
-          <l><quote source="#" rend="inline">"...folks do say"</quote> said a peasant at <rs type="place" ref="../resources/annotations.xml#pla-cadb" key="Cadbury">Cadbury</rs> <quote source="#">that on the</quote></l>
+          <l><quote source="#" rend="inline">"...folks do say"</quote> said a peasant at <rs type="place" xml:id="pla-cadb" key="Cadbury">Cadbury</rs> <quote source="#">that on the</quote></l>
           <l><quote source="#" rend="inline">night of the full moon King 
             <choice>
               <sic>Arthus</sic>
               <corr>Arthur</corr>
             </choice> and his men ride round</quote></l>
           <l><quote source="#" rend="inline">the hill, and their horses are shod with silver..."</quote></l>
-          <l>A silver horseshoe, <rs type="person" ref="../resources/annotations.xml#psn-jlel" key="Leland, John">Leland</rs> says, was found in <rs type="person" ref="../resources/annotations.xml#psn-hen8" key="Henry VIII"></rs></l>
-          <l>time at <rs type="person" ref="../resources/annotations.xml#pla-came" key="Camelot">Camelot</rs>. It is in <rs type="person" ref="../resources/annotations.xml#psn-tmal" key="Malory, Thomas">Malorys</rs> pages that we hear the</l>
+          <l>A silver horseshoe, <rs type="person" xml:id="psn-jlel" key="Leland, John">Leland</rs> says, was found in <rs type="person" xml:id="psn-hen8" key="Henry VIII"></rs></l>
+          <l>time at <rs type="person" xml:id="pla-came" key="Camelot">Camelot</rs>. It is in <rs type="person" xml:id="psn-tmal" key="Malory, Thomas">Malorys</rs> pages that we hear the</l>
           <l>voice of <add place="above">that</add> anon <add place="above">who</add> murmuring in the mind of King and Queen and</l>
           <l>peasant, They remembered how the old King</l>
         </p>
@@ -130,20 +130,20 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3/958,262,1744,678/full/0/default.tif">
           <l>and his knights went their ways through the wild woods seek</l>
-          <l>ing adventure. <add hand="ms" place="above">When</add> <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxton</rs> <del hand="ms">himself</del> doubted. <del>No</del>such <add hand="ms" place="above">a</add> man, he</l>
+          <l>ing adventure. <add hand="ms" place="above">When</add> <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxton</rs> <del hand="ms">himself</del> doubted. <del>No</del>such <add hand="ms" place="above">a</add> man, he</l>
           <l>objected, had ever lived. But the nobles were positive,</l>
-          <l>they said that you could see <rs type="person" ref="../resources/annotations.xml#psn-gawa" key="Gawain">Gawaines</rs> skull at <rs type="place" ref="../resources/annotations.xml#psn-dove" key="Dover">Dover</rs></l>
-          <l>and the <rs type="object" ref="../resources/annotations.xml#obj-roun" key="Round Table">Round Table</rs> at <rs type="place" ref="../resources/annotations.xml#pla-winc" key="Winchester">Winchester</rs> and in <quote source="#" rend="inline">"in other places</quote></l>
-          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-lanc" key="Lancelot">Launcelots</rs> sword and many other things.</quote></l>
+          <l>they said that you could see <rs type="person" xml:id="psn-gawa" key="Gawain">Gawaines</rs> skull at <rs type="place" xml:id="psn-dove" key="Dover">Dover</rs></l>
+          <l>and the <rs type="object" xml:id="obj-roun" key="Round Table">Round Table</rs> at <rs type="place" xml:id="pla-winc" key="Winchester">Winchester</rs> and in <quote source="#" rend="inline">"in other places</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" xml:id="psn-lanc" key="Lancelot">Launcelots</rs> sword and many other things.</quote></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-9/m54-9-3/935,924,1782,1980/full/0/default.tif">
-          <l>The book itself represents <rs type="person" ref="../resources/annotations.xml#psn-wcax" key="Caxton, William">Caxtons</rs> scepticism, and the</l>
-          <l>nobles faith. It is half fable, half fact. There is <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>,</l>
-          <l>and <rs type="place" ref="../resources/annotations.xml#pla-carl" key="Carlisle">Carlisle</rs> and <rs type="place" ref="../resources/annotations.xml#pla-stal" key="St Albans">St Albans</rs>; there is the <rs type="person" ref="../resources/annotations.xml#psn-arch">Archbishop of</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-arch" key="Archbishop of Canterbury">Canterbury</rs> and <rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs>. But the roads lead past London to</l>
+          <l>The book itself represents <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxtons</rs> scepticism, and the</l>
+          <l>nobles faith. It is half fable, half fact. There is <rs type="place" xml:id="pla-lond" key="London">London</rs>,</l>
+          <l>and <rs type="place" xml:id="pla-carl" key="Carlisle">Carlisle</rs> and <rs type="place" xml:id="pla-stal" key="St Albans">St Albans</rs>; there is the <rs type="person" xml:id="psn-arch">Archbishop of</rs></l>
+          <l><rs type="person" xml:id="psn-arch" key="Archbishop of Canterbury">Canterbury</rs> and <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs>. But the roads lead past London to</l>
           <l>castles where Knights lie in prison; down the roads ride</l>
-          <l>Queens on white mules; <rs type="person" ref="../resources/annotations.xml#psn-morg" key="Morgan le Fay">Morgan le Fay</rs> turns suddenly to</l>
-          <l>stone; and a hand rises from a lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca" key="Excalibur">Excalibur</rs>.</l>
+          <l>Queens on white mules; <rs type="person" xml:id="psn-morg" key="Morgan le Fay">Morgan le Fay</rs> turns suddenly to</l>
+          <l>stone; and a hand rises from a lake holding <rs type="object" xml:id="obj-exca" key="Excalibur">Excalibur</rs>.</l>
           <l>In the 
             <choice>
               <sic>canfdour</sic>
@@ -508,11 +508,11 @@
             </choice> who looking back sees himself</del> <add hand="typewriter" place="above">the man who is separate from his book.</add></l>
           <l><del hand="ms">against the background</del>. The individual emerges</l>
           <l>at last. <add hand="ms" place="above">He is a chronicler in the [illeg.]</add>His name is 
-            <rs type="person" ref="../resources/annotations.xml#psn-rhol" key="Holinshed, Rafael"><choice>
+            <rs type="person" xml:id="psn-rhol" key="Holinshed, Rafael"><choice>
               <sic>Holingshed</sic>
               <corr>Holinshed</corr>
             </choice></rs>; it is also 
-            <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William"><choice>
+            <rs type="person" xml:id="psn-whar" key="Harrison, William"><choice>
               <sic>Har ison</sic>
               <corr>Harrison</corr>
             </choice></rs>.</l>
@@ -526,7 +526,7 @@
             <choice>
               <sic>nev</sic>
               <corr>never</corr>
-            </choice> been more than forty miles from <rs type="person" ref="../resources/annotations.xml#psn-radw" key="Radwinter">radwinter</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse" key="Essex">Essex</rs>.</l>
+            </choice> been more than forty miles from <rs type="person" xml:id="psn-radw" key="Radwinter">radwinter</rs> in <rs type="place" xml:id="pla-esse" key="Essex">Essex</rs>.</l>
           <l>The individual, <del hand="ms">still much 
             <choice>
               <sic>sumplified</sic>
@@ -579,7 +579,7 @@
             <choice>
               <sic>drowded</sic>
               <corr>crowded</corr>
-            </choice> festering little streets <del>that</del> round <rs type="place" ref="../resources/annotations.xml#pla-stpa" key="St Paul's Cathedral">St Pauls</rs></l>
+            </choice> festering little streets <del>that</del> round <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs></l>
           <l>where the buried smelt so strong. The river was crowded with</l>
           <l>wherries ferrying them across: The riverside people 
             <choice>

@@ -73,7 +73,7 @@
           <del>
             <l><del>Their inarticulateness is real</del></l>
             <l>They spoke with great difficulty at the</l>
-            <l>court of <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Elizabeth</rs></l>
+            <l>court of <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Elizabeth</rs></l>
           </del>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-1/451,2128,231,312/full/0/default.tif"><add place="margin">9</add></p>
@@ -81,11 +81,11 @@
           <l>Their own voices are <del>scarcely audible</del></l>
           <l>scarcely to be heard. <del>If we look into the</del></l>
           <del><l><del>heart of that</del> great room when Elizabeth sat</l></del>
-          <l><del><del>within her</del> we can make out</del>the <del>beautiful</del> <rs type="person" ref="../resources/annotations.xml#psn-mfyt">daughter</rs> <del>of a</del></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-efyt" key="Fytton, Sir Edward">Sir Edward Fylton</rs> knight, of <rs type="place" ref="../resources/annotations.xml#pla-gaws" key="Gawsworth">Gawsworth</rs> in</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-ches" key="Cheshire">Cheshire</rs>, <del>goes to Court</del> becomes one of Elizabeth's</l>
-          <l>maids of honour. <del>The court was</del> <rs type="person" ref="../resources/annotations.xml#psn-wkno" key="Knollys, Sir William">Sir William</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wkno" key="Knollys, Sir William">Knollys</rs> vows that he wil not <quote rend="inline" source="#">"fail to</quote></l>
+          <l><del><del>within her</del> we can make out</del>the <del>beautiful</del> <rs type="person" xml:id="psn-mfyt">daughter</rs> <del>of a</del></l>
+          <l><rs type="person" xml:id="psn-efyt" key="Fytton, Sir Edward">Sir Edward Fylton</rs> knight, of <rs type="place" xml:id="pla-gaws" key="Gawsworth">Gawsworth</rs> in</l>
+          <l><rs type="place" xml:id="pla-ches" key="Cheshire">Cheshire</rs>, <del>goes to Court</del> becomes one of Elizabeth's</l>
+          <l>maids of honour. <del>The court was</del> <rs type="person" xml:id="psn-wkno" key="Knollys, Sir William">Sir William</rs></l>
+          <l><rs type="person" xml:id="psn-wkno" key="Knollys, Sir William">Knollys</rs> vows that he wil not <quote rend="inline" source="#">"fail to</quote></l>
           <quote rend="inline" source="#">
             <l>to fulfil your desire in playing the good</l>
             <l>shepherd &amp; will to thy power defend this</l>
@@ -98,7 +98,7 @@
           <l>odd intervals. <del>We see the</del> The old</l>
           <l>[illeg.] is free to seduce the girl. Again</l>
           <l>there is solence. The girl falls in love with</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wpem" key="Pembroke, William (Lord)">Lord Pembroke</rs>. Gossip says she 
+          <l><rs type="person" xml:id="psn-wpem" key="Pembroke, William (Lord)">Lord Pembroke</rs>. Gossip says she 
             <choice>
               <sic>wd.</sic>
               <corr>would</corr>
@@ -125,8 +125,8 @@
           <l><del>But save for their sf</del> But the drama</l>
           <l><del>of the</del> <del>abandoned girl</del> moves in darkness.</l>
           <l><del>She moves through the court without speaking</del></l>
-          <l><del>seen <del>by an</del> only by a</del> She is solicited by <rs type="person" ref="../resources/annotations.xml#psn-wkno" key="Knollys, Sir William">Knollys</rs>;</l>
-          <l>seduced by <rs type="person" ref="../resources/annotations.xml#psn-wpem" key="Pembroke, William (Lord)">Pembroke</rs> <del>without</del> <del>[dressed?]</del> up as a man</l>
+          <l><del>seen <del>by an</del> only by a</del> She is solicited by <rs type="person" xml:id="psn-wkno" key="Knollys, Sir William">Knollys</rs>;</l>
+          <l>seduced by <rs type="person" xml:id="psn-wpem" key="Pembroke, William (Lord)">Pembroke</rs> <del>without</del> <del>[dressed?]</del> up as a man</l>
           <l><del>without opening her lips. We see her in the white</del></l>
           <l>cloak only through the eyes of one Mrs Martin</l>
           <l>who dwelt at the <rs type="place" ref="../resources/annotations.xml/pla-chop" key="Chopping Knife">Chopping Knife</rs> near</l>
@@ -141,7 +141,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-2/785,1646,1799,1720/full/0/default.tif">
           <l>Her own [passes?], the disgrace, the humiliation of the family</l>
           <l>are all hidden under <del>the</del> flourishes &amp; ornament,</l>
-          <l>parables &amp; similes. <del><rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> is quoted</del>.</l>
+          <l>parables &amp; similes. <del><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> is quoted</del>.</l>
           <l>Spring &amp; summer: the frost that [illeg.] affection; the</l>
           <l>flower of a garden – the <del>kn</del> <del>semblance</del></l>
           <l><del>naturally</del> her, levity &amp; laughter in their old</l>
@@ -162,10 +162,10 @@
       </div>
       <div xml:id="m1-8-4.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-3">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-3/795,74,1875,1740/full/0/default.tif">
-          <l>under cover of their flowery speech, the <del>real</del> <rs type="person" ref="../resources/annotations.xml#psn-efyt" key="Fytton, Sir Edward">Fitton</rs> &amp; the <rs type="person" ref="../resources/annotations.xml#psn-wkno" key="Knollys, Sir William">Knollys</rs> &amp;</l>
+          <l>under cover of their flowery speech, the <del>real</del> <rs type="person" xml:id="psn-efyt" key="Fytton, Sir Edward">Fitton</rs> &amp; the <rs type="person" xml:id="psn-wkno" key="Knollys, Sir William">Knollys</rs> &amp;</l>
           <l>the Pembrokes remain unseen. We only know of the [exchange?]</l>
           <l>from the plays that were acted <del>at</del> <del>in</del> on the</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs> <del>that they felt</del> <del>excited</del> Anonymity</l>
+          <l><rs type="place" xml:id="pla-bank" key="Bankside">Bankside</rs> <del>that they felt</del> <del>excited</del> Anonymity</l>
           <l><del>has</del> They too, like <del>Mar</del> the dramatist, are</l>
           <l><del>nameless.</del> anonymous. <del>Only</del> <del>But all</del></l>
           <l><del>But by a queer</del> <del>The</del> <del>The trappings are there.</del></l>
@@ -212,7 +212,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-4/659,40,1957,3336/full/0/default.tif">
           <l>age can there have been a deeper gulf between the writer &amp; <del>the</del></l>
           <l>society. <del>The great</del> <del>who presumably</del> Who is</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-mrwh" key="Mr W. H.">Mr W. H.</rs> to whom a young poet has</l>
+          <l><rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W. H.</rs> to whom a young poet has</l>
           <l>dedicated his sonnets? No body troubles to</l>
           <l>ask. It is not a matter of importance it seems in</l>
           <l>court circles. The plays are not discussed.</l>
@@ -221,7 +221,7 @@
           <l>descendants of the jugglers &amp; minstrels are too</l>
           <l>have no bearing upon the life of the nobles.</l>
           <l>And <del>the reason may be that</del> the</l>
-          <l>early works of <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William">
+          <l>early works of <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">
             <choice>
               <sic>Sh<hi rend="superscript">re.</hi></sic>
               <corr>Shakespeare</corr>
@@ -230,15 +230,15 @@
           <l>the dramatists were not destroying anything:</l>
           <l><del>If these</del> The indignation that, after the [fun?]</l>
           <l>[illeg.]; then, the example created in</l>
-          <l>16th century <rs type="place" ref="../resources/annotations.xml#pla-lond" key="London">London</rs>, was in part the</l>
+          <l>16th century <rs type="place" xml:id="pla-lond" key="London">London</rs>, was in part the</l>
           <l>rage of those who felt that their won</l>
           <l>world was being [civilised?]. <del>People</del> <del>Great</del></l>
           <l>The great might be mocked in some of the plays.</l>
           <l>The censor was [flush?] to control any</l>
           <l>irreverence. But <del>the releas</del> the</l>
-          <l>public at the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs> or the <rs type="place" ref="../resources/annotations.xml#pla-rose" key="Rose, The">Rose</rs></l>
+          <l>public at the <rs type="place" xml:id="pla-glob" key="Globe, The">Globe</rs> or the <rs type="place" xml:id="pla-rose" key="Rose, The">Rose</rs></l>
           <l>could not <del>resent</del> feel, as the public in the 19th</l>
-          <l>century felt when <rs type="literary-work" ref="../resources/annotations.xml#lit-ghos" key="Ghosts">Ghosts</rs> was acted</l>
+          <l>century felt when <rs type="literary-work" xml:id="lit-ghos" key="Ghosts">Ghosts</rs> was acted</l>
           <l>that a writer had arisen who was</l>
           <l>[distinguishing?] the old humbugs: who was</l>
           <l><del>refle</del> <del>se</del> <del>holding</del> showing up <del>society</del></l>
@@ -253,7 +253,7 @@
           <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-5/721,80,1775,2056/full/0/default.tif">
             <l><del>Then</del> <del>a</del><add place="inline">A</add>gain the curtain rises; <add place="inline">&amp;</add> the shadowy</l>
             <l>insubstantial life that was <del>smothered</del> in</l>
-            <l><del>th</del> <del>in <rs type="place" ref="../resources/annotations.xml#pla-ches" key="Cheshire">Cheshire</rs>, at [illeg.], invisible</del></l>
+            <l><del>th</del> <del>in <rs type="place" xml:id="pla-ches" key="Cheshire">Cheshire</rs>, at [illeg.], invisible</del></l>
             <l><del>ought to</del> of the country squire, of the maid of</l>
             <l>honour is <del>visible to us</del> is revealed. The</l>
             <l><del>all</del> in a round, almost before we have had</l>
@@ -263,8 +263,8 @@
             <l>mute silent <del>loves</del> figures are seen in all</l>
             <l>their [bravery?]. The pressure of unexpressed</l>
             <l>emotion, <del>of the things that</del> has embodied itself</l>
-            <l>into [illeg.], into the figures of <rs type="person" ref="../resources/annotations.xml#psn-frana" key="Frankland">Frankland</rs> and <rs type="person" ref="../resources/annotations.xml#psn-franb" key="Frankland's Wife">his wife</rs>:</l>
-            <l>in <rs type="person" ref="../resources/annotations.xml#psn-wend" key="Wendoll">Wendoll</rs> the adulterer; in <rs type="person" ref="../resources/annotations.xml#psn-acto" key="Acton">Acton</rs> the</l>
+            <l>into [illeg.], into the figures of <rs type="person" xml:id="psn-frana" key="Frankland">Frankland</rs> and <rs type="person" xml:id="psn-franb" key="Frankland's Wife">his wife</rs>:</l>
+            <l>in <rs type="person" xml:id="psn-wend" key="Wendoll">Wendoll</rs> the adulterer; in <rs type="person" xml:id="psn-acto" key="Acton">Acton</rs> the</l>
             <l>the supper is laid; the cards are on the table; &amp;</l>
             <l>the husband sees his wife lying [always?], in the</l>
             <l>arms of her lover. <del>We</del> the old yellow pages,</l>
@@ -326,7 +326,7 @@
           <l>[illeg.], sometimes to divert the mind from what</l>
           <l>happens, to the motives, <del>the hidden passions.</del></l>
           <l>behind the action. What, he broods, in a</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-woma" key="Woman Killed with Kindness, A">Woman Killed with Kindness</rs> <del>of</del> is the</l>
+          <l><rs type="literary-work" xml:id="lit-woma" key="Woman Killed with Kindness, A">Woman Killed with Kindness</rs> <del>of</del> is the</l>
           <l>effect of mercy? – if, the sword is withheld</l>
           <l>if the adulterers are [empouted?] not with death,</l>
           <l>but with a guilty conscience? –</l>
@@ -340,8 +340,8 @@
           <l>the reader too loses anonymity. The</l>
           <l><del>reading the</del> As the plays comes</l>
           <l>faster &amp; faster, as the curtin rises</l>
-          <l>yet again &amp; again – upon <rs type="person" ref="../resources/annotations.xml#psn-cmar" key="Marlowe, Christopher">Marlowe</rs>, <rs type="person" ref="../resources/annotations.xml#psn-tkyd" key="Kyd, Thomas">Kyd</rs>,</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-they" key="Heywood, Thomas">Heywood</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jmar" key="Marston, John">Marston</rs>, <rs type="person" ref="../resources/annotations.xml#psn-ctou" key="Tourneur, Cecil">Tourneur</rs> – the</l>
+          <l>yet again &amp; again – upon <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">Marlowe</rs>, <rs type="person" xml:id="psn-tkyd" key="Kyd, Thomas">Kyd</rs>,</l>
+          <l><rs type="person" xml:id="psn-they" key="Heywood, Thomas">Heywood</rs>, <rs type="person" xml:id="psn-jmar" key="Marston, John">Marston</rs>, <rs type="person" xml:id="psn-ctou" key="Tourneur, Cecil">Tourneur</rs> – the</l>
         </p>
       </div>
       <div xml:id="m1-8-4.7" n="7" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-7">
@@ -422,7 +422,7 @@
               <corr>could</corr>
             </choice> give voice to everything.</l>
           <l>Then, with 
-            <rs type="person" ref="../resources/annotations.xml#psn-wsha" key="Shakespeare, William"><choice>
+            <rs type="person" xml:id="psn-wsha" key="Shakespeare, William"><choice>
               <sic>Sh<hi rend="superscript">re</hi></sic>
               <corr>Shakespeare</corr>
             </choice></rs>, anonymity was destroyed..</l>
@@ -440,7 +440,7 @@
           </add>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-8/733,2470,1799,844/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>, after all, has great privileges. He <del>can</del> is irrepressible.</l>
+          <l><rs type="person" xml:id="psn-anon">Anon</rs>, after all, has great privileges. He <del>can</del> is irrepressible.</l>
           <l>He is not responsible. He is not self conscious. He is</l>
           <l>free from infection. He can adventure &amp; experiment.</l>
           <l>He can borrow. He can <del>jest</del> speak <add place="above">on &amp; on</add>. He can</l>
@@ -492,7 +492,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-4/m1-8-4-9/751,128,1727,2628/full/0/default.tif">
           <l>at a distance from the moment. Nobody cares what</l>
           <l>his own private experience is. And so the</l>
-          <l>songs of <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> repeat over &amp; over again what</l>
+          <l>songs of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> repeat over &amp; over again what</l>
           <l><del>that</del> Gather ye flowers while ye may; Death is</l>
           <l>coming: Anon is never tired of celebrating</l>
           <l>the Rose; <del>never</del> &amp; that his [illeg.] is white;</l>
@@ -512,13 +512,13 @@
           <l>anonymous, in the early literature.</l>
           <l>It is only later, when the pressure of emotion had</l>
           <l><del>ca</del> strewn up words, as <del>a</del> the fingers of a</l>
-          <l>the man at the <rs type="object" ref="../resources/annotations.xml#obj-mono" key="Monotype">monotype machine</rs> cast</l>
+          <l>the man at the <rs type="object" xml:id="obj-mono" key="Monotype">monotype machine</rs> cast</l>
           <l>letters out of the bubbling metal, that</l>
           <l>we lose this quality, to gain ––?––</l>
           <l>everything it seems. For <del>there</del> <del>flocking</del></l>
           <l>the curtain [gives?] on rising. And now it has</l>
-          <l>risen on <rs type="literary-work" ref="../resources/annotations.xml#lit-hen5" key="Henry V">Henry the 5th</rs>; then on <rs type="literary-work" ref="../resources/annotations.xml#lit-mids" key="Midsummer Night's Dream, A">Midsummer Night</rs>:</l>
-          <l>on <rs type="literary-work" ref="../resources/annotations.xml#lit-rome" key="Romeo and Juliet">Romeo &amp; Juliet</rs>; on <rs type="literary-work" ref="../resources/annotations.xml#psn-haml" key="Hamlet">Hamlet</rs> &amp; <del><rs type="literary-work" ref="../resources/annotations.xml#lit-ancl" key="Antony and Cleopatra">Cleo</rs></del> <rs type="literary-work" ref="../resources/annotations.xml#lit-temp" key="Tempest, The">The Tempest</rs></l>
+          <l>risen on <rs type="literary-work" xml:id="lit-hen5" key="Henry V">Henry the 5th</rs>; then on <rs type="literary-work" xml:id="lit-mids" key="Midsummer Night's Dream, A">Midsummer Night</rs>:</l>
+          <l>on <rs type="literary-work" xml:id="lit-rome" key="Romeo and Juliet">Romeo &amp; Juliet</rs>; on <rs type="literary-work" xml:id="psn-haml" key="Hamlet">Hamlet</rs> &amp; <del><rs type="literary-work" xml:id="lit-ancl" key="Antony and Cleopatra">Cleo</rs></del> <rs type="literary-work" xml:id="lit-temp" key="Tempest, The">The Tempest</rs></l>
           <l>By that time, there is nothing <del>left</del> unsaid:</l>
           <l>the <del>whole of</del> <del>this</del> <del>to test</del></l>
         </p>
@@ -526,10 +526,10 @@
           <l>The play has killed the stage. The stage has</l>
           <l>become too small to act this drama.</l>
           <l>Perhaps after centuries, the play will</l>
-          <l>renew itself, with Mozart in the <rs type="literary-work" ref="../resources/annotations.xml#lit-magi" key="Magic Flute, The">Magic Flute</rs>,</l>
-          <l>as with <rs type="person" ref="../resources/annotations.xml#psn-lbve">Beethoven</rs> in <rs type="literary-work" ref="../resources/annotations.xml#lit-fide" key="Fidelio">       .</rs>. It never</l>
+          <l>renew itself, with Mozart in the <rs type="literary-work" xml:id="lit-magi" key="Magic Flute, The">Magic Flute</rs>,</l>
+          <l>as with <rs type="person" xml:id="psn-lbve">Beethoven</rs> in <rs type="literary-work" xml:id="lit-fide" key="Fidelio">       .</rs>. It never</l>
           <l>lived again in England. The book, after that, takes <add place="below">the place of the play</add></l>
-          <l>&amp; <del>the</del> <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs> is dead for ever.</l>
+          <l>&amp; <del>the</del> <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> is dead for ever.</l>
         </p>
       </div>
     </body>

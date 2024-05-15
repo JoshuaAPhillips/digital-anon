@@ -66,12 +66,12 @@
           <l>the man who sees his time, zzzzz against a back ground of</l>
           <l>the past; the man who firsts sees himself and shows himself</l>
           <l>to us. xmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmm The first</l>
-          <l>blow has been aimed at <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs> when the authors name is attached</l>
+          <l>blow has been aimed at <rs type="person" xml:id="psn-anon">Anon</rs> when the authors name is attached</l>
           <l>to the book. The 
             <choice>
               <sic>indivi al</sic>
               <corr>individual</corr>
-            </choice> emerges. His name is <rs type="person" ref="../resources/annotations.xml#psn-rhol">
+            </choice> emerges. His name is <rs type="person" xml:id="psn-rhol">
               <choice>
                 <sic>Holigshed</sic>
                 <corr>Holinshed</corr>
@@ -80,7 +80,7 @@
             <choice>
               <sic>mae</sic>
               <corr>name</corr>
-            </choice> is also <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs>. Harrison emerging from the past</l>
+            </choice> is also <rs type="person" xml:id="psn-whar">Harrison</rs>. Harrison emerging from the past</l>
           <l>tells us that he has a library; that he owns a mastiff;</l>
           <l>that he digs up Roman coins. He tells us that he has <choice>
                 <sic>nev</sic>
@@ -90,7 +90,7 @@
                 <sic>ben</sic>
                 <corr>been</corr>
               </choice></l>
-          <l>more than forty miles from <rs type="place" ref="../resources/annotations.xml#pla-radw">radwinter</rs> in <rs type="place" ref="../resources/annotations.xml#pla-esse">Essex</rs>. Anon is</l>
+          <l>more than forty miles from <rs type="place" xml:id="pla-radw">radwinter</rs> in <rs type="place" xml:id="pla-esse">Essex</rs>. Anon is</l>
           <l>losing his ambiguity. The present is becoming visible.</l>
           <l>Harrison sees the pxmxmxmxmsx the present 
             <choice>
@@ -183,16 +183,16 @@
             <choice>
               <sic>hnery jmes</sic>
               <corr>Henry James</corr>
-            </choice></add> that <rs type="person" ref="../resources/annotations.xml#psn-hjam"></rs> wrote the <rs type="literary-work" ref="../resources/annotations.xml#lit-gold">
+            </choice></add> that <rs type="person" xml:id="psn-hjam"></rs> wrote the <rs type="literary-work" xml:id="lit-gold">
               <choice>
                 <sic>Goldn</sic>
                 <corr>Golden</corr>
               </choice></rs></l>
-          <l>and <rs type="literary-work" ref="../resources/annotations.xml#lit-amba">the Ambassadors,</rs> Save for <rs type="person" ref="../resources/annotations.xml#psn-gcha">
+          <l>and <rs type="literary-work" xml:id="lit-amba">the Ambassadors,</rs> Save for <rs type="person" xml:id="psn-gcha">
             <choice>
               <sic>Cahucer</sic>
               <corr>Chaucer</corr>
-            </choice></rs> and <rs type="person" ref="../resources/annotations.xml#psn-jlyd">Lydgate</rs></l>
+            </choice></rs> and <rs type="person" xml:id="psn-jlyd">Lydgate</rs></l>
           <l>and the voice of Anon singing at the back door the English</l>
           <l>might be a dumb race, who suffered 
             <choice>
@@ -229,8 +229,8 @@
             </choice> and uncushioned.</l>
         </p>
         <p>
-          <l>At <rs type="place" ref="../resources/annotations.xml#pla-gorh">Gorhambury</rs> for instance <rs type="person" ref="../resources/annotations.xml#psn-abac">Lady Bacon</rs> sat at her table</l>
-          <l>writing <add hand="ms" place="above">letters</add>. <del hand="ms">But</del> <add hand="ms" place="inline">H</add>er letters to <rs type="person" ref="../resources/annotations.xml#psn-fbac">her son</rs> are letter written <add hand="ms" place="above">[illeg.]</add></l>
+          <l>At <rs type="place" xml:id="pla-gorh">Gorhambury</rs> for instance <rs type="person" xml:id="psn-abac">Lady Bacon</rs> sat at her table</l>
+          <l>writing <add hand="ms" place="above">letters</add>. <del hand="ms">But</del> <add hand="ms" place="inline">H</add>er letters to <rs type="person" xml:id="psn-fbac">her son</rs> are letter written <add hand="ms" place="above">[illeg.]</add></l>
           <l>from the pulpit; as intricate involved and formal as state</l>
           <l>papers or legal documents or 
             <choice>
@@ -430,12 +430,12 @@
       <div xml:id="m54.5">
         <p>
           <l>9</l>
-          <l>for coins. When he was walking in xxx the <rs type="person" ref="../resources/annotations.xml#psn-arch">
+          <l>for coins. When he was walking in xxx the <rs type="person" xml:id="psn-arch">
             <choice>
               <sic>Arcbishops</sic>
               <corr>Archbishop</corr>
             </choice> of</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">Canterburys</rs> garden, <quote source="#" rend="inline">" the poor come 
+          <l><rs type="person" xml:id="psn-arch">Canterburys</rs> garden, <quote source="#" rend="inline">" the poor come 
             <choice>
               <sic>kkocking</sic>
               <corr>knocking</corr>
@@ -468,7 +468,7 @@
               <sic>herad</sic>
               <corr>heard</corr>
             </choice>.</l>
-          <l>These were the casees that he brought before <rs type="person" ref="../resources/annotations.xml#psn-edw4">King Edward</rs></l>
+          <l>These were the casees that he brought before <rs type="person" xml:id="psn-edw4">King Edward</rs></l>
           <l>In a voice that 
             <choice>
               <sic>sumbles</sic>
@@ -477,7 +477,7 @@
           <l>his fathers house, ))<quote source="#" rend="inline">" they say in my country to the hogs</quote></l>
           <l><quote source="#" rend="inline">mingle mangle, cum pur, cum pur"</quote> <!-- this is from one of Latimer's sermons to Edward! -->--- he brought into the</l>
           <l>light of day the hxmxmxmxmxmxmxmxmxmxmmx</l>
-          <l>xmxmxmxmxmxxx the harlot going to execution at <rs type="place" ref="../resources/annotations.xml#pla-newg">Newgate</rs></l>
+          <l>xmxmxmxmxmxxx the harlot going to execution at <rs type="place" xml:id="pla-newg">Newgate</rs></l>
           <l>and saying as she went <quote source="#">"that 
             <choice>
               <sic> f</sic>
@@ -535,7 +535,7 @@
           <l>floods to let us see a rough outline of a human shape.</l>
           <l>He has a dog and a garden. He has books; and he digs in</l>
           <l>the earth. His name is of no great moment. It may be</l>
-          <l>Harrison; or it may be <rs type="person" ref="../resources/annotations.xml#past">Paston</rs>. There is very little to dis 
+          <l>Harrison; or it may be <rs type="person" xml:id="past">Paston</rs>. There is very little to dis 
             <choice>
               <sic>dis</sic>
               <corr>distinguish</corr>
@@ -568,7 +568,7 @@
             <choice>
               <sic>predominace</sic>
               <corr>predominance</corr>
-            </choice> of individuals. The <rs type="person" ref="../resources/annotations.xml#psn-eliz">Queen</rs> is the dominant</l>
+            </choice> of individuals. The <rs type="person" xml:id="psn-eliz">Queen</rs> is the dominant</l>
           <l>
             <choice>
               <sic>fogure</sic>
@@ -657,8 +657,8 @@
             <choice>
               <sic>etween</sic>
               <corr>between</corr>
-            </choice> the different members. The presses of <rs type="place" ref="../resources/annotations.xml#pla-lond">London</rs>, <rs type="place" ref="../resources/annotations.xml#pla-oxfo"></rs></l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-camb">
+            </choice> the different members. The presses of <rs type="place" xml:id="pla-lond">London</rs>, <rs type="place" xml:id="pla-oxfo"></rs></l>
+          <l><rs type="place" xml:id="pla-camb">
             <choice>
               <sic>Ca,bridge</sic>
               <corr>Cambridge</corr>
@@ -738,7 +738,7 @@
               <sic>acti e</sic>
               <corr>active</corr>
             </choice> minded public;</l>
-          <l>it soon dissipates and takes hold of <rs type="person" ref="../resources/annotations.xml#psn-anon">Anon</rs>. It makes him</l>
+          <l>it soon dissipates and takes hold of <rs type="person" xml:id="psn-anon">Anon</rs>. It makes him</l>
           <l>into an innumerable 
             <choice>
               <sic>comany</sic>
@@ -768,7 +768,7 @@
               <sic>d ath</sic>
               <corr>death</corr>
             </choice>."</quote> It was Master</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-tbil">
+          <l><rs type="person" xml:id="psn-tbil">
             <choice>
               <sic>Boilney</sic>
               <corr>Bilney</corr>
@@ -790,7 +790,7 @@
             <choice>
               <sic>agianst</sic>
               <corr>against</corr>
-            </choice> <rs type="person" ref="../resources/annotations.xml#psn-pmel">
+            </choice> <rs type="person" xml:id="psn-pmel">
               <choice>
                 <sic>Melnchton</sic>
                 <corr>Melancthon</corr>
@@ -828,8 +828,8 @@
               <sic>andsick</sic>
               <corr>and sick</corr>
             </choice> folk. There was a woman who had killed</l>
-          <l>her child. And <rs type="person" ref="../resources/annotations.xml#psn-hlat">Latimer</rs> brought her story before King</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-hen8">
+          <l>her child. And <rs type="person" xml:id="psn-hlat">Latimer</rs> brought her story before King</l>
+          <l><rs type="person" xml:id="psn-hen8">
             <choice>
               <sic>Hnery</sic>
               <corr>Henry</corr>
@@ -854,7 +854,7 @@
               <sic>Elizabetha</sic>
               <corr>Elizabethan</corr>
             </choice> age,</l>
-          <l>he saw, as <rs type="person" ref="../resources/annotations.xml#psn-whar">Harrison</rs> saw, the great buildings rise on the</l>
+          <l>he saw, as <rs type="person" xml:id="psn-whar">Harrison</rs> saw, the great buildings rise on the</l>
           <l>foundations of the old. <quote source="#" rend="inline">"There 
             <choice>
               <sic>ws</sic>
@@ -954,8 +954,8 @@
             <choice>
               <sic>Prtitachrd</sic>
               <corr>Pritchard</corr>
-            </choice>"</quote> wrote <rs type="person" ref="../resources/annotations.xml#psn-aclif">Lady Ann Clifford</rs></l>
-          <l><quote source="#">"read aloud the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer">Faery Queen</rs>..... They read aloud <rs type="person" ref="../resources/annotations.xml#psn-mmon">
+            </choice>"</quote> wrote <rs type="person" xml:id="psn-aclif">Lady Ann Clifford</rs></l>
+          <l><quote source="#">"read aloud the <rs type="literary-work" xml:id="lit-faer">Faery Queen</rs>..... They read aloud <rs type="person" xml:id="psn-mmon">
             <choice >
               <sic>Montage</sic>
               <corr>Montaigne</corr>
@@ -980,7 +980,7 @@
               </choice> that had the goods</l>
             <l>of a house in it , but there was a pair of virginals in</l>
           </quote>
-          <l><quote source="#">it"</quote> <rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> observed in 1666 when the people of London were</l>
+          <l><quote source="#">it"</quote> <rs type="person" xml:id="psn-spep">Pepys</rs> observed in 1666 when the people of London were</l>
           <l>loading their goods onto boats to escape from the fire of</l>
           <l>London. His mind the was full of undifferentiated words, 
             <choice>
@@ -997,7 +997,7 @@
             </choice> voice.</l>
         </p>
         <p>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> then in the Faery Queen is like a</l>
+          <l><rs type="person" xml:id="psn-espe">Spenser</rs> then in the Faery Queen is like a</l>
           <l>half articulate monster rising from the depths of 
             <choice>
               <sic>silnce</sic>
@@ -1073,27 +1073,27 @@
               <sic>paineter</sic>
               <corr>painter</corr>
             </choice>. xmxsxmxsmssxmxsxmxmxmxmxmxmxmmxmxmxsxmxmxmxmxmxmmx</l>
-          <l>xmxmxmxmmxmxmxmxmxmxmmxmxmxm. <rs type="person" ref="../resources/annotations.xml#psn-wsha">
+          <l>xmxmxmxmmxmxmxmxmxmxmmxmxmxm. <rs type="person" xml:id="psn-wsha">
             <choice>
               <sic>Sahekeapere</sic>
               <corr>Shakespeare</corr>
-            </choice></rs> may be <rs type="person" ref="../resources/annotations.xml#psn-mich">
+            </choice></rs> may be <rs type="person" xml:id="psn-mich">
               <choice>
                 <sic>Michael</sic>
                 <corr>Michelangelo</corr>
               </choice></rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-mich">Angelo</rs>; 
+          <l><rs type="person" xml:id="psn-mich">Angelo</rs>; 
             <choice>
               <sic>Soenser</sic>
               <corr>Spenser</corr>
-            </choice> may be <rs type="person" ref="../resources/annotations.xml#psn-perg">Pergolesi</rs>. It seems possible that the</l>
+            </choice> may be <rs type="person" xml:id="psn-perg">Pergolesi</rs>. It seems possible that the</l>
           <l>great English art may not be the art of poetry.</l>
         </p>
       </div>
       <div xml:id="m54.11"> <!-- this seems to lead on from m54.8 -->
         <p>
           <l>11</l>
-          <l>the preacher who was for banishing <rs type="person" ref="../resources/annotations.xml#psn-rhoo">Robin Hood</rs>and such</l>
+          <l>the preacher who was for banishing <rs type="person" xml:id="psn-rhoo">Robin Hood</rs>and such</l>
           <l>
             <choice>
               <sic>supersitions</sic>
@@ -1108,7 +1108,7 @@
               <sic>mibstrels</sic>
               <corr>minstrels</corr>
             </choice> a new lease of life. <del hand="ms">His English.</del> When he</l>
-          <l>said the <rs type="literary-work" ref="../resources/annotations.xml#lit-lord">Lords prayer</rs> at the beginning and at</l>
+          <l>said the <rs type="literary-work" xml:id="lit-lord">Lords prayer</rs> at the beginning and at</l>
           <l>theend of his 
             <choice>
               <sic>ermon</sic>
@@ -1273,7 +1273,7 @@
               <sic>csharpness</sic>
               <corr>sharpness</corr>
             </choice>. It is the thing itself;</l>
-          <l>it is the original design, from which <rs type="person" ref="../resources/annotations.xml#psn-aten">Tennyson</rs> and <rs type="person" ref="../resources/annotations.xml#psn-wmor">
+          <l>it is the original design, from which <rs type="person" xml:id="psn-aten">Tennyson</rs> and <rs type="person" xml:id="psn-wmor">
             <choice>
               <sic>orris</sic>
             </choice>Morris</rs></l>
@@ -1329,12 +1329,12 @@
             <choice>
               <sic>breif</sic>
               <corr>brief</corr>
-            </choice>. At <rs type="place" ref="../resources/annotations.xml#pla-gorh">
+            </choice>. At <rs type="place" xml:id="pla-gorh">
               <choice>
                 <sic>Gorham nury</sic>
                 <corr>Gorhambury</corr>
               </choice></rs> Lady</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-abac">Ann Bacon</rs> sat writing to <rs type="person" ref="../resources/annotations.xml#psn-fbac">her son</rs>. But her letters are like</l>
+          <l><rs type="person" xml:id="psn-abac">Ann Bacon</rs> sat writing to <rs type="person" xml:id="psn-fbac">her son</rs>. But her letters are like</l>
           <l>
             <choice>
               <sic>seroms</sic>
@@ -1699,7 +1699,7 @@
             </choice> which the self critical</l>
           <l>writer so often applies to his own disease in the old English</l>
           <l>words that were now obsolete. A glossary was added to the</l>
-          <l><rs type="person" ref="../resources/annotations.xml#lit-shep">Shepherds Calendar</rs> to explain them. But partly he used the</l>
+          <l><rs type="person" xml:id="lit-shep">Shepherds Calendar</rs> to explain them. But partly he used the</l>
           <l>crabbed, English of the past not as we in our day</l>
           <l>seek to bring back the sharpness which much use has worn</l>
           <l>smooth; but to restrain what was to come. He was, as we <add hand="ms" place="inline">are not</add></l>
@@ -1733,7 +1733,7 @@
             <choice>
               <sic>thzthe</sic>
               <corr>that he</corr>
-            </choice> looked back to the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant">Canterbury Pilgrims?</rs></l>
+            </choice> looked back to the <rs type="literary-work" xml:id="lit-cant">Canterbury Pilgrims?</rs></l>
         </p>
         <p>
           <l>Yet what comparison is possible between the poetry of</l>
@@ -1935,13 +1935,13 @@
               <corr>sonorous</corr>
             </choice>, since they are to</l>
           <l>be read out aloud. <quote source="#" rend="inline">I spent most of my time"</quote> wrote Lady</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif">Ann Clifford</rs> <quote source="#" rend="inline">"in 
+          <l><rs type="person" xml:id="psn-aclif">Ann Clifford</rs> <quote source="#" rend="inline">"in 
             <choice>
               <sic>playin</sic>
               <corr>playing</corr>
-            </choice> at Glecko and hearing <rs type="person" ref="../resources/annotations.xml#psn-mnev">Moll Neville</rs></quote></l>
-          <l><quote source="#" rend="inline">read the <rs type="literary-work" ref="../resources/annotations.xml#lit-arca"></rs>....Rivers used to read to me in</quote></l>
-          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-mmon">Montaignes</rs> <rs type="person" ref="../resources/annotations.xml#lit-essa">Essays and Moll Neville in the Faery Queen."</rs></quote></l>
+            </choice> at Glecko and hearing <rs type="person" xml:id="psn-mnev">Moll Neville</rs></quote></l>
+          <l><quote source="#" rend="inline">read the <rs type="literary-work" xml:id="lit-arca"></rs>....Rivers used to read to me in</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" xml:id="psn-mmon">Montaignes</rs> <rs type="person" xml:id="lit-essa">Essays and Moll Neville in the Faery Queen."</rs></quote></l>
           <l>
             <choice>
               <sic>Futher</sic>
@@ -1961,7 +1961,7 @@
               <sic>Londonwas</sic>
               <corr>London was</corr>
             </choice> burning</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> noted that <quote source="#" rend="inline">"hardly one lighter or boat in three</quote></l>
+          <l><rs type="person" xml:id="psn-spep">Pepys</rs> noted that <quote source="#" rend="inline">"hardly one lighter or boat in three</quote></l>
           <l><quote source="#" rend="inline">that had the goods of a house in it, but there was a pair</quote></l>
           <l><quote source="#" rend="inline">of virginals in it."</quote> <del hand="ms">These were</del> the influences that</l>
           <l>told upon the poet; <add hand="ms" place="above">[illeg.] moved</add> Under neath the words<add hand="ms" place="inline">:</add> the old words</l>
@@ -1987,7 +1987,7 @@
               <sic>vband</sic>
               <corr>band</corr>
             </choice> and cuffs"</quote> standing on the threshold of the</l>
-          <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" ref="../resources/annotations.xml#pla-pens">
+          <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" xml:id="pla-pens">
             <choice>
               <sic>enshurst</sic>
               <corr>Penshurst</corr>
@@ -2017,7 +2017,7 @@
               <sic>plase</sic>
               <corr>please</corr>
             </choice></l>
-          <l>my patron <rs type="person" ref="../resources/annotations.xml#psn-psid">Sir Philip 
+          <l>my patron <rs type="person" xml:id="psn-psid">Sir Philip 
             <choice>
               <sic>Sidmey</sic>
               <corr>Sidney</corr>
@@ -2074,7 +2074,7 @@
         </p>
         <p>
           <l>The word remind us that if the great Elizabethan</l>
-          <l>house, Penshurst or <rs type="place" ref="../resources/annotations.xml#pla-wilt">Wilton</rs> looks to us out of proportion,</l>
+          <l>house, Penshurst or <rs type="place" xml:id="pla-wilt">Wilton</rs> looks to us out of proportion,</l>
           <l>xmxmx a derelict among 
             <choice>
               <sic>th</sic>
@@ -2142,15 +2142,15 @@
               <sic>finsihed</sic>
               <corr>finished</corr>
             </choice></quote></l>
-          <l><quote source="#" rend="inline">divers histories"</quote> <rs type="person" ref="../resources/annotations.xml#psn-wcax">Caxton</rs> wrote in 
+          <l><quote source="#" rend="inline">divers histories"</quote> <rs type="person" xml:id="psn-wcax">Caxton</rs> wrote in 
             <choice>
               <sic>41470</sic>
               <corr>1470</corr>
             </choice> in the preface</l>
-          <l>to the <rs type="literary-work" ref="../resources/annotations.xml#lit-mort">Morte DArthur</rs>, <quote source="#">"many noble and divers gentlemen</quote></l>
+          <l>to the <rs type="literary-work" xml:id="lit-mort">Morte DArthur</rs>, <quote source="#">"many noble and divers gentlemen</quote></l>
           <l><quote source="#" rend="inline">of this realm of England came and demanded me many and oft</quote></l>
           <l><quote source="#" rend="inline">times ..... to imprint the history of the said noble king</quote></l>
-          <l><quote source="#" rend="inline">and conqueror <rs type="person" ref="../resources/annotations.xml#psn-kart">King Arthur</rs>, and of his knights with the</quote></l>
+          <l><quote source="#" rend="inline">and conqueror <rs type="person" xml:id="psn-kart">King Arthur</rs>, and of his knights with the</quote></l>
           <l><quote source="#" rend="inline">history of the San greal and of the death and ending of</quote></l>
           <l><quote source="#" rend="inline">the said Arthur."</quote> The twenty one books of the Morte DArthur</l>
           <l>preserve what lay 
@@ -2168,15 +2168,15 @@
               <sic>legnd</sic>
               <corr>legend</corr>
             </choice> was still alive in the nineteenth century.</l>
-          <l><quote source="#" rend="inline">"...folks do say"</quote> said a peasant at <rs type="place" ref="../resources/annotations.xml#pla-cadb">Cadbury</rs> <quote source="#">that on the</quote></l>
+          <l><quote source="#" rend="inline">"...folks do say"</quote> said a peasant at <rs type="place" xml:id="pla-cadb">Cadbury</rs> <quote source="#">that on the</quote></l>
           <l><quote source="#" rend="inline">night of the full moon King 
             <choice>
               <sic>Arthus</sic>
               <corr>Arthur</corr>
             </choice> and his men ride round</quote></l>
           <l><quote source="#" rend="inline">the hill, and their horses are shod with silver..."</quote></l>
-          <l>A silver horseshoe, <rs type="person" ref="../resources/annotations.xml#psn-jlel">Leland</rs> says, was found in <rs type="person" ref="../resources/annotations.xml#psn-hen8"></rs></l>
-          <l>time at <rs type="person" ref="../resources/annotations.xml#pla-came">Camelot</rs>. It is in <rs type="person" ref="../resources/annotations.xml#psn-tmal">Malorys</rs> pages that we hear the</l>
+          <l>A silver horseshoe, <rs type="person" xml:id="psn-jlel">Leland</rs> says, was found in <rs type="person" xml:id="psn-hen8"></rs></l>
+          <l>time at <rs type="person" xml:id="pla-came">Camelot</rs>. It is in <rs type="person" xml:id="psn-tmal">Malorys</rs> pages that we hear the</l>
           <l>voice of anon murmuring in the mind of King and Queen and</l>
           <l>peasant, They remembered how the old King</l>
         </p>
@@ -2206,7 +2206,7 @@
               <corr>remembering</corr>
             </choice></l>
           <l>the Gods who were there when the stones were set on end</l>
-          <l>at <rs type="place" ref="../resources/annotations.xml#pla-ames">Amesbury</rs>, at <rs type="place" ref="../resources/annotations.xml#pla-ston">Stonehenge</rs>, celebrated their gods; and</l>
+          <l>at <rs type="place" xml:id="pla-ames">Amesbury</rs>, at <rs type="place" xml:id="pla-ston">Stonehenge</rs>, celebrated their gods; and</l>
           <l>at the same 
             <choice>
               <sic>tiem</sic>
@@ -2319,7 +2319,7 @@
             <choice>
               <sic>sive</sic>
               <corr>sieve</corr>
-            </choice> singing to the <rs type="place" ref="../resources/annotations.xml#pla-lund">
+            </choice> singing to the <rs type="place" xml:id="pla-lund">
               <choice>
                 <sic>idle</sic>
                 <corr>Isle</corr>
@@ -2346,18 +2346,18 @@
           <l>and his knights went their ways through the wild woods seek</l>
           <l>ing adventure. <add hand="ms" place="above">When</add> Caxton <del hand="ms">himself</del> doubted. <del>No</del>such <add hand="ms" place="above">a</add> man, he</l>
           <l>objected, had ever lived. But the nobles were positive,</l>
-          <l>they said that you could see <rs type="person" ref="../resources/annotations.xml#psn-gawa">Gawaines</rs> skull at <rs type="place" ref="../resources/annotations.xml#psn-dove">Dover</rs></l>
-          <l>and the <rs type="object" ref="../resources/annotations.xml#obj-roun">Round Table</rs> at <rs type="place" ref="../resources/annotations.xml#pla-winc">Winchester</rs> and in <quote source="#" rend="inline">"in other places</quote></l>
-          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-lanc">Launcelots</rs> sword and many other things.</quote></l>
+          <l>they said that you could see <rs type="person" xml:id="psn-gawa">Gawaines</rs> skull at <rs type="place" xml:id="psn-dove">Dover</rs></l>
+          <l>and the <rs type="object" xml:id="obj-roun">Round Table</rs> at <rs type="place" xml:id="pla-winc">Winchester</rs> and in <quote source="#" rend="inline">"in other places</quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" xml:id="psn-lanc">Launcelots</rs> sword and many other things.</quote></l>
         </p>
         <p>
           <l>The book itself represents Caxtons scepticism, and the</l>
           <l>nobles faith. It is half fable, half fact. There is London,</l>
-          <l>and <rs type="place" ref="../resources/annotations.xml#pla-carl">Carlisle</rs> and <rs type="place" ref="../resources/annotations.xml#pla-stal">St Albans</rs>; there is the <rs type="person" ref="../resources/annotations.xml#psn-arch">Archbishop of</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">Canterbury</rs> and <rs>St Pauls</rs>. But the roads lead past London to</l>
+          <l>and <rs type="place" xml:id="pla-carl">Carlisle</rs> and <rs type="place" xml:id="pla-stal">St Albans</rs>; there is the <rs type="person" xml:id="psn-arch">Archbishop of</rs></l>
+          <l><rs type="person" xml:id="psn-arch">Canterbury</rs> and <rs>St Pauls</rs>. But the roads lead past London to</l>
           <l>castles where Knights lie in prison; down the roads ride</l>
-          <l>Queens on white mules; <rs type="person" ref="../resources/annotations.xml#psn-morg">Morgan le Fay</rs> turns suddenly to</l>
-          <l>stone; and a hand rises from a lake holding <rs type="object" ref="../resources/annotations.xml#obj-exca">Excalibur</rs>.</l>
+          <l>Queens on white mules; <rs type="person" xml:id="psn-morg">Morgan le Fay</rs> turns suddenly to</l>
+          <l>stone; and a hand rises from a lake holding <rs type="object" xml:id="obj-exca">Excalibur</rs>.</l>
           <l>In the 
             <choice>
               <sic>canfdour</sic>
@@ -2783,29 +2783,29 @@
               <sic>ow</sic>
               <corr>own</corr>
             </choice> centre, their playhouse. in 1593</l>
-          <l>the <rs type="place" ref="../resources/annotations.xml#pla-rose">Rose</rs> in <rs type="place" ref="../resources/annotations.xml#pla-sout">Southwark</rs> needed rebuilding. Planks and nails</l>
+          <l>the <rs type="place" xml:id="pla-rose">Rose</rs> in <rs type="place" xml:id="pla-sout">Southwark</rs> needed rebuilding. Planks and nails</l>
           <l>andhinges and timber were The sums paid for 
             <choice>
               <sic>plnaks</sic>
               <corr>planks</corr>
             </choice> and</l>
-          <l>and nails and hinges and timber were entered by <rs type="person" ref="../resources/annotations.xml#psn-phen">
+          <l>and nails and hinges and timber were entered by <rs type="person" xml:id="psn-phen">
             <choice>
               <sic>Hensloew</sic>
               <corr>Henslowe</corr>
             </choice></rs></l>
           <l>in his vellum bound book. It was a wooden house, part</l>
           <l>xxxf open to the air, hxxxxx part thatched. It stood</l>
-          <l>on the <rs type="place" ref="../resources/annotations.xml#pla-bank">
+          <l>on the <rs type="place" xml:id="pla-bank">
             <choice>
               <sic>Banksdie</sic>
               <corr>Bankside</corr>
-            </choice></rs> next to the <rs type="place" ref="../resources/annotations.xml#pla-barg">
+            </choice></rs> next to the <rs type="place" xml:id="pla-barg">
               <choice>
                 <sic>Bargem</sic>
                 <corr>Barge,</corr>
-              </choice></rs> the <rs type="place" ref="../resources/annotations.xml#pla-bell">Bell</rs> and the</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-cock">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
+              </choice></rs> the <rs type="place" xml:id="pla-bell">Bell</rs> and the</l>
+          <l><rs type="place" xml:id="pla-cock">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
             <choice>
               <sic>Bakside</sic>
               <corr>Bankside</corr>
@@ -2815,7 +2815,7 @@
               <corr>infested</corr>
             </choice> with hogs.</del></l>
           <l>and the Bankside was infested with hogs. <add hand="ms" place="inline">[</add>It would hold,</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-greg">Dr Greg</rs> 
+          <l><rs type="person" xml:id="psn-greg">Dr Greg</rs> 
             <choice>
               <sic>calaculates</sic>
               <corr>calculates</corr>
@@ -3333,11 +3333,11 @@
         </p>
       </div> <!-- leads to m54.35 -->
       ly as the words are. To speak them the poet has</l>
-          <l>separated himself from the actors. He cannot yet make <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">Tambur</rs></l>
+          <l>separated himself from the actors. He cannot yet make <rs type="literary-work" xml:id="lit-tamb">Tambur</rs></l>
           <l><r<div xml:id="m54.34">
         <p>
           <l>there is a jolt at the points; the mind slides onto another</l>
-          <l>rail, loves type="literary-work" ref="../resources/annotations.xml#lit-tamb">laine</rs> speak those words. The play is still 
+          <l>rail, loves type="literary-work" xml:id="lit-tamb">laine</rs> speak those words. The play is still 
             <choice>
               <sic>manly</sic>
               <corr>mainly</corr>
@@ -3411,7 +3411,7 @@
             <choice>
               <sic>attidtue</sic>
               <corr>attitude</corr>
-            </choice> at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle">Russian ballet</rs> at the <rs type="literary-work" ref="../resources/annotations.xml#lit-cine">
+            </choice> at the <rs type="literary-work" xml:id="lit-balle">Russian ballet</rs> at the <rs type="literary-work" xml:id="lit-cine">
               <choice>
                 <sic>cimme</sic>
                 <corr>cinema</corr>
@@ -3431,7 +3431,7 @@
             <choice>
               <sic>silnce</sic>
               <corr>silence</corr>
-            </choice> must have been overwhelming. There at the <rs type="place" ref="../resources/annotations.xml#pla-glob">Globe</rs></l>
+            </choice> must have been overwhelming. There at the <rs type="place" xml:id="pla-glob">Globe</rs></l>
           <l>or at the Rose men and women who had never seen themselves</l>
           <l>whose only reading was 
             <choice>

@@ -70,8 +70,8 @@
           <l>order to see the present moment, must <add place="above">set it against</add> the past <add place="above">in counter [illeg.]</add></l>
           <l>behind him. <del>There must be a golden age; the</del></l>
           <l><del>must be corrupt, degenerate, fallen.</del> <del>But</del></l>
-          <l>The golden age of English was to <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> the age of</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> – <quote source="#" rend="inline">"Dan Chaucer, well of English undefiled"</quote></l>
+          <l>The golden age of English was to <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> the age of</l>
+          <l><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> – <quote source="#" rend="inline">"Dan Chaucer, well of English undefiled"</quote></l>
           <l><del>The language</del> <del>He</del> <del>There is</del> <del>The</del> <del>he</del></l>
           <l><del>Chaucer</del> again – he prays: <quote source="#" rend="inline">that the infusion</quote></l>
           <l><quote source="#" rend="inline">sweete</quote></l>
@@ -102,13 +102,13 @@
       <div xml:id="m47.1v" n="1 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-2" />
       <div xml:id="m47.2r" n="2 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-3/445,140,1975,1092/full/0/default.tif">
-          <l>When the <rs type="person" ref="../resources/annotations.xml#psn-duno" key="Norfolk, Duchess of">duchess of Norfolk</rs>, the wife of <rs type="person" ref="../resources/annotations.xml#psn-easu" key="Surrey, Earl of">Lord Surrey</rs> <del>who</del> the poet</l>
+          <l>When the <rs type="person" xml:id="psn-duno" key="Norfolk, Duchess of">duchess of Norfolk</rs>, the wife of <rs type="person" xml:id="psn-easu" key="Surrey, Earl of">Lord Surrey</rs> <del>who</del> the poet</l>
           <l>who was executed <del>comes to the surface</del> <add place="above">writes</add>, she writes:</l>
           <l>Only in some extremity of passion or of need do they <del>come to</del></l>
           <l>take up the pen. <del>&amp;</del> The sound of the Bible is in</l>
           <l>their ears. <del>As if</del> It is a garment only to be put on when the</l>
           <l>being is in <del>an attitude</del> a certain attitude.</l>
-          <l>And the garment may of course conceal a <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Lady Ann</rs></l>
+          <l>And the garment may of course conceal a <rs type="person" xml:id="psn-abac" key="Bacon, Anne">Lady Ann</rs></l>
           <l>who is merry, who is, normally, <del>occupied with</del></l>
           <l><del>happy</del> amused, or charming, or – we cannot tell</l>
           <l>what real woman lives in the other side of that</l>
@@ -164,7 +164,7 @@
           <l><del>mind, the curiosity, the desire to escape from</del></l>
           <l><del>there <del>were books [illeg.]</del></del> That connection <del>is</del></l>
           <l>between house &amp; church, master &amp; labourer,</l>
-          <l>is <del>obvious</del> detailed in the <rs type="person" ref="../resources/annotations.xml#lit-past" key="Pastons">Paston</rs> letters, making</l>
+          <l>is <del>obvious</del> detailed in the <rs type="person" xml:id="lit-past" key="Pastons">Paston</rs> letters, making</l>
           <l>indeed the staple of that correspondence. <del>But</del></l>
           <l><del>the less visible connections is to</del> there is <add place="above">was</add> also the</l>
           <l>other connection, which, <del>just as the <del>of</del></del></l>
@@ -173,8 +173,8 @@
           <l>that bond between the great house &amp; the small</l>
           <l>has faded till it is like one of those perhaps</l>
           <l>rather greener lanes <del>her</del> still to be found in England</l>
-          <l>along which antiquarians say the <rs type="person" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">pilgrims</rs> went to</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#pla-cant" key="Canterbury Tales, The">Canterbury</rs>. <del>When</del> <add place="above">Yet</add> the scholars tell us that</l>
+          <l>along which antiquarians say the <rs type="person" xml:id="lit-cant" key="Canterbury Tales, The">pilgrims</rs> went to</l>
+          <l><rs type="literary-work" xml:id="pla-cant" key="Canterbury Tales, The">Canterbury</rs>. <del>When</del> <add place="above">Yet</add> the scholars tell us that</l>
           <l>so the scholars tell us <del>that</del> how</l>
           <l><del>long before Chaucer,</del> how long before the <del>to</del></l>
           <l>Christians came, the <del>sun was</del> fire <del>was a god</del> <add place="above">was worshipped</add></l>
@@ -188,7 +188,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-7/300,72,2152,3360/full/0/default.tif">
           <l>The man then who stood on the threshold of the great</l>
           <l>Elizabethan room was <del>separate from the chronicler</del></l>
-          <l>separate from <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>, the <del>singer</del>, &amp; separate from</l>
+          <l>separate from <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>, the <del>singer</del>, &amp; separate from</l>
           <l>the chronicler. <del>He was</del> separate from his</l>
           <l>audience. <del>He had emerged;</del> <del>But</del> <del>Directly</del></l>
           <l>the creative instinct, <del>the desire to</del> had singled out</l>
@@ -216,8 +216,8 @@
           <l>who will read this; what will be to</l>
           <l>their liking, what will offend them</l>
           <l>What book will find favour with Lady</l>
-          <l>Ann? What will please <rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sir Philip</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-psid" key="Sidney, Philip">Sidney</rs>what will flatter the</l>
+          <l>Ann? What will please <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sir Philip</rs></l>
+          <l><rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sidney</rs>what will flatter the</l>
         </p>
       </div>
       <div xml:id="m47.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-8" />
@@ -267,7 +267,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-11/479,152,1887,272/full/0/default.tif">
           <l>depths of silence, writing that <del>was</del> <del>long</del> vast poem</l>
-          <l>the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer" key="Faerie Queene, The">Faery Queen</rs></l>
+          <l>the <rs type="literary-work" xml:id="lit-faer" key="Faerie Queene, The">Faery Queen</rs></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-11/411,376,1917,2392/full/0/default.tif">
           <l>The artist however had chosen his medium. The</l>
@@ -302,7 +302,7 @@
           <l>predecessors; he complained of the</l>
           <l>debasement of English speech: <del>&amp; the</del></l>
           <l>He <del>used</del> the old <del>Chaucerian</del> language</l>
-          <l>recovered the old words, <del>the</del> <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs></l>
+          <l>recovered the old words, <del>the</del> <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs></l>
           <l>words. <del>He</del> Curious perhaps of his own</l>
         </p>
       </div>
@@ -334,13 +334,13 @@
           <l>eye <del>was</del> <add place="above">is</add> stimulated <del>in that empty world</del>, by the</l>
           <l>colours <add place="above">of the</add> of the clothing. His ear <del>was</del></l>
           <l><del>stimulated</del> by the sound of <add place="above">music</add> words. <quote rend="inline" source="#">"Pritchard"</quote> said</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Lady Ann Clifford</rs> <quote rend="inline" source="#">read aloud <del>They</del> The Faery Queen..."</quote></l>
+          <l><rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Lady Ann Clifford</rs> <quote rend="inline" source="#">read aloud <del>They</del> The Faery Queen..."</quote></l>
           <l>England was given substance &amp; sharpness of the</l>
           <l>speaking voice. And <del>the</del> music gave lilt &amp;</l>
           <l>rhythm, melody to the spoken word.</l>
           <l><quote rend="inline" source="#">"Hardly one lighter or boat in three that had the</quote></l>
           <l><quote rend="inline" source="#">goods of a home in it <del>"</del> but there was a</quote></l>
-          <l><quote rend="inline" source="#">pair of virginals in it"</quote> <rs type="person" ref="../resources/annotations.xml#psn-spep">Pepys</rs> observed, in 1666,</l>
+          <l><quote rend="inline" source="#">pair of virginals in it"</quote> <rs type="person" xml:id="psn-spep">Pepys</rs> observed, in 1666,</l>
           <l>when the people of London were loading their</l>
           <l>goods onto boats in the great fire. His</l>
           <l>world then was full of undifferentiated words:</l>
@@ -358,7 +358,7 @@
           <l>not follow the sound of the speaking voice.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-15/443,576,2007,2872/full/0/default.tif">
-          <l><rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs> then in the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer" key="Faerie Queene, The">Faery Queen</rs> seems like a</l>
+          <l><rs type="person" xml:id="psn-espe">Spenser</rs> then in the <rs type="literary-work" xml:id="lit-faer" key="Faerie Queene, The">Faery Queen</rs> seems like a</l>
           <l>half articulate monster, rising from the depths of</l>
           <l>silence, <del>with</del> hung with the weeds &amp; pearls of <del>that</del></l>
           <l>the deep sea in which the writer had been</l>
@@ -369,7 +369,7 @@
             </choice></add></l>
           <l>we cannot leave it unread. <del>This</del> is a poem without a plot;</l>
           <l>the metre, casting its regular fling, but somehow</l>
-          <l>comes to ground too [wholy?]. Unlike <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> who</l>
+          <l>comes to ground too [wholy?]. Unlike <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> who</l>
           <l>goes ahead, simply, directly, <del>It</del> The Knights, the</l>
           <l>ladies, <del>become</del> <del>loo</del> are <del>see</del> disembodied:</l>
           <l><del>what</del> &amp; <del>the</del> But <del>we cannot leave</del> it unread:</l>
@@ -387,7 +387,7 @@
           <l>we must return to it, because of the</l>
           <l>language – partly for that love of the</l>
           <l>old they seem: it is the thing itself: not </l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-wmor" key="Morris, William">Morris</rs> or <rs type="person" ref="../resources/annotations.xml#psn-aten" key="Tennyson, Alfred">Tennyson</rs>: <del>it is</del> &amp; [pearly?]</l>
+          <l><rs type="person" xml:id="psn-wmor" key="Morris, William">Morris</rs> or <rs type="person" xml:id="psn-aten" key="Tennyson, Alfred">Tennyson</rs>: <del>it is</del> &amp; [pearly?]</l>
           <l>a [illeg.] such a poem as an exile might</l>
           <l>write by way of refuge from the</l>
           <l>damp <del>of</del> &amp; the savagery of the Irish</l>
@@ -399,9 +399,9 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17/418,122,1992,624/full/0/default.tif">
           <l>voluptuous, his love of sound, <del>his</del> <del>addiction</del> the sweetness of the</l>
           <l>his private vocabulary, he tried to harden &amp; <del>ground</del></l>
-          <l>stiffen his poem with the ruder speech which <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs></l>
+          <l>stiffen his poem with the ruder speech which <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs></l>
           <l>used. For there was nothing, in the years that</l>
-          <l>came between the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">Canterbury Tales</rs> and the <rs type="literary-work" ref="../resources/annotations.xml#lit-faer" key="Faerie Queene, The">Faery Queen</rs></l>
+          <l>came between the <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Canterbury Tales</rs> and the <rs type="literary-work" xml:id="lit-faer" key="Faerie Queene, The">Faery Queen</rs></l>
           <l>for him to destroy; or to abolish.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17/508,722,640,108/full/0/default.tif">
@@ -410,7 +410,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-17/458,792,1768,1564/full/0/default.tif">
           <l>He stands then, at the threshold of the great hall,</l>
           <l>– <quote source="#" rend="inline">"a little man with short hair, a small hand &amp;</quote></l>
-          <l><quote source="#" rend="inline">cuffs'</quote>– looking back at <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>; &amp; <del>He</del></l>
+          <l><quote source="#" rend="inline">cuffs'</quote>– looking back at <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>; &amp; <del>He</del></l>
           <l>This public is a reading aloud public of nobles;</l>
           <l>&amp; he has, <del>perhaps</del> <add place="above">the</add> disturbing [anticipation?]</l>
           <l>of a language to whuch anything may happen.</l>
@@ -430,22 +430,22 @@
           <l><del>The future</del> <del><del>This is a sense that only comes</del></del></l>
           <l>The sense of the future is almost extinct, now.</l>
           <l>But then, the writer must have been</l>
-          <l>aware, with the agitation of <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs></l>
+          <l>aware, with the agitation of <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs></l>
           <l>that <del>something</del> it was all to come.</l>
         </p>
       </div>
       <div xml:id="m47.9v" n="9 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-18" />
       <div xml:id="m47.10r" n="10 recto" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-19">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-19/159,92,2262,1024/full/0/default.tif">
-          <l>The <rs type="object" ref="../resources/annotations.xml#obj-pill">pilliwinks</rs> were applied to her, how she had sailed</l>
+          <l>The <rs type="object" xml:id="obj-pill">pilliwinks</rs> were applied to her, how she had sailed</l>
           <l>in a [sieve?] singing, how she had raised a storm in the</l>
           <l>north sea &amp; sunk the kings ships. The great house was not</l>
           <l>silent then. In <del>the</del> <del>tries</del> There were [birds? bodies?] in the trees,</l>
           <l>a deep murmur of old forgotten things humming in the</l>
           <l>mind. And down the roads came the wandering singer,</l>
-          <l>lewd, impudent; but to <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spensers</rs> ear: but <del>he had seen,</del></l>
+          <l>lewd, impudent; but to <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spensers</rs> ear: but <del>he had seen,</del></l>
           <l>who had seen, at the Green players acting his already</l>
-          <l>past before <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen Elizabeth</rs>.</l>
+          <l>past before <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen Elizabeth</rs>.</l>
         </p>
       </div>
       <div xml:id="m47.10v" n="10 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-20" />
@@ -456,7 +456,7 @@
           <l><quote source="#" rend="inline"><add place="margin">"</add>...our ancient ladies of the court"</quote> when they</l>
           <l><del>did the</del> were to be found reading the holy</l>
           <l>scriptiores or they did their needlework; &amp;</l>
-          <l>histories; <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, <rs type="person" ref="../resources/annotations.xml#psn-jlyd" key="Lydgate, John">Lydgate</rs> <rs type="person" ref="../resources/annotations.xml#psn-jwyc" key="Wycliffe, John">Wycliffe</rs> made no</l>
+          <l>histories; <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, <rs type="person" xml:id="psn-jlyd" key="Lydgate, John">Lydgate</rs> <rs type="person" xml:id="psn-jwyc" key="Wycliffe, John">Wycliffe</rs> made no</l>
           <l>show against these august ancients</l>
           <l>There they sit, in the palace, embroidering, reading,</l>
           <l>playing their musical instrument; &amp;</l>
@@ -467,7 +467,7 @@
           <l><del>he s</del></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m47/m47-21/700,1248,1896,1920/full/0/default.tif">
-          <l><del>It</del> <rs type="person" ref="../resources/annotations.xml#psn-agrip" key="Agrippa">Agrippa</rs> <rs type="person" ref="../resources/annotations.xml#psn-suet" key="Suetonius">Suetonius</rs> <rs type="person" ref="../resources/annotations.xml#psn-plin" key="Pliny">Pliny</rs> <rs type="person" ref="../resources/annotations.xml#psn-cice" key="Cicero">Cicero</rs> – they are in</l>
+          <l><del>It</del> <rs type="person" xml:id="psn-agrip" key="Agrippa">Agrippa</rs> <rs type="person" xml:id="psn-suet" key="Suetonius">Suetonius</rs> <rs type="person" xml:id="psn-plin" key="Pliny">Pliny</rs> <rs type="person" xml:id="psn-cice" key="Cicero">Cicero</rs> – they are in</l>
           <l>the background they are the ancestors <del>to</del> <add place="above">with</add> whom the</l>
           <l>learned Elizabethan classes [Kindness?]; but in the</l>
           <l>foreground there is the <del>pla</del> <del>Palace</del> house, <del>with its</del></l>
@@ -484,7 +484,7 @@
               <corr>though</corr>
             </choice> he cannot see</l>
           <l>himself</l>
-          <l>is <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs>, a [illeg.] yet</l>
+          <l>is <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs>, a [illeg.] yet</l>
           <l>kindly man, using language,</l>
           <l>
             <choice>
@@ -495,7 +495,7 @@
               <sic>wd</sic>
               <corr>would</corr>
             </choice> have shocked his ancestors,</l>
-            <l>adding a patron, <rs type="person" ref="../resources/annotations.xml#psn-wcob" key="Cobham, Lord William">Lord Cobham</rs>, in</l>
+            <l>adding a patron, <rs type="person" xml:id="psn-wcob" key="Cobham, Lord William">Lord Cobham</rs>, in</l>
           <l>flowing [prose?] that 
             <choice>
               <sic>wd</sic>

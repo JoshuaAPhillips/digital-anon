@@ -56,8 +56,8 @@
     <body>
       <div xml:id="m1-8-10.1" n="1" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-1/815,96,1758,3056/full/0/default.tif">
-          <l>The great house <add place="above">that <rs type="person" ref="../resources/annotations.xml#psn-tlat" key="Latimer, Thomas">Latimer</rs> deplored</add> is visible in the pages of Lady <rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, Ann">Anne</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-aclif" key="Clifford, An">Cliffords</rs> diary. <del>It is</del> <del>It is stuffed with</del></l>
+          <l>The great house <add place="above">that <rs type="person" xml:id="psn-tlat" key="Latimer, Thomas">Latimer</rs> deplored</add> is visible in the pages of Lady <rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Anne</rs></l>
+          <l><rs type="person" xml:id="psn-aclif" key="Clifford, An">Cliffords</rs> diary. <del>It is</del> <del>It is stuffed with</del></l>
           <l><del>furniture</del> <del>it is</del> She <del>is above all things possessive</del></l>
           <l><del>She is aware from her first youth of her</del></l>
           <l><del>rights, <del>of her position</del> She <del>is</del> has her [fields?]</del></l>
@@ -105,13 +105,13 @@
           <l>property, with [critical?] carved in stone, even over</l>
           <l>farm house walls. This is her property; this land</l>
           <l>is hers. Her <del>sense</del> of <del>the rights of blood,</del> of something</l>
-          <l>sacred in flesh &amp; blood: <add>so</add> when Lord <rs type="person" ref="../resources/annotations.xml#psn-eshe" key="Sheffield, Edmund">Sheffield</rs> marries</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-mirw" key="Irwin, Mariana">Anne Erwin</rs> it "<quote source="#" rend="inline">was held a very mean</quote></l>
+          <l>sacred in flesh &amp; blood: <add>so</add> when Lord <rs type="person" xml:id="psn-eshe" key="Sheffield, Edmund">Sheffield</rs> marries</l>
+          <l><rs type="person" xml:id="psn-mirw" key="Irwin, Mariana">Anne Erwin</rs> it "<quote source="#" rend="inline">was held a very mean</quote></l>
           <l><quote source="#" rend="inline">match, an indiscreet on part of him.</quote>" <del>already</del></l>
           <l><add place="margin">For</add> the noble families, the Herberts, the Russels, the Stanleys</l>
           <l>are already <del>weaving themselves together; &amp; there at</del></l>
           <l><del>set apart</del> <del>weaving their</del> webs, at the centre of which is</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-kjam" key="James I of England and VI of Scotland">King James</rs></l>
+          <l><rs type="person" xml:id="psn-kjam" key="James I of England and VI of Scotland">King James</rs></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/801,972,1743,476/full/0/default.tif">
           <l>Her whole effort is to count, <del>to amass</del>, to hoard; <del>&amp; to</del></l>
@@ -142,7 +142,7 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/867,1780,1639,520/full/0/default.tif">
           <quote source="inline" rend="block">
-            <l>If I had not excellent <rs type="person" ref="../resources/annotations.xml#psn-gcha">Chaucer</rs> back here to comfort me,</l>
+            <l>If I had not excellent <rs type="person" xml:id="psn-gcha">Chaucer</rs> back here to comfort me,</l>
             <l>I were in a pitiable case, having so many troubles</l>
             <l>as I have here, but when I read in that, I scorn &amp;</l>
             <l>make light of them all, &amp; a little part of his</l>
@@ -152,26 +152,26 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-2/849,2196,1727,956/full/0/default.tif">
           <l>It is <del>a queer transition</del> a strange reversal – <del>for the</del></l>
           <l>world <del>of rubies &amp; diamonds,</del> from the solid</l>
-          <l>earth <del>to the</del> of <rs type="place" ref="../resources/annotations.xml#pla-west" key="Westmoreland">Westmoreland</rs>, to the other world<del>; &amp;</del></l>
+          <l>earth <del>to the</del> of <rs type="place" xml:id="pla-west" key="Westmoreland">Westmoreland</rs>, to the other world<del>; &amp;</del></l>
           <l>a [feverish?] one, when her eye turns from the</l>
           <l>delight of possessing land, to the other delight of the</l>
           <l>a change of [public?] office, &amp; these abide in</l>
-          <l><rs type="place" ref="../resources/annotations.xml#pla-knol" key="Knole">Knole</rs>, &amp; she adds that postcript to a letter about</l>
+          <l><rs type="place" xml:id="pla-knol" key="Knole">Knole</rs>, &amp; she adds that postcript to a letter about</l>
           <l>a little cabinet a cup 
             <choice>
               <sic>wh.</sic>
               <corr>which</corr>
             </choice> she had left with</l>
-          <l>Lady <rs type="person" ref="../resources/annotations.xml#psn-egre" key="Grey, Elizabeth">Kent</rs>, when she borrowed a hundred pounds <del>off her</del></l>
+          <l>Lady <rs type="person" xml:id="psn-egre" key="Grey, Elizabeth">Kent</rs>, when she borrowed a hundred pounds <del>off her</del></l>
         </p>
       </div>
       <div xml:id="m1-8-10.3" n="3" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3">
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3/693,48,1811,608/full/0/default.tif">
           <l><add place="margin">But</add> It is only when she reads that she comments: when she goes to</l>
           <l>the play she says only "<quote rend="inline" source="#">Supped with my Lord &amp; Lady</quote></l>
-          <l><quote source="#" rend="inline"><rs type="person" ref="../resources/annotations.xml#psn-arun" key="Arundel, Lord and Lady">Arundel</rs> &amp; after supper I saw the play of the Mad Lover in </quote></l>
+          <l><quote source="#" rend="inline"><rs type="person" xml:id="psn-arun" key="Arundel, Lord and Lady">Arundel</rs> &amp; after supper I saw the play of the Mad Lover in </quote></l>
           <l><quote source="#" rend="inline">the Hall</quote>.. or "<quote source="#" rend="inline">We stood to see the Masque in the</quote></l>
-          <l><quote source="#" rend="inline">box with my Lady <rs type="person" ref="../resources/annotations.xml#psn-ruth">Ruthven</rs>.</quote>" For the reader was born</l>
+          <l><quote source="#" rend="inline">box with my Lady <rs type="person" xml:id="psn-ruth">Ruthven</rs>.</quote>" For the reader was born</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-3/771,570,1811,608/full/0/default.tif">
           <l><del>The reader</del> <del>[is here?]</del> presumably when the playhouse</l>
@@ -206,12 +206,12 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m1-8-10/m1-8-10-4/803,1392,1742,1888/full/0/default.tif">
           <l>Yet the prevalence of the reader is felt even when</l>
-          <l><del>the re</del> in the audience on the <rs type="place" ref="../resources/annotations.xml#pla-bank" key="Bankside">Bankside</rs>. It was for</l>
-          <l>him that <rs type="person" ref="../resources/annotations.xml#psn-tnas" key="Nashe, Thomas">Nashe</rs> wrote that strange amorphous book</l>
-          <l>the <rs type="literary-work" ref="../resources/annotations.xml#lit-trav" key="Unfortunate Traveller, The">Poor Traveller</rs>– <del>which</del> <del>which belongs</del> to no</l>
+          <l><del>the re</del> in the audience on the <rs type="place" xml:id="pla-bank" key="Bankside">Bankside</rs>. It was for</l>
+          <l>him that <rs type="person" xml:id="psn-tnas" key="Nashe, Thomas">Nashe</rs> wrote that strange amorphous book</l>
+          <l>the <rs type="literary-work" xml:id="lit-trav" key="Unfortunate Traveller, The">Poor Traveller</rs>– <del>which</del> <del>which belongs</del> to no</l>
           <l><del>class</del>, <del>which has its</del> <del>the</del> <del>in</del> for him that</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-rbur" key="Burton, Thomas">Burton</rs> composed that extraordinary medley, the</l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-anat" key="Anatomy of Melancholy, The">Anatomy of Melancholy</rs>. It is though the</l>
+          <l><rs type="person" xml:id="psn-rbur" key="Burton, Thomas">Burton</rs> composed that extraordinary medley, the</l>
+          <l><rs type="literary-work" xml:id="lit-anat" key="Anatomy of Melancholy, The">Anatomy of Melancholy</rs>. It is though the</l>
           <l><del>influence of the reader</del> It is there that the reader</l>
           <l>makes his first appearance; <del>It is</del> for it is there that</l>
           <l>we find the writer, completely anxious of the</l>

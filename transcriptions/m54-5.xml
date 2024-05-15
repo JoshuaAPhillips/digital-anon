@@ -88,7 +88,7 @@
               <corr>goes</corr>
             </choice> on a task for</l>
           <l>the critic-- that specially equipped taster and trier</l>
-          <l>who was not yet in existence <del hand="ms">in print</del> when <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser">Spenser</rs> <add hand="ms" place="above">[illeg.]</add> emerged</l>
+          <l>who was not yet in existence <del hand="ms">in print</del> when <rs type="person" xml:id="psn-espe" key="Spenser">Spenser</rs> <add hand="ms" place="above">[illeg.]</add> emerged</l>
           <l>weed 
             <choice>
               <sic>hunf</sic>
@@ -142,8 +142,8 @@
               <sic>hisrian</sic>
               <corr>historian</corr>
             </choice> to see the present,</l>
-          <l>must set it against an earlier age. To <rs type="person" ref="../resources/annotations.xml#psn-espe">Spenser</rs>, the golden</l>
-          <l>age was Cahu <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs>. <quote source="#" rend="inline">Dan Chaucer, well of English</quote></l>
+          <l>must set it against an earlier age. To <rs type="person" xml:id="psn-espe">Spenser</rs>, the golden</l>
+          <l>age was Cahu <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs>. <quote source="#" rend="inline">Dan Chaucer, well of English</quote></l>
           <l><quote source="#" rend="inline">un filed... "that the infusion sweete</quote></l>
         </p>
       </div>
@@ -155,7 +155,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-3/727,208,1861,2630/full/0/default.tif">
           <l><quote source="#" rend="inline">Of thine owne spirit which doth in me survive</quote></l>
           <l>He looks back to 
-            <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey"><choice>
+            <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey"><choice>
               <sic>Cah cer</sic>
               <corr>Chaucer</corr>
             </choice></rs>; he descends from 
@@ -187,12 +187,12 @@
               <corr>one</corr>
             </choice> of the generation that is just</l>
           <l>gone, making that book the kicking off point <add hand="ms" place="above">starting point</add> in another</l>
-          <l>direction, <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spensers</rs> revolt was against no 
+          <l>direction, <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spensers</rs> revolt was against no 
             <choice>
               <sic>particualr</sic>
               <corr>particular</corr>
             </choice> writer</l>
-          <l>---had not years of silence intervened? <add hand="ms" place="above">who was there in English save <rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>?</add>--- but against the</l>
+          <l>---had not years of silence intervened? <add hand="ms" place="above">who was there in English save <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>?</add>--- but against the</l>
           <l>
             <choice>
               <sic>langauge</sic>
@@ -206,7 +206,7 @@
             </choice> which the self critical</l>
           <l>writer so often applies to his own disease in the old English</l>
           <l>words that were now o<del>n</del><add place="inline">b</add>solete. A glossary was added to the</l>
-          <l><rs type="person" ref="../resources/annotations.xml#lit-shep" key="Shepherd's Calendar, The">Shepherds Calendar</rs> to explain them. But partly he used the</l>
+          <l><rs type="person" xml:id="lit-shep" key="Shepherd's Calendar, The">Shepherds Calendar</rs> to explain them. But partly he used the</l>
           <l>crabbed, English of the past not as we in our day</l>
           <l>seek to bring back the sharpness which much use has worn</l>
           <l>smooth; but to restrain what was to come. He was, as we <add hand="ms" place="inline">are not</add></l>
@@ -240,11 +240,11 @@
             <choice>
               <sic>thzthe</sic>
               <corr>that he</corr>
-            </choice> looked back to the <rs type="literary-work" ref="../resources/annotations.xml#lit-cant" key="Canterbury Tales, The">Canterbury Pilgrims?</rs></l>
+            </choice> looked back to the <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Canterbury Pilgrims?</rs></l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-3/669,2854,1897,530/full/0/default.tif">
           <l><del>Yet</del> <add place="inline">W</add><del>w</del>hat comparison is possible between the poetry of</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> and the poetry of <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs>? The one clear, sharp,</l>
+          <l><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> and the poetry of <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs>? The one clear, sharp,</l>
           <l>
             <choice>
               <sic>me erry</sic>
@@ -377,7 +377,7 @@
               <corr>the</corr>
             </choice> great</l>
           <l>room to some one reading aloud. <del>Only at the same time</del></l>
-          <l>But there was the other voice.         - the voice of <rs type="person" ref="../resources/annotations.xml#psn-anon" key="Anon">Anon</rs>;</l>
+          <l>But there was the other voice.         - the voice of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>;</l>
           <l><del>the voice of the</del> not as we hear it, reading those first</l>
           <l>
             <choice>
@@ -388,7 +388,7 @@
               <sic>ot</sic>
               <corr>of</corr>
             </choice> the anthology; but the</l>
-          <l>voice that <rs type="person" ref="../resources/annotations.xml#psn-espe" key="Spenser, Edmund">Spenser</rs> heard; loud; rough; brutal.</l>
+          <l>voice that <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> heard; loud; rough; brutal.</l>
         </p>
       </div>
       <div xml:id="m54-5.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-5/m54-5-6" />

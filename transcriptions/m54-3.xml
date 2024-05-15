@@ -60,12 +60,12 @@
           <l>9</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-1/840,220,1882,3054/full/0/default.tif">
-          <l>for coins. When he was walking in <del>his</del> the <rs type="person" ref="../resources/annotations.xml#psn-arch" key="Archbishop of Canterbury">
+          <l>for coins. When he was walking in <del>his</del> the <rs type="person" xml:id="psn-arch" key="Archbishop of Canterbury">
             <choice>
               <sic>Arcbishops</sic>
               <corr>Archbishop</corr>
             </choice> of</rs></l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-arch">Canterburys</rs> garden, <quote source="#" rend="inline">" the poor come 
+          <l><rs type="person" xml:id="psn-arch">Canterburys</rs> garden, <quote source="#" rend="inline">" the poor come 
             <choice>
               <sic>kkocking</sic>
               <corr>knocking</corr>
@@ -98,7 +98,7 @@
               <sic>herad</sic>
               <corr>heard</corr>
             </choice>.</l>
-          <l>These were the casees that he brought before <rs type="person" ref="../resources/annotations.xml#psn-edw4" key="Edward IV">King Edward</rs></l>
+          <l>These were the casees that he brought before <rs type="person" xml:id="psn-edw4" key="Edward IV">King Edward</rs></l>
           <l>In a voice that 
             <choice>
               <sic>sumbles</sic>
@@ -107,7 +107,7 @@
           <l>his fathers house, &#41;&#41;<quote source="#" rend="inline">" they say in my country to the hogs</quote></l>
           <l><quote source="#" rend="inline">mingle mangle, cum pur, cum pur"</quote> <!-- this is from one of Latimer's sermons to Edward! -->--- he brought into the</l>
           <l>light of day the hxmxmxmxmxmxmxmxmxmxmmx</l>
-          <l>xmxmxmxmxmxxx the harlot going to execution at <rs type="place" ref="../resources/annotations.xml#pla-newg" key="Newgate">Newgate</rs></l>
+          <l>xmxmxmxmxmxxx the harlot going to execution at <rs type="place" xml:id="pla-newg" key="Newgate">Newgate</rs></l>
           <l>and saying as she went <quote source="#">"that 
             <choice>
               <sic> f</sic>
@@ -165,12 +165,12 @@
               <sic>d ath</sic>
               <corr>death</corr>
             </choice>."</quote> It was Master</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-tbil" key="Bilney, Thomas">
+          <l><rs type="person" xml:id="psn-tbil" key="Bilney, Thomas">
             <choice>
               <sic>Boilney</sic>
               <corr>Bilney</corr>
             </choice></rs> at 
-            <rs type="place" ref="../resources/annotations.xml#psn-camb" key="Cambridge"><choice>
+            <rs type="place" xml:id="psn-camb" key="Cambridge"><choice>
               <sic>Ca, fiege</sic>
               <corr>Cambridge</corr>
             </choice></rs> who 
@@ -187,7 +187,7 @@
             <choice>
               <sic>agianst</sic>
               <corr>against</corr>
-            </choice> <rs type="person" ref="../resources/annotations.xml#psn-pmel" key="Melancthon, Philipp">
+            </choice> <rs type="person" xml:id="psn-pmel" key="Melancthon, Philipp">
               <choice>
                 <sic>Melnchton</sic>
                 <corr>Melancthon</corr>
@@ -225,8 +225,8 @@
               <sic>andsick</sic>
               <corr>and sick</corr>
             </choice> folk. There was a woman who had killed</l>
-          <l>her child. And <rs type="person" ref="../resources/annotations.xml#psn-hlat" key="Latimer, Hugh">Latimer</rs> brought her story before King</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-hen8" key="Henry VIII">
+          <l>her child. And <rs type="person" xml:id="psn-hlat" key="Latimer, Hugh">Latimer</rs> brought her story before King</l>
+          <l><rs type="person" xml:id="psn-hen8" key="Henry VIII">
             <choice>
               <sic>Hnery</sic>
               <corr>Henry</corr>
@@ -251,7 +251,7 @@
               <sic>Elizabetha</sic>
               <corr>Elizabethan</corr>
             </choice> age,</l>
-          <l>he saw, as <rs type="person" ref="../resources/annotations.xml#psn-whar" key="Harrison, William">Harrison</rs> saw, the great buildings rise on the</l>
+          <l>he saw, as <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> saw, the great buildings rise on the</l>
           <l>foundations of the old. <quote source="#" rend="inline">"There 
             <choice>
               <sic>ws</sic>
@@ -329,7 +329,7 @@
           <l>11</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-5/863,206,1809,770/full/0/default.tif">
-          <l>the preacher who was for banishing <rs type="person" ref="../resources/annotations.xml#psn-rhoo" key="Robin Hood">Robin Hood</rs>and such</l>
+          <l>the preacher who was for banishing <rs type="person" xml:id="psn-rhoo" key="Robin Hood">Robin Hood</rs>and such</l>
           <l>
             <choice>
               <sic>supersitions</sic>
@@ -344,7 +344,7 @@
               <sic>mibstrels</sic>
               <corr>minstrels</corr>
             </choice> a new lease of life. <del hand="ms">His English.</del> When he</l>
-          <l>said the <rs type="literary-work" ref="../resources/annotations.xml#lit-lord" key="Lord's Prayer">Lords prayer</rs> at the beginning and at</l>
+          <l>said the <rs type="literary-work" xml:id="lit-lord" key="Lord's Prayer">Lords prayer</rs> at the beginning and at</l>
           <l>theend of his 
             <choice>
               <sic>ermon</sic>
@@ -487,12 +487,12 @@
             <choice>
               <sic>breif</sic>
               <corr>brief</corr>
-            </choice>. At <rs type="place" ref="../resources/annotations.xml#pla-gorh" key="Gorhambury">
+            </choice>. At <rs type="place" xml:id="pla-gorh" key="Gorhambury">
               <choice>
                 <sic>Gorham nury</sic>
                 <corr>Gorhambury</corr>
               </choice></rs> Lady</l>
-          <l><rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne">Ann Bacon</rs> sat writing to <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">her son</rs>. But her letters are like</l>
+          <l><rs type="person" xml:id="psn-abac" key="Bacon, Anne">Ann Bacon</rs> sat writing to <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">her son</rs>. But her letters are like</l>
           <l>
             <choice>
               <sic>seroms</sic>

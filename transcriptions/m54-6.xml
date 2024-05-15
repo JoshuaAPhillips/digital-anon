@@ -60,7 +60,7 @@
           <l>13</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-6/m54-6-1/862,258,1854,450/full/0/default.tif">
-          <l>the pear shaped lute; on which the <rs type="person" ref="../resources/annotations.xml#psn-eliz" key="Elizabeth I">Queen</rs> herself once played</l>
+          <l>the pear shaped lute; on which the <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs> herself once played</l>
           <l>But the Elizabethans themselves are silent. Only their 
             <choice>
               <sic>furni</sic>
@@ -130,7 +130,7 @@
               <corr>circumlocutions</corr>
             </choice>.</l>
           <l>There is no gaiety, no freedom, no warmth in the great room.</l>
-          <l>When Lady <rs type="person" ref="../resources/annotations.xml#psn-abac" key="Bacon, Anne" >Ann Bacon</rs> writes to <rs type="person" ref="../resources/annotations.xml#psn-fbac" key="Bacon, Francis">her son</rs>, she admonishes,</l>
+          <l>When Lady <rs type="person" xml:id="psn-abac" key="Bacon, Anne" >Ann Bacon</rs> writes to <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">her son</rs>, she admonishes,</l>
           <l>she 
             <choice>
               <sic>exhosrts</sic>

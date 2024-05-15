@@ -62,8 +62,8 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-11/m54-11-1/815,214,1775,742/full/0/default.tif">
           <l>there is a jolt at the points; the mind slides onto another</l>
           <l>rail, lovely as the words are. To speak them the poet has</l>
-          <l>separated himself from the actors. He cannot yet make <rs type="literary-work" ref="../resources/annotations.xml#lit-tamb" key="Tamburlaine">Tambur</rs></l>
-          <l><rs type="literary-work" ref="../resources/annotations.xml#lit-tamb">laine</rs> speak those words. The play is still 
+          <l>separated himself from the actors. He cannot yet make <rs type="literary-work" xml:id="lit-tamb" key="Tamburlaine">Tambur</rs></l>
+          <l><rs type="literary-work" xml:id="lit-tamb">laine</rs> speak those words. The play is still 
             <choice>
               <sic>manly</sic>
               <corr>mainly</corr>
@@ -137,7 +137,7 @@
             <choice>
               <sic>attidtue</sic>
               <corr>attitude</corr>
-            </choice> at the <rs type="literary-work" ref="../resources/annotations.xml#lit-balle" key="Ballet Russes">Russian ballet</rs> at the <rs type="literary-work" ref="../resources/annotations.xml#lit-cine" key="Cinema">
+            </choice> at the <rs type="literary-work" xml:id="lit-balle" key="Ballet Russes">Russian ballet</rs> at the <rs type="literary-work" xml:id="lit-cine" key="Cinema">
               <choice>
                 <sic>cimme</sic>
                 <corr>cinema</corr>
@@ -157,8 +157,8 @@
             <choice>
               <sic>silnce</sic>
               <corr>silence</corr>
-            </choice> must have been overwhelming. There at the <rs type="place" ref="../resources/annotations.xml#pla-glob" key="Globe, The">Globe</rs></l>
-          <l>or at the <rs type="person" ref="../resources/annotations.xml#pla-rose" key="Rose, The">Rose</rs> men and women who had never seen themselves</l>
+            </choice> must have been overwhelming. There at the <rs type="place" xml:id="pla-glob" key="Globe, The">Globe</rs></l>
+          <l>or at the <rs type="person" xml:id="pla-rose" key="Rose, The">Rose</rs> men and women who had never seen themselves</l>
           <l>whose only reading was 
             <choice>
               <sic>historyor</sic>
