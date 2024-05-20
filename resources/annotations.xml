@@ -1198,9 +1198,11 @@
       </bibl>
       <bibl xml:id="lit-timb">
         <title level="a">Timber; Or, Discoveries</title>
+        <title level="b">Timber: Or, Discoveries: Made upon Men and Manners</title>
+        <title level="c">Timber: Or, Discoveries: Made upon Men and Matter: As they have flow'd out of his daily Readings; or had their refluxe to his peculiar Notion of the Times</title>
         <author>Jonson, Ben</author>
         <event type="publication" when="1641" />
-        <note>Something here. Published some years after BJ's death.</note>
+        <note>A compendium of quotations, maxims, and sententiae collected by <rs xml:id="psn-bjon">Ben Jonson</rs> akin to a commonplace book, though Pebworth points out that it differs formally and stylistically from other contemporary examples of the genre, and is most likely a synthetic compilation of loose reading notes (164-5). It was published in 1640-1, shortly after Jonson's death in 1937. VW gestures to this work in her 1934-5 reading notes to the <rs xml:id="lit-faer">Faerie Queene</rs> (cf. <hi rend="italics">RN</hi> 45). <hi rend="italics">Timbers</hi> discusses Spenser twice: once in section 63, 'Censura de Poetis' [Judgement of the Poets], in which Jonson laments that public opinion ranks John Taylor, the self-proclaimed Water Poet, above Spenser (Jonson 34), and again in section 106, 'Praecipiendi Modi' [Modes of Teaching], Jonson writes of the order in which a pupil have writers introduced to them: he counsels teachers to introduce '<rs xml:id="psn-psid">Sidney</rs> before Donne' and to 'beware of letting them taste <rs xml:id="psn-gcha">Chaucer</rs> and <rs xml:id="psn-jgow">Gower</rs> at first, lest, falling too much in love with antiquity, and, not apprehending the weight, they grow rough and barren in language only.' He then goes on to say that 'Spenser, in affecting the ancients, writ no language; yet I would have him read for his matter' (89). LLVW contains an 1898 edition of <hi rend="italics">Timbers</hi>.</note>
       </bibl>
       <bibl xml:id="lit-trav">
         <title level="a">The Unfortunate Traveller</title>
@@ -1288,7 +1290,7 @@
       <place xml:id="pla-bell">
         <placeName>Bell, The</placeName>
         <region>London, England</region>
-        <geo decls="#wgs">???</geo>
+        <geo decls="#wgs">51.51248341 -0.08521206</geo>
         <note>Little is known for certain about this playhouse. Chambers evidences its existence in 1560 and that it was assigned to the Queen's Men 'by a civic order of 28 November 1583 for their first winter season' (ii.381-2). A lease dating to <rs xml:id="psn-hen8">Henry VIII</rs>'s reign mentions that it abutted the site of <rs xml:id="psn-phen">Philip Henslowe</rs>'s <rs xml:id="pla-rose">Rose</rs> playhouse and describes it and its neighbours as lying "vppon the banke called Stewes"' (cf. Chambers ii.405). Stew is a euphemism: it is at once an obsolete word for brothel and a kind of 'lock hospital' where 'prostitutes were confined, and received the benefits of surgical assistance' (<hi rend="italics">OED</hi> "stew n2, I.4a").</note>
       </place>
       <place xml:id="pla-nber">
@@ -1406,7 +1408,7 @@
       <place xml:id="pla-fort">
         <placeName>Fortune, The</placeName>
         <region>London, England</region>
-        <geo decls="#wgs">???</geo>
+        <geo decls="#wgs">51.5222396 -0.09408404</geo>
         <note>The Fortune was a playhouse located north of the Thames, in the parish of St Giles' Cripplegate (the medieval church in the present-day Barbican complex) and therefore outside of the jurisdiction of the City of London. It was built in 1600 by theatre financier <rs xml:id="psn-phen">Philip Henslowe</rs> and actor Edward Alleyn, whose instructions for the builders specifically referenced the <rs xml:id="pla-glob">Globe</rs>. This building burnt down in December 1622, and it was later rebuilt, though this was dismantled in 1649 (Chambers ii.435-442). Cf. Orrell for a detailed examination of the playhouse's construction.</note>
       </place>
       <place xml:id="pla-gaws">
@@ -1491,7 +1493,7 @@
         <placeName>Mermaid, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.513003 -0.095277</geo>
-        <note>Old tavern, probs.</note>
+        <note>A seventeenth century tavern on <rs xml:id="pla-lond">London</rs>'s <rs xml:id="pla-chea">Cheapside</rs>. The tavern continues to have literary-historical resonances: playwright and poet <rs xml:id="psn-bjon">Ben Jonson</rs> was among its frequenters, as was <rs xml:id="psn-fbeau">Francis Beaumont</rs> and his collaborator John Fletcher. A drinking society named the 'Fraternitie of Sireniacal gentlemen' are also associated with the tavern: O'Callaghan suggests that John Donne was part of this group. Popular legend also places <rs xml:id="psn-wral">Sir Walter Raleigh</rs>, <rs xml:id="psn-tdek">Thomas Dekker</rs> and one <rs xml:id="psn-wsha">William Shakespeare</rs> here as part of a quasi-mythological Mermaids Club, but O'Callaghan is sceptical of this club's existence.</note>
       </place>
       <place xml:id="pla-norf">
         <placeName>Norfolk</placeName>
