@@ -1039,10 +1039,10 @@
         <idno type="viaf">http://viaf.org/viaf/303463240 (Part II)</idno>
         <idno type="viaf">http://viaf.org/viaf/303026888 (Part III)</idno>
       </bibl>
-      <bibl>
+      <bibl xml:id="lit-hist">
         <title level="a">History of England</title>
-        <author>???</author>
-        <note>Find out what I mean by this...</note>
+        <author>Trevelyan, G.M. [George Macaulay]</author>
+        <note>A 1926 work by historian <rs xml:id="psn-gtre">George Macaulay Trevelyan</rs>. VW took notes on this in 1940 in preparation for the 'Anon' drafts: the edition in LLVW also contains LW's annotations. Trevelyan's narrative stretches from prehistoric Britain to the death of Queen Victoria, though Woolf's notes peter out after the Stuarts. The ecological fantasia that opens many of the 'Anon' fragments, where early human music is prefigured by birdsong, draws inspiration from and cites the opening of Trevelyan's history (cf. Trevelyan 3 CHECK - in Bod)</note>
       </bibl>
       <bibl xml:id="lit-chro">
         <title level="a">Holinshed's Chronicles</title>
