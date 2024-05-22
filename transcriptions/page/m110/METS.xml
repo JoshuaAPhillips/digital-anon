@@ -1,6 +1,50 @@
 <mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
   <fileSec>
     
+    <fileGrp USE="image">
+      
+        <file ID="image1">
+          <FLocat xlink:href="m110-1.tif"/>
+        </file>
+      
+        <file ID="image2">
+          <FLocat xlink:href="m110-2.tif"/>
+        </file>
+      
+        <file ID="image3">
+          <FLocat xlink:href="m110-3.tif"/>
+        </file>
+      
+        <file ID="image4">
+          <FLocat xlink:href="m110-4.tif"/>
+        </file>
+      
+        <file ID="image5">
+          <FLocat xlink:href="m110-5.tif"/>
+        </file>
+      
+        <file ID="image6">
+          <FLocat xlink:href="m110-6.tif"/>
+        </file>
+      
+        <file ID="image7">
+          <FLocat xlink:href="m110-7.tif"/>
+        </file>
+      
+        <file ID="image8">
+          <FLocat xlink:href="m110-8.tif"/>
+        </file>
+      
+        <file ID="image9">
+          <FLocat xlink:href="m110-9.tif"/>
+        </file>
+      
+        <file ID="image10">
+          <FLocat xlink:href="m110-10.tif"/>
+        </file>
+      
+    </fileGrp>
+    
     <fileGrp USE="export">
       
         <file ID="export1">
@@ -49,52 +93,52 @@
     <div TYPE="document">
       
       <div TYPE="page">
-        
+        <fptr FILEID="image1"/>
         <fptr FILEID="export1"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image2"/>
         <fptr FILEID="export2"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image3"/>
         <fptr FILEID="export3"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image4"/>
         <fptr FILEID="export4"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image5"/>
         <fptr FILEID="export5"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image6"/>
         <fptr FILEID="export6"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image7"/>
         <fptr FILEID="export7"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image8"/>
         <fptr FILEID="export8"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image9"/>
         <fptr FILEID="export9"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image10"/>
         <fptr FILEID="export10"/>
       </div>
       

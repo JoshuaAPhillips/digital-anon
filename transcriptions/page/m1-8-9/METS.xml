@@ -1,6 +1,22 @@
 <mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
   <fileSec>
     
+    <fileGrp USE="image">
+      
+        <file ID="image1">
+          <FLocat xlink:href="m1-8-9-1.tif"/>
+        </file>
+      
+        <file ID="image2">
+          <FLocat xlink:href="m1-8-9-2.tif"/>
+        </file>
+      
+        <file ID="image3">
+          <FLocat xlink:href="m1-8-9-3.tif"/>
+        </file>
+      
+    </fileGrp>
+    
     <fileGrp USE="export">
       
         <file ID="export1">
@@ -21,17 +37,17 @@
     <div TYPE="document">
       
       <div TYPE="page">
-        
+        <fptr FILEID="image1"/>
         <fptr FILEID="export1"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image2"/>
         <fptr FILEID="export2"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image3"/>
         <fptr FILEID="export3"/>
       </div>
       

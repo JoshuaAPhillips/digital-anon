@@ -1,6 +1,74 @@
 <mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
   <fileSec>
     
+    <fileGrp USE="image">
+      
+        <file ID="image1">
+          <FLocat xlink:href="m49-1.tif"/>
+        </file>
+      
+        <file ID="image2">
+          <FLocat xlink:href="m49-2.tif"/>
+        </file>
+      
+        <file ID="image3">
+          <FLocat xlink:href="m49-3.tif"/>
+        </file>
+      
+        <file ID="image4">
+          <FLocat xlink:href="m49-4.tif"/>
+        </file>
+      
+        <file ID="image5">
+          <FLocat xlink:href="m49-5.tif"/>
+        </file>
+      
+        <file ID="image6">
+          <FLocat xlink:href="m49-6.tif"/>
+        </file>
+      
+        <file ID="image7">
+          <FLocat xlink:href="m49-7.tif"/>
+        </file>
+      
+        <file ID="image8">
+          <FLocat xlink:href="m49-8.tif"/>
+        </file>
+      
+        <file ID="image9">
+          <FLocat xlink:href="m49-9.tif"/>
+        </file>
+      
+        <file ID="image10">
+          <FLocat xlink:href="m49-10.tif"/>
+        </file>
+      
+        <file ID="image11">
+          <FLocat xlink:href="m49-11.tif"/>
+        </file>
+      
+        <file ID="image12">
+          <FLocat xlink:href="m49-12.tif"/>
+        </file>
+      
+        <file ID="image13">
+          <FLocat xlink:href="m49-13.tif"/>
+        </file>
+      
+        <file ID="image14">
+          <FLocat xlink:href="m49-14.tif"/>
+        </file>
+      
+        <file ID="image15">
+          <FLocat xlink:href="m49-15.tif"/>
+        </file>
+      
+        <file ID="image16">
+          <FLocat xlink:href="m49-16.tif"/>
+        </file>
+      
+    </fileGrp>
+    
     <fileGrp USE="export">
       
         <file ID="export1">
@@ -73,82 +141,82 @@
     <div TYPE="document">
       
       <div TYPE="page">
-        
+        <fptr FILEID="image1"/>
         <fptr FILEID="export1"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image2"/>
         <fptr FILEID="export2"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image3"/>
         <fptr FILEID="export3"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image4"/>
         <fptr FILEID="export4"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image5"/>
         <fptr FILEID="export5"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image6"/>
         <fptr FILEID="export6"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image7"/>
         <fptr FILEID="export7"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image8"/>
         <fptr FILEID="export8"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image9"/>
         <fptr FILEID="export9"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image10"/>
         <fptr FILEID="export10"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image11"/>
         <fptr FILEID="export11"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image12"/>
         <fptr FILEID="export12"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image13"/>
         <fptr FILEID="export13"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image14"/>
         <fptr FILEID="export14"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image15"/>
         <fptr FILEID="export15"/>
       </div>
       
       <div TYPE="page">
-        
+        <fptr FILEID="image16"/>
         <fptr FILEID="export16"/>
       </div>
       
