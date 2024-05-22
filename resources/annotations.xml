@@ -171,7 +171,7 @@
         <persName>Cobham, Baron William Brooke</persName>
         <event type="birth" date="1527-11-01" />
         <event type="death" date="1597-03-06" />
-        <note>William Brooke, tenth Baron Cobham, was a well-connected diplomat who acted as patron for <rs xml:id="psn-whar">William Harrison</rs>, who dedicated his <rs xml:id="lit-desc">Description of England</rs> to Brooke.</note>
+        <note>William Brooke, tenth Baron Cobham, was a well-connected diplomat who acted as patron for <rs xml:id="psn-whar">William Harrison</rs>, who dedicated his <rs xml:id="lit-desc">Description of England</rs> to Brooke (cf. Harrison I.cix).</note>
         <idno type="viaf">http://viaf.org/viaf/3382863</idno>
       </person>
       <person xml:id="psn-stco">
@@ -893,9 +893,12 @@
         <idno type="viaf">http://viaf.org/viaf/186060785</idno>
       </bibl>
       <bibl xml:id="lit-desc">
-        <title level="a">A Description of England</title>
+        <title level="a">Harrison's Description of England in Shakspere's Youth</title>
+        <title level="b">Harrison's Description of England in Shakespere's youth: Being the second and third books of his Description of Britaine and England</title>
+        <event type="publication (first edition)" when="1577" />
+        <event type="publication (second edition)" when="1587" />
         <author>Harrison, William</author>
-        <note>Okay, actually do some digging and find out what this was called, where it could be read – "Harrison, William. Harrison's Description of England in Shakspere's [sic] Youth: Being the Second and Third Books of his Description of Britaine and England. Ed. by Frederick J. Furnivall. London: N. Trübner, 1877-1881. 3 vols. Vols. 1 and 2 only. VW—bookplate." in library</note>
+        <note><rs xml:id="psn-whar">William Harrison</rs>' s <hi rend="italics">Description</hi> was initially published as part of <rs xml:id="psn-rhol">Raphael Holinshed</rs>'s <rs xml:id="lit-chro">Chronicles</rs> (first ed. 1577, second ed. 1587), but VW encountered it as a standalone three-volume edition published 1877-18 for the New Shakespere Society, edited by Frederick Furnivall. LLVW contains the first and second volumes of this edition with VW's bookplate. Harrison vividly depicts recent and contemporary Elizabethan England, and Woolf uses his writing as a major source for her descriptions of changes in English society at this period, and as a contemporary source on the theatre and playhouses. She makes three sets of notes on it: the first in preparation for <hi rend="italics">CR1</hi>. In this set of notes she focuses on changing dietary habits as an index for broader social change (<hi rend="italics">RN</hi> 19). She revisits Harrison in preparation for the 'Anon' drafts: in <hi rend="italics">RN</hi> 21 she focuses on Furnivall's introduction to the first volume, and his biography of Harrison (<hi rend="italics">RN</hi> 21). Her final set of notes are more general in character, covering arms and armaments, historic ballads, inns and more (cf. <hi rend="italics">RN</hi> 37).</note>
       </bibl>
       <bibl xml:id="lit-stra">
         <title level="a">Elizabeth and Essex</title>
