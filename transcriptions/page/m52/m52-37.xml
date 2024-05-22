@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-05-15T10:12:01.764890+00:00</Created>
+        <LastChange>2024-05-15T10:49:18.840092+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="m52-37.tif" imageWidth="2768" imageHeight="3500">
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_fec29b9a" >
+        <Baseline points="887,163 2587,170"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f5e3cd29" >
+        <Baseline points="902,277 2572,292"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2c169c5e" >
+        <Baseline points="898,395 2550,395"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1fae4d1a" >
+        <Baseline points="865,499 1663,506"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

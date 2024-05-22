@@ -1,0 +1,157 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="m49-1.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="m49-2.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="m49-3.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="m49-4.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="m49-5.xml"/>
+        </file>
+      
+        <file ID="export6">
+          <FLocat xlink:href="m49-6.xml"/>
+        </file>
+      
+        <file ID="export7">
+          <FLocat xlink:href="m49-7.xml"/>
+        </file>
+      
+        <file ID="export8">
+          <FLocat xlink:href="m49-8.xml"/>
+        </file>
+      
+        <file ID="export9">
+          <FLocat xlink:href="m49-9.xml"/>
+        </file>
+      
+        <file ID="export10">
+          <FLocat xlink:href="m49-10.xml"/>
+        </file>
+      
+        <file ID="export11">
+          <FLocat xlink:href="m49-11.xml"/>
+        </file>
+      
+        <file ID="export12">
+          <FLocat xlink:href="m49-12.xml"/>
+        </file>
+      
+        <file ID="export13">
+          <FLocat xlink:href="m49-13.xml"/>
+        </file>
+      
+        <file ID="export14">
+          <FLocat xlink:href="m49-14.xml"/>
+        </file>
+      
+        <file ID="export15">
+          <FLocat xlink:href="m49-15.xml"/>
+        </file>
+      
+        <file ID="export16">
+          <FLocat xlink:href="m49-16.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export6"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export7"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export8"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export9"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export10"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export11"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export12"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export13"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export14"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export15"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export16"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>

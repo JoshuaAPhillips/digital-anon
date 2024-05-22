@@ -1,0 +1,94 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <fileSec>
+    
+    <fileGrp USE="export">
+      
+        <file ID="export1">
+          <FLocat xlink:href="m1-8-1-1.xml"/>
+        </file>
+      
+        <file ID="export2">
+          <FLocat xlink:href="m1-8-1-2.xml"/>
+        </file>
+      
+        <file ID="export3">
+          <FLocat xlink:href="m1-8-1-3.xml"/>
+        </file>
+      
+        <file ID="export4">
+          <FLocat xlink:href="m1-8-1-4.xml"/>
+        </file>
+      
+        <file ID="export5">
+          <FLocat xlink:href="m1-8-1-5.xml"/>
+        </file>
+      
+        <file ID="export6">
+          <FLocat xlink:href="m1-8-1-6.xml"/>
+        </file>
+      
+        <file ID="export7">
+          <FLocat xlink:href="m1-8-1-7.xml"/>
+        </file>
+      
+        <file ID="export8">
+          <FLocat xlink:href="m1-8-1-8.xml"/>
+        </file>
+      
+        <file ID="export9">
+          <FLocat xlink:href="m1-8-1-9.xml"/>
+        </file>
+      
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="document">
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export1"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export2"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export3"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export4"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export5"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export6"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export7"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export8"/>
+      </div>
+      
+      <div TYPE="page">
+        
+        <fptr FILEID="export9"/>
+      </div>
+      
+    </div>
+  </structMap>
+</mets>

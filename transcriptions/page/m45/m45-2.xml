@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-05-13T16:51:19.946268+00:00</Created>
+        <LastChange>2024-05-14T09:39:34.420043+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="m45-2.tif" imageWidth="2758" imageHeight="3500">
+    <TextRegion id="eSc_textblock_e6fa7535"  custom="structure {type:text;}">
+      <Coords points="1482,2380 1505,2380 1513,2393 1476,2401 1482,2380"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e2cf4eb9"  custom="structure {type:text;}">
+      <Coords points="338,2053 418,2061 402,2160 303,2136 338,2053"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fe8b5de5"  custom="structure {type:text;}">
+      <Coords points="1273,77 1351,77 1375,153 1351,192 1252,223 1244,108 1273,77"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e5aad15b"  custom="structure {type:text;}">
+      <Coords points="2617,404 2633,456 2588,464 2581,427 2617,404"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_34b1c3b2"  custom="structure {type:text;}">
+      <Coords points="1606,995 1661,995 1676,1032 1585,1032 1606,995"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e497cb96"  custom="structure {type:text;}">
+      <Coords points="1456,2426 1528,2481 1520,2704 1575,2908 1544,2969 1476,2852 1499,2737 1476,2728 1456,2426"/>
+    </TextRegion>
+  </Page>
+</PcGts>
