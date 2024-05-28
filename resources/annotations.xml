@@ -442,11 +442,11 @@
         <note>Which one?</note>
         <idno>N/A</idno>
       </person>
-      <person xml:id="jlld">
+      <person xml:id="jlyd">
         <persName>Lydgate, John</persName>
         <event type="birth" date="1370?" />
         <event type="death" date="1451?" />
-        <note>John Lydgate was an English monk who wrote poems of ever-increasing length in a variety of genres. Among these is the <hi rend="italics">Troy Book</hi>, a 30,000-line Middle English poem that tells the complete history of Troy from its foundation to its fall. If VW read any of Lydgate's poetry then no trace of that reading remains.</note>
+        <note>John Lydgate was an English monk who wrote poems of ever-increasing length in a variety of genres. Among these is the <hi rend="italics">Troy Book</hi>, a 30,000-line Middle English poem that tells the complete history of Troy from its foundation to its fall. In 'The Journal of Mistress Joan Martyn,' the journal-writer is sent a 'manuscript from London; called The Palace of Glass, by Mr John Lydgate' (<hi rend="italics">CSF</hi> 46). Joan Martyn references Lydgate's <hi rend="italics">House of Glas</hi> here, but the narrative she recounts, 'about Helen and the Siege of Troy' is from his <hi rend="italics">Troy Book</hi>. If VW read any of Lydgate's poetry then no trace of that reading remains, and LLVW contains nothing by the poet.</note>
         <idno type="viaf">http://viaf.org/viaf/22158282</idno>
       </person>
       <person>
@@ -1512,13 +1512,15 @@
         <placeName>Norfolk</placeName>
         <region>East Anglia, England</region>
         <geo decls="#wgs">52.628596 1.296451</geo>
-        <note>County. Blo' Norton Hall, Joan Martyn story, Pastons</note>
+        <note>A county in the east of England with many Woolfian resonances. VW most of August 1906 in Norfolk when the Stephens rented the Elizabethan manor house Blo' Norton Hall, in a remote part of the county: it was '7 miles from a railway; &amp; every mile seems to draw a thicker curtain than the last between you &amp; the world' (<hi rend="italics">PA</hi> 310). While at Blo' Norton, she wrote the short story 'The Journal of Mistress Joan Martyn,' set in the locale. Some decades later, in a letter to Vanessa Bell dated 25 May 1928 VW writes that she and LW are considering selling Monks House after 'some hanky panky with the agent behind [their] backs' leads to the sale of their terrace and the threat of building work thereon: VW 'see[s] from advertisements one can get the most ravishing old houses with gardens and orchards in Dorset, Suffolk or Norfolk for a mere song' (<hi rend="italics">L</hi>3 500, §. 1895). They drive along the north Norfolk coast in March 1932: VW's joy in the 'lovely lonely coast' between King's Lynn and Cromer is tempered by her grief at the recent death by suicide of Dora Carrington (<hi rend="italics">D</hi>4 84).
+          
+        In <hi rend="italics">VO</hi>, St John Hirst comes from Norfolk 'the son of the Reverend Sidney Hirst, vicar of Great Wappyng in Norfolk' and later refutes the rumour that he has 'Jewish blood in [him]' as his family has 'been in Norfolk, Hirst of Hirstborne Hall, for three centuries at least' (160, 232), while in Woolf's next novel, Ralph Denham takes a cottage in Norfolk (310) but does not leave London before the novel's end. The county is part of the mental landscape of several characters in <hi rend="italics">MD</hi>. Richard Dalloway is not a fan of his wife's parties: in an aside we learn that 'to do Richard justice he would have been happier farming in Norfolk' (69), and his thoughts turn to Norfolk and its 'soft warm wind' as he shops for jewelery with Hugh Whitbread (101). Among the credits to Whitbread's name is 'the protection of owls in Norfolk' (92), while Mrs Hilbery questions whether 'some Mongol had been wrecked on the coast of Norfolk [and] had mixed with the Dalloway ladies' (110). Captain Frederick Marryat, whose writings and <hi rend="italics">Life and Letters</hi> Woolf reviews in the 1935 essay 'The Captain's Death Bed' died in Langham, ' "two miles from the sea, on the coast of Norfolk'" (<hi rend="italics">E</hi>6 65). <rs xml:id="psn-tbro">Sir Thomas Browne</rs> lived in the county town, <rs xml:id="pla-norw">Norwich</rs> (cf. entry on Browne for more details), and the <rs xml:id="lit-past">Paston</rs> family took their name from the town of Paston, on the north Norfolk coast (cf. 'The Pastons and Chaucer,' <hi rend="italics">E</hi>4 20-38).</note>
       </place>
       <place xml:id="pla-norw">
         <placeName>Norwich</placeName>
         <region>Norfolk, England</region>
         <geo decls="#wgs">52.628596 1.296451</geo>
-        <note>The county town and largest city in <rs xml:id="pla-norf">Norfolk</rs>, East Anglia. It was home to <rs xml:id="psn-tbro">Sir Thomas Browne</rs> (cf. entry on Browne for more details), and in the <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer,' Woolf writes that John Paston was buried roughly twenty miles from Norwich (<hi rend="italics">E</hi>4 CHECK). The early short story 'The Journal of Mistress Joan Martyn' is set in the vicinity of Norwich: the frame narrative takes place as THINGY is making her way from Caister to Norwich, while the titular Joan Martyn lives FINISH LATER.</note>
+        <note>The county town and largest city in <rs xml:id="pla-norf">Norfolk</rs>, East Anglia. It was home to <rs xml:id="psn-tbro">Sir Thomas Browne</rs> (cf. entry on Browne for more details), and in the <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer,' Woolf writes that John Paston was buried roughly twenty miles north of Norwich (<hi rend="italics">E</hi>4 20) and that William Paston 'retained' Norwich monks to 'pray for his soul "for ever"' (23). The early short story 'The Journal of Mistress Joan Martyn' is set in the vicinity of Norwich: the frame narrative takes place as historian Rosamond Merridew is making her way along the Thetford road from Norwich to East Harling (<hi rend="italics">CSF</hi> 35) while the titular Joan Martyn spent her early life in a hall along this road (41-62).</note>
       </place>
       <place xml:id="pla-oxf">
         <placeName>Oxford</placeName>
