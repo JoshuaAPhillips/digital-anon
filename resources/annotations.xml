@@ -1510,9 +1510,15 @@
       </place>
       <place xml:id="pla-norf">
         <placeName>Norfolk</placeName>
-        <region>Norfolk, England</region>
+        <region>East Anglia, England</region>
         <geo decls="#wgs">52.628596 1.296451</geo>
         <note>County. Blo' Norton Hall, Joan Martyn story, Pastons</note>
+      </place>
+      <place xml:id="pla-norw">
+        <placeName>Norwich</placeName>
+        <region>Norfolk, England</region>
+        <geo decls="#wgs">52.628596 1.296451</geo>
+        <note>The county town and largest city in <rs xml:id="pla-norf">Norfolk</rs>, East Anglia. It was home to <rs xml:id="psn-tbro">Sir Thomas Browne</rs> (cf. entry on Browne for more details), and in the <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer,' Woolf writes that John Paston was buried roughly twenty miles from Norwich (<hi rend="italics">E</hi>4 CHECK). The early short story 'The Journal of Mistress Joan Martyn' is set in the vicinity of Norwich: the frame narrative takes place as THINGY is making her way from Caister to Norwich, while the titular Joan Martyn lives FINISH LATER.</note>
       </place>
       <place xml:id="pla-oxf">
         <placeName>Oxford</placeName>
@@ -1530,7 +1536,7 @@
         <placeName>Penshurst</placeName>
         <region>Kent, England</region>
         <geo decls="#wgs">51.174604 0.183672</geo>
-        <note>Home of Sir Philip Sidney.</note>
+        <note>The family seat of the Sidneys and home to <rs xml:id="psn-psid">Sir Philip Sidney</rs>, his brother <rs xml:id="psn-rsid">Robert Sidney</rs> and, before her marriage, <rs xml:id="psn-mher">Mary Sidney Herbert</rs>. The stately home was a locus of courtly literary culture, and <rs xml:id="psn-espe">Edmund Spenser</rs> spent time here CHECK THIS. VW visited the house with Vita Sackville-West on 14 June 1940, the day that WAS IT THE FALL OF PARIS OR THE INVASION?. CITE D5 for impressions</note>
       </place>
       <place xml:id="pla-radw">
         <placeName>Radwinter</placeName>
