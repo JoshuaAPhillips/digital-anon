@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>transcriptions/page/m1-8-1/m1-8-1-1.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>PAGE -> TEI</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>transcriptions/page/m48/METS.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -31,26 +51,6 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>transcriptions/page/m1-8-1/METS.xml</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>PAGE -> TEI</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>transcriptions/page/m1-8-1/m1-8-1-1.xml</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
