@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="10652" lry="14204" xml:id="facs_">
+         <graphic url="m73-2.tif" width="10652px" height="14204px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="5440,6091 5361,6091 5282,6091 5290,6155 5290,6265 5543,6281 5543,6139 5519,6091 5440,6091" rendition="Line" xml:id="facs__eSc_line_7dfc4e52" subtype="default"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+               <l facs="#facs__eSc_line_7dfc4e52"/>
+            </ab></div>
+      </body>
+   </text>
+</TEI>
