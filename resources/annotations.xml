@@ -1151,6 +1151,13 @@
         <note>A fantastical and explicitly metatheatrical comedy by <rs xml:id="psn-wsha">William Shakespeare</rs>, probably composed 1595-6. VW read this play once: in a letter to Julian Bell dated 2 May 1936 she tells her nephew that she read it the previous night, commenting 'Well there you have it — all England, all May in a song or two' (<hi rend="italics">L</hi>6 33, §. 3126). If she made notes while reading, none survive, and she only mentions it once by name in her fiction and essays, and very rarely uses its characters' names: in <hi rend="italics">O</hi>, the young Orlando writes a piece called 'The Birth of Pyramus' (71). In a letter sent to Quentin Bell on June 8 1930, she tells her nephew that '[t]omorrow there is a village festival [in Rodmell] — our cook dances on the lawn — they act Midsummer Nights Dream and I am to guess the weight of a cake' (<hi rend="italics">L</hi>4 176, §. 2189). This, perhaps, finds its way in the 1911 chapter of <hi rend="italics">Y</hi>, in which Celia tells Eleanor Pargiter that she has seen a ' "scene from Shakespeare"' but cannot remember which play: ' "<hi rend="italics">Midsummer-Night? As You Like It?</hi> I forget which."' (177). In early April 1937 she sees her niece Angelica Bell play the fairy Ariel in a production of the play at Sadler's Well theatre, Islington, London, and writes of it to Janet Case (cf. <hi rend="italics">L</hi>6 118, §. 3233). Claudia Olk argues that <hi rend="italics">A Midsummer Night's Dream</hi>'s double plot, one of which is metatheatrical, provides a 'conceptual model for Woolf's double plot' in <hi rend="italics">BA</hi> (117).</note>
         <idno type="viaf">http://viaf.org/viaf/182253235</idno>
       </bibl>
+      <bibl xml:id="lit-nord">
+        <title level="a">London</title>
+        <title level="b">Norden's Map</title>
+        <author>Norden, John</author>
+        <event type="publication" when="1593" />
+        <note>A map of the city of <rs xml:id="pla-lond">London</rs>, Westminster, and <rs xml:id="pla-sout">Southwark</rs> initially printed in 1593. VW is most likely to have encountered it in her reprint of <rs xml:id="psn-whar">William Harrison</rs>'s <rs xml:id="lit-desc">Description of England</rs>, wherein it was included by the editor as contextual material.</note>
+      </bibl>
       <bibl xml:id="lit-masq">
         <title level="a">Of Masques and Triumphs</title>
         <author>Bacon, Francis</author>
@@ -1273,9 +1280,6 @@
           <objectName>Monotype</objectName>
         </objectIdentifier>
         <note>lead bubbling up</note>
-      </object>
-      <object xml:id="obj-nord">
-        <!-- should this be under lit? -->
       </object>
       <object xml:id="obj-pill">
         <objectIdentifier>
@@ -1589,7 +1593,7 @@
         <placeName>St Paul's Cathedral</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.513777 -0.098330</geo>
-        <note>St Paul's Cathedral, London. Where the pilliwinks were? Look at Abbeys and Cathedrals</note>
+        <note>VW writes about this central <rs xml:id="pla-lond">London</rs> cathedral most sustainedly in 'Abbeys and Cathedrals,' the fourth of the six 'London Scene' essays she published in <hi rend="italics">Good Housekeeping</hi> magazine 1931-2 (<hi rend="italics">E</hi>5 301-6), contrasting it with the nearby <rs xml:id="pla-wmab">Westminster Abbey</rs>. She writes of the cathedral's 'colourless serenity' and its complete lack of mystery compared to the Abbey close by (302). In <hi rend="italic">Y</hi>'s 1914 chapter, Sara and Martin bump into one another on the cathedral's front steps and share a meal in a chop-house close by. In <hi rend="italics">O</hi>, the dome of St Paul's Cathedral is one of the first sights Orlando sees on her return to London, though not the building that she remembers: rather, she sees 'the dome of St. Paul's which Mr. Wren had built during her absence' (152). The older construction had been destroyed in the 1666 Great Fire of London and Wren had designed the new, domed, cathedral in the years that Orlando was absent.</note>
       </place>
       <place xml:id="pla-ston">
         <placeName>Stonehenge</placeName>
