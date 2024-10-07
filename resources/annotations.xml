@@ -368,7 +368,7 @@
         <persName>James I of England and VI of Scotland</persName>
         <event type="birth" when="1566-06-19" />
         <event type="death" when="1625-03-27" />
-        <note>James Stewart was annointed as James VI of Scotland at the tender age of thirteen months and, after the death of <rs xml:id="psn-eliz">Elizabeth I</rs> and the subsequent union of the crowns, ruled as James VI of Scotland and James I of England and Ireland, although the union was never an easy one (Wormald n.p.). Prior to the union, he was a prolific author, attempting to codify Scottish poetry and distinguish it from English verse in the 1584 <hi rend="italics">Reulis and Cautelis to be Observit and Eschewit in Scottish Poesie</hi>, and he was author of <hi rend="italics">Daemonologie</hi> (1597), a tract on witch-hunting: the Woolfs had a 1924 Bodley Head Quartos facsimile of this (<hi rend="italics">LLVW</hi>). His reign following the union saw a flourishing of English poetry and drama.</note>
+        <note>James Stewart was annointed as James VI of Scotland at the tender age of thirteen months and, after the death of <rs xml:id="psn-eliz">Elizabeth I</rs> and the subsequent union of the crowns, ruled as James VI of Scotland and James I of England and Ireland, although the union was never an easy one (Wormald n.p.). Prior to the union, he was a prolific author, attempting to codify Scottish poetry and distinguish it from English verse in the 1584 <hi rend="italics">Reulis and Cautelis to be Observit and Eschewit in Scottish Poesie</hi>, and he was author of <hi rend="italics">Daemonologie</hi> (1597), a tract on witch-hunting: the Woolfs had a 1924 Bodley Head Quartos facsimile of this (<hi rend="italics">LLVW</hi>). Woolf draws from <hi rend="italics">Daemonologie</hi> in her discussion of witches in the drafts herein. James's reign following the union saw a flourishing of English poetry and drama.</note>
         <idno type="viaf">http://viaf.org/viaf/88905668</idno>
       </person>
       <person xml:id="psn-hjam">
@@ -1483,13 +1483,13 @@
         <placeName>Kenilworth</placeName>
         <region>Warwickshire, England</region>
         <geo decls="#wgs">52.344506 -1.571750</geo>
-        <note>Kenilworth, Warwickshire. Where Robert Dudley, Earl of Leicester, lived.</note>
+        <note>A castle in Warwickshire, built by Robert Dudley, a favourite of <rs xml:id="psn-eliz">Elizabeth I</rs>. Walter Scott's <hi rend="italics">Kenilworth: A Romance</hi> (1821) is largely set here, and features three pageants, two of which have historical analogues, albeit the final and most elaborate of the three is fictional (Arata 104). LLVW contains a copy of Scott's historical romance, though no reading notes on it remain extant. Woolf may also have known about the contemporaneous Kenilworth Castle Pageant, held 08-15 July 1939 (cf. Bartie et al.). This was a sizeable affair, attracting some 20,000 spectators over its week-long run, and was reported in the <hi rend="italics">Manchester Guardian</hi> and the London <hi rend="italics">Times</hi>.</note>
       </place>
       <place xml:id="pla-knol">
         <placeName>Knole</placeName>
         <region>Kent, England</region>
         <geo decls="#wgs">51.266191 0.205361</geo>
-        <note>Knole, Kent. Where Vita Sackville-West and generations of Sackville-Westses lived. Can't remember why it came up here</note>
+        <note>A house and estate in Sevenoaks, Kent, and the ancestral home of the Sackville-West family, as well as the fictional home of Orlando. Lady <rs xml:id="psn-aclif">Anne Clifford</rs> was mistress of Knole from 1509 onwards through her marriage to Richard Sackville. One important manuscript for her diary was copied and stored at Knole, and Vita Sackville-West used the Knole manuscript as copy-text for her edition of Clifford's diary, which Woolf cites throughout the 'Anon' drafts (cf. Malay 8).</note>
       </place>
       <place xml:id="pla-rlea">
         <placeName>Lea, The</placeName>
@@ -1501,19 +1501,19 @@
         <placeName>London</placeName>
         <region>England</region>
         <geo decls="#wgs">51.489766 -0.088180</geo>
-        <note>Capital of England and the United Kingdom. Big Smoke.</note>
+        <note>Capital of England and the United Kingdom. VW spent much of her life here, ...</note>
       </place>
       <place xml:id="pla-lobr">
         <placeName>London Bridge</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.507961 -0.087622</geo>
-        <note>London Bridge, London. Where the nursery rhyme happened.</note>
+        <note>A historical bridge crossing the River Thames, linking the City of London and <rs xml:id="pla-sout">Southwark</rs>. There has been a bridge at this location since at least 1209. In <hi rend="italics">O</hi>, it is the site of the first chapter's frost fair, while centuries later, the ship on which Orlando returns to England weighs anchor close to the bridge.</note>
       </place>
       <place xml:id="pla-loth">
         <placeName>Lothian</placeName>
         <region>Scotland</region>
         <geo decls="#wgs">55.951987 -3.188438</geo>
-        <note>Historic region of Scotland centring on Edinburgh. Where the pilliwinks were?</note>
+        <note>Historic region of Scotland centring on Edinburgh.</note>
       </place>
       <place xml:id="pla-lund">
         <placeName>Lundy</placeName>
@@ -1541,11 +1541,11 @@
         <geo decls="#wgs">52.628596 1.296451</geo>
         <note>The county town and largest city in <rs xml:id="pla-norf">Norfolk</rs>, East Anglia. It was home to <rs xml:id="psn-tbro">Sir Thomas Browne</rs> (cf. entry on Browne for more details), and in the <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer,' Woolf writes that John Paston was buried roughly twenty miles north of Norwich (<hi rend="italics">E</hi>4 20) and that William Paston 'retained' Norwich monks to 'pray for his soul "for ever"' (23). The early short story 'The Journal of Mistress Joan Martyn' is set in the vicinity of Norwich: the frame narrative takes place as historian Rosamond Merridew is making her way along the Thetford road from Norwich to East Harling (<hi rend="italics">CSF</hi> 35) while the titular Joan Martyn spent her early life in a hall along this road (41-62).</note>
       </place>
-      <place xml:id="pla-oxf">
+      <place xml:id="pla-oxfo">
         <placeName>Oxford</placeName>
         <region>Oxfordshire, England</region>
         <geo decls="#wgs">51.753423 -1.254019</geo>
-        <note>City. Where the Bocardo is.</note>
+        <note>A city in southern England, and home to one of England's two ancient universities (the other being <rs xml:id="pla-camb">Cambridge</rs>). These drafts focus on Oxford's long history as a locus of religious dissent in the fourteenth, fifteenth and sixteenth centuries, which was viewed as heresy by the authorities of the time. Dissenters discussed herein include <rs xml:id="psn-jwyc">John Wycliffe</rs> and <rs xml:id="psn-hlat">Hugh Latimer</rs>. Other figures from these drafts associated with Oxford include <rs xml:id="psn-rbur">Robert Burton</rs>, author of <rs xml:id="lit-anat">An Anatomy of Melancholy</rs>, and <rs xml:id="psn-acbr">A. C. Bradley</rs> who was Oxford Professor of Poetry. </note>
       </place>
       <place xml:id="pla-pale">
         <placeName>Palestine</placeName>
