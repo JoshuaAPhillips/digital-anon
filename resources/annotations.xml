@@ -1285,7 +1285,7 @@
         <objectIdentifier>
           <objectName>Pilliwinks</objectName>
         </objectIdentifier>
-        <note>'An instrument of torture for squeezing the fingers, similar to a thumbscrew' (<hi rend="italics">OED</hi>)</note>
+        <note>'An instrument of torture for squeezing the fingers, similar to a thumbscrew' (<hi rend="italics">OED</hi>). They were used to extract a confession of witchcraft from Geilles Duncane in the <rs xml:id="pla-nber">North Berwick</rs> witch trials, cf. 'Newes from Scotland...' (3).</note>
       </object>
       <object xml:id="obj-pres">
         <objectIdentifier>
@@ -1324,12 +1324,6 @@
         <region>London, England</region>
         <geo decls="#wgs">51.51248341 -0.08521206</geo>
         <note>Little is known for certain about this playhouse. Chambers evidences its existence in 1560 and that it was assigned to the Queen's Men 'by a civic order of 28 November 1583 for their first winter season' (ii.381-2). A lease dating to <rs xml:id="psn-hen8">Henry VIII</rs>'s reign mentions that it abutted the site of <rs xml:id="psn-phen">Philip Henslowe</rs>'s <rs xml:id="pla-rose">Rose</rs> playhouse and describes it and its neighbours as lying "vppon the banke called Stewes"' (cf. Chambers ii.405). Stew is a euphemism: it is at once an obsolete word for brothel and a kind of 'lock hospital' where 'prostitutes were confined, and received the benefits of surgical assistance' (<hi rend="italics">OED</hi> "stew n2, I.4a").</note>
-      </place>
-      <place xml:id="pla-nber">
-        <placeName>Berwick, North</placeName>
-        <region>Northumberland, England</region>
-        <geo decls="#wgs">-70.731354 -2.720913</geo>
-        <note>North Berwick, Northumberland. On the border of England and Scotland, apparently something to do with the pilliwinks.</note>
       </place>
       <place xml:id="pla-blac">
         <placeName>Blackfriars</placeName>
@@ -1501,7 +1495,7 @@
         <placeName>London</placeName>
         <region>England</region>
         <geo decls="#wgs">51.489766 -0.088180</geo>
-        <note>Capital of England and the United Kingdom. VW spent much of her life here, ...</note>
+        <note>Capital of England and the United Kingdom. VW spent much of her life here (whether in Kensington, Richmond, or Bloomsbury), as did her family and most of her social circle, and Bradshaw calls Woolf 'synonymous with' London (229). Most of her novels (bar <hi rend="italics">TL</hi> and <hi rend="italics">BA</hi>) have scenes set in the city, and as the locus for early modern theatre, print culture, and court, London is a place of vital importance to Woolf's literary history.</note>
       </place>
       <place xml:id="pla-lobr">
         <placeName>London Bridge</placeName>
@@ -1513,7 +1507,7 @@
         <placeName>Lothian</placeName>
         <region>Scotland</region>
         <geo decls="#wgs">55.951987 -3.188438</geo>
-        <note>Historic region of Scotland centring on Edinburgh.</note>
+        <note>Historic province of Scotland encompassing Edinburgh, the capital, and, of note here, <rs xml:id="pla-nber">North Berwick</rs>. The witch trial that Woolf relates happened in North Berwick, and the witchy happenings that the trial sought to uncover were carried out both in North Berwick and in Lothian more broadly. Cf. entry on North Berwick for more details.</note>
       </place>
       <place xml:id="pla-lund">
         <placeName>Lundy</placeName>
@@ -1540,6 +1534,18 @@
         <region>Norfolk, England</region>
         <geo decls="#wgs">52.628596 1.296451</geo>
         <note>The county town and largest city in <rs xml:id="pla-norf">Norfolk</rs>, East Anglia. It was home to <rs xml:id="psn-tbro">Sir Thomas Browne</rs> (cf. entry on Browne for more details), and in the <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer,' Woolf writes that John Paston was buried roughly twenty miles north of Norwich (<hi rend="italics">E</hi>4 20) and that William Paston 'retained' Norwich monks to 'pray for his soul "for ever"' (23). The early short story 'The Journal of Mistress Joan Martyn' is set in the vicinity of Norwich: the frame narrative takes place as historian Rosamond Merridew is making her way along the Thetford road from Norwich to East Harling (<hi rend="italics">CSF</hi> 35) while the titular Joan Martyn spent her early life in a hall along this road (41-62).</note>
+      </place>
+      <place xml:id="pla-nber">
+        <placeName>North Berwick</placeName>
+        <region>Lothian, Scotland</region>
+        <geo decls="#wgs">56.058895 -2.717142</geo>
+        <note>Small town in the historical kingdom of <rs xml:id="pla-loth">Lothian</rs>, east of Edinburgh (not to be confused with Berwick-upon-Tweed). North Berwick was the locus for a spectacular witch trial in 1591, reported in the anonymous pamphlet 'Newes from Scotland...'. The pamphlet describes the torture and confessions of a number of suspected witches, the magical misdeeds they allegedly performed, and their eventual executions. Relevant to Woolf's narrative are the testimonies of Geillis Duncane and Agnes Sampson. 
+          
+        Duncane was maidservant to one David Seaton: Seaton 'had his maide in some great suspition' because she 'in short space did perfourme manye matters most miraculous,' and he 'supposed it done by some extraordinary and unlawfull meanes.' Seaton had Ducane tortured and 'did with the helpe of others, torment her with the torture of the <rs xml:id="obj-pilli">Pilliwinckes</rs> upon her fingers, which is a grievous torture' ('Newes' 3). This act of torture, in front of <rs xml:id="psn-kjam">James VI of Scotland</rs>, marked the start of the North Berwick witch trials, which would run for two years and saw the arrest of over 100. 
+        
+        Agnis Tompson confessed that she was among some 200 who 'went by Sea, each one in a Riddle or Cive [...] to the Kerke of North Barrick in Lowthian' (7) where they took part in a Sabbat. Moreover, Tompson confessed that she was among those who christened a cat, 'bound to each part of that Cat, the cheefest partes of a dead man, and several ioints of his bodie, and that in the night following the said Cat was conveyed into the midst of the Sea' (16-7). This was the 'cause that the Kinges Maiesties Ship at his comming foorth of Denmarke, had a contrary winde to the rest of his Ships' (17). The 'contrary winde' that 'Newes' discusses delayed King James's marriage to Anne of Denmark, and was popularly attributed to witchcraft (Willumsen). 
+        
+        James VI wrote a three-volume dialogue titled <hi rend="italics">Daemonologie</hi> on sorcery, witchcraft and magic. LLVW contains a 1924 volume that reprints both 'Newes...' and <hi rend="italics">Daemonologie</hi>. VW notes both titles separately as part of a reading list for her literary history (RN 37), though if she took notes on them then they do not survive.</note>
       </place>
       <place xml:id="pla-oxfo">
         <placeName>Oxford</placeName>
