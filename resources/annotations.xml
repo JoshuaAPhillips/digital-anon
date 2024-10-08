@@ -798,7 +798,7 @@
       </person>
       <person xml:id="psn-mrwh">
         <persName>Mr. W.H.</persName>
-        <note>The pseudonymous dedicatee of <rs xml:id="psn-wsha">William Shakespeare</rs>'s Sonnets. Candidates include...</note>
+        <note>The pseudonymous dedicatee and 'onlie begetter' of <rs xml:id="psn-wsha">William Shakespeare</rs>'s Sonnets. Candidates named in the 'Anon' drafts include <rs xml:id="psn-wpem">William, Lord Pembroke</rs> and <rs xml:id="psn-hwri">Henry Wriothesley</rs></note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-wend">
@@ -817,7 +817,7 @@
         <persName>Wriothesley, Henry</persName>
         <event type="birth" when="1573-10-06" />
         <event type="death" when="1624-11-10" />
-        <note>Henry Wriothesley, third earl of Southampton, was a literary patron and courtier. He was briefly patron of <rs xml:id="psn-wsha">William Shakespeare</rs>: Shakespeare dedicated his two long poems <hi rend="italics">Venus and Adonis</hi> (1593) and <hi rend="italics">The Rape of Lucrece</hi> (1594) to Wriothesley.</note>
+        <note>Henry Wriothesley, third earl of Southampton, was a literary patron and courtier. He was briefly patron of <rs xml:id="psn-wsha">William Shakespeare</rs>: Shakespeare dedicated his two long poems <hi rend="italics">Venus and Adonis</hi> (1593) and <hi rend="italics">The Rape of Lucrece</hi> (1594) to Wriothesley. He is a possible candidate for the pseudonymous <rs xml:id="psn-mrwh">Mr W. H.</rs> to whom Shakespeare dedicates his sonnets.</note>
         <idno type="viaf">http://viaf.org/viaf/35252941</idno>
       </person>
       <person xml:id="psn-jwyc">
@@ -1347,7 +1347,7 @@
         <placeName>Cambridge</placeName>
         <region>Cambridgeshire, England</region>
         <geo decls="#wgs">52.204714 0.119390</geo>
-        <note>Cambridge, Cambridgeshire.</note>
+        <note>A city in south-east England and home to one of England's two ancient universities (the other being <rs xml:id="pla-oxfo">Oxford</rs>). Though VW did not attend either university, many in her immediate family did, and the Bloomsbury coterie had its roots in the Apostles (the Cambridge Conversazione Society), of which (inter alia) LW, E.M. Forster, Roger Fry, John Maynard Keynes, Lytton Strachey and Saxon Sydney-Turner were members, and Leslie Stephen had been a member a generation prior. Banfield traces the profound influence that the Apostles and Cambridge philosophy had on Bloomsbury aesthetics and Woolf's writing (cf. in particular 8-14; 26-36). <hi rend="italics">Room</hi> has its roots in talks VW gave at Girton and Newnham Colleges, in October 1928.</note>
       </place>
       <place xml:id="pla-came">
         <placeName>Camelot</placeName>
@@ -1359,7 +1359,7 @@
         <placeName>Canterbury</placeName>
         <region>Kent, England</region>
         <geo decls="#wgs">51.280028 1.080253</geo>
-        <note>Canterbury, Kent. Where Thomas Becket got murdered and the Pilgrims tried to go.</note>
+        <note>A medieval city in Kent, southern England. Canterbury Cathedral was founded in 597 (though the structure is largely twelfth century) and is the locus of the saint's cult dedicated to Thomas à Beckett, the 'turbulent priest' Henry II assassinated. In <rs xml:id="psn-gcha">Chaucer</rs>'s <rs xml:id="lit-cant">Canterbury Tales</rs>, the pilgrims journey to the cathedral to pray at Beckett's shrine.</note>
       </place>
       <place xml:id="pla-carl">
         <placeName>Carlisle</placeName>
@@ -1419,12 +1419,6 @@
         <geo decls="#wgs">51.126152 1.317158</geo>
         <note>A major port on the south coast of England, on the <rs xml:id="pla-chan">Channel</rs>. In <rs xml:id="psn-tmal">Thomas Malory</rs>'s <rs xml:id="lit-mort">Le Morte Darthur</rs>, Dover is the site of <rs xml:id="psn-kart">Arthur</rs>'s first battle with Mordred, who had usurped his throne (Malory 475): his nephew <rs xml:id="psn-gawa">Gawain</rs> is killed in this battle, and interred in a chapel in Dover Castle with his skull left visible to all (477). In his prologue to the <hi rend="italics">Morte</hi>, <rs xml:id="psn-wcax">William Caxton</rs> writes that Gawain's skull could still be seen at the castle.</note>
       </place>
-      <place xml:id="pla-durh">
-        <placeName>Durham</placeName>
-        <region>County Durham, England</region>
-        <geo decls="#wgs">54.777072 -1.575615</geo>
-        <note>University with a small town attached to it. Too hilly for words.</note>
-      </place>
       <place xml:id="pla-esse">
         <placeName>Essex</placeName>
         <region>Essex, England</region>
@@ -1465,13 +1459,13 @@
         <placeName>Greenwich</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.483638 -0.004542</geo>
-        <note>Greenwich, London. Where the Prime Meridian is.</note>
+        <note>A district of south-east London, on the banks of the Thames. Greenwich Palace (originally referred to as the Palace of Placentia) was rebuilt by Henry VII and served as the primary location of the Tudor and early Stewart courts, until the Civil War. In <hi rend="italics">O</hi>, the newly-crowned King James attempts to 'curry favour with the citizens' by turning the frozen Thames at Greenwich into a 'park or pleasure ground, with arbours, mazes, alleys, drinking booths, etc. at his expense' and sets up his court behnd a 'silken rope' in this winter wonderland (32-3).</note>
       </place>
       <place xml:id="pla-hard">
         <placeName>Hardwick Hall</placeName>
         <region>Derbyshire, England</region>
         <geo decls="#wgs">53.168797 -1.308671</geo>
-        <note>Elizabeth Talbot, Countess of Shrewsbury, aka Bess of Hardwick, lived here.</note>
+        <note>An Elizabethan country house built from 1590-97 by Elizabeth Talbot (Bess of Hardwick). VW stayed at Teversal in summer 1904, two miles away, while convalescing from a period of mental illness (<hi rend="italics">PA</hi> 249, n. 12). On 15 November 1940, she writes to VSW that it is 'angelic of [her] to wish me to write another book. But at the same time devilish. Havent I 20 books sizzling in my head at the moment. Then you tempt me with old Bess.' Evidently VSW has suggested that VW write a book about Bess of Hardwick; Woolf suggests that VSW writes it instead (<hi rend="italics">L</hi>6 455, §. 3659). This does not stop Woolf from writing to VSW on 26 December of the same year to ask her for a 'life of Bess of Hardwick,' probably as research for this literary history. There is no evidence to suggest whether or not Woolf read Talbot's biography.</note>
       </place>
       <place xml:id="pla-keni">
         <placeName>Kenilworth</placeName>
@@ -1501,7 +1495,7 @@
         <placeName>London Bridge</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.507961 -0.087622</geo>
-        <note>A historical bridge crossing the River Thames, linking the City of London and <rs xml:id="pla-sout">Southwark</rs>. There has been a bridge at this location since at least 1209. In <hi rend="italics">O</hi>, it is the site of the first chapter's frost fair, while centuries later, the ship on which Orlando returns to England weighs anchor close to the bridge.</note>
+        <note>A historical bridge crossing the River Thames, linking the City of London and <rs xml:id="pla-sout">Southwark</rs>. There has been a bridge at this location since at least 1209. In <hi rend="italics">O</hi>, the Thames at London Bridge has frozen 'to a depth of twenty fathoms' and an 'old bumboat woman, who was carrying her fruit to market on the Surrey side' has frozen solid there (33), while centuries later, the ship on which Orlando returns to England weighs anchor close to the bridge (154).</note>
       </place>
       <place xml:id="pla-loth">
         <placeName>Lothian</placeName>
