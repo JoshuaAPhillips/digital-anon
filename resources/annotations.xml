@@ -34,8 +34,21 @@
       <person xml:id="psn-anon">
         <persName>Anon</persName>
         <note>If these drafts can be said to have a hero, Anon is he. Anon is VW's figuration for the oral ballad tradition that pre-dates and prefigures English literature and literary language: Anon's 'common voice singing out of doors' (M51. Anon... fol. 1r) is the necessary precondition for English literature. Anon is not gendered, 'sometimes woman; sometimes man' (M45. Anon. fol. 5r) but VW uses masculine pronouns to refer to Anon. 
+
+        Anon is born from the primeval forests that cover Britain's landmass prior to recorded history, his song emerging from the mimicry of the songs of 'innumerable birds' (M.53. Anon... fol. 1r).
           
-        However, Anon's work is knowable only because Anon has been killed. In some fragments, <rs xml:id="psn-wcax">William Caxton</rs> kills Anon through the introduction of the <rs xml:id="obj-prin">printing press</rs> to England in the 1470s (M45. Anon. fol. 6r), in others it is the printed book itself that kills Anon (cf. M.1-8-2. Anon... fol. 1r) while in others he is to be found in the early modern playhouse, and his death comes at the moment that this drama outgrows the stage and is 'replaced by the theatre of the brain' (M.112-2, fol. 2r). Just as Anon's voice is a necessary precondition to literature in English, so too is Anon's death. In a curious aporetic, though, Anon's voice is only audible at the moment of his death.</note>
+        However, Anon's work is knowable only because Anon has been killed. In some fragments, <rs xml:id="psn-wcax">William Caxton</rs> kills Anon through the introduction of the <rs xml:id="obj-prin">printing press</rs> to England in the 1470s (M45. Anon. fol. 6r), in others it is the printed book itself that kills Anon (cf. M.1-8-2. Anon... fol. 1r) while in others he is to be found in the early modern playhouse, and his death comes at the moment that this drama outgrows the stage and is 'replaced by the theatre of the brain' (M.112-2, fol. 2r). Just as Anon's voice is a necessary precondition to literature in English, so too is Anon's death. In a curious aporetic, though, Anon's voice is only audible at the moment of his death.
+          
+        Anon's death is not the end of anonymous modes of being, however. Some fragments gesture towards the revival of Anon, or at least to the revival of pre-modern modes of perception: 
+        
+          By choosing a vuew carefully to shut out a chimney or a
+          bungalow we can still see what Anon saw-- the bird haunted
+          reed whispering fen; the down covered with turf, and the
+          scar long healed over the moor, over the down, along which
+          Anon came when he made his journeys (M.53. Anon... fol. 2r)
+
+        Cf. Phillips, 'Drafting' for a more detailed overview of this narrative.
+        </note>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-arch">
@@ -113,7 +126,7 @@
         <persName>Browning, Robert</persName>
         <event type="birth" when="1812-05-07" />
         <event type="death" when="1889-12-12" />
-        <note>Will need a long note here less because of him, more because of Flush</note>
+        <note>Victorian poet and playwright who, through his marriage to Elizabeth Barrett Browning, came to play an important role in <hi rend="italics">F</hi>. In <hi rend="italics">VO</hi>, Lucy Allan is engaged in writing a primer on English literary history 'from Beowulf to Browning' (113), and in <hi rend="italics">O</hi>, Nick Greene cites him as example that ' "the great days are over. We live in degenerate times"' (254-5). LLVW contains ten editions of Browning's poetry and letters.</note>
         <idno type="viaf">http://viaf.org/viaf/24598774</idno>
       </person>
       <person xml:id="psn-rbur">
@@ -133,7 +146,7 @@
         <persName>Caxton, William</persName>
         <event type="birth" when="1422?" />
         <event type="death" when="1491?" />
-        <note>William Caxton, printer</note>
+        <note>English diplomat and trader who introduced the <rs xml:id="obj-prin">printing press</rs> to England, most likely in 1476 (cf. Blake). As a diplomat and trader, he had lived across Europe, and acquired a press in Cologne in 1471-2, where in addition to learning to print, he became a 'publisher who controlled the presses which produced his books' (Blake). The first work he published in English was the first edition of <rs xml:id="psn-gcha">Chaucer</rs>'s <rs xml:id="lit-cant">Canterbury Tales</rs>, and he both significantly revised and printed <rs xml:id="psn-tmal">Thomas Malory</rs>'s <rs xml:id="lit-mort">Morte Darthur</rs>. Within the context of Woolf's literary history, he introduces to Britain the technology that is to kill Anon by settling his words in print, though also preserving Anon's songs beyond the moment of their enunciation.</note>
         <idno type="viaf">http://viaf.org/viaf/68979076</idno>
       </person>
       <person xml:id="psn-gcha">
@@ -584,7 +597,6 @@
         <note>A member of the Oliver family in <hi rend="italics">BA</hi>, and an inhabitant of Pointz Hall along with her husband <rs xml:id="psn-gile">Giles</rs>, with whom she has two children, and father-in-law <rs xml:id="psn-bart">Bartholomew</rs>. Isa is somewhat of a frustrated poet, whose murmured lines of verse punctuate <hi rend="italics">BA</hi>.</note>
         <idno>N/A</idno>
       </person>
-      <!-- <person xml:id="psn-past"></person> NB change all these refs to lit-past cf. http://viaf.org/viaf/180199445 -->
       <person xml:id="psn-wpem">
         <persName>Pembroke, William Herbert, 3rd Earl of</persName>
         <event type="birth" when="1580-04-08" />
@@ -769,7 +781,7 @@
         <persName>Tennyson, Alfred</persName>
         <event type="birth" when="1809-08-06" />
         <event type="death" when="1892-10-06" />
-        <note>Victorian poet with whom Leslie Stephen was personally close and with whose work he was intimately familiar: VW came to associate Tennyson's poetry inextricably with her father. In 'Impressions of Sir Leslie Stephen,' the obituary of her father commissioned by F.W. Maitland as part of his <hi rend="italics">Life and Letters of Sir Leslie Stephen</hi>, she writes that Stephen had 'long acquired all the famous poems of Wordsworth, Tennyson, Keats, and Matthew Arnold, among moderns,' and that he would recite these poems by heart such that his audience 'felt that he was speaking not merely the words of Tennyson or Wordsworth, but what he himself felt and knew' (<hi rend="italics">E</hi>1 128-9). In <hi rend="italics">TL</hi>, Mr Ramsay is given to reciting (often at great volume) lines from Tennyson's 'The Charge of the Light Brigade' throughout the novel. Tennyson is one of the characters of <hi rend="italics">Freshwater</hi>, and in <hi rend="italics">O</hi> the narrator names him as the 'last person to suffer from' genius 'in the British Isles' (190). For more on Woolf's life-long engagement (both biographical and literary) with Tennyson, cf. Kopley.</note>
+        <note>Victorian poet with whom Leslie Stephen was personally close and with whose work he was intimately familiar: VW came to associate Tennyson's poetry inextricably with her father. In 'Impressions of Sir Leslie Stephen,' the obituary of her father commissioned by F.W. Maitland as part of his <hi rend="italics">Life and Letters of Sir Leslie Stephen</hi>, she writes that Stephen had 'long acquired all the famous poems of Wordsworth, Tennyson, Keats, and Matthew Arnold, among moderns,' and that he would recite these poems by heart such that his audience 'felt that he was speaking not merely the words of Tennyson or Wordsworth, but what he himself felt and knew' (<hi rend="italics">E</hi>1 128-9). In <hi rend="italics">TL</hi>, Mr Ramsay is given to reciting (often at great volume) lines from Tennyson's 'The Charge of the Light Brigade' throughout the novel. Tennyson is one of the characters of <hi rend="italics">Freshwater</hi>, and in <hi rend="italics">O</hi> the narrator names him as the 'last person to suffer from' genius 'in the British Isles' (190), though Nick Greene cites him as example that ' "the great days are over. We live in degenerate times"' (254-5). For more on Woolf's life-long engagement (both biographical and literary) with Tennyson, cf. Kopley.</note>
         <idno type="viaf">http://viaf.org/viaf/61540536</idno>
       </person>
       <person xml:id="psn-ctou">
@@ -1274,7 +1286,7 @@
         <objectIdentifier>
           <objectName>Monotype</objectName>
         </objectIdentifier>
-        <note>Probably a mistake: linotype is a </note>
+        <note>A form of hot metal typesetting that does not require a compositor to arrange individual sorts by hand, but rather to type text for printing at a casting machine. The machine would arrange copper matrices (moulds) into the correct order and then cast molten lead alloy into these matrices to produce solid metal type. The first such machine was the Merganthaler Linotype machine, which, as the name suggests, cast a single line of type at a time. Monotype was a later development: it cast a page of type at a time, but perhaps more importantly, the Monotype... ... ... </note>
       </object>
       <object xml:id="obj-pill">
         <objectIdentifier>
