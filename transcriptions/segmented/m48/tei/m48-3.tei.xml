@@ -43,29 +43,65 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_textblock_8e515e05">
-               <l facs="#facs__eSc_line_ce58451a">emition; and knows the old story of the-at brown maid.</l>
-               <l facs="#facs__eSc_line_0cbadc19">6 svuu hs, e</l>
-               <l facs="#facs__eSc_line_8fa43e3d">Anon is sometimes voman; sometimes man; he is the</l>
-               <l facs="#facs__eSc_line_a18fcc78">cômnon voice; Anon goes round the country singing.</l>
+               <l facs="#facs__eSc_line_ce58451a">
+                 <choice>
+                    <sic>emition</sic>
+                    <corr>emotion</corr>
+                  </choice> and knows the old story of <del >the Nut brown maid.</del></l>
+               <l facs="#facs__eSc_line_0cbadc19"><add place="above">&amp; <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> sung</add></l>
+               <l facs="#facs__eSc_line_8fa43e3d">Anon is sometimes woman; sometimes man; he is the</l>
+               <l facs="#facs__eSc_line_a18fcc78">common voice; Anon goes round the country singing.</l>
                <l facs="#facs__eSc_line_98032013">e liea  faeeu 7ies hueedatve.</l>
-               <l facs="#facs__eSc_line_33a889df">He has a very quick eye, connected, for the eye is the</l>
-               <l facs="#facs__eSc_line_b30b9145">youthful sense, rather "i th the body than the mind.)</l>
-               <l facs="#facs__eSc_line_8fb101f7">Anon ha s no house. Ne lives a roaming out of door</l>
-               <l facs="#facs__eSc_line_f90f5d93"/>
-               <l facs="#facs__eSc_line_9204daa0">country 1ife, going from village to village,</l>
-               <l facs="#facs__eSc_line_2ef0e586">stompine a the back door oftener than at the front,</l>
-               <l facs="#facs__eSc_line_0f6853a4">goine aloje grassy paths over the hills. B y choosine a vieu</l>
-               <l facs="#facs__eSc_line_5a5ce11e">carefully to shut out a chimey or a bungalmo, ve can still</l>
-               <l facs="#facs__eSc_line_d1f76151">8ee, in osome fen, or up on some doun, vhat Anon saw.</l>
-               <l facs="#facs__eSc_line_566dc596">the bird ha unted red whispering fen; the down covered</l>
-               <l facs="#facs__eSc_line_352431ee">ith turf; and the scar, long healed, over the doun,</l>
-               <l facs="#facs__eSc_line_0eda60c8">Le</l>
-               <l facs="#facs__eSc_line_c7ffa676">alons vhich Anon came vhen he made his journeys.</l>
-               <l facs="#facs__eSc_line_93a780e9">e was garrulous; looe lipped; taking from other peoples</l>
+               <l facs="#facs__eSc_line_33a889df"><add place="inline">[</add>He has a very quick eye, connected, for the eye is the</l>
+               <l facs="#facs__eSc_line_b30b9145">youthful sense, rather with the body than the mind.<add place="inline">]</add></l>
+               <l facs="#facs__eSc_line_f90f5d93"><del>He</del></l>
+                <l facs="#facs__eSc_line_8fb101f7">Anon has no house. He lives a roaming out of door</l>
+               <l facs="#facs__eSc_line_9204daa0">country life, going from village to village,</l>
+               <l facs="#facs__eSc_line_2ef0e586">stopping 
+                <choice>
+                  <sic>a</sic>
+                  <corr>at</corr>
+                </choice> the back door <add place="inline">,</add>oftener than at the front,</l>
+               <l facs="#facs__eSc_line_0f6853a4">going 
+                <choice>
+                  <sic>alojg</sic>
+                  <corr>along</corr>
+                </choice> grassy paths over the hills. <add place="inline">|</add> By choosing a view</l>
+               <l facs="#facs__eSc_line_5a5ce11e">carefully to shut out a chimney or a
+                <choice>
+                  <sic>bungalwo</sic>
+                  <corr>bungalow</corr>
+                </choice>, we can still</l>
+               <l facs="#facs__eSc_line_d1f76151">see, <del>in 
+                <choice>
+                  <sic>osome</sic>
+                  <corr>some</corr>
+                </choice>, or up on some down,</del> what Anon saw.</l>
+               <l facs="#facs__eSc_line_566dc596">the bird 
+                <choice>
+                  <sic>ha unted</sic>
+                  <corr>haunted</corr>
+                </choice> 
+                <choice>
+                  <sic>red</sic>
+                  <corr>reed</corr>
+                </choice> whispering fen; the down covered</l>
+               <l facs="#facs__eSc_line_0eda60c8">hill</l>              
+               <l facs="#facs__eSc_line_352431ee">with turf; and the scar, long healed, over the <del>down</del></l>
+               <l facs="#facs__eSc_line_c7ffa676">along which Anon came when he made his journeys.</l>
+               <l facs="#facs__eSc_line_93a780e9">He was garrulous; 
+                <choice>
+                  <sic>looe</sic>
+                  <corr>loose</corr>
+                </choice> lipped; taking from other peoples</l>
                <l facs="#facs__eSc_line_1fb4ba35">mouths here a story, there a stanza. But now and again he</l>
-               <l facs="#facs__eSc_line_739a96b4">. .</l>
-               <l facs="#facs__eSc_line_ea03af29">as Me acll it, an artist; the-morde are complete; the song</l>
-               <l facs="#facs__eSc_line_5297c635">54nishad.</l>
+               <l facs="#facs__eSc_line_739a96b4">[here?]</l>
+               <l facs="#facs__eSc_line_ea03af29"><del>as we 
+                <choice>
+                  <sic>acll</sic>
+                  <corr>call</corr>
+                </choice> it</del>, an artist; <del>the words are complete; the song</del></l>
+               <l facs="#facs__eSc_line_5297c635">finished.</l>
             </ab></div>
       </body>
    </text>
