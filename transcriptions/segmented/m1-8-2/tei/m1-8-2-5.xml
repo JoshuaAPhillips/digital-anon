@@ -78,64 +78,76 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_1db6d2d0">e peacker the man cho went pocr foun td</l>
-               <l facs="#facs__eSc_line_9ff73a8d">lartiy</l>
-               <l facs="#facs__eSc_line_793efa69">Foun Amory He Civins, Acery lene Ma recysatsà</l>
-               <l facs="#facs__eSc_line_80dcdbda">n notles heard thenm a the Uvend Veand his</l>
-               <l facs="#facs__eSc_line_5ecf9e76">Jury. Lahimer, redng en a Joirs homsvnd</l>
-               <l facs="#facs__eSc_line_1f5aff4b">pom Lardoa Gain to pecach, en Ue Chente,</l>
-               <l facs="#facs__eSc_line_06677785">Joud e Chnh dan fart loekes.</l>
-               <l facs="#facs__eSc_line_2313524e">an sue qe pante comes to me a ruid:</l>
-               <l facs="#facs__eSc_line_22287c49">Lu thu es a beuy das wrken, we ceimat</l>
-               <l facs="#facs__eSc_line_f95d497b">hear ja, ches Rotee Muod dey. Uhe</l>
-               <l facs="#facs__eSc_line_3424819c">parak au fvon atroud</l>
-               <l facs="#facs__eSc_line_1c97e8b3">Ja Munfu</l>
-               <l facs="#facs__eSc_line_ba3e74f3">4</l>
-               <l facs="#facs__eSc_line_28cf5fce">ur</l>
-               <l facs="#facs__eSc_line_aacfef89">Roten hord Jvan Jaen thore</l>
-               <l facs="#facs__eSc_line_b1b7526e">1loehet un</l>
-               <l facs="#facs__eSc_line_14d15d09">plaa 4e R 4:7 Thoyht ny</l>
-               <l facs="#facs__eSc_line_6701d6e9">han ten rejnres, 14s Jvonnot; lat</l>
-               <l facs="#facs__eSc_line_30aacf62">ed net vire, etwa, Jam l Jin plau le</l>
-               <l facs="#facs__eSc_line_6e6154b5">Ropuhand aa. Wa ur layhe mala</l>
-               <l facs="#facs__eSc_line_ed5c523b">y Juent, chi a Wesprne matto, à hary</l>
-               <l facs="#facs__eSc_line_ef932c7b">mallu à hay malie,</l>
-               <l facs="#facs__eSc_line_fb4f5bff">Jci lh puadtier en ho Thous as li</l>
-               <l facs="#facs__eSc_line_875c85a4">4</l>
-               <l facs="#facs__eSc_line_7c675f94">607</l>
-               <l facs="#facs__eSc_line_4b692bf8">vathe</l>
-               <l facs="#facs__eSc_line_b636b0ed">lykty hedant, ishoa</l>
-               <l facs="#facs__eSc_line_9ffdf539">twin Voj</l>
-               <l facs="#facs__eSc_line_aa6f02cd">t appe Grrt.: ti4</l>
+            <p>
+               <l facs="#facs__eSc_line_1db6d2d0">the preacher, the man who went from town to</l>
+               <l facs="#facs__eSc_line_9ff73a8d"><add place="above">peasants</add></l>
+               <l facs="#facs__eSc_line_793efa69"><del>town among the</del> living, <del>among</del> among the peasants &amp;</l>
+               <l facs="#facs__eSc_line_80dcdbda">the nobles, heard them &amp; the sound &amp; his</l>
+               <l facs="#facs__eSc_line_5ecf9e76">fury. <rs type="person" xml:id="psn-tlat" key="Latimer, Thomas">Latimer</rs>, riding in a [illeg.] homeward</l>
+               <l facs="#facs__eSc_line_1f5aff4b">from <rs type="place" xml:id="pla-lond" key="London">London</rs> <quote source="#" rend="inline">"going to preach, in the church,</quote></l>
+               <l facs="#facs__eSc_line_06677785"><quote source="#">found the church door fast locked.</quote></l>
+               <l facs="#facs__eSc_line_2313524e"><quote source="#">and one of the parish came to me &amp;</quote></l>
+               <l facs="#facs__eSc_line_22287c49"><quote source="#">Lo this is a busy day with us, we cannot</quote></l>
+               <l facs="#facs__eSc_line_f95d497b"><quote source="#">hear you, it is <rs type="person" xml:id="psn-rhoo" key="Robin Hood">Robin Hood's</rs> day. The</quote></l>
+               <l facs="#facs__eSc_line_3424819c"><quote source="#">parish are far abroad</quote></l>
+               <l facs="#facs__eSc_line_1c97e8b3"><quote source="#">to gather for</quote></l>
+               <l facs="#facs__eSc_line_aacfef89"><quote source="#">Robin hood,... I was fain there</quote></l>
+               <l facs="#facs__eSc_line_ba3e74f3"><quote source="#">to</quote></l>
+               <l facs="#facs__eSc_line_28cf5fce"><quote source="#">give</quote></l>
+               <l facs="#facs__eSc_line_14d15d09"><quote source="#">place to R H: I thought my</quote></l>
+               <l facs="#facs__eSc_line_b1b7526e"><quote source="#">[Racket?] 
+                  <choice>
+                    <sic>wd.</sic>
+                    <corr>would</corr>
+                  </choice></quote></l>
+               <l facs="#facs__eSc_line_6701d6e9"><quote source="#">have been regarded, tho' I was not; but it</quote></l>
+               <l facs="#facs__eSc_line_30aacf62"><quote source="#">
+                  <choice>
+                    <sic>wd</sic>
+                    <corr>would</corr>
+                  </choice> not serve, it was fain to give place to</quote></l>
+               <l facs="#facs__eSc_line_6e6154b5"><quote source="#">Robin hoods men. It was no laughing matter</quote></l>
+               <l facs="#facs__eSc_line_ed5c523b"><quote source="#">my friends, it is a weeping matter, a heavy</quote></l>
+               <l facs="#facs__eSc_line_ef932c7b"><quote source="#">matter, a heavy matter, ....</quote></l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_fb4f5bff">It is the preacher who shows us the</l>
+               <l facs="#facs__eSc_line_9ffdf539"><del>living body</del></l>
+               <l facs="#facs__eSc_line_4b692bf8"><del>of the</del></l>
+               <l facs="#facs__eSc_line_875c85a4"><add>living</add></l>
+               <l facs="#facs__eSc_line_7c675f94"><add>body</add></l>
+               <l facs="#facs__eSc_line_b636b0ed">the English peasant <del>whose</del></l>
+               <l facs="#facs__eSc_line_f7340658">still <del>honouring the</del></l>
+               <l facs="#facs__eSc_line_aa6f02cd"><del>pagan Gods</del>: still</l>
+               <l facs="#facs__eSc_line_2d45731a">honouring the old gods; still immersed</l>
                <l facs="#facs__eSc_line_5d5dd53f">in</l>
-               <l facs="#facs__eSc_line_f7340658">Uit wrotn stter</l>
-               <l facs="#facs__eSc_line_2d45731a">hmorj e Oll port ftik enmend</l>
-               <l facs="#facs__eSc_line_4e357f10">Ihe peacher rapnvetin</l>
-               <l facs="#facs__eSc_line_3edf6d48">Inplkit wi.</l>
-               <l facs="#facs__eSc_line_f6f0e284">11war ha fetacher wad</l>
-               <l facs="#facs__eSc_line_6436a344">Niltet</l>
-               <l facs="#facs__eSc_line_6940614a">Thu a My toia that went</l>
-               <l facs="#facs__eSc_line_a7996ee0">Latomer wen o</l>
-               <l facs="#facs__eSc_line_9ab89f27">011</l>
-               <l facs="#facs__eSc_line_e643994e">ape Aoan Eelans</l>
-               <l facs="#facs__eSc_line_5395f3b5">chonieler a uues part 2v Latima Ro</l>
-               <l facs="#facs__eSc_line_8667f924">aid rifs Latitner</l>
-               <l facs="#facs__eSc_line_8f86afde">Reaun Camu, Ve</l>
-               <l facs="#facs__eSc_line_cf7df726">Eytan, ruio Ue puarant en he</l>
-               <l facs="#facs__eSc_line_543735e6">vay ap e dou</l>
-               <l facs="#facs__eSc_line_69b9c5a6">is norn at his momeur ni len Edven Cextln</l>
-               <l facs="#facs__eSc_line_1a80c8c0">112 dar te heazant</l>
-               <l facs="#facs__eSc_line_f998935e">s in 1549.</l>
-               <l facs="#facs__eSc_line_1ca27fbd">Uk hanboarm old Inpertteken, wen a</l>
-               <l facs="#facs__eSc_line_8e9644bb">putsuna,</l>
-               <l facs="#facs__eSc_line_4392c725">re then up Candls, vartoptiz</l>
-               <l facs="#facs__eSc_line_a28055e6">the tes Itn-Jane le Thon evin</l>
-               <l facs="#facs__eSc_line_393c438a">ugs bones.</l>
-               <l facs="#facs__eSc_line_33251b6b">ne hetant vnpertoken</l>
-               <l facs="#facs__eSc_line_ddbfd540">14</l>
-               <l facs="#facs__eSc_line_77d81a03">n tanter,</l>
-               <l facs="#facs__eSc_line_ff8bddbd">en Ter Antent james.</l>
-               <l facs="#facs__eSc_line_ce1e4615">Corrapha</l>
+               <l facs="#facs__eSc_line_3edf6d48">superstition.</l>
+               <l facs="#facs__eSc_line_4e357f10">The preacher [superstition?]</l>
+               <l facs="#facs__eSc_line_f6f0e284"><del>It is in the preacher</del> who</l>
+               <l facs="#facs__eSc_line_6436a344"><del>killed</del></l>
+               <l facs="#facs__eSc_line_6940614a">There is the voice that went</l>
+               <l facs="#facs__eSc_line_e643994e">up &amp; down England</l>
+               <l facs="#facs__eSc_line_a7996ee0">Latimer was no</l>
+               <l facs="#facs__eSc_line_5395f3b5">chronicler of times past. To Latimer the</l>
+               <l facs="#facs__eSc_line_9ab89f27">old</l>
+               <l facs="#facs__eSc_line_8f86afde"><del>dreams</del> games, the</l>
+               <l facs="#facs__eSc_line_8667f924">old <del>[songs?]</del> Latimer,</l>
+               <l facs="#facs__eSc_line_543735e6">going up &amp; down</l>
+               <l facs="#facs__eSc_line_cf7df726">England, saw the peasant as he</l>
+               <l facs="#facs__eSc_line_69b9c5a6">is now at this moment, in King <rs type="person" xml:id="psn-edw6">Edward Sixths</rs></l>
+               <l facs="#facs__eSc_line_f998935e"><del>reign</del> in 1549.</l>
+               <l facs="#facs__eSc_line_1a80c8c0">He saw the peasant</l>
+               <l facs="#facs__eSc_line_1ca27fbd">still <del>harbouring old superstitions</del>, going on</l>
+               <l facs="#facs__eSc_line_8e9644bb">pilgrimages,</l>
+               <l facs="#facs__eSc_line_4392c725">ing up candles, worshipping</l>
+               <l facs="#facs__eSc_line_393c438a">[pigs?] bones.</l>
+               <l facs="#facs__eSc_line_a28055e6"> <del>The</del> <del>saw</del> He <del>saw the</del> There was</l>
+               <l facs="#facs__eSc_line_77d81a03">no beauty,</l>
+               <l facs="#facs__eSc_line_33251b6b"><del>it was</del> but only superstition &amp;</l>
+               <l facs="#facs__eSc_line_ce1e4615">corruption</l>
+               <l facs="#facs__eSc_line_ff8bddbd">in their ancient games.</l>
+               <l facs="#facs__eSc_line_ddbfd540">He</l>
+            </p>
             </ab></div>
       </body>
    </text>
