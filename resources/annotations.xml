@@ -736,7 +736,7 @@
         <persName>Spenser, Edmund</persName>
         <event type="birth" when="1552/1553?" />
         <event type="death" when="1599-01-13" />
-        <note>The author of <rs xml:id="lit-faer">The Faerie Queene</rs> and <rs xml:id="lit-shep">The Shepherd's Calendar</rs>, among other poems (cf. individual entries for more information on VW's interaction with these). Spenser appears as a character in the <hi rend="italics">CR2</hi> essay 'The Strange Elizabethans' (<hi rend="italics">E</hi>5 335-48) as an interlocutor with Gabriel Harvey: he sits with Harvey in 'small, smoky rooms' and 'discuss[] poetry and language and the future of English literature' (342). LLVW contains two editions of Spenser's work, a five-volume 1862 edition edited by J. Payne Collier (which was presented to, and annotated by, Leslie Stephen) and a single-volume 1899 edition edited by R. Morris. It is likely that Woolf found the description of Spenser as a 'small man with cuffs and a band' in the 1862 edition, which contains a brief, unattributed biography of Spenser with this line.</note>
+        <note>The author of <rs xml:id="lit-faer">The Faerie Queene</rs> and <rs xml:id="lit-shep">The Shepherd's Calendar</rs>, among other poems (cf. individual entries for more information on VW's interaction with these). <rs xml:id="psn-psid">Philip Sidney</rs> acted as his patron. Spenser appears as a character in the <hi rend="italics">CR2</hi> essay 'The Strange Elizabethans' (<hi rend="italics">E</hi>5 335-48) as an interlocutor with Gabriel Harvey: he sits with Harvey in 'small, smoky rooms' and 'discuss[] poetry and language and the future of English literature' (342). LLVW contains two editions of Spenser's work, a five-volume 1862 edition edited by J. Payne Collier (which was presented to, and annotated by, Leslie Stephen) and a single-volume 1899 edition edited by R. Morris. It is likely that Woolf found the description of Spenser as a 'small man with cuffs and a band' in the 1862 edition, which contains a brief, unattributed biography of Spenser with this line.</note>
         <idno type="viaf">http://viaf.org/viaf/100170015</idno>
       </person>
       <person xml:id="psn-gspe">
@@ -954,10 +954,12 @@
         <idno type="viaf">http://viaf.org/viaf/305230637</idno>
       </bibl>
       <bibl xml:id="lit-faer">
-        <title level="a">The Faerie Queene</title>
+        <title level="a">The Faery Queen</title>
         <author>Spenser, Edmund</author>
-        <date>1590-1596</date>
-        <note>Gonna need a bigger note. The only way to read the Faerie Queene is to not read the Faerie Queene or something.</note>
+        <event type="composition" notBefore="1589" notAfter="1596" />
+        <event type="first edition" when="1590" />
+        <event type="second edition" when="1596" />
+        <note><rs xml:id="psn-espe">Edmund Spenser</rs>'s allegorical epic poem in eight cantos. Spenser dedicated the poem to <rs xml:id="psn-eliz">Elizabeth I</rs>, and identifies her with the characters of Gloriana and Belphoebe (grab citation). VW first takes notes on the poem in the early months of 1935, from 20 Jan to 11 March (cf. RN 47), and in the same year writes an essay counselling that 'the first essential' to prepare oneself to read <hi rend="italics">The Faery Queen</hi> is 'of course not to read <hi rend="italics">The Faery Queen</hi>. Put it off for as long as possible' and immerse oneself in the prosaic. Only when 'the whole being is red and brittle as sandstone in the sun' should one 'make a dash for' the poem (<hi rend="italics">E</hi>6 487). In analysis that anticipates that of the 'Anon' drafts, VW writes in her 1935 essay that the poem's difficulties lie not in its archaisms ('it is easier to read Spenser than to read <rs xml:id="psn-wmor">William Morris</rs>') but 'elsewhere,' 'in the fact that the poem is a mediation not a dramatisation' and that 'we are confined in one continuous consciousness, which is Spenser's' (490). This essay was not published during Woolf's lifetime, and was first printed <hi rend="italics">Mom</hi> (1947). Woolf takes further notes on the poem in her 'Reading at Random' notebook (RN 37, 1940-1). A copy of the poem is among the books in Jacob's Cambridge room, alongside 'all the Elizabethans' (<hi rend="italics">JR</hi> 60)</note>
         <idno type="viaf">http://viaf.org/viaf/313693962</idno>
       </bibl>
       <bibl xml:id="lit-faus">
@@ -1198,7 +1200,7 @@
         <title level="a">The Shepheardes Calendar</title>
         <author>Spenser, Edmund</author>
         <event type="publication" when="1579" />
-        <note>Something here.</note>
+        <note><rs xml:id="psn-espe">Edmund Spenser</rs>'s first major poem is a Virgilian pastoral whose twelve eclogues (one for each month) depict Colin Clout, the titular shepherd, and his life. Spenser dedicated it to his patron <rs xml:id="psn-psid">Philip Sidney</rs>. Woolf takes brief notes on the poem in RN 25, p. 54 (likely 1926-7).</note>
         <idno type="viaf">http://viaf.org/viaf/191558754</idno>
       </bibl>
       <bibl xml:id="lit-span">
