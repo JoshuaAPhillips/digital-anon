@@ -893,8 +893,9 @@
       <bibl xml:id="lit-cant">
         <title level="a">The Canterbury Tales</title>
         <author>Chaucer, Geoffrey</author>
-        <date>1387-1400</date>
-        <note>Three copies of Chaucer's works in modern editions dating from late 1890s to early 1900s, incl. Skeat and Liddell eds.</note>
+        <event type="composition" when="1387-1400" />
+        <event type="first print edition" when="1476" />
+        <note><rs xml:id="psn-gcha">Geoffrey Chaucer</rs>'s unfinished compendium of fictive verse narratives, told by pilgrims journeying from <rs xml:id="pla-sout">Southwark</rs> to <rs xml:id="pla-cant">Canterbury</rs> to worship at the shrine of Thomas à Beckett. VW's most sustained engagement with this work is to be found in 'The Pastons and Chaucer,' written for <hi rend="italics">CR1</hi> (1925; <hi rend="italics">E</hi>4 20-38), in which she read Chaucer's narrative(s) alongside the decidedly more everyday <rs xml:id="lit-past">Paston Letters</rs>. She read and took notes for the Tales in 1924. Notes on 'The Nun's Priest's Tale' can be found in RN. 47, while she makes brief notes in most of the others in RN. 49. LLVW contains three editions of Chaucer's works. The pageant in <hi rend="italics">BA</hi> features the Canterbury pilgrims, whose song (though interrupted by the wind) makes reference to their journey ' "[t]o the shrine of the Saint... to the tomb..."' (59).</note>
         <idno type="viaf">http://viaf.org/viaf/180531378</idno>
       </bibl>
       <bibl xml:id="lit-cine">
@@ -1174,11 +1175,11 @@
         <idno type="viaf">http://viaf.org/viaf/306062745</idno>
       </bibl>
       <bibl xml:id="lit-past">
-        <title level="a">The Paston Letters</title>
+        <title level="a">Paston Letters</title>
         <author>Various members of the Paston family and correspondents</author>
         <event type="composition" when="1422-1509" />
         <event type="publication" when="1787" />
-        <note>Something here.</note>
+        <note>A compendium of personal letters sent by members of the Paston family in the fifteenth and sixteenth centuries, which speak to the daily life of a <rs xml:id="pla-norf">Norfolk</rs> family that had 'risen in the world' (<hi rend="italics">E</hi>4 21). VW reads these in preparation for her <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer' (1925; <hi rend="italics">E</hi> 21-38) and notes can be found on them in RN 47, 59. LLVW contains a two-volume 1924 edition of the letters, though VW also took notes from an 1872-5 three-volume edition.</note>
         <idno type="viaf">http://viaf.org/viaf/180199445</idno>
       </bibl>
       <bibl xml:id="lit-reve">
