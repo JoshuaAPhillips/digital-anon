@@ -32,7 +32,6 @@
             <zone points="2398,1870 2388,1839 2332,1831 2330,1831 2126,1839 2079,1839 2075,1837 2056,1829 2054,1829 2052,1829 1927,1835 1848,1839 1822,1833 1791,1827 1789,1827 1694,1831 1593,1837 1527,1829 1486,1825 1484,1825 1466,1829 1435,1835 1402,1827 1387,1825 1385,1825 1293,1827 949,1833 881,1821 881,1866 879,1882 2402,1895 2406,1876 2404,1843 2398,1841 2398,1870" rendition="Line" xml:id="facs__eSc_line_55e69520" subtype="default"/>
             <zone points="877,1973 875,1991 960,2002 2297,2006 2301,1983 2299,1950 2046,1950 2036,1946 2017,1938 2015,1938 2013,1938 1851,1942 1733,1946 1706,1940 1682,1936 1680,1936 1587,1940 1447,1944 1377,1936 1353,1934 1352,1934 1315,1936 1186,1942 1141,1932 1134,1932 1132,1932 1108,1932 955,1940 877,1930 877,1973" rendition="Line" xml:id="facs__eSc_line_ac7749f1" subtype="default"/>
             <zone points="879,2082 877,2098 978,2109 980,2109 1149,2101 1171,2101 1174,2101 1206,2111 1208,2111 1210,2113 2058,2113 2060,2090 2058,2057 1616,2045 1614,2045 1521,2053 1495,2055 1468,2053 1367,2043 1365,2043 1291,2053 1280,2053 1266,2051 1196,2043 1194,2043 1192,2043 1190,2043 1176,2051 1174,2053 1147,2051 1021,2041 1019,2041 879,2049 879,2082" rendition="Line" xml:id="facs__eSc_line_45e53d1d" subtype="default"/>
-            <zone points="1371,2138 1371,2156 1460,2156 1460,2135 1455,2109 1367,2109 1371,2138" rendition="Line" xml:id="facs__eSc_line_70f1d9d6" subtype="default"/>
             <zone points="2478,2158 2418,2166 2400,2156 2398,2154 2396,2154 2394,2154 2299,2154 2297,2154 2285,2156 2223,2166 2064,2154 2036,2152 2034,2152 2032,2152 2030,2152 2030,2154 2013,2164 1916,2154 1914,2154 1844,2164 1569,2152 1567,2152 1565,2152 1546,2162 1525,2148 1523,2148 1521,2148 1519,2148 1505,2148 1420,2158 1375,2148 1373,2148 1371,2148 1369,2148 1367,2148 1352,2162 1252,2162 1235,2148 1233,2148 1231,2148 1229,2148 1174,2158 1141,2148 1139,2148 1138,2148 953,2158 879,2144 879,2191 877,2206 2486,2216 2490,2201 2486,2158 2478,2158" rendition="Line" xml:id="facs__eSc_line_88510a05" subtype="default"/>
             <zone points="877,2298 875,2313 1396,2329 1398,2329 2433,2325 2435,2310 2433,2276 877,2265 877,2298" rendition="Line" xml:id="facs__eSc_line_1985c036" subtype="default"/>
             <zone points="881,2409 879,2426 1743,2440 1744,2440 1820,2432 1828,2432 1836,2432 1947,2442 1949,2442 2169,2434 2180,2434 2200,2444 2202,2444 2204,2444 2464,2434 2466,2420 2466,2387 2390,2374 2388,2374 2062,2381 2046,2381 2042,2381 1986,2372 1984,2372 1943,2381 1935,2381 1879,2380 1581,2368 1579,2368 1577,2368 1554,2376 1548,2378 1521,2376 1423,2368 1422,2368 881,2368 881,2409" rendition="Line" xml:id="facs__eSc_line_ddc78d41" subtype="default"/>
@@ -47,33 +46,140 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_84215299">This brittle and immperfect sketch with its exggerations and</l>
+              <p>
+               <l facs="#facs__eSc_line_84215299">This brittle and imperfect sketch with its 
+                <choice>
+                  <sic>exggerations</sic>
+                  <corr>exaggerations</corr>
+                </choice> and</l>
                <l facs="#facs__eSc_line_77dba852">foreshortenings, is no more than an attempt to point out</l>
-               <l facs="#facs__eSc_line_8dfcb46e">St Pauls Nestmisnter Abbey and the ower of London to a</l>
-               <l facs="#facs__eSc_line_1660e900">visiotr fqn the co ntry. You vill complai n jystly that it</l>
-               <l facs="#facs__eSc_line_29d43e1c">ti leaves out th e effect of those famous momumtnts upon the</l>
-               <l facs="#facs__eSc_line_8e8f97cb">emotions. Thamziaagaxhamimxtmmandmxha To trasnmit that</l>
-               <l facs="#facs__eSc_line_586c44a3">emot ion let us now attenot a dangerous transiti n;</l>
+               <l facs="#facs__eSc_line_8dfcb46e"><rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs> <rs type="place" xml:id="pla-wmab" key="Westminster Abbey">
+                  <choice>
+                    <sic>Westmisnter</sic>
+                    <corr>Westminster</corr>
+                  </choice> Abbey</rs> and the <rs type="place" xml:id="pla-towe" key="Tower of London">Tower of London</rs> to a</l>
+               <l facs="#facs__eSc_line_1660e900"><choice>
+                  <sic>visiotr</sic>
+                  <corr>visitor</corr>
+                </choice> 
+                <choice>
+                  <sic>f om</sic>
+                  <corr>from</corr>
+                </choice> the 
+                <choice>
+                  <sic>co ntry</sic>
+                  <corr>country</corr>
+                </choice>. You will complain 
+                <choice>
+                  <sic>jystly</sic>
+                  <corr>justly</corr>
+                </choice> that it</l>
+               <l facs="#facs__eSc_line_29d43e1c"><choice>
+                  <sic>ti</sic>
+                  <corr>it</corr>
+                </choice> leaves out 
+                <choice>
+                  <sic>th e</sic>
+                  <corr>the</corr>
+                </choice> effect of those famous 
+                <choice>
+                  <sic>monumtnts</sic>
+                  <corr>monuments</corr>
+                </choice> upon the</l>
+               <l facs="#facs__eSc_line_8e8f97cb">emotions. <del hand="typewriter">The charge is just, and [the?]</del> To 
+                <choice>
+                  <sic>trasnmit</sic>
+                  <corr>transmit</corr>
+                </choice> that</l>
+               <l facs="#facs__eSc_line_586c44a3">emotion let us now 
+                <choice>
+                  <sic>attenot</sic>
+                  <corr>attempt</corr>
+                </choice> a dangerous 
+                <choice>
+                  <sic>transiti n</sic>
+                  <corr>transition</corr>
+                </choice>;</l>
                <l facs="#facs__eSc_line_a9e9fc12">from one attitude to another, from the</l>
-               <l facs="#facs__eSc_line_dacbdffb">The emotion vhich built them, the emotion which they still</l>
-               <l facs="#facs__eSc_line_364ff05d">transmi t is left out. This sia charge that can be levlled</l>
-               <l facs="#facs__eSc_line_ab73b7bc">against all criticism. kmtmmx a charge easy enough to</l>
-               <l facs="#facs__eSc_line_bdbff8f3">EHRisyr Talke as a simple example of the</l>
-               <l facs="#facs__eSc_line_e1e34cee">difficulties of transmitting emotion, the ned of making</l>
-               <l facs="#facs__eSc_line_dfb4f384">q otation. The page has to be found and the vords copied.</l>
+            </p>
+               <l facs="#facs__eSc_line_dacbdffb">The emotion which built them, the emotion which they still</l>
+               <l facs="#facs__eSc_line_364ff05d">transmit is left out. This 
+                  <choice>
+                    <sic>sia</sic>
+                    <corr>is a</corr>
+                  </choice> charge that can be 
+                  <choice>
+                    <sic>levlled</sic>
+                    <corr>levelled</corr>
+                  </choice></l>
+               <l facs="#facs__eSc_line_ab73b7bc">against all criticism. <del hand="typewriter">It is</del> a charge easy enough to</l>
+               <l facs="#facs__eSc_line_bdbff8f3"><del hand="typewriter">specify</del> Take as a simple example of the</l>
+               <l facs="#facs__eSc_line_e1e34cee">difficulties of transmitting emotion, the 
+                <choice>
+                  <sic>ned</sic>
+                  <corr>need</corr>
+                </choice> of making</l>
+               <l facs="#facs__eSc_line_dfb4f384"><choice>
+                  <sic>q otation</sic>
+                  <corr>quotation</corr>
+                </choice>. The page has to be found and the words copied.</l>
                <l facs="#facs__eSc_line_e7a5a9b8">The manual act disturbs the st current of thought.</l>
-               <l facs="#facs__eSc_line_55e69520">The presence of alien bodies is also clearly percebtile.</l>
-               <l facs="#facs__eSc_line_ac7749f1">Many people have spent lives in musumes, in order to</l>
-               <l facs="#facs__eSc_line_45e53d1d">verify one date. Accuracy then is d manded.</l>
-               <l facs="#facs__eSc_line_70f1d9d6">74A4</l>
-               <l facs="#facs__eSc_line_88510a05">In viem of these obstacles, the trasntion fron the critical</l>
-               <l facs="#facs__eSc_line_1985c036">attitude to the to private is attende vith great dangers.</l>
-               <l facs="#facs__eSc_line_ddc78d41">We have to free ourslves from the imposition of authority</l>
-               <l facs="#facs__eSc_line_01e82b33">the dominion of the customary. In short ve have to tranport</l>
-               <l facs="#facs__eSc_line_e704bbb2">ourslves from the critics attutude; to the ff</l>
+               <l facs="#facs__eSc_line_55e69520">The presence of alien bodies is also clearly 
+                <choice>
+                  <sic>percebtile</sic>
+                  <corr>perceptible</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_ac7749f1">Many people have spent lives in 
+                <choice>
+                  <sic>musumes</sic>
+                  <corr>museums</corr>
+                </choice>, in order to</l>
+               <l facs="#facs__eSc_line_45e53d1d">verify one date. Accuracy then is 
+                <choice>
+                  <sic>d manded</sic>
+                  <corr>demanded</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_88510a05">In view of these obstacles, the 
+                <choice>
+                  <sic>trasntion</sic>
+                  <corr>transition</corr>
+                </choice> 
+                <choice>
+                  <sic>fron</sic>
+                  <corr>from</corr>
+                </choice> the critical</l>
+               <l facs="#facs__eSc_line_1985c036">attitude to the private is 
+                <choice>
+                  <sic>attende</sic>
+                  <corr>attended</corr>
+                </choice> with great dangers.</l>
+               <l facs="#facs__eSc_line_ddc78d41">We have to free <choice>
+                  <sic>ourslves</sic>
+                  <corr>ourselves</corr>
+                </choice> from the imposition of authority</l>
+               <l facs="#facs__eSc_line_01e82b33">the dominion of the customary. In short ve have to <choice>
+                  <sic>tranport</sic>
+                  <corr>transport</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_e704bbb2"><choice>
+                  <sic>ourslves</sic>
+                  <corr>ourselves</corr>
+                </choice> from the critics 
+                <choice>
+                  <sic>attutude</sic>
+                  <corr>attitude</corr>
+                </choice>; to the f</l>
                <l facs="#facs__eSc_line_6947cb11">readers, even perhaps to the state of mind</l>
                <l facs="#facs__eSc_line_66c2e22b">is so amorphous that it has no visible</l>
-               <l facs="#facs__eSc_line_3cac9694">the readers; v have to become ours)</l>
+               <l facs="#facs__eSc_line_3cac9694">the readers; 
+                <choice>
+                  <sic>w</sic>
+                  <corr>we</corr>
+                </choice> have to become 
+                <choice>
+                  <sic>ourslv</sic>
+                  <corr>[ourselves?]</corr>
+                </choice></l>
             </ab></div>
       </body>
    </text>
