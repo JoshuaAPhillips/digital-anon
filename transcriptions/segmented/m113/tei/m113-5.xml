@@ -36,8 +36,6 @@
             <zone points="960,2284 959,2302 1289,2317 1291,2317 1486,2308 1550,2319 1552,2319 1661,2310 1766,2319 1768,2319 1770,2319 1793,2310 1836,2321 1838,2321 1840,2321 2128,2311 2145,2323 2147,2323 2149,2323 2151,2325 2313,2325 2313,2323 2421,2311 2423,2294 2421,2257 960,2249 960,2284" rendition="Line" xml:id="facs__eSc_line_8afa38a3" subtype="default"/>
             <zone points="966,2395 964,2409 1044,2424 1046,2424 1048,2424 1081,2413 1149,2422 1151,2422 1153,2422 1178,2413 1254,2413 1369,2413 1373,2413 1449,2426 1451,2428 1601,2428 1601,2426 1602,2426 1630,2415 1637,2415 1811,2428 1813,2428 2025,2416 2054,2416 2270,2416 2277,2418 2330,2430 2332,2430 2334,2430 2357,2420 2396,2430 2398,2430 2400,2430 2602,2420 2604,2403 2602,2368 1968,2368 1943,2364 1846,2356 1844,2356 1801,2364 1787,2366 1768,2364 1694,2354 1692,2354 1546,2364 1521,2364 1501,2362 1410,2354 1408,2354 1406,2354 1387,2362 1381,2364 1375,2362 1338,2352 1336,2352 1334,2352 966,2360 966,2395" rendition="Line" xml:id="facs__eSc_line_4972cc97" subtype="default"/>
             <zone points="966,2502 964,2520 1855,2531 1857,2531 2087,2523 2110,2523 2122,2523 2231,2533 2233,2533 2495,2523 2497,2510 2495,2475 2425,2463 2423,2463 2421,2463 2402,2473 2394,2473 2246,2463 2244,2463 2242,2463 2213,2471 2209,2473 2207,2471 2196,2463 2194,2463 2192,2463 966,2463 966,2502" rendition="Line" xml:id="facs__eSc_line_cab30399" subtype="default"/>
-            <zone points="706,2599 704,2626 766,2613 768,2603 768,2576 706,2570 706,2599" rendition="Line" xml:id="facs__eSc_line_88620630" subtype="default"/>
-            <zone points="791,2605 789,2615 894,2619 898,2607 896,2576 791,2570 791,2605" rendition="Line" xml:id="facs__eSc_line_fd4db811" subtype="default"/>
             <zone points="976,2611 974,2626 1237,2640 1239,2640 2279,2638 2281,2621 2279,2586 1758,2570 1756,2570 1713,2580 1709,2580 1708,2580 1686,2570 1684,2570 1682,2570 1601,2578 1581,2580 1507,2578 1198,2566 1196,2566 1194,2566 1176,2574 1174,2576 976,2574 976,2611" rendition="Line" xml:id="facs__eSc_line_0c3c670c" subtype="default"/>
             <zone points="2554,2683 2552,2681 2509,2679 2507,2679 2505,2679 2499,2683 2478,2693 2379,2683 2338,2679 2336,2679 2334,2679 2322,2683 2291,2695 2032,2695 1978,2685 1933,2677 1931,2677 1855,2685 1793,2691 1776,2685 1758,2679 1756,2679 1612,2677 1610,2677 1608,2677 1587,2685 1581,2687 1571,2685 1523,2677 1521,2677 1369,2687 1318,2689 1313,2687 1295,2677 1293,2677 1291,2677 1239,2685 1211,2675 1210,2675 1208,2675 1206,2675 1182,2687 1178,2689 959,2689 959,2722 957,2741 968,2749 970,2749 972,2749 974,2749 1390,2739 1492,2751 1494,2751 1601,2741 1816,2751 1818,2751 1820,2751 1861,2741 1888,2751 1890,2751 2155,2753 2157,2753 2211,2743 2244,2753 2246,2753 2248,2753 2305,2743 2511,2753 2513,2753 2515,2753 2558,2741 2560,2728 2560,2687 2554,2683" rendition="Line" xml:id="facs__eSc_line_1174245d" subtype="default"/>
             <zone points="964,2829 962,2856 2579,2864 2583,2836 2581,2803 964,2796 964,2829" rendition="Line" xml:id="facs__eSc_line_8270b35a" subtype="default"/>
@@ -62,48 +60,116 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_c7d74a94">25</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_64d64061">hates uttered. The world was made visible to them,</l>
-               <l facs="#facs__eSc_line_ab9cf379">now at this very moment. It vas magnified, heightened,</l>
-               <l facs="#facs__eSc_line_17da6a94">Poetry, the stimulus of metre, of decoration of fine langaus</l>
-               <l facs="#facs__eSc_line_5cecdfc2">mas vas a necessity. The poet Was urged into falsification</l>
+               <l facs="#facs__eSc_line_ab9cf379">now at this very 
+                <choice>
+                  <sic>oment</sic>
+                  <corr>moment</corr>
+                </choice>. It was magnified, heightened,</l>
+               <l facs="#facs__eSc_line_17da6a94">Poetry, the stimulus of metre, of decoration of fine <choice>
+                  <sic>languag</sic>
+                  <corr>language</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_5cecdfc2">was was a necessity. The poet was urged into falsification</l>
                <l facs="#facs__eSc_line_c067be41">and hyperbole.</l>
-               <l facs="#facs__eSc_line_2394adf5">But in the seats under the ceiling, in the nblemens rooms,</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_2394adf5">But in the seats under the ceiling, in the <choice>
+              <sic>nblemens</sic>
+              <corr>noblemens'</corr>
+            </choice> rooms,</l>
                <l facs="#facs__eSc_line_bbe7b2e2">there were nobles, rulers, scholars. They too are silent.</l>
-               <l facs="#facs__eSc_line_f5997618">4nd their sielnce is harder to explain. For they wre</l>
-               <l facs="#facs__eSc_line_d3316e6a">t7 t Peaders; they muxbtx had Latin and reek behind them and</l>
-               <l facs="#facs__eSc_line_04031bc3">puye pla s of the classics. Now can it have been that</l>
-               <l facs="#facs__eSc_line_eec49980">the 1it le highly educated Elizabethan p blic made no more</l>
-               <l facs="#facs__eSc_line_5fac9134">comnent upon the play at the Baneside than the groundlings?</l>
-               <l facs="#facs__eSc_line_8f5b168e">Perhaps acon in his essays supplies a reason.</l>
-               <l facs="#facs__eSc_line_c19e44d9">Tnese things be but toyes" he wrote in the essay called</l>
-               <l facs="#facs__eSc_line_97a24879">Of Masues and Tirumphs." To the aristorcrati scholar</l>
+               <l facs="#facs__eSc_line_f5997618">4nd their <choice>
+                  <sic>sielnce</sic>
+                  <corr>silence</corr>
+                </choice> is harder to explain. For they were</l>
+               <l facs="#facs__eSc_line_d3316e6a">readers; they <del hand="typewriter">could</del> had Latin and Greek behind them and</l>
+               <l facs="#facs__eSc_line_04031bc3">the plays of the classics. Now can it have been that</l>
+               <l facs="#facs__eSc_line_eec49980">the little highly educated Elizabethan 
+                <choice>
+                  <sic>p blic</sic>
+                  <corr>public</corr>
+                </choice> made no more</l>
+               <l facs="#facs__eSc_line_5fac9134">comnent upon the play at the <rs type="place" xml:id="pla-bank" key="Bankside">Bankside</rs> than the groundlings?</l>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_8f5b168e">Perhaps <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">Bacon</rs> in his <rs type="literary-work" xml:id="lit-baes" key="Essays (Francis Bacon)">essays</rs> supplies a reason.</l>
+               <l facs="#facs__eSc_line_c19e44d9"><quote source="#">"These things be but toyes"</quote> he wrote in the essay called</l>
+               <l facs="#facs__eSc_line_97a24879"><rs type="person" xml:id="lit-masq" key="Of Masques and Triumphs">Of 
+                <choice>
+                  <sic>Masues</sic>
+                  <corr>Masques</corr>
+                </choice> and 
+                <choice>
+                  <sic>Tirumphs</sic>
+                  <corr>Triumphs</corr>
+                </choice></rs>." To the 
+                <choice>
+                  <sic>aristorcrati</sic>
+                  <corr>aristocratic</corr>
+                </choice> scholar</l>
                <l facs="#facs__eSc_line_c33977d3">the players were still only mountebankes, bear leaders and</l>
-               <l facs="#facs__eSc_line_d1334618">acrobats. Off the stage they lived in the heart of darkeness;</l>
-               <l facs="#facs__eSc_line_9fd1bfed">Nas Not Marloew lilled in a house of ill fame? Did not Ben</l>
-               <l facs="#facs__eSc_line_8afa38a3">Josnon run Spencer through the body with a sword that</l>
-               <l facs="#facs__eSc_line_4972cc97">cost three and sixpence? So complete was . acons contempt for</l>
-               <l facs="#facs__eSc_line_cab30399">this unde. rwolrd that he can be tolerant. "The Stage is</l>
-               <l facs="#facs__eSc_line_88620630">3</l>
-               <l facs="#facs__eSc_line_fd4db811"> </l>
-               <l facs="#facs__eSc_line_0c3c670c">more betolding to Love than the life of Man....</l>
-               <l facs="#facs__eSc_line_1174245d">great spirits and great -usiness do lkeepe out of this weakt</l>
-               <l facs="#facs__eSc_line_8270b35a">passion.Thq proper place or the vealc passion vas not real</l>
-               <l facs="#facs__eSc_line_ec56876c">1ife but the stage, for love " leads to spealeing in a perpetà</l>
-               <l facs="#facs__eSc_line_cc28619a">hyoberole."</l>
-               <l facs="#facs__eSc_line_b556b0f7">Tie proper topies of dicssuuln in the upper</l>
-               <l facs="#facs__eSc_line_5ba1f94b">morld axax is the life of man. T e titles of 3acons eesays</l>
-               <l facs="#facs__eSc_line_3bd521db"/>
-               <l facs="#facs__eSc_line_e57b4a84"/>
-               <l facs="#facs__eSc_line_39165152"/>
-               <l facs="#facs__eSc_line_b6abfe3b"/>
-               <l facs="#facs__eSc_line_3d012b07"/>
-               <l facs="#facs__eSc_line_60b2f967"/>
-               <l facs="#facs__eSc_line_dac405e6"/>
-               <l facs="#facs__eSc_line_9d23a4a9"/>
-               <l facs="#facs__eSc_line_97518d57"/>
-               <l facs="#facs__eSc_line_8e82ecb4"/>
-               <l facs="#facs__eSc_line_ae7a6b98"/>
+               <l facs="#facs__eSc_line_d1334618">acrobats. Off the stage they lived in the <rs type="literary-work" xml:id="lit-hear" key="Heart of Darkness">heart of darkness</rs>;</l>
+               <l facs="#facs__eSc_line_9fd1bfed">Was Not <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">
+                <choice>
+                  <sic>Marloew</sic>
+                </choice></rs> killed in a house of ill fame? Did not <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Ben</rs></l>
+               <l facs="#facs__eSc_line_8afa38a3"><rs type="person" xml:id="psn-bjon">
+                <choice>
+                  <sic>Josnon</sic>
+                  <corr>Jonson</corr>
+                </choice></rs> run <rs type="person" xml:id="psn-gspe" key="Spenser, Gabriel">
+                  <choice>
+                    <sic>Spencer</sic>
+                    <corr>Spenser</corr>
+                  </choice></rs> through the body with a sword that</l>
+               <l facs="#facs__eSc_line_4972cc97">cost three and sixpence? So complete was Bacons contempt for</l>
+               <l facs="#facs__eSc_line_cab30399">this 
+                <choice>
+                  <sic>unde rwolrd</sic>
+                  <corr>underworld</corr>
+                </choice> that he can be tolerant. <quote source="#" rend="inline">"The Stage is</quote></l>
+               <l facs="#facs__eSc_line_0c3c670c"><quote source="#" rend="inline">more beholding to Love than the life of Man....</quote>.</l>
+               <l facs="#facs__eSc_line_1174245d"><quote source="#" rend="inline">great spirits and great Business do keepe out of this weak</quote></l>
+               <l facs="#facs__eSc_line_8270b35a"><quote source="#" rend="inline">passion.<add hand="ms" place="inline">"</add></quote> The proper place for the weak passion was not real</l>
+               <l facs="#facs__eSc_line_ec56876c">ife but the stage, for love <quote source="#" rend="inline">"leads to speaking in a 
+                <choice>
+                  <sic>perpeta</sic>
+                  <corr>perpetual</corr>
+                </choice></quote></l>
+               <l facs="#facs__eSc_line_cc28619a"><quote source="#" rend="inline">
+                <choice>
+                  <sic>hypberole</sic>
+                  <corr>hyperbole</corr>
+                </choice></quote>."</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_b556b0f7">The proper topics of 
+                <choice>
+                  <sic>dicssuun</sic>
+                  <corr>discussion</corr>
+                </choice> in the upper</l>
+               <l facs="#facs__eSc_line_5ba1f94b">world <del type="handwriter">are</del> is the life of man. The titles of Bacons essays</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_3bd521db">A <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">poet</rs> wrote</l>
+               <l facs="#facs__eSc_line_e57b4a84">sonnets to</l>
+               <l facs="#facs__eSc_line_39165152"><rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W. H.</rs></l>
+               <l facs="#facs__eSc_line_b6abfe3b">Who is</l>
+               <l facs="#facs__eSc_line_3d012b07">W H?</l>
+               <l facs="#facs__eSc_line_60b2f967">The <choice>
+                  <sic>E<hi rend="superscript">thn</hi></sic>
+                  <corr>Elizabethan</corr></choice></l>
+               <l facs="#facs__eSc_line_dac405e6">audience</l>
+               <l facs="#facs__eSc_line_9d23a4a9">have no</l>
+               <l facs="#facs__eSc_line_97518d57">interest</l>
+               <l facs="#facs__eSc_line_8e82ecb4">in the</l>
+               <l facs="#facs__eSc_line_ae7a6b98">matter</l>
+            </p>
             </ab></div>
       </body>
    </text>
