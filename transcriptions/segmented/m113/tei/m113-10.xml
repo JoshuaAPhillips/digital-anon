@@ -24,7 +24,6 @@
             <zone points="896,871 896,888 2137,892 2141,867 2137,834 1763,822 1762,822 1760,822 1727,832 1717,824 1717,822 1715,822 1713,822 1711,822 1709,822 1707,822 1695,834 1614,834 1546,822 1544,822 1542,822 1513,834 1439,824 1437,824 1182,834 1163,824 1161,824 972,824 970,824 894,836 896,871" rendition="Line" xml:id="facs__eSc_line_65d530b2" subtype="default"/>
             <zone points="898,978 898,997 2468,993 2469,974 2466,941 896,941 898,978" rendition="Line" xml:id="facs__eSc_line_d4f38f94" subtype="default"/>
             <zone points="900,1088 900,1102 1116,1110 1118,1110 1120,1110 1139,1098 1139,1085 1135,1053 1017,1042 1015,1042 898,1053 900,1088" rendition="Line" xml:id="facs__eSc_line_b2437852" subtype="default"/>
-            <zone points="1423,1053 1421,1085 1522,1079 1524,1057 1522,1032 1423,1028 1423,1053" rendition="Line" xml:id="facs__eSc_line_b611f300" subtype="default"/>
             <zone points="2275,1158 2203,1149 2201,1149 2055,1156 2022,1158 2012,1156 1979,1149 1977,1149 1975,1149 1974,1149 1946,1156 1937,1158 1933,1156 1923,1149 1921,1149 1919,1149 1917,1149 1699,1153 1548,1156 1524,1153 1501,1147 1499,1147 1478,1151 1452,1156 960,1147 960,1191 958,1217 1367,1219 1369,1219 1371,1219 1380,1217 1402,1209 1421,1215 1437,1221 1439,1221 1441,1221 1587,1215 1695,1211 1767,1215 1929,1223 1931,1223 1933,1223 1960,1213 1964,1213 2281,1213 2283,1197 2281,1166 2275,1158" rendition="Line" xml:id="facs__eSc_line_4979298c" subtype="default"/>
             <zone points="2456,1260 2370,1269 1874,1265 1522,1261 1520,1261 1518,1261 1505,1267 1499,1271 1375,1269 949,1261 947,1261 894,1273 896,1306 896,1326 2471,1330 2473,1302 2468,1261 2456,1260" rendition="Line" xml:id="facs__eSc_line_913b2bdb" subtype="default"/>
             <zone points="900,1417 900,1435 2415,1433 2417,1413 2413,1380 898,1374 900,1417" rendition="Line" xml:id="facs__eSc_line_5fd8ee49" subtype="default"/>
@@ -48,33 +47,53 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_4632f629">179</l>
-               <l facs="#facs__eSc_line_1706ac21">pilgrims had brm⬪imd the grass. The stain vasx~ made a</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_1706ac21">pilgrims had <del hand="typewriter">bruised</del> the grass. The stain <del hand="typewriter">was</del> made a</l>
                <l facs="#facs__eSc_line_354a498d">bruised</l>
-               <l facs="#facs__eSc_line_5df2fabb">path. It vas groving darkk. Since there vere no</l>
-               <l facs="#facs__eSc_line_a1e400fb">clouds to trouble the sky, the blue vas bluer, and the</l>
+               <l facs="#facs__eSc_line_5df2fabb">path. It vas groving dark. Since there were no</l>
+               <l facs="#facs__eSc_line_a1e400fb">clouds to trouble the sky, the blue was bluer, and the</l>
                <l facs="#facs__eSc_line_67f205ff">green for one moment greener. There vas no longer a viev.</l>
-               <l facs="#facs__eSc_line_8a5d0ab8">No Folly; no spire of Bolmey Minster. It was land merely,</l>
-               <l facs="#facs__eSc_line_65d530b2">no land in particualr. She put down her case,</l>
+               <l facs="#facs__eSc_line_8a5d0ab8">No Folly; no spire of <choice>
+                  <sic>Bolmey</sic>
+                  <corr>Bolney</corr>
+                </choice> Minster. It was land merely,</l>
+               <l facs="#facs__eSc_line_65d530b2">no land in <choice>
+                  <sic>particualr</sic>
+                  <corr>particular</corr>
+                </choice>. <rs type="person" xml:id="psn-latr" key="Miss La Trobe">She</rs> put down her case,</l>
                <l facs="#facs__eSc_line_d4f38f94">and stood looking at the land. Then something rose to the</l>
-               <l facs="#facs__eSc_line_b2437852">surface,</l>
-               <l facs="#facs__eSc_line_b611f300">evel</l>
-               <l facs="#facs__eSc_line_4979298c">"I should group'em there" she said. It vould be</l>
-               <l facs="#facs__eSc_line_913b2bdb">midnight; tuo figures, hardly perceptible, half concealed</l>
-               <l facs="#facs__eSc_line_5fd8ee49">by a rock. The curtain vould rise. Nhat vould the first</l>
+               <l facs="#facs__eSc_line_b2437852">surface.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_4979298c">"I should group 'em there" she said. It would be</l>
+               <l facs="#facs__eSc_line_913b2bdb">midnight; two figures, hardly perceptible, half concealed</l>
+               <l facs="#facs__eSc_line_5fd8ee49">by a rock. The curtain vould rise. What vould the first</l>
                <l facs="#facs__eSc_line_d625c9d5">words be? That floored her. The words escaped her.</l>
+            </p>
                <l facs="#facs__eSc_line_0e8a46bf">Again she lifted the heavy suit case to her</l>
                <l facs="#facs__eSc_line_05c98e63">shoulder. She strode off across the lawn. The house was</l>
-               <l facs="#facs__eSc_line_b7f92be3">dormant; one thread of smoke thockened against the trees.</l>
-               <l facs="#facs__eSc_line_96780986">How EEAX Strange that the earth vith all those flowers</l>
-               <l facs="#facs__eSc_line_4b9275cb">iincandescent, the lilies, the roses, those clumps of white</l>
+               <l facs="#facs__eSc_line_b7f92be3">dormant; one thread of smoke <choice>
+                  <sic>thockened</sic>
+                  <corr>thickened</corr>
+                </choice> against the trees.</l>
+               <l facs="#facs__eSc_line_96780986">How xxxxxx Strange that the earth vith all those flowers</l>
+               <l facs="#facs__eSc_line_4b9275cb">incandescent, the lilies, the roses, those clumps of white</l>
                <l facs="#facs__eSc_line_027b39a9">flovers, those bushes of burning green-- should still be</l>
-               <l facs="#facs__eSc_line_76a6fa5f">hard! The vaters of illusion fiaaimrmmnimker. Aagain</l>
+               <l facs="#facs__eSc_line_76a6fa5f">hard! The vaters of illusion <del hand="typewriter">flowed round her</del>. <choice>
+                  <sic>Aagain</sic>
+                  <corr>Again</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_e010d6a2">surrounded her.</l>
-               <l facs="#facs__eSc_line_d1b42779">she vas talking her voyage avay from the shore.</l>
-               <l facs="#facs__eSc_line_89da2c79">he</l>
-               <l facs="#facs__eSc_line_c68fe284">tmimxma rardm cihætunmfrkinankmanxemtrmxæatez</l>
-               <l facs="#facs__eSc_line_dc335982">and riasing her hand, she lifted the latch of the</l>
+               <l facs="#facs__eSc_line_d1b42779">she was talking her voyage avay from the shore.</l>
+               <l facs="#facs__eSc_line_89da2c79">She</l>
+               <l facs="#facs__eSc_line_c68fe284"><del hand="typewriter">And undid the latch of the iron [illeg.] gate</del></l>
+               <l facs="#facs__eSc_line_dc335982">and <choice>
+                  <sic>riasing</sic>
+                  <corr>raising</corr>
+                </choice> her hand, she lifted the latch of the</l>
                <l facs="#facs__eSc_line_ab17eda7">ornamental iron gate.</l>
             </ab></div>
       </body>
