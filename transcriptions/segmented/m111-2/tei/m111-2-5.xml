@@ -49,34 +49,96 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_ead9d968">31</l>
-               <l facs="#facs__eSc_line_ab0ae788">The Rmkanr eader.</l>
-               <l facs="#facs__eSc_line_04617060">The audience at the Elizabetahn play vas not an audie.jce</l>
-               <l facs="#facs__eSc_line_6f70bf07">of readers. They had to drav int the play as they sat or</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_ab0ae788">The <del>Reader.</del>Reader.</l>
+              </p>
+               <l facs="#facs__eSc_line_04617060">The audience at the 
+                <choice>
+                  <sic>Elizabetahn</sic>
+                  <corr>Elizabethan</corr>
+                </choice> play was not an 
+                <choice>
+                  <sic>audiejce</sic>
+                </choice></l>
+               <l facs="#facs__eSc_line_6f70bf07">of readers. They had to draw 
+                <choice>
+                  <sic>int</sic>
+                  <corr>in</corr>
+                </choice> the play through their ears, through their eyes</l>
                <l facs="#facs__eSc_line_40c11645">stood at the playhouse through their ears, through their eyes</l>
                <l facs="#facs__eSc_line_f207aecd">They could not deepen the impression and renew</l>
                <l facs="#facs__eSc_line_0fe07e29">it at a table in a private room. This perhaps explains</l>
                <l facs="#facs__eSc_line_ab6bde05">the scarcity of Elizabethan criticism; and the general nature</l>
-               <l facs="#facs__eSc_line_f5dde1af">of vhat criticism there is. Both Sidney and Jonson</l>
-               <l facs="#facs__eSc_line_0d8cd9c1">deal vith the general rules of poetry; not vith the particuar</l>
+               <l facs="#facs__eSc_line_f5dde1af">of what criticism there is. Both <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sidney</rs> and <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Jonson</rs></l>
+               <l facs="#facs__eSc_line_0d8cd9c1">deal with the general rules of poetry; not with the 
+                <choice>
+                  <sic>particuar</sic>
+                  <corr>particular</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_8785b231">play or poem. The lack of a book of the vords accounts too</l>
-               <l facs="#facs__eSc_line_cd72412d">for the long pause, between Pahkepares death</l>
-               <l facs="#facs__eSc_line_d649f3dc">and the eighteenth century, "he the plays of Shakepere</l>
-               <l facs="#facs__eSc_line_d645065e">even hang suspended, unrea ised. They had to vait until the</l>
-               <l facs="#facs__eSc_line_323d1a17">printed book vas in many hands before they received</l>
-               <l facs="#facs__eSc_line_954dc523">the life that the reader co fers Much that vas lost</l>
-               <l facs="#facs__eSc_line_0fee6b6b">in the playhouse vas disocvered in the private room.</l>
-               <l facs="#facs__eSc_line_db34386d">But mu h vas lost for ever when the playhouse shut.</l>
-               <l facs="#facs__eSc_line_ba3242cc">Tlaxaanxnftnkinxnænnuanxmneæ Ve have l1ost the sound of the</l>
-               <l facs="#facs__eSc_line_02c4341a">8poken vord; all that the sight of the actors bodies</l>
-               <l facs="#facs__eSc_line_025ef1e1">suggests to the mind through the eye. Ne have lost the</l>
-               <l facs="#facs__eSc_line_87b2f500">sense of being part of the audience. Ne miss a th usnd</l>
+               <l facs="#facs__eSc_line_cd72412d">for the long pause, between <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">
+                <choice>
+                  <sic>Sahkepares</sic>
+                  <corr>Shakespeare's</corr>
+                </choice></rs> death</l>
+               <l facs="#facs__eSc_line_d649f3dc">and the eighteenth century, 
+                <choice>
+                  <sic>whe</sic>
+                  <corr>when</corr>
+                </choice> the plays of 
+                <choice>
+                  <sic>Shakepere</sic>
+                  <corr>Shakespeare</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_d645065e">even hang suspended, 
+                <choice>
+                  <sic>unrea ised</sic>
+                  <corr>unrealised</corr>
+                </choice>. They had to wait until the</l>
+               <l facs="#facs__eSc_line_323d1a17">printed book was in many hands before they received</l>
+               <l facs="#facs__eSc_line_954dc523">the life that the reader 
+                <choice>
+                  <sic>co fers</sic>
+                  <corr>confers</corr>
+                </choice> Much that was lost</l>
+               <l facs="#facs__eSc_line_0fee6b6b">in the playhouse was 
+                <choice>
+                  <sic>disocvered</sic>
+                  <corr>discovered</corr>
+                </choice> in the private room.</l>
+               <l facs="#facs__eSc_line_db34386d">But 
+                <choice>
+                  <sic>mu h</sic>
+                  <corr>much</corr>
+                </choice> was lost for ever when the playhouse shut.</l>
+               <l facs="#facs__eSc_line_ba3242cc"><del>The sound of the spoken word</del> We have lost the sound of the</l>
+               <l facs="#facs__eSc_line_02c4341a">spoken word; all that the sight of the actors bodies</l>
+               <l facs="#facs__eSc_line_025ef1e1">suggests to the mind through the eye. We have lost the</l>
+               <l facs="#facs__eSc_line_87b2f500">sense of being part of the audience. We miss a 
+                <choice>
+                  <sic>th usnd</sic>
+                  <corr>thousand</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_b6947ecf">suggestions that the dramatist conveyed by the inflection</l>
                <l facs="#facs__eSc_line_6ad3259e">of voice, by gesture, by the placing of the actors bodies.</l>
                <l facs="#facs__eSc_line_7aeee234">This can still be proved by comparing our impression</l>
-               <l facs="#facs__eSc_line_61d08957">aft seeing the play acted with our impression after reading</l>
-               <l facs="#facs__eSc_line_4b53e111">the play alone. But as the actor ipmports much that is of</l>
-               <l facs="#facs__eSc_line_4d5118b5">his omn day, and foreing to the past, so that there is t</l>
+               <l facs="#facs__eSc_line_61d08957"><choice>
+                  <sic>aft</sic>
+                  <corr>after</corr>
+                </choice> seeing the play acted with our impression after reading</l>
+               <l facs="#facs__eSc_line_4b53e111">the play alone. But as the actor 
+                <choice>
+                  <sic>ipmports</sic>
+                  <corr>imports</corr>
+                </choice> much that is of</l>
+               <l facs="#facs__eSc_line_4d5118b5">his own day, and 
+                <choice>
+                  <sic>foreing</sic>
+                  <corr>[foreign?]</corr>
+                </choice> to the past, so that there is t</l>
                <l facs="#facs__eSc_line_2a3c7d73">still something in every Elizabethan play sunk beyond recall.</l>
             </ab></div>
       </body>
