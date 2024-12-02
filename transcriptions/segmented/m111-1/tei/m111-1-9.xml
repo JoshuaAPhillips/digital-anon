@@ -35,21 +35,76 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_04a00c43">the maning of vords is tremendously developed; so that they</l>
+               <l facs="#facs__eSc_line_04a00c43">the meaning of words is tremendously developed; so that they</l>
                <l facs="#facs__eSc_line_43dda4de">remain attached to certain aspects of the printed page;</l>
-               <l facs="#facs__eSc_line_a7ab8536">the sch ars the students vhamammmimtmgtzt, Again there is</l>
-               <l facs="#facs__eSc_line_24d24977">the very large class of perfectly literatue peole vhorun</l>
+               <l facs="#facs__eSc_line_a7ab8536">the 
+                <choice>
+                  <sic>sch ars</sic>
+                  <corr>scholars</corr>
+                </choice> the students <del>who can [teach?]</del>, Again there is</l>
+               <l facs="#facs__eSc_line_24d24977">the very large class of perfectly 
+                <choice>
+                  <sic>literatue</sic>
+                  <corr>literate</corr>
+                </choice> 
+                <choice>
+                  <sic>peole</sic>
+                  <corr>people</corr>
+                </choice> 
+                <choice>
+                  <sic>whorun</sic>
+                  <corr>who run</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_72a88763">their eyes over miles of print yearly, yet never read a w</l>
-               <l facs="#facs__eSc_line_45fb03e5">Word. Thaxnamimxr The reader, distinct from the schoar,</l>
+               <l facs="#facs__eSc_line_45fb03e5">word. <del>The [reader.]</del> The reader, distinct from the 
+                <choice>
+                  <sic>schoar</sic>
+                  <corr>scholar</corr>
+                </choice>,</l>
                <l facs="#facs__eSc_line_ee9d5501">distinct from the print stripper of news paper print,</l>
-               <l facs="#facs__eSc_line_5201180e">has a curious p ver to malce houses and countries</l>
-               <l facs="#facs__eSc_line_9c2996f2">visible, men and vomn and their thoughts and emotion,</l>
-               <l facs="#facs__eSc_line_9696a642">from marks on a piece of paper. His faculty is almays changig</l>
-               <l facs="#facs__eSc_line_bacc634b">The reader agains is always changing. The cinema is now</l>
-               <l facs="#facs__eSc_line_9fba41c4">develpojg his eyes; the Braodcast is dev pojg his ear.</l>
+               <l facs="#facs__eSc_line_5201180e">has a curious 
+                <choice>
+                  <sic>p wer</sic>
+                  <corr>power</corr>
+                </choice> to make houses and countries</l>
+               <l facs="#facs__eSc_line_9c2996f2">visible, men and 
+                <choice>
+                  <sic>womn</sic>
+                  <corr>women</corr>
+                </choice> and their thoughts and emotion,</l>
+               <l facs="#facs__eSc_line_9696a642">from marks on a piece of paper. His faculty is always 
+                <choice>
+                  <sic>changig</sic>
+                  <corr>changing</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_bacc634b">The reader 
+                <choice>
+                  <sic>agains</sic>
+                  <corr>again</corr>
+                </choice> is always changing. The <rs type="literary-work" xml:id="lit-cine" key="Cinema">cinema</rs> is now</l>
+               <l facs="#facs__eSc_line_9fba41c4"><choice>
+              <sic>develpojg</sic>
+              <corr>developing</corr>
+            </choice> his eyes, the 
+            <rs type="literary-work" xml:id="lit-broa" key="Broadcast"><choice>
+                  <sic>Braodcast</sic>
+                  <corr>Broadcast</corr>
+                </choice></rs> is 
+                <choice>
+                  <sic>dev pojg</sic>
+                  <corr>developing</corr>
+                </choice> his ear.</l>
                <l facs="#facs__eSc_line_0137083b">He is still in existence; for it is a fact that</l>
-               <l facs="#facs__eSc_line_48d7116f">he is still casuing books to be printed.</l>
-               <l facs="#facs__eSc_line_7232d31f">He 8s still reading Sjakespere.</l>
+               <l facs="#facs__eSc_line_48d7116f">he is still 
+                <choice>
+                  <sic>casuing</sic>
+                  <corr>causing</corr>
+                </choice> books to be printed.</l>
+               <l facs="#facs__eSc_line_7232d31f">He is still reading 
+                <choice>
+                  <sic>Sjakespere</sic>
+                  <corr>Shakespeare</corr>
+                </choice>.</l>
             </ab></div>
       </body>
    </text>
