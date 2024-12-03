@@ -21,7 +21,6 @@
             <zone points="684,392 686,412 762,396 778,398 805,402 807,402 809,402 881,379 881,367 867,324 850,336 820,332 791,330 789,330 787,330 733,348 717,353 712,351 692,344 690,344 688,344 686,344 684,344 684,346 682,346 678,350 684,392" rendition="Line" xml:id="facs__eSc_line_af552628" subtype="default"/>
             <zone points="2554,359 2476,367 2449,359 2435,355 2433,355 2431,355 2385,359 2324,365 2315,359 2309,355 2307,355 2305,355 2140,355 2138,355 2087,361 2052,365 1990,361 1791,350 1789,350 1723,363 1721,363 1717,363 1591,350 1589,350 1498,359 1445,351 1443,351 1441,351 1400,365 1398,365 1396,365 1250,350 1248,350 1165,363 1097,348 1095,348 1093,348 1068,359 1036,348 1034,348 1033,348 1031,348 990,369 988,369 974,369 877,357 875,357 873,357 871,357 854,369 852,371 690,371 690,445 793,437 885,437 885,435 1023,410 1161,412 1206,427 1208,427 1210,427 1400,412 1426,425 1427,425 1429,425 1505,412 1628,412 1676,429 1678,429 1680,429 1682,429 1743,412 1894,423 1896,423 1974,412 2103,435 2104,435 2278,418 2336,427 2338,427 2482,420 2562,435 2566,402 2562,365 2554,359" rendition="Line" xml:id="facs__eSc_line_21cee526" subtype="default"/>
             <zone points="704,491 704,505 852,497 852,480 844,435 801,437 799,437 797,437 787,445 768,460 700,462 704,491" rendition="Line" xml:id="facs__eSc_line_0261e23d" subtype="default"/>
-            <zone points="947,439 902,456 863,449 869,509 873,542 935,517 955,523 957,501 947,439" rendition="Line" xml:id="facs__eSc_line_7b7049f3" subtype="default"/>
             <zone points="1140,503 1138,515 1196,528 1198,528 1284,519 1566,530 1568,530 1661,521 1663,521 1665,521 1704,532 1706,532 1708,532 1924,523 1935,523 1951,523 2143,534 2145,534 2204,525 2210,525 2223,525 2357,536 2359,536 2521,526 2523,513 2521,480 2322,480 2313,476 2280,464 2278,464 2276,464 2198,472 2171,476 2165,472 2153,462 2151,462 2149,462 2147,462 2101,472 2073,476 2033,470 1968,460 1966,460 1964,460 1943,468 1931,472 1898,468 1848,460 1846,460 1844,460 1832,466 1817,476 1706,476 1694,464 1690,462 1690,460 1688,460 1686,460 1684,460 1682,460 1676,464 1659,472 1523,462 1521,462 1439,472 1418,458 1416,456 1414,456 1412,456 1410,456 1408,456 1402,458 1371,470 1305,460 1303,460 1219,470 1140,455 1140,503" rendition="Line" xml:id="facs__eSc_line_a7ce8d3a" subtype="default"/>
             <zone points="704,579 772,560 772,550 766,511 696,501 702,558 704,579" rendition="Line" xml:id="facs__eSc_line_f19f973d" subtype="default"/>
             <zone points="830,561 824,600 873,604 879,565 877,536 832,530 830,561" rendition="Line" xml:id="facs__eSc_line_d33c4da7" subtype="default"/>
@@ -67,53 +66,131 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_6b33039a">26</l>
-               <l facs="#facs__eSc_line_fb9cbe4f">4r</l>
-               <l facs="#facs__eSc_line_a0fdf427">Spenser vith his eye upon the reader in the great room.</l>
-               <l facs="#facs__eSc_line_1f061fdb">7tet</l>
-               <l facs="#facs__eSc_line_af552628">lhn i/ha</l>
-               <l facs="#facs__eSc_line_21cee526">Lareu et the audience for all its size and compulsion is silent.</l>
-               <l facs="#facs__eSc_line_0261e23d">tt Mai</l>
-               <l facs="#facs__eSc_line_7b7049f3">da</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_fb9cbe4f">If we</l>
+               <l facs="#facs__eSc_line_1f061fdb"><choice>
+              <sic>cd.</sic>
+              <corr>could</corr>
+            </choice> measure</l>
+               <l facs="#facs__eSc_line_af552628">the effect of the audience</l>
+               <l facs="#facs__eSc_line_0261e23d">we <choice>
+                  <sic>shd.</sic>
+                  <corr>should</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_f19f973d">have a hold</l>
+               <l facs="#facs__eSc_line_d33c4da7">upon the</l>  
+               <l facs="#facs__eSc_line_9977c1d5">play</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_a0fdf427"><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> with his eye upon the reader in the great room.</l>
+               <l facs="#facs__eSc_line_21cee526">Yet the audience for all its size and compulsion is silent.</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_a7ce8d3a">That is one of the deep gulfs that lies between us</l>
-               <l facs="#facs__eSc_line_f19f973d">(er</l>
-               <l facs="#facs__eSc_line_d33c4da7">h</l>
                <l facs="#facs__eSc_line_2f09a555">and the play. They crowd there; daily: but they neither</l>
-               <l facs="#facs__eSc_line_9977c1d5">hsy</l>
-               <l facs="#facs__eSc_line_7d9e2fc6">priase nor blame, Ne must compare it vith pur von sielnce</l>
-               <l facs="#facs__eSc_line_aadd15b1">at the Russian ballet, or at the cima, in their early days.</l>
-               <l facs="#facs__eSc_line_f8e89e2a">A nev art comes upon us so surpinsgly that ve sit</l>
-               <l facs="#facs__eSc_line_460b0dfc"/>
-               <l facs="#facs__eSc_line_7fac8738"/>
-               <l facs="#facs__eSc_line_af2c0ff2">silent, recognising what ve cannot measure. </l>
-               <l facs="#facs__eSc_line_0acc7e15"/>
-               <l facs="#facs__eSc_line_1209a326">To the Elizabethans the expressive power of vords</l>
-               <l facs="#facs__eSc_line_221d14c2">after their long inadequacy ust have been ove nhelming.</l>
-               <l facs="#facs__eSc_line_868d5e28">There at the Glove or at the Rose men and vomen whose only</l>
-               <l facs="#facs__eSc_line_f19c3bf8">reading had been the Bible or some old chonicle came out</l>
+               <l facs="#facs__eSc_line_7d9e2fc6"><choice>
+                  <sic>priase</sic>
+                  <corr>praise</corr>
+                </choice> nor blame. We must compare it with our 
+                <choice>
+                  <sic>won</sic>
+                  <corr>own</corr>
+                </choice> 
+                <choice>
+                  <sic>sielnce</sic>
+                  <corr>silence</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_aadd15b1">at the <rs type="literary-work" xml:id="lit-balle" key="Ballet Russes">Russian ballet</rs> or the <rs type="literary-work" xml:id="lit-cine" key="Cinema">
+                <choice>
+                  <sic>cima</sic>
+                  <corr>cinema</corr>
+                </choice>, in their early days.</rs></l>
+               <l facs="#facs__eSc_line_f8e89e2a">A new art comes upon us so <choice>
+                  <sic>surpinsgly</sic>
+                  <corr>surprisingly</corr>
+                </choice> that we sit</l>
+               <l facs="#facs__eSc_line_af2c0ff2">silent, recognising what we cannot measure. </l>
+               <l facs="#facs__eSc_line_460b0dfc"><add>But the Et had</add></l>
+               <l facs="#facs__eSc_line_7fac8738"><add>no measure</add></l>
+               <l facs="#facs__eSc_line_0acc7e15"><add>behind them</add></l>
+               <l facs="#facs__eSc_line_1209a326">To the Elizabethans the expressive power of words</l>
+               <l facs="#facs__eSc_line_221d14c2">after their long inadequacy 
+                <choice>
+                  <sic>ust</sic>
+                  <corr>must</corr>
+                </choice> have been overwhelming.</l>
+               <l facs="#facs__eSc_line_868d5e28">There at the <rs type="place" xml:id="pla-glob" key="Globe, The">
+                <choice>
+                  <sic>Glove</sic>
+                  <corr>Globe</corr>
+                </choice></rs> or at the <rs type="place" xml:id="pla-rose" key="Rose, The">Rose</rs> men and women whose only</l>
+               <l facs="#facs__eSc_line_f19c3bf8">reading had been the Bible or some old 
+                <choice>
+                  <sic>chonicle</sic>
+                  <corr>chronicle</corr>
+                </choice> came out</l>
                <l facs="#facs__eSc_line_6212aac2">into the light of the present moment. They saw themselves</l>
-               <l facs="#facs__eSc_line_2e195e0e">splendidly dressed. They heard themslves saying out loud</l>
+               <l facs="#facs__eSc_line_2e195e0e">splendidly dressed. They heard 
+                <choice>
+                  <sic>themslves</sic>
+                  <corr>themselves</corr>
+                </choice> saying out loud</l>
                <l facs="#facs__eSc_line_84e4a23a">what they had never said yet. They heard their aspirations,</l>
-               <l facs="#facs__eSc_line_81425b3b">their profanities, their ribaldires spoken out loud by human</l>
+               <l facs="#facs__eSc_line_81425b3b">their profanities, their 
+                <choice>
+                  <sic>ribaldires</sic>
+                  <corr>ribaldries</corr>
+                </choice> spoken out loud by human</l>
                <l facs="#facs__eSc_line_89f44dbc">voices in poetry.</l>
-               <l facs="#facs__eSc_line_fc9190d5">The play then oves its hyperbole to the audience in the</l>
-               <l facs="#facs__eSc_line_7e8cbf6a">penny seats. At their command it is vio;ent; it iapamkm</l>
-               <l facs="#facs__eSc_line_f83b7878">it is coarse; it is poetrx mutnamt~ a parody, of actual</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_fc9190d5">The play then owes its hyperbole to the audience in the</l>
+               <l facs="#facs__eSc_line_7e8cbf6a">penny seats. At their command it is 
+                <choice>
+                  <sic>vio;ent</sic>
+                  <corr>violent</corr>
+                </choice>; it <del>is poetry;</del></l>
+               <l facs="#facs__eSc_line_f83b7878">it is coarse; it is <del>poetry</del> <del>without</del> a parody, of actual</l>
                <l facs="#facs__eSc_line_ef517181">facts. like our own detective stories and best sellers</l>
-               <l facs="#facs__eSc_line_7f799761">a paody a trasnformation of actual fact. But in the seats</l>
-               <l facs="#facs__eSc_line_a5e93de8">in the covered part of the house, there vere nobles, rulers,</l>
-               <l facs="#facs__eSc_line_e1bc5557">scholars. Mheir silenc is harder to explain.For they "ere</l>
-               <l facs="#facs__eSc_line_155a302c">redares; they had the Latins and the "reeks at the back</l>
+               <l facs="#facs__eSc_line_7f799761">a 
+                <choice>
+                  <sic>paody</sic>
+                  <corr>parody</corr>
+                </choice> a 
+                <choice>
+                  <sic>trasnformation</sic>
+                  <corr>transformation</corr>
+                </choice> of actual fact. But in the seats</l>
+               <l facs="#facs__eSc_line_a5e93de8">in the covered part of the house, there were nobles, rulers,</l>
+               <l facs="#facs__eSc_line_e1bc5557">scholars. Their 
+                <choice>
+                  <sic>silenc</sic>
+                  <corr>silence</corr>
+                </choice> is harder to explain. For they were</l>
+               <l facs="#facs__eSc_line_155a302c"><choice>
+                  <sic>redares</sic>
+                  <corr>readers</corr>
+                </choice>; they had the Latins and the Greeks at the back</l>
                <l facs="#facs__eSc_line_f0275521">of their minds. How could it have been that the trained</l>
-               <l facs="#facs__eSc_line_c615e652">leJ laq</l>
-               <l facs="#facs__eSc_line_7a7fe2fe">Aw h</l>
-               <l facs="#facs__eSc_line_ced2e960">taste of such speactoars received the extraordinary</l>
-               <l facs="#facs__eSc_line_6553cab1">241cleben,</l>
-               <l facs="#facs__eSc_line_0f531d5f">a6t</l>
-               <l facs="#facs__eSc_line_1dba15b9">illunination of these English plays with no more comment</l>
-               <l facs="#facs__eSc_line_1d12a28d">~una, tq</l>
-               <l facs="#facs__eSc_line_7e0d4387">4, teeue, E h fl letvz laehuw L A hew hru5 A~</l>
-               <l facs="#facs__eSc_line_4795f828">ea Le4-.</l>
+               <l facs="#facs__eSc_line_ced2e960">taste of such 
+                <choice>
+                  <sic>speactoars</sic>
+                  <corr>spectators</corr>
+                </choice> received the extraordinary</l>
+               <l facs="#facs__eSc_line_1dba15b9">illumination of these English plays with no more comment</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_c615e652">said nothing</l>
+               <l facs="#facs__eSc_line_7a7fe2fe">about the</l>
+               <l facs="#facs__eSc_line_6553cab1">revelation,</l>
+               <l facs="#facs__eSc_line_0f531d5f">was not</l>
+               <l facs="#facs__eSc_line_1d12a28d">outraged, by</l>
+               <l facs="#facs__eSc_line_4795f828">or excited</l>
+               <l facs="#facs__eSc_line_7e0d4387">as seems to be the <del>common</del> reader to a new work of fancy</l>
+              </p>
             </ab></div>
       </body>
    </text>
