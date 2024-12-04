@@ -13,15 +13,11 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="2758" lry="3500" xml:id="facs_">
          <graphic url="m45-4.tif" width="2758px" height="3500px"/>
-         <zone points="1361,1174 1427,1174 1443,1203 1353,1219 1338,1190 1361,1174" rendition="TextRegion" xml:id="facs__eSc_textblock_badd04c9" subtype="text">
-            <zone points="1421,1201 1402,1174 1382,1174 1363,1174 1363,1203 1363,1236 1423,1244 1425,1203 1425,1201 1421,1201" rendition="Line" xml:id="facs__eSc_line_40eeaf2c" subtype="default"/>
-         </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
-            <ab facs="#facs__eSc_textblock_badd04c9">
-               <l facs="#facs__eSc_line_40eeaf2c"/>
+            <ab>
             </ab></div>
       </body>
    </text>

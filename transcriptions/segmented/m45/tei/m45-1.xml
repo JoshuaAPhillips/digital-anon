@@ -13,23 +13,13 @@
    <facsimile>
       <surface ulx="0" uly="0" lrx="2766" lry="3500" xml:id="facs_">
          <graphic url="m45-1.tif" width="2766px" height="3500px"/>
-         <zone points="1046,886 1227,956 1266,1003 1258,1055 995,1063 980,956 1046,886" rendition="TextRegion" xml:id="facs__eSc_textblock_1dbffd73" subtype="text">
             <zone points="977,982 977,1015 971,1076 1079,1082 1082,1082 1085,1082 1094,1079 1126,1064 1222,1079 1228,1029 1228,977 1149,974 1146,971 1085,915 1082,915 1079,915 1029,912 1027,912 1024,912 1021,912 1021,915 1003,930 977,982" rendition="Line" xml:id="facs__eSc_line_e7b8b647" subtype="default"/>
-         </zone>
-         <zone points="157,435 161,435 161,449 155,449 157,435" rendition="TextRegion" xml:id="facs__eSc_textblock_7e004971" subtype="text">
-         </zone>
-         <zone points="2382,1991 2446,2014 2454,2160 2332,2152 2324,2030 2382,1991" rendition="TextRegion" xml:id="facs__eSc_textblock_8f37aacf" subtype="text">
-         </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
-            <ab facs="#facs__eSc_textblock_1dbffd73">
+            <ab>
                <l facs="#facs__eSc_line_e7b8b647">Anon</l>
-            </ab>
-            <ab facs="#facs__eSc_textblock_7e004971">
-            </ab>
-            <ab facs="#facs__eSc_textblock_8f37aacf">
             </ab></div>
       </body>
    </text>
