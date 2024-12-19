@@ -39,25 +39,56 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_d761bdab">3</l>
-               <l facs="#facs__eSc_line_6772bdaf">There is a jolt at the poi nts. Lovely as the vords are,</l>
+              <p>
+               <l facs="#facs__eSc_line_d761bdab">23</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_6772bdaf">There is a jolt at the points. Lovely as the words are,</l>
                <l facs="#facs__eSc_line_9d64799a">the mind slides on to a another rail. To speak them the poet</l>
-               <l facs="#facs__eSc_line_ffe5ff10">has separated t himself from the actirs. Ee cannot yet mace</l>
-               <l facs="#facs__eSc_line_b9face35">Tamburlaine spealt those words vith his own lips. The play</l>
-               <l facs="#facs__eSc_line_ca7a30ea">is still in part the vork of the undiffrenetiated audience,</l>
+               <l facs="#facs__eSc_line_ffe5ff10">has separated t himself from the <choice>
+                  <sic>actirs</sic>
+                  <corr>actors</corr>
+                </choice>. He cannot yet make</l>
+               <l facs="#facs__eSc_line_b9face35"><rs type="literary-work" xml:id="lit-tamb" key="Tamburlaine">Tamburlaine</rs> speak those words with his own lips. The play</l>
+               <l facs="#facs__eSc_line_ca7a30ea">is still in part the work of the 
+                <choice>
+                  <sic>undiffrenetiated</sic>
+                  <corr>undifferentiated</corr>
+                </choice> audience,</l>
                <l facs="#facs__eSc_line_9f5df1f9">demanding great names, great deeds, simple outlines,</l>
                <l facs="#facs__eSc_line_c71a6193">and not the single subtlety of one soul.</l>
-               <l facs="#facs__eSc_line_2bbf99b5">The audience is silent. Iîxmmingmimxhamknattkem</l>
-               <l facs="#facs__eSc_line_e433c977">mnftinsxtagmnkmxtma imxxekammxmxanx Lord Southampton</l>
-               <l facs="#facs__eSc_line_ccd9bd19">and Lord Rutland, as Rowland V ite vrote to Sir Robert</l>
-               <l facs="#facs__eSc_line_1f5689b1">Sidney, " pass avay their time in London, merely in going to</l>
-               <l facs="#facs__eSc_line_5ad0437e">plays every day " But the attraction, strong as it vas,</l>
-               <l facs="#facs__eSc_line_69375713">that drew them to the Tanside, roused no comment. A young</l>
-               <l facs="#facs__eSc_line_ed2b7528">poet dedictes his sonnets to Mr V H. and not one of those</l>
-               <l facs="#facs__eSc_line_d31fb1f6">highly educated nobles troubles to ask Vho is this patron?</l>
-               <l facs="#facs__eSc_line_7224456d">It is not a matter of i nterest i court circles.</l>
-               <l facs="#facs__eSc_line_16c013c8">If ve try to look at the audience off the stage</l>
-               <l facs="#facs__eSc_line_1463a2b5">in their private lives ve see only wisps, passing phantoms.</l>
+              </p>
+               <l facs="#facs__eSc_line_2bbf99b5">The audience is silent. <del>If we try to look at them</del></l>
+               <l facs="#facs__eSc_line_e433c977"><del>in their [real?] person</del> <add place="inline">[</add><rs type="person" xml:id="psn-hwri" key="Wriothesley, Henry">Lord Southampton</rs></l>
+               <l facs="#facs__eSc_line_ccd9bd19">and <rs type="person" xml:id="psn-fmann" key="Manners, Francis">Lord Rutland</rs>, as <rs type="person" xml:id="psn-rwhy" key="Whyte, Roland">Roland 
+                <choice>
+                  <sic>W ite</sic>
+                  <corr>Whyte</corr>
+                </choice></rs>wrote to <rs type="person" xml:id="psn-rsid" key="Sidney, Robert">Sir Robert</rs></l>
+               <l facs="#facs__eSc_line_1f5689b1"><rs type="person" xml:id="psn-rsid">Sidney</rs> <quote source="#" rend="inline">"pass away their time in London, merely in going to</quote></l>
+               <l facs="#facs__eSc_line_5ad0437e"><quote source="#" rend="inline">plays every day"</quote> But the attraction, strong as it was,</l>
+               <l facs="#facs__eSc_line_69375713">that drew them to the <rs type="place" xml:id="pla-bank" key="Bankside">
+                <choice>
+                  <sic>Banside</sic>
+                  <corr>Bankside</corr>
+                </choice></rs>, roused no comment. A <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">young</rs></l>
+               <l facs="#facs__eSc_line_ed2b7528"><rs type="person" xml:id="psn-wsha">poet</rs> 
+                <choice>
+                  <sic>dedictes</sic>
+                  <corr>dedicates</corr>
+                </choice>his sonnets to <rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W H.</rs> and not one of those</l>
+               <l facs="#facs__eSc_line_d31fb1f6">highly educated nobles troubles to ask Who is this patron?</l>
+               <l facs="#facs__eSc_line_7224456d">It is not a matter of 
+                <choice>
+                  <sic>i nterest</sic>
+                  <corr>interest</corr>
+                </choice> 
+                <choice> 
+                  <sic>i</sic>
+                  <corr>in</corr>
+                </choice> court circles.<add place="inline">]</add></l>
+               <l facs="#facs__eSc_line_16c013c8">If we try to look at the audience off the stage</l>
+               <l facs="#facs__eSc_line_1463a2b5">in their private lives we see only wisps, passing phantoms.</l>
             </ab></div>
       </body>
    </text>

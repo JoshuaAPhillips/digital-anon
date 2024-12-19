@@ -14,14 +14,12 @@
       <surface ulx="0" uly="0" lrx="2779" lry="3500" xml:id="facs_">
          <graphic url="m108-6.tif" width="2779px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="1285,1471 1266,1471 1266,1495 1264,1518 1285,1526 1291,1497 1291,1471 1285,1471" rendition="Line" xml:id="facs__eSc_line_95b1f29e" subtype="default"/>
          </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_95b1f29e"/>
             </ab></div>
       </body>
    </text>

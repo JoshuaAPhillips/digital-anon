@@ -124,10 +124,11 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m108/m108-3/760,256,1908,3100/full/0/default.tif">
           <l>If we try to look at them, off the stage, in their real</l>
           <l>persons <add hand="ms" place="above">private lives</add>, we see only wisps; passing phantoms. There are the</l>
-          <l>Fytton sisters, daughters of <rs type="person" xml:id="psn-efyt" key="Fytton, Edward">Sir Edward Fytton</rs>, knight of <rs type="place" xml:id="pla-gaws" key="Gawsworth">Gawsworth</rs> in <rs type="place" xml:id="pla-ches" key="Cheshire">Cheshire</rs>. <rs type="person" xml:id="psn-mfyt" key="Fytton, Mary">Mary</rs>, the younger,</l>
+          <l>Fytton sisters, daughters of <rs type="person" xml:id="psn-efyt" key="Fytton, Edward">Sir Edward Fytton</rs>, knight of</l>
+          <l><rs type="place" xml:id="pla-gaws" key="Gawsworth">Gawsworth</rs> in <rs type="place" xml:id="pla-ches" key="Cheshire">Cheshire</rs>. <rs type="person" xml:id="psn-mfyt" key="Fytton, Mary">Mary</rs>, the younger,</l>
           <l>became one of <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Elizabeths</rs> Maids of Honour. She goes</l>
-          <l>from her country hometo the great world. <rs type="person" xml:id="psn-wkno" key="Knollys, William">Sir William Knollys</rs>,</l>
-          <l>xmxmxmmxmx a person of great consequence there, promised her</l>
+          <l>from her country home to the great world. <rs type="person" xml:id="psn-wkno" key="Knollys, William">Sir William Knollys</rs>,</l>
+          <l><del>already</del> a person of great consequence there, promised her</l>
           <l>father that he will not fail <quote source="#" rend="inline">to fulfil your desire in 
             <choice>
               <sic>playig</sic>
@@ -187,7 +188,7 @@
           <l><quote>dwelt at the <rs type="place" ref="../resources/annotations.xml/pla-chop" key="Chopping Knife">Chopping Knife near Ludgate"</rs></quote></l>
           <l>gossips that the Maid of Honour has dressed up <add hand="typewriter" place="above">as a man</add></l>
           <l>in a <add hand="typewriter" place="above">large</add> great white cloak and gone to meet her lover Lord</l>
-          <l><rs type="person" xml:id="psn-wpem" key="Pembroke, William">Pembroke</rs> privately. Silence again descends. Then</l>
+          <l><rs type="person" xml:id="psn-wpem" key="Pembroke, William">Pembroke</rs> privately. Silence again descends. Then <add>the lord</add></l>
           <l>Mary has borne him a bastard, whom he refuses to acknowledge.</l>
           <l>And her father conveys her home. 
             <choice>
@@ -242,7 +243,10 @@
           <l><quote source="#" rend="inline">and conjunction"</quote> has recourse to poetry. He quotes <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs></l>
           <l>to help him out. It is the poets still who speak for the</l>
           <l>squires. They have no serviceable language Yet behind</l>
-          <l>these florid decorations the wolves of the court prye</l>
+          <l>these florid decorations the wolves of the court <choice>
+            <sic>prye</sic>
+            <corr>prey</corr>
+          </choice></l>
           <l>prey and raven. 
             <choice>
               <sic>astards</sic>
@@ -256,7 +260,8 @@
               <sic>ru ned</sic>
               <corr>ruined</corr>
             </choice>.</l>
-          <l>Only the auxmxmxmxmxmx people 
+          <l><add>There is something gross behind the flower</add></l>
+          <l>Only the <del>audience</del> people 
             <choice>
               <sic>themslves</sic>
               <corr>themselves</corr>
@@ -304,6 +309,10 @@
               <sic>gr ater</sic>
               <corr>greater</corr>
             </choice> part were apprentices, citizens</l>
+          <l>soldiers, the common people seeking <choice>
+            <sic>r lief</sic>
+            <corr>relief</corr>
+          </choice> from the</l>
           <l>
             <choice>
               <sic>oredom</sic>

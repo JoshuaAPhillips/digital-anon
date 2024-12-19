@@ -42,7 +42,6 @@
             <zone points="2685,1799 2658,1805 2629,1811 2600,1820 2571,1825 2545,1831 2553,1863 2568,1919 2693,1901 2696,1901 2699,1901 2737,1872 2723,1817 2702,1773 2685,1799" rendition="Line" xml:id="facs__eSc_line_3c7f40e0"/>
             <zone points="2693,1825 2664,1834 2638,1840 2609,1849 2580,1857 2553,1863 2562,1898 2568,1925 2629,1925 2629,1922 2632,1922 2720,1884 2717,1860 2702,1822 2693,1825" rendition="Line" xml:id="facs__eSc_line_841d7687"/>
             <zone points="957,1932 955,1946 992,1960 994,1960 996,1960 1223,1950 1334,1961 1336,1961 1470,1954 1772,1963 1774,1963 1776,1963 1803,1954 2126,1965 2128,1965 2130,1965 2161,1956 2231,1967 2233,1967 2402,1958 2517,1967 2519,1967 2521,1967 2545,1956 2546,1942 2545,1907 2227,1893 2225,1893 2223,1893 2183,1903 2181,1903 2177,1903 1908,1891 1906,1891 1813,1901 1809,1901 1807,1901 1774,1891 1772,1891 1770,1891 1657,1901 1640,1901 1504,1901 1502,1899 1488,1890 1486,1890 1484,1890 1482,1890 1408,1899 1400,1899 1373,1899 1101,1888 1099,1888 957,1895 957,1932" rendition="Line" xml:id="facs__eSc_line_f4ad55a7" subtype="default"/>
-            <zone points="2588,1936 2591,2053 2679,2053 2679,1933 2670,1892 2585,1898 2588,1936" rendition="Line" xml:id="facs__eSc_line_ada3ff7d"/>
             <zone points="2670,1936 2641,1936 2629,1936 2582,1939 2588,1980 2591,2006 2693,1986 2693,1965 2682,1930 2670,1930 2670,1936" rendition="Line" xml:id="facs__eSc_line_f1fe3bd8"/>
             <zone points="951,2041 949,2055 968,2065 970,2065 972,2065 1823,2061 1873,2070 1875,2070 2097,2063 2122,2072 2124,2072 2126,2072 2416,2063 2418,2051 2416,2004 2126,2014 2044,2004 2031,2002 2029,2002 2021,2004 1978,2012 1747,2012 1735,2004 1731,2000 1729,2000 1727,2000 1725,2000 1694,2004 1632,2010 1505,2004 1410,1998 1408,1998 1406,1998 1385,2004 1363,2010 1247,2010 1231,2004 1212,1996 1210,1996 1208,1996 951,2002 951,2041" rendition="Line" xml:id="facs__eSc_line_52188f09" subtype="default"/>
             <zone points="2676,1968 2647,1974 2617,1977 2588,1980 2582,1965 2553,1965 2571,2024 2582,2065 2623,2047 2647,2047 2693,2047 2693,2044 2696,2044 2699,2044 2734,2015 2725,1980 2705,1933 2676,1945 2676,1968" rendition="Line" xml:id="facs__eSc_line_a0f990e5"/>
@@ -62,48 +61,122 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_ca82d98b">29</l>
-               <l facs="#facs__eSc_line_83ce22fa">But her passion, her disgrace, her humiltaion are all acted</l>
-               <l facs="#facs__eSc_line_af64181f">i in dumb shov. They are hidd n either by silence, or by</l>
-               <l facs="#facs__eSc_line_0547380f">fiourishes and ornaments that amont to silence.</l>
+              <p>
+               <l facs="#facs__eSc_line_ca82d98b">25</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_83ce22fa">But her passion, her disgrace, her 
+                <choice>
+                  <sic>humiltaion</sic>
+                  <corr>humiliation</corr>
+                </choice> are all acted</l>
+               <l facs="#facs__eSc_line_af64181f">i in dumb show. They are 
+                <choice>
+                  <sic>hidd n</sic>
+                  <corr>hidden</corr>
+                </choice> either by silence, or by</l>
+               <l facs="#facs__eSc_line_0547380f">flourishes and ornaments that 
+                <choice>
+                  <sic>amont</sic>
+                  <corr>amount</corr>
+                </choice> to silence.</l>
                <l facs="#facs__eSc_line_294fb51d">Even a plain country squire once he takes pen in hand</l>
-               <l facs="#facs__eSc_line_34e96018">has recource to poetry. Mr Beaumont, after trying to ex-</l>
-               <l facs="#facs__eSc_line_d57f944a">plain "My conceit of this triple love, of affcetion passion</l>
-               <l facs="#facs__eSc_line_4b29fc23">and conjunction" has recourse to poetry. -e quotes Spenser</l>
+               <l facs="#facs__eSc_line_34e96018">has 
+                <choice>
+                  <sic>recource</sic>
+                  <corr>recourse</corr>
+                </choice> to poetry. <rs type="person" xml:id="psn-fbea" key="Beaumont, Francis">Mr Beaumont</rs>, after trying to ex-</l>
+               <l facs="#facs__eSc_line_d57f944a">plain <quote source="#" rend="inline">"My conceit of this tripple love, of 
+                <choice>
+                  <sic>affcetion</sic>
+                  <corr>affection</corr>
+                </choice> passion</quote></l>
+               <l facs="#facs__eSc_line_4b29fc23"><quote source="#" rend="inline">and conjunction"</quote> has recourse to poetry. He quotes <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs></l>
                <l facs="#facs__eSc_line_d266da94">to help him out. It is the poets still who speak for the</l>
                <l facs="#facs__eSc_line_9d390058">squires. They have no serviceable language Yet behind</l>
-               <l facs="#facs__eSc_line_0c9c7da5">these florid decorations the volves of the court prye</l>
-               <l facs="#facs__eSc_line_6ec1f9a8">prey and raven.  astards are born. "eputations are ru ned.</l>
-               <l facs="#facs__eSc_line_7931a7f3">Muov " llusta (un αl h stnms:</l>
-               <l facs="#facs__eSc_line_41999a07">Only the audazmaaxntx people themslves pass unseen.</l>
+               <l facs="#facs__eSc_line_0c9c7da5">these florid decorations the volves of the court <choice>
+                  <sic>prye</sic>
+                  <corr>prey</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_6ec1f9a8">prey and raven. 
+                <choice>
+                  <sic>astards</sic>
+                  <corr>Bastards</corr>
+                </choice> are born. 
+                <choice>
+                  <sic>eputations</sic>
+                  <corr>reputations</corr>
+                </choice> are 
+                <choice>
+                  <sic>ru ned</sic>
+                  <corr>ruined</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_7931a7f3"><add>There is something gross behind the flower</add></l>
+               <l facs="#facs__eSc_line_41999a07">Only the <del>audience</del> people 
+                <choice>
+                  <sic>themslves</sic>
+                  <corr>themselves</corr>
+                </choice> pass unseen.</l>
                <l facs="#facs__eSc_line_da4d5f8a">They too 1ike the dramatists remain anonymous.</l>
-               <l facs="#facs__eSc_line_2475b66c"/>
-               <l facs="#facs__eSc_line_84d5c055"/>
-               <l facs="#facs__eSc_line_7b2c32e2"/>
-               <l facs="#facs__eSc_line_debe6042"/>
+            </p>
+               <l facs="#facs__eSc_line_2475b66c">there is an</l>
+               <l facs="#facs__eSc_line_84d5c055">[enormous?] [reserve?]</l>
+               <l facs="#facs__eSc_line_7b2c32e2">of expressed</l>
+               <l facs="#facs__eSc_line_debe6042">emotion</l>
+               <l facs="#facs__eSc_line_ae532250">yet no</l>
+               <l facs="#facs__eSc_line_61259ae3">[primitive?]</l>
+               <l facs="#facs__eSc_line_52abf5a3">[with?]</l>
+               <l facs="#facs__eSc_line_7ae189b3">it is the</l>
+               <l facs="#facs__eSc_line_3c7f40e0">[chief?]</l>
+               <l facs="#facs__eSc_line_841d7687">too</l>
+               <l facs="#facs__eSc_line_f1fe3bd8">new</l>
+               <l facs="#facs__eSc_line_a0f990e5">learning</l>
+              <p>
                <l facs="#facs__eSc_line_8d3c2e2a">And the play itself vas still anonymous.</l>
-               <l facs="#facs__eSc_line_ae532250"/>
-               <l facs="#facs__eSc_line_61259ae3"/>
-               <l facs="#facs__eSc_line_52abf5a3"/>
-               <l facs="#facs__eSc_line_014593d8">The lack of Marlowes name, or of Xyds, shows hou largely</l>
-               <l facs="#facs__eSc_line_7ae189b3"/>
-               <l facs="#facs__eSc_line_3c7f40e0"/>
-               <l facs="#facs__eSc_line_841d7687"/>
-               <l facs="#facs__eSc_line_f4ad55a7">the play vas a common product, vritten by o e hand, but so</l>
-               <l facs="#facs__eSc_line_ada3ff7d"/>
-               <l facs="#facs__eSc_line_f1fe3bd8"/>
-               <l facs="#facs__eSc_line_52188f09">moulded in transition that the author had no snese od</l>
-               <l facs="#facs__eSc_line_a0f990e5"/>
-               <l facs="#facs__eSc_line_24ed108d">property in it. It vas in part the vork of the audience.</l>
-               <l facs="#facs__eSc_line_a5e9b395">And the audience va s a large one. Fifteen mundred</l>
-               <l facs="#facs__eSc_line_0bc6ea34">people, Dr Greg computes was an average attendance,</l>
-               <l facs="#facs__eSc_line_38dc2e58">Of these the gr ater part vere apprentices, citizens ,</l>
-               <l facs="#facs__eSc_line_c86f4d49">soldiers, the common people seeking r lief from the</l>
-               <l facs="#facs__eSc_line_76148771">oredom of the afternoon. Their presence is obvious enough</l>
-               <l facs="#facs__eSc_line_7a927a5f">in the early plays. It is they vho drw up the extravagance</l>
-               <l facs="#facs__eSc_line_d70881c4">the hyperbole, as a sheet of paper dravs yp the fire.</l>
+               <l facs="#facs__eSc_line_014593d8">The lack of <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">Marlowes</rs> name, or <rs type="person" xml:id="psn-tkyd" key="Kyd, Thomas">Kyds</rs>, shows how largely</l>
+               <l facs="#facs__eSc_line_f4ad55a7">the play was a common product, written by 
+                <choice>
+                  <sic>o e</sic>
+                  <corr>one</corr>
+                </choice> hand, but so</l>
+               <l facs="#facs__eSc_line_52188f09">moulded in transition that the author had no 
+                <choice>
+                  <sic>snese</sic>
+                  <corr>sense</corr>
+                </choice> 
+                <choice>
+                  <sic>od</sic>
+                  <corr>of</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_24ed108d">property in it. It vas in part the work of the audience.</l>
+               <l facs="#facs__eSc_line_a5e9b395">And the audience was a large one. Fifteen hundred</l>
+               <l facs="#facs__eSc_line_0bc6ea34">people, <rs type="person" xml:id="psn-greg" key="Greg, W. W.">Dr Greg</rs> computes was an average audience,</l>
+               <l facs="#facs__eSc_line_38dc2e58">Of these the 
+                <choice>
+                  <sic>gr ater</sic>
+                  <corr>greater</corr>
+                </choice> part were apprentices, citizens</l>
+               <l facs="#facs__eSc_line_c86f4d49">soldiers, the common people seeking <choice>
+                  <sic>r lief</sic>
+                  <corr>relief</corr>
+                </choice> from the</l>
+               <l facs="#facs__eSc_line_76148771"><choice>
+                  <sic>oredom</sic>
+                  <corr>boredom</corr>
+                </choice> of the afternoon. Their presence is obvious enough</l>
+               <l facs="#facs__eSc_line_7a927a5f">in the early plays. It is they who 
+                <choice>
+                  <sic>drw</sic>
+                  <corr>draw</corr>
+                </choice> up the extravagance</l>
+               <l facs="#facs__eSc_line_d70881c4">the hyperbole, as a sheet of paper draws 
+                <choice>
+                  <sic>yp</sic>
+                  <corr>up</corr>
+                </choice> the fire.</l>
                <l facs="#facs__eSc_line_df03b3a1">It vas they vho made the playwright capable of his great</l>
                <l facs="#facs__eSc_line_0283dc60">strides, of vast audacities beyond the reach of the solitary</l>
+              </p>
             </ab></div>
       </body>
    </text>
