@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p, fol. 5v.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m108</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p. Paginated 23-28, with an unpaginated page at end.</p>
+            <p>These and successive folders of [The Reader] were contained in two multigrip folders, headed by Virginia Woolf: "Turning the page"; "Transformations" and "Spare sheets of T.P." labels on the spines. They are filed under her Anon, holograph and typescript fragments.</p>
+            <p>The fragments grouped in the successive folders under [The reader] may or may not have formed part of Anon. They have been grouped in this fashion based on the evidence of paper and typewriters. The pagination 23-28 is the lowest in the sequence. Internal evidence would indicate that manuscript drafts preceded that of Anon, since Articles, 1938-9 notebook contains a fragment. Some of the versos of this run of material contains fragments of typescripts of Between the Acts and other contemporary works.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2780" lry="3500" xml:id="facs_">
          <graphic url="m108-10.tif" width="2780px" height="3500px"/>
@@ -32,7 +74,6 @@
             <zone points="933,1213 933,1230 2451,1230 2453,1213 2451,1180 2095,1168 2093,1168 2091,1168 2089,1168 2077,1176 2075,1178 2071,1176 2052,1168 2050,1168 2048,1168 1853,1174 1727,1178 1651,1172 1585,1168 1583,1168 1560,1172 1529,1178 1494,1172 1472,1168 1470,1168 1422,1170 1320,1178 1256,1170 1239,1168 1237,1168 1208,1170 1073,1178 933,1168 933,1213" rendition="Line" xml:id="facs__eSc_line_79349ec1" subtype="default"/>
             <zone points="2573,1287 933,1281 933,1324 933,1347 1437,1339 1476,1349 1478,1349 1480,1349 1484,1349 1548,1339 1717,1349 1719,1349 1721,1349 1723,1349 1725,1349 1741,1339 1805,1349 1807,1349 1881,1341 1896,1351 1898,1351 1900,1351 1902,1353 2048,1353 2048,1351 2050,1351 2052,1351 2067,1341 2157,1351 2167,1351 2169,1351 2200,1351 2525,1341 2575,1351 2579,1328 2577,1296 2573,1287" rendition="Line" xml:id="facs__eSc_line_9a7dce9a" subtype="default"/>
             <zone points="935,1429 933,1450 1073,1460 1075,1460 1077,1460 1095,1450 1103,1448 1114,1450 1149,1460 1151,1460 1153,1460 1225,1450 1239,1450 1245,1450 1282,1462 1283,1462 1285,1462 1287,1462 1289,1462 1299,1452 1309,1460 1309,1462 1311,1462 1313,1462 1315,1464 1464,1464 1464,1462 1564,1450 1579,1450 1583,1450 1608,1464 1610,1464 1612,1464 1904,1450 1906,1435 1902,1390 1855,1400 1813,1390 1809,1390 1807,1390 1780,1390 1515,1398 1505,1392 1501,1388 1499,1388 1497,1388 1496,1388 1392,1392 1260,1398 1237,1394 1206,1386 1204,1386 1202,1386 1200,1386 1188,1394 1184,1396 1165,1394 1110,1386 1108,1386 935,1394 935,1429" rendition="Line" xml:id="facs__eSc_line_b5399337" subtype="default"/>
-            <zone points="1190,1324 1161,1324 1158,1365 1155,1382 1242,1397 1248,1376 1251,1330 1190,1324 1190,1324" rendition="Line" xml:id="facs__eSc_line_1f8f2a1e"/>
             <zone points="1262,1541 1260,1559 1272,1569 1274,1569 1276,1569 1278,1571 1492,1571 1492,1569 1552,1557 1616,1569 1618,1569 1838,1559 1931,1571 1933,1571 1935,1571 1937,1571 1937,1569 1947,1561 1960,1571 1962,1571 1964,1571 1966,1571 2060,1563 2085,1573 2087,1573 2089,1573 2091,1573 2118,1561 2186,1573 2188,1573 2190,1573 2192,1573 2206,1561 2342,1561 2355,1573 2357,1573 2359,1573 2361,1573 2476,1559 2478,1547 2476,1514 2396,1503 2394,1503 2392,1503 2363,1512 2361,1512 2353,1512 2235,1503 2233,1503 2186,1510 2176,1512 2173,1510 2157,1503 2155,1503 2153,1503 2095,1510 2075,1512 2069,1510 2046,1501 2044,1501 2042,1501 1968,1508 1953,1510 1943,1508 1900,1501 1898,1501 1844,1508 1826,1510 1822,1508 1813,1501 1811,1501 1809,1501 1807,1501 1766,1508 1746,1510 1723,1506 1667,1499 1665,1499 1663,1499 1634,1506 1624,1508 1610,1506 1568,1499 1566,1499 1564,1499 1562,1499 1554,1506 1552,1508 1546,1506 1529,1499 1527,1499 1525,1499 1523,1499 1497,1505 1486,1508 1476,1505 1459,1499 1457,1499 1455,1499 1262,1503 1262,1541" rendition="Line" xml:id="facs__eSc_line_4f44658d" subtype="default"/>
             <zone points="2542,1619 933,1611 933,1650 931,1664 961,1676 962,1676 964,1676 1280,1668 1334,1668 1338,1670 1359,1678 1361,1678 1363,1678 1614,1672 1739,1670 1750,1674 1768,1680 1770,1680 1772,1680 1937,1676 2106,1672 2128,1678 2139,1681 2141,1681 2143,1683 2544,1683 2546,1658 2544,1621 2542,1619" rendition="Line" xml:id="facs__eSc_line_ae45d9ec" subtype="default"/>
             <zone points="1017,1707 1017,1724 1196,1730 1198,1707 1198,1672 1042,1662 1040,1662 1038,1662 1017,1672 1017,1707" rendition="Line" xml:id="facs__eSc_line_82cb41fc" subtype="default"/>
@@ -58,44 +99,98 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_5c285602">28</l>
-               <l facs="#facs__eSc_line_b197a6b2">bed at Deptford reached out and stabbed Ingram in the head;</l>
-               <l facs="#facs__eSc_line_09ffa2ac">Reusa mue ylu Aulvie</l>
-               <l facs="#facs__eSc_line_e30ef8b8">Wheréupon Ingram gave Mar loew a mortal wound over the</l>
-               <l facs="#facs__eSc_line_7311d524">9-6</l>
+              </p>
+               <l facs="#facs__eSc_line_b197a6b2">bed at <rs type="place" xml:id="pla-dept" key="Deptford">Deptford</rs> reached out and stabbed <rs type="person" xml:id="psn-ifriz" key="Frizer, Ingram">Ingram</rs> in the head</l>
+               <l facs="#facs__eSc_line_e30ef8b8">whereupon Ingram gave 
+                <choice>
+                  <sic>Mar loew</sic>
+                  <corr>Marlowe</corr>
+                </choice> a mortal wound over the</l>
                <l facs="#facs__eSc_line_8feeeb16">right eye. Ben Jonson ran abriel Spenser through the body</l>
-               <l facs="#facs__eSc_line_88022514">tre-l- bracuo F.finuel</l>
-               <l facs="#facs__eSc_line_0eafa547">with a smord that cost three and sixpence. If such had been</l>
-               <l facs="#facs__eSc_line_5eae7fb4">the behaviour of Tennyson and Brovning, thammiîxn⬪uax</l>
-               <l facs="#facs__eSc_line_aa833bed">l- lud iluui su. lla sautq n' drstu ree luœ Hhesmet</l>
-               <l facs="#facs__eSc_line_ea21daa5">7e lu ss, n hiuy lt hu isues lt¬ Igums hsd le lAg leu¬</l>
-               <l facs="#facs__eSc_line_c1d1a110">inamxaaxX there vould have been a gulf between them and 4~</l>
-               <l facs="#facs__eSc_line_dec33677">the Court. So com;lete vas -acons contempt for this under</l>
-               <l facs="#facs__eSc_line_50ed4cc9">Norld that he could be tolerant. "The Stage is more behilding</l>
-               <l facs="#facs__eSc_line_eeadb378">to Love than the life of Man.... great spirits and great</l>
-               <l facs="#facs__eSc_line_79349ec1">businesse do keep out of this veak passion." The proper</l>
-               <l facs="#facs__eSc_line_9a7dce9a">place for the veak passion vas the stage, for love "leads to</l>
-               <l facs="#facs__eSc_line_b5399337">speaking in perpetaul hyperbole."</l>
-               <l facs="#facs__eSc_line_1f8f2a1e"/>
-               <l facs="#facs__eSc_line_4f44658d">The proper tepics of discccuion in the pper</l>
-               <l facs="#facs__eSc_line_ae45d9ec">world vas not the Play at t e Bankside but the life of man.</l>
-               <l facs="#facs__eSc_line_82cb41fc">titles</l>
-               <l facs="#facs__eSc_line_a58ed40e">The 2LtilME of the Essays enumaerate ax ~ndse topics.</l>
-               <l facs="#facs__eSc_line_c1d97a3a"/>
+               <l facs="#facs__eSc_line_0eafa547">with a sword that cost three and sixpence. If such had been</l>
+               <l facs="#facs__eSc_line_aa833bed"><add></add>[illeg.] had blood from the body or suffering had [slipped?]</l>
+               <l facs="#facs__eSc_line_5eae7fb4">the behaviour of <rs type="person" xml:id="psn-aten" key="Tennyson, Alfred">Tennyson</rs> and <rs type="person" xml:id="psn-rbro" key="Browning, Robert">Browning</rs>, thammiîxn⬪uax</l>
+               <l facs="#facs__eSc_line_ea21daa5"><add place="above">over the [illeg.] in [dancing?] shown no doubt [illeg.] wd. have kept them at a distance</add></l>
+               <l facs="#facs__eSc_line_c1d1a110"><del>them and</del> there would have been a gulf between them and</l>
+               <l facs="#facs__eSc_line_dec33677">the Court. So 
+                <choice>
+                  <sic>com;lete</sic>
+                  <corr>complete</corr>
+                </choice> was Bacons contempt for this under</l>
+               <l facs="#facs__eSc_line_50ed4cc9">world that he could be tolerant. <quote source="#">"The Stage is more 
+            <choice>
+              <sic>behilding</sic>
+              <corr>beholding</corr>
+            </choice></quote></l>
+               <l facs="#facs__eSc_line_eeadb378"><quote source="#" rend="inline">to Love than the life of Man.... great spirits and great</quote></l>
+               <l facs="#facs__eSc_line_79349ec1"><quote source="#" rend="inline">businesse do keep out of this weak passion."</quote> The proper</l>
+               <l facs="#facs__eSc_line_9a7dce9a">place for the weak passion was the stage, for love <quote source="#" rend="inline">"leads to</quote></l>
+               <l facs="#facs__eSc_line_b5399337"><quote source="#" rend="inline">speaking in <add hand="typewriter" place="above">a</add> 
+            <choice>
+              <sic>perpetaul</sic>
+              <corr>perpetual</corr>
+            </choice> hyperbole."</quote></l>
+              <p>
+                <add>
+                 <l facs="#facs__eSc_line_09ffa2ac"><rs type="person" xml:id="psn-wkem" key="Kempe, William">Kempe</rs>, one of the actors,</l>
+                 <l facs="#facs__eSc_line_7311d524"><del hand="ms">danced to</del></l>
+                 <l facs="#facs__eSc_line_88022514">went dancing to <rs type="place" xml:id="pla-norw" key="Norwich">Norwich</rs>.</l>
+                </add>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_4f44658d">The proper topics of 
+                <choice>
+                  <sic>discccuion</sic>
+                  <corr>discussion</corr>
+                </choice> in the 
+                <choice>
+                  <sic>pper</sic>
+                  <corr>upper</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_ae45d9ec">world was not the Play at 
+                <choice>
+                  <sic>t e</sic>
+                  <corr>the</corr>
+                </choice> Bankside but the life of man.</l>
+               <l facs="#facs__eSc_line_82cb41fc"><add>titles</add></l>
+               <l facs="#facs__eSc_line_c1d97a3a"><add>the whole</add></l>
+               <l facs="#facs__eSc_line_a58ed40e">The <del>titiles</del> of the Essays <choice>
+                  <sic>enumaerate</sic>
+                  <corr>enumerate</corr>
+                </choice> <del>the</del> those topics.</l>
                <l facs="#facs__eSc_line_af1c8d8d">"9f Truth. Of Death. Of Unity in religion. Of Revenge.</l>
-               <l facs="#facs__eSc_line_0d9ef968">Of simulation and Dissumlation. " These vere the subjects</l>
+               <l facs="#facs__eSc_line_0d9ef968">Of Simulation and 
+                <choice>
+                  <sic>Dissumlation</sic>
+                  <corr>Dissimulation</corr>
+                </choice>." These were the subjects</l>
                <l facs="#facs__eSc_line_c80db1b9">that the rulers discussed at their high tables;</l>
-               <l facs="#facs__eSc_line_94bc23ba">and the play vas a diversion vith which to relax the mind</l>
-               <l facs="#facs__eSc_line_b974ada4">after serious vork, The sediment of that conversation is</l>
+               <l facs="#facs__eSc_line_94bc23ba">and the play was a diversion vith which to relax the mind</l>
+               <l facs="#facs__eSc_line_b974ada4">after serious work. The sediment of that conversation is</l>
                <l facs="#facs__eSc_line_ca3e3fd3">to be found in the rich deposits of the essays. He is concern</l>
-               <l facs="#facs__eSc_line_76998c86">ed vith the great vorld of action; vith govermment; vith the</l>
-               <l facs="#facs__eSc_line_0e2b80ab">tortuous natures of Princes; With the arts by which ?rinces</l>
-               <l facs="#facs__eSc_line_6565dec6">can vay, can coax, can suppress. Re lives entirely</l>
+               <l facs="#facs__eSc_line_76998c86">ed with the great world of action; vith govermment; vith the</l>
+               <l facs="#facs__eSc_line_0e2b80ab">tortuous natures of Princes; with the arts by which Princes</l>
+               <l facs="#facs__eSc_line_6565dec6">can <choice>
+                  <sic>way</sic>
+                  <corr>sway</corr>
+                </choice>, can coax, can suppress. He lives entirely</l>
                <l facs="#facs__eSc_line_b58c3a41">in the vorld of great spirits and great business. The common</l>
-               <l facs="#facs__eSc_line_ef84fe37">people is contemptible. "The master of superstition is</l>
-               <l facs="#facs__eSc_line_fe68ad6d">t e people. "Praise, "if it be from the common people,</l>
+               <l facs="#facs__eSc_line_ef84fe37"><choice>
+                  <sic>peopl</sic>
+                  <corr>people</corr>
+                </choice> is contemptible. <quote source="#" rend="inline">The master of superstition is</quote></l>
+               <l facs="#facs__eSc_line_fe68ad6d"><quote source="#" rend="inline">
+                <choice>
+                  <sic>t e</sic>
+                  <corr>the</corr>
+                </choice> people."</quote> Praise, <quote>"if it be from the common people,</quote></l>
+                <quote>
                <l facs="#facs__eSc_line_de2dc485">it is commonly false and naught. The lowest virtues draw</l>
-               <l facs="#facs__eSc_line_245ed9d9">praise from them; the middle virtues vork in them astonish</l>
+               <l facs="#facs__eSc_line_245ed9d9">praise from them; the middle virtues work in them astonish</l>
+                </quote>
+              </p>
             </ab></div>
       </body>
    </text>

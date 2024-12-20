@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p, fol. 4v.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m108</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p. Paginated 23-28, with an unpaginated page at end.</p>
+            <p>These and successive folders of [The Reader] were contained in two multigrip folders, headed by Virginia Woolf: "Turning the page"; "Transformations" and "Spare sheets of T.P." labels on the spines. They are filed under her Anon, holograph and typescript fragments.</p>
+            <p>The fragments grouped in the successive folders under [The reader] may or may not have formed part of Anon. They have been grouped in this fashion based on the evidence of paper and typewriters. The pagination 23-28 is the lowest in the sequence. Internal evidence would indicate that manuscript drafts preceded that of Anon, since Articles, 1938-9 notebook contains a fragment. Some of the versos of this run of material contains fragments of typescripts of Between the Acts and other contemporary works.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2760" lry="3500" xml:id="facs_">
          <graphic url="m108-8.tif" width="2760px" height="3500px"/>
@@ -51,37 +93,96 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_20c9c1e4">y7</l>
-               <l facs="#facs__eSc_line_0e0281d8">The play then oves its intensity to the audience in the</l>
-               <l facs="#facs__eSc_line_57a187e3">Lasd</l>
-               <l facs="#facs__eSc_line_d1aae522">penny seats. At their commandit is violent; it is corase;</l>
-               <l facs="#facs__eSc_line_8b419472">1t is, 1ike our omn detective stories am best sellers</l>
-               <l facs="#facs__eSc_line_3b45561b">Mt het Lat</l>
+              <p>
+               <l facs="#facs__eSc_line_20c9c1e4">27</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_57a187e3"><add hand="ms" place="above">heightened</add></l>
+               <l facs="#facs__eSc_line_0e0281d8">The play then owes its intensity to the audience in the</l>
+               <l facs="#facs__eSc_line_d1aae522">violent; it is 
+                <choice>
+                  <sic>corase</sic>
+                  <corr>coarse</corr>
+                </choice>;</l>
+               <l facs="#facs__eSc_line_8b419472">it is, like our omn detective stories am best sellers</l>
                <l facs="#facs__eSc_line_4b5e130c">a parody and a transformation of actual fact. There was a</l>
-               <l facs="#facs__eSc_line_6d8aebe7">great temptation for the playvright to exaggerate .It</l>
-               <l facs="#facs__eSc_line_f3eff1a9">leca</l>
-               <l facs="#facs__eSc_line_2f97f917">vas the desire of the audience in the penny seats. But in the</l>
-               <l facs="#facs__eSc_line_8af4ea41">seats in the covered part of th house there vere nobles,</l>
+               <l facs="#facs__eSc_line_3b45561b"><add hand="ms" place="above">It must have</add></l>
+               <l facs="#facs__eSc_line_6d8aebe7">great temptation for the playwright to exaggerate. It</l>
+               <l facs="#facs__eSc_line_f3eff1a9"><add>fed</add></l>
+               <l facs="#facs__eSc_line_2f97f917"><del>was</del> the desire of the audience in the penny seats. But in the</l>
+               <l facs="#facs__eSc_line_8af4ea41">seats in the covered part of th house there were nobles,</l>
                <l facs="#facs__eSc_line_ac621259">rulers scholars. Lord Southampton and Lord Rutland,</l>
-               <l facs="#facs__eSc_line_1bd218df">Rowland White vrote to Sir Robert Sidney "pass away their</l>
-               <l facs="#facs__eSc_line_b2c00464">time in London , merely in going to plays every day".</l>
-               <l facs="#facs__eSc_line_2d0b8c77">1et they are silent too. A yo ng poet dedicates his sonnets</l>
-               <l facs="#facs__eSc_line_2c2d7c7b">to Mr V. E. and none of them troubles to ask,</l>
-               <l facs="#facs__eSc_line_c4542d40">Nhois this patron? It is not a matter of interest in court</l>
-               <l facs="#facs__eSc_line_825291f0">circles. And tis lack of curiosity is harder to explain.</l>
-               <l facs="#facs__eSc_line_91441e46">Fo they vere readers; they had the Greeks and the Latins</l>
-               <l facs="#facs__eSc_line_553438cc">at the ack of their minds. Hov can it have been that they</l>
-               <l facs="#facs__eSc_line_3fb74df6">said nothing about theis astonishing new art, that they</l>
-               <l facs="#facs__eSc_line_a3e3179d">did not expereince that sense of outrage, of partisanchip</l>
-               <l facs="#facs__eSc_line_09226003">Chiear</l>
+               <l facs="#facs__eSc_line_1bd218df">Roland White wrote to Sir Robert Sidney <quote source="#" rend="inline">"pass away their</quote></l>
+               <l facs="#facs__eSc_line_b2c00464"><quote source="#" rend="inline">time in London, merely in going to plays every day"</quote>.</l>
+               <l facs="#facs__eSc_line_2d0b8c77">Yet they are silent too. A 
+                <choice>
+                  <sic>yo ng</sic>
+                  <corr>young</corr>
+                </choice> poet dedicates his sonnets</l>
+               <l facs="#facs__eSc_line_2c2d7c7b">to Mr W. H. and none of them troubles to ask,</l>
+               <l facs="#facs__eSc_line_c4542d40"><choice>
+                  <sic>Whois</sic>
+                  <corr>Who is</corr>
+                </choice> this patron? It is not a matter of interest in court</l>
+               <l facs="#facs__eSc_line_825291f0">circles. And 
+                <choice>
+                  <sic>is</sic>
+                  <corr>this</corr>
+                </choice> lack of curiosity is harder to explain.</l>
+               <l facs="#facs__eSc_line_91441e46"><choice>
+                  <sic>Fo</sic>
+                  <corr>For</corr>
+                </choice> they were readers; they had the Greeks and the Latins</l>
+               <l facs="#facs__eSc_line_553438cc">at the 
+                <choice>
+                  <sic>ack</sic>
+                  <corr>back</corr>
+                </choice> of their minds. How could it have been that they</l>
+               <l facs="#facs__eSc_line_3fb74df6">said nothing about 
+                <choice>
+                  <sic>theis</sic>
+                  <corr>this</corr>
+                </choice> astonishing new art, that they</l>
+               <l facs="#facs__eSc_line_09226003"><add hand="ms" place="above">[expect?]</add></l>
+               <l facs="#facs__eSc_line_a3e3179d">did not <choice>
+                  <sic>expereince</sic>
+                  <corr>experience</corr>
+                </choice> that sense of outrage, of 
+                <choice>
+                  <sic>partisanchip</sic>
+                  <corr>partisanship</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_1d6312d3">Which seems to be the common reaction of the more cultivated</l>
-               <l facs="#facs__eSc_line_f075dc1d">part of the public vhen a new vriter of genius appears?</l>
-               <l facs="#facs__eSc_line_716023ec">Perhaps "acon ins his Essays supplies a reason.</l>
-               <l facs="#facs__eSc_line_0d3edd7e">Tnese things be b y Toyes" he wrote in the essay</l>
-               <l facs="#facs__eSc_line_038027a1">called "Of Masques and Triumphs". To the aristocratuc</l>
-               <l facs="#facs__eSc_line_56b64fa4">scholar the players vere still only mountebanks, bear leaders</l>
-               <l facs="#facs__eSc_line_4c94c799">and acroats. They spoke in the vulgar tongue. Off the stage</l>
-               <l facs="#facs__eSc_line_4199a1b9">they 1ived in the heart of darkness. Marloev lying on the</l>
+               <l facs="#facs__eSc_line_f075dc1d">part of the public when a new writer of genius appears?</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_716023ec">Perhaps <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">Bacon</rs> in his <rs type="literary-work" xml:id="lit-baes" key="Essays (Francis Bacon)">Essays</rs> 
+                <choice>
+                  <sic>supplys</sic>
+                  <corr>supplies</corr>
+                </choice> a reason.</l>
+               <l facs="#facs__eSc_line_0d3edd7e"><quote source="#" rend="inline">These things be 
+                <choice>
+                  <sic>b y</sic>
+                  <corr>but</corr>
+                </choice> Toyes"</quote> he wrote in the essay</l>
+               <l facs="#facs__eSc_line_038027a1">called <rs type="literary-work" xml:id="lit-masq" key="Of Masques and Triumphs">"Of Masques and Triumphs"</rs>. To the 
+                <choice>
+                  <sic>aristocratuc</sic>
+                  <corr>aristocratic</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_56b64fa4">scholar the players were still only mountebanks, bear leaders</l>
+               <l facs="#facs__eSc_line_4c94c799">and 
+                <choice>
+                  <sic>acroats</sic>
+                  <corr>acrobats</corr>
+                </choice>. They spoke in the vulgar tongue. Off the stage</l>
+               <l facs="#facs__eSc_line_4199a1b9">they lived in the <rs type="literary-work" xml:id="lit-hear" key="Heart of Darkness, The">heart of darkness</rs>. 
+                <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher"><choice>
+                  <sic>Marloew</sic>
+                  <corr>Marlowe</corr>
+                </choice></rs> lying on the</l>
+            </p>
             </ab></div>
       </body>
    </text>

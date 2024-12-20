@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p, fol. 4r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m108</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p. Paginated 23-28, with an unpaginated page at end.</p>
+            <p>These and successive folders of [The Reader] were contained in two multigrip folders, headed by Virginia Woolf: "Turning the page"; "Transformations" and "Spare sheets of T.P." labels on the spines. They are filed under her Anon, holograph and typescript fragments.</p>
+            <p>The fragments grouped in the successive folders under [The reader] may or may not have formed part of Anon. They have been grouped in this fashion based on the evidence of paper and typewriters. The pagination 23-28 is the lowest in the sequence. Internal evidence would indicate that manuscript drafts preceded that of Anon, since Articles, 1938-9 notebook contains a fragment. Some of the versos of this run of material contains fragments of typescripts of Between the Acts and other contemporary works.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2775" lry="3500" xml:id="facs_">
          <graphic url="m108-7.tif" width="2775px" height="3500px"/>

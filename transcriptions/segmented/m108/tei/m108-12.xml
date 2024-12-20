@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+<teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p, fol. 6r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m108</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M108 [The Reader: There is a jolt at the points.]. Typescript fragment, with the author's ms. corrections, unsigned and undated. 7p. Paginated 23-28, with an unpaginated page at end.</p>
+            <p>These and successive folders of [The Reader] were contained in two multigrip folders, headed by Virginia Woolf: "Turning the page"; "Transformations" and "Spare sheets of T.P." labels on the spines. They are filed under her Anon, holograph and typescript fragments.</p>
+            <p>The fragments grouped in the successive folders under [The reader] may or may not have formed part of Anon. They have been grouped in this fashion based on the evidence of paper and typewriters. The pagination 23-28 is the lowest in the sequence. Internal evidence would indicate that manuscript drafts preceded that of Anon, since Articles, 1938-9 notebook contains a fragment. Some of the versos of this run of material contains fragments of typescripts of Between the Acts and other contemporary works.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2776" lry="3500" xml:id="facs_">
          <graphic url="m108-12.tif" width="2776px" height="3500px"/>
@@ -47,33 +89,90 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_b36e9023">ment; and admiration; but of the highest vertues they have</l>
-               <l facs="#facs__eSc_line_0f70169b">no sense or percebing at all."</l>
-               <l facs="#facs__eSc_line_af6bc0c2">The soul that valked between delicate groves, nos</l>
-               <l facs="#facs__eSc_line_24f246f9">and then formulating a pharse to be talkcen down by the y ng</l>
-               <l facs="#facs__eSc_line_8634d212">secretary Thomas Hobbes, kKept to a narrov path between</l>
-               <l facs="#facs__eSc_line_c6af8171">hedges. Mhile Montaigne ranged th world, indulgn all</l>
-               <l facs="#facs__eSc_line_1691beea">carisoities, mixing garrul usly with every one, Bacon kept</l>
+              <p>
+                <quote source="#" rend="inline">
+                   <l facs="#facs__eSc_line_b36e9023">
+                    <choice>
+                      <sic>ment</sic>
+                      <corr>astonishment</corr>
+                    </choice>; and admiration; but of the highest vertues they have</l>
+                   <l facs="#facs__eSc_line_0f70169b">no sense or 
+                      <choice>
+                        <sic>percebing</sic>
+                        <corr>perceiving</corr>
+                      </choice> at all."</l>
+                </quote>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_af6bc0c2">The soul that walked between delicate groves, now</l>
+               <l facs="#facs__eSc_line_24f246f9">and then formulating a 
+                <choice>
+                  <sic>pharse</sic>
+                  <corr>phrase</corr>
+                </choice> to be taken down by the 
+                <choice>
+                  <sic>y ng</sic>
+                  <corr>young</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_8634d212">secretary <rs type="person" xml:id="psn-thob" key="Hobbes, Thomas">Thomas Hobbes</rs>, kept to a narrow path between</l>
+               <l facs="#facs__eSc_line_c6af8171">hedges. While <rs type="person" xml:id="psn-mmon" key="Montaigne, Michel de">Montaigne</rs> ranged 
+                <choice>
+                  <sic>th</sic>
+                  <corr>the</corr>
+                </choice> world, 
+                <choice>
+                  <sic>indulgn</sic>
+                  <corr>indulging</corr>
+                </choice> all</l>
+               <l facs="#facs__eSc_line_1691beea"><choice>
+                  <sic>curisoities</sic>
+                  <corr>curiosities</corr>
+                </choice>, mixing 
+                <choice>
+                  <sic>garrul usly</sic>
+                  <corr>garrulously</corr>
+                </choice> with every one, Bacon kept</l>
                <l facs="#facs__eSc_line_0276d4b7">to the narrow path. Yet even in the shade his thought is</l>
                <l facs="#facs__eSc_line_12358ca5">embodied. His deep meditations are given concrete form.</l>
-               <l facs="#facs__eSc_line_b1f96ee3">"Nay retire men acnnot vhen they vould: neither vill they</l>
-               <l facs="#facs__eSc_line_a36a2eb0">when it vere reason; but are impateient of privateness</l>
-               <l facs="#facs__eSc_line_68c89c9f">even in age and sickness vhich require the Shadov: Like old</l>
-               <l facs="#facs__eSc_line_20fc061d">Townmen that will still be sitting at their street door,</l>
-               <l facs="#facs__eSc_line_96eac368">though thereby they offer Age to scorn." Even in the green</l>
-               <l facs="#facs__eSc_line_0ef465b9">shade thought ic coloured. "The Colours that show best</l>
-               <l facs="#facs__eSc_line_e4f647db">by candlelight , are: Nhite, Carnation, and a kinde of</l>
-               <l facs="#facs__eSc_line_641a8988">Sea -Vater Green". It only needs the playwright to put</l>
-               <l facs="#facs__eSc_line_79e8e0c4">4 hew a ler ts lsa~</l>
+                <quote>
+                   <l facs="#facs__eSc_line_b1f96ee3">"Nay retire men 
+                      <choice>
+                        <sic>acnnot</sic>
+                        <corr>cannot</corr>
+                      </choice> when they would: neither will they</l>
+                   <l facs="#facs__eSc_line_a36a2eb0">when it were reason; but are 
+                      <choice>
+                        <sic>impateint</sic>
+                        <corr>impatient</corr>
+                      </choice> of privateness</l>
+                   <l facs="#facs__eSc_line_68c89c9f">even in age and sickness vhich require the Shadow: Like old</l>
+                   <l facs="#facs__eSc_line_20fc061d">Townmen that will still be sitting at their street door,</l>
+                   <l facs="#facs__eSc_line_96eac368"><quote source="#" rend="inline">though thereby they offer Age to scorn."</quote> Even in the <rs type="literary-work" xml:id="lit-gard" key="The Garden">green</rs></l>
+                </quote>
+               <l facs="#facs__eSc_line_0ef465b9"><rs type="literary-work" xml:id="lit-gard">shade</rs> thought 
+                <choice>
+                  <sic>ic</sic>
+                  <corr>is</corr>
+                </choice> coloured. <quote source="#" rend="inline">The Colours that show best</quote></l>
+               <l facs="#facs__eSc_line_e4f647db"><quote source="#" rend="inline">by candlelight , are: White, Carnation, and a kinde of</quote></l>
+               <l facs="#facs__eSc_line_641a8988"><quote source="#" rend="inline">Sea-Water Green".</quote> It only needs the playwright to put</l>
+               <l facs="#facs__eSc_line_79e8e0c4"><add place="above">one push for their thoughts</add></l>
+               <l facs="#facs__eSc_line_6a153862"><add place="above">to become people</add></l>
                <l facs="#facs__eSc_line_f05d9690">flesh and blood onto his thoughts.</l>
-               <l facs="#facs__eSc_line_6a153862">Fltout hcsdi</l>
-               <l facs="#facs__eSc_line_60e7a4e6">Sacons contempt vas for hyperbole; not for the art of</l>
-               <l facs="#facs__eSc_line_98dcee8c">speech. He was teaching the ranting pla yers to speak~</l>
-               <l facs="#facs__eSc_line_bea4d00b">slowly, closely, subtly. He was proving that there is anoths</l>
-               <l facs="#facs__eSc_line_34859709">kind of poetry, the poetry of prose. Ee vas bringing the</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_60e7a4e6">Bacons contempt was for hyperbole; not for the art of</l>
+               <l facs="#facs__eSc_line_98dcee8c">speech. He was teaching the ranting players to speak</l>
+               <l facs="#facs__eSc_line_bea4d00b">slowly, closely, subtly. He was proving that there is 
+                <choice>
+                  <sic>anothe</sic>
+                  <corr>another</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_34859709">kind of poetry, the poetry of prose. He was bringing the</l>
                <l facs="#facs__eSc_line_e8ce8e4f">prose of the mind into being. And thus by increasing the</l>
                <l facs="#facs__eSc_line_4de511a6">range of the poet, by making it possible for him to express</l>
-               <l facs="#facs__eSc_line_1153bc12">more, he was making an eni of anonymity.</l>
+               <l facs="#facs__eSc_line_1153bc12">more, he was making an end of anonymity.</l>
+              </p>
             </ab></div>
       </body>
    </text>
