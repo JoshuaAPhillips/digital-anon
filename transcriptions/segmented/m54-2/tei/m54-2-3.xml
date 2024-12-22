@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 2 of 11. [Anon: The historians work from the outer to the inner...]. Typescript fragment, 5 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 2 of 11. [The historians work from the outer to the inner...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2757" lry="3500" xml:id="facs_">
          <graphic url="m54-2-3.tif" width="2757px" height="3500px"/>
@@ -49,35 +90,141 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_dcdfaefc"/>
-               <l facs="#facs__eSc_line_3bd0a2f1">exlort "God loeep us sound in the faith and send us health</l>
-               <l facs="#facs__eSc_line_4ef75b84">and a care to please God atove all " er to admonish---</l>
-               <l facs="#facs__eSc_line_a9c66071">"E not speedy of speech, nor talk suâdenly, but vhere</l>
-               <l facs="#facs__eSc_line_cdbe8ddb">6iscretion requtreth, and that soberly then....</l>
-               <l facs="#facs__eSc_line_d9125a44">Let not bamson, that fox, be acqaunited "ith my letters...</l>
-               <l facs="#facs__eSc_line_48b2add4">Fear of man, fear of God surround as h as with the wallsof</l>
-               <l facs="#facs__eSc_line_0543ade7">a dungeon. Taere is no gaiety, no fresdom, no fâmmilairity</l>
-               <l facs="#facs__eSc_line_2ec89d1f">ni the ho se she lives in. The sound of the Bible is in her</l>
-               <l facs="#facs__eSc_line_3074180b">5rs. Rer prose talces its slolemn strain. And the prose</l>
-               <l facs="#facs__eSc_line_13bbc9fb">0f the bible will not adapt itself to the eaxy, the col oqui</l>
-               <l facs="#facs__eSc_line_9886253b">Lt is a garment to be put on when the mind is erect and</l>
-               <l facs="#facs__eSc_line_097536f1">dignified, on state oaccions.</l>
+              <p>
+               <l facs="#facs__eSc_line_dcdfaefc">9</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_3bd0a2f1">exhort <quote source="#" rend="inline">"God keep us sound in the faith and send us health</quote></l>
+               <l facs="#facs__eSc_line_4ef75b84"><quote source="#" rend="inline">and a care to please God above all"</quote> Or to admonish---</l>
+                <quote source="#">
+                 <l facs="#facs__eSc_line_a9c66071">"Be not speedy of speech, nor talk suddenly, but where</l>
+                 <l facs="#facs__eSc_line_cdbe8ddb">discretion requireth, and that soberly then....</l>
+                 <l facs="#facs__eSc_line_d9125a44">Let not Lawson, that fox, be 
+                  <choice>
+                    <sic>acqaunited</sic>
+                    <corr>acquainted</corr>
+                  </choice> with my letters..."</l>
+                </quote>
+               <l facs="#facs__eSc_line_48b2add4">Fear of man, fear of God surround them as h as with the 
+                <choice>
+                  <sic>wallsof</sic>
+                  <corr>walls of</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_0543ade7">a dungeon. There is no gaiety, no freedom, no 
+                <choice>
+                  <sic>familairity</sic>
+                  <corr>familiarity</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_2ec89d1f"><choice>
+                  <sic>ni</sic>
+                  <corr>in</corr>
+                </choice> the 
+                <choice>
+                  <sic>hose</sic>
+                  <corr>house</corr>
+                </choice> she lives in. The sound of the Bible is in her</l>
+               <l facs="#facs__eSc_line_3074180b"><choice>
+                  <sic>wars</sic>
+                  <corr>words</corr>
+                </choice>. Her prose takes its 
+                <choice>
+                  <sic>slolemn</sic>
+                  <corr>solemn</corr>
+                </choice> strain. And the prose</l>
+               <l facs="#facs__eSc_line_13bbc9fb">of the bible will not adapt itself to the 
+                <choice>
+                  <sic>eaxy</sic>
+                  <corr>easy</corr>
+                </choice>, the 
+                <choice>
+                  <sic>co  oqu</sic>
+                  <corr>colloquial</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_9886253b">It is a garment to be put on when the mind is erect and</l>
+               <l facs="#facs__eSc_line_097536f1">dignified, on state 
+                <choice>
+                  <sic>oaccions</sic>
+                  <corr>occasions</corr>
+                </choice>.</l>
+            </p>
+            <p>
                <l facs="#facs__eSc_line_4a49f4d6">It is because they use of the prose of the bible when</l>
-               <l facs="#facs__eSc_line_bff9d1b2">they write prose that the Elizabethans are unkenown to us.</l>
-               <l facs="#facs__eSc_line_9ba0ef5e">It They can say nothine simle, nothing intimate.</l>
-               <l facs="#facs__eSc_line_1dd2e96c">They are nevr subtle; they are never shaded. Bright contrasta</l>
-               <l facs="#facs__eSc_line_6c14447f">colours meet on their faces. arnation and sanow;</l>
-               <l facs="#facs__eSc_line_ad630449">ebony and gold. When we lock at them we see them</l>
-               <l facs="#facs__eSc_line_6616dbf4">2n their farthibgales and ru ffs; youne men s bodies</l>
-               <l facs="#facs__eSc_line_986f6b06">are stiffly sewn into dohblets and school boys faces</l>
-               <l facs="#facs__eSc_line_8e539074">are raised above starched collars; yong women serve only to a</l>
-               <l facs="#facs__eSc_line_b44a71d1">display heavy quilted dresse stucke about with huge pearls.</l>
-               <l facs="#facs__eSc_line_6e30419c">phe writer, tos rds the end of the sicteenth cnyury,</l>
-               <l facs="#facs__eSc_line_0d1646c3">mas separate from his arudience; but he "as still closely</l>
-               <l facs="#facs__eSc_line_a522332d">connected with it. Ne vas himself unspecialised, un ifferènta</l>
-               <l facs="#facs__eSc_line_57751411">ated. His eye Was stimulated by the crimsons and aold and</l>
-               <l facs="#facs__eSc_line_31f2779f">greens of the clothing. Ris ear mas stimlated by the</l>
-               <l facs="#facs__eSc_line_f3e9b0d5">8ound of vords For ac word vas given substance and sharpness</l>
+               <l facs="#facs__eSc_line_bff9d1b2">they write prose that the Elizabethans are unknown to us.</l>
+               <l facs="#facs__eSc_line_9ba0ef5e">It They can say nothing 
+                <choice>
+                  <sic>simle</sic>
+                  <corr>simple</corr>
+                </choice>, nothing intimate.</l>
+               <l facs="#facs__eSc_line_1dd2e96c">They are 
+                <choice>
+                  <sic>nevr</sic>
+                  <corr>never</corr>
+                </choice> subtle; they are never shaded. Bright 
+                <choice>
+                  <sic>contrastd</sic>
+                  <corr>contrasted</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_6c14447f">colours meet on their faces. Carnation and 
+                <choice>
+                  <sic>sanow</sic>
+                  <corr>snow</corr>
+                </choice>;</l>
+               <l facs="#facs__eSc_line_ad630449">ebony and gold. When we look at them we see them</l>
+               <l facs="#facs__eSc_line_6616dbf4">in their 
+                <choice>
+                  <sic>farthibgales</sic>
+                  <corr>farthingales</corr>
+                </choice> and 
+                <choice>
+                  <sic>ru ffs</sic>
+                  <corr>ruffs</corr>
+                </choice>;young 
+                <choice>
+                  <sic>men s</sic>
+                  <corr>men's</corr>
+                </choice> bodies</l>
+               <l facs="#facs__eSc_line_986f6b06">are stiffly sewn into 
+                <choice>
+                  <sic>dohblets</sic>
+                  <corr>doublets</corr>
+                </choice> and school boys faces</l>
+               <l facs="#facs__eSc_line_8e539074">are raised above starched collars; 
+                <choice>
+                  <sic>yong</sic>
+                  <corr>young</corr>
+                </choice> women serve only to s</l>
+               <l facs="#facs__eSc_line_b44a71d1">display heavy quilted 
+                <choice>
+                  <sic>dresse</sic>
+                  <corr>dresses</corr>
+                </choice> stuck about with huge pearls.</l>
+               <l facs="#facs__eSc_line_6e30419c">The writer, 
+                <choice>
+                  <sic>to  rds</sic>
+                  <corr>towards</corr>
+                </choice> the end of the 
+                <choice>
+                  <sic>sicteenth cnyury</sic>
+                  <corr>sixteenth century</corr>
+                </choice>,</l>
+               <l facs="#facs__eSc_line_0d1646c3">was separate from his 
+                <choice>
+                  <sic>arudience</sic>
+                  <corr>audience</corr>
+                </choice>; but he was still closely</l>
+               <l facs="#facs__eSc_line_a522332d">connected with it. He was himself unspecialised, 
+                <choice>
+                  <sic>un ifferent</sic>
+                  <corr>undifferentiated</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_57751411">ated. His eye Was stimulated by the crimsons and gold and</l>
+               <l facs="#facs__eSc_line_31f2779f">greens of the clothing. His ear was stimulated by the</l>
+               <l facs="#facs__eSc_line_f3e9b0d5">sound of words For 
+                <choice>
+                  <sic>  ac </sic>
+                  <corr>each</corr>
+                </choice> word was given substance and sharpness</l>
+            </p>
             </ab></div>
       </body>
    </text>

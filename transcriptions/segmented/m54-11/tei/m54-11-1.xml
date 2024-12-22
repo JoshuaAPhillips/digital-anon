@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 11 of 11. [Anon: there is a jolt at the points...]. Typescript fragment, 1 fol, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-11</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 11 of 11. [Anon: there is a jolt at the points...]. Typescript fragment, 1 fol.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m54-11-1.tif" width="2773px" height="3500px"/>
@@ -51,37 +92,124 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_e4579a8f"/>
-               <l facs="#facs__eSc_line_dc305c31"/>
-               <l facs="#facs__eSc_line_9bca3c3b"/>
-               <l facs="#facs__eSc_line_8958a90c"/>
-               <l facs="#facs__eSc_line_e1c49390"/>
-               <l facs="#facs__eSc_line_d054f37a"/>
-               <l facs="#facs__eSc_line_c0ab9007"/>
-               <l facs="#facs__eSc_line_a4dc822e"/>
-               <l facs="#facs__eSc_line_411c285d"/>
-               <l facs="#facs__eSc_line_ada87189"/>
-               <l facs="#facs__eSc_line_90823d75"/>
-               <l facs="#facs__eSc_line_7017f172"/>
-               <l facs="#facs__eSc_line_e8b18e45"/>
-               <l facs="#facs__eSc_line_6f1dc61b"/>
-               <l facs="#facs__eSc_line_19eedd40"/>
-               <l facs="#facs__eSc_line_a4f8368b"/>
-               <l facs="#facs__eSc_line_4123c50c"/>
-               <l facs="#facs__eSc_line_616efeb1"/>
-               <l facs="#facs__eSc_line_a70cce54"/>
-               <l facs="#facs__eSc_line_17656cc5"/>
-               <l facs="#facs__eSc_line_34dc29d8"/>
-               <l facs="#facs__eSc_line_ff91d1b3"/>
-               <l facs="#facs__eSc_line_319750ba"/>
-               <l facs="#facs__eSc_line_319a7c06"/>
-               <l facs="#facs__eSc_line_f2fc15b2"/>
-               <l facs="#facs__eSc_line_f2f6b50a"/>
-               <l facs="#facs__eSc_line_3aa950b1"/>
-               <l facs="#facs__eSc_line_de435d46"/>
-               <l facs="#facs__eSc_line_dc795b2e"/>
-               <l facs="#facs__eSc_line_0b092af6"/>
-               <l facs="#facs__eSc_line_e8745025"/>
+              <p>
+               <l facs="#facs__eSc_line_e4579a8f">23</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_dc305c31">there is a jolt at the points; the mind slides onto another</l>
+               <l facs="#facs__eSc_line_9bca3c3b">rail, lovely as the words are. To speak them the poet has</l>
+               <l facs="#facs__eSc_line_8958a90c">separated himself from the actors. He cannot yet make <rs type="literary-work" xml:id="lit-tamb" key="Tamburlaine">Tambur</rs></l>
+               <l facs="#facs__eSc_line_e1c49390"><rs type="literary-work" xml:id="lit-tamb">laine</rs> speak those words. The play is still 
+                <choice>
+                  <sic>manly</sic>
+                  <corr>mainly</corr>
+                </choice> the work</l>
+               <l facs="#facs__eSc_line_d054f37a">of the undifferentiated audience, demanding great names,</l>
+               <l facs="#facs__eSc_line_c0ab9007">great deeds; simple outlines; and not the single subtlety</l>
+               <l facs="#facs__eSc_line_a4dc822e">of one soul.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_411c285d">For the play itself was still anonymous. The lack of <rs xml:id="psn-cmar">Marlowes</rs></l>
+               <l facs="#facs__eSc_line_ada87189">name is by 
+                <choice>
+                  <sic>itslef</sic>
+                  <corr>itself</corr>
+                </choice> enough to show how largely the play was</l>
+               <l facs="#facs__eSc_line_90823d75">a common product, written by one hand, but so moulded</l>
+               <l facs="#facs__eSc_line_7017f172">in transition from actor to 
+                <choice>
+                  <sic>acotr</sic>
+                  <corr>actor</corr>
+                </choice> that the author had no</l>
+               <l facs="#facs__eSc_line_e8b18e45">sense of property in it. It was half the work of the audience.</l>
+               <l facs="#facs__eSc_line_6f1dc61b">Yet the audience is dumb. <add place="inline">[</add>The silence of the audience is</l>
+               <l facs="#facs__eSc_line_19eedd40">one of the deep gulfs that lies between us and the 
+                <choice>
+                  <sic>Eliza</sic>
+                  <corr>Elizabethan</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_a4f8368b"><choice>
+                  <sic>bethan</sic>
+                  <corr>Elizabethan</corr>
+                </choice> <add place="inline">]</add> The audience was a large one. Fifteen</l>
+               <l facs="#facs__eSc_line_4123c50c">hundred people, Dr Greg computes, was an average 
+                <choice>
+                  <sic>attanedance</sic>
+                  <corr>attendance</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_616efeb1">Their presence, in the penny part of the house, is obvious.</l>
+               <l facs="#facs__eSc_line_a70cce54">It draws 
+                <choice>
+                  <sic>pup</sic>
+                  <corr>up</corr>
+                </choice> the 
+                <choice>
+                  <sic>hypberpole</sic>
+                  <corr>hyperbole</corr>
+                </choice> as a sheet of paper</l>
+               <l facs="#facs__eSc_line_17656cc5">draws 
+                <choice>
+                  <sic>pup</sic>
+                  <corr>up</corr>
+                </choice> fire. It makes the writer capable of great strides</l>
+               <l facs="#facs__eSc_line_34dc29d8">and vast audacities beyond his private reach. Yet the 
+                <choice>
+                  <sic>audiene</sic>
+                  <corr>audience</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_ff91d1b3">sits silent.</l><add place="inline">^</add>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_319750ba">To 
+                <choice>
+                  <sic>underdtand</sic>
+                  <corr>understand</corr>
+                </choice> the silence we must 
+                <choice>
+                  <sic>comapre</sic>
+                  <corr>compare</corr>
+                </choice> it</l>
+               <l facs="#facs__eSc_line_319a7c06">with our own 
+                <choice>
+                  <sic>attidtue</sic>
+                  <corr>attitude</corr>
+                </choice> at the <rs type="literary-work" xml:id="lit-balle" key="Ballet Russes">Russian ballet</rs> at the <rs type="literary-work" xml:id="lit-cine" key="Cinema">
+                  <choice>
+                    <sic>cimme</sic>
+                    <corr>cinema</corr>
+                  </choice></rs></l>
+               <l facs="#facs__eSc_line_f2fc15b2">in the early days. A new art comes upon us 
+                <choice>
+                  <sic>si</sic>
+                  <corr>so</corr>
+                </choice> 
+                <choice>
+                  <sic>surprisningly</sic>
+                  <corr>surprisingly</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_f2f6b50a">that we are silent, recognising something that we cannot</l>
+               <l facs="#facs__eSc_line_3aa950b1">measure. To <add hand="ms" place="above">the</add> Elizabethans, the power of words after their</l>
+               <l facs="#facs__eSc_line_de435d46">long 
+                <choice>
+                  <sic>silnce</sic>
+                  <corr>silence</corr>
+                </choice> must have been overwhelming. There at the <rs type="place" xml:id="pla-glob" key="Globe, The">Globe</rs></l>
+               <l facs="#facs__eSc_line_dc795b2e">or at the <rs type="person" xml:id="pla-rose" key="Rose, The">Rose</rs> men and women who had never seen themselves</l>
+               <l facs="#facs__eSc_line_0b092af6">whose only reading was 
+                <choice>
+                  <sic>historyor</sic>
+                  <corr>history or</corr>
+                </choice> sermon or some old 
+                <choice>
+                  <sic>chornicle</sic>
+                  <corr>chronicle</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_e8745025">or perhaps could not 
+                <choice>
+                  <sic>r ad</sic>
+                  <corr>read</corr>
+                </choice> but spent all their days in the</l>
+              </p>
             </ab></div>
       </body>
    </text>

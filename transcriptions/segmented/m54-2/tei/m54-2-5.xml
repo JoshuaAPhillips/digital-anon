@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 2 of 11. [Anon: The historians work from the outer to the inner...]. Typescript fragment, 5 fols, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 2 of 11. [The historians work from the outer to the inner...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2767" lry="3500" xml:id="facs_">
          <graphic url="m54-2-5.tif" width="2767px" height="3500px"/>
@@ -35,21 +76,84 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_f9ee451e">by the spealcing voice. And the l tes and the cithersn</l>
-               <l facs="#facs__eSc_line_0f0ae20b">have lilt and rhym and melody to the spoken word.</l>
-               <l facs="#facs__eSc_line_3142fb06">His mind was full of half sung half spoekn words;</l>
-               <l facs="#facs__eSc_line_f0bbb4ed">of undifferentiated mords; ol words, new words;  rench words</l>
-               <l facs="#facs__eSc_line_bbd8b588">Latin vords. No grammar bound them tightly together.</l>
-               <l facs="#facs__eSc_line_43af6714">They vere elastic. They could stretch to any lgneth. They cà</l>
-               <l facs="#facs__eSc_line_e7da7131">could refelct many colours; they could fol ow many tunes,</l>
-               <l facs="#facs__eSc_line_33c1abac">they could be danced to, and sung to. Fut they could not</l>
-               <l facs="#facs__eSc_line_27c329a4">ollow the words of the spealeing voice. For a moment then</l>
-               <l facs="#facs__eSc_line_99b1e299">there is a pause on the threshold of the gre t lizabethan</l>
+               <l facs="#facs__eSc_line_f9ee451e">by the speaking voice. And the 
+                <choice>
+                  <sic>l tes</sic>
+                  <corr>lutes</corr>
+                </choice> and the 
+                <choice>
+                  <sic>cithersn</sic>
+                  <corr>citherns</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_0f0ae20b"><choice>
+                  <sic>have</sic>
+                  <corr>gave</corr>
+                </choice> lilt and 
+                <choice>
+                  <sic>rhym</sic>
+                  <corr>rhythm</corr>
+                </choice> and melody to the spoken word.</l>
+               <l facs="#facs__eSc_line_3142fb06">His mind was full of half sung half 
+                <choice>
+                  <sic>spoekn</sic>
+                  <corr>spoken</corr>
+                </choice> words;</l>
+               <l facs="#facs__eSc_line_f0bbb4ed">full of undifferentiated words; 
+                <choice>
+                  <sic>ol</sic>
+                  <corr>old</corr>
+                </choice> words, new words; French words</l>
+               <l facs="#facs__eSc_line_bbd8b588">Latin words. No grammar bound them tightly together.</l>
+               <l facs="#facs__eSc_line_43af6714">They were elastic. They could stretch to any 
+                <choice>
+                  <sic>lgneth</sic>
+                  <corr>length</corr>
+                </choice>. They 
+                <choice>
+                  <sic>cd</sic>
+                  <corr>could</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_e7da7131">could 
+                <choice>
+                  <sic>refelct</sic>
+                  <corr>reflect</corr>
+                </choice> many colours; they could 
+                <choice>
+                  <sic>fol ow</sic>
+                  <corr>follow</corr>
+                </choice> many tunes,</l>
+               <l facs="#facs__eSc_line_33c1abac">they could be danced to, and sung to. But they could not</l>
+               <l facs="#facs__eSc_line_27c329a4">follow the words of the speaking voice. For a moment then</l>
+               <l facs="#facs__eSc_line_99b1e299">there is a pause on the threshold of the 
+                <choice>
+                  <sic>gre t</sic>
+                  <corr>great</corr>
+                </choice> 
+                <choice>
+                  <sic>lizabethan</sic>
+                  <corr>Elizabethan</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_7c1531b3">room. The arist is not wholly writer, wholly musician, or</l>
-               <l facs="#facs__eSc_line_4a2331c1">9holly paineter. Iuxaxmusxmassikbamtiattxmxgrantm~xn~</l>
-               <l facs="#facs__eSc_line_ffd51560">xknkstmnkacpaimoknxmamxske. Sahelceapere may be Michael</l>
-               <l facs="#facs__eSc_line_5a0d3e08">Angelo; Soenser may be Pergolesi. It seems possible that the</l>
-               <l facs="#facs__eSc_line_d9b332b6">great nglish art may not be the art of poetry.</l>
+               <l facs="#facs__eSc_line_4a2331c1">wholly 
+            <choice>
+              <sic>paineter</sic>
+              <corr>painter</corr>
+            </choice>. <del>It seems possible that the great English art</del></l>
+               <l facs="#facs__eSc_line_ffd51560"><del>is to be painting or music</del>. <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">
+                <choice>
+                  <sic>Sahekeapere</sic>
+                  <corr>Shakespeare</corr>
+                </choice></rs> may be <rs type="person" xml:id="psn-mich" key="Michelangelo">
+                  <choice>
+                    <sic>Michael</sic>
+                    <corr>Michelangelo</corr>
+                  </choice></rs></l>
+               <l facs="#facs__eSc_line_5a0d3e08"><rs type="person" xml:id="psn-mich">Angelo</rs>; 
+            <choice>
+              <sic>Soenser</sic>
+              <corr>Spenser</corr>
+            </choice> may be <rs type="person" xml:id="psn-perg" key="Pergolesi">Pergolesi</rs>. It seems possible that the</l>
+               <l facs="#facs__eSc_line_d9b332b6">great English art may not be the art of poetry.</l>
             </ab></div>
       </body>
    </text>

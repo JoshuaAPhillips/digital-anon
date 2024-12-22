@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 2 of 11. [Anon: The historians work from the outer to the inner...]. Typescript fragment, 5 fols, fol. 4r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 2 of 11. [The historians work from the outer to the inner...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m54-2-7.tif" width="2773px" height="3500px"/>
@@ -50,36 +91,84 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_64725dba">10</l>
-               <l facs="#facs__eSc_line_231d21de">Che writer then came to birth with difficulty in</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_231d21de">The writer then came to birth with difficulty in</l>
                <l facs="#facs__eSc_line_a2db9714">England; for so long as familiar letters are written in</l>
                <l facs="#facs__eSc_line_d74eed01">Biblical prose there are limits to his freedom; a barrier</l>
                <l facs="#facs__eSc_line_bf5e9d69">between the sayable and the unsayable. He is in being;</l>
                <l facs="#facs__eSc_line_2ab53482">for the printing press has given him a name; but still</l>
                <l facs="#facs__eSc_line_8f9baed4">unspecialised, undifferentiated. The artist is not wholly</l>
-               <l facs="#facs__eSc_line_9f946f1e">Write , wholly musician, or wholly painter. It seems</l>
+               <l facs="#facs__eSc_line_9f946f1e"><choice>
+                  <sic>write</sic>
+                  <corr>writer</corr>
+                </choice>, wholly musician, or wholly painter. It seems</l>
                <l facs="#facs__eSc_line_03f6e81f">possible that the great English art may not be the art of</l>
                <l facs="#facs__eSc_line_e35635d7">words. His eye is stimulated by the colour of the</l>
-               <l facs="#facs__eSc_line_a3f056aa">of the clotning, of the pageantry. his ear by the sound of</l>
-               <l facs="#facs__eSc_line_9dec9137">vords spoken aloud. "Prtitachrd "rote Lady Ann Clifford</l>
-               <l facs="#facs__eSc_line_e0333fb1">h se wu ~~ Al~</l>
-               <l facs="#facs__eSc_line_b7705e87">1read aloud the aery ueen..... They read aloud Montage</l>
-               <l facs="#facs__eSc_line_9dec5dad">and the faery qQueen." Every ord was given sharpness and</l>
-               <l facs="#facs__eSc_line_53e1b02b">subs tance by the speakcing voice. And the lute, the cithern,</l>
+               <l facs="#facs__eSc_line_a3f056aa">of the <choice>
+                  <sic>clotning</sic>
+                  <corr>clothing</corr>
+                </choice>, of the pageantry. his ear by the sound of</l>
+               <l facs="#facs__eSc_line_e0333fb1"><add>For books were read aloud.</add></l>
+               <l facs="#facs__eSc_line_9dec9137">words spoken aloud. <quote source="#"><choice>
+                  <sic>Prtitachrd</sic>
+                  <corr>Pritchard</corr>
+                </choice>"</quote> wrote <rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Lady Ann Clifford</rs></l>
+               <l facs="#facs__eSc_line_b7705e87"><quote source="#">"read aloud the <rs type="literary-work" xml:id="lit-faer" key="Faerie Queene, The">Faery Queen</rs>..... They read aloud <rs type="person" xml:id="psn-mmon" key="Montaigne, Michel de">
+                <choice>
+                  <sic>Montage</sic>
+                  <corr>Montaigne</corr>
+                </choice></rs></quote></l>
+               <l facs="#facs__eSc_line_9dec5dad"><quote source="#" rend="inline">and the Faery Queen."</quote> Every word was given sharpness and</l>
+               <l facs="#facs__eSc_line_53e1b02b">substance by the speaking voice. And the lute, the cithern,</l>
                <l facs="#facs__eSc_line_241fd642">the old full bodied instrument that still stands on a</l>
-               <l facs="#facs__eSc_line_79499ea6">chest, hgave lilt, rhythm, melody to the vord.</l>
-               <l facs="#facs__eSc_line_0af6264d">WEardly one lighter or boat in hree that had the goods</l>
-               <l facs="#facs__eSc_line_342ac2e1">of a house in it , but there was a pair of virginals in</l>
-               <l facs="#facs__eSc_line_78998b39">it" Pepys observed in l666 vhen the people of bondon were</l>
+               <l facs="#facs__eSc_line_79499ea6"><choice>
+                  <sic>ches</sic>
+                  <corr>chest</corr>
+                </choice>, 
+                <choice>
+                  <sic>hgave</sic>
+                  <corr>gave</corr>
+                </choice> lilt, rhythm, melody to the word.</l>
+              </p>
+              <p>
+                <quote source="#">
+                 <l facs="#facs__eSc_line_0af6264d">"Hardly one lighter or boat in 
+              <choice>
+                <sic>hree</sic>
+                <corr>three</corr>
+              </choice> that had the goods</l>
+                 <l facs="#facs__eSc_line_342ac2e1">of a house in it , but there was a pair of virginals in</l>
+                </quote>
+               <l facs="#facs__eSc_line_78998b39"><quote source="#">it"</quote> <rs type="person" xml:id="psn-spep" key="Pepys, Samuel">Pepys</rs> observed in 1666 when the people of London were</l>
                <l facs="#facs__eSc_line_63d63fe9">loading their goods onto boats to escape from the fire of</l>
-               <l facs="#facs__eSc_line_86a2195f">London. Eis mind the vas full of undifferentiated words; olf</l>
-               <l facs="#facs__eSc_line_10c7464e">Words and new vords; GFrench and latin. No grammar bound them</l>
+               <l facs="#facs__eSc_line_86a2195f">London. His mind the was full of undifferentiated words; <choice>
+                  <sic>ole</sic>
+                  <corr>old</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_10c7464e">words and new words; <choice>
+                <sic>Gfrench</sic>
+                <corr>French</corr>
+              </choice> and Latin. No grammar bound them</l>
                <l facs="#facs__eSc_line_406f2118">tightly together. They were elastic; they could be danced to</l>
                <l facs="#facs__eSc_line_0191cecc">and sung to. But they could not follow the pace of the</l>
-               <l facs="#facs__eSc_line_ca4542d2">Spea ing voice.</l>
-               <l facs="#facs__eSc_line_dc50f50c">Spenser then in the Taery Queen is like a</l>
-               <l facs="#facs__eSc_line_35bdea8d">half articulate monster rising from the depths of silnce</l>
-               <l facs="#facs__eSc_line_5cc0ac25">hung with the veeds and pearls of the deep sea in</l>
+               <l facs="#facs__eSc_line_ca4542d2">
+                <choice>
+                  <sic>spea ing</sic>
+                  <corr>speaking</corr>
+                </choice> voice.</l>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_dc50f50c"><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> then in the <rs type="literary-work" xml:id="lit-faer" key="Faerie Queene, The">Faery Queen</rs> is like a</l>
+               <l facs="#facs__eSc_line_35bdea8d">half articulate monster rising from the depths of 
+                <choice>
+                  <sic>silnce</sic>
+                  <corr>silence</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_5cc0ac25">hung with the weeds and pearls of the deep sea in</l>
+              </p>
             </ab></div>
       </body>
    </text>
