@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 10 of 11. [Anon: and the peasants to respect their mother tongue...]. Typescript fragment, 2 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-10</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 10 of 11. [Anon: and the peasants to respect their mother tongue...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m54-10-3.tif" width="2773px" height="3500px"/>
@@ -49,35 +90,121 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_a0deb7a0">21</l>
-               <l facs="#facs__eSc_line_f530727e">strong. The watermen of the Pankkside lived on their fares.</l>
-               <l facs="#facs__eSc_line_3a138881">he flag flew; the trumpets sounded; and the audince</l>
-               <l facs="#facs__eSc_line_258ccdb2">payine their pemny, their tuo pence or their six pence,</l>
-               <l facs="#facs__eSc_line_2caa2493">crimded into the playmouse, and beheld in the light</l>
-               <l facs="#facs__eSc_line_8e90e825">of day nobmmns~nut actors, richly dressed accorine to</l>
-               <l facs="#facs__eSc_line_122e2479">one soectator in the cat off robes of the novbles, sold by</l>
-               <l facs="#facs__eSc_line_c6f84888">their servantsf)n the taffetas and tinsels that Nensloew</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_f530727e">strong. The watermen of the <rs type="place" xml:id="pla-bank" key="Bankside">Bankside</rs> lived on their fares.</l>
+               <l facs="#facs__eSc_line_3a138881">The flag flew; the trumpets sounded; and the 
+                <choice>
+                  <sic>audince</sic>
+                  <corr>audience</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_258ccdb2">paying their pemny, their two pence or their six pence,</l>
+               <l facs="#facs__eSc_line_2caa2493"><choice>
+                  <sic>criwded</sic>
+                  <corr>crowded</corr>
+                </choice> into the playhouse, and beheld in the light</l>
+               <l facs="#facs__eSc_line_8e90e825">of day <del>not scenery but</del> <add hand="ms" place="above"><del>but</del> a <del>few</del></add> actors, richly dressed 
+                <choice>
+                  <sic>accoring</sic>
+                  <corr>according</corr>
+                </choice> to</l>
+               <l facs="#facs__eSc_line_122e2479">one spectator in  the cast off robes of the 
+                <choice>
+                  <sic>novbles</sic>
+                  <corr>nobles</corr>
+                </choice>, sold by</l>
+               <l facs="#facs__eSc_line_c6f84888">their servants. in the taffetas and tinsels that 
+                <rs type="person" xml:id="psn-phen" key="Henslowe, Philip"><choice>
+                  <sic>Hensloew</sic>
+                  <corr>Henslowe</corr>
+                </choice></rs></l>
                <l facs="#facs__eSc_line_1e85a1ee">in the satin doublets and hose laid thick with gold lace</l>
-               <l facs="#facs__eSc_line_a81cc514">that Henslew entered in his book. But; or , accorind to th on</l>
-               <l facs="#facs__eSc_line_a98cbfbb">Spectator, dressed in the cast off robes of the nobles,</l>
-               <l facs="#facs__eSc_line_4a2b6b16">s01d br their servants. There was no scenery. The sun beat</l>
-               <l facs="#facs__eSc_line_7d4932d2">or the rain pour d on the common people standing in the yard.</l>
-               <l facs="#facs__eSc_line_2644d42a">A d then the actor spoke:</l>
-               <l facs="#facs__eSc_line_4575805a">Brother Cosroe, I find myself aggrieved,</l>
-               <l facs="#facs__eSc_line_89bfd481">Yet insufficient to express the same;</l>
-               <l facs="#facs__eSc_line_a35a96e6">For it requires a great and thunder ng speech</l>
-               <l facs="#facs__eSc_line_55feb72d">At last the the voice of a real man speaks . The play is</l>
-               <l facs="#facs__eSc_line_53ec0c96">centred; coNcentrated. It has a lodging. The mabdering voices</l>
-               <l facs="#facs__eSc_line_cf614d64">Ramatmskr aN~ concentrated; the</l>
-               <l facs="#facs__eSc_line_c8110f52">At last the wandering voices are collected. One man spesks</l>
-               <l facs="#facs__eSc_line_d81a2134">4n his ovn person. The mnadering voices are collected~~~~~A.</l>
-               <l facs="#facs__eSc_line_fb7e66fd">There is no abstraction any longer. All is visible, tamgible</l>
-               <l facs="#facs__eSc_line_008d8c0c">5udible. The world taktes shape behind him. Egypt and Libya</l>
-               <l facs="#facs__eSc_line_5405c259">and Perisa and reece unroll.bxuimtaximr. and armies and</l>
-               <l facs="#facs__eSc_line_c7502e60">Kings and p ains. Kings and Bmperors strdie fort ,</l>
-               <l facs="#facs__eSc_line_744ac90b">palpabte, and strident. They emerge like great moths,</l>
-               <l facs="#facs__eSc_line_4c26cfcb">xhikx skEhkK shaki ne their vines still creased and</l>
-               <l facs="#facs__eSc_line_0568ab46">damp in ansurd hyperboles.</l>
+               <l facs="#facs__eSc_line_a81cc514">that 
+                <choice>
+                  <sic>Henslew</sic>
+                  <corr>Henslowe</corr>
+                </choice> entered in his book. But; or 
+                <choice>
+                  <sic>accorind</sic>
+                  <corr>according</corr>
+                </choice> to th 
+                <choice>
+                  <sic>on</sic>
+                  <corr>one</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_a98cbfbb">spectator, dressed in the cast off robes of the nobles,</l>
+               <l facs="#facs__eSc_line_4a2b6b16">sold by their servants. There was no scenery. The sun beat</l>
+               <l facs="#facs__eSc_line_7d4932d2">or the rain 
+                <choice>
+                  <sic>pour d</sic>
+                  <corr>poured</corr>
+                </choice> on the common people standing in the yard.</l>
+               <l facs="#facs__eSc_line_2644d42a"><choice>
+                  <sic>A d</sic>
+                  <corr>And</corr>
+                </choice> then the actor spoke:</l>
+              </p>
+              <p>
+                <quote source="#">
+                 <l facs="#facs__eSc_line_4575805a">Brother Cosroe, I find myself aggrieved,</l>
+                 <l facs="#facs__eSc_line_89bfd481">Yet insufficient to express the same;</l>
+                 <l facs="#facs__eSc_line_a35a96e6">For it requires a great and 
+                  <choice>
+                    <sic>thunder ng</sic>
+                    <corr>thundering</corr>
+                  </choice> speech</l>
+                </quote>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_55feb72d">At last the voice of a real man speaks. The play is</l>
+               <l facs="#facs__eSc_line_53ec0c96">centred; concentrated. It has a lodging. The 
+            <choice>
+              <sic>wabdering</sic>
+              <corr>wandering</corr>
+            </choice> voices</l>
+               <l facs="#facs__eSc_line_cf614d64"><del>have their</del> are concentrated; the</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_c8110f52">At last the wandering voices are collected. One man speaks</l>
+               <l facs="#facs__eSc_line_d81a2134">in his own person. The 
+                <choice>
+                  <sic>wnadering</sic>
+                  <corr>wandering</corr>
+                </choice> voices are collected<add place="inline" hand="ms">: embodied</add></l>
+               <l facs="#facs__eSc_line_fb7e66fd">There is no abstraction any longer. All is visible, 
+                <choice>
+                  <sic>tamgible</sic>
+                  <corr>tangible</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_008d8c0c">audible. The world takes shape behind him. Egypt and Libya</l>
+               <l facs="#facs__eSc_line_5405c259">and 
+                <choice>
+                  <sic>Perisa</sic>
+                  <corr>Persia</corr>
+                </choice> and Greece unroll <del>behind him</del> and armies and</l>
+               <l facs="#facs__eSc_line_c7502e60">Kings and 
+                  <choice>
+                    <sic>p ains</sic>
+                    <corr>plains</corr>
+                  </choice>. Kings and Emperors 
+                  <choice>
+                    <sic>strdie</sic>
+                    <corr>stride</corr>
+                  </choice> 
+                  <choice>
+                    <sic>fort </sic>
+                    <corr>forth</corr>
+                  </choice>,</l>
+               <l facs="#facs__eSc_line_744ac90b">palpable, and strident. They emerge like great moths,</l>
+               <l facs="#facs__eSc_line_4c26cfcb"><del>still</del> <del>still [arms?]</del> shaking their wings still creased and</l>
+               <l facs="#facs__eSc_line_0568ab46">damp in 
+                <choice>
+                  <sic>ansurd</sic>
+                  <corr>absurd</corr>
+                </choice> hyperboles.</l>
+              </p>
             </ab></div>
       </body>
    </text>

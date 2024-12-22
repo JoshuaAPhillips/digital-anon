@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 10 of 11. [Anon: and the peasants to respect their mother tongue...]. Typescript fragment, 2 fols, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-10</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 10 of 11. [Anon: and the peasants to respect their mother tongue...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2774" lry="3500" xml:id="facs_">
          <graphic url="m54-10-1.tif" width="2774px" height="3500px"/>
@@ -28,7 +69,6 @@
             <zone points="2643,1061 2624,1061 2489,1069 2435,1057 2414,1053 2217,1051 2215,1051 2213,1051 2202,1055 2178,1065 2060,1055 1955,1048 1953,1048 1879,1055 1814,1061 1803,1055 1789,1046 1787,1046 1785,1046 1783,1046 1781,1046 1764,1053 1752,1061 1680,1061 1630,1053 1544,1044 1542,1044 1439,1053 1406,1055 1394,1053 1361,1044 1359,1044 1357,1044 1355,1044 1332,1053 1322,1055 1311,1051 1262,1040 1260,1040 1258,1040 1157,1051 1136,1053 1001,1053 999,1051 974,1040 972,1040 970,1040 912,1050 912,1083 910,1104 2659,1118 2663,1102 2659,1061 2643,1061" rendition="Line" xml:id="facs__eSc_line_e81410a6" subtype="default"/>
             <zone points="2653,1026 2643,1026 2497,1036 2499,1063 2499,1085 2674,1073 2674,1059 2668,1024 2653,1024 2653,1026" rendition="Line" xml:id="facs__eSc_line_f48399a9" subtype="default"/>
             <zone points="914,1193 912,1213 959,1225 960,1225 962,1225 994,1215 995,1215 1184,1215 1188,1217 1200,1225 1202,1225 1204,1225 1206,1225 1328,1217 1385,1215 1412,1219 1464,1226 1466,1226 1709,1221 1925,1217 1991,1225 2034,1228 2036,1228 2077,1225 2139,1219 2560,1228 2563,1199 2560,1155 2015,1162 1945,1153 1943,1153 1941,1153 1921,1153 1507,1160 914,1151 914,1193" rendition="Line" xml:id="facs__eSc_line_ee925dee" subtype="default"/>
-            <zone points="2550,1143 2552,1176 2595,1164 2690,1168 2692,1143 2690,1116 2595,1118 2571,1108 2569,1108 2567,1108 2565,1108 2563,1108 2550,1116 2550,1143" rendition="Line" xml:id="facs__eSc_line_eb3b4129" subtype="default"/>
             <zone points="908,1298 906,1314 974,1328 976,1328 1085,1320 1099,1330 1101,1330 1102,1330 1104,1330 1303,1320 1350,1331 1351,1331 1353,1331 1427,1320 1431,1320 1451,1320 1820,1335 1822,1335 1978,1324 2001,1324 2011,1326 2065,1335 2067,1335 2112,1326 2114,1326 2130,1337 2132,1337 2133,1337 2135,1337 2423,1328 2425,1308 2423,1263 2089,1271 2030,1263 1980,1256 1978,1256 1933,1263 1884,1271 1844,1263 1813,1258 1811,1258 1809,1258 1797,1263 1783,1271 1707,1271 1686,1263 1661,1256 1659,1256 1657,1256 1655,1256 1630,1263 1608,1271 1517,1271 1497,1263 1458,1252 1457,1252 1301,1252 1299,1252 1297,1252 1274,1263 1266,1269 1213,1269 1182,1263 1085,1252 1083,1252 1019,1263 1009,1265 908,1265 908,1298" rendition="Line" xml:id="facs__eSc_line_f8bf505a" subtype="default"/>
             <zone points="906,1407 904,1425 925,1438 927,1438 929,1438 931,1438 1163,1427 1180,1427 1188,1427 1274,1440 1276,1440 1278,1440 1307,1431 1416,1440 1418,1440 1480,1433 1505,1429 1513,1433 1534,1442 1536,1442 1538,1442 1663,1435 1729,1431 1737,1436 1744,1442 1746,1442 1748,1442 1750,1442 1785,1436 1820,1431 1857,1438 1894,1444 1896,1444 2001,1440 2157,1433 2180,1442 2188,1446 2190,1446 2192,1446 2194,1446 2204,1442 2225,1435 2476,1446 2480,1417 2476,1370 2416,1384 2307,1384 2291,1370 2289,1370 2287,1370 2285,1370 2153,1380 2128,1368 2126,1368 2124,1368 2122,1368 2098,1380 2001,1368 1999,1368 1997,1368 1966,1382 1851,1382 1737,1380 1711,1366 1709,1366 1707,1366 1571,1378 1556,1366 1554,1366 1552,1366 1550,1366 1350,1376 1330,1365 1328,1365 1326,1365 1252,1365 1250,1365 1248,1365 1219,1376 1130,1363 1128,1363 1048,1372 906,1361 906,1407" rendition="Line" xml:id="facs__eSc_line_f70f1b2f" subtype="default"/>
             <zone points="906,1516 906,1543 1480,1538 1602,1543 1721,1549 1723,1549 1781,1543 1818,1540 1846,1543 1896,1551 1898,1551 2027,1543 2062,1541 2116,1543 2379,1553 2381,1553 2474,1541 2476,1526 2476,1491 2451,1477 2449,1477 2447,1477 2217,1489 2186,1489 2182,1487 2165,1475 2163,1475 2161,1475 2159,1475 2157,1475 2155,1475 2139,1487 2137,1487 2133,1487 1997,1475 1995,1475 1933,1485 1918,1487 1888,1485 1776,1473 1774,1473 1696,1483 1686,1483 1678,1483 1637,1475 1635,1475 1634,1475 1632,1475 1624,1481 1618,1485 1593,1481 1546,1475 1544,1475 1466,1481 1441,1481 1437,1479 1420,1471 1418,1471 1283,1471 1281,1471 1280,1471 1260,1477 1243,1483 1198,1477 1138,1470 1136,1470 1073,1475 1023,1481 906,1475 906,1516" rendition="Line" xml:id="facs__eSc_line_d686c9cc" subtype="default"/>
@@ -66,52 +106,143 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_d94d36e7">20</l>
-               <l facs="#facs__eSc_line_72dcfef4">and the peasnts to respect their moth r thongue. Re mas</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_72dcfef4">and the 
+                <choice>
+                  <sic>peasnts</sic>
+                  <corr>peasants</corr>
+                </choice> to respect their 
+                <choice>
+                  <sic>moth r</sic>
+                  <corr>mother</corr>
+                </choice> 
+                <choice>
+                  <sic>thongue</sic>
+                  <corr>tongue</corr>
+                </choice>. He was</l>
                <l facs="#facs__eSc_line_bda5d0f5">making it possible for the gentry and the commons to sit</l>
-               <l facs="#facs__eSc_line_77922c68">t0gether fnxmnuximaxe listening to a play.</l>
-               <l facs="#facs__eSc_line_14939949">t tru ltua</l>
-               <l facs="#facs__eSc_line_34d16ee8">2nxkmxuxknæ trnaecta xkxe The vanderins actors axtmtghxer</l>
-               <l facs="#facs__eSc_line_ce2663d9">axcXRkExnxxkhkxàndk576. had their own house,</l>
-               <l facs="#facs__eSc_line_2ce2af96">some house of their own,</l>
+               <l facs="#facs__eSc_line_14939949"><add hand="ms">in one house</add></l>
+               <l facs="#facs__eSc_line_77922c68">together <del>in Southwark</del> listening to a play.</l>
+               <l facs="#facs__eSc_line_34d16ee8"><del>The house that was to give</del> The wandering actors <del>a lodging</del></l>
+               <l facs="#facs__eSc_line_2ce2af96"><add>some house of their own,</add></l>
+               <l facs="#facs__eSc_line_ce2663d9"><del>[across the?] was built in i</del>576 had their own house,</l>
                <l facs="#facs__eSc_line_de946669">their centre, in 1576. In</l>
-               <l facs="#facs__eSc_line_1f2befb0">3uihuut Ied 1guuss. henued Mcu- a a aue.  llclafos. ela d hlc</l>
-               <l facs="#facs__eSc_line_7d81d532">In l576 kinamxmmaxmammtayaumuxermko~ the yanderint</l>
-               <l facs="#facs__eSc_line_e81410a6">actors, ahad their owe centre, their playhouse. In l503-~~~~</l>
-               <l facs="#facs__eSc_line_f48399a9">l-eesed</l>
-               <l facs="#facs__eSc_line_ee925dee">the Rose in Southwark needed rebuikding. Pla nkes and nails</l>
-               <l facs="#facs__eSc_line_eb3b4129">heuiée.</l>
-               <l facs="#facs__eSc_line_f8bf505a">and hinges and timber mere The sums paid for plnalcs and</l>
-               <l facs="#facs__eSc_line_f70f1b2f">and nails and hinges and timber were entered by Rensloev</l>
-               <l facs="#facs__eSc_line_d686c9cc">4n his vellum bound book. It Was a vooden house, part</l>
-               <l facs="#facs__eSc_line_8ed1e46e">h C-fplul</l>
-               <l facs="#facs__eSc_line_209d9de3">x2l! open to the air, haxxex part thatched. It stood</l>
-               <l facs="#facs__eSc_line_ccb72497">n ~</l>
-               <l facs="#facs__eSc_line_79a2d627">on the 2anlkesdie next to the Bargem the Pell and the</l>
-               <l facs="#facs__eSc_line_f1301f61">lpauud</l>
-               <l facs="#facs__eSc_line_30ce36fd">Q ca Aulle</l>
-               <l facs="#facs__eSc_line_b961ca57">qub́yllu</l>
-               <l facs="#facs__eSc_line_6d93aef0">2at</l>
-               <l facs="#facs__eSc_line_a5b595e4">fres lu¬</l>
-               <l facs="#facs__eSc_line_302d6c62">Cocke, recognised stems." The-~alaide _gas infsted _uith ncgs</l>
-               <l facs="#facs__eSc_line_47235fa1">la7</l>
-               <l facs="#facs__eSc_line_259b470b">Aue</l>
-               <l facs="#facs__eSc_line_3a9597ca">A</l>
-               <l facs="#facs__eSc_line_ac9b4f78">and the Bankside vas infestd with hogs.It would hold,</l>
-               <l facs="#facs__eSc_line_69c0e3bd">lz ne</l>
-               <l facs="#facs__eSc_line_9ffedf71">R</l>
-               <l facs="#facs__eSc_line_bb453de5">r Greg calaculates,3, O00 people. and the avergae audince</l>
-               <l facs="#facs__eSc_line_e45fcc25">vas about l500.) ost paid one pemny to stand in the opens</l>
-               <l facs="#facs__eSc_line_c13dc606">xEux twopence secured a seat; mnmmnr~ six ence a soat</l>
-               <l facs="#facs__eSc_line_8956be81">under cover. At half past two in the afternoon, tue flag</l>
-               <l facs="#facs__eSc_line_3613c5c8">"as hoisted ovee the Rose; the trumpets sounded, and</l>
-               <l facs="#facs__eSc_line_583d5d44">the audience flockred across the river. For wate other amuse</l>
-               <l facs="#facs__eSc_line_dd8a5b0c">ment vas there dfor the gentlemen of the court, ot the lnns</l>
-               <l facs="#facs__eSc_line_3f8f28a4">f co rt " for the numbers of Captains and soldiers</l>
-               <l facs="#facs__eSc_line_1f2bc54d">about London? Only the ammusmenets that the preachers</l>
-               <l facs="#facs__eSc_line_a65e7cac">denounced; carding, dicing, gaming, th follomine of harlots</l>
-               <l facs="#facs__eSc_line_0532d12d">and drineing. The common people came from the croded fesertis</l>
-               <l facs="#facs__eSc_line_b91104a6">littie streets round St Pauls, mhere the dend bodies smelt</l>
+              </p>
+               <l facs="#facs__eSc_line_7d81d532">In 1576 <del>there was a playhouse for</del> the wandering</l>
+               <l facs="#facs__eSc_line_1f2befb0"><add place="above">The playhouse is takes its place</add></l>
+               <l facs="#facs__eSc_line_f48399a9"><add>[illeg.]</add></l>
+               <l facs="#facs__eSc_line_e81410a6">actors, <add hand="ms" place="above">[illeg.]</add> 
+                <choice>
+                  <sic>ahad</sic>
+                  <corr>had</corr>
+                </choice> their 
+                <choice>
+                  <sic>ow</sic>
+                  <corr>own</corr>
+                </choice> centre, their playhouse. In 1593</l>
+               <l facs="#facs__eSc_line_ee925dee">the <rs type="place" xml:id="pla-rose">Rose</rs> in <rs type="place" xml:id="pla-sout" key="Southwark">Southwark</rs> needed rebuilding. Planks and nails</l>
+               <l facs="#facs__eSc_line_f8bf505a">and hinges and timber were The sums paid for 
+                <choice>
+                  <sic>plnaks</sic>
+                  <corr>planks</corr>
+                </choice> and</l>
+               <l facs="#facs__eSc_line_f70f1b2f">and nails and hinges and timber were entered by <rs type="person" xml:id="psn-phen" key="Henslowe, Philip">
+                <choice>
+                  <sic>Hensloew</sic>
+                  <corr>Henslowe</corr>
+                </choice></rs></l>
+               <l facs="#facs__eSc_line_d686c9cc">in his vellum bound book. It was a wooden house, part</l>
+               <l facs="#facs__eSc_line_209d9de3"><del>half</del> open to the air, <del>half</del> part thatched. It stood</l>
+               <l facs="#facs__eSc_line_f1301f61"><add>[Bankside?]</add></l>
+               <l facs="#facs__eSc_line_79a2d627">on the <rs type="place" xml:id="pla-bank" key="Bankside">
+                <choice>
+                  <sic>Banksdie</sic>
+                  <corr>Bankside</corr>
+                </choice></rs> next to the <rs type="place" xml:id="pla-barg" key="Barge">
+                  <choice>
+                    <sic>Bargem</sic>
+                    <corr>Barge,</corr>
+              </choice></rs> the <rs type="place" xml:id="pla-bell" key="Bell, The">Bell</rs> and the</l>
+               <l facs="#facs__eSc_line_302d6c62"><rs type="place" xml:id="pla-cock" key="Cock, The">Cock</rs>, <quote source="#">"recognised stews."</quote> <del>The 
+                <choice>
+                  <sic>Bakside</sic>
+                  <corr>Bankside</corr>
+                </choice> was 
+                <choice>
+                  <sic>infsted</sic>
+                  <corr>infested</corr>
+                </choice> with hogs.</del></l>
+               <l facs="#facs__eSc_line_ac9b4f78">and the Bankside was infested with hogs. <add hand="ms" place="inline">[</add>It would hold,</l>
+               <l facs="#facs__eSc_line_bb453de5"><rs type="person" xml:id="psn-greg" key="Greg, W. W.">Dr Greg</rs> 
+                <choice>
+                  <sic>calaculates</sic>
+                  <corr>calculates</corr>
+                </choice>,3,000 people. and the 
+                <choice>
+                  <sic>avergae</sic>
+                  <corr>average</corr>
+                </choice> 
+                <choice>
+                  <sic>audince</sic>
+                  <corr>audience</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_e45fcc25">was about 1500. <add hand="ms" place="inline">]</add> Most paid one penny to stand in the open;</l>
+               <l facs="#facs__eSc_line_c13dc606"><del>for</del> twopence secured a seat; <del>and for</del> sixpence a seat</l>
+               <l facs="#facs__eSc_line_8956be81">under cover. At half past two in the afternoon, the flag</l>
+               <l facs="#facs__eSc_line_3613c5c8">was hoisted over the Rose; the trumpets sounded, and</l>
+               <l facs="#facs__eSc_line_583d5d44">the audience flocked across the river. For 
+                <choice>
+                  <sic>whate</sic>
+                  <corr>what</corr>
+                </choice> other amuse</l>
+               <l facs="#facs__eSc_line_dd8a5b0c">ment was there 
+                <choice>
+                  <sic>offor</sic>
+                  <corr>for</corr>
+                </choice> the gentlemen of the court, of the Inns</l>
+               <l facs="#facs__eSc_line_3f8f28a4">of 
+                <choice>
+                  <sic>co rt</sic>
+                  <corr>court</corr>
+                </choice> " for the numbers of Captains and soldiers</l>
+               <l facs="#facs__eSc_line_1f2bc54d">about London? Only the 
+                <choice>
+                  <sic>amusmenets</sic>
+                  <corr>amusements</corr>
+                </choice> that the preachers</l>
+               <l facs="#facs__eSc_line_a65e7cac">denounced; carding, dicing, gaming, 
+                <choice>
+                  <sic>th</sic>
+                  <corr>the</corr>
+                </choice> following of harlots</l>
+               <l facs="#facs__eSc_line_0532d12d">and drinking. The common people came from the 
+                <choice>
+                  <sic>croded</sic>
+                  <corr>crowded</corr>
+                </choice> 
+                <choice>
+                  <sic>fesertig</sic>
+                  <corr>festering</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_b91104a6">little streets round <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs>, where the dead bodies smelt</l>
+              <p>
+                <add>
+                 <l facs="#facs__eSc_line_8ed1e46e">the contrast between</l>
+                 <l facs="#facs__eSc_line_ccb72497">farm, country</l>
+                 <l facs="#facs__eSc_line_30ce36fd">[men?] have been</l>
+                 <l facs="#facs__eSc_line_b961ca57">judging by</l>
+                 <l facs="#facs__eSc_line_6d93aef0">studies may</l>
+                 <l facs="#facs__eSc_line_47235fa1">[shapes?]</l>
+                 <l facs="#facs__eSc_line_a5b595e4">Over there</l>
+                 <l facs="#facs__eSc_line_69c0e3bd">there is</l>
+                 <l facs="#facs__eSc_line_259b470b">London:</l>
+                 <l facs="#facs__eSc_line_3a9597ca">but</l>
+                 <l facs="#facs__eSc_line_9ffedf71">[suits?]</l>
+                </add>
+              </p>
             </ab></div>
       </body>
    </text>
