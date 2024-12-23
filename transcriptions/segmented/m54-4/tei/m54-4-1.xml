@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 4 of 11. [Anon: Anon has emerged sufficiently from the forests...]. Typescript fragment, 2 fols, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-4</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 4 of 11. [Anon has emerged sufficiently from the forests...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m54-4-1.tif" width="2768px" height="3500px"/>
@@ -49,34 +91,102 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_d2e4e8ea">Anon has emerged suflievently from the forests and the</l>
+               <l facs="#facs__eSc_line_d2e4e8ea"><rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> has emerged 
+                <choice>
+                  <sic>suffievcntly</sic>
+                  <corr>sufficiently</corr>
+                </choice> from the forests and the</l>
                <l facs="#facs__eSc_line_105321cd">floods to let us see a rough outline of a human shape.</l>
-               <l facs="#facs__eSc_line_f7e5cb75">Ee has a dog and a garden. He has books; and he digs in</l>
-               <l facs="#facs__eSc_line_4aceaaa7">the earth. Eis name is of no great moment. It may be</l>
-               <l facs="#facs__eSc_line_4d01f6d5">Rnppison; or it may be Paston. There is very little to dis</l>
-               <l facs="#facs__eSc_line_35dd59d4">tingusih one from the other. Ne has no expr ssion on his fae</l>
-               <l facs="#facs__eSc_line_639dc7f5">Re conveys to us chiefly what his ye sees, mhat his body</l>
-               <l facs="#facs__eSc_line_ed3da950">feels. Ne sees nland very clearly. Ne sees</l>
-               <l facs="#facs__eSc_line_c27a2ab4">its emptines; ; he conveys the scarcity of people; the</l>
-               <l facs="#facs__eSc_line_dec6f98f">predominace of inlividuals. The Queen is the dominant</l>
-               <l facs="#facs__eSc_line_8ac68604">fogure. Re can count her posses ons-- a few ships; a few</l>
-               <l facs="#facs__eSc_line_21ca5f6c">great hous s. Re watches her progeresses. She is parliemtn,</l>
+               <l facs="#facs__eSc_line_f7e5cb75">He has a dog and a garden. He has books; and he digs in</l>
+               <l facs="#facs__eSc_line_4aceaaa7">the earth. His name is of no great moment. It may be</l>
+               <l facs="#facs__eSc_line_4d01f6d5"><rs type="person" xml:id="psn-whar">Harrison</rs>; or it may be <rs type="person" xml:id="past" key="Pastons">Paston</rs>. There is very little to dis 
+                <choice>
+                  <sic>dis</sic>
+                  <corr>distinguish</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_35dd59d4"><choice>
+                  <sic>tingusih</sic>
+                  <corr>distinguish</corr>
+                </choice> one from the other. He has no 
+                <choice>
+                  <sic>exr ssion</sic>
+                  <corr>expression</corr>
+                </choice> on his 
+                <choice>
+                  <sic>fae</sic>
+                  <corr>face</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_639dc7f5">He conveys to us chiefly what his <choice>
+                  <sic>ye</sic>
+                  <corr>eye</corr>
+                </choice> sees, what his body</l>
+               <l facs="#facs__eSc_line_ed3da950">feels. He sees 
+                <choice>
+                  <sic>ngland</sic>
+                  <corr>England</corr>
+                </choice> very clearly. He sees</l>
+               <l facs="#facs__eSc_line_c27a2ab4">its 
+                <choice>
+                  <sic>emptines</sic>
+                  <corr>emptiness</corr>
+                </choice>; ; he conveys the scarcity of people; the</l>
+                   <l facs="#facs__eSc_line_dec6f98f"><choice>
+                  <sic>predominace</sic>
+                  <corr>predominance</corr>
+                </choice> of individuals. The <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs> is the dominant</l>
+               <l facs="#facs__eSc_line_8ac68604"><choice>
+                  <sic>fogure</sic>
+                  <corr>figure</corr>
+                </choice>. He can count her 
+                <choice>
+                  <sic>posses ons</sic>
+                  <corr>possessions</corr>
+                </choice>-- a few ships; a few</l>
+               <l facs="#facs__eSc_line_21ca5f6c">great 
+                <choice>
+                  <sic>hous s</sic>
+                  <corr>houses</corr>
+                </choice>. He watches her 
+                <choice>
+                  <sic>progeresses</sic>
+                  <corr>progresses</corr>
+                </choice>. She is 
+                <choice>
+                  <sic>parliemtn</sic>
+                  <corr>parliament</corr>
+                </choice>,</l>
                <l facs="#facs__eSc_line_c71b73ba">press, society, law and order. But the man who sees this</l>
-               <l facs="#facs__eSc_line_85b257ab">the individual, is still cümbered and stiff. Vriting is</l>
-               <l facs="#facs__eSc_line_4450124f">still an art that reguires great ceremony. Nhat you makte</l>
-               <l facs="#facs__eSc_line_91161a47">With the pen is separate from what you say mith the tongue.</l>
-               <l facs="#facs__eSc_line_2c096ebd">Only a few years back words were written elbaorately in</l>
+               <l facs="#facs__eSc_line_85b257ab">the individual, is still cumbered and stiff. Writing is</l>
+               <l facs="#facs__eSc_line_4450124f">still an art that reguires great ceremony. What you make</l>
+               <l facs="#facs__eSc_line_91161a47">With the pen is separate from what you say with the tongue.</l>
+               <l facs="#facs__eSc_line_2c096ebd">Only a few years back words were written 
+                <choice>
+                  <sic>elbaorately</sic>
+                  <corr>elaborately</corr>
+                </choice> in</l>
                <l facs="#facs__eSc_line_11dfba5f">lustrous ink upon valuable parchment; and the leaves,</l>
                <l facs="#facs__eSc_line_afe901c0">bound together, were chained to the lectern and read,</l>
-               <l facs="#facs__eSc_line_e3a6f432">by a fev, in great physical discomfort,</l>
-               <l facs="#facs__eSc_line_2b08de30">on hard neches in the cold. Even now, when words are printed,</l>
+               <l facs="#facs__eSc_line_e3a6f432">by a few, in great physical discomfort,</l>
+               <l facs="#facs__eSc_line_2b08de30">on hard 
+                <choice>
+                  <sic>neches</sic>
+                  <corr>benches</corr>
+                </choice> in the cold. Even now, when words are printed,</l>
                <l facs="#facs__eSc_line_997b1868">the great public is not the reader, or the paymaster.</l>
                <l facs="#facs__eSc_line_b5797dd8">ritten words must please a single man in the first place,</l>
-               <l facs="#facs__eSc_line_ee2f4cd6">mus t find its way into some noble room, vhere the nobles</l>
-               <l facs="#facs__eSc_line_85c83976">and. the gentry, have lisure after hunting, after</l>
-               <l facs="#facs__eSc_line_9ff46211">seeing their estates, and contrlling their servants,</l>
-               <l facs="#facs__eSc_line_a802cc0a">to to pick up a book and read its history or sins its song.</l>
-               <l facs="#facs__eSc_line_4ec30e24">For Vords must tell stories; or they must sound to</l>
+               <l facs="#facs__eSc_line_ee2f4cd6">must find its way into some noble room, vhere the nobles</l>
+               <l facs="#facs__eSc_line_85c83976">and the gentry, have 
+                <choice>
+                  <sic>lisure</sic>
+                  <corr>leisure</corr>
+                </choice> after hunting, after</l>
+               <l facs="#facs__eSc_line_9ff46211">seeing their estates, and 
+                <choice>
+                  <sic>contrlling</sic>
+                  <corr>controlling</corr>
+                </choice> their servants,</l>
+               <l facs="#facs__eSc_line_a802cc0a">to to pick up a book and read its history or sing its song.</l>
+               <l facs="#facs__eSc_line_4ec30e24">For Words must tell stories; or they must sound to</l>
                <l facs="#facs__eSc_line_2f85c246">the ear. For the nobles had their music; they played tunes</l>
             </ab></div>
       </body>

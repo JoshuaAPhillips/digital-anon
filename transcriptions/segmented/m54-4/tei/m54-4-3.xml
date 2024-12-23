@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 4 of 11. [Anon: Anon has emerged sufficiently from the forests...]. Typescript fragment, 2 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-4</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 4 of 11. [Anon has emerged sufficiently from the forests...]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m54-4-3.tif" width="2773px" height="3500px"/>
@@ -48,34 +90,134 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_820cc580">10</l>
-               <l facs="#facs__eSc_line_ba26aa9d">tunes to the vords that the "riters wrote.</l>
-               <l facs="#facs__eSc_line_495f7cfb">It is the printing press th t disturbs this company.</l>
-               <l facs="#facs__eSc_line_ef77ffb2">Lt is the printing press that makes the writer a nany headed</l>
-               <l facs="#facs__eSc_line_8c778321">many 1imbed . a mongrel with so many different pearents</l>
-               <l facs="#facs__eSc_line_904e9470">that it requires a hole army of learned men, and a perpetual</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_ba26aa9d">tunes to the words that the writers wrote.</l>
+              </p>
+                <l facs="#facs__eSc_line_495f7cfb">It is the <rs xml:id="obj-prin">printing press</rs> 
+                  <choice>
+                    <sic>th t</sic>
+                    <corr>that</corr>
+                  </choice> disturbs this company.</l>
+               <l facs="#facs__eSc_line_ef77ffb2">It is the printing press that makes the writer a 
+                <choice>
+                  <sic>nany</sic>
+                  <corr>many</corr>
+                </choice> headed</l>
+               <l facs="#facs__eSc_line_8c778321">many limbed. a mongrel with so many different 
+                <choice>
+                  <sic>pearants</sic>
+                  <corr>parents</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_904e9470">that it requires a 
+                <choice>
+                  <sic>hole</sic>
+                  <corr>whole</corr>
+                </choice> army of learned men, and a perpetual</l>
                <l facs="#facs__eSc_line_56c5d530">provision of fine tasters to keep any order or distinction</l>
-               <l facs="#facs__eSc_line_a9be97a9">etween the different members. The presses of London, Oxford</l>
-               <l facs="#facs__eSc_line_5bd0e0f4">Ca, bridge, sucking in copy, and casting out legible books</l>
-               <l facs="#facs__eSc_line_fe9be082">tnat nany one could read vas not a nice fedder. Anything</l>
-               <l facs="#facs__eSc_line_2c555bcd">that could be written could be printed. Nhat Any morality,</l>
-               <l facs="#facs__eSc_line_68c1c192">any record, whatver men wished recored, it would deliver</l>
-               <l facs="#facs__eSc_line_f00c62c2">a8 a book. Unlilke the pa nter or the musician the writer</l>
-               <l facs="#facs__eSc_line_bad23101">af ter the birth of the printine press is exposed to</l>
-               <l facs="#facs__eSc_line_cf549949">inmuerable inaporopirate and irelveant s litcitaions.</l>
-               <l facs="#facs__eSc_line_ab6dee38">Wny not write the histù of your parish? Or the life of a</l>
-               <l facs="#facs__eSc_line_e0a62570">Roman emperor? Way not talce part in the governement of your</l>
-               <l facs="#facs__eSc_line_6338208c">country? Vhy not advise the soul of its grils? Why not become</l>
-               <l facs="#facs__eSc_line_8d6b9f10">pampheleteer histroain moralist, or playwright? The Press is</l>
-               <l facs="#facs__eSc_line_ecd2e74c">ready to accept anything. And as the oublic becomes less</l>
-               <l facs="#facs__eSc_line_96540672">8erivile, less martial less concerned to ke p out the cold</l>
-               <l facs="#facs__eSc_line_91b616b3">and̂ fight the enemy, as glass is fitted i nto mindows,</l>
+               <l facs="#facs__eSc_line_a9be97a9"><choice>
+                  <sic>etween</sic>
+                  <corr>between</corr>
+                </choice> the different members. The presses of <rs type="place" xml:id="pla-lond" key="London">London</rs>, <rs type="place" xml:id="pla-oxfo" key="Oxford"></rs></l>
+               <l facs="#facs__eSc_line_5bd0e0f4"><rs type="place" xml:id="pla-camb" key="Cambridge">
+                <choice>
+                  <sic>Ca,bridge</sic>
+                  <corr>Cambridge</corr>
+                </choice></rs>, sucking in copy, and casting out legible books</l>
+               <l facs="#facs__eSc_line_fe9be082">that 
+                <choice>
+                  <sic>nany one</sic>
+                  <corr>any one</corr>
+                </choice> could read was not a nice 
+                <choice>
+                  <sic>fedder</sic>
+                  <corr>[feeder?]</corr>
+                </choice>. Anything</l>
+               <l facs="#facs__eSc_line_2c555bcd">that could be written could be printed. What Any morality,</l>
+               <l facs="#facs__eSc_line_68c1c192">any record, whatever men wished 
+                <choice>
+                  <sic>recored</sic>
+                  <corr>recorded</corr>
+                </choice>, it would deliver</l>
+               <l facs="#facs__eSc_line_f00c62c2">as a book. Unlike the 
+                <choice>
+                  <sic>pa nter</sic>
+                  <corr>painter</corr>
+                </choice> or the musician the writer</l>
+               <l facs="#facs__eSc_line_bad23101">after the birth of the printing press is exposed to</l>
+               <l facs="#facs__eSc_line_cf549949">innumerable 
+                <choice>
+                  <sic>inappropirate</sic>
+                  <corr>inappropriate</corr>
+                </choice> and 
+                <choice>
+                  <sic>irelveant</sic>
+                  <corr>irrelevant</corr>
+                </choice> 
+                <choice>
+                  <sic>s licitaions</sic>
+                  <corr>solcitations</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_ab6dee38">Why not write the 
+                <choice>
+                  <sic>hist</sic>
+                  <corr>history</corr>
+                </choice> of your parish? Or the life of a</l>
+               <l facs="#facs__eSc_line_e0a62570">Roman emperor? Why not take part in the 
+                <choice>
+                  <sic>governement</sic>
+                  <corr>government</corr>
+                </choice> of your</l>
+               <l facs="#facs__eSc_line_6338208c">country? Why not advise the soul of its 
+                <choice>
+                  <sic>erils</sic>
+                  <corr>perils</corr>
+                </choice>? Why not become</l>
+               <l facs="#facs__eSc_line_8d6b9f10"><choice>
+                  <sic>pampheleteer</sic>
+                  <corr>pamphleteer</corr>
+                </choice> 
+                <choice>
+                  <sic>histroain</sic>
+                  <corr>historian</corr>
+                </choice> moralist, or playwright? The Press is</l>
+               <l facs="#facs__eSc_line_ecd2e74c">read to accept anything. And as the 
+                <choice>
+                  <sic>oublic</sic>
+                  <corr>public</corr>
+                </choice> becomes less</l>
+                   <l facs="#facs__eSc_line_96540672"><choice>
+                  <sic>serivile</sic>
+                  <corr>servile</corr>
+                </choice>, less martial less concerned to keep out the cold</l>
+               <l facs="#facs__eSc_line_91b616b3">and fight the enemy, as glass is fitted into windows,</l>
                <l facs="#facs__eSc_line_43d4ecc8">and pillows replace logs, the public adds its ovn invitation</l>
-               <l facs="#facs__eSc_line_0be21c65">to the writer. It is an inquisitive acti e minded public;</l>
-               <l facs="#facs__eSc_line_05c4d639">4t soon dissipates and talces hold of Anon. It makes him</l>
-               <l facs="#facs__eSc_line_b2aa9271">into an inmumerable comany of familar sprits, one</l>
-               <l facs="#facs__eSc_line_48cda64a">pr aching another delighting, anotherinstructing. Only a few</l>
-               <l facs="#facs__eSc_line_235b9d99">8till persist in malcing vords into vorks of art.</l>
+               <l facs="#facs__eSc_line_0be21c65">to the writer. It is an inquisitive 
+                <choice>
+                  <sic>acti e</sic>
+                  <corr>active</corr>
+                </choice> minded public;</l>
+               <l facs="#facs__eSc_line_05c4d639">it soon dissipates and takes hold of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>. It makes him</l>
+               <l facs="#facs__eSc_line_b2aa9271">into an innumerable 
+                <choice>
+                  <sic>comany</sic>
+                  <corr>company</corr>
+                </choice> of familiar 
+                <choice>
+                  <sic>sprits</sic>
+                  <corr>spirits</corr>
+                </choice>, one</l>
+               <l facs="#facs__eSc_line_48cda64a"><choice>
+                  <sic>pr aching</sic>
+                  <corr>preaching</corr>
+                </choice> another delighting, 
+                <choice>
+                  <sic>anotherinstructing</sic>
+                  <corr>another instructing</corr>
+                </choice>. Only a few</l>
+               <l facs="#facs__eSc_line_235b9d99">still persist in making words into works of art.</l>
             </ab></div>
       </body>
    </text>
