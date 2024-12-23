@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 3 of 11. [Anon: for coins. When he was walking...]. Typescript fragment, 4 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-3</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 3 of 11. [for coins. When he was walking...]. Typescript fragment, 4 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2762" lry="3500" xml:id="facs_">
          <graphic url="m54-3-3.tif" width="2762px" height="3500px"/>
@@ -50,36 +91,169 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_b2cea7fa">10</l>
-               <l facs="#facs__eSc_line_b506f928">thirty "had valked in the shadow of dath." It was Master</l>
-               <l facs="#facs__eSc_line_dfcb82d2">Boilney at Va, fiege who ppened his eyes; Master Bilney</l>
-               <l facs="#facs__eSc_line_09d82d8f">Who went about among the poor and the sivle,</l>
-               <l facs="#facs__eSc_line_5d59608f">aster Bilney heard him preach agianst Melnchton and his</l>
-               <l facs="#facs__eSc_line_8f8f25b5">opinions. and desired me for Gods sakee to heare his confessia</l>
-               <l facs="#facs__eSc_line_b0feea31">1 di6 so; and to sey the very truth, by his confession</l>
-               <l facs="#facs__eSc_line_de2ac967">I learnt ed more than for many eares. Nith Bilney he vi ted</l>
-               <l facs="#facs__eSc_line_9ba2cc7b">the prisones in the Tomer at Vambridge, for he wes ever visik</l>
-               <l facs="#facs__eSc_line_ba69e273">pirsoners andsiclt folk. There was a voman who had lilled</l>
-               <l facs="#facs__eSc_line_c72c6c08">her child. And -atimer brought her story before King</l>
-               <l facs="#facs__eSc_line_4569d185">Enery the eighth as he tallked mith aim after the sermon in</l>
-               <l facs="#facs__eSc_line_a4f0f755">the gallery. and got her padrdon. aster Bilney mas burnt;</l>
-               <l facs="#facs__eSc_line_279cf5f7">so it may wi be, he will be burnt. eanehile he vill speak</l>
-               <l facs="#facs__eSc_line_dec8112f">the truth so that the simp le can understand. In their own</l>
-               <l facs="#facs__eSc_line_4712e016">tongue. Standing on the verge of the Mlizabetha age,</l>
-               <l facs="#facs__eSc_line_c071bca0">he sau, as , arrison saw, the great buildings rise on the</l>
-               <l facs="#facs__eSc_line_b01cf2da">foundations o the. old. "There ws never such building then</l>
-               <l facs="#facs__eSc_line_5265121e">as i now, planting, nor marrying." And yet the Englis are</l>
-               <l facs="#facs__eSc_line_df24e5b7">still sunle in supe stition. Give themoe he implores that</l>
-               <l facs="#facs__eSc_line_0e785e1d">was wont to bestow on pilgrimagesmatters , in trentalls</l>
-               <l facs="#facs__eSc_line_e1b215e3">in masses, in purgatory matters" to poor men sons so that</l>
-               <l facs="#facs__eSc_line_5f7e041b">they may become schlars. WThere be now none but greate mens</l>
-               <l facs="#facs__eSc_line_f0742f4b">sons in colleges. " "It will come to pass that</l>
-               <l facs="#facs__eSc_line_d940370a">we shallhave nothing but a little Ebglish divinity, that will</l>
-               <l facs="#facs__eSc_line_ab6d8b13">bring the realm into a very barbarousness, and utter</l>
-               <l facs="#facs__eSc_line_4ccb44b1">decay of learning."</l>
-               <l facs="#facs__eSc_line_2a1154c2">This vas the voice of the neu lraning, the vo ce</l>
-               <l facs="#facs__eSc_line_cbc4be20">that ousted superstiti,n th voice of reason, charity, common</l>
-               <l facs="#facs__eSc_line_39e892e3">8ense. But it mas by an irnoy ironically enough, the</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_b506f928">thirty <quote source="#" rend="inline">"had walked in the shadow of 
+                <choice>
+                  <sic>d ath</sic>
+                  <corr>death</corr>
+                </choice>."</quote> It was Master</l>
+               <l facs="#facs__eSc_line_dfcb82d2"><rs type="person" xml:id="psn-tbil" key="Bilney, Thomas">
+                <choice>
+                  <sic>Boilney</sic>
+                  <corr>Bilney</corr>
+                </choice></rs> at 
+                <rs type="place" xml:id="psn-camb" key="Cambridge"><choice>
+                  <sic>Ca, fiege</sic>
+                  <corr>Cambridge</corr>
+                </choice></rs> who 
+                <choice>
+                  <sic>ppened</sic>
+                  <corr>opened</corr>
+                </choice> his eyes; Master Bilney</l>
+               <l facs="#facs__eSc_line_09d82d8f">who went about among the poor and the 
+                <choice>
+                  <sic>sivk</sic>
+                  <corr>sick</corr>
+                </choice>,</l>
+               <l facs="#facs__eSc_line_5d59608f">Master Bilney heard him preach 
+                <choice>
+                  <sic>agianst</sic>
+                  <corr>against</corr>
+                </choice> <rs type="person" xml:id="psn-pmel" key="Melancthon, Philipp">
+                  <choice>
+                    <sic>Melnchton</sic>
+                    <corr>Melancthon</corr>
+                  </choice></rs> and his</l>
+               <l facs="#facs__eSc_line_8f8f25b5">opinons. <quote source="#" rend="inline">and desired me for Gods sake to hear his 
+                <choice>
+                  <sic>confessio</sic>
+                  <corr>confession</corr>
+                </choice></quote></l>
+               <l facs="#facs__eSc_line_b0feea31"><quote source="#" rend="inline">"did so; and to say the very truth, by his confession</quote></l>
+               <l facs="#facs__eSc_line_de2ac967"><quote source="#" rend="inline">I learnt ed more than for many 
+                <choice>
+                  <sic>yeares</sic>
+                  <corr>yeares</corr>
+                </choice>.</quote> With Bilney he 
+                <choice>
+                  <sic>vi ted</sic>
+                  <corr>visited</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_9ba2cc7b">the 
+                <choice>
+                  <sic>prisones</sic>
+                  <corr>prisoners</corr>
+                </choice> in the Tower at Cambridge, for he was ever 
+                <choice>
+                  <sic>visig</sic>
+                  <corr>visiting</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_ba69e273"><choice>
+                  <sic>pirsoners</sic>
+                  <corr>prisoners</corr>
+                </choice> 
+                <choice>
+                  <sic>andsick</sic>
+                  <corr>and sick</corr>
+                </choice> folk. There was a woman who had killed</l>
+               <l facs="#facs__eSc_line_c72c6c08">her child. And <rs type="person" xml:id="psn-hlat" key="Latimer, Hugh">Latimer</rs> brought her story before King</l>
+               <l facs="#facs__eSc_line_4569d185"><rs type="person" xml:id="psn-hen8" key="Henry VIII">
+                <choice>
+                  <sic>Hnery</sic>
+                  <corr>Henry</corr>
+                </choice> the eighth</rs> as he talked with him after the sermon in</l>
+               <l facs="#facs__eSc_line_a4f0f755">the gallery. and he got her 
+                <choice>
+                  <sic>padrdon</sic>
+                  <corr>pardon</corr>
+                </choice>. Master Bilney was burnt;</l>
+               <l facs="#facs__eSc_line_279cf5f7">so it may wi be, he will be burnt. 
+                <choice>
+                  <sic>eanehile</sic>
+                  <corr>Meanwhile</corr>
+                </choice> he will speak</l>
+               <l facs="#facs__eSc_line_dec8112f">the truth so that the 
+                <choice>
+                  <sic>simp le</sic>
+                  <corr>simple</corr>
+                </choice> can understand. In their own</l>
+               <l facs="#facs__eSc_line_4712e016">tongue. Standing on the verge of the 
+                <choice>
+                  <sic>Elizabetha</sic>
+                  <corr>Elizabethan</corr>
+                </choice> age,</l>
+               <l facs="#facs__eSc_line_c071bca0">he saw, as <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> saw, the great buildings rise on the</l>
+               <l facs="#facs__eSc_line_b01cf2da">foundations of the old. <quote source="#" rend="inline">"There 
+                <choice>
+                  <sic>ws</sic>
+                  <corr>was</corr>
+                </choice> never such buildings then</quote></l>
+               <l facs="#facs__eSc_line_5265121e"><quote source="#" rend="inline">as 
+                <choice>
+                  <sic>if</sic>
+                  <corr>is</corr>
+                </choice> now, planting, nor marrying."</quote> And yet the 
+                <choice>
+                  <sic>Englis</sic>
+                  <corr>English</corr>
+                </choice> are</l>
+               <l facs="#facs__eSc_line_df24e5b7">still sunk in 
+                <choice>
+                  <sic>supe stition</sic>
+                  <corr>superstition</corr>
+                </choice>. Give 
+                <choice>
+                  <sic>thmoey</sic>
+                  <corr>the money</corr>
+                </choice> he implores that</l>
+               <l facs="#facs__eSc_line_0e785e1d"><quote source="#" rend="inline">was wont to bestow on 
+                <choice>
+                  <sic>pilgrimagesmatters</sic>
+                  <corr>pilgrimages matters</corr>
+                </choice>, in trentalls</quote></l>
+               <l facs="#facs__eSc_line_e1b215e3"><quote source="#" rend="inline">in masses, in purgatory matters"</quote> to poor men sons so that</l>
+               <l facs="#facs__eSc_line_5f7e041b">they may become 
+                <choice>
+                  <sic>schlars</sic>
+                  <corr>scholars</corr>
+                </choice>. <quote source="#" rend="inline">"There be now none but greate mens</quote></l>
+               <l facs="#facs__eSc_line_f0742f4b"><quote source="#" rend="inline">sons in colleges."</quote> <quote source="#" rend="inline">It will come to pass that</quote></l>
+                <quote source="#">
+                 <l facs="#facs__eSc_line_d940370a">we 
+                    <choice>
+                      <sic>shallhave</sic>
+                      <corr>shall have</corr>
+                    </choice> nothing but a little 
+                    <choice>
+                      <sic>Ebglish</sic>
+                      <corr>English</corr>
+                    </choice> divinity, that will</l>
+                 <l facs="#facs__eSc_line_ab6d8b13">bring the realm into a very barbarousness, and utter</l>
+                 <l facs="#facs__eSc_line_4ccb44b1">decay of learning."</l>
+                </quote>
+            </p>
+               <l facs="#facs__eSc_line_2a1154c2">This was the voice of the new 
+                <choice>
+                  <sic>lraning</sic>
+                  <corr>learning</corr>
+                </choice>, the 
+                <choice>
+                  <sic>vo ce</sic>
+                  <corr>voice</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_cbc4be20">that ousted 
+                <choice>
+                  <sic>superstiti,n</sic>
+                  <corr>superstition</corr>
+                </choice>, the voice of reason, charity, common</l>
+               <l facs="#facs__eSc_line_39e892e3">sense. But it was by an 
+                <choice>
+                  <sic>irnoy</sic>
+                  <corr>irony</corr>
+                </choice> ironically enough, the</l>
             </ab></div>
       </body>
    </text>

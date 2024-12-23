@@ -1,15 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 3 of 11. [Anon: for coins. When he was walking...]. Typescript fragment, 4 fols, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-3</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 3 of 11. [for coins. When he was walking...]. Typescript fragment, 4 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2777" lry="3500" xml:id="facs_">
          <graphic url="m54-3-5.tif" width="2777px" height="3500px"/>
@@ -50,36 +91,125 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_1518bc84">11</l>
-               <l facs="#facs__eSc_line_cdd37a70">the preacher who was for banishing Robin Bood and such</l>
-               <l facs="#facs__eSc_line_6c316f08">supersitions vas forging the very weapon theat gave the old</l>
-               <l facs="#facs__eSc_line_01c88451">mibstrels a new lease of life. Ris-English. hen he</l>
-               <l facs="#facs__eSc_line_ffc89a31">said the Lords prayer in Rnglish at the beginning and at</l>
-               <l facs="#facs__eSc_line_7c50cba2">the end of his ermon he was putting Bnglish into high places.</l>
-               <l facs="#facs__eSc_line_3a04b302">Ae was rescuing it from the back door. Ne was teaching</l>
-               <l facs="#facs__eSc_line_0c33b3c3">Spenser and Shakespere how to write.</l>
-               <l facs="#facs__eSc_line_8b5f087c">60th Rarrison and Latimer see the vaty same house</l>
-               <l facs="#facs__eSc_line_3e2d15eb"> a den pttt</l>
-               <l facs="#facs__eSc_line_e1cefa58">the hose that vas being built on the foundations of the</l>
-               <l facs="#facs__eSc_line_228e8d5a">old house. Ve can still see the great Nlizabethan house</l>
-               <l facs="#facs__eSc_line_7798bbbd">Mhose building vas to both preacher and antiquary a</l>
-               <l facs="#facs__eSc_line_e75d109a">sign of tkuxmxmxyoEtk luxury. in all its glory.</l>
-               <l facs="#facs__eSc_line_ffa391b1">There it-ts, standing in lts green island of Parke seapareted</l>
-               <l facs="#facs__eSc_line_1f06a507">of ten from the high road only by a dep in the ground and a</l>
-               <l facs="#facs__eSc_line_7b74734d">lom red wall. Tith its congloeration of roofs and chapels</l>
-               <l facs="#facs__eSc_line_8a2bc446">and chimeys i duarfs its neighboyrs. Inside all is lcept as</l>
-               <l facs="#facs__eSc_line_b3634a4c">if the Queen Elizabeth were expected. The upright Blizabetahn</l>
-               <l facs="#facs__eSc_line_5bb029cc">chairs stand round the valls. Their ftinges and tapestry</l>
-               <l facs="#facs__eSc_line_c013674f">are not much faded. The great oake tables are heavy</l>
-               <l facs="#facs__eSc_line_d9f7ea31">and polished. The carbed chairs and cupboards look barnd</l>
-               <l facs="#facs__eSc_line_04a454e0">new. The floor is strewn vith carpets; cut glass chandeliers</l>
-               <l facs="#facs__eSc_line_fd4aa19a">hang down from the decorated pl ter vork on the celing.</l>
-               <l facs="#facs__eSc_line_d68f0f2a">Even lknick knacks ha v survived; the inlaid vork box,</l>
-               <l facs="#facs__eSc_line_9b65abda">the and the pear shaped l te on mhich the Queen once</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_cdd37a70">the preacher who was for banishing <rs type="person" xml:id="psn-rhoo" key="Robin Hood">Robin Hood</rs>and such</l>
+               <l facs="#facs__eSc_line_6c316f08"><choice>
+                  <sic>supersitions</sic>
+                  <corr>superstitions</corr>
+                </choice> was forging the very weapon 
+                <choice>
+                  <sic>theat</sic>
+                  <corr>that</corr>
+                </choice> give the old</l>
+               <l facs="#facs__eSc_line_01c88451"><choice>
+                  <sic>mibstrels</sic>
+                  <corr>minstrels</corr>
+                </choice> a new lease of life. <del hand="ms">His English.</del> When he</l>
+               <l facs="#facs__eSc_line_ffc89a31">said the <rs type="literary-work" xml:id="lit-lord" key="Lord's Prayer">Lords prayer</rs> at the beginning and at</l>
+               <l facs="#facs__eSc_line_7c50cba2">the end of his 
+                <choice>
+                  <sic>ermon</sic>
+                  <corr>sermon</corr>
+                </choice> he was putting English into high places.</l>
+               <l facs="#facs__eSc_line_3a04b302">He was rescuing it from the back door. He was teaching</l>
+               <l facs="#facs__eSc_line_0c33b3c3"><rs xml:id="psn-espe">Spenser</rs> and <rs xml:id="psn-wsha">
+                <choice>
+                  <sic>Shakespere</sic>
+                  <corr>Shakespeare</corr>
+                </choice></rs> how to write.</l>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_3e2d15eb"><add hand="ms" place="above">[The house was being?]</add></l>
+               <l facs="#facs__eSc_line_8b5f087c">Both Harrison and Latimer see the very same house</l>
+               <l facs="#facs__eSc_line_e1cefa58">the 
+                <choice>
+                  <sic>hose</sic>
+                  <corr>house</corr>
+                </choice> that was being built on the foundations of the</l>
+               <l facs="#facs__eSc_line_228e8d5a">old house. We can still see the great Elizabethan house</l>
+               <l facs="#facs__eSc_line_7798bbbd">whose building vas to both preacher and antiquary a</l>
+               <l facs="#facs__eSc_line_e75d109a">sign of <del>the decay of</del> luxury. in all its glory.</l>
+               <l facs="#facs__eSc_line_ffa391b1">There it is, standing in its green island of Park 
+                <choice>
+                  <sic>seapareted</sic>
+                  <corr>separated</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_1f06a507">often from the high road by only a 
+                <choice>
+                  <sic>d p</sic>
+                  <corr>dip</corr>
+                </choice> in the ground and a</l>
+               <l facs="#facs__eSc_line_7b74734d">low red wall. With its 
+                <choice>
+                  <sic>congloeration</sic>
+                  <corr>conglomeration</corr>
+                </choice> of roofs and chapels</l>
+               <l facs="#facs__eSc_line_8a2bc446">and 
+                <choice>
+                  <sic>chimeys</sic>
+                  <corr>chimneys</corr>
+                </choice> 
+                <choice>
+                  <sic>i</sic>
+                  <corr>it</corr>
+                </choice> dwarfs its 
+                <choice>
+                  <sic>neighboyrs</sic>
+                  <corr>neighbours</corr>
+                </choice>. Inside all is kept as</l>
+               <l facs="#facs__eSc_line_b3634a4c">if the Queen <rs xml:id="psn-eliz">Elizabeth</rs> were expected. The upright 
+                <choice>
+                  <sic>Elizabetahn</sic>
+                  <corr>Elizabethan</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_5bb029cc">chairs stand round the walls. Their 
+                <choice>
+                  <sic>ftinges</sic>
+                  <corr>fittings</corr>
+                </choice> and tapestry</l>
+               <l facs="#facs__eSc_line_c013674f">are not much faded. The great oak tables are heavy</l>
+               <l facs="#facs__eSc_line_d9f7ea31">and polished. The 
+                <choice>
+                  <sic>carbed</sic>
+                  <corr>carved</corr>
+                </choice> chairs and cupboards look 
+                <choice>
+                  <sic>barnd</sic>
+                  <corr>brand</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_04a454e0">new. The floor is strewn with carpets; cut glass chandeliers</l>
+               <l facs="#facs__eSc_line_fd4aa19a">hang down from the decorated 
+                <choice>
+                  <sic>pl ter</sic>
+                  <corr>plaster</corr>
+                </choice> work on the 
+                <choice>
+                  <sic>celing</sic>
+                  <corr>ceiling</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_d68f0f2a">Even knick knacks 
+                <choice>
+                  <sic>ha v</sic>
+                  <corr>have</corr>
+                </choice> survived; the inlaid work box,</l>
+               <l facs="#facs__eSc_line_9b65abda">the and the pear shaped 
+                <choice>
+                  <sic>l te</sic>
+                  <corr>lute</corr>
+                </choice> on which the Queen once</l>
                <l facs="#facs__eSc_line_2eac64c0">played.</l>
-               <l facs="#facs__eSc_line_0b8689a4">But the Mlizabethans themselves are silent. Only</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_0b8689a4">But the Elizabethans themselves are silent. Only</l>
                <l facs="#facs__eSc_line_163d1f55">the furniture remains,, stiff and ornate, fantastic and</l>
-               <l facs="#facs__eSc_line_a1a60dee">uncuhsioned.</l>
+               <l facs="#facs__eSc_line_a1a60dee"><choice>
+                  <sic>uncushioned</sic>
+                  <corr>uncushioned</corr>
+                </choice>.</l>
+              </p>
             </ab></div>
       </body>
    </text>

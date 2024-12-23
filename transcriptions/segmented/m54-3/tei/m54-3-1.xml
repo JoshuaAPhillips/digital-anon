@@ -49,35 +49,98 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_bea3b6db">for coins. Nhen he vas walleing in ki~ the Arcbishops of</l>
-               <l facs="#facs__eSc_line_85112011">—anterburys garden, " the poor come keocking at the gate</l>
-               <l facs="#facs__eSc_line_1e64d054">and my man says " Sir, t ere is some one at the gate would</l>
-               <l facs="#facs__eSc_line_da483710">8peak with oyu." So he laid aside his book and went</l>
-               <l facs="#facs__eSc_line_a1623ba4">ut anong the poor. He visited them in their hovels. Te</l>
+               <l facs="#facs__eSc_line_bea3b6db">for coins. When he was walking in <del>his</del> the <rs type="person" xml:id="psn-arch" key="Archbishop of Canterbury">
+                <choice>
+                  <sic>Arcbishops</sic>
+                  <corr>Archbishop</corr>
+                </choice> of</rs></l>
+               <l facs="#facs__eSc_line_85112011"><rs type="person" xml:id="psn-arch">Canterburys</rs> garden, <quote source="#" rend="inline">" the poor come 
+                <choice>
+                  <sic>kkocking</sic>
+                  <corr>knocking</corr>
+                </choice> at the gate</quote></l>
+               <l facs="#facs__eSc_line_1e64d054"><quote source="#" rend="inline">and my man says "Sir, there is some one at the gate would</quote></l>
+               <l facs="#facs__eSc_line_da483710"><quote source="#" rend="inline">speak with 
+                <choice>
+                  <sic>oyu</sic>
+                  <sic>you</sic>
+                </choice>."</quote> So he laid aside his book and went</l>
+               <l facs="#facs__eSc_line_a1623ba4">out anong the poor. He visited them in their hovels. He</l>
                <l facs="#facs__eSc_line_816a2f3a">noted their poverty. Re saw the poor man unable now</l>
                <l facs="#facs__eSc_line_a134d3e7">to buy a goose, for the great lords were enclosing the</l>
-               <l facs="#facs__eSc_line_20d03848">fields. e went to the great man and found him still in</l>
-               <l facs="#facs__eSc_line_e9d71f80">bed, after his munting anf hid hamking. Fe saw the poor sutis</l>
-               <l facs="#facs__eSc_line_bbb9be90">vaiting ho after hour in the hall to get their suit herad.</l>
-               <l facs="#facs__eSc_line_4ec76e00">These vere the cases that he brought before King Eaward</l>
-               <l facs="#facs__eSc_line_94279997">In a voice that sumbles and uses the old language of</l>
-               <l facs="#facs__eSc_line_99f73274">nis fathers house, ))" they say in my country to the hogs</l>
-               <l facs="#facs__eSc_line_cb974f6e">mingle mangle, cum pur, cum pur"--- he brought into the</l>
-               <l facs="#facs__eSc_line_a8086c4f">light of day the hiäxexmanrmamtimnxmantmaufixninxaxnfmihx</l>
-               <l facs="#facs__eSc_line_e3955998">mnmsmnkmmmmeæuæex the harlot going to execution at Newgate</l>
-               <l facs="#facs__eSc_line_b958b5e4">and̂ saying as she "ent "that f good fellows had kept</l>
-               <l facs="#facs__eSc_line_237cbe9f">touch with her, she had not bin at this time in that case</l>
-               <l facs="#facs__eSc_line_68ac7b27">Re saN the curates in their velevet shoes and slippers</l>
+               <l facs="#facs__eSc_line_20d03848">fields. He went to the great man and found him still in</l>
+               <l facs="#facs__eSc_line_e9d71f80">bed, after his hunting 
+                <choice>
+                  <sic>anf hid</sic>
+                  <corr>and his</corr>
+                </choice> hawking. He saw the poor 
+                <choice>
+                  <sic>sutis</sic>
+                  <corr>suitors</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_bbb9be90">waiting 
+                <choice>
+                  <sic>ho</sic>
+                  <corr>hour</corr>
+                </choice> in the hall to get their suit 
+                <choice>
+                  <sic>herad</sic>
+                  <corr>heard</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_4ec76e00">These were the casees that he brought before <rs type="person" xml:id="psn-edw4" key="Edward IV">King Edward</rs></l>
+               <l facs="#facs__eSc_line_94279997">In a voice that 
+                <choice>
+                  <sic>sumbles</sic>
+                  <corr>stumbles</corr>
+                </choice> and uses the old language of</l>
+               <l facs="#facs__eSc_line_99f73274">his fathers house, &#41;&#41;<quote source="#" rend="inline">" they say in my country to the hogs</quote></l>
+               <l facs="#facs__eSc_line_cb974f6e"><quote source="#" rend="inline">mingle mangle, cum pur, cum pur"</quote> <!-- this is from one of Latimer's sermons to Edward! -->--- he brought into the</l>
+               <l facs="#facs__eSc_line_a8086c4f">light of day the <del>hidden [illeg.] and suffering</del></l>
+               <l facs="#facs__eSc_line_e3955998"><del>present moment</del> the harlot going to execution at <rs type="place" xml:id="pla-newg" key="Newgate">Newgate</rs></l>
+               <l facs="#facs__eSc_line_b958b5e4">and saying as she went <quote source="#">"that 
+                <choice>
+                  <sic> f</sic>
+                  <corr>if</corr>
+                </choice> good fellows had kept</quote></l>
+               <l facs="#facs__eSc_line_237cbe9f"><quote source="#">touch with her, she had not bin at this time in that case."</quote></l>
+               <l facs="#facs__eSc_line_68ac7b27">He saw the curates   in their 
+                <choice>
+                  <sic>velevet</sic>
+                  <corr>velvet</corr>
+                </choice> shoes and slippers</l>
                <l facs="#facs__eSc_line_ab5e0578">meet to dance the morris dance. And the fine ladies</l>
-               <l facs="#facs__eSc_line_e724964b">dressed in vardinaglls "ith their hair puffed out in tussocks</l>
-               <l facs="#facs__eSc_line_a2d36b74">He san the yo ng me n given over in th st to gulling drinm is</l>
-               <l facs="#facs__eSc_line_98b7ce27">and woring. The young men dice amay their thrift; Instead of</l>
-               <l facs="#facs__eSc_line_2730982e">shootins with the long ow they their sports are lost</l>
-               <l facs="#facs__eSc_line_7abd97aa">turned into bowling, drinming and whoring. Ee And the poor</l>
-               <l facs="#facs__eSc_line_77fd5fd7">are still going on pilgr mages, sttting un candles and</l>
-               <l facs="#facs__eSc_line_b60206b6"/>
-               <l facs="#facs__eSc_line_1e5ff16f">Wirshipping pigs bones. Ne casts the light of the new</l>
-               <l facs="#facs__eSc_line_42e2191d">learnins upon the the old superstitions. Ne too, until he</l>
+               <l facs="#facs__eSc_line_e724964b">dressed in 
+                <choice>
+                  <sic>vardinaglls</sic>
+                  <corr>vardingalls</corr>
+                </choice> with their hair puffed out in tussocks</l>
+               <l facs="#facs__eSc_line_a2d36b74">He saw the 
+                <choice>
+                  <sic>yo ng</sic>
+                  <corr>young</corr>
+                </choice> men given over in the s t to gulling 
+                <choice>
+                  <sic>drinm ig</sic>
+                  <corr>drinking</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_98b7ce27">and whoring. The young men dice away their thrift; Instead of</l>
+               <l facs="#facs__eSc_line_2730982e">shooting with the long 
+                <choice>
+                  <sic> ow</sic>
+                  <corr>bow</corr>
+                </choice> they their sports are lost</l>
+               <l facs="#facs__eSc_line_7abd97aa">turned into bowling 
+                <choice>
+                  <sic>drinming</sic>
+                  <corr>drinking</corr>
+                </choice> and whoring. He And the poor</l>
+               <l facs="#facs__eSc_line_77fd5fd7">are still going on pilgrimages, setting up candles and</l>
+               <l facs="#facs__eSc_line_b60206b6">[illeg.]</l>
+               <l facs="#facs__eSc_line_1e5ff16f"><choice>
+                  <sic>wirshipping</sic>
+                  <corr>worshipping</corr>
+                </choice> pigs bones. <add hand="ms" place="above">[illeg.]</add> He casts the light of the new</l>
+               <l facs="#facs__eSc_line_42e2191d">learning upon the the old superstitions. He too, until he</l>
             </ab></div>
       </body>
    </text>

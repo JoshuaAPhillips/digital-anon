@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 3 of 11. [Anon: for coins. When he was walking...]. Typescript fragment, 4 fols, fol. 4r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-3</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 3 of 11. [for coins. When he was walking...]. Typescript fragment, 4 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2765" lry="3500" xml:id="facs_">
          <graphic url="m54-3-7.tif" width="2765px" height="3500px"/>
@@ -45,31 +87,132 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_6cd9d9d5">12</l>
-               <l facs="#facs__eSc_line_086d2eeb">Latimer had read the Lord Prayer in English. The Eible</l>
-               <l facs="#facs__eSc_line_8881b69c">mas printed in English. And, using the prose of the bible</l>
-               <l facs="#facs__eSc_line_9ece8f90">8hen they write prose, the Elixabethans are unknwon to us.</l>
-               <l facs="#facs__eSc_line_0a4a1c0b">Then in some extrem ty of anguish or fear they takce up the</l>
-               <l facs="#facs__eSc_line_c5a8edd9">pen they use the rhyms of the Bible. Itis a garment only</l>
-               <l facs="#facs__eSc_line_a51dd49f">to be worn when the mind is in the right attidtue. They can</l>
-               <l facs="#facs__eSc_line_a43f9f9c">say nothins simple, suble, or breif. At torham nury Lady</l>
-               <l facs="#facs__eSc_line_791274c8">An n Bacon sat writing to her son. But her letters are like</l>
-               <l facs="#facs__eSc_line_50b63a76">seroms, or satte doucments, intricate, involved,</l>
-               <l facs="#facs__eSc_line_a8416be7">circumtutious. She is a ceunsellor admonishing a subordinate;</l>
-               <l facs="#facs__eSc_line_4e642bac">She e hosrts God keep us sound in the faith</l>
-               <l facs="#facs__eSc_line_7723b9ab">and send us health and a care to please G0d before all.</l>
-               <l facs="#facs__eSc_line_226bea53">She admoni shes " Be not spee y of speech, nor talk</l>
-               <l facs="#facs__eSc_line_348b1e83">suuddenly, discrteion requieth and that</l>
-               <l facs="#facs__eSc_line_5147f9c7">soberly then... If she has to descend to an actual object</l>
-               <l facs="#facs__eSc_line_d5f67553">a baslet of starwberries it is with c darle insintuat ons.</l>
-               <l facs="#facs__eSc_line_4fabfad1">Greck and atin come as easily to her pen as</l>
-               <l facs="#facs__eSc_line_3b524a0c">English. There is no gaity, no freedom no familairty</l>
-               <l facs="#facs__eSc_line_27a95a6f">in this world. Fear of God, suspeiion of man surround</l>
-               <l facs="#facs__eSc_line_306a647b">tae Writer as with the Wlls of a dungeon. The wall may</l>
-               <l facs="#facs__eSc_line_88e908f3">conceal a bady Ann whois merry and gay; it may concesl</l>
-               <l facs="#facs__eSc_line_81d61642">mus t cobneceal passion, laughter and sorrow;</l>
-               <l facs="#facs__eSc_line_45bc8120">bu no one can tell who it is that lives on the other side</l>
-               <l facs="#facs__eSc_line_9e639919">0f the wall of formal langauge.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_086d2eeb">Latimer had read the 
+                <choice>
+                  <sic>Lord</sic>
+                  <corr>Lord's</corr>
+                </choice> Prayer in English. The Bible</l>
+               <l facs="#facs__eSc_line_8881b69c">was printed in English. And, using the prose of the bible</l>
+               <l facs="#facs__eSc_line_9ece8f90">when they write prose, the 
+                <choice>
+                  <sic>Elixabethans</sic>
+                  <corr>Elizabethans</corr>
+                </choice> are 
+                <choice>
+                  <sic>unknwon</sic>
+                  <corr>unknown</corr>
+                </choice> to us.</l>
+               <l facs="#facs__eSc_line_0a4a1c0b">When in some extremity of anguish or fear they take up the</l>
+               <l facs="#facs__eSc_line_c5a8edd9">pen they use the 
+                <choice>
+                  <sic>rhyms</sic>
+                  <corr>rhythms</corr>
+                </choice> of the Bible. 
+                <choice>
+                  <sic>Itis</sic>
+                  <corr>It is</corr>
+                </choice> a garment only</l>
+               <l facs="#facs__eSc_line_a51dd49f">to be worn when the mind is in the right 
+                <choice>
+                  <sic>attidtue</sic>
+                  <corr>attitude</corr>
+                </choice>. They can</l>
+               <l facs="#facs__eSc_line_a43f9f9c">say nothing simple, subtle, or 
+                <choice>
+                  <sic>breif</sic>
+                  <corr>brief</corr>
+                </choice>. At <rs type="place" xml:id="pla-gorh" key="Gorhambury">
+                  <choice>
+                    <sic>Gorham nury</sic>
+                    <corr>Gorhambury</corr>
+                  </choice></rs> Lady</l>
+               <l facs="#facs__eSc_line_791274c8"><rs type="person" xml:id="psn-abac" key="Bacon, Anne">Ann Bacon</rs> sat writing to <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">her son</rs>. But her letters are like</l>
+               <l facs="#facs__eSc_line_50b63a76"><choice>
+                  <sic>seroms</sic>
+                  <corr>sermons</corr>
+                </choice>, or 
+                <choice>
+                  <sic>satte doucments</sic>
+                  <corr>state documents</corr>
+                </choice>, intricate, involved,</l>
+               <l facs="#facs__eSc_line_a8416be7"><choice>
+                <sic>circumtutious</sic>
+                <corr>circuitous</corr>
+              </choice>. She is a counsellor admonishing a subordinate;</l>
+               <l facs="#facs__eSc_line_4e642bac">She 
+                <choice>
+                  <sic>e hosrts</sic>
+                  <corr>exhorts</corr>
+                </choice> <quote source="#" rend="inline">God keep us sound in the faith</quote></l>
+               <l facs="#facs__eSc_line_7723b9ab"><quote source="#" rend="inline">and send us health and a care to please God before all."</quote></l>
+               <l facs="#facs__eSc_line_226bea53">She admonishes <quote source="#" rend="inline">Be not speedy of speech, nor talk</quote></l>
+               <l facs="#facs__eSc_line_348b1e83"><quote source="#" rend="inline">
+                <choice>
+                  <sic>suuddenly</sic>
+                  <corr>suddenly</corr>
+                </choice>, 
+                <choice>
+                    <sic>discrteion</sic>
+                    <corr>discretion</corr>
+                </choice>
+                <choice>
+                  <sic>requieth</sic>
+                  <corr>requireth</corr>
+                </choice> and that</quote></l>
+               <l facs="#facs__eSc_line_5147f9c7"><quote source="#" rend="inline">soberly then..."</quote> If she has to descend to an actual object</l>
+               <l facs="#facs__eSc_line_d5f67553">a basket of 
+                <choice>
+                  <sic>starwberries</sic>
+                  <corr>strawberries</corr>
+                </choice> it is with c dark 
+                <choice>
+                  <sic>insintuat ons</sic>
+                  <corr>insinuations</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_4fabfad1">Greek and 
+                <choice>
+                  <sic>atin</sic>
+                  <corr>Latin</corr>
+                </choice> come as easily to her pen as</l>
+               <l facs="#facs__eSc_line_3b524a0c">English. There is no 
+                <choice>
+                  <sic>gaity</sic>
+                  <corr>gaiety</corr>
+                </choice>, no freedom no 
+                <choice>
+                  <sic>familairty</sic>
+                  <corr>familiarity</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_27a95a6f">in this world. Fear of God, 
+                <choice>
+                  <sic>suspciion</sic>
+                  <corr>suspicion</corr>
+                </choice> of man surround</l>
+               <l facs="#facs__eSc_line_306a647b">the writer as with the 
+                <choice>
+                  <sic>wlls</sic>
+                  <corr>walls</corr>
+                </choice> of a dungeon. The wall may</l>
+               <l facs="#facs__eSc_line_88e908f3">conceal a Lady Ann 
+                <choice>
+                  <sic>whois</sic>
+                  <corr>who is</corr>
+                </choice>merry and gay; it may <del hand="ms">conceal</del></l>
+               <l facs="#facs__eSc_line_81d61642">must 
+                <choice>
+                  <sic>cobneceal</sic>
+                  <corr>conceal</corr>
+                </choice> passion, laughter and sorrow;</l>
+               <l facs="#facs__eSc_line_45bc8120">but no one can tell who it is that lives on the other side</l>
+               <l facs="#facs__eSc_line_9e639919">of the wall of formal <choice>
+                  <sic>langauge</sic>
+                  <corr>language</corr>
+                </choice>.</l>
+              </p>
             </ab></div>
       </body>
    </text>
