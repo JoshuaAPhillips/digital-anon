@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 5 of 11. [Anon: a more crowded, a more divided audience...]. Typescript fragment, 3 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-5</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 5 of 11. [a more crowded, a more divided audience...]. Typescript fragment, 3 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2757" lry="3500" xml:id="facs_">
          <graphic url="m54-5-3.tif" width="2757px" height="3500px"/>
@@ -20,7 +62,6 @@
             <zone points="869,505 869,530 931,519 1171,528 1173,528 1254,519 1309,528 1311,528 1313,528 1330,528 1651,517 1702,526 1706,526 1708,526 1710,526 1743,517 1768,526 1770,526 1772,526 1774,528 1947,528 1947,526 1949,526 1951,526 1951,525 1965,517 1982,525 1986,526 1988,526 1990,526 2288,523 2290,501 2284,464 867,466 869,505" rendition="Line" xml:id="facs__eSc_line_d624403d" subtype="default"/>
             <zone points="1710,451 1710,472 1945,466 1947,447 1943,414 1751,406 1749,406 1747,406 1708,416 1710,451" rendition="Line" xml:id="facs__eSc_line_e5effb07" subtype="default"/>
             <zone points="865,612 865,639 2474,639 2476,612 2472,573 865,575 865,612" rendition="Line" xml:id="facs__eSc_line_eb732631" subtype="default"/>
-            <zone points="1465,554 1463,567 1546,581 1548,581 1599,571 1601,558 1601,515 1465,507 1465,554" rendition="Line" xml:id="facs__eSc_line_a9710ae1" subtype="default"/>
             <zone points="871,719 871,736 2371,736 2371,719 2371,688 2206,688 2206,686 2181,676 2179,676 2177,676 2109,686 2101,686 2087,686 1953,676 1951,676 1893,686 1881,686 1848,684 1688,676 1686,676 1591,684 1556,686 1515,684 1412,676 1410,676 1361,682 1338,686 1330,682 1317,676 1315,676 1313,676 1266,682 1239,686 1206,682 1149,676 1147,676 1145,676 1144,676 1138,682 1132,686 871,682 871,719" rendition="Line" xml:id="facs__eSc_line_592da660" subtype="default"/>
             <zone points="1891,783 1710,793 1622,783 1620,783 1467,795 1453,785 1451,785 1449,785 1254,785 1253,785 869,799 871,832 871,849 2371,841 2373,824 2369,793 2280,781 2278,781 2130,791 2105,781 2103,781 2101,781 2099,781 2070,791 1893,783 1891,783" rendition="Line" xml:id="facs__eSc_line_1ac75569" subtype="default"/>
             <zone points="1632,785 1632,803 1933,803 1935,781 1930,750 1871,754 1852,748 1832,742 1830,742 1828,742 1803,748 1764,756 1751,746 1749,744 1747,744 1745,744 1743,744 1741,744 1731,746 1698,756 1630,746 1632,785" rendition="Line" xml:id="facs__eSc_line_8b19ca5c" subtype="default"/>
@@ -55,41 +96,114 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_7d4b9005"/>
-               <l facs="#facs__eSc_line_7d4cbd80">Of thine owne spirit vhich doth in me survive</l>
-               <l facs="#facs__eSc_line_fd022e50">He looks back to Cah cer, he descends from Pahucer.</l>
-               <l facs="#facs__eSc_line_d624403d">It vas Chaucer that gave him the meausre by which to</l>
-               <l facs="#facs__eSc_line_e5effb07">stabdard</l>
-               <l facs="#facs__eSc_line_eb732631">measure hiw ovn vords. Nhere the modern vriter attackes the</l>
-               <l facs="#facs__eSc_line_a9710ae1"/>
-               <l facs="#facs__eSc_line_592da660">actual vorks of some on of the generation that is just</l>
-               <l facs="#facs__eSc_line_1ac75569">gone, malcing that book the kicking off point in another</l>
-               <l facs="#facs__eSc_line_8b19ca5c">a~u~ ~~</l>
-               <l facs="#facs__eSc_line_f688ac7d">direction, Spensers revolt vas against no particualr writer</l>
-               <l facs="#facs__eSc_line_48ce613d">---had not years of 8ilence intervened'--- but against the</l>
-               <l facs="#facs__eSc_line_38375a1f">-s tu-e ltuve hue stulsa lue (aué</l>
-               <l facs="#facs__eSc_line_90e57ed0">langauge itself, its decay, since Chaucer, its corruption.</l>
-               <l facs="#facs__eSc_line_4b4c647b">It was partly as an antidote to his own facility: taat-he</l>
-               <l facs="#facs__eSc_line_b4b00847">needed him. Me found the e the ourge which the self critical</l>
-               <l facs="#facs__eSc_line_77aeea29">Writer so often applies to his own disease in the oli Mglish</l>
-               <l facs="#facs__eSc_line_aa08671e">Words that were now ofsolete. A glossary "as added to the</l>
-               <l facs="#facs__eSc_line_0437d873">Shepherd̂s alendar to explain them. But partly he used the</l>
-               <l facs="#facs__eSc_line_2a1815ff">the crabbed, English of the past not as ve in our day</l>
-               <l facs="#facs__eSc_line_5f48bf29">seel to bring backk the sharpness vich much use has vorn</l>
-               <l facs="#facs__eSc_line_abf941af">Smooth; but to restrain what vas to come. He vas, as we~~~~</l>
-               <l facs="#facs__eSc_line_456ae983">cannot be, avare of the future. Everywhere, in ballds,</l>
+              <p>
+               <l facs="#facs__eSc_line_7d4b9005">13</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_7d4cbd80"><quote source="#" rend="inline">Of thine owne spirit which doth in me survive</quote></l>
+               <l facs="#facs__eSc_line_fd022e50">He looks back to 
+                <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey"><choice>
+                    <sic>Cah cer</sic>
+                    <corr>Chaucer</corr>
+                  </choice></rs>; he descends from 
+                  <choice>
+                    <sic>Cahucer</sic>
+                    <corr>Chaucer</corr>
+                  </choice>.</l>
+               <l facs="#facs__eSc_line_e5effb07"><add hand="typewriter" place="above">
+                  <choice>
+                    <sic>stabdard</sic>
+                    <corr>standard</corr>
+                  </choice></add></l>
+               <l facs="#facs__eSc_line_d624403d">It was Chaucer that gave him the <del>
+                <choice>
+                  <sic>meausre</sic>
+                  <corr>measure</corr>
+                </choice></del> by which to</l>
+               <l facs="#facs__eSc_line_eb732631">measure 
+                <choice>
+                  <sic>hiw</sic>
+                  <corr>his</corr>
+                </choice> own words. <add hand="ms" place="above">But</add> Where the modern writer 
+                <choice>
+                  <sic>attackes</sic>
+                  <corr>attacks</corr>
+                </choice> the</l>
+               <l facs="#facs__eSc_line_592da660">actual works of some 
+                <choice>
+                  <sic>on</sic>
+                  <corr>one</corr>
+                </choice> of the generation that is just</l>
+               <l facs="#facs__eSc_line_8b19ca5c"><add hand="ms" place="above">starting point</add></l>
+               <l facs="#facs__eSc_line_1ac75569">gone, making that book the kicking off point in another</l>
+               <l facs="#facs__eSc_line_f688ac7d">direction, <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spensers</rs> revolt was against no 
+                <choice>
+                  <sic>particualr</sic>
+                  <corr>particular</corr>
+                </choice> writer</l>
+               <l facs="#facs__eSc_line_38375a1f"><add hand="ms" place="above">who was there in English save <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>?</add></l>
+               <l facs="#facs__eSc_line_48ce613d">---had not years of silence intervened?--- but against the</l>
+               <l facs="#facs__eSc_line_90e57ed0"><choice>
+                  <sic>langauge</sic>
+                  <corr>language</corr>
+                </choice> itself, its decay, since Chaucer, its corruption.</l>
+               <l facs="#facs__eSc_line_4b4c647b">It was partly as an antidote to his own facility; <del hand="ms">that he</del></l>
+               <l facs="#facs__eSc_line_b4b00847"><del hand="ms">needed him</del>. He found the e 
+                <choice>
+                  <sic>ourge</sic>
+                  <corr>urge</corr>
+                </choice> which the self critical</l>
+               <l facs="#facs__eSc_line_77aeea29">writer so often applies to his own disease in the old English</l>
+               <l facs="#facs__eSc_line_aa08671e">words that were now o<del>n</del><add place="inline">b</add>solete. A glossary was added to the</l>
+               <l facs="#facs__eSc_line_0437d873"><rs type="person" xml:id="lit-shep" key="Shepherd's Calendar, The">Shepherds Calendar</rs> to explain them. But partly he used the</l>
+               <l facs="#facs__eSc_line_2a1815ff">the crabbed, English of the past not as we in our day</l>
+               <l facs="#facs__eSc_line_5f48bf29">seek to bring back the sharpness which much use has vorn</l>
+               <l facs="#facs__eSc_line_abf941af">smooth; but to restrain what was to come. He was, as we <add hand="ms" place="inline">are not</add></l>
+               <l facs="#facs__eSc_line_456ae983"><del hand="ms">cannot be</del>, aware of the future. Everywhere, in 
+                <choice>
+                  <sic>ballds</sic>
+                  <corr>ballads</corr>
+                </choice>,</l>
                <l facs="#facs__eSc_line_40411e3e">songs, talk in the street, at the tavern, at the back</l>
-               <l facs="#facs__eSc_line_5ac28262">door, he heard vit his acute ear for sound -</l>
-               <l facs="#facs__eSc_line_b2dbec02">tha something rising, movins, bursting up</l>
-               <l facs="#facs__eSc_line_e4da8da7">from beanth the old exact words; the crabbed but precise</l>
-               <l facs="#facs__eSc_line_6f11de90">4ue~ d.</l>
-               <l facs="#facs__eSc_line_efaf40b0">language of Chaucer. Vas it not to restrain that insur ction</l>
-               <l facs="#facs__eSc_line_5501b20f"> ~ et</l>
-               <l facs="#facs__eSc_line_fb342749">thzthe looked back to the Canterbury Pil grims?</l>
-               <l facs="#facs__eSc_line_d6446d11">Yet vat comparison is possible between the poetry of</l>
-               <l facs="#facs__eSc_line_7e5eafaa">Chaucer and the poetry of Spenser? The one clear, sharp,</l>
-               <l facs="#facs__eSc_line_4c8c5873">me erry;definite; strifdins straight on. the other sen</l>
-               <l facs="#facs__eSc_line_8b00db60">8isensuous, sinuous, dallying, winding in out of the glooms</l>
+               <l facs="#facs__eSc_line_5ac28262">door, he heard 
+                <choice>
+                  <sic>wit</sic>
+                  <corr>with</corr>
+                </choice> his acute ear for sound</l>
+               <l facs="#facs__eSc_line_b2dbec02"><del>that</del> something rising, moving, 
+                <choice>
+                  <sic>buursting</sic>
+                  <corr>bursting</corr>
+                </choice> up</l>
+               <l facs="#facs__eSc_line_6f11de90"><add place="above">deepening</add></l>
+               <l facs="#facs__eSc_line_e4da8da7">from <choice>
+                  <sic>beanth</sic>
+                  <corr>beneath</corr>
+                </choice><add place="inline">;</add> the old exact words; the crabbed but precise</l>
+               <l facs="#facs__eSc_line_5501b20f"><add place="above">It was partly</add></l>
+               <l facs="#facs__eSc_line_efaf40b0">language of Chaucer. Was it not to restrain that <choice>
+                  <sic>insur ction</sic>
+                  <corr>insurrection</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_fb342749"><choice>
+                  <sic>thzthe</sic>
+                  <corr>that he</corr>
+                </choice> looked back to the <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Canterbury Pilgrims?</rs></l>
+            </p>
+               <l facs="#facs__eSc_line_d6446d11"><del>Yet</del> <add place="inline">W</add><del>w</del>hat comparison is possible between the poetry of</l>
+               <l facs="#facs__eSc_line_7e5eafaa"><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs> and the poetry of <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs>? The one clear, sharp,</l>
+               <l facs="#facs__eSc_line_4c8c5873"><choice>
+                  <sic>me erry</sic>
+                  <corr>merry</corr>
+                </choice>; definite; 
+                <choice>
+                  <sic>strifding</sic>
+                  <corr>striding</corr>
+                </choice> straight on. the other sen</l>
+               <l facs="#facs__eSc_line_8b00db60"><choice>
+              <sic>sisensuous</sic>
+              <corr>sensuous</corr>
+            </choice>, sinuous, dallying, winding in out of the glooms</l>
             </ab></div>
       </body>
    </text>

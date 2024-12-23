@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 5 of 11. [Anon: a more crowded, a more divided audience...]. Typescript fragment, 3 fols, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-5</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 5 of 11. [a more crowded, a more divided audience...]. Typescript fragment, 3 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2761" lry="3500" xml:id="facs_">
          <graphic url="m54-5-1.tif" width="2761px" height="3500px"/>
@@ -49,35 +91,94 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_e3aad012">12</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_e6977234">a more crowded, a more divided audience, to a</l>
-               <l facs="#facs__eSc_line_ae897590">public which desires accorind to its education, its poverty,</l>
-               <l facs="#facs__eSc_line_527c2d35">it wealth, n whistory, now instruction, now poetry itself,</l>
-               <l facs="#facs__eSc_line_73e46fba">and now whatever will makce them forget the drab, the</l>
-               <l facs="#facs__eSc_line_85b87882">mad̂eonured, the dismal in their own lives. As the book</l>
+               <l facs="#facs__eSc_line_ae897590">public which desires 
+                <choice>
+                  <sic>accordind</sic>
+                  <corr>according</corr>
+                </choice> to its education, its poverty,</l>
+               <l facs="#facs__eSc_line_527c2d35"><choice>
+                  <sic>it</sic>
+                  <corr>its</corr>
+                </choice> wealth, 
+                <choice>
+                  <sic>n w</sic>
+                  <corr>now</corr>
+                </choice> history, now instruction, now poetry itself,</l>
+               <l facs="#facs__eSc_line_73e46fba">and now whatever will make them forget the drab, the</l>
+               <l facs="#facs__eSc_line_85b87882"><del hand="ms">mudcoloured</del>, the dismal in their own lives. As the book</l>
                <l facs="#facs__eSc_line_f92c5dce">becomes more and more spun over with these influences,</l>
                <l facs="#facs__eSc_line_4fe04b95">the thing that the writer has to say becomes increasingly</l>
-               <l facs="#facs__eSc_line_3bcc94ac">cumbered. 1t is only to be discovered in a flash of</l>
+               <l facs="#facs__eSc_line_3bcc94ac">cumbered. It is only to be discovered in a flash of</l>
                <l facs="#facs__eSc_line_0ad8dd75">recognition Thus some say they that their beards</l>
                <l facs="#facs__eSc_line_b4dac445">bristle when they come up on it; others that a thrill</l>
                <l facs="#facs__eSc_line_86f50fd8">runs down the nerves of the thigh. To disengage the song</l>
-               <l facs="#facs__eSc_line_b4afb02b">from its encumbrances becomes as time gos on a task for</l>
+               <l facs="#facs__eSc_line_b4afb02b">from its encumbrances becomes as time 
+                <choice>
+                  <sic>gos</sic>
+                  <corr>goes</corr>
+                </choice> on a task for</l>
                <l facs="#facs__eSc_line_8b806498">the critic-- that specially equipped taster and trier</l>
-               <l facs="#facs__eSc_line_197f3a63">WBo Was not yet in existence in print when Spenser emerged</l>
-               <l facs="#facs__eSc_line_9b72016c">e</l>
-               <l facs="#facs__eSc_line_1dd17c8a">Need hunf peral enc sted from the depths of silence.</l>
-               <l facs="#facs__eSc_line_807a2f1d">uFor Wly, a Gods' name, may not we, as else the</l>
-               <l facs="#facs__eSc_line_e15abc3c">Greckes, have the kingdome of our owne langauge, and measure</l>
+               <l facs="#facs__eSc_line_9b72016c"><add hand="ms" place="above">the <rs xml:id="lit-faer">F.Q.</rs></add></l>
+               <l facs="#facs__eSc_line_197f3a63">who was not yet in existence <del hand="ms">in print</del> when <rs type="person" xml:id="psn-espe" key="Spenser">Spenser</rs> emerged</l>
+               <l facs="#facs__eSc_line_1dd17c8a">weed 
+                <choice>
+                  <sic>hunf</sic>
+                  <corr>hung</corr>
+                </choice> 
+                <choice>
+                  <sic>peral</sic>
+                  <corr>pearl</corr>
+                </choice> 
+                <choice>
+                  <sic>enc  sted</sic>
+                  <corr>encrusted</corr>
+                </choice> from the depths of silence.</l>
+            </p>
+              <quote source="#">
+               <l facs="#facs__eSc_line_807a2f1d">"For why, a Gods' name, may not we, as else the</l>
+               <l facs="#facs__eSc_line_e15abc3c">Greekes, have the kingdome of our owne 
+              <choice>
+                <sic>langauge</sic>
+                <corr>language</corr>
+              </choice>, and measure</l>
                <l facs="#facs__eSc_line_882179d6">our accents by the sound, reserving the quantity to the verse</l>
-               <l facs="#facs__eSc_line_e9fa378e">Thy, in Gods name , may not ve have the kingdom of our own</l>
-               <l facs="#facs__eSc_line_4d6578c7">lanague--- thus he proves himself vord cosncious, an</l>
-               <l facs="#facs__eSc_line_0471e463">artist, amare of his meidum, amare that vords are not</l>
-               <l facs="#facs__eSc_line_2337fa90">paint, nor music; nbut have their possibilities, their</l>
-               <l facs="#facs__eSc_line_c82c1353">mlimitations. To be thus amare, the writer must</l>
-               <l facs="#facs__eSc_line_26f7fa39">have a past behind him; as the hisrian to see the present,</l>
-               <l facs="#facs__eSc_line_a9a01006">mus t set it against an earlier age. To Spenser, the golden</l>
-               <l facs="#facs__eSc_line_3ae2876e">age vas Cahu Chaucers . Dan Chaucer, well of English</l>
-               <l facs="#facs__eSc_line_cc95c7c6">un filed... "that the infusion sveete</l>
+              </quote>
+               <l facs="#facs__eSc_line_e9fa378e">Why, in Gods name, may not ve have the kingdom of our own</l>
+               <l facs="#facs__eSc_line_4d6578c7"><choice>
+                  <sic>lanague</sic>
+                  <corr>language</corr>
+                </choice>--- thus he proves himself word 
+                <choice>
+                  <sic>cosncious</sic>
+                  <corr>conscious</corr>
+                </choice>, an</l>
+               <l facs="#facs__eSc_line_0471e463">artist, aware of his 
+                <choice>
+                  <sic>meidum</sic>
+                  <corr>medium</corr>
+                </choice>, aware that words are not</l>
+               <l facs="#facs__eSc_line_2337fa90">paint, nor music; 
+                <choice>
+                  <sic>nbut</sic>
+                  <corr>but</corr>
+                </choice> have their possibilities, their</l>
+               <l facs="#facs__eSc_line_c82c1353"><choice>
+                  <sic>mlimitations</sic>
+                  <corr>limitations</corr>
+                </choice>. To be thus aware, the writer must</l>
+               <l facs="#facs__eSc_line_26f7fa39">have a past behind him; as the 
+                <choice>
+                  <sic>hisrian</sic>
+                  <corr>historian</corr>
+                </choice> to see the present,</l>
+               <l facs="#facs__eSc_line_a9a01006">must set it against an earlier age. To <rs type="person" xml:id="psn-espe">Spenser</rs>, the golden</l>
+               <l facs="#facs__eSc_line_3ae2876e">age was Cahu <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs>. <quote source="#" rend="inline">Dan Chaucer, well of English</quote></l>
+               <l facs="#facs__eSc_line_cc95c7c6"><quote source="#" rend="inline">un filed... "that the infusion sweete</quote></l>
             </ab></div>
       </body>
    </text>

@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 5 of 11. [Anon: a more crowded, a more divided audience...]. Typescript fragment, 3 fols, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-5</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 5 of 11. [a more crowded, a more divided audience...]. Typescript fragment, 3 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m54-5-5.tif" width="2773px" height="3500px"/>
@@ -53,39 +95,138 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_6c38e43f">14</l>
-               <l facs="#facs__eSc_line_f2df5be7">of th forest glades. The one direct, abo t this real</l>
-               <l facs="#facs__eSc_line_7cd3961a">man , this real woman, here and now; th other maleing qua</l>
-               <l facs="#facs__eSc_line_34ef6937">qualities og noblesnees of baseness in to symblic Knights,</l>
-               <l facs="#facs__eSc_line_f714521c">or dawrfs; and sendins this visionay company, thse</l>
-               <l facs="#facs__eSc_line_6817b605">ladies and demens, thse Squires and domerdaries,</l>
-               <l facs="#facs__eSc_line_b8c87971">through time which is neither past npr present,</l>
-               <l facs="#facs__eSc_line_55197218">through lands which are neither haxax lnown or unqvon. Likeh</l>
-               <l facs="#facs__eSc_line_1434f8ff">the figures in dreams they are distorted; y tlike dreams</l>
-               <l facs="#facs__eSc_line_a510877a">very vivid, now close, now dfading away. Now,</l>
-               <l facs="#facs__eSc_line_67971f38">1ike the fgures in some great fresco, they cammxax</l>
-               <l facs="#facs__eSc_line_3608ee39">7luvs</l>
-               <l facs="#facs__eSc_line_b5fe305a">are composed, With the flowers grwoing at their feet, and</l>
-               <l facs="#facs__eSc_line_78f08cbb">behind them marble pillars, or trees With bright birds,</l>
-               <l facs="#facs__eSc_line_2cd8bf73">bdedi</l>
-               <l facs="#facs__eSc_line_abae8118">and the libbard and the lion couchant or romaning.</l>
-               <l facs="#facs__eSc_line_84e78209">The monotony f the of themetre, flinging its</l>
-               <l facs="#facs__eSc_line_70f75284">e</l>
-               <l facs="#facs__eSc_line_07a81e6b">curve of sound dike a wave tha alvays falls .) fills and</l>
-               <l facs="#facs__eSc_line_e1454efb">falls, like a vave, is beneath them. There is no tension;</l>
-               <l facs="#facs__eSc_line_e054239d">no direction. but always movement, oa–and onr and bright</l>
-               <l facs="#facs__eSc_line_abcf264c">visons, hnd folded in this inactaiton ue drvise and</l>
-               <l facs="#facs__eSc_line_145d4e36">81eep; but again, walke so such is the and ve sleep,</l>
-               <l facs="#facs__eSc_line_75739cb9">o hlut tvet e-ur let</l>
-               <l facs="#facs__eSc_line_7df0d353">yet a start amalke.</l>
-               <l facs="#facs__eSc_line_2efdc7c2">English poetry, then , might have continued to be a v</l>
-               <l facs="#facs__eSc_line_14dbd53b">b00kx read aloud; a pageant; a recollection; somet ing half</l>
-               <l facs="#facs__eSc_line_6c0e77ab">seen half heard, by the leisured, listening in th great</l>
-               <l facs="#facs__eSc_line_c7c7c821">room to some one reading aloud. Onygmatmtkaxsamxm~ma~</l>
-               <l facs="#facs__eSc_line_484c12a7">But there was the other voice.  the voice of Anon;</l>
-               <l facs="#facs__eSc_line_3c770972">Einnxnkemnmfixtitx no t as ve hear it, readins those first</l>
-               <l facs="#facs__eSc_line_05e5e5c7">carbbed lyrics in the beginning ot the anthology; but the</l>
-               <l facs="#facs__eSc_line_fb06a7d2">voice that Spenser heard; loud; rough; brutal.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_f2df5be7">of 
+                <choice>
+                  <sic>th</sic>
+                  <corr>the</corr>
+                </choice> forest glades. The one direct, 
+                <choice>
+                  <sic>abo t</sic>
+                  <corr>about</corr>
+                </choice> this real</l>
+                   <l facs="#facs__eSc_line_7cd3961a">man, this real woman, here and now; 
+                <choice>
+                  <sic>th</sic>
+                  <corr>the</corr>
+                </choice> other making qua</l>
+               <l facs="#facs__eSc_line_34ef6937">qualities 
+                <choice>
+                  <sic>og</sic>
+                  <corr>of</corr>
+                </choice> 
+                <choice>
+                  <sic>noblenees</sic>
+                  <corr>nobleness</corr>
+                </choice> of baseness in to 
+                <choice>
+                  <sic>symblic</sic>
+                  <corr>symbolic</corr>
+                </choice> Knights,</l>
+               <l facs="#facs__eSc_line_f714521c">or 
+                <choice>
+                  <sic>dawrfs</sic>
+                  <corr>dwarfs</corr>
+                </choice>; and sending this 
+                <choice>
+                  <sic>visionay</sic>
+                  <corr>visionary</corr>
+                </choice> company, 
+                <choice>
+                  <sic>thse</sic>
+                  <corr>these</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_6817b605">ladies and demons, these Squires and 
+                <choice>
+                  <sic>domerdaries</sic>
+                  <corr>dromedaries</corr>
+                </choice>,</l>
+               <l facs="#facs__eSc_line_b8c87971">through time which is neither past 
+                <choice>
+                  <sic>npr</sic>
+                  <corr>nor</corr>
+                </choice> present,</l>
+               <l facs="#facs__eSc_line_55197218">through lands which are neither <del>here</del> known or 
+                <choice>
+                  <sic>unkwon</sic>
+                  <corr>unknown</corr>
+                </choice>. Like</l>
+               <l facs="#facs__eSc_line_1434f8ff">the figures in dreams they are distorted; 
+                <choice>
+                  <sic>y tlike</sic>
+                  <corr>like</corr>
+                </choice> dreams</l>
+               <l facs="#facs__eSc_line_a510877a">very vivid, now close, now 
+                <choice>
+                  <sic>dfading</sic>
+                  <corr>fading</corr>
+                </choice> away. Now,</l>
+               <l facs="#facs__eSc_line_67971f38">like the 
+                <choice>
+                  <sic>fgures</sic>
+                  <corr>figures</corr>
+                </choice> in some great fresco, they <del>composed</del></l>
+               <l facs="#facs__eSc_line_3608ee39"><add>grouped</add></l>
+               <l facs="#facs__eSc_line_b5fe305a">are <del hand="ms">composed</del> <add hand="ms" place="above">grouped</add>, with the flowers 
+                <choice>
+                  <sic>grwoing</sic>
+                  <corr>growing</corr>
+                </choice> at their feet, and</l>
+               <l facs="#facs__eSc_line_78f08cbb">behind them marble pillars, or trees with bright birds,</l>
+               <l facs="#facs__eSc_line_2cd8bf73"><add hand="ms" place="above">with</add></l>
+               <l facs="#facs__eSc_line_abae8118">and the libbard and the lion couchant or <choice>
+                  <sic>romaning</sic>
+                  <corr>roaming</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_84e78209">The monotony of the metre, flinging its</l>
+               <l facs="#facs__eSc_line_70f75284"><add hand="ms" place="above">there</add></l>
+               <l facs="#facs__eSc_line_07a81e6b">curve of sound <add hand="ms" place="inline">[</add>like a wave that always falls<add hand="ms" place="inline">]</add> fills and</l>
+               <l facs="#facs__eSc_line_e1454efb">falls, like a wave, is beneath them. There is no tension;</l>
+               <l facs="#facs__eSc_line_e054239d">no direction. but always movement, <del hand="ms">on and on</del> and bright</l>
+               <l facs="#facs__eSc_line_abcf264c"><choice>
+                  <sic>visons</sic>
+                  <corr>visions</corr>
+                </choice>, <add hand="ms" place="inline">[</add>and folded in this 
+                <choice>
+                  <sic>inactation</sic>
+                  <corr>incantation</corr>
+                </choice> we 
+                <choice>
+                  <sic>drwise</sic>
+                  <corr>drowse</corr>
+                </choice> and</l>
+               <l facs="#facs__eSc_line_145d4e36">sleep; but again, wake so such is the and we sleep,</l>
+               <l facs="#facs__eSc_line_75739cb9"><add hand="ms" place="above">so that we drowse yet</add></l>
+               <l facs="#facs__eSc_line_7df0d353">yet a start awake.</l>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_2efdc7c2">English poetry, then, might have continued to be a v</l>
+               <l facs="#facs__eSc_line_14dbd53b">book read aloud; a pageant; a recollection; 
+                <choice>
+                  <sic>somet ing</sic>
+                  <corr>something</corr>
+                </choice> half</l>
+               <l facs="#facs__eSc_line_6c0e77ab">seen half heard, by the leisured, listening in 
+                <choice>
+                  <sic>th</sic>
+                  <corr>the</corr>
+                </choice> great</l>
+               <l facs="#facs__eSc_line_c7c7c821">room to some one reading aloud. <del>Only at the same time</del></l>
+               <l facs="#facs__eSc_line_484c12a7">But there was the other voice.         - the voice of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>;</l>
+               <l facs="#facs__eSc_line_3c770972"><del>the voice of the</del> not as we hear it, reading those first</l>
+               <l facs="#facs__eSc_line_05e5e5c7"><choice>
+                  <sic>carbbed</sic>
+                  <corr>crabbed</corr>
+                </choice> lyrics in the beginning 
+                <choice>
+                  <sic>ot</sic>
+                  <corr>of</corr>
+                </choice> the anthology; but the</l>
+               <l facs="#facs__eSc_line_fb06a7d2">voice that <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> heard; loud; rough; brutal.</l>
+              </p>
             </ab></div>
       </body>
    </text>
