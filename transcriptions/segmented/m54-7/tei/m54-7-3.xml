@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 7 of 11. [Anon: distinct from the minstrel, whose words are printed.]. Typescript fragment, 2 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-7</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 7 of 11. [Anon: distinct from the minstrel, whose words are printed.]. Typescript fragment, 2 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2770" lry="3500" xml:id="facs_">
          <graphic url="m54-7-3.tif" width="2770px" height="3500px"/>
@@ -48,34 +90,96 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_f88d6b2d"/>
+              <p>
+               <l facs="#facs__eSc_line_f88d6b2d">15</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_cef79af7">the pace of the speaking voice. They could not enter into</l>
-               <l facs="#facs__eSc_line_f408c555">the private "orld.</l>
-               <l facs="#facs__eSc_line_e9a7e19f">Spenser then --" a little man with short hair,</l>
-               <l facs="#facs__eSc_line_77183d5b">a smell uand and cuffs' standing on the threshold of the</l>
-               <l facs="#facs__eSc_line_a88cc94e">1gay and sumptuous house" at enshurst, vas separate</l>
-               <l facs="#facs__eSc_line_114a6b0e">from Anon the misntre; and from Bolmhshed the Chronicler;</l>
-               <l facs="#facs__eSc_line_25827501">He Was separate too from his adueince. But the book which</l>
-               <l facs="#facs__eSc_line_9b8f2185">had given him his sepatare existence had brought into being</l>
+               <l facs="#facs__eSc_line_f408c555">the private world.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_e9a7e19f"><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> then --<quote source="#" rend="inline">"a little man with short hair,</quote></l>
+               <l facs="#facs__eSc_line_77183d5b"><quote source="#" rend="inline">a small 
+                  <choice>
+                    <sic>vband</sic>
+                    <corr>band</corr>
+                  </choice> and cuffs"</quote> standing on the threshold of the</l>
+                     <l facs="#facs__eSc_line_a88cc94e"><quote source="#" rend="inline">a small 
+                  <choice>
+                    <sic>vband</sic>
+                    <corr>band</corr>
+                  </choice> and cuffs"</quote> standing on the threshold of the</l>
+                <l><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" xml:id="pla-pens" key="Penshurst">
+                  <choice>
+                    <sic>enshurst</sic>
+                    <corr>Penshurst</corr>
+                  </choice></rs>, was separate</l>
+               <l facs="#facs__eSc_line_114a6b0e">from Anon the 
+                  <choice>
+                    <sic>misntre</sic>
+                    <corr>minstrel</corr>
+                  </choice>; and from 
+                  <rs type="person" xml:id="psn-rhol" key="Holinshed, Raphael"><choice>
+                    <sic>Holmshed</sic>
+                    <corr>Holinshed</corr>
+                  </choice></rs> the Chronicler;</l>
+               <l facs="#facs__eSc_line_25827501">He was separate too from his 
+                <choice>
+                  <sic>adueince</sic>
+                  <corr>audience</corr>
+                </choice>. But the book which</l>
+               <l facs="#facs__eSc_line_9b8f2185">had given him his 
+                <choice>
+                  <sic>sepatare</sic>
+                  <corr>separate</corr>
+                </choice> existence had brought into being</l>
                <l facs="#facs__eSc_line_ad1dc459">a little group of readers. That audience began at once to</l>
-               <l facs="#facs__eSc_line_96cce428">exert its pressure. Nhat is the book that will plase</l>
-               <l facs="#facs__eSc_line_a9563e4a">my patron Sir Philip Sidmey? Nhat is the theme that will</l>
-               <l facs="#facs__eSc_line_9ecfc82f">recommend itself to the Queen? At one come into ecistence all</l>
-               <l facs="#facs__eSc_line_9252cba5">those iunnmerable influences that are to tug and distort and</l>
+               <l facs="#facs__eSc_line_96cce428">exert its pressure. What is the book that will 
+                <choice>
+                  <sic>plase</sic>
+                  <corr>please</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_a9563e4a">my patron <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sir Philip 
+                <choice>
+                  <sic>Sidmey</sic>
+                  <corr>Sidney</corr>
+                </choice>?</rs> What is the theme that will</l>
+               <l facs="#facs__eSc_line_9ecfc82f">recommend itself to the <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs>? At once come into 
+                <choice>
+                  <sic>ecistence</sic>
+                  <corr>existence</corr>
+                </choice> all</l>
+               <l facs="#facs__eSc_line_9252cba5">those 
+                <choice>
+                  <sic>iunnmerable</sic>
+                  <corr>innumerable</corr>
+                </choice> influences that are to tug and distort and</l>
                <l facs="#facs__eSc_line_8d347dc7">thwart; as too they are to stimulate and draw out. The</l>
-               <l facs="#facs__eSc_line_46bddce5">p0et is no lomger a homleesbeing. Re is surro nd̂ed ~~~</l>
-               <l facs="#facs__eSc_line_8bc4fd90">4 A anu les., aM-elé, tmua (4 ner-l Ru-d, l,</l>
-               <l facs="#facs__eSc_line_a6ea88e3">with an atmonsheret Re suhiscte his insoiration to outside</l>
-               <l facs="#facs__eSc_line_8c26c104">(. — Lesc tdm le u~</l>
-               <l facs="#facs__eSc_line_fe42092f">1nfluences. Some are visible to himself only; others</l>
+               <l facs="#facs__eSc_line_8bc4fd90"><add hand="ms" place="above">a nameless, a wandering voice [combined?] with his audience</add></l>
+               <l facs="#facs__eSc_line_46bddce5">poet is no longer <del hand="ms">a homeless being</del>. He is surrounded</l>
+               <l facs="#facs__eSc_line_8c26c104"><add hand="ms" place="above">He is played upon by others</add></l>
+               <l facs="#facs__eSc_line_a6ea88e3">with an <del>
+                <choice>
+                  <sic>atmopshere</sic>
+                  <corr>atmosphere</corr>
+                </choice>. He subjects his inspiration</del> to outside</l>
+               <l facs="#facs__eSc_line_fe42092f">influences. Some are visible to himself only; others</l>
                <l facs="#facs__eSc_line_2f8bbaa4">only show thems lves when time has past. They become more and</l>
-               <l facs="#facs__eSc_line_e363e6f1">more complex. ~4 the book goes out into a more and more</l>
-               <l facs="#facs__eSc_line_07b3ded4">mume rous, a more and more divided audience. 4</l>
-               <l facs="#facs__eSc_line_48b58a52">Seme According to its edueation to its vealth to its pverty</l>
-               <l facs="#facs__eSc_line_63611f7f">theaudi nce begins to demand what it satisfies its omn needs</l>
-               <l facs="#facs__eSc_line_4de8fd7c">Some need poetry; othars history; othars a story to make</l>
+               <l facs="#facs__eSc_line_e363e6f1">more complex. <add hand="ms" place="inline">A</add> the book goes out into a more and more</l>
+               <l facs="#facs__eSc_line_07b3ded4">numerous, a more and more divided audience. <add>&amp;</add></l>
+               <l facs="#facs__eSc_line_48b58a52"><del hand="ms">Some</del> According to its education to its wealth to its 
+                <choice>
+                  <sic>pverty</sic>
+                  <corr>poverty</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_63611f7f"><choice>
+                  <sic>theaudi nce</sic>
+                  <corr>the audience</corr>
+                </choice> begins to demand what it satisfies its own needs</l>
+               <l facs="#facs__eSc_line_4de8fd7c">Some need poetry; <del hand="ms">others</del> history; <del hand="ms">others</del> a story to make</l>
                <l facs="#facs__eSc_line_0dacde8d">them forget the drabness of their lives. The thing that</l>
-               <l facs="#facs__eSc_line_34841fe4">the writer has to say becomes increasingly cumbered.</l>
+               <l facs="#facs__eSc_line_34841fe4">ththe writer has to say becomes increasingly cumbered.</l>
+              </p>
             </ab></div>
       </body>
    </text>
