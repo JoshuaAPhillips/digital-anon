@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 8 of 11. [Anon: With that a joyous fellow issued]. Typescript fragment, 3 fols, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-8</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 8 of 11. [Anon: With that a joyous fellow issued]. Typescript fragment, 3 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m54-8-1.tif" width="2773px" height="3500px"/>
@@ -49,35 +91,60 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_0594e0e7">2xx 15</l>
-               <l facs="#facs__eSc_line_f9ca0069">yith that a joyous fellowship iissued</l>
-               <l facs="#facs__eSc_line_fd62cbcf">Of misnterls making goodly merriment</l>
-               <l facs="#facs__eSc_line_b15594f1">yith wanton bardes and Rhymers impudent</l>
+              <p>
+               <l facs="#facs__eSc_line_0594e0e7"><del>16</del>xx 15</l>
+              </p>
+              <p>
+                <quote source="#">
+                 <l facs="#facs__eSc_line_f9ca0069">With that a joyous fellowship 
+                    <choice>
+                      <sic>iissued</sic>
+                      <corr>issued</corr>
+                    </choice></l>
+                 <l facs="#facs__eSc_line_fd62cbcf">Of 
+                  <choice>
+                    <sic>misnterls</sic>
+                    <corr>minstrels</corr>
+                  </choice> making goodly merriment</l>
+                 <l facs="#facs__eSc_line_b15594f1">With wanton bardes and Rhymers impudent</l>
+                </quote>
+            </p>
                <l facs="#facs__eSc_line_28baa55e">The word remind us that if the great Elizabethan</l>
-               <l facs="#facs__eSc_line_50a9a3de">house, Penshurst or Nilton looks to us out of proportion,</l>
-               <l facs="#facs__eSc_line_b64cc6f6">Enknn a derelict among th bungalows, it is because the</l>
-               <l facs="#facs__eSc_line_1c27d037">Connection between it and the village is lost. If we could</l>
-               <l facs="#facs__eSc_line_6a596f90">see the house as it was in Spensers time ve should see</l>
+               <l facs="#facs__eSc_line_50a9a3de">house, <rs type="person" xml:id="psn-pens" key="Penshurst">Penshurst</rs> or <rs type="place" xml:id="pla-wilt">Wilton</rs> looks to us out of proportion,</l>
+               <l facs="#facs__eSc_line_b64cc6f6"><del>; too</del> a derelict among 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> bungalows, it is because the</l>
+               <l facs="#facs__eSc_line_1c27d037">connection between it and the village is lost. If we could</l>
+               <l facs="#facs__eSc_line_6a596f90">see the house as it was in <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spensers</rs> time we should see</l>
                <l facs="#facs__eSc_line_6f3f30a0">tracks raying out from the great house across the fields to</l>
-               <l facs="#facs__eSc_line_ef5a7bdc">the cottage, to the farm, even to the hovel. Nar connected</l>
-               <l facs="#facs__eSc_line_f9d5c971">them. Armour, if the enemy care vas stored in the church.</l>
-               <l facs="#facs__eSc_line_b11b36be">The young men practised the great Bnglish art of</l>
-               <l facs="#facs__eSc_line_45b799d0">the long bow. Also there "as the other fight, the pertual</l>
+               <l facs="#facs__eSc_line_ef5a7bdc">the cottage, to the farm, even to the hovel. War connected</l>
+               <l facs="#facs__eSc_line_f9d5c971">them. Armour, if the enemy came was stored in the church.</l>
+               <l facs="#facs__eSc_line_b11b36be">The young men practised the great English art of</l>
+               <l facs="#facs__eSc_line_45b799d0">the long bow. Also there was the other fight, the <choice>
+                  <sic>pertual</sic>
+                  <corr>perpetual</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_88106200">fight with nature. They must together plough and sow if the</l>
-               <l facs="#facs__eSc_line_3455af27">Winter were not to starve them. This connection ixx</l>
+               <l facs="#facs__eSc_line_3455af27">winter were not to starve them. This connection <del>is</del></l>
                <l facs="#facs__eSc_line_20b113a6">between master and man is painfully and minutely recorded</l>
                <l facs="#facs__eSc_line_7e23e529">in the medieval letters. It is the staple of the whole</l>
                <l facs="#facs__eSc_line_333ee2ba">correspondence. But there was also the other less</l>
                <l facs="#facs__eSc_line_406dea6c">visible connection--the common belief. That bond between</l>
-               <l facs="#facs__eSc_line_bef8c82a">the different houses has been gromn over, like the</l>
-               <l facs="#facs__eSc_line_7ecc8e28">tracke along "hich the pilgrims rode to Canterbury. No one</l>
-               <l facs="#facs__eSc_line_d94fd183">  utn</l>
-               <l facs="#facs__eSc_line_42340ab7">drives there now. But whe Spenser came to Penshurst that</l>
+               <l facs="#facs__eSc_line_bef8c82a">the different houses has been grown over, like the</l>
+               <l facs="#facs__eSc_line_7ecc8e28">track along which the <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">pilgrims</rs> rode to <rs type="place" xml:id="pla-cant" key="Canterbury">Canterbury</rs>. No one</l>
+               <l facs="#facs__eSc_line_d94fd183"><add hand="ms" place="above">rides that way</add></l>
+               <l facs="#facs__eSc_line_42340ab7">drives there now. But 
+                <choice>
+                  <sic>whe</sic>
+                  <corr>when</corr>
+                </choice> <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> came to <rs type="person" xml:id="psn-pens" key="Penshurst">Penshurst</rs> that</l>
                <l facs="#facs__eSc_line_208e3167">track led from house to house. It led to the village green.</l>
-               <l facs="#facs__eSc_line_5673f24e">It led to the tree; to the "ell. In the spring they danced</l>
+               <l facs="#facs__eSc_line_5673f24e">It led to the tree; to the well. In the spring they danced</l>
                <l facs="#facs__eSc_line_4e525844">round the Maypole; at midsumer they lit the bon fire on the</l>
                <l facs="#facs__eSc_line_529cab1d">hill; at Christmas the mummers acted their dumb show;</l>
-               <l facs="#facs__eSc_line_e79f8012">the boys came vassailing antmxaxagim~nntkeim</l>
+               <l facs="#facs__eSc_line_e79f8012">the boys came wassailing <del>and were given their</del></l>
             </ab></div>
       </body>
    </text>

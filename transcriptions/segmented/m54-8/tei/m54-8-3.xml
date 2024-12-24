@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M54, 8 of 11. [Anon: With that a joyous fellow issued]. Typescript fragment, 3 fols, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m54-8</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M54, 8 of 11. [Anon: With that a joyous fellow issued]. Typescript fragment, 3 fols.</p>
+            <p>N.B.: This is one of eleven sub-fragments identified in the Berg Collection's M54. [Anon: The printing press brought the past into existence...]. Typescript fragments, unsigned and undated, 35 fols. I have determined pagination and sequencing based on subject matter. M54 as curated by the Berg Collection is available as part of 'The Digital Anon' and can be found at [LINK].</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2777" lry="3500" xml:id="facs_">
          <graphic url="m54-8-3.tif" width="2777px" height="3500px"/>
@@ -49,35 +91,135 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_ff0d6094">16</l>
-               <l facs="#facs__eSc_line_b08f1438">at Harvest time the God was "orshipped in the</l>
-               <l facs="#facs__eSc_line_fad5b55d">sheaf of corn; how thamayaknaexuxsx the God vas in the</l>
-               <l facs="#facs__eSc_line_677428ce">1ay tree--how in the dances and songs that childre sing</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_b08f1438">at Harvest time the God was worshipped in the</l>
+               <l facs="#facs__eSc_line_fad5b55d">sheaf of corn; how <del>the May tree was</del> the God was in the</l>
+               <l facs="#facs__eSc_line_677428ce"><choice>
+                  <sic>ay</sic>
+                  <corr>bay</corr>
+                </choice> tree--how in the dances and songs that 
+                <choice>
+                  <sic>childre</sic>
+                  <corr>children</corr>
+                </choice> sing</l>
                <l facs="#facs__eSc_line_12ea162b">the old Gods were worshipped, and served. In these dressings</l>
-               <l facs="#facs__eSc_line_98090a51">up at thamgnxx midsumner, at Christmas the Mn lish rememberig~</l>
+               <l facs="#facs__eSc_line_98090a51">up at <del>the gree</del> midsummer, at Christmas the 
+                <choice>
+                  <sic>En lish</sic>
+                  <corr>English</corr>
+                </choice> 
+                <choice>
+                  <sic>rememberig</sic>
+                  <corr>remembering</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_0f93d6d7">the Gods who were there when the stones were set on end</l>
-               <l facs="#facs__eSc_line_f2ec4e62">at Amesbury, at 3tonehenge, celebrated their gods; and</l>
-               <l facs="#facs__eSc_line_56a40977">at the same tiem gave shape to to the desire to cease, for</l>
-               <l facs="#facs__eSc_line_d275a840">that one day, from the pertual fight; to be free; to be soa</l>
-               <l facs="#facs__eSc_line_63764e75">ting; to act in their own persons the inner joy; to malke</l>
-               <l facs="#facs__eSc_line_6b4ede57">something which had no reason, no use. The schloars tell us</l>
-               <l facs="#facs__eSc_line_9da38e1d">that though t e e actors, presumably because they slipped</l>
-               <l facs="#facs__eSc_line_10d56ff0">from the common task, and often made mock of it, vere despsed</l>
+               <l facs="#facs__eSc_line_f2ec4e62">at <rs type="place" xml:id="pla-ames" key="Amesbury">Amesbury</rs>, at <rs type="place" xml:id="pla-ston" key="Stonehenge">Stonehenge</rs>, celebrated their gods; and</l>
+               <l facs="#facs__eSc_line_56a40977">at the same 
+                <choice>
+                  <sic>tiem</sic>
+                  <corr>time</corr>
+                </choice> gave shape to to the desire to cease, for</l>
+               <l facs="#facs__eSc_line_d275a840">that one day, from the 
+                <choice>
+                  <sic>pertual</sic>
+                  <corr>perpetual</corr>
+                </choice> fight; to be free; to be som</l>
+               <l facs="#facs__eSc_line_63764e75"><choice>
+                  <sic>tjing</sic>
+                  <corr>something</corr>
+                </choice>; to act in their own persons the inner joy; to make</l>
+               <l facs="#facs__eSc_line_6b4ede57">something which had no reason, no use. The 
+                <choice>
+                  <sic>schloars</sic>
+                  <corr>scholars</corr>
+                </choice> tell us</l>
+               <l facs="#facs__eSc_line_9da38e1d">that though 
+                <choice>
+                  <sic>t e e</sic>
+                  <corr>the</corr>
+                </choice> actors, presumably because they slipped</l>
+               <l facs="#facs__eSc_line_10d56ff0">from the common task, and often made mock of it, were <del>
+                <choice>
+                  <sic>despsed</sic>
+                  <corr>despised</corr>
+                </choice></del></l>
                <l facs="#facs__eSc_line_9748b07c">despised, yet the great had so much of the common desire</l>
-               <l facs="#facs__eSc_line_dc22bfe3">in them that Xings and Queens must have their minstresl, ther</l>
-               <l facs="#facs__eSc_line_47ca4309">dancers and singers. Rven the Church, conscious as the</l>
-               <l facs="#facs__eSc_line_e83969b5">preists vere that it was not theirGod but some pagan</l>
-               <l facs="#facs__eSc_line_2f5b8052">wn was thus hinoured, could not suppress the minstrels and</l>
+               <l facs="#facs__eSc_line_dc22bfe3">in them that Kings and Queens must have their 
+                <choice>
+                  <sic>minstresl</sic>
+                  <corr>minstrels</corr>
+                </choice>, 
+                <choice>
+                  <sic>ther</sic>
+                  <corr>their</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_47ca4309">dancers and singers. Even the Church, conscious as the</l>
+               <l facs="#facs__eSc_line_e83969b5"><choice>
+                  <sic>preists</sic>
+                  <corr>priests</corr>
+                </choice> were that it was not 
+                <choice>
+                  <sic>theirGod</sic>
+                  <corr>their God</corr>
+                </choice> but some pagan</l>
+               <l facs="#facs__eSc_line_2f5b8052"><choice>
+                  <sic>wh</sic>
+                  <corr>who</corr>
+                </choice> was thus 
+                <choice>
+                  <sic>hinoured</sic>
+                  <corr>honoured</corr>
+                </choice>, could not suppress the minstrels and</l>
                <l facs="#facs__eSc_line_82640f6f">and the rhyners, the mummers, the jugglers, the bear leaders</l>
-               <l facs="#facs__eSc_line_af4ce7dc">who came into the village, vho even acted t eir</l>
+               <l facs="#facs__eSc_line_af4ce7dc">who came into the village, vho even acted <choice>
+                  <sic>t eir</sic>
+                  <corr>their</corr>
+                </choice></l>
                <l facs="#facs__eSc_line_a99cb427">parts in the churchyard.</l>
-               <l facs="#facs__eSc_line_a5b87859">This was the other bed between the great house</l>
-               <l facs="#facs__eSc_line_c604861b">and the cottage. In the noble, as in the pe asnt, a half</l>
-               <l facs="#facs__eSc_line_b3e8fc3f">conscious, anonymous voice mur ured af . The vell and the</l>
-               <l facs="#facs__eSc_line_f719760d">tree vere still hamuted : Some o d woman in her hovel</l>
-               <l facs="#facs__eSc_line_1ebb6360">was still to the King even the vessel of an umelean spir  t.</l>
-               <l facs="#facs__eSc_line_1c1304d3">She mowed and mobbed and plucked her chin. When the</l>
-               <l facs="#facs__eSc_line_23c98965">p41liwinks were appied to her, she confessed how she had</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_a5b87859">This was the other 
+                <choice>
+                  <sic>bo d</sic>
+                  <corr>bond</corr>
+                </choice> between the great house</l>
+               <l facs="#facs__eSc_line_c604861b">and the cottage. In the noble, as in the 
+                <choice>
+                  <sic>pe asnt</sic>
+                  <corr>peasant</corr>
+                </choice>, a half</l>
+               <l facs="#facs__eSc_line_b3e8fc3f">conscious, anonymous voice 
+                <choice>
+                  <sic>mur ured</sic>
+                  <corr>murmured</corr>
+                </choice> of. The well and the</l>
+               <l facs="#facs__eSc_line_f719760d">tree were still 
+                <choice>
+                  <sic>hanuted</sic>
+                  <corr>haunted</corr>
+                </choice>; Some 
+                <choice>
+                  <sic>o d</sic>
+                  <corr>old</corr>
+                </choice> woman in her hovel</l>
+               <l facs="#facs__eSc_line_1ebb6360">was still to the King even the vessel of an unclean <choice>
+                <sic>spi it</sic>
+                <corr>spirit</corr>
+              </choice>.</l>
+               <l facs="#facs__eSc_line_1c1304d3">She 
+                <choice>
+                  <sic>mowed</sic>
+                  <corr>mewed</corr>
+                </choice> and mobbed and plucked her chin. When the</l>
+               <l facs="#facs__eSc_line_23c98965"><rs xml:id="obj-pill">pilliwinks</rs> were 
+                <choice>
+                  <sic>appied</sic>
+                  <corr>applied</corr>
+                </choice> to her, she confessed how she had</l>
+              </p>
             </ab></div>
       </body>
    </text>

@@ -77,7 +77,7 @@
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-8/m54-8-1/819,612,1889,2652/full/0/default.tif">
           <l>The word remind us that if the great Elizabethan</l>
           <l>house, <rs type="person" xml:id="psn-pens" key="Penshurst">Penshurst</rs> or <rs type="place" xml:id="pla-wilt">Wilton</rs> looks to us out of proportion,</l>
-          <l>xmxmx a derelict among 
+          <l><del>; too</del> a derelict among 
             <choice>
               <sic>th</sic>
               <corr>the</corr>
@@ -96,16 +96,12 @@
           <l>fight with nature. They must together plough and sow if the</l>
           <l>winter were not to starve them. This connection <del>is</del></l>
           <l>between master and man is painfully and minutely recorded</l>
-          <l>in the medieval letters. It is 
-            <choice>
-              <sic>th</sic>
-              <corr>the</corr>
-            </choice> staple of the whole</l>
+          <l>in the medieval letters. It is the staple of the whole</l>
           <l>correspondence. But there was also the other less</l>
           <l>visible connection--the common belief. That bond between</l>
           <l>the different houses has been grown over, like the</l>
           <l>track along which the <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">pilgrims</rs> rode to <rs type="place" xml:id="pla-cant" key="Canterbury">Canterbury</rs>. No one</l>
-          <l>drives there now. <add hand="ms" place="above">[illeg.]</add>. But 
+          <l>drives there now. <add hand="ms" place="above">rides that way</add>. But 
             <choice>
               <sic>whe</sic>
               <corr>when</corr>
@@ -238,13 +234,16 @@
               <sic>o d</sic>
               <corr>old</corr>
             </choice> woman in her hovel</l>
-          <l>was still to the King even the vessel of an unclean spirit.</l>
+          <l>was still to the King even the vessel of an unclean <choice>
+            <sic>spi it</sic>
+            <corr>spirit</corr>
+          </choice>.</l>
           <l>She 
             <choice>
               <sic>mowed</sic>
               <corr>mewed</corr>
             </choice> and mobbed and plucked her chin. When the</l>
-          <l>pilliwinks were 
+          <l><rs xml:id="obj-pill">pilliwinks</rs> were 
             <choice>
               <sic>appied</sic>
               <corr>applied</corr>
