@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m49</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p. Paginated 3-10. On verso of p. 8-9 her: People one would have liked to have met. Holograph fragment. 2p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m49-3.tif" width="2773px" height="3500px"/>
@@ -42,28 +82,54 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_e631d48e">1nterwoven and so obscure that it is simpler to invent</l>
-               <l facs="#facs__eSc_line_ae827b62">for them nonsense names--- say Nin Crot and Pully. Nin</l>
-               <l facs="#facs__eSc_line_e881d131">Crot and Pully re always at their work, tugging, obscuring,</l>
+              <p>
+               <l facs="#facs__eSc_line_e631d48e">interwoven and so obscure that it is simpler to invent</l>
+               <l facs="#facs__eSc_line_ae827b62">for them nonsense names--- say <rs type="person" xml:id="psn-nin" key="Nin">Nin</rs> <rs type="person" xml:id="psn-crot" key="Crot">Crot</rs> and <rs type="person" xml:id="psn-pull" key="Pulley">Pully</rs>. Nin</l>
+               <l facs="#facs__eSc_line_e881d131">Crot and Pully are always at their work, tugging, obscuring,</l>
                <l facs="#facs__eSc_line_604893f5">distorting. Some are visible only to the writer. Others</l>
-               <l facs="#facs__eSc_line_251c2381">only to the reader. More and more omplex do they become as</l>
-               <l facs="#facs__eSc_line_2ceda353">time passes. The song beneath is only to be disocovered</l>
-               <l facs="#facs__eSc_line_395f8ae7">in a flash of recognition; Some say they feel it vhen their</l>
+               <l facs="#facs__eSc_line_251c2381">only to the reader. More and more 
+                <choice>
+                  <sic> omplex</sic>
+                  <corr>complex</corr>
+                </choice> do they become as</l>
+               <l facs="#facs__eSc_line_2ceda353">time passes. The song beneath is only to be
+                <choice>
+                  <sic>disocovered</sic>
+                  <corr>discovered</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_395f8ae7">in a flash of recognition; Some say they feel it when their</l>
                <l facs="#facs__eSc_line_29edfc2d">beards bristle; others that a thrill runs down the nerves</l>
                <l facs="#facs__eSc_line_5aaa9fcf">of the thigh. But the song is there still. For example:</l>
-               <l facs="#facs__eSc_line_0ce63bac">.. 3.....</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_0ce63bac">....3....</l>
+            </p>
+              <p>
                <l facs="#facs__eSc_line_f9120ee8">That babbling, child like, story telling singer, that</l>
-               <l facs="#facs__eSc_line_fc764c97">gossip at the farm yard door, that inno ent eyed, nakted,</l>
-               <l facs="#facs__eSc_line_76ca5a7b">—lternately</l>
-               <l facs="#facs__eSc_line_f17d5087">lustful, nax obscene n devout singer, who was now and ak</l>
-               <l facs="#facs__eSc_line_422cf1fd">again a great artist died in l479, And with him died</l>
+               <l facs="#facs__eSc_line_fc764c97">gossip at the farm yard door, that
+                <choice>
+                  <sic>inno ent</sic>
+                  <corr>innocent</corr>
+                </choice> eyed, naked,</l>
+               <l facs="#facs__eSc_line_76ca5a7b"><add place="above">alternately</add></l>
+               <l facs="#facs__eSc_line_f17d5087">lustful, <del>now</del> obscene 
+                <choice>
+                  <sic> n </sic>
+                  <corr>and</corr>
+                </choice> devout    singer, who was now and ag</l>
+               <l facs="#facs__eSc_line_422cf1fd">a great artist died in 147<del>8</del><add place="above">7</add>, And with him died</l>
                <l facs="#facs__eSc_line_ddafd891">the part of his song that the audience sang--the voice that</l>
-               <l facs="#facs__eSc_line_9bff346b">filled in pauses, and added sometimes a nonsenical chorus.</l>
+               <l facs="#facs__eSc_line_9bff346b">filled in pauses, and added sometimes a 
+                <choice>
+                  <sic>nonsenical</sic>
+                  <corr>nonsensical</corr>
+                </choice> chorus</l>
                <l facs="#facs__eSc_line_a7cf7d8a">To follow his fortunes further we must turn to one of those</l>
-               <l facs="#facs__eSc_line_d79da111">commentators "ho tell us us so much about the invisible</l>
-               <l facs="#facs__eSc_line_63ead1ff">influences. about Nin Grot and Pulley.</l>
-               <l facs="#facs__eSc_line_9a61e67d">But for him of course we have to wait until winter</l>
-               <l facs="#facs__eSc_line_0e182649">mas past; until time has dramn its blue veil</l>
+               <l facs="#facs__eSc_line_d79da111">commentators who tell us us so much about the invisible</l>
+               <l facs="#facs__eSc_line_63ead1ff">influences. about Nin Crot and Pulley.</l>
+            </p>
+               <l facs="#facs__eSc_line_9a61e67d">But for him of course we have to wait until <add place="inline">'</add>winter</l>
+               <l facs="#facs__eSc_line_0e182649">was past<add place="inline">'</add>; until time has drawn its blue veil</l>
             </ab></div>
       </body>
    </text>

@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p, fol. 4r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m49</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p. Paginated 3-10. On verso of p. 8-9 her: People one would have liked to have met. Holograph fragment. 2p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2787" lry="3500" xml:id="facs_">
          <graphic url="m49-7.tif" width="2787px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="873,118 890,163 898,182 908,180 900,159 882,116 873,118" rendition="Line" xml:id="facs__eSc_line_4c2f2de2" subtype="default"/>
             <zone points="2368,239 2349,239 2329,239 2310,239 2300,239 2293,246 2254,239 2252,239 2232,239 2213,239 2199,237 2088,246 2059,237 2057,237 2038,237 2036,235 1997,243 1944,235 1940,235 1921,235 1919,235 1880,245 1839,235 1837,235 1835,235 1756,245 1742,235 1740,235 1738,235 1736,235 1633,245 1571,231 1569,231 1485,243 1378,231 1376,231 1375,231 1334,243 1229,233 1227,233 1225,233 1194,241 1180,229 1178,229 1176,229 1174,229 931,241 875,227 873,272 871,297 2378,301 2382,280 2380,239 2368,239" rendition="Line" xml:id="facs__eSc_line_dae578b0" subtype="default"/>
             <zone points="871,381 871,404 2224,402 2226,385 2224,353 2151,342 2149,342 2098,351 2094,351 2077,351 1913,342 1911,342 1789,350 1732,351 1719,348 1697,342 1695,342 1693,342 1641,348 1602,351 1575,348 1538,340 1536,340 1534,340 1520,346 1513,350 1487,346 1443,340 1441,340 1322,346 1203,350 871,342 871,381" rendition="Line" xml:id="facs__eSc_line_4edfaf51" subtype="default"/>
             <zone points="873,493 873,523 2485,523 2487,499 2487,462 873,451 873,493" rendition="Line" xml:id="facs__eSc_line_b36ec5c6" subtype="default"/>
@@ -51,37 +90,126 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_4c2f2de2"/>
-               <l facs="#facs__eSc_line_dae578b0">Ens. ish had gon down stairs into the kitchen, into the</l>
-               <l facs="#facs__eSc_line_4edfaf51">farmyerd. Anon had sung his song at the back door</l>
-               <l facs="#facs__eSc_line_b36ec5c6">1n a jargon that vas as uncouth to ~arrison as xo ourslves:</l>
-               <l facs="#facs__eSc_line_308a0f69">Ieham for woing al forwake,</l>
-               <l facs="#facs__eSc_line_0bc6f631">ery no mater in wore</l>
-               <l facs="#facs__eSc_line_fc3cbc18">An hendy hap ichable yghent;</l>
-               <l facs="#facs__eSc_line_055f3136">lchot from hevene it is me sent</l>
-               <l facs="#facs__eSc_line_b7a68b57">-- yhhe vords vere as difficult for him to spell out as</l>
+              <p>
+               <l facs="#facs__eSc_line_dae578b0">English had 
+                <choice>
+                  <sic>gon </sic>
+                  <corr>gone</corr>
+                </choice> down stairs into the kitchen, into the</l>
+               <l facs="#facs__eSc_line_4edfaf51">farmyard. <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> had sung his song at the back door</l>
+               <l facs="#facs__eSc_line_b36ec5c6">in a jargon that was as uncouth to <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> as to 
+                  <choice>
+                    <sic>ourslves</sic>
+                    <corr>ourselves</corr>
+                  </choice>:</l>
+              </p>
+              <p>
+                <quote source="#">
+                   <l facs="#facs__eSc_line_308a0f69">Icham for woing al forwake</l>
+                   <l facs="#facs__eSc_line_0bc6f631">Wery no water in wore</l>
+                </quote>
+              </p>
+              <p>
+                <quote source="#">
+                   <l facs="#facs__eSc_line_fc3cbc18">An hendy hap ichable yghent</l>
+                   <l facs="#facs__eSc_line_055f3136">Ichot from hevene it is me sent</l>
+                </quote>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_b7a68b57">-- 
+                  <choice>
+                    <sic>yhhe</sic>
+                    <corr>the</corr>
+                  </choice> words were as difficult for him to spell out as</l>
                <l facs="#facs__eSc_line_44022661">for ourselves; and more painful. For they reminded him of</l>
-               <l facs="#facs__eSc_line_d00f040c">his lack of intellectual ansctery. Ne goes back onl-to</l>
-               <l facs="#facs__eSc_line_e985d03f">« ve ~u~le hvé :</l>
-               <l facs="#facs__eSc_line_1664acaf">Camucer, Lydgate, Wycliffe. It-mas for-him a very sxaxk</l>
-               <l facs="#facs__eSc_line_d0bc7d90">little may. So, to have anscestors, he must cross thé</l>
-               <l facs="#facs__eSc_line_f99e9369">chaneel; his ancestors bu way o f the mind are</l>
-               <l facs="#facs__eSc_line_84cd2e42">the Greeks and the Romans. Ris page is burdened/with these</l>
-               <l facs="#facs__eSc_line_02b95cca">ami leelépee e née.</l>
-               <l facs="#facs__eSc_line_7da7156e">proofs of good breeding. ~kmnuxammatax Menricus Cornelius</l>
-               <l facs="#facs__eSc_line_c38e0089">Agrippa; Suetonitus; Pliny; Cicero--they prove his good</l>
-               <l facs="#facs__eSc_line_bb96dced">breeding, as we prove ours by goine vback to Cahucer, to</l>
-               <l facs="#facs__eSc_line_73e80a69">Sir Uhomas Drwone. The anicents occupied the same place in</l>
-               <l facs="#facs__eSc_line_a65efe13">Rarrions mind that the Elizabethans occupy in ours.</l>
-               <l facs="#facs__eSc_line_f7c08464">Those vere the great books that were chained to the</l>
-               <l facs="#facs__eSc_line_6929f35e">selves of the college libraries. The learned read them. ~</l>
-               <l facs="#facs__eSc_line_0c7fbfb7">And in Rarrisons day the nobles . "...our ancient ladies</l>
-               <l facs="#facs__eSc_line_4c58e981">of the court" vere to be found reading th holy scriptures</l>
-               <l facs="#facs__eSc_line_9c56e2a5">as they did their needlwmorlk; and histories. The noble</l>
-               <l facs="#facs__eSc_line_39683704">ladies vxnmxckokaxs~ if taey had a turn for rading, must</l>
-               <l facs="#facs__eSc_line_834a9534">read Latin and reek, for ~~u~~~ ~nelish literature</l>
-               <l facs="#facs__eSc_line_6f44568d">gmmhitnknkwinnmkmwintitnmnxn e thore uas not nough melish</l>
-               <l facs="#facs__eSc_line_343c2d6e">14terature to lkeep a healthy appetite in being. Bhey had ~~~</l>
+               <l facs="#facs__eSc_line_e985d03f"><add place="above">a very little way -</add></l>
+               <l facs="#facs__eSc_line_d00f040c">his lack of intellectual 
+              <choice>
+                <sic>ansctery</sic>
+                <corr>ancestry</corr>
+              </choice>. He goes back <choice>
+                <sic>onl</sic>
+                <corr>only</corr>
+              </choice> to</l>
+               <l facs="#facs__eSc_line_1664acaf"><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey"><choice>
+                    <sic>Cahucer</sic>
+                    <corr>Chaucer</corr>
+                  </choice></rs>, <rs type="person" xml:id="psn-jlyd" key="Lydgate, John">Lydgate</rs>, <rs type="person" xml:id="psn-jwyc" key="Wycliffe, John">Wycliffe</rs>. <del>For him it was a very <del>short</del></del></l>
+               <l facs="#facs__eSc_line_d0bc7d90"><del>little way</del>. So, to have
+                  <choice>
+                    <sic>anscestors</sic>
+                    <corr>ancestors</corr>
+                  </choice>, he must cross the</l>
+               <l facs="#facs__eSc_line_f99e9369"><rs type="place" xml:id="pla-chan" key="Channel, The">
+                  <choice>
+                    <sic>chaneel</sic>
+                    <corr>Channel</corr>
+                  </choice></rs>; his ancestors by way
+                    <choice>
+                      <sic>o  f</sic>
+                      <corr>of</corr>
+                    </choice> the mind are</l>
+               <l facs="#facs__eSc_line_02b95cca"><add place="above">particularly [illeg.]</add></l>
+               <l facs="#facs__eSc_line_84cd2e42">the Greeks and the Romans. His page is burdened with these</l>
+               <l facs="#facs__eSc_line_7da7156e">proofs of good breeding. <del>He has to quote</del><rs type="person" xml:id="psn-agrip" key="Agrippa">Henricus Cornelius</rs></l>
+               <l facs="#facs__eSc_line_c38e0089"><rs type="person" xml:id="psn-agrip" key="Agrippa">Agrippa</rs>, <rs type="person" xml:id="psn-suet" key="Suetonius">
+                  <choice>
+                    <sic>Suetoniius</sic>
+                    <corr>Suetonius</corr>
+                  </choice></rs>; <rs type="person" xml:id="psn-plin" key="Pliny">Pliny</rs>; <rs type="person" xml:id="psn-cice" key="Cicero">Cicero</rs>--they prove his good</l>
+               <l facs="#facs__eSc_line_bb96dced">breeding, as we prove ours by going
+                <choice>
+                  <sic>vback</sic>
+                  <corr>back</corr>
+                </choice> to <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey"><choice>
+                  <sic>Cahucer</sic>
+                  <corr>Chaucer</corr>
+                </choice></rs>, to</l>
+               <l facs="#facs__eSc_line_73e80a69"><rs type="person" xml:id="psn-tbro" key="Browne, Sir Thomas">Sir Thomas
+                <choice>
+                  <sic>Brwone</sic>
+                  <corr>Browne</corr>
+                </choice></rs>. The <choice>
+                  <sic>anicents</sic>
+                  <corr>ancients</corr>
+                </choice> occupied the same place in</l>
+               <l facs="#facs__eSc_line_a65efe13"><rs type="person" xml:id="psn-whar" key="Harrison, William"><choice>
+                  <sic>Harrions</sic>
+                  <corr>Harrison's</corr>
+                </choice></rs> mind that the Elizabethans occupy in ours.</l>
+               <l facs="#facs__eSc_line_f7c08464">Those were the great books that were chained to the</l>
+               <l facs="#facs__eSc_line_6929f35e"><choice>
+                  <sic>selves</sic>
+                  <corr>shelves</corr>
+                </choice> of the college libraries. The learned read them.</l>
+               <l facs="#facs__eSc_line_0c7fbfb7">And in Harrisons day the nobles. <quote source="#" rend="inline"> "...our ancient ladies</quote></l>
+               <l facs="#facs__eSc_line_4c58e981"><quote source="#" rend="inline">of the court"</quote> were to be found reading 
+                <choice>
+                  <sic>th</sic>
+                  <corr>the</corr>
+                </choice> holy scriptures</l>
+               <l facs="#facs__eSc_line_9c56e2a5">as they did their 
+                <choice>
+                  <sic>needlwwork</sic>
+                  <corr>needlework</corr>
+                </choice>; and histories. The noble</l>
+               <l facs="#facs__eSc_line_39683704">ladies <del>were [scholars?]</del> if they had a turn for 
+                <choice>
+                  <sic>rading</sic>
+                  <corr>reading</corr>
+                </choice>, must</l>
+               <l facs="#facs__eSc_line_834a9534">read Latin and 
+                <choice>
+                  <sic>reek</sic>
+                  <corr>Greek</corr>
+                </choice>, <del>for <del>the English</del> English literature</del></l>
+               <l facs="#facs__eSc_line_6f44568d"><del>could have been read [illeg.]</del> not 
+                <choice>
+                  <sic>nough</sic>
+                  <corr>enough</corr>
+                </choice> English</l>
+               <l facs="#facs__eSc_line_343c2d6e">literature to keep a healthy appetite in being. They had <add place="inline">to learn</add></l>
+              </p>
             </ab></div>
       </body>
    </text>

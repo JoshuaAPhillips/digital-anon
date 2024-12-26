@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m49</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p. Paginated 3-10. On verso of p. 8-9 her: People one would have liked to have met. Holograph fragment. 2p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2794" lry="3500" xml:id="facs_">
          <graphic url="m49-5.tif" width="2794px" height="3500px"/>
@@ -46,32 +86,88 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_51750c57">over the horizon; until there is a past. Then "hen Anon</l>
-               <l facs="#facs__eSc_line_529240ad">18 lomg dead, adnthe Pil Canterbury pilgrims have gone</l>
-               <l facs="#facs__eSc_line_2ce89342">their way, somebody looks back. Re is a representative man,</l>
-               <l facs="#facs__eSc_line_bfb4e96d">that-is he haxxx is often repeated, vith little variation.</l>
-               <l facs="#facs__eSc_line_29f89608">I prlh Ce-ane</l>
-               <l facs="#facs__eSc_line_aca99a98">He--arrison vas his name-- is the first of that long line</l>
-               <l facs="#facs__eSc_line_0166a71d">of lesiured and learned men who have time to think- about the</l>
-               <l facs="#facs__eSc_line_5bc20c56">past in hthe quiet of the parsonage. Like Cole, like Skinner</l>
-               <l facs="#facs__eSc_line_bd4c0ed3">Harrison the parson of Radwinter, had a libarary; and dug up</l>
+              <p>
+               <l facs="#facs__eSc_line_51750c57">over the horizon; <del>until there is a past</del>. <del>Then</del><add >W</add>hen Anon</l>
+               <l facs="#facs__eSc_line_529240ad">is 
+            <choice>
+              <sic>lomg</sic>
+              <corr>long</corr>
+            </choice> dead, 
+            <choice>
+              <sic>adnthe</sic>
+              <corr>and the</corr>
+            </choice> <del>Pil</del> <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Canterbury Pilgrims</rs> have gone</l>
+               <l facs="#facs__eSc_line_2ce89342">their way, somebody looks back. He is a representative man,</l>
+               <l facs="#facs__eSc_line_29f89608"><add hand="pencil" place="above">in other centuries</add></l>
+               <l facs="#facs__eSc_line_bfb4e96d"><del>that is</del> he <del>has</del> is often repeated, with little variation.</l>
+               <l facs="#facs__eSc_line_aca99a98">He--<rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> was his name-- is the first of that long line</l>
+               <l facs="#facs__eSc_line_0166a71d">of <choice>
+                <sic>lesuired</sic>
+                <corr>leisured</corr>
+              </choice> and learned men who have time to think about the</l>
+               <l facs="#facs__eSc_line_5bc20c56">past in 
+                <choice>
+                  <sic>hthe</sic>
+                  <corr>the</corr>
+                </choice> quiet of the parsonage. Like <rs type="person" xml:id="psn-cole">Cole</rs>, like <rs type="person" xml:id="psn-skin">Skinner</rs></l>
+               <l facs="#facs__eSc_line_bd4c0ed3"><rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> the parson of <rs type="place" xml:id="pla-radw" key="Radwinter">Radwinter</rs>, <add place="above">he</add>had a <choice>
+                    <sic>libarary</sic>
+                    <corr>library</corr>
+                  </choice>; and dug up</l>
                <l facs="#facs__eSc_line_b97530ef">coins. He already sees the present against the background</l>
-               <l facs="#facs__eSc_line_66af87af">of the past. The past has necome so settled, so ordered,</l>
-               <l facs="#facs__eSc_line_dc36e19a">that y e present locks ungainly and degenerate against it.</l>
+               <l facs="#facs__eSc_line_66af87af">of the past. The past has 
+                <choice>
+                  <sic>necome</sic>
+                  <corr>become</corr>
+                </choice> so settled, so ordered,</l>
+               <l facs="#facs__eSc_line_dc36e19a">that 
+                <choice>
+                  <sic>yhe</sic>
+                  <corr>the</corr>
+                </choice> present looks ungainly and degenerate against it.</l>
                <l facs="#facs__eSc_line_af094707">There is too much comfort; too much silver; too many pillows.</l>
-               <l facs="#facs__eSc_line_99f064e3">The young Shakespeares, Marlowes are not the men their fathes</l>
-               <l facs="#facs__eSc_line_87df754f">Were, The smo e is drawn off from their sitting rooms</l>
-               <l facs="#facs__eSc_line_aa25425d">by chimensy, so that instead of beins salted and</l>
-               <l facs="#facs__eSc_line_0532904f">hardned by the smoke eddying from the fire in the</l>
+               <l facs="#facs__eSc_line_99f064e3">The young <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">Shakespeares</rs>, <rs type="person" xml:id="psn-cmar" key="Marlowe, Christopher">Marlowes</rs> are not the men their 
+                <choice>
+                  <sic>father</sic>
+                  <corr>fathers</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_87df754f">were. The smoke is drawn off from their sitting rooms</l>
+               <l facs="#facs__eSc_line_aa25425d">by 
+                <choice>
+                  <sic>chimensy</sic>
+                  <corr>chimneys</corr>
+                </choice>, so that instead of being salted and</l>
+               <l facs="#facs__eSc_line_0532904f"><choice>
+                  <sic>hardned</sic>
+                  <corr>hardened</corr>
+                </choice> by the smoke eddying from the fire in the</l>
                <l facs="#facs__eSc_line_cfef6ee9">brazier, they are tender and subject to rheumatism. They</l>
-               <l facs="#facs__eSc_line_cc6433b8">dress most fantastically comparded "ith their ancestors.</l>
-               <l facs="#facs__eSc_line_1e1ee9cd">Bu t the English past as seen by arrison only served</l>
-               <l facs="#facs__eSc_line_0498ddf6">to show up thephysical, the material change --the</l>
-               <l facs="#facs__eSc_line_b5c85dad">change that had come over houses, furntiure and clothing.</l>
-               <l facs="#facs__eSc_line_da7d7987">To show up the change in the mind, there vas no</l>
-               <l facs="#facs__eSc_line_8f90bd51">Eng-4sh pattern. here vas no Bnglish literature, to-show</l>
-               <l facs="#facs__eSc_line_61d183cf">up the decline of English literature. "English " says the</l>
-               <l facs="#facs__eSc_line_539b9894">historian " had gone undergrounf for two centuries...</l>
+               <l facs="#facs__eSc_line_cc6433b8">dress most fantastically 
+                <choice>
+                  <sic>comparded</sic>
+                  <corr>compared</corr>
+                </choice> with their ancestors.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_1e1ee9cd">But the English seen past as seen by <choice>
+                  <sic> arrison</sic>
+                  <corr>Harrison</corr>
+                </choice> only served</l>
+               <l facs="#facs__eSc_line_0498ddf6">to show up the physical, the material change --the</l>
+               <l facs="#facs__eSc_line_b5c85dad">hange that had come over houses, 
+                <choice>
+                  <sic>furniuture</sic>
+                  <corr>furniture</corr>
+                </choice> and clothing.</l>
+               <l facs="#facs__eSc_line_da7d7987">To show up the change in the mind, there was no</l>
+               <l facs="#facs__eSc_line_8f90bd51"><del>English pattern</del>. There was no English literature, to show</l>
+               <l facs="#facs__eSc_line_61d183cf">up the decline of English literature. <quote source="#" rend="inline">"English "</quote> says the</l>
+               <l facs="#facs__eSc_line_539b9894"><rs type="person" xml:id="psn-whar" key="Harrison, William">historian</rs> <quote source="#" rend="inline">" had gone 
+                <choice>
+                  <sic>undergrounf</sic>
+                  <corr>underground</corr>
+                </choice> for two centuries...</quote></l>
+              </p>
             </ab></div>
       </body>
    </text>

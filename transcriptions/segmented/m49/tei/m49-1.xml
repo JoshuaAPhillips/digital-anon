@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m49</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M49. [Anon: Anon died around 1477...]. Typescript fragment, with the author's ms. corrections, unsigned, and undated. 8p. Paginated 3-10. On verso of p. 8-9 her: People one would have liked to have met. Holograph fragment. 2p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2771" lry="3500" xml:id="facs_">
          <graphic url="m49-1.tif" width="2771px" height="3500px"/>
-         <zone points="1009,171 1125,264 1188,272 1429,233 1769,233 1964,280 2420,287 2475,303 2483,348 2599,427 2537,567 2568,692 2553,814 1956,830 1802,869 1753,910 1769,1009 1825,1034 2615,1057 2662,1088 2662,1335 2545,1438 2529,1685 2467,1726 2492,1788 2607,1835 2560,2100 2560,2354 2467,2496 2475,2564 2607,2722 2607,2798 2537,2992 2430,3031 2358,3157 2436,3243 2444,3319 2420,3334 978,3303 978,1617 861,1569 598,1584 567,1423 614,1376 954,1374 978,202 1009,171" rendition="TextRegion" xml:id="facs__eSc_textblock_59db7485" subtype="text">
             <zone points="1042,334 1040,348 1394,361 1396,361 1466,353 1481,351 1489,353 1528,363 1530,363 1532,365 1742,365 1742,363 1744,363 1746,363 1755,355 1761,353 1808,355 1921,363 1923,363 1952,357 1962,355 1967,357 1983,365 1985,365 1987,365 2454,361 2455,340 2454,303 2407,291 2405,291 2403,291 2382,303 2380,303 2352,287 2350,287 2349,287 2347,287 2294,303 2280,305 2251,303 2185,295 2183,295 2181,295 2168,303 2156,309 2092,309 2078,303 2043,287 2041,287 2039,287 2037,287 1997,303 1983,307 1964,303 1929,293 1927,293 1925,293 1923,293 1897,303 1895,303 1892,303 1839,278 1837,278 1674,278 1672,278 1670,278 1625,301 1608,287 1606,287 1604,287 1602,287 1600,287 1598,287 1575,303 1569,305 1551,303 1483,289 1481,289 1479,289 1438,303 1433,303 1423,303 1353,291 1351,291 1349,291 1347,291 1330,303 1328,303 1297,287 1295,287 1293,287 1042,301 1042,334" rendition="Line" xml:id="facs__eSc_line_79a38ed5" subtype="default"/>
             <zone points="2568,412 2479,400 2477,400 2411,412 2378,400 2376,400 2374,400 2261,412 2253,412 2251,412 2226,400 2224,400 2222,400 2113,412 2100,412 2094,412 2043,398 2041,398 2039,398 1682,410 1650,410 1648,410 1623,398 1621,398 1619,398 1536,410 1524,410 1409,410 1409,408 1374,396 1372,396 1370,396 1211,408 1203,408 1201,408 1184,396 1182,396 1180,396 1032,396 1030,396 1028,396 993,406 993,443 991,458 1182,472 1184,474 1419,474 1419,472 1421,472 1454,462 1458,462 1481,462 1666,474 1668,474 1792,466 1818,464 1860,466 2055,476 2057,476 2586,470 2588,449 2584,439 2568,412" rendition="Line" xml:id="facs__eSc_line_040c2e0f" subtype="default"/>
             <zone points="999,554 997,567 1363,583 1365,583 2454,575 2455,561 2454,525 2350,517 2349,517 2298,523 2255,526 2234,521 2216,517 2214,517 2212,517 2174,521 2115,526 2018,519 1960,515 1958,515 1934,519 1894,525 1882,517 1878,515 1876,515 1874,515 1872,515 1839,517 1750,525 1734,517 1730,513 1728,513 1726,513 1650,513 1648,513 1588,515 1365,523 1302,511 1295,511 1293,511 1271,511 1065,521 999,509 999,554" rendition="Line" xml:id="facs__eSc_line_97289029" subtype="default"/>
@@ -48,46 +87,85 @@
             <zone points="983,3062 983,3083 1528,3083 1530,3085 1538,3091 1538,3093 1540,3093 1542,3093 1543,3093 1771,3085 1808,3085 1820,3085 1886,3095 1888,3095 2043,3087 2053,3087 2057,3087 2104,3097 2105,3097 2358,3087 2360,3072 2358,3033 983,3021 983,3062" rendition="Line" xml:id="facs__eSc_line_1372ed17" subtype="default"/>
             <zone points="982,3169 980,3185 1007,3196 1009,3196 1011,3196 1092,3188 1217,3200 1219,3202 1921,3202 2156,3216 2158,3216 2273,3206 2275,3190 2273,3146 2067,3153 2043,3140 2041,3140 2039,3140 1954,3138 1952,3138 1950,3138 1948,3138 1923,3151 1868,3151 1847,3136 1845,3136 1843,3136 1841,3136 1831,3136 1742,3146 1703,3134 1701,3134 1699,3134 1695,3134 1567,3146 1487,3146 1464,3130 1462,3130 1460,3130 1458,3130 1456,3130 1454,3130 1435,3142 1390,3142 1363,3128 1361,3128 1359,3128 1217,3140 982,3120 982,3169" rendition="Line" xml:id="facs__eSc_line_9ebd97fe" subtype="default"/>
             <zone points="985,3278 983,3307 2430,3330 2434,3303 2432,3270 2321,3256 2319,3256 2317,3256 2284,3266 2279,3268 2133,3268 2127,3264 2100,3253 2098,3253 2096,3253 2010,3262 1989,3264 1983,3262 1962,3251 1960,3251 1958,3251 1892,3260 1874,3262 1855,3260 1790,3251 1788,3251 1787,3251 1769,3258 1765,3260 1761,3258 1746,3247 1744,3247 1742,3247 1740,3247 1627,3256 1615,3256 1612,3256 1577,3245 1575,3245 1573,3245 1571,3245 1547,3255 1543,3256 1538,3255 1510,3243 1508,3243 1507,3243 1349,3253 1320,3253 1314,3251 1285,3239 1283,3239 1281,3239 1279,3239 1238,3251 1232,3251 1223,3249 1168,3241 1166,3241 1164,3241 1137,3249 1133,3249 1118,3237 1116,3237 1114,3237 1112,3237 985,3245 985,3278" rendition="Line" xml:id="facs__eSc_line_6b943d8a" subtype="default"/>
-         </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
-            <ab facs="#facs__eSc_textblock_59db7485">
-               <l facs="#facs__eSc_line_79a38ed5">Anon died round about l476. It vas the printed bock</l>
-               <l facs="#facs__eSc_line_040c2e0f">With the authors name attached that lilled him. After that</l>
-               <l facs="#facs__eSc_line_97289029">the audience vas separate from the singer. After that</l>
-               <l facs="#facs__eSc_line_700e7848">the song vas attached to the singer. Anon gives place to</l>
-               <l facs="#facs__eSc_line_833982b2">Iamsnmnx Gooffrey or dogn or Peter; he lives in a house;</l>
-               <l facs="#facs__eSc_line_98409261">and he has bocks.</l>
-               <l facs="#facs__eSc_line_9ca8bc8c">..N.).</l>
-               <l facs="#facs__eSc_line_74153c57">The heart of this vast prolieferation of printed pages</l>
-               <l facs="#facs__eSc_line_349226d7">(remains the song. The song has the same power over the reader</l>
-               <l facs="#facs__eSc_line_2fd63254">1n the 2oth cen ury as over the hearer in the llth. To enjoy</l>
-               <l facs="#facs__eSc_line_7448e04e">-tes L le</l>
-               <l facs="#facs__eSc_line_47b8c46e">8inging, to enjoy hearing the song, must be the most</l>
-               <l facs="#facs__eSc_line_65bd26f6">lele-. teeones</l>
+            <ab facs="#facs__eSc_dummyblock_">
+              <p>
+                <del>
+                   <l facs="#facs__eSc_line_79a38ed5"><rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> died round 187<del>8</del><add place="above">7</add>. It was the printed book</l>
+                   <l facs="#facs__eSc_line_040c2e0f">with the authors name attached that killed him. After that</l>
+                   <l facs="#facs__eSc_line_97289029">the audience was separate from the singer. After that</l>
+                   <l facs="#facs__eSc_line_700e7848">the song was attached to the singer. Anon gives place to</l>
+                   <l facs="#facs__eSc_line_833982b2"><del>James or</del> <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Geoffrey</rs> or <rs type="person" xml:id="psn-jgow" key="Gower, John">
+                      <choice>
+                        <sic>Jogn</sic>
+                        <corr>John</corr>
+                      </choice></rs> or Peter; he lives in a house</l>
+                   <l facs="#facs__eSc_line_98409261">and he has books.</l>
+                </del>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_9ca8bc8c">....<del>2</del>....</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_74153c57"><add place="inline">[</add>The heart of this vast
+                <choice>
+                  <sic>prolieferation</sic>
+                  <corr>proliferation</corr>
+                </choice> of printed pages</l>
+               <l facs="#facs__eSc_line_349226d7">remains the song. The song has the same power over the reader</l>
+               <l facs="#facs__eSc_line_2fd63254">in the 20th 
+                <choice>
+                  <sic>cen ury</sic>
+                  <corr>century</corr>
+                </choice> as over the hearer in the 11th. To enjoy</l>
+               <l facs="#facs__eSc_line_47b8c46e">singing, to enjoy hearing the song, must be the most</l>
                <l facs="#facs__eSc_line_e4b6caf6">deep rooted, the toughest of human instincts comparable</l>
-               <l facs="#facs__eSc_line_59da431a">for persistency vith the instinct of self preservation.</l>
-               <l facs="#facs__eSc_line_55dec48d">It is indecd the instinct of self preservation.</l>
-               <l facs="#facs__eSc_line_ac655a4a">Only when ve put tuo ani tuo together-- tuo pencil stromes,</l>
-               <l facs="#facs__eSc_line_4c174b17">tuo written ords, tuo bricks do we overcome doissolution</l>
-               <l facs="#facs__eSc_line_1a6781bf">2</l>
-               <l facs="#facs__eSc_line_6756ccb3">and set up some stalce against oblivion. The passion with</l>
-               <l facs="#facs__eSc_line_d5119e84">ich we seck out these creation and attempt endlessly,</l>
-               <l facs="#facs__eSc_line_ea3cb599">perpetually, to malce them is of a piece with the instinct</l>
-               <l facs="#facs__eSc_line_499661ba">that sets us preservin out bodies, vith clothes, food,</l>
-               <l facs="#facs__eSc_line_f06b8d69">roofs, from destruction. </l>
-               <l facs="#facs__eSc_line_e75227e4">eee</l>
-               <l facs="#facs__eSc_line_66aaef2a">Bat the printing press broueht into existence</l>
-               <l facs="#facs__eSc_line_effc50fe">~</l>
-               <l facs="#facs__eSc_line_90c325d3">f0rces that cover over the original song--books themselves,</l>
-               <l facs="#facs__eSc_line_a8bf19af">and the readers of books. If science vere so advanced that</l>
-               <l facs="#facs__eSc_line_a5c0d781">We could at this moment X ray the singers mind ve should</l>
-               <l facs="#facs__eSc_line_4e0ec209">a</l>
-               <l facs="#facs__eSc_line_1372ed17">find a nimbus surrounding the song; a steeam S of</l>
-               <l facs="#facs__eSc_line_9ebd97fe">influences. Some ve can name--education; class;</l>
+               <l facs="#facs__eSc_line_59da431a">for persistency with the instinct of self preservation.</l>
+               <l facs="#facs__eSc_line_55dec48d">It is indeed the instinct of self preservation.</l>
+               <l facs="#facs__eSc_line_ac655a4a">Only  when we put two and two together--two pencil strokes,</l>
+               <l facs="#facs__eSc_line_1a6781bf"><add place="above">[notes?]</add></l>
+               <l facs="#facs__eSc_line_4c174b17">two written words, two bricks bricks do we overcome
+                <choice>
+                  <sic>doissolution</sic>
+                  <corr>dissolution</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_6756ccb3">and set up some stake against oblivion. The passion with</l>
+               <l facs="#facs__eSc_line_d5119e84">which we seek out these
+                <choice>
+                  <sic>creation</sic>
+                  <corr>creations</corr>
+                </choice> and attempt endlessly,</l>
+               <l facs="#facs__eSc_line_ea3cb599">perpetually, to make them is of a piece with the instinct</l>
+               <l facs="#facs__eSc_line_499661ba">that sets us preserving
+                <choice>
+                  <sic>out</sic>
+                  <corr>our</corr>
+                </choice> bodies, with clothes, food,</l>
+               <l facs="#facs__eSc_line_f06b8d69">roofs, from destruction.<add place="inline">]</add></l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_e75227e4"><add place="above">With</add></l>
+               <l facs="#facs__eSc_line_effc50fe"><add place="above">came</add></l>
+               <l facs="#facs__eSc_line_66aaef2a"><del>But</del> the <rs type="object" xml:id="obj-pres">printing press</rs> <del>brought</del> into existence</l>
+               <l facs="#facs__eSc_line_90c325d3">forces that cover over the original song--books themselves,</l>
+               <l facs="#facs__eSc_line_a8bf19af">and the readers of books. If science were so advanced that</l>
+               <l facs="#facs__eSc_line_4e0ec209"><add hand="pencil" place="above">at the moment</add></l>
+               <l facs="#facs__eSc_line_a5c0d781">we could at this moment X ray the singers mind we should</l>
+               <l facs="#facs__eSc_line_1372ed17">find a nimbus surrounding the song; a 
+                <choice>
+                  <sic>steeam</sic>
+                  <corr>[stream? steam?]</corr>
+                </choice> of</l>
+               <l facs="#facs__eSc_line_9ebd97fe">influences. Some we can name--education; class;</l>
                <l facs="#facs__eSc_line_6b943d8a">the pressure of society. But they are so many, and so</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_7448e04e">foreign to the</l>
+               <l facs="#facs__eSc_line_65bd26f6">bodies instinct</l>
+              </p>
             </ab></div>
       </body>
    </text>
