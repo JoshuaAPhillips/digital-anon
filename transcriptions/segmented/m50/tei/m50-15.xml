@@ -1,20 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 8r.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2773" lry="3500" xml:id="facs_">
          <graphic url="m50-15.tif" width="2773px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="917,178 898,180 898,182 904,223 908,254 935,250 931,219 921,178 917,178" rendition="Line" xml:id="facs__eSc_line_a94286a9" subtype="default"/>
             <zone points="1921,291 1919,291 1917,291 1915,291 1897,299 1892,301 1860,299 1794,291 1792,291 1759,297 1732,301 1666,295 1598,289 1596,289 1594,289 1580,293 1563,299 1487,293 1444,289 1442,289 1440,289 1439,289 1439,291 1437,291 1429,301 1277,301 1265,289 1263,287 1262,287 1260,287 1258,287 1256,287 1250,289 1223,297 1077,287 1075,287 1073,287 1005,297 945,285 945,330 943,346 1015,357 1017,357 1145,350 1153,350 1162,350 1273,359 1275,359 1466,353 1549,351 1569,355 1602,361 1604,361 1752,357 1903,353 2255,363 2259,338 2257,305 1991,293 1989,293 1954,299 1936,303 1930,299 1923,291 1921,291" rendition="Line" xml:id="facs__eSc_line_f9d1b972" subtype="default"/>
             <zone points="2524,410 2514,408 2504,406 2485,404 2481,402 2448,412 2446,412 2436,412 2298,402 2296,402 2294,402 2277,410 2273,414 2123,414 2055,408 1952,400 1950,400 1948,400 1936,406 1927,412 1713,412 1670,402 1641,398 1639,398 1637,398 1623,402 1602,408 1026,396 1024,396 972,406 890,394 890,441 888,456 1302,470 1304,470 2084,464 2119,474 2121,474 2123,474 2531,464 2533,449 2533,431 2524,410" rendition="Line" xml:id="facs__eSc_line_ef3b2082" subtype="default"/>
             <zone points="890,550 888,565 2479,573 2483,558 2481,523 2413,511 2411,511 2329,521 2317,521 2306,521 2242,511 2240,511 2238,511 2220,519 2216,521 2191,519 2115,511 2113,511 2111,511 2096,517 2086,521 2047,517 1971,509 1969,509 1824,515 1707,519 1678,513 1650,507 1649,507 1518,511 1345,517 1306,509 1287,505 1285,505 1197,507 989,515 890,505 890,550" rendition="Line" xml:id="facs__eSc_line_f01832b9" subtype="default"/>
@@ -53,39 +94,145 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_a94286a9">8</l>
-               <l facs="#facs__eSc_line_f9d1b972">The histroians vork from the outer to the mmer;</l>
+              <p>
+               <l facs="#facs__eSc_line_f9d1b972">The 
+                <choice>
+                  <sic>histroians</sic>
+                  <corr>historians</corr>
+                </choice> work from the outer to the inner;</l>
                <l facs="#facs__eSc_line_ef3b2082">from the house they infer the tenant of the house. It is the</l>
-               <l facs="#facs__eSc_line_f01832b9">house they uncover: the chairs, the tables, the bills, the</l>
-               <l facs="#facs__eSc_line_bd594d99">Close stolls, the spinni n wheels, the tapestry.</l>
-               <l facs="#facs__eSc_line_17f22401">ut is as if we vere bidden to infer from a tweed suit,</l>
-               <l facs="#facs__eSc_line_d215b1c1">8ix hats, a fox terrier and a silver knovved valking stick</l>
-               <l facs="#facs__eSc_line_894a1801">the life and vorks of a novelist called Rnery james.</l>
-               <l facs="#facs__eSc_line_3192b2ab">Save for Vhaucer and Lydgate and the voice of Anon singing</l>
-               <l facs="#facs__eSc_line_1a919c7b">at the bac l door the English might a a dumb race: a race</l>
-               <l facs="#facs__eSc_line_5389177d">of merchants, s ldiers, preists and builders who left nehind</l>
-               <l facs="#facs__eSc_line_41d4f915">them stone houes, cultivated fields and many churches and</l>
+               <l facs="#facs__eSc_line_f01832b9">house they uncover; the chairs, the tables, the bills, the</l>
+               <l facs="#facs__eSc_line_bd594d99">close 
+                <choice>
+                  <sic>stolls</sic>
+                  <corr>stools</corr>
+                </choice>, the spinning wheels, the tapestry.</l>
+               <l facs="#facs__eSc_line_17f22401">It is as if we were bidden to infer from a tweed suit,</l>
+               <l facs="#facs__eSc_line_d215b1c1">six hats, a fox terrier, and a silver 
+                <choice>
+                  <sic>knovved</sic>
+                  <corr>knobbed</corr>
+                </choice> walking stick</l>
+               <l facs="#facs__eSc_line_894a1801">the life and works of a novelist called <rs type="person" xml:id="psn-hjam" key="James, Henry">
+                <choice>
+                  <sic>Hnery james</sic>
+                  <corr>Henry James</corr>
+                </choice></rs>.</l>
+               <l facs="#facs__eSc_line_3192b2ab">Save for 
+                <choice>
+                  <sic>Vhaucer</sic>
+                  <corr>Chaucer</corr>
+                </choice> and Lydgate and the voice of Anon singing</l>  
+               <l facs="#facs__eSc_line_1a919c7b">at the back door the English might be a dumb race; a race</l>
+               <l facs="#facs__eSc_line_5389177d">of merchants, 
+                <choice>
+                  <sic>s ldiers</sic>
+                  <corr>soldiers</corr>
+                </choice>, 
+                <choice>
+                  <sic>preists</sic>
+                  <corr>priests</corr>
+                </choice> and builders who left
+                <choice>
+                  <sic>nehind</sic>
+                  <corr>behind</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_41d4f915">them stone houses, cultivated fields and many churches and</l>
                <l facs="#facs__eSc_line_ca671ad0">cathedrals. ; but no words. The great house is silent.</l>
                <l facs="#facs__eSc_line_c4a4865e">Only the furniture remains, stiff and ornate, fantastic and</l>
                <l facs="#facs__eSc_line_e3843583">uncushioned.</l>
-               <l facs="#facs__eSc_line_83b352d3">At Gorhambury for instnace Lady Ann Bacon</l>
-               <l facs="#facs__eSc_line_44e34652">— C7-fauer lr</l>
-               <l facs="#facs__eSc_line_5eeab216">4aui. halh-H</l>
-               <l facs="#facs__eSc_line_5edf74fe">sat at her table rwiting to her son. Ner lettrts might have</l>
-               <l facs="#facs__eSc_line_fb82305e">0~ttesut  1</l>
-               <l facs="#facs__eSc_line_fa3512c1">veen sermons from the pulpi;t ; or state dosuments, intrcaite</l>
-               <l facs="#facs__eSc_line_132879c5">invloved and evasive. She is a counsellor admonishing a sub</l>
-               <l facs="#facs__eSc_line_7842db32">ordinate; sŜhe is awrae only of the wickedness fof men,</l>
-               <l facs="#facs__eSc_line_cfcb8f3d">he dangers and decits of the vorld: and the awfulness of</l>
-               <l facs="#facs__eSc_line_17971c66">Cod. Greek and Latin come to her pen as easily as nglish.</l>
-               <l facs="#facs__eSc_line_053b898f">If she has to descend to the actual object--a baskcet of</l>
-               <l facs="#facs__eSc_line_2c72bf45">strawberries--it with is vith cirumlocuitions and dark</l>
-               <l facs="#facs__eSc_line_5443639e">insinutaions. "I have sent them by the boy of my kitchen,</l>
-               <l facs="#facs__eSc_line_e70ff6fe">a shrevd witted boy and prettily catchized, but yet an un</l>
-               <l facs="#facs__eSc_line_11ff6a37">toward rcrafty boy...." She xrikax ex horts:</l>
-               <l facs="#facs__eSc_line_cf93421e">"God lKeep us sound in faith the faith and send us health</l>
-               <l facs="#facs__eSc_line_66200700">and a care to please Cod above all." She admonishes:</l>
-               <l facs="#facs__eSc_line_c6b72320">Be not speedy of speech, nor talk suddenly, but where</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_83b352d3">At <rs type="place" xml:id="psn-gorh" key="Gorhambury">Gorhambury</rs> for 
+                <choice>
+                  <sic>instnace</sic>
+                  <corr>instance</corr>
+                </choice> <rs type="person" xml:id="psn-abac" key="Bacon, Ann">Lady Ann Bacon</rs></l>
+               <l facs="#facs__eSc_line_44e34652"><add hand="ms" place="above">—compare them with</add></l>
+               <l facs="#facs__eSc_line_5edf74fe"><choice>
+                <sic>rwiting</sic>
+                <corr>writing</corr>
+              </choice> to <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">her son</rs>. Her <choice>
+                <sic>lettres</sic>
+                <corr>letters</corr>
+              </choice> might have</l>
+               <l facs="#facs__eSc_line_fa3512c1"><choice>
+                  <sic>veen</sic>
+                  <corr>been</corr>
+                </choice> sermons from the <choice>
+                  <sic>pulpi;t</sic>
+                  <corr>pulpit</corr>
+                </choice>; or state <choice>
+                  <sic>dosuments</sic>
+                  <corr>documents</corr>
+                </choice>, <choice>
+                  <sic>intrcaite</sic>
+                  <corr>intricate</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_132879c5"><choice>
+                  <sic>inlvoved</sic>
+                  <corr>involved</corr>
+                </choice> and evasive. She is a counsellor admonishing a sub</l>
+               <l facs="#facs__eSc_line_7842db32">ordinate; 
+                <choice>
+                  <sic>sShe</sic>
+                  <corr>she</corr>
+                </choice> is 
+                <choice>
+                  <sic>awrae</sic>
+                  <corr>aware</corr>
+                </choice> only of the wickedness 
+                <choice>
+                  <sic>fof</sic>
+                  <corr>of</corr>
+                </choice> men,</l>
+               <l facs="#facs__eSc_line_cfcb8f3d">the dangers and 
+                <choice>
+                  <sic>decits</sic>
+                  <corr>deceits</corr>
+                </choice> of the world; and the awfuless of</l>
+               <l facs="#facs__eSc_line_17971c66">God. Greek and Latin come to her pen as easily as 
+                <choice>
+                  <sic> nglish</sic>
+                  <corr>English</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_053b898f">If she has to descend to the actual object--a basket of</l>
+               <l facs="#facs__eSc_line_2c72bf45">strawberries--it is with 
+                <choice>
+                  <sic>cirumlocuitions</sic>
+                  <corr>circumlocutions</corr>
+                </choice> and dark</l>
+               <l facs="#facs__eSc_line_5443639e"><choice>
+                  <sic>insiutaions</sic>
+                  <corr>insinuations</corr>
+                </choice>. <quote source="#" rend="inline">"I have sent them by the boy of my kitchen,</quote></l>
+               <l facs="#facs__eSc_line_e70ff6fe"><quote source="#">a shrewd witted boy and prettily 
+                <choice>
+                  <sic>catchized</sic>
+                  <corr>catechized</corr>
+                </choice> but yet an un</quote></l>
+               <l facs="#facs__eSc_line_11ff6a37"><quote source="#" rend="inline">toward 
+                <choice>
+                  <sic>rcrafty</sic>
+                  <corr>crafty</corr>
+                </choice> boy...."</quote> She <del>writes</del> <choice>
+                  <sic>ex horts</sic>
+                  <corr>exhorts</corr>
+                </choice>:</l>
+               <l facs="#facs__eSc_line_cf93421e"><quote source="#" rend="inline">"God keep us sound in faith the faith and send us 
+                <choice>
+                  <sic>h  lth</sic>
+                  <corr>health</corr>
+                </choice></quote></l>
+               <l facs="#facs__eSc_line_66200700"><quote source="#" rend="inline">and a care to please God above all."</quote> She admonishes:</l>
+               <l facs="#facs__eSc_line_c6b72320"><quote source="#" rend="inline">"Be not speedy of speech, nor talk suddenly, but where</quote></l>
+            </p>
+            <p>
+              <add>
+               <l facs="#facs__eSc_line_5eeab216">until <rs type="person" xml:id="psn-msev" key="Madame de Sevigné">Madame de</rs></l>
+               <l facs="#facs__eSc_line_fb82305e"><rs type="person" xml:id="psn-msev">Sevigné's</rs></l>
+              </add>
+            </p>
             </ab></div>
       </body>
    </text>

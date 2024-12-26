@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 7v.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2775" lry="3500" xml:id="facs_">
          <graphic url="m50-13.tif" width="2775px" height="3500px"/>
@@ -51,37 +93,111 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_cda85576">against the past. There is too much comfprt now; tmmxmaxy</l>
-               <l facs="#facs__eSc_line_2a4b72cf">miuxx the pillow has taken the place of the old log with</l>
-               <l facs="#facs__eSc_line_f4d8f527">a dip in the middle; there are too many chimenys. The young</l>
-               <l facs="#facs__eSc_line_d3d3d53b">Shalkespres and arlowes are not the men their fathers vere.</l>
-               <l facs="#facs__eSc_line_860af0d5">They are tender and subject to rheumatism. A lso</l>
-               <l facs="#facs__eSc_line_d2103376">they dress most fantasically compa ed with theirancestors.</l>
-               <l facs="#facs__eSc_line_ae3d3986">He does not see the mumumers and the vassailers;</l>
-               <l facs="#facs__eSc_line_e29a07b6">he does not hear the voice of Anon; he scracely listens even</l>
-               <l facs="#facs__eSc_line_11504f7c">to the song of Chaucers Canterbury pilgrims. The Engli h</l>
-               <l facs="#facs__eSc_line_96b42fa9">past as larrison saw it, served only to show up the material</l>
-               <l facs="#facs__eSc_line_9cea9ae0">change--the change that had come over houses, furnt iture</l>
-               <l facs="#facs__eSc_line_ed977cce">Clothing. There was no English literature to show up the</l>
-               <l facs="#facs__eSc_line_5eb48e91">chnage in the mind. Anons song at the back door vas as</l>
-               <l facs="#facs__eSc_line_b9e3d769">4 G ~p~o, uu lauu</l>
-               <l facs="#facs__eSc_line_ca80b606">difficult efor him to spell out as for us. But the old</l>
-               <l facs="#facs__eSc_line_e39d8aff">Eglish songs _vere more painful. for they reminded him of</l>
-               <l facs="#facs__eSc_line_7aa798c9">his lacke of intellectual ancstry. His intellectual pedigree</l>
-               <l facs="#facs__eSc_line_4711af3e">only reached backk to Chaucer, to Langland to Nycliffe.</l>
-               <l facs="#facs__eSc_line_6efc1c3c">In order to have anscetors by way of the mind he must cross</l>
-               <l facs="#facs__eSc_line_a542f91f">tihe channel his ancestors by way of the mind are the</l>
-               <l facs="#facs__eSc_line_4806f053">6reeks and Mlomans. Nis page is burdneed vith these proofs</l>
-               <l facs="#facs__eSc_line_4f1de43f">of good breeding--- Henricus Cornelius Agrippa;</l>
-               <l facs="#facs__eSc_line_f95bb60b">Suetonius; Pliny, Ci ero--he quotes them to prove his</l>
+              <p>
+               <l facs="#facs__eSc_line_cda85576">against the past. There is too much comfort now; <del hand="typewriter">too many</del></l>
+               <l facs="#facs__eSc_line_2a4b72cf"><del>pillows</del> the pillow has taken the place of the old log with</l>
+               <l facs="#facs__eSc_line_f4d8f527">a dip in the middle; there are too many 
+                <choice>
+                  <sic>chimenys</sic>
+                  <corr>chimneys</corr>
+                </choice>. The young</l>
+               <l facs="#facs__eSc_line_d3d3d53b"><rs type="person" xml:id="wsha" key="Shakespeare, William">
+                <choice>
+                  <sic>Shakspres</sic>
+                  <corr>Shakespeares</corr>
+                </choice></rs> and <rs type="person" xml:id="cmar" key="Marlowe, Christopher">
+                <choice>
+                  <sic> arlowes</sic>
+                  <corr>Marlowes</corr>
+              </choice></rs> are not the men their fathers were.</l>
+               <l facs="#facs__eSc_line_860af0d5">They are tender and subject to rheumatism. Also</l>
+               <l facs="#facs__eSc_line_d2103376">they dress most 
+                <choice>
+                  <sic>fantasically</sic>
+                  <corr>fantastically</corr>
+                </choice> 
+                <choice>
+                  <sic>com ared</sic>
+                  <corr>compared</corr>
+                </choice> with 
+                <choice>
+                  <sic>theirancestors</sic>
+                  <corr>their ancestors</corr>
+                </choice>.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_ae3d3986">He does not see the mummers and the wassailers;</l>
+               <l facs="#facs__eSc_line_e29a07b6">he does not hear the voice of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>; he 
+                <choice>
+                  <sic>scracely</sic>
+                  <corr>scarcely</corr>
+                </choice> listens even</l>
+               <l facs="#facs__eSc_line_11504f7c">to the song of <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> Canterbury pilgrims. <add hand="ms" place="above">For </add>The English</l>
+               <l facs="#facs__eSc_line_96b42fa9">past as <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> saw it, served only to show up the material</l>
+               <l facs="#facs__eSc_line_9cea9ae0">change--the change that had come over houses, 
+                <choice>
+                  <sic>furnt iture</sic>
+                  <corr>furniture</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_ed977cce">clothing. There was no English literature to show up the</l>
+               <l facs="#facs__eSc_line_b9e3d769"><add hand="ms" place="above">the English songs were [illeg.]</add></l>
+               <l facs="#facs__eSc_line_5eb48e91"><choice>
+                  <sic>chnage</sic>
+                  <corr>change</corr>
+                </choice> in the mind. Anons song at the back door vas as</l>
+               <l facs="#facs__eSc_line_ca80b606">difficult 
+                <choice>
+                  <sic>cfor</sic>
+                  <corr>for</corr>
+                </choice> him to spell as for us. But the old</l>
+               <l facs="#facs__eSc_line_e39d8aff"><del>
+                <choice>
+                  <sic>Eglish</sic>
+                  <corr>English</corr>
+                </choice> songs were</del> more painful. for they reminded him of</l>
+               <l facs="#facs__eSc_line_7aa798c9">his lack of intellectual 
+                <choice>
+                  <sic>ancstry</sic>
+                  <corr>ancestry</corr>
+                </choice>. His intellectual pedigree</l>
+               <l facs="#facs__eSc_line_4711af3e">only reached back to <rs type="person" xml:id="gcha" key="Chaucer, Geoffrey">Chaucer</rs>, to <rs type="person" xml:id="psn-wlan" key="Langland, William">Langland</rs> to <rs type="person" xml:id="psn-jwyc" key="Wycliffe, John">Wycliffe</rs>.</l>
+               <l facs="#facs__eSc_line_6efc1c3c">In order to have 
+                <choice>
+                  <sic>anscetors</sic>
+                  <corr>ancestors</corr>
+                </choice> by way of the mind he must cross</l>
+               <l facs="#facs__eSc_line_a542f91f">the <rs type="place" xml:id="pla-chan" key="Channel, The">channel</rs> his ancestors by way of the mind are the</l>
+               <l facs="#facs__eSc_line_4806f053">Greeks and Romans. His page is 
+                <choice>
+                  <sic>burdneed</sic>
+                  <corr>burdened</corr>
+                </choice> with these proofs</l>
+               <l facs="#facs__eSc_line_4f1de43f">of good breeding--- <rs type="person" xml:id="psn-agrip" key="Agrippa">Henricus Cornelius Agrippa</rs>;</l>
+               <l facs="#facs__eSc_line_f95bb60b"><rs type="person" xml:id="psn-suet" key="Suetonius">Suetonius</rs>; <rs type="person" xml:id="psn-plin" key="Pliny">Pliny</rs>, <rs type="person" xml:id="psn-cice" key="Cicero">Cicero</rs>--he quotes them to prove his</l>
                <l facs="#facs__eSc_line_c52747f5">nobility of mind as we to prove ours quote the</l>
-               <l facs="#facs__eSc_line_cdc01dbf">li2abethans. The mummers and the massailers,</l>
-               <l facs="#facs__eSc_line_d51c3f10">the actors who staged their crude dramas in the churchayrd</l>
-               <l facs="#facs__eSc_line_ddfb6a70">9 re acting</l>
-               <l facs="#facs__eSc_line_30e3c7a4">or in the market- place hanxfah~anmamxaxi~~esm~</l>
-               <l facs="#facs__eSc_line_905a9d0c">were sxikhx Ee turns from the present to the past;</l>
-               <l facs="#facs__eSc_line_32b7e241">he ignores the acors vho were acting their crude daramas</l>
-               <l facs="#facs__eSc_line_eaacf1b1">now in the marlcet place. Ymtmnnmnxxtkexmintanmkt</l>
+               <l facs="#facs__eSc_line_cdc01dbf">Elizabethans. The mummers and the wassailers,</l>
+               <l facs="#facs__eSc_line_ddfb6a70"><add hand="typewriter" place="above">were acting</add></l>
+               <l facs="#facs__eSc_line_d51c3f10">the actors who staged their crude dramas in the 
+                <choice>
+                  <sic>churchayrd</sic>
+                  <corr>churchyard</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_30e3c7a4">or in the market place <del>had fallen on evil times.</del></l>
+               <l facs="#facs__eSc_line_905a9d0c">were <del>still</del>   He turns from the present to the past;</l>
+               <l facs="#facs__eSc_line_32b7e241">he ignores the 
+                <choice>
+                  <sic>acors</sic>
+                  <corr>actors</corr>
+                </choice> who were acting their crude 
+                <choice>
+                  <sic>daramas</sic>
+                  <corr>dramas</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_eaacf1b1">now in the market place. <del>Yet though the <choice>
+            <sic>rpinted</sic>
+            <corr>printed</corr>
+          </choice> book</del></l>
+            </p>
             </ab></div>
       </body>
    </text>

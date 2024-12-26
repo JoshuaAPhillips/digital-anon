@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 1r.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2779" lry="3500" xml:id="facs_">
          <graphic url="m50-1.tif" width="2779px" height="3500px"/>
@@ -51,37 +93,64 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_c4c66b3f">NON.</l>
-               <l facs="#facs__eSc_line_697af002">1Tor muns centuries asbo Brâbain Decane an lstandt Ehe</l>
-               <l facs="#facs__eSc_line_5b4b989b">MAstorlan says 1 Ene untanca Lorest nas RAns. LEs notSt</l>
-               <l facs="#facs__eSc_line_150c56c4">Ana mossr LIoor nas Miaan Fron Rearens eze by à close drann</l>
-               <l facs="#facs__eSc_line_72599786">curtain noven 0t Lnunerab2e trec tops. O Enose nebred</l>
-               <l facs="#facs__eSc_line_cba9b078">bouens innumorable Biras Sanes nur Ehoir sone nas onr Reara</l>
-               <l facs="#facs__eSc_line_1996cb66">y a Len seln claa Muntors in ine Reoarines, D2a Ee desire</l>
-               <l facs="#facs__eSc_line_6c62a138">de sins come 6o one dt those untsnen Decause ne eara Ene</l>
-               <l facs="#facs__eSc_line_36822cd1">biras sins, ans So Tosbea nis axe ASaLnat Ehe Erec For à</l>
-               <l facs="#facs__eSc_line_5173a531">momentr Bat éne trec naé 6o de Letled, aud à hut made</l>
-               <l facs="#facs__eSc_line_e467c13d">Erom LEs Branches hetore the Munan voicc Sans 600.</l>
-               <l facs="#facs__eSc_line_4e3b302c">37 a bant as 2 2a7</l>
-               <l facs="#facs__eSc_line_f2d64ceb">Musins nscls asone, nes n°t</l>
-               <l facs="#facs__eSc_line_b842bab3">A BIr80s Noine</l>
-               <l facs="#facs__eSc_line_2fdde714">924 me 50joic0.</l>
-               <l facs="#facs__eSc_line_cb4af614">SAnoines besorc lae davs</l>
-               <l facs="#facs__eSc_line_9e14d31d">And me Chonet sn hex lax</l>
-               <l facs="#facs__eSc_line_f906cc57">Se saia, minber nas past, n05 n0+</l>
-               <l facs="#facs__eSc_line_181b08c4">re roico énal broke ine siesnce or Ehe Foresbs nas</l>
-               <l facs="#facs__eSc_line_67f12a08">tae 1o260 os Anon. Some one Roare the sons ana re enhered dt</l>
-               <l facs="#facs__eSc_line_063daad7">5or 26 NaS Iaber neiecn dommt, Deaubirut27 on parenent.</l>
-               <l facs="#facs__eSc_line_a0e31071">us ihe aingor nad nus audzence, bat Ene audsence nas s0</l>
-               <l facs="#facs__eSc_line_007bf996">lbbIc inicrostea in nis nume iaat ne never Choncht le give</l>
-               <l facs="#facs__eSc_line_e8824385">26. Vex ihe audinée nas 260625 lhe SInger: 70r27, Leon</l>
-               <l facs="#facs__eSc_line_1de81adf">eaer sanss anx 189, or Iutrapt sirtine 2a lhs peuses,</l>
-               <l facs="#facs__eSc_line_6848ae70">nesins mibh a Chorus. Evesx bodz chaxed in 64s enotion</l>
-               <l facs="#facs__eSc_line_9205dc99">En</l>
-               <l facs="#facs__eSc_line_a69f55c1">05 Anons sons, aud supplsed che storr, Anon sans becanse</l>
-               <l facs="#facs__eSc_line_5a776a00">sprAn Mas cono: or Niter 26 sone: bacruse ne Loves, becaase</l>
-               <l facs="#facs__eSc_line_51f1587c">E° iS Nanser, OT LAstrul: De noxry. or decause ne adores</l>
-               <l facs="#facs__eSc_line_31b7c432">soue Cod, Anon as sonstimes mon: sonebines noman. Le 25 lae</l>
+              <p>
+               <l facs="#facs__eSc_line_c4c66b3f">ANON.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_697af002"><quote source="#" rend="inline">"For many centuries <choice>
+                <sic>afte</sic>
+                <corr>after</corr></choice> Britain became an island"</quote> the</l>
+               <l facs="#facs__eSc_line_5b4b989b"><rs type="person" xml:id="psn-whar" key="Harrison, William">historian</rs> says "#"<quote source="#">the untamed forest was king. Its moist</quote></l>
+               <l facs="#facs__eSc_line_150c56c4"><quote source="#" rend="inline">and mossy floor was hidden from Heavens eye by a close drawn</quote></l>
+               <l facs="#facs__eSc_line_72599786"><quote source="#" rend="inline">curtain woven of innumerable tree tops."</quote> On <choice>
+                  <sic>tnose</sic>
+                  <corr>those</corr>
+                </choice> matted</l>
+               <l facs="#facs__eSc_line_cba9b078">boughs innumerable birds sang; but their song was only heard</l>
+               <l facs="#facs__eSc_line_1996cb66">by a few skin clad hunters in the <choice>
+                  <sic>lcearings</sic>
+                  <corr>clearings</corr>
+                </choice>. Did the desire</l>
+               <l facs="#facs__eSc_line_6c62a138">to sing come to one of those huntsmen because he heard the</l>
+               <l facs="#facs__eSc_line_36822cd1">birds sing, and so rested his axe against the tree for a</l>
+               <l facs="#facs__eSc_line_5173a531">moment? But the tree had to be felled; and a hut made</l>
+               <l facs="#facs__eSc_line_e467c13d">from its branches before the human voice sang too.</l>
+            </p>
+            <p>
+              <quote source="#">
+               <l facs="#facs__eSc_line_4e3b302c">By a bank as I lay</l>
+               <l facs="#facs__eSc_line_f2d64ceb">Musing myself alone, hey ho!</l>
+               <l facs="#facs__eSc_line_b842bab3">A birdes voice</l>
+               <l facs="#facs__eSc_line_2fdde714">Did me rejoice,</l>
+               <l facs="#facs__eSc_line_cb4af614">Singing before the day</l>
+               <l facs="#facs__eSc_line_9e14d31d">And me thought in her lay</l>
+               <l facs="#facs__eSc_line_f906cc57">She said, winter was past, hey ho!</l>
+              </quote>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_181b08c4">e voice that broke the <choice>
+                <sic>sielnce</sic>
+                <corr>silence</corr>
+              </choice> of the forests was</l>
+               <l facs="#facs__eSc_line_67f12a08">the voice of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>. Some one heard the song and <choice>
+                 <sic>re embered</sic>
+                 <corr>remembered</corr>
+                </choice> it</l>
+               <l facs="#facs__eSc_line_063daad7">for it was later <choice>
+                <sic>wrteen</sic>
+                <corr>written</corr>
+              </choice> down, beautifully on parchment.</l>
+               <l facs="#facs__eSc_line_a0e31071">Thus the singer had his audience, but the audience was so</l>
+               <l facs="#facs__eSc_line_007bf996">little interested in his name that he never thought to give</l>
+               <l facs="#facs__eSc_line_e8824385">it. <del>For</del> <add hand="ms" place="inline">T</add><del>t</del>he audience was itself the singer; <quote source="#" rend="inline">Terly terlow"</quote></l>
+               <l facs="#facs__eSc_line_1de81adf">they sang; and <quote source="#" rend="inline">"By, by lullay"</quote> filling in the pauses,</l>
+               <l facs="#facs__eSc_line_9205dc99"><add hand="ms" place="above">out</add></l>
+               <l facs="#facs__eSc_line_6848ae70">helping with a chorus. Every body shared in the emotion</l>
+               <l facs="#facs__eSc_line_a69f55c1">of Anons song, and supplied the story. Anon sang because</l>
+               <l facs="#facs__eSc_line_5a776a00">spring has come; or winter is gone; because he loves; because</l>
+               <l facs="#facs__eSc_line_51f1587c">he is hungry, or lustful; or merry. or because he adores</l>
+               <l facs="#facs__eSc_line_31b7c432">some God. Anon is sometimes man; sometimes woman. He is the</l>
+            </p>
             </ab></div>
       </body>
    </text>

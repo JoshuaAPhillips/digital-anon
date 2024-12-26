@@ -1,20 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 6r.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2757" lry="3500" xml:id="facs_">
          <graphic url="m50-11.tif" width="2757px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="908,155 935,190 945,202 963,198 949,178 918,143 908,155" rendition="Line" xml:id="facs__eSc_line_a6f084e4" subtype="default"/>
             <zone points="2402,266 941,266 941,297 941,316 2420,316 2420,297 2416,280 2402,266" rendition="Line" xml:id="facs__eSc_line_67648f3c" subtype="default"/>
             <zone points="920,402 918,418 943,427 945,427 947,427 1965,421 1967,408 1965,367 1826,373 1795,367 1770,361 1768,361 1766,361 1764,361 1756,367 1745,375 1622,375 1612,367 1603,359 1601,359 1599,359 1597,359 1556,367 1537,371 1531,367 1523,359 1521,359 1519,359 1457,359 1455,359 1453,359 1437,367 1428,373 1317,373 1313,367 1305,361 1305,359 1303,359 1301,359 1299,359 1221,367 1202,369 1188,367 1126,357 1124,357 1075,367 1066,369 920,369 920,402" rendition="Line" xml:id="facs__eSc_line_41259508" subtype="default"/>
             <zone points="918,511 916,525 957,536 959,536 961,536 1282,528 1348,538 1350,538 2155,530 2157,517 2155,484 2101,472 2099,472 2037,482 2035,482 2031,482 1976,472 1974,472 1972,472 1947,482 1943,484 1840,484 1836,480 1825,472 1823,472 1821,472 1819,472 1784,480 1772,482 1721,480 1560,470 1558,470 1556,470 1529,478 1519,482 1389,482 1383,476 1373,470 1371,470 1369,470 1367,470 1365,470 1344,476 1332,480 1326,476 1317,468 1315,468 1313,468 1311,468 918,472 918,511" rendition="Line" xml:id="facs__eSc_line_0a2d22ba" subtype="default"/>
@@ -34,7 +75,6 @@
             <zone points="918,1703 916,1726 1079,1722 1194,1732 1212,1732 1214,1732 1221,1732 1286,1722 1342,1732 1344,1732 1346,1732 1348,1732 1393,1722 1484,1734 1494,1734 1496,1734 1498,1734 1500,1734 1519,1724 1638,1724 1706,1736 1714,1736 1716,1736 1729,1736 1858,1726 1897,1738 1900,1738 1902,1738 1904,1738 1910,1738 1951,1728 2118,1738 2122,1713 2120,1678 1879,1664 1766,1664 1764,1664 1762,1664 1760,1664 1747,1674 1739,1674 1638,1662 1550,1662 1548,1662 1546,1662 1544,1662 1535,1672 1533,1672 1529,1672 1432,1662 1430,1662 1428,1662 1426,1662 1414,1672 1412,1672 1408,1672 1375,1662 1373,1662 1371,1662 1330,1670 1321,1662 1321,1660 1319,1660 1317,1660 1315,1660 1313,1660 1282,1670 1280,1670 1278,1670 1229,1660 1227,1660 1136,1668 1120,1658 1118,1658 1116,1658 1114,1658 1112,1658 1085,1668 918,1668 918,1703" rendition="Line" xml:id="facs__eSc_line_d4c6b44b" subtype="default"/>
             <zone points="1120,1833 1823,1845 1825,1845 2054,1837 2070,1837 2079,1837 2219,1847 2221,1847 2500,1837 2502,1821 2498,1773 2163,1786 2112,1771 2111,1771 1992,1771 1990,1771 1922,1785 1895,1771 1893,1771 1891,1771 1889,1771 1887,1771 1867,1786 1815,1786 1550,1769 1548,1769 1468,1783 1340,1773 1338,1773 1336,1773 1307,1781 1289,1767 1288,1767 1286,1767 1284,1767 1282,1767 1245,1781 1227,1767 1225,1767 1223,1767 1221,1767 1167,1779 1124,1765 1122,1814 1120,1833" rendition="Line" xml:id="facs__eSc_line_2327d4fe" subtype="default"/>
             <zone points="914,1909 914,1921 912,1940 1949,1952 1951,1952 2017,1944 2023,1944 2029,1944 2122,1954 2124,1954 2523,1944 2525,1928 2521,1882 2432,1893 2276,1886 2274,1886 2148,1893 2062,1882 2050,1882 2048,1882 2009,1882 1807,1891 1780,1884 1768,1880 1766,1880 1764,1880 1721,1884 1663,1890 1653,1884 1646,1878 1644,1878 1642,1878 1640,1878 1550,1884 1478,1890 1468,1884 1459,1878 1457,1878 1455,1878 1344,1878 1342,1878 1340,1878 1338,1878 1326,1886 1319,1890 1305,1886 1274,1876 1272,1876 1270,1876 1227,1886 1223,1886 1219,1886 1157,1876 1155,1876 1153,1876 1132,1886 1128,1888 916,1888 914,1909" rendition="Line" xml:id="facs__eSc_line_f1dc280d" subtype="default"/>
-            <zone points="1033,1882 1033,1897 1089,1899 1091,1882 1091,1853 1033,1853 1033,1882" rendition="Line" xml:id="facs__eSc_line_d7d3b07b" subtype="default"/>
             <zone points="912,2045 2445,2061 2449,2039 2447,2004 2363,1993 2362,1993 2319,2002 2307,2004 2291,2002 2253,1993 2251,1993 2249,1993 2227,2000 2216,2004 1998,2004 1974,1998 1941,1991 1939,1991 1897,1996 1869,2000 1854,1996 1832,1989 1830,1989 1828,1989 1694,1995 1544,2000 1535,1993 1531,1989 1529,1989 1527,1989 1525,1989 1505,1993 1468,1998 1455,1991 1449,1987 1447,1987 1445,1987 1443,1987 1398,1991 1315,1998 1245,1989 1241,1989 1239,1989 1237,1989 1235,1989 1219,1998 1138,1987 1128,1987 1126,1987 1124,1987 1122,1987 1097,1996 1085,1987 1083,1985 1081,1985 1079,1985 1077,1985 1054,1987 945,1996 916,1985 914,2030 912,2045" rendition="Line" xml:id="facs__eSc_line_ae1009db" subtype="default"/>
             <zone points="487,2097 490,2129 501,2137 504,2137 507,2137 510,2137 513,2137 583,2114 650,2120 653,2120 656,2120 703,2094 700,2070 691,2012 478,2027 487,2097" rendition="Line" xml:id="facs__eSc_line_34c35dda"/>
             <zone points="503,2170 505,2195 789,2148 791,2138 786,2094 692,2084 690,2084 688,2084 686,2084 657,2105 620,2105 618,2105 616,2105 575,2121 566,2125 562,2123 538,2115 537,2115 535,2115 533,2115 498,2131 503,2170" rendition="Line" xml:id="facs__eSc_line_8ad33f84" subtype="default"/>
@@ -72,58 +112,118 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_a6f084e4">6</l>
-               <l facs="#facs__eSc_line_67648f3c">Out of perspective; mkx elongated, foreshortened, but</l>
-               <l facs="#facs__eSc_line_41259508">very old, with a knomledge of all good</l>
-               <l facs="#facs__eSc_line_0a2d22ba">and allevil. They are already corrupt in this</l>
-               <l facs="#facs__eSc_line_4feb1bcd">fresh world. They have evil dreams. Arthur is doomed ; the</l>
-               <l facs="#facs__eSc_line_8379bfe9">Queens are luftful. There never was, it seems, a time</l>
-               <l facs="#facs__eSc_line_2b8382e5">When men and women were vithout memory; Were innocent;</l>
-               <l facs="#facs__eSc_line_a409dc3a">There enver was a young world. Ther- 4ehind the English</l>
-               <l facs="#facs__eSc_line_225caa6c">Qu</l>
-               <l facs="#facs__eSc_line_f593dad6">lay ages of toil and love. T is is the vorld beneath our</l>
-               <l facs="#facs__eSc_line_483cc1cf">consciousness; the anoymous world to wheich we can still</l>
-               <l facs="#facs__eSc_line_1dfb0ca5">fa Jelvlan fp¬ lu onefhs. Bs</l>
-               <l facs="#facs__eSc_line_45193a86">re urn. Of the writer nothing is lMnown. Malory is not</l>
-               <l facs="#facs__eSc_line_b67dd9d1">distinct from his bookt. The voice is still the voice of</l>
-               <l facs="#facs__eSc_line_5523b5a6">Anon. murmuring about Fings and Queens who are base and</l>
-               <l facs="#facs__eSc_line_27a5287a">sa huu Vls</l>
-               <l facs="#facs__eSc_line_f76a1164">heroic; vile and gentle, like ourslves, stripped of the</l>
+              <p>
+               <l facs="#facs__eSc_line_67648f3c">out of perspective, <del>but</del> elongated, foreshortened, but</l>
+               <l facs="#facs__eSc_line_41259508">very old, with a knowledge of all good and</l>
+               <l facs="#facs__eSc_line_0a2d22ba"><choice>
+                  <sic>allevil</sic>
+                  <corr>all evil</corr>
+                </choice>. They are already corrupt in this</l>
+               <l facs="#facs__eSc_line_4feb1bcd">fresh world. They have evil dreams. <rs type="person" xml:id="psn-kart" key="Arthur (King)">Arthur</rs> is doomed; the</l>
+               <l facs="#facs__eSc_line_8379bfe9">Queens are 
+                <choice>
+                  <sic>luftful</sic>
+                  <corr>lustful</corr>
+                </choice>. There never was, it seems, a time</l>
+               <l facs="#facs__eSc_line_2b8382e5">when men and women were without memory; <del>were innocent</del></l>
+               <l facs="#facs__eSc_line_a409dc3a">There 
+                <choice>
+                  <sic>enver</sic>
+                  <corr>never</corr>
+                </choice> was a young world. <del>There</del> <add hand="ms">B</add><del>b</del>ehind the English</l>
+               <l facs="#facs__eSc_line_225caa6c"><add place="above">That</add></l>
+               <l facs="#facs__eSc_line_f593dad6">lay ages of toil and love. 
+                <choice>
+                  <sic>T is</sic>
+                  <corr>This</corr>
+                </choice> is the world beneath our</l>
+               <l facs="#facs__eSc_line_483cc1cf">consciousness; the 
+                <choice>
+                  <sic>anoymous</sic>
+                  <corr>anonymous</corr>
+                </choice> world to 
+                <choice>
+                  <sic>whcich</sic>
+                  <corr>which</corr>
+                </choice> we can still</l>
+               <l facs="#facs__eSc_line_1dfb0ca5"><add hand="ms" place="above">The scholar can find something. But</add></l>
+               <l facs="#facs__eSc_line_45193a86"><choice>
+                  <sic>re urn</sic>
+                  <corr>return</corr>
+                </choice>. Of the writer nothing is known. <rs xml:id="psn-tmal">Malory</rs> is not</l>
+               <l facs="#facs__eSc_line_b67dd9d1">distinct from his book. The voice is still the voice of</l>
+               <l facs="#facs__eSc_line_27a5287a"><add hand="ms" place="above">[illeg.]</add></l>
+               <l facs="#facs__eSc_line_5523b5a6"><rs type="person" xml:id="psn-anon" key="Anon">Anon</rs>. murmuring who are base and</l>
+               <l facs="#facs__eSc_line_f76a1164">heroic; vile and gentle, like 
+                <choice>
+                  <sic>ourslves</sic>
+                  <corr>ourselves</corr>
+                </choice>, stripped of the</l>
                <l facs="#facs__eSc_line_d4c6b44b">encumbrances that time has wrapped about us.</l>
-               <l facs="#facs__eSc_line_2327d4fe">But Caxtons printing press foreold the end of that</l>
-               <l facs="#facs__eSc_line_f1dc280d">anoynlus world; It is now vritten down; fixed; nothina will</l>
-               <l facs="#facs__eSc_line_d7d3b07b">o</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_2327d4fe"><del>But </del><rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxtons</rs> printing press 
+                <choice>
+                  <sic>foreold</sic>
+                  <corr>foretold</corr>
+                </choice> the end of that</l>
+               <l facs="#facs__eSc_line_f1dc280d"><choice>
+                  <sic>anoyl s</sic>
+                  <corr>anonymous</corr>
+                </choice> world; it is now written down; fixed; nothing will</l>
                <l facs="#facs__eSc_line_ae1009db">be added; even if the legend still murmurs on, and still</l>
-               <l facs="#facs__eSc_line_34c35dda">27L</l>
-               <l facs="#facs__eSc_line_8ad33f84">Dusaò hus¬</l>
-               <l facs="#facs__eSc_line_3687fca1">down in Some setshire the peants rmember how " on the night</l>
-               <l facs="#facs__eSc_line_4162012f">upus lutsi</l>
-               <l facs="#facs__eSc_line_6af692d0">tusωỹ</l>
-               <l facs="#facs__eSc_line_d9f789d3">of the full moon ing Arthur and his men ride round the</l>
-               <l facs="#facs__eSc_line_2292c717"> hvhus he ae hae</l>
-               <l facs="#facs__eSc_line_270d6df7">4dd</l>
-               <l facs="#facs__eSc_line_9e2f539e">hill, and their horses are shod with silver." After</l>
-               <l facs="#facs__eSc_line_3ccb1179">Tal leau¬</l>
-               <l facs="#facs__eSc_line_ba4c97d6">Fe a. ~a.s fa</l>
-               <l facs="#facs__eSc_line_6bfa023a">atous, 5 lli</l>
-               <l facs="#facs__eSc_line_1e4967be">that the audience became separate from the siger, After that a</l>
-               <l facs="#facs__eSc_line_e1c38e9f">fnut </l>
-               <l facs="#facs__eSc_line_84ad1c64">24t</l>
-               <l facs="#facs__eSc_line_1e21116f">me haxax find someone Who looks back, who gathers</l>
-               <l facs="#facs__eSc_line_ad34148e">udi,</l>
-               <l facs="#facs__eSc_line_562b0e78">Le haul</l>
-               <l facs="#facs__eSc_line_c7fe0e05">together a chornicle of what has happened. Ne find the</l>
-               <l facs="#facs__eSc_line_259a55a7">4</l>
-               <l facs="#facs__eSc_line_e1cf2e30">hua</l>
-               <l facs="#facs__eSc_line_aad8fb32">1ndividual, emerging from the past; His name his "arrison;</l>
-               <l facs="#facs__eSc_line_28062d72"> haus hd leαs su</l>
-               <l facs="#facs__eSc_line_66ce782c">he has a library; he omns a mastiff and digs up coins. Anon 5</l>
-               <l facs="#facs__eSc_line_d6144c07">~leil¬</l>
-               <l facs="#facs__eSc_line_b6a80440">la 2lques —</l>
-               <l facs="#facs__eSc_line_39bd260b">A hcα ue fi</l>
-               <l facs="#facs__eSc_line_fc83f2e5">dead when We meet witn him. The Canterbury pilgrims have gone</l>
-               <l facs="#facs__eSc_line_677405aa">their way. Re sees the past against a back ground of the</l>
-               <l facs="#facs__eSc_line_750c939b">presn t, and the present looks raw, degenerate against</l>
+               <l facs="#facs__eSc_line_3687fca1">down in <rs type="place" xml:id="pla-some" key="Somerset">Somersetshire</rs> the <choice>
+                <sic>peants</sic>
+                <corr>peasants</corr>
+              </choice> 
+              <choice>
+                <sic>rmember</sic>
+                <corr>remember</corr>
+              </choice> how <quote source="#" rend="inline">" on the night</quote></l>
+               <l facs="#facs__eSc_line_d9f789d3"><quote source="#" rend="inline">of the full moon King Arthur and his men ride round the</quote></l>
+               <l facs="#facs__eSc_line_9e2f539e"><quote source="#" rend="inline">hill, and their horses are shod with silver."</quote> After</l>
+               <l facs="#facs__eSc_line_ba4c97d6"><add hand="ms">For a time we</add></l>
+               <l facs="#facs__eSc_line_1e4967be">that the audience became separate from the singer; <del>After that</del></l>
+               <l facs="#facs__eSc_line_1e21116f">we <del>hxxx</del> find someone who looks back, who gathers</l>
+               <l facs="#facs__eSc_line_c7fe0e05">together a 
+            <choice>
+              <sic>chornicle</sic>
+              <corr>chronicle</corr>
+            </choice> of what has happened. We find the</l>
+               <l facs="#facs__eSc_line_aad8fb32">individual, emerging from the past; His name his <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs>;</l>
+               <l facs="#facs__eSc_line_66ce782c">he has a library; he owns a mastiff and digs up coins. <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> is</l>
+               <l facs="#facs__eSc_line_fc83f2e5">dead when we meet with him. The <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Canterbury pilgrims</rs> have gone</l>
+               <l facs="#facs__eSc_line_677405aa">their way. He sees the past against a back ground of the</l>
+               <l facs="#facs__eSc_line_750c939b"><choice>
+                  <sic>presn t</sic>
+                  <corr>present</corr>
+                </choice>, and the present looks raw, degenerate against</l>
+            </p>
+              <p>
+                <add>
+                   <l facs="#facs__eSc_line_34c35dda">But The</l>
+                   <l facs="#facs__eSc_line_8ad33f84">printed book</l>
+                   <l facs="#facs__eSc_line_4162012f">brought into</l>
+                   <l facs="#facs__eSc_line_6af692d0">existence the</l>
+                   <l facs="#facs__eSc_line_2292c717">the man who can</l>
+                   <l facs="#facs__eSc_line_3ccb1179">read becomes</l>
+                   <l facs="#facs__eSc_line_270d6df7">who</l>
+                   <l facs="#facs__eSc_line_6bfa023a">conscious, of the</l>
+                   <l facs="#facs__eSc_line_e1c38e9f">present, of</l>
+                   <l facs="#facs__eSc_line_ad34148e">himself,</l>
+                   <l facs="#facs__eSc_line_84ad1c64">against</l>
+                   <l facs="#facs__eSc_line_562b0e78">the backdrop</l>
+                   <l facs="#facs__eSc_line_e1cf2e30">of the</l>
+                   <l facs="#facs__eSc_line_259a55a7">past.</l>
+                   <l facs="#facs__eSc_line_28062d72">It brings into being the</l>
+                   <l facs="#facs__eSc_line_d6144c07">scholar</l>
+                   <l facs="#facs__eSc_line_b6a80440">the antiquarian ––</l>
+                   <l facs="#facs__eSc_line_39bd260b">a man like <choice>
+                    <sic>H.</sic>
+                    <corr>Harrison</corr>
+                  </choice></l>
+                </add>
+              </p>
             </ab></div>
       </body>
    </text>

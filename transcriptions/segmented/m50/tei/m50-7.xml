@@ -1,20 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 4r.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2764" lry="3500" xml:id="facs_">
          <graphic url="m50-7.tif" width="2764px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="945,180 945,223 945,241 972,246 974,223 974,175 960,173 945,180" rendition="Line" xml:id="facs__eSc_line_b2beffa6" subtype="default"/>
             <zone points="2565,293 2546,293 2526,293 2520,293 2516,295 2431,293 2429,293 2409,293 2390,293 2371,293 2351,291 2345,291 2332,291 2312,291 2293,291 2273,291 2254,291 2234,291 2215,291 2196,291 2176,291 2157,291 2137,289 2118,289 2098,289 2079,289 2059,289 2042,289 1974,295 1964,295 1956,295 1898,287 1884,287 1875,287 1865,295 1855,295 1787,287 1787,287 1768,287 1748,287 1729,287 1698,293 1538,285 1534,285 1515,285 1495,283 1416,293 1412,293 1410,293 1369,283 1367,283 1365,283 933,291 933,326 933,353 1402,346 1472,355 1476,355 1478,355 1480,355 1515,346 1577,355 1579,355 1581,355 1585,355 1700,346 1748,355 1756,357 1758,357 1771,355 1836,348 1867,357 1871,357 1873,357 1875,357 1890,357 1984,348 2028,357 2034,357 2036,357 2079,357 2406,348 2448,357 2450,357 2452,357 2456,357 2532,348 2571,357 2577,330 2577,316 2565,293" rendition="Line" xml:id="facs__eSc_line_7900d711" subtype="default"/>
             <zone points="929,451 1062,464 1063,466 1437,466 1437,464 1493,455 1717,466 1719,466 1830,456 1956,466 1958,466 2499,455 2501,441 2499,408 2151,396 2149,396 2032,402 1974,406 1933,402 1877,396 1875,396 1832,402 1791,406 1756,400 1715,394 1713,394 1684,400 1663,404 1645,400 1628,394 1626,394 1624,394 1536,398 1437,404 1421,398 1414,394 1412,394 1163,394 1161,394 1147,396 1087,404 1027,394 1021,394 1019,394 1015,394 974,404 933,394 931,437 929,451" rendition="Line" xml:id="facs__eSc_line_964799b7" subtype="default"/>
             <zone points="933,546 931,561 970,573 972,573 974,573 2476,565 2478,550 2476,517 2353,501 2351,501 2295,511 2186,501 2184,501 2182,501 2155,515 2149,515 2024,501 2022,501 1966,515 1960,517 1812,517 1807,515 1764,501 1762,501 1760,501 1622,511 1581,499 1579,499 1577,499 1575,499 1538,513 1536,513 1384,499 1382,499 933,511 933,546" rendition="Line" xml:id="facs__eSc_line_ef0ac4ca" subtype="default"/>
@@ -52,38 +93,66 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_b2beffa6">4</l>
-               <l facs="#facs__eSc_line_7900d711">1e should see tracks across the fields joing manor house to</l>
+              <p>
+               <l facs="#facs__eSc_line_7900d711">we should see tracks across the fields 
+                <choice>
+                  <sic>joing</sic>
+                  <corr>joining</corr>
+                </choice> manor house to</l>
                <l facs="#facs__eSc_line_964799b7">hovel, and hovel to church. Some of those paths of course</l>
-               <l facs="#facs__eSc_line_ef0ac4ca">were worn by soliders and labouerers. They must fight to</l>
-               <l facs="#facs__eSc_line_5bab3c5a">gether and plough together if they vere not to be conquered</l>
-               <l facs="#facs__eSc_line_1a029044">by man and by nature. That connection ixxx as time goes on</l>
-               <l facs="#facs__eSc_line_7cfe46c5">and the classes senarate thémsives, is still painfully</l>
-               <l facs="#facs__eSc_line_27a6072d">Lo he tte~ ~~ fc~~ ~~~</l>
-               <l facs="#facs__eSc_line_c9745bbf">recorded in old letter books and ledgers. It males the</l>
-               <l facs="#facs__eSc_line_e416bba8">staple of the old correspo ndence between the Pastons of</l>
-               <l facs="#facs__eSc_line_8f7c4495">Norfolk and the Betsons and Paycockes of Essex. </l>
-               <l facs="#facs__eSc_line_1fb4c883">But there vas also the the other less visible connection</l>
-               <l facs="#facs__eSc_line_87d3d24b">—- the common belief. That track between the houses in the</l>
-               <l facs="#facs__eSc_line_160808dc">village has been grown over,-like the track alomg which the</l>
-               <l facs="#facs__eSc_line_66615104">pilgrims rode to Canterbury. --no one rides that vay now.</l>
-               <l facs="#facs__eSc_line_7ed0bd52">But before Chaucers time thatxtramuuuxan~i~~~~</l>
-               <l facs="#facs__eSc_line_383da2d4">it vas trod daily. It led the-peasants to the tree; to</l>
-               <l facs="#facs__eSc_line_99224dc5">luwdn</l>
-               <l facs="#facs__eSc_line_c34b72d4">the well. In spring it led to the Maypole, where they</l>
-               <l facs="#facs__eSc_line_264e761b">danced and sung Anons seng. At Midsummer they lit the bon</l>
-               <l facs="#facs__eSc_line_08b5d9c0">fir on the hill. At Christmas the mummers acted the old</l>
+               <l facs="#facs__eSc_line_ef0ac4ca">were worn by 
+                <choice>
+                  <sic>soliders</sic>
+                  <corr>soldiers</corr>
+                </choice> and
+                <choice>
+                  <sic>labouerers</sic>
+                  <corr>labourers</corr>
+                </choice>. They must fight to</l>
+               <l facs="#facs__eSc_line_5bab3c5a"><choice>
+                  <sic>gether</sic>
+                  <corr>gather</corr>
+                </choice> and plough together if they were not to be conquered</l>
+               <l facs="#facs__eSc_line_1a029044">by man and by nature. That connection <del>is</del> as time goes on</l>
+               <l facs="#facs__eSc_line_27a6072d"><add hand="ms" place="above">[he? her?] <del>me</del> records the daily struggle</add></l>
+               <l facs="#facs__eSc_line_7cfe46c5">and the classes <del>classes separate themselves</del>, is still painfully</l>
+               <l facs="#facs__eSc_line_c9745bbf">recorded in old letter books and ledgers. It makes the</l>
+               <l facs="#facs__eSc_line_e416bba8">staple of the old 
+                <choice>
+                  <sic>corresp ondence</sic>
+                  <corr>correspondence</corr>
+                </choice> between the <rs type="person" xml:id="lit-past" key="Pastons">Pastons</rs></l>
+               <l facs="#facs__eSc_line_8f7c4495">of <rs type="place" xml:id="pla-norf" key="Norfolk">Norfolk</rs> and the <rs type="person" xml:id="psn-bets" key="Betsons">Betsons</rs> and <rs type="person" xml:id="psn-payc" key="Paycockes">Paycockes</rs> of <rs type="place" xml:id="pla-esse" key="Essex">Essex</rs>.</l>
+               <l facs="#facs__eSc_line_1fb4c883">But there was also the the other less visible connection</l>
+               <l facs="#facs__eSc_line_87d3d24b">--the common belief. That track between the houses in the</l>
+               <l facs="#facs__eSc_line_160808dc">village has been grown over<add hand="ms" place="inline">;-</add> like the track along which the</l>
+               <l facs="#facs__eSc_line_66615104"><rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">pilgrims</rs> rode to <rs type="place" xml:id="pla-cant" key="Canterbury"></rs>.--no one rides that way now.</l>
+               <l facs="#facs__eSc_line_7ed0bd52">But before <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucers</rs> time <del>that track was still green</del></l>
+               <l facs="#facs__eSc_line_99224dc5"><add hand="ms" place="above">which</add></l>
+               <l facs="#facs__eSc_line_383da2d4">it vas trod daily. It led <del>the peasants</del> to the tree</l>
+               <l facs="#facs__eSc_line_c34b72d4">to the well. In spring it led to the Maypole, where they</l>
+               <l facs="#facs__eSc_line_264e761b"><del>danced and sung Anons song</del>. At Midsummer they lit the bon</l>
+               <l facs="#facs__eSc_line_08b5d9c0"><choice>
+                  <sic>fir</sic>
+                  <corr>fire</corr>
+                </choice> on the hill. At Christmas the mummers acted the old</l>
                <l facs="#facs__eSc_line_f25692e4">Anons old play; and the boys came singing his wassailing</l>
                <l facs="#facs__eSc_line_2b5518e6">song. The road led to the old graves, to the stones where</l>
-               <l facs="#facs__eSc_line_925de701">in time past the English had done sacrifice. The peasnts,</l>
-               <l facs="#facs__eSc_line_bf37ed1f">led by anon, still went that vay by instinct, in spring</l>
+               <l facs="#facs__eSc_line_925de701">in time past the English had done sacrifice. The <choice>
+                  <sic>peasnts</sic>
+                  <corr>peasants</corr>
+                </choice>,</l>
+               <l facs="#facs__eSc_line_bf37ed1f"><del>led by anon</del>, still went that way by instinct, in spring</l>
                <l facs="#facs__eSc_line_32ae5960">and summer and winter. The old Gods lay hidden beneath the</l>
-               <l facs="#facs__eSc_line_e7402b97">new. It vas to them led by Anon that they did worship,</l>
+               <l facs="#facs__eSc_line_e7402b97">new. It was to them led by Anon that they did worship,</l>
                <l facs="#facs__eSc_line_23f98ce6">in their coats of green leaves, bearing swords in their hands</l>
                <l facs="#facs__eSc_line_62495cb0">dancing through the houses, enacting their ancient parts.</l>
-               <l facs="#facs__eSc_line_2146aa7d">It was the printing press mxbt~~~ that lkilled</l>
-               <l facs="#facs__eSc_line_6567248e">h—4 nee É A4</l>
-               <l facs="#facs__eSc_line_ba561c2a">Anon. Mut it mas the press also that preserved him. When</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_6567248e"><add hand="ms" place="above">finally was to kill</add></l>
+               <l facs="#facs__eSc_line_2146aa7d">It was the <rs type="object" xml:id="obj-pres">printing press</rs> <del>in 1477</del> that killed</l>
+               <l facs="#facs__eSc_line_ba561c2a">Anon. but it was the press also that preserved him. When</l>
+            </p>
             </ab></div>
       </body>
    </text>

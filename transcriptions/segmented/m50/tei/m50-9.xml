@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 5r.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2757" lry="3500" xml:id="facs_">
          <graphic url="m50-9.tif" width="2757px" height="3500px"/>
@@ -47,7 +89,6 @@
             <zone points="896,2778 895,2798 2560,2813 2564,2788 2562,2753 2229,2739 2227,2739 2225,2739 2223,2739 2212,2747 2206,2751 1914,2751 1881,2743 1848,2737 1846,2737 1749,2741 1630,2747 1550,2739 1509,2735 1507,2735 1461,2737 1348,2745 1280,2735 1272,2735 1270,2735 1268,2735 1266,2735 1231,2745 1192,2735 1186,2733 1184,2733 1182,2733 1153,2733 959,2743 896,2731 896,2778" rendition="Line" xml:id="facs__eSc_line_86772d50" subtype="default"/>
             <zone points="898,2885 896,2901 965,2914 966,2914 1054,2905 1324,2914 1326,2914 1447,2906 1476,2916 1478,2916 1480,2916 1540,2908 1694,2918 1696,2918 1698,2918 1739,2908 1852,2920 1854,2920 2148,2910 2165,2922 2167,2922 2169,2922 2171,2922 2237,2912 2449,2922 2451,2922 2453,2922 2482,2910 2484,2895 2482,2862 2253,2850 2251,2850 2249,2850 2223,2860 2219,2860 2214,2858 2165,2848 2009,2848 2007,2848 2005,2848 2004,2848 1992,2858 1988,2858 1947,2848 1945,2848 1871,2856 1852,2858 1848,2856 1826,2846 1825,2846 1823,2846 1762,2856 1754,2856 1716,2856 1449,2844 1447,2844 1396,2852 1385,2856 1237,2856 1231,2852 1221,2844 1219,2844 1217,2844 1216,2844 1147,2850 1130,2852 1126,2850 1110,2842 1109,2842 1107,2842 1068,2850 1056,2852 898,2850 898,2885" rendition="Line" xml:id="facs__eSc_line_b46772ff" subtype="default"/>
             <zone points="896,2994 896,3021 2171,3021 2183,3021 2251,3031 2253,3031 2428,3021 2430,3006 2426,2959 2200,2971 2165,2959 2161,2957 2159,2957 2054,2957 2052,2957 2050,2957 2048,2959 2027,2969 1945,2959 1918,2955 1916,2955 1898,2959 1852,2969 1679,2969 1663,2959 1655,2953 1653,2953 1651,2953 1649,2953 1647,2953 1632,2959 1611,2965 1556,2959 1515,2953 1513,2953 1470,2959 1416,2965 1404,2959 1391,2951 1389,2951 1387,2951 1385,2951 1365,2959 1350,2965 1153,2965 1142,2959 1124,2949 1122,2949 1120,2949 896,2957 896,2994" rendition="Line" xml:id="facs__eSc_line_71fa0286" subtype="default"/>
-            <zone points="1486,2947 1486,2971 1618,2959 1618,2947 1618,2920 1539,2906 1537,2906 1486,2914 1486,2947" rendition="Line" xml:id="facs__eSc_line_516c10c6" subtype="default"/>
             <zone points="896,3103 896,3132 1056,3122 1124,3126 1245,3132 1247,3132 1249,3132 1272,3120 1272,3103 1272,3070 1165,3060 1163,3060 1161,3060 1159,3060 1159,3062 1149,3070 1149,3072 1083,3072 1081,3070 1050,3060 1048,3060 1046,3060 1044,3060 1009,3070 1007,3070 951,3060 949,3060 896,3070 896,3103" rendition="Line" xml:id="facs__eSc_line_4a34063f" subtype="default"/>
             <zone points="2498,3181 1251,3173 1251,3212 1249,3235 1424,3229 1459,3239 1463,3241 1465,3241 1467,3241 1474,3241 1515,3231 1628,3241 1632,3241 1634,3241 1636,3241 1665,3231 1704,3243 1708,3243 1710,3243 1712,3243 1723,3243 1803,3233 1869,3243 1881,3245 1883,3245 1928,3245 2173,3237 2219,3247 2223,3247 2225,3247 2229,3247 2282,3237 2311,3249 2315,3249 2317,3249 2319,3251 2430,3251 2430,3249 2432,3249 2434,3249 2445,3239 2506,3249 2509,3223 2509,3192 2498,3181" rendition="Line" xml:id="facs__eSc_line_a2650756" subtype="default"/>
             <zone points="898,3293 898,3319 896,3344 2426,3356 2430,3332 2428,3288 2253,3299 2216,3288 2212,3286 2210,3286 2208,3286 2181,3288 2011,3297 1982,3288 1972,3284 1970,3284 1969,3284 1951,3288 1906,3297 1774,3297 1754,3288 1743,3282 1741,3282 1739,3282 1712,3288 1675,3293 1579,3288 1482,3280 1480,3280 1412,3288 1363,3291 1332,3288 1282,3278 1280,3278 1200,3288 1171,3290 1153,3288 1105,3276 1103,3276 898,3286 898,3293" rendition="Line" xml:id="facs__eSc_line_2c0ea7b9" subtype="default"/>
@@ -57,43 +98,91 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_fd5500e0">in l477 Caxton printed the twenty one books of the Morte</l>
-               <l facs="#facs__eSc_line_81a9db15">DAr thur he fixed the voice of Anon for ever. There we tap</l>
-               <l facs="#facs__eSc_line_43dd9541">the reservoir of common belief that lay deep sunle in the</l>
-               <l facs="#facs__eSc_line_83aee371">minds od peasants and nobles. There in Malorys pages</l>
-               <l facs="#facs__eSc_line_53ee53f9">We hear the voice of Anon murmuring still. Eexmaaxs~ill</l>
-               <l facs="#facs__eSc_line_a24c3f40">If Caxton himself doubted--- King Artmur he objected</l>
-               <l facs="#facs__eSc_line_da073384">never lived-- there vere still nobles and gentry who</l>
-               <l facs="#facs__eSc_line_dca857ad">kmankinxtinmmvesænxemhnan zx were positive . They said that</l>
-               <l facs="#facs__eSc_line_8fb35f97">you soulc see Gawaines skaull at Dover: and the Round Table</l>
-               <l facs="#facs__eSc_line_d5e466d6">at Winchester; and "in other places Launcelots svord and</l>
-               <l facs="#facs__eSc_line_17dc8d3c">Ie (uyuil-</l>
-               <l facs="#facs__eSc_line_f115f332">l4 ht lete</l>
-               <l facs="#facs__eSc_line_e21162d5">meany other things." So Caxton printed the old dream. ha ~</l>
-               <l facs="#facs__eSc_line_22c8e52b">e e h fes eee ~ eAduy pr</l>
-               <l facs="#facs__eSc_line_5712d68e">et Cto</l>
-               <l facs="#facs__eSc_line_2011d375">It is still half fact. VThere is London: and Carlisle; and</l>
-               <l facs="#facs__eSc_line_98b64975"/>
-               <l facs="#facs__eSc_line_36c4285e">e</l>
-               <l facs="#facs__eSc_line_13878557">st Albans; there is the Archbishop of Canterbury and</l>
-               <l facs="#facs__eSc_line_4de2951d">St Pauls. But real places are set in a dream morld.</l>
-               <l facs="#facs__eSc_line_da9f2224">The raods lead past CamtaxxuLondon to castles vhere Kinghts</l>
-               <l facs="#facs__eSc_line_9005caf9">1ie enchannted: down the rodas ride Queens on white mules;</l>
-               <l facs="#facs__eSc_line_206cf370">Morgan 1e Fay truns herself to stone: and a hand rises from</l>
-               <l facs="#facs__eSc_line_304e5a24">a lalke holding Eecalibur. It has a childs implict belief. ~ ~~</l>
-               <l facs="#facs__eSc_line_64d141f7">. vee  lee ned́</l>
-               <l facs="#facs__eSc_line_c5dec1ea">It has a childs love of particularity. Tkaxatux~ Rverything</l>
-               <l facs="#facs__eSc_line_1c940084">i18 stated . The beauty is in the statement, not in the</l>
-               <l facs="#facs__eSc_line_73cef2d1">suggestion. "S0 he went in and searched from chamber to</l>
-               <l facs="#facs__eSc_line_f93bbb65">chamber, and found his bed, but she was not there; then -alin</l>
-               <l facs="#facs__eSc_line_beccc2d3">looked into a little garden , and under a laurel tree</l>
-               <l facs="#facs__eSc_line_86772d50">he saw her lie upon a quilt of green samite and a knight with</l>
-               <l facs="#facs__eSc_line_b46772ff">her, and under their hedads grass and herbs". The vorld is</l>
-               <l facs="#facs__eSc_line_71fa0286">seen mithout comment; did the writer kow what beauty he</l>
-               <l facs="#facs__eSc_line_516c10c6">e. u</l>
-               <l facs="#facs__eSc_line_4a34063f">makces us see?</l>
-               <l facs="#facs__eSc_line_a2650756">But, save that self consciousness had not hyet</l>
-               <l facs="#facs__eSc_line_2c0ea7b9">raised its mirror, the men and vomen are ourselves, seen</l>
+              <p>
+               <l facs="#facs__eSc_line_fd5500e0">in 1477 <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxton</rs> printed the twenty one <rs type="literary-work" xml:id="lit-mort" key="Morte d'Arthur">Morte</rs></l>
+               <l facs="#facs__eSc_line_81a9db15"><rs type="literary-work" xml:id="lit-mort">
+                <choice>
+                  <sic>DArthur</sic>
+                  <corr>D'Arthur</corr>
+                </choice></rs> he fixed the voice of Anon for ever. There we tap</l>
+               <l facs="#facs__eSc_line_43dd9541">the reservoir of common belief that lay deep sunk in the</l>
+                   <l facs="#facs__eSc_line_83aee371">minds 
+                <choice>
+                  <sic>od</sic>
+                  <corr>of</corr>
+                </choice> peasants and nobles. There in <rs type="person" xml:id="psn-tmal" key="Malory, Thomas">Malorys</rs> pages</l>
+               <l facs="#facs__eSc_line_53ee53f9">we hear the voice of Anon murmuring still. <del>He was still</del></l>
+               <l facs="#facs__eSc_line_a24c3f40">If Caxton himself doubted--- <rs type="person" xml:id="psn-kart" key="Arthur (King)">King Arthur</rs> he objected</l>
+               <l facs="#facs__eSc_line_da073384">never lived-- there were still nobles and gentry who</l>
+               <l facs="#facs__eSc_line_dca857ad"><del>knew that he was a real man</del> were positive. They said that</l>
+               <l facs="#facs__eSc_line_8fb35f97">you 
+                <choice>
+                  <sic>soulc</sic>
+                  <corr>could</corr>
+                </choice> see <rs type="person" xml:id="psn-gawa" key="Gawain">Gawaines</rs> skull at <rs type="place" xml:id="pla-dove" key="Dover">Dover</rs>; and the <rs type="object" xml:id="obj-roun" key="Round Table">Round Table</rs></l>
+               <l facs="#facs__eSc_line_d5e466d6">at <rs type="place" xml:id="pla-winc" key="Winchester">Winchester</rs>; and <quote source="#" rend="inline">"in other places <rs type="person" xml:id="psn-lanc" key="Lancelot">Launcelots</rs> sword and</quote></l>
+               <l facs="#facs__eSc_line_e21162d5"><quote source="#" rend="inline">many other things."</quote> So <rs type="person" xml:id="psn-wcax" key="Caxton, William">Caxton</rs> printed the old dream. <add>with its</add></l> 
+               <l facs="#facs__eSc_line_22c8e52b"><add>strange mixture of fairy tale. It is a mixed world</add></l>
+               <l facs="#facs__eSc_line_2011d375">It is still half fact. <choice>
+                  <sic>Ythere</sic>
+                  <corr>There</corr>
+                </choice> is <rs type="place" xml:id="pla-lond" key="London">London</rs>; and <rs type="place" xml:id="pla-carl" key="Carlisle">Carlisle</rs>; and</l>
+               <l facs="#facs__eSc_line_13878557"><rs type="place" xml:id="pla-stal" key="St Albans">St Albans</rs>; there is the <rs type="person" xml:id="pers-arch" key="Archbishop of Canterbury, The">Archbishop of Canterbury</rs> and</l>
+               <l facs="#facs__eSc_line_4de2951d"><rs type="place" xml:id="pla-stpa" key="St Paul's Cathedra;">St Pauls</rs>. But real places are set in a dream world.</l>
+               <l facs="#facs__eSc_line_da9f2224">The 
+                <choice>
+                  <sic>raods</sic>
+                  <corr>roads</corr>
+                </choice> lead past <del>Canterbu</del>London to castles where 
+                <choice>
+                  <sic>Kinghts</sic>
+                  <corr>Knights</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_9005caf9">lie 
+                <choice>
+                  <sic>enchannted</sic>
+                  <corr>enchanted</corr>
+                </choice>; down the 
+                <choice>
+                  <sic>rodas</sic>
+                  <corr>roads</corr>
+                </choice> ride Queens on white mules;</l>
+               <l facs="#facs__eSc_line_206cf370"><rs type="person" xml:id="psn-morg" key="Morgan le Fay">Morgan le Fay</rs> 
+                <choice>
+                  <sic>truns</sic>
+                  <corr>turns</corr>
+                </choice> herself to stone; and a hand rises from</l>
+               <l facs="#facs__eSc_line_64d141f7"><add hand="ms" place="above">The [illeg.] &amp; Lords went</add></l>
+               <l facs="#facs__eSc_line_304e5a24">a lake holding <rs type="object" xml:id="obj-exca" key="Excalibur">Excalibur</rs>. It has a childs implicit belief. <add hand="ms" place="inline">in the story</add></l>
+               <l facs="#facs__eSc_line_c5dec1ea">It has a childs love of particularity. <del>The story</del> Everything</l>
+               <l facs="#facs__eSc_line_1c940084">is stated. The beauty is in the statement, not in the</l>
+               <l facs="#facs__eSc_line_73cef2d1">suggestion. <quote source="#" rend="inline">"So he went in and searched from chamber to</quote></l>
+               <l facs="#facs__eSc_line_f93bbb65"><quote source="#">chamber, and found his bed, but she was not there; then Balin</quote></l>
+               <l facs="#facs__eSc_line_beccc2d3"><quote source="#">looked into a little garden , and under a laurel tree</quote></l>
+               <l facs="#facs__eSc_line_86772d50"><quote source="#">he saw her lie upon a quilt of green samite and a knight with</quote></l>
+               <l facs="#facs__eSc_line_b46772ff"><quote source="#">her, and under their <choice>
+                  <sic>hedads</sic>
+                  <corr>heads</corr>
+                </choice> grass and herbs"</quote>. The world is</l>
+               <l facs="#facs__eSc_line_71fa0286">seen without comment; <add hand="ms" place="above">and</add> did the writer know what beauty he</l>
+               <l facs="#facs__eSc_line_4a34063f">makes us see?</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_a2650756">But, save that self consciousness had not <choice>
+                  <sic>hyet</sic>
+                  <corr>yet</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_2c0ea7b9">raised its mirror, the men and women are ourselves, seen</l>
+              </p>
+              <p>
+                <add>
+                   <l facs="#facs__eSc_line_17dc8d3c">it brought to</l>
+                   <l facs="#facs__eSc_line_f115f332">the surface</l>
+                   <l facs="#facs__eSc_line_5712d68e">the old</l>
+                   <l facs="#facs__eSc_line_98b64975">hidden</l>
+                   <l facs="#facs__eSc_line_36c4285e">world</l>
+                </add>
+              </p>
             </ab></div>
       </body>
    </text>

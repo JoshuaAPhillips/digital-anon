@@ -1,15 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9, fol. 2r.
+        </title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m50</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M50. Anon. Typescript fragment, with the author's ms. corrections, unsigned and undated. 9p. Paginated 1-9.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
    <facsimile>
       <surface ulx="0" uly="0" lrx="2759" lry="3500" xml:id="facs_">
          <graphic url="m50-3.tif" width="2759px" height="3500px"/>
@@ -48,34 +90,76 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_9ec5bd6c">common voice singing out of doors, He has no house. Ne l ves</l>
-               <l facs="#facs__eSc_line_cfa280ba">a r mins life crossing the fields, mounti n the hills,</l>
-               <l facs="#facs__eSc_line_30858d5c">1ying under the hawthorn to listen to the nightigale.</l>
-               <l facs="#facs__eSc_line_883c0a66">EXy By shutting out a chimney or a factory ve can still</l>
-               <l facs="#facs__eSc_line_a084952e">8ee What Anon saw-- the bird haunted reed.whispering fen,</l>
-               <l facs="#facs__eSc_line_f8d81a13">the down and the green scary never quite healed along vhich</l>
-               <l facs="#facs__eSc_line_a0fd1c50">t ~~</l>
-               <l facs="#facs__eSc_line_c663cf40">he came when he made his journeys. Ne was a simple singer,</l>
-               <l facs="#facs__eSc_line_b672d814">1ifting a song or a story from other peoples lips, and lettig</l>
-               <l facs="#facs__eSc_line_ed1ef7ed">the audience join in the chorus. Somimes he made a few lines</l>
-               <l facs="#facs__eSc_line_50a5c849">that examtly matched his emotion--</l>
-               <l facs="#facs__eSc_line_893a3247">ht there is no mae to that song.</l>
-               <l facs="#facs__eSc_line_b3482354">name</l>
-               <l facs="#facs__eSc_line_f596845d">The n when the houses had come together in some</l>
-               <l facs="#facs__eSc_line_aa9fd8aa">leearing in a ring and roads, often flooded, often deep in</l>
-               <l facs="#facs__eSc_line_23d7632e">mud, led from haxxx the cottage to the Manor, from tje Manor</l>
-               <l facs="#facs__eSc_line_d608b569">to the Church in the middle, along the roads came minstersl ~m.</l>
-               <l facs="#facs__eSc_line_b2b726c9">jusglers, bear leaders, singins their songs at the back door</l>
+              <p>
+               <l facs="#facs__eSc_line_9ec5bd6c">common voice singing out of doors, He has no house. He <choice>
+                  <sic>l ves</sic>
+                  <corr>lives</corr>
+                </choice></l>
+               <l facs="#facs__eSc_line_cfa280ba">a <choice>
+                  <sic>r ming</sic>
+                  <corr>roaming</corr>
+                </choice> life crossing the fields, mounting the hills,</l>
+               <l facs="#facs__eSc_line_30858d5c">lying under the hawthown to listen to the <choice>
+                  <sic>nightigale</sic>
+                  <corr>nightingale</corr>
+                </choice>.</l>
+               <l facs="#facs__eSc_line_883c0a66"><del>By</del>    By shutting out a chimney or a factory we can still</l>
+               <l facs="#facs__eSc_line_a084952e">see what <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> saw-- the bird haunted reed whispering fen,</l>
+               <l facs="#facs__eSc_line_a0fd1c50"><add place="above">not yet</add></l>
+               <l facs="#facs__eSc_line_f8d81a13">the down and the green scar<del>e</del> never quite healed along which</l>
+               <l facs="#facs__eSc_line_c663cf40">he came when he made his journeys. He was a simple singer,</l>
+               <l facs="#facs__eSc_line_b672d814">lifting a song or a story from other peoples lips and <choice>
+                    <sic>lettig</sic>
+                    <corr>letting</corr>
+                  </choice></l>
+               <l facs="#facs__eSc_line_ed1ef7ed">the audience join in the chorus. <choice>
+                    <sic>Somemimes</sic>
+                    <corr>Sometimes</corr>
+                  </choice> he made a few lines</l>
+               <l facs="#facs__eSc_line_50a5c849">that exactly matched his emotion--</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_b3482354"><add place="above">name</add></l>
+               <l facs="#facs__eSc_line_893a3247">but there is no <choice>
+            <sic>mae</sic>
+            <corr>name</corr>
+          </choice> to that song.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_f596845d">Then when the houses had come together in some</l>
+               <l facs="#facs__eSc_line_aa9fd8aa"><choice>
+                  <sic>lcearing</sic>
+                  <corr>clearing</corr>
+                </choice> in a ring and roads, often flooded, often deep in</l>
+               <l facs="#facs__eSc_line_23d7632e">mud, led from <del>house</del> the cottage to the Manor, from the Manor</l>
+               <l facs="#facs__eSc_line_d608b569">to the Church in the middle, along the roads came <choice>
+                  <sic>minstersl</sic>
+                  <corr>minstrels</corr>
+                </choice> <add hand="ms" place="inline">came</add></l>
+               <l facs="#facs__eSc_line_b2b726c9">jugglers, bear leaders, singing their songs at the back door</l>
                <l facs="#facs__eSc_line_1e7b314b">to the farm hands and the maid servants in the uncouth</l>
                <l facs="#facs__eSc_line_6708895f">jargon of their native tongue.</l>
-               <l facs="#facs__eSc_line_b123ce1e">Ieham for woing al forwalce</l>
-               <l facs="#facs__eSc_line_c7a5e16c">Tery no water in vore</l>
+            </p>
+            <p>
+              <quote source="#">
+               <l facs="#facs__eSc_line_b123ce1e">Icham for woing al forwake</l>
+               <l facs="#facs__eSc_line_c7a5e16c">Wery no water in wore</l>
+              </quote>
+            </p>
+            <p>
                <l facs="#facs__eSc_line_c3e42fcf">Up stairs they spoke French. Anons words were as</l>
-               <l facs="#facs__eSc_line_74e7d6ab">uncouth to the ma ster and mistress as to us. Anon</l>
-               <l facs="#facs__eSc_line_1c3499c2">8inging at yhe back door vas despsied. Ee had no name;</l>
-               <l facs="#facs__eSc_line_a4750c38">he had no place. Iet, even if they felt contempt for the</l>
-               <l facs="#facs__eSc_line_eb5bda42">aa ~~a lr fa  deat aai~ ma ~a ~.</l>
+               <l facs="#facs__eSc_line_74e7d6ab">uncouth to the master and mistress as to us. Anon</l>
+               <l facs="#facs__eSc_line_1c3499c2">singing at <choice>
+                <sic>yhe</sic>
+                <corr>the</corr>
+              </choice> back door was <choice>
+                <sic>despsied</sic>
+                <corr>despised</corr>
+              </choice>. He had no name;</l>
+               <l facs="#facs__eSc_line_a4750c38">he had no place, yet even if they felt contempt for the</l>
+               <l facs="#facs__eSc_line_eb5bda42"><add place="above">singer whose body took its small part in the dance</add></l>
                <l facs="#facs__eSc_line_48c7414f">man who made songs, they tolerated him. Even Kings and Queens</l>
+            </p>
             </ab></div>
       </body>
    </text>
