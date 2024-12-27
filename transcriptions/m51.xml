@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M51. Anon. Typescript fragment, with the author's ms. correction on p. 3, unsigned and undated. 9p. Wanting p. 1. Paginated 2-10</title>
+        <title>M51. Anon. Typescript fragment, with the author's ms. correction on p. 3, unsigned and undated. 9p. Wanting p. 1. Paginated 2-10.</title>
         <author>Virginia Woolf</author>
         <respStmt>
           <resp>Encoded by</resp>
@@ -160,7 +160,7 @@
             <choice>
               <sic>Bu </sic>
               <corr>But</corr>
-            </choice> to the listener then, to <rs type="person" ref="../resources/annotations/.xml#psn-whar">Harrison</rs> for 
+            </choice> to the listener then, to <rs type="person" xml:id="psn-whar">Harrison</rs> for 
             <choice>
               <sic> xample</sic>
               <corr>example</corr>
@@ -170,7 +170,7 @@
               <sic>pasronage</sic>
               <corr>parsonage</corr>
             </choice>, they were not only difficult. They were painful.</l>
-          <l>They reminded him of his lack of intellectual [illeg.]</l>
+          <l>They reminded him of his lack of intellectual ancestry.</l>
           <l>His intellectual pedigree reached 
             <choice>
               <sic>vack</sic>
@@ -261,7 +261,7 @@
               <sic>irreponsible</sic>
               <corr>irresponsible</corr>
             </choice> mockery?</l>
-          <l>Hewas tolerated, as we tolerate those who say out loud</l>
+          <l>He was tolerated, as we tolerate those who say out loud</l>
           <l>what we think, but will not admit. So he sang, danced</l>
           <l>
             <choice>
@@ -372,9 +372,9 @@
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-3/495,1644,439,496/full/0/default.tif">
           <add hand="ms" place="margin">
-            <l>Latimer,</l>
-            <l><del>Go[wer],</del></l>
-            <l>Langland</l>
+            <l><rs xml:id="psn-hlat">Latimer</rs>,</l>
+            <l><del><rs xml:id="psn-jgow">Go[wer]</rs>,</del></l>
+            <l><rs xml:id="psn-wlan">Langland</rs></l>
           </add>
         </p>
       </div>
@@ -664,7 +664,10 @@
               <sic>wassiling</sic>
               <corr>wassailing</corr>
             </choice>.</l>
-          <l>The road led to the old Kings graces, to the stones</l>
+          <l>The road led to the old Kings <choice>
+            <sic>graces</sic>
+            <corr>graves</corr>
+          </choice>, to the stones</l>
         </p>
       </div>
       <div xml:id="m51.4v" n="4 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-8" />
@@ -700,7 +703,7 @@
               <sic>resev ir</sic>
               <corr>reservoir</corr>
             </choice> of common belief that</l>
-          <l>sunk , in the minds of the nobles and peasants.</l>
+          <l>sunk, in the minds of the nobles and peasants.</l>
           <l>It is in <rs type="person" xml:id="psn-tmal" key="Malory, Thomas">Malorys</rs> pages that we hear the voice of <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs></l>
           <l>
             <choice>
@@ -717,7 +720,7 @@
           <l>the gentlemen of England were positive. They said that you</l>
           <l>could see <rs type="person" ref="../resources/annotations.xmk#psn-gawa" key="Gawain">Gawaines</rs> skull at <rs type="place" xml:id="pla-dove" key="Dover">Dover</rs>; and the <rs type="object" xml:id="obj-roun" key="Round Table">Round Table</rs></l>
           <l>at <rs type="place" xml:id="pla=winc" key="Winchester">Winchester</rs>; and <quote source="#">"in otherplaces <rs type="person" xml:id="psn-lanc" key="Lancelot">Launcelots</rs> sword and many</quote></l>
-          <l><quote source="#">other things."</quote> Txxxxxxxxxxxxxx In <rs type="person" xml:id="psn-hen8" key="Henry VIII">Henry the 
+          <l><quote source="#">other things."</quote> <del>The book that Malory</del> In <rs type="person" xml:id="psn-hen8" key="Henry VIII">Henry the 
             <choice>
               <sic>Eighte</sic>
               <corr>Eighth's</corr>
@@ -728,7 +731,7 @@
               <corr>silver</corr>
             </choice> horse shoe had been found at <rs type="place" xml:id="pla-came" key="Camelot">Camelot</rs>. The book</l>
           <l>comes to at the very moment when the old stories were</l>
-          <l>fading. It xxxxxxxxx is half fable, half fact.</l>
+          <l>fading. It <del>represents</del> is half fable, half fact.</l>
           <l>There is <rs type="place" xml:id="psn-lond" key="London">London</rs>; and <rs type="place" xml:id="psn-carl" key="Carlisle">
             <choice>
               <sic>Carlisel</sic>
@@ -739,7 +742,10 @@
               <sic>Pauks</sic>
               <corr>Paul's</corr>
             </choice></rs>. But the roads lead</l>
-          <l>past London to cast s where Knights lie enchanted;</l>
+          <l>past London to <choice>
+            <sic>cast s</sic>
+            <corr>castles</corr>
+          </choice> where Knights lie enchanted;</l>
           <l>down the roads ride for Queens on white mules; <rs type="person" xml:id="psn-morg" key="Morgan le Fay">Morgan le</rs></l>
           <l><rs type="person" xml:id="psn-morg">Fay</rs> turns herself suddenly to stone; and a hand rises from</l>
           <l>a lake holding <rs type="object" xml:id="obj-exca" key="Excalibur">Excalibur</rs>. 
@@ -865,7 +871,7 @@
           <l>8</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m51/m51-13/909,200,1763,464/full/0/default.tif">
-          <l><quote source="#" rend="inline">my time"</quote> wrote <rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Lady Anne Clifford</rs> <quote source="#" rend="inline">playing at Clecko</quote></l>
+          <l><quote source="#" rend="inline">my time"</quote> wrote <rs type="person" xml:id="psn-aclif" key="Clifford, Ann">Lady Anne Clifford</rs> <quote source="#" rend="inline">playing at Glecko</quote></l>
           <quote source="#" rend="inline">
             <l>and hearing <rs type="person" xml:id="psn-mnev" key="Neville, Moll">Moll Neville</rs> read the <rs type="literary-work" xml:id="lit-arca" key="Countess of Pembroke's Arcadia">Arcadia</rs>... <rs type="person" xml:id="psn-unkn">Rivers</rs> used to</l>
             <l>
@@ -895,7 +901,7 @@
             <choice>
               <sic>busniess</sic>
               <corr>business</corr>
-            </choice> and the sport of the day is over.</l>  
+            </choice> and the sport of the day is over.</l>
           <l>And with the printed book, the writer at last comes into</l>
           <l>existence--the writer <del>whose</del> who, 
             <choice>
