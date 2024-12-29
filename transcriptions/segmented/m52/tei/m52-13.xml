@@ -55,7 +55,6 @@
       <surface ulx="0" uly="0" lrx="2753" lry="3500" xml:id="facs_">
          <graphic url="m52-13.tif" width="2753px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="953,186 982,180 974,165 953,165 912,167 918,186 953,186" rendition="Line" xml:id="facs__eSc_line_525c5341" subtype="default"/>
             <zone points="2317,252 2266,246 2252,246 2233,246 2214,246 2194,246 2175,246 2155,246 2136,246 2116,246 2109,246 1998,252 1959,245 1941,245 1922,245 1916,245 1873,252 1850,245 1844,245 1824,245 1805,245 1789,245 1634,250 1581,243 1572,243 1552,243 1478,252 1396,243 1396,243 1377,241 1276,252 1252,241 1251,241 1249,241 1132,250 1064,241 1062,241 929,252 929,287 929,311 1192,315 1194,315 1196,315 1210,311 1231,305 1272,311 1309,315 1311,315 1313,315 1328,311 1346,305 1356,311 1365,316 1367,316 1369,316 1371,318 1494,318 1494,316 1496,316 1509,309 1519,305 1581,309 1688,316 1690,316 1692,316 1694,316 1702,309 1706,305 1817,305 1844,309 1908,316 1910,316 2157,307 2169,307 2171,307 2182,316 2184,316 2186,316 2188,316 2190,316 2192,316 2204,307 2208,305 2323,305 2326,287 2324,260 2317,252" rendition="Line" xml:id="facs__eSc_line_296db164" subtype="default"/>
             <zone points="928,394 928,416 2243,414 2245,398 2243,348 2180,348 2179,348 2177,348 2175,348 2163,357 2151,348 2149,348 2147,348 2145,348 2144,348 2142,348 2142,350 2126,361 2052,350 2050,350 2048,350 2011,361 1747,351 1745,351 1653,361 1605,350 1585,346 1428,346 1426,346 1396,350 1346,359 1328,351 1319,346 1317,346 1315,346 1280,351 1229,359 1194,351 1179,348 1177,348 1175,348 1173,348 1161,351 1138,361 1052,361 1038,351 1029,346 1027,346 1025,346 1023,346 928,351 928,394" rendition="Line" xml:id="facs__eSc_line_179982fd" subtype="default"/>
             <zone points="926,505 926,532 968,534 970,534 972,534 974,534 974,532 988,523 1007,532 1009,534 1011,534 1013,534 1025,532 1101,523 1124,532 1126,532 1128,532 1130,532 1132,532 1145,523 1289,532 1313,534 1315,534 1324,532 1387,523 1583,523 1608,532 1610,532 1612,532 1614,532 1616,532 1636,521 1764,532 1766,532 1828,523 2085,532 2087,532 2089,532 2132,521 2223,532 2227,501 2223,468 1575,455 1573,455 1572,455 1570,455 1554,468 1550,468 1511,468 1303,458 1301,458 1241,468 1231,468 1225,468 1188,456 1186,456 1184,456 1182,456 1161,468 1159,468 1151,468 1095,456 1093,456 924,466 926,505" rendition="Line" xml:id="facs__eSc_line_9fd1f83c" subtype="default"/>
@@ -95,40 +94,131 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_525c5341"/>
+              <p>
                <l facs="#facs__eSc_line_296db164">ourselves. The chairs and tables are there; but the</l>
-               <l facs="#facs__eSc_line_179982fd">ilton Pensmurst, lardwick all are untenanted.</l>
-               <l facs="#facs__eSc_line_9fd1f83c">6nly the furniture remains-- the lacquered, the</l>
-               <l facs="#facs__eSc_line_6e01c4b4">ighly painted, the ornate, the conv luted; the chairs and</l>
-               <l facs="#facs__eSc_line_684abf0b">taMies that must have been so so hard to sit upon;</l>
-               <l facs="#facs__eSc_line_3e2d451a">If they were 1ike their furniture, they vere</l>
+               <l facs="#facs__eSc_line_179982fd"><rs type="place" xml:id="pla-wilt">Wilton</rs> <rs type="place" xml:id="pla-pens">Penshurst</rs>, <rs type="place" xml:id="pla-hard">Hardwick</rs> all are untenanted.</l>
+               <l facs="#facs__eSc_line_9fd1f83c">Only the furniture remains-- the lacquered, the</l>
+               <l facs="#facs__eSc_line_6e01c4b4">highly painted, the ornate, the 
+            <choice>
+              <sic>conv luted</sic>
+              <corr>convoluted</corr>
+            </choice>; the chairs and</l>
+               <l facs="#facs__eSc_line_684abf0b">tables that must have been so so hard to sit upon;</l>
+               <l facs="#facs__eSc_line_3e2d451a">If they were like their furniture, they were</l>
                <l facs="#facs__eSc_line_837b1e8b">at once ceremonious; and crude; fantastic yet sharp,</l>
-               <l facs="#facs__eSc_line_7984d6ef">p0inted, uncushioned;</l>
-               <l facs="#facs__eSc_line_ee16d394">The writer meso-hesitated conscious of his pelebeian</l>
-               <l facs="#facs__eSc_line_6395b8e7">bith on the theshold of the great room was still unspecialid</l>
-               <l facs="#facs__eSc_line_24431ac3">0</l>
-               <l facs="#facs__eSc_line_bd3f67eb">undif erentiated. is eye was stimulated4 by the crimsons and</l>
-               <l facs="#facs__eSc_line_ea97ef66">the golds and the greens of the lothing; by the angles and</l>
-               <l facs="#facs__eSc_line_bb652289">patterns on the ceilinsg; Nis ear teo vas stimulated and</l>
+               <l facs="#facs__eSc_line_7984d6ef">pointed, uncushioned;</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_ee16d394">The writer <del>who</del> hesitated conscious of his 
+            <choice>
+              <sic>pelebian</sic>
+              <corr>plebian</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_24431ac3"><add place="above>">, he</add></l>
+               <l facs="#facs__eSc_line_6395b8e7"><choice>
+              <sic>bith</sic>
+              <corr>birth</corr>
+            </choice> on the threshold of the great room, was still 
+            <choice>
+              <sic>unspeciali</sic>
+              <corr>unspecialised</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_bd3f67eb">undifferentiated. His eye was stimulated<del>;</del> by the crimsons and</l>
+               <l facs="#facs__eSc_line_ea97ef66">the golds and the greens of the 
+            <choice>
+              <sic>lothing</sic>
+              <corr>clothing</corr>
+            </choice>; by the angles and</l>
+               <l facs="#facs__eSc_line_bb652289">patterns on the 
+            <choice>
+              <sic>ceilinsg</sic>
+              <corr>ceilings</corr>
+            </choice>; His ear <del>too</del> was stimulated and</l>
                <l facs="#facs__eSc_line_2caae968"/>
-               <l facs="#facs__eSc_line_fe36d45a">peicked. Books were rea aloud; each word was given sharpness</l>
-               <l facs="#facs__eSc_line_8173b1eb">and subatnce by the speskging voice. And-the n when the lord</l>
-               <l facs="#facs__eSc_line_c0c88e5b">or lady toolk his lute and sang, lilt, rhytm , melody was addd</l>
-               <l facs="#facs__eSc_line_fe563beb">to the substance and sharpness of the words. Nords bubbled</l>
-               <l facs="#facs__eSc_line_8d887d24">m his mind, old vords, Rnglish words, rech vords, -adtin</l>
-               <l facs="#facs__eSc_line_23fd6b60">Words. They were motlen, capable of taking any shape, of</l>
-               <l facs="#facs__eSc_line_d847cc00">reflecting nay coloure, of folliwng tee qes, of tal~ins the</l>
-               <l facs="#facs__eSc_line_3f1c8d9c">rhym of th l te. No grammar bound them tightly;nor did</l>
+               <l facs="#facs__eSc_line_fe36d45a"><choice>
+              <sic>peicked</sic>
+              <corr>pricked</corr>
+            </choice> <add place="above">by [words?]</add>. Books were 
+            <choice>
+              <sic>rea</sic>
+              <corr>read</corr>
+            </choice> aloud; each word was given sharpness</l>
+               <l facs="#facs__eSc_line_8173b1eb">and 
+            <choice>
+              <sic>subatnce</sic>
+              <corr>substance</corr>
+            </choice> by the speaking voice. And then when the lord</l>
+               <l facs="#facs__eSc_line_c0c88e5b">or lady took his lute and sang, lilt, 
+            <choice>
+              <sic>rhytm</sic>
+              <corr>rhythm</corr>
+            </choice>, melody was 
+            <choice>
+              <sic>addd</sic>
+              <corr>added</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_fe563beb">to the substance and sharpness of the words. Words bubbled</l>
+               <l facs="#facs__eSc_line_8d887d24">in his mind, old words, English words, 
+            <choice>
+              <sic> rech</sic>
+              <corr>French</corr>
+            </choice> words, 
+            <choice>
+              <sic>Ladtin</sic>
+              <corr>Latin</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_23fd6b60">words. They were 
+            <choice>
+              <sic>motlen</sic>
+              <corr>molten</corr>
+            </choice>, capable of taking any shape, of</l>
+               <l facs="#facs__eSc_line_d847cc00">reflecting 
+            <choice>
+              <sic>nay coloure</sic>
+              <corr>any colours</corr>
+            </choice>, of 
+            <choice>
+              <sic>folliwng</sic>
+              <corr>following</corr>
+            </choice> the ones, of taking the</l>
+               <l facs="#facs__eSc_line_3f1c8d9c"><choice>
+              <sic>rhymn</sic>
+              <corr>rhythm</corr>
+            </choice> of the 
+            <choice>
+              <sic>l te</sic>
+              <corr>lute</corr>
+            </choice>. No grammar bound them tightly; nor did</l>
                <l facs="#facs__eSc_line_8ebc9b6e">one society inflict its canons of of good taste.</l>
-               <l facs="#facs__eSc_line_9f9fa2e8">hethe he ws to Write or sina or paint was an open</l>
-               <l facs="#facs__eSc_line_c4091ec0">uetion. The arts were closely intemmoven. For a moment</l>
-               <l facs="#facs__eSc_line_23c04cb1">there is a pause on the threshold of the great l zabethan</l>
-               <l facs="#facs__eSc_line_e04f18eb">house, when the artist sees begore him three di erent paths.</l>
-               <l facs="#facs__eSc_line_f13f26ef">as</l>
-               <l facs="#facs__eSc_line_6ecb047b">Shall he sing, or paint, or malke poems? And then there</l>
-               <l facs="#facs__eSc_line_155e5e2e">rose up from the couryard the crude tones of the mummers.</l>
-               <l facs="#facs__eSc_line_95682c29">Ar3</l>
-               <l facs="#facs__eSc_line_f32f6ac0">It vas the stage that settled it. Had there been no stage,</l>
+               <l facs="#facs__eSc_line_9f9fa2e8">Whether he 
+            <choice>
+              <sic>ws</sic>
+              <corr>was</corr>
+            </choice> to write or to sing or to paint was an open</l>
+               <l facs="#facs__eSc_line_c4091ec0"><choice>
+              <sic>uetion</sic>
+              <corr>question</corr>
+            </choice>. The arts were closely interwoven. For a moment</l>
+               <l facs="#facs__eSc_line_23c04cb1">there is a pause on the threshold of the great 
+            <choice>
+              <sic> l zabethan</sic>
+              <corr>Elizabethan</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_f13f26ef"><add place="above">[here?]</add></l>
+               <l facs="#facs__eSc_line_e04f18eb">house, when the artist sees 
+            <choice>
+              <sic>begore</sic>
+              <corr>before</corr>
+            </choice> him three different paths.</l>
+               <l facs="#facs__eSc_line_6ecb047b">Shall he sing, or paint, or make poems? And then there</l>
+               <l facs="#facs__eSc_line_95682c29"><add place="above">[voices?]</add></l>
+               <l facs="#facs__eSc_line_155e5e2e">rose up from the 
+            <choice>
+              <sic>couryard</sic>
+              <corr>courtyard</corr>
+            </choice> the crude tones of the mummers.</l>
+               <l facs="#facs__eSc_line_f32f6ac0">It was the stage that settled it. Had there been no stage,</l>
+            </p>
             </ab></div>
       </body>
    </text>

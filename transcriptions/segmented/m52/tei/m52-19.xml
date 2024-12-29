@@ -94,39 +94,92 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_ee13f715">1l</l>
+              <p>
+               <l facs="#facs__eSc_line_ee13f715">11</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_5ae22fe4">Latin. No grammar bound them tightly together. They were</l>
-               <l facs="#facs__eSc_line_11c3730d">elastic; they could be danced to and su  to. But in</l>
-               <l facs="#facs__eSc_line_61ca6881">p8p te ofnthat, they could not follw the pace of the</l>
+               <l facs="#facs__eSc_line_11c3730d">elastic; they could be danced to and 
+            <choice>
+              <sic>su</sic>
+              <corr>sung</corr>
+            </choice> to. But in</l>
+               <l facs="#facs__eSc_line_61ca6881"><choice>
+              <sic>psp te of nthat</sic>
+              <corr>spite of that</corr>
+            </choice>, they could not 
+            <choice>
+              <sic>follw</sic>
+              <corr>follow</corr>
+            </choice> the pace of the</l>
+               <l facs="#facs__eSc_line_9c867a41"><add place="above">briefly</add></l>
                <l facs="#facs__eSc_line_bf3b4435">private voice; the voice that talks intimately,</l>
-               <l facs="#facs__eSc_line_9c867a41">5-4ts</l>
-               <l facs="#facs__eSc_line_b79ff069">Cetlwwetet4-dt9</l>
+               <l facs="#facs__eSc_line_b79ff069"><add place="above">colloquially</add></l>
                <l facs="#facs__eSc_line_19c55bbf">easily in doors.</l>
-               <l facs="#facs__eSc_line_d9cd3747">Spenser then--- " a little man vith short hair,</l>
-               <l facs="#facs__eSc_line_e4d01374">a small band, and cuffs"'--- standing on the threshold</l>
-               <l facs="#facs__eSc_line_795e9b18">of the great room at Penshurt vas separate from Anon the sing</l>
-               <l facs="#facs__eSc_line_20cfb85e">er; separate from Holinhsged the chornicler; and</l>
-               <l facs="#facs__eSc_line_acb6eae5">QuU</l>
-               <l facs="#facs__eSc_line_27d5a343">separate, in that he saw the sçene from the artists</l>
-               <l facs="#facs__eSc_line_008fe545">4-vl. befacl ne-f</l>
-               <l facs="#facs__eSc_line_d0b4481a">point of viem, from his audience. But the book which had givn</l>
-               <l facs="#facs__eSc_line_a2ceb2cc">hismord a separate existence, had brought into being a</l>
-               <l facs="#facs__eSc_line_d5e5f8de">1ittle group pf readers. And that pu~lic began at-enee to</l>
-               <l facs="#facs__eSc_line_998fef40">a~e~</l>
-               <l facs="#facs__eSc_line_28c7b9c6">exert its pressure. Vhat is the book that wil! please</l>
-               <l facs="#facs__eSc_line_687f0702">Sir Philin Sidney? hat is the theme that will recommend</l>
-               <l facs="#facs__eSc_line_3f4b77f3">itself to the Queen? Vhat must he priase? What must he reject</l>
-               <l facs="#facs__eSc_line_353c5d64"> at will so vork upon the audience that they will</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_d9cd3747"><rs type="person" xml:id="espe" key="Spenser, Edmund">Spenser</rs> then--- <quote source="#">a little man with short hair,</quote></l>
+               <l facs="#facs__eSc_line_e4d01374"><quote source="#" rend="inline">a small band, and cuffs</quote>--- standing on the threshold</l>
+               <l facs="#facs__eSc_line_795e9b18">of the great room at <rs type="place" xml:id="pla-pens" key="Penshurst">
+            <choice>
+              <sic>Penshurt</sic>
+              <corr>Penshurst</corr>
+            </choice></rs> was separate from <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> the sing</l>
+               <l facs="#facs__eSc_line_acb6eae5"><add place="above">and</add></l>
+               <l facs="#facs__eSc_line_20cfb85e"><choice>
+            <sic>er</sic>
+            <corr>singer</corr>
+          </choice>; separate from <rs type="person" xml:id="psn-rhol" key="Holinshed, Raphael"><choice>
+              <sic>Holinsged</sic>
+              <corr>Holinshed</corr>
+            </choice></rs> the 
+            <choice>
+              <sic>chornicler</sic>
+              <corr>chronicler</corr>
+            </choice>; and</l>
+               <l facs="#facs__eSc_line_008fe545"><add place="above">with detachment</add></l>
+               <l facs="#facs__eSc_line_27d5a343">separate, in that he saw the scene from <add place="inline">,</add> the artists</l>
+               <l facs="#facs__eSc_line_d0b4481a">point of view, from his audience. But the book which had 
+            <choice>
+              <sic>givn</sic>
+              <corr>given</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_a2ceb2cc"><choice>
+              <sic>hisword</sic>
+              <corr>his words</corr>
+            </choice> a separate existence, had brought into being a</l>
+               <l facs="#facs__eSc_line_998fef40"><add place="above">at once</add></l>
+               <l facs="#facs__eSc_line_d5e5f8de">little group of readers. And that public began <del>at once</del> to</l>
+               <l facs="#facs__eSc_line_28c7b9c6">exert its pressure. What is the book that will please</l>
+               <l facs="#facs__eSc_line_687f0702"><rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sir Philip Sidney</rs>? What is the theme that will recommend</l>
+               <l facs="#facs__eSc_line_3f4b77f3">itself to the <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs>? What must he 
+            <choice>
+              <sic>priase</sic>
+              <corr>praise</corr>
+            </choice>? What must he reject</l>
+               <l facs="#facs__eSc_line_353c5d64"><choice>
+              <sic>W at</sic>
+              <corr>What</corr>
+            </choice> will so work upon the audience that they will</l>
                <l facs="#facs__eSc_line_5c081fcc">procure for the poet a place, or a pension?</l>
-               <l facs="#facs__eSc_line_70ac8b6e">Theserom tnis time onwards are tobe the ~~~~~~~</l>
-               <l facs="#facs__eSc_line_1cd079aa">ltee.</l>
-               <l facs="#facs__eSc_line_be3f34d5">infiuences always tugging and distrting and</l>
-               <l facs="#facs__eSc_line_589cfa54">thwarting'as also they encourage, draw out, help into</l>
-               <l facs="#facs__eSc_line_9aa88916">vle mu-dade</l>
-               <l facs="#facs__eSc_line_6338756f">1ifa the yriters instinct. Some are visible only to the</l>
-               <l facs="#facs__eSc_line_a89598e5">writer himself; otners only to the reader i time to come.</l>
-               <l facs="#facs__eSc_line_54ef138b">More and more complex they grov, as the book vith the</l>
+               <l facs="#facs__eSc_line_1cd079aa"><add place="above">there</add></l>
+               <l facs="#facs__eSc_line_70ac8b6e"><del>These</del><add place="inline">F</add>rom this time onward are to be <del>the</del> <add place="inline">always the</add></l>
+               <l facs="#facs__eSc_line_be3f34d5">influences always tugging and 
+            <choice>
+              <sic>distrting</sic>
+              <corr>distorting</corr>
+            </choice> and</l>
+               <l facs="#facs__eSc_line_9aa88916"><add place="above">stimulate</add></l>
+               <l facs="#facs__eSc_line_589cfa54">thwarting<add place="inline">;</add> as also they encourage, draw out, <del>help into</del></l>
+               <l facs="#facs__eSc_line_6338756f"><del>life the writers instinct</del>. Some are visible only to the</l>
+               <l facs="#facs__eSc_line_a89598e5">writer himself; others only to the reader 
+            <choice>
+              <sic>i </sic>
+              <corr>in</corr>
+            </choice> time to come.</l>
+               <l facs="#facs__eSc_line_54ef138b">More and more complex they grow, as the book with the</l>
                <l facs="#facs__eSc_line_58b165dd">authors name on it goes out into a more and more</l>
+              </p>
             </ab></div>
       </body>
    </text>
