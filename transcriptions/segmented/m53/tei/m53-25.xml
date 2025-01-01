@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 13r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-25.tif" width="2768px" height="3500px"/>
@@ -52,38 +92,117 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_33517ed8">the pear shaped lute on which tha Queeherself once played.</l>
-               <l facs="#facs__eSc_line_6fcba75d">Thea furniture remains; stiff, orngte, fanatstic and</l>
-               <l facs="#facs__eSc_line_1b7da665">uncushioned. There are the very 9ardigalls" that roused the</l>
-               <l facs="#facs__eSc_line_85b15585">reachers wrath. But the Eliz~ thans themslves are silent.</l>
-               <l facs="#facs__eSc_line_f30cdda1">l-zi</l>
-               <l facs="#facs__eSc_line_a63735dc">hi e</l>
-               <l facs="#facs__eSc_line_830e34f9">e cannot hear them~alleing.because i~ i~—to the</l>
-               <l facs="#facs__eSc_line_62882c87">rhym of the Bible that t~ey write Gheir familiar prose.</l>
-               <l facs="#facs__eSc_line_a3aeb5c5">Lt ha euc te-Luvn tR</l>
-               <l facs="#facs__eSc_line_6f6ee9d1">There is-~erefore no little language; no warmth, no gaiety,</l>
-               <l facs="#facs__eSc_line_bf9edb78">nothing brief, int~aete, colloqauial aba-~ them.</l>
-               <l facs="#facs__eSc_line_e4b2afa5">3hen Lady An B96on writes to her son she is a preacher</l>
-               <l facs="#facs__eSc_line_463488ec">5ddressing a gubordinate. Fear of God and fear of man</l>
-               <l facs="#facs__eSc_line_2f178125">surround hsf as with th valls of a dungeon. She admonhsies</l>
-               <l facs="#facs__eSc_line_17f1a3cc">s she exorts. WThe actual object-- a béskeet of stramberris</l>
-               <l facs="#facs__eSc_line_4494ff99">is approached circuitously ceremonieously. Greek and -atin</l>
-               <l facs="#facs__eSc_line_c902a30e">come as eâsily to her pen as a Rrench phrase comes to ours.</l>
-               <l facs="#facs__eSc_line_c28a53cc">Mos</l>
-               <l facs="#facs__eSc_line_1fa52aaa">de Wraps herself about in a cummbrous garment when ~e tries</l>
-               <l facs="#facs__eSc_line_10de1b4e">to tal Thes again we cannot haear the rough English</l>
-               <l facs="#facs__eSc_line_3b89c10f">voice that they heard at the back door. the voi of the</l>
-               <l facs="#facs__eSc_line_73a03a74">murmner and the mins trel. Nor can we see the paths that led</l>
-               <l facs="#facs__eSc_line_7908d7a1">to the well and the tree, Robin Nood is gone</l>
-               <l facs="#facs__eSc_line_9b942268">with all his me y men. This ~e gay and sumptuous house</l>
-               <l facs="#facs__eSc_line_10d4f26d">that vas-6-1atimer full of oaths and coarseness and also of</l>
-               <l facs="#facs__eSc_line_f9391c09">learning , of coutrsey, is an isolated house;</l>
-               <l facs="#facs__eSc_line_5b983e49">C</l>
-               <l facs="#facs__eSc_line_ce52bb85">a house full of furniture and finery but vithout inhabitants.</l>
-               <l facs="#facs__eSc_line_6c4c8a70">Bright contrasted colours meet on ther faces; scarlet</l>
-               <l facs="#facs__eSc_line_abe81ed1">and snow; enby and gold; but there is no natual connection,</l>
+              <p>
+                <del>
+                 <l facs="#facs__eSc_line_33517ed8">The pear shaped lute on which 
+              <choice>
+                <sic>th</sic>
+                <corr>the</corr>
+              </choice> <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs> herself once played.</l>
+                 <l facs="#facs__eSc_line_6fcba75d">Th<del hand="ms">ir</del> furniture remains; stiff, ornate, 
+              <choice>
+                <sic>fanatstic</sic>
+                <corr>fantastic</corr>
+              </choice> and</l>
+                 <l facs="#facs__eSc_line_1b7da665">uncushioned. There are the very "vardigalls" that roused the</l>
+                 <l facs="#facs__eSc_line_85b15585">preachers wrath. But the 
+              <choice>
+                <sic>Elizabthans themslves</sic>
+                <corr>Elizabethans themselves</corr>
+              </choice> are silent.</l>
+                </del>
+              </p>
+              <p>
+                <del>
+                   <l facs="#facs__eSc_line_f30cdda1"><add hand="ms">this</add></l>
+                   <l facs="#facs__eSc_line_830e34f9">We cannot hear them talking because <del hand="ms">it is to</del> the</l>
+                   <l facs="#facs__eSc_line_a63735dc"><add hand="ms" place="margin">them in</add></l>
+                   <l facs="#facs__eSc_line_a3aeb5c5"><add hand="ms" place="above">that they are unknown to us</add></l>
+                   <l facs="#facs__eSc_line_62882c87"><choice>
+                <sic>rhym</sic>
+                <corr>rhythm</corr>
+              </choice> of the Bible that they write their familiar prose.</l>
+                   <l facs="#facs__eSc_line_6f6ee9d1">There is <del hand="ms">therefore</del> no little language; no warmth, no gaiety</l>
+                   <l facs="#facs__eSc_line_bf9edb78">nothing brief, intimate, 
+              <choice>
+                <sic>colloqauial</sic>
+                <corr>colloquial</corr>
+              </choice> <del hand="ms">about them</del>.</l>
+                   <l facs="#facs__eSc_line_e4b2afa5">When <rs type="person" xml:id="psn-abac" key="Bacon, Anne">Lady Ann Bacon</rs> writes to <rs type="person" xml:id="psn-fbac" key="Bacon, Francis">her son</rs> she is a preacher</l>
+                   <l facs="#facs__eSc_line_463488ec">addressing a subordinate. Fear of God and fear of man</l>
+                   <l facs="#facs__eSc_line_2f178125">surround her as with 
+              <choice>
+                <sic>th</sic>
+                <corr>the</corr>
+              </choice> walls of a dungeon. She 
+              <choice>
+                <sic>admonhsies</sic>
+                <corr>admonishes</corr>
+              </choice></l>
+                   <l facs="#facs__eSc_line_17f1a3cc">s she exorts. The actual object-- a basket of <choice>
+              <sic>strawberris</sic>
+              <corr>strawberries</corr>
+            </choice></l>
+                </del>
+               <l facs="#facs__eSc_line_4494ff99">is approached circuitously 
+            <choice>
+              <sic>ceremonieously</sic>
+            </choice>. Greek and Latin</l>
+               <l facs="#facs__eSc_line_c902a30e">come as easily to her pen as a French phrase comes to ours.</l>
+               <l facs="#facs__eSc_line_c28a53cc"><add>They</add></l>
+               <l facs="#facs__eSc_line_1fa52aaa"><del>She</del> wraps herself about in a cumbrous garment when she <add hand="ms" place="above">they</add> tries</l>
+               <l facs="#facs__eSc_line_10de1b4e">to 
+            <choice>
+              <sic>tal</sic>
+              <corr>talk</corr>
+            </choice> 
+            <choice>
+              <sic>The </sic>
+              <corr>Then</corr>
+            </choice> again we cannot 
+            <choice>
+              <sic>haear</sic>
+              <corr>hear</corr>
+            </choice> the rough English</l>
+               <l facs="#facs__eSc_line_3b89c10f">voice that they heard at the back door. the 
+            <choice>
+              <sic>voi</sic>
+              <corr>voice</corr>
+            </choice> of the</l>
+               <l facs="#facs__eSc_line_73a03a74">mummer and the minstrel. Nor can we see the paths that led</l>
+               <l facs="#facs__eSc_line_7908d7a1">to the well and the tree. Robin Hood is gone</l>
+               <l facs="#facs__eSc_line_9b942268">with all of his 
+            <choice>
+              <sic>me  y men</sic>
+              <corr>merry men</corr>
+            </choice>. <del hand="ms">This</del><add hand="ms" place="inline">T</add>he gay and sumptuous house</l>
+               <l facs="#facs__eSc_line_10d4f26d">that was <del hand="ms">O latimer</del> full of oaths and coarseness and also of</l>
+               <l facs="#facs__eSc_line_5b983e49"><add hand="ms">a lone</add></l>
+               <l facs="#facs__eSc_line_f9391c09">learning , of 
+            <choice>
+              <sic>coutrsey</sic>
+              <corr>courtesy</corr>
+            </choice>, is an isolated house;</l>
+               <l facs="#facs__eSc_line_ce52bb85">a house full of furniture and finery but without inhabitants.</l>
+               <l facs="#facs__eSc_line_6c4c8a70">Bright contrasted colours meet on their faces; scarlet</l>
+               <l facs="#facs__eSc_line_abe81ed1">and snow; 
+            <choice>
+              <sic>enby</sic>
+              <corr>ebony</corr>
+            </choice> and gold; but there is no 
+            <choice>
+              <sic>natual</sic>
+              <corr>natural</corr>
+            </choice> connection,</l>
                <l facs="#facs__eSc_line_6a047c67">no common complexion.</l>
-               <l facs="#facs__eSc_line_6213004d">le writer the nmust be a poet. --the Write who is</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_6213004d">The writer then must be a poet. --the 
+            <choice>
+              <sic>writ</sic>
+              <corr>writer</corr>
+            </choice> who is</l>
+              </p>
             </ab></div>
       </body>
    </text>

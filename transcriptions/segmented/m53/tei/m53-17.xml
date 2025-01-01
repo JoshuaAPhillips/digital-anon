@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 9r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-17.tif" width="2768px" height="3500px"/>
@@ -51,37 +91,125 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_2a7919a4">To-Latimer Robin Food vas a tkakixmantxrx thief, ~ ~~~</l>
-               <l facs="#facs__eSc_line_c913ac3f">4es, 4n</l>
+               <l facs="#facs__eSc_line_c913ac3f"><add hand="ms" place="above">nothing but a</add></l>
+               <l facs="#facs__eSc_line_2a7919a4"><del hand="ms">To <rs type="person" xml:id="psn-hlat" key="Latimer, Hugh">Latimer</rs></del> <rs type="person" xml:id="psn-rhoo" key="Robin Hood">Robin Hood</rs> was a <del>theif and</del> thief, <add hand="ms" place="margin"></add>to Latimer</l>
                <l facs="#facs__eSc_line_58d023cf">and the peasants doing him honour were still blind with</l>
-               <l facs="#facs__eSc_line_e998e8d3">supersttion. He himself had walked in the shdow o death</l>
-               <l facs="#facs__eSc_line_6798df20">Eitkmkinewxdcaklnrmuumxmesmæmt ti ll he was thirty.</l>
-               <l facs="#facs__eSc_line_5f3036dc">Then gentle Mr master Bilney at -ambridhe had opened his</l>
-               <l facs="#facs__eSc_line_2a9be209">eyes. Now they say through the old pop sh parcaices, the</l>
-               <l facs="#facs__eSc_line_19dde199">0ld Pagan customs. Re saw England itself at this moment</l>
-               <l facs="#facs__eSc_line_35916bc3">h4́ 1au</l>
-               <l facs="#facs__eSc_line_90a498af">in its reality. 1The cry of the wormen is come up into my</l>
+               <l facs="#facs__eSc_line_e998e8d3"><choice>
+              <sic>supersttion</sic>
+              <corr>superstition</corr>
+            </choice>. He himself had walked <quote source="#" rend="inline">"in the 
+            <choice>
+              <sic>shdow</sic>
+              <corr>shadow</corr>
+            </choice>of death"</quote></l>
+               <l facs="#facs__eSc_line_6798df20"><choice>
+              <sic>supersttion</sic>
+              <corr>superstition</corr>
+            </choice>. He himself had walked <quote source="#" rend="inline">"in the 
+            <choice>
+              <sic>shdow</sic>
+              <corr>shadow</corr>
+            </choice>of death"</quote></l>
+          <l><del>had believed in the mummers and</del> till he was thirty.</l>
+               <l facs="#facs__eSc_line_5f3036dc">Then gentle Mr master <rs type="person" xml:id="psn-tbil" key="Bilney, Thomas">Bilney</rs> at <rs type="place" xml:id="pla-camb" key="Cambridge">
+            <choice>
+              <sic>Cambridhe</sic>
+              <corr>Cambridge</corr>
+            </choice></rs> had opened his</l>
+               <l facs="#facs__eSc_line_2a9be209">eyes. Now they saw through the old 
+            <choice>
+              <sic>pop sh</sic>
+              <corr>popish</corr>
+            </choice>, <choice>
+              <sic>paracices</sic>
+              <corr>practices</corr>
+            </choice> the </l>
+               <l facs="#facs__eSc_line_35916bc3"><add hand="ms" place="above">they saw</add></l>
+               <l facs="#facs__eSc_line_19dde199">old Pagan customs. He saw England itself at this moment</l>
+               <l facs="#facs__eSc_line_90a498af">in its reality. <quote source="#" rend="inline">The cry of the 
+            <choice>
+              <sic>wormen</sic>
+              <corr>women</corr>
+            </choice> is come up into my</quote></l>
                <l facs="#facs__eSc_line_285b1b3d">eares" he said. Vhen he walked trying to read his book in</l>
-               <l facs="#facs__eSc_line_58dda43b">the Archbishops of Canterburys garden there awas a kocking</l>
-               <l facs="#facs__eSc_line_60ddb738">2t the gate. And Mis ma came and said "8ir, there is one</l>
-               <l facs="#facs__eSc_line_e247c62b">that would speak with ou." So he shut his book and went</l>
-               <l facs="#facs__eSc_line_01bd9add">X. tvi la- luwh-ue * Coue u6 les, le-&amp;re)! lie-t</l>
-               <l facs="#facs__eSc_line_3af8e985">out among the poor; into the prisons, into the fields.</l>
-               <l facs="#facs__eSc_line_9d4a0d26">Ee heard the "poor Labourrers, gun malcers,</l>
-               <l facs="#facs__eSc_line_52397c38">Powdermen, Bow makcers, arrowmalkcers , smiths, carpenters</l>
-               <l facs="#facs__eSc_line_6affcb91">s0liders and other crafts " cry ing that yhey "ere unpaid.</l>
-               <l facs="#facs__eSc_line_91108099">The found the poor with out a goose or a pig for the</l>
-               <l facs="#facs__eSc_line_7ad78daa">great were enclosing the fields. Re vent to the great man</l>
-               <l facs="#facs__eSc_line_57ba9b14">and found hi n still in bed, after his halewing and</l>
-               <l facs="#facs__eSc_line_bd54682d">nis hutning, and the ha l full of poor suitors vaiting to</l>
-               <l facs="#facs__eSc_line_f4e45e22">malce their plaints. (As fot the Bishops, "they hawkxe, they</l>
-               <l facs="#facs__eSc_line_cd870199">mun tm they carde, they dice, they pastime in their</l>
-               <l facs="#facs__eSc_line_873431b3">relacies with gallant gentlemen, with their dancing</l>
-               <l facs="#facs__eSc_line_6b692ebd">minions, and with their fresh companions..." </l>
-               <l facs="#facs__eSc_line_3a467be0">Le sas the curates in their velevet shoes and slippers</l>
-               <l facs="#facs__eSc_line_51d69e8c">1e e t to dance themorris dance". He saw the fine ladies</l>
-               <l facs="#facs__eSc_line_a4040c13">dressed in fa vardigalls with their hair puffedout</l>
-               <l facs="#facs__eSc_line_c9332865">in tuccosles MA French 4nods . Re sau the yo ne men,</l>
+               <l facs="#facs__eSc_line_58dda43b"><quote source="#" rend="inline">eares</quote> he said. When he walked trying to read his book in</l>
+               <l facs="#facs__eSc_line_60ddb738">the <rs type="person" xml:id="psn-arch" key="Archbishop of Canterbury">Archbishop of Canterburys</rs> garden there 
+            <choice>
+              <sic>awas</sic>
+              <corr>was</corr>
+            </choice> a 
+            <choice>
+              <sic>kocking</sic>
+              <corr>knocking</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_e247c62b">at the gate. And his 
+            <choice>
+              <sic>ma</sic>
+              <corr>man</corr>
+            </choice> came and said "Sir, there is one</l>
+               <l facs="#facs__eSc_line_3af8e985">that would speak with 
+            <choice>
+              <sic>ou</sic>
+              <corr>you</corr>
+            </choice>." So he shut his book and went</l>
+               <l facs="#facs__eSc_line_01bd9add"><add hand="ms" place="above">The cry of the workmen "came up into my eares" he said</add></l>
+               <l facs="#facs__eSc_line_9d4a0d26">He heard the <quote source="#" rend="inline">poor Labourrers, gun makers,</quote></l>
+               <l facs="#facs__eSc_line_52397c38">Powdermen, Bow makers, arrowmakers, smiths, carpenters</l>
+               <l facs="#facs__eSc_line_6affcb91"><quote source="#" rend="inline">soldiers and other crafts "</quote> crying that 
+            <choice>
+              <sic>yhey</sic>
+              <corr>they</corr>
+            </choice> were unpaid.</l>
+               <l facs="#facs__eSc_line_91108099"><choice>
+              <sic>The</sic>
+              <corr>They</corr>
+            </choice> found the poor without a goose or a pig for the</l>
+               <l facs="#facs__eSc_line_7ad78daa">great were enclosing the fields. He went to the great man</l>
+               <l facs="#facs__eSc_line_57ba9b14">and found him still in bed, after his 
+            <choice>
+              <sic>hakwing</sic>
+              <corr>hawking</corr>
+            </choice> and</l>
+               <l facs="#facs__eSc_line_bd54682d">his 
+            <choice>
+              <sic>hutning</sic>
+              <corr>hunting</corr>
+            </choice>, and the hall full of poor suitors waiting to</l>
+               <l facs="#facs__eSc_line_f4e45e22">make their plaints. <add hand="ms" place="inline">[</add>As 
+            <choice>
+              <sic>fot</sic>
+              <corr>for</corr>
+            </choice> the Bishops, <quote source="#" rend="inline">"they hawke, they</quote></l>
+               <l facs="#facs__eSc_line_cd870199"><choice>
+                <sic>huntm</sic>
+                <corr>hunt</corr>
+              </choice> they carde, they dice, they pastime in their</l>
+               <l facs="#facs__eSc_line_873431b3">prelacies with gallant gentlemen, with their dancing</l>
+               <l facs="#facs__eSc_line_6b692ebd">minions and with their fresh companions..."<add hand="ms" place="inline">]</add></l>
+               <l facs="#facs__eSc_line_3a467be0">He saw the curates in their 
+            <choice>
+              <sic>velevet</sic>
+              <corr>velvet</corr>
+            </choice> shoes and slippers</l>
+               <l facs="#facs__eSc_line_51d69e8c"><quote source="#" rend="inline">"meet to dance 
+            <choice>
+              <sic>themorris</sic>
+              <corr>the morris</corr>
+            </choice> dance"</quote>. He saw the fine ladies</l>
+               <l facs="#facs__eSc_line_a4040c13">dressed in fa vardigalls with their hair 
+            <choice>
+              <sic>puffedout</sic>
+              <corr>puffed out</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_c9332865">in 
+            <choice>
+              <sic>tuccosks</sic>
+              <corr>tussocks</corr>
+            </choice> and French hoods. He saw the 
+            <choice>
+              <sic>yo ng</sic>
+              <corr>young</corr>
+            </choice> men,</l>
             </ab></div>
       </body>
    </text>

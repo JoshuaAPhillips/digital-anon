@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 6r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-11.tif" width="2768px" height="3500px"/>
@@ -48,34 +88,81 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_9559674e">alone those few rutted and pitted roads to this great</l>
+               <l facs="#facs__eSc_line_9559674e">along those few rutted and pitted roads to this great</l>
                <l facs="#facs__eSc_line_0637d1b0">house or that. She is parliament, press, society, law, order.</l>
-               <l facs="#facs__eSc_line_98fadf8a">But the man who sees this is hard ait to itto mrite</l>
-               <l facs="#facs__eSc_line_5e1fe414">describe vhat he sees. Nriting is still an art that requires</l>
-               <l facs="#facs__eSc_line_94d0a915">great ceremony. ft-is a painful an elborate art.</l>
-               <l facs="#facs__eSc_line_35cada53">Vhat you make vith the pen is separate from what vou say</l>
-               <l facs="#facs__eSc_line_9af5a7e2">Wita th t nue. Nords are stiff and cumbersome and resist</l>
+               <l facs="#facs__eSc_line_98fadf8a">But the man who sees this is hard <add hand="ms">p</add>ut <del hand="ms">to it write</del></l>
+               <l facs="#facs__eSc_line_5e1fe414">describe what he sees. Writing is still an art that requires</l>
+               <l facs="#facs__eSc_line_94d0a915">great ceremony. <del hand="ms">It is</del> a painful an 
+            <choice>
+              <sic>elborate</sic>
+              <corr>elaborate</corr>
+            </choice> art.</l>
+               <l facs="#facs__eSc_line_35cada53">What you make with the pen is separate from what you say</l>
+               <l facs="#facs__eSc_line_9af5a7e2">with the 
+            <choice>
+              <sic>t nue</sic>
+              <corr>tongue</corr>
+            </choice>. Words are stiff and cumbersome and resist</l>
                <l facs="#facs__eSc_line_a1649462">the efforts of the pen to shape them. Only a few years back</l>
-               <l facs="#facs__eSc_line_638dcfc4">vord̂s were written beautifully in lustrous ink upon valuable</l>
-               <l facs="#facs__eSc_line_81a6fc09">parchmment, and the leaves bound together were chained to the</l>
-               <l facs="#facs__eSc_line_1cbdfff6">shelf and read in great discomfort on ard nechces in the cod</l>
-               <l facs="#facs__eSc_line_d137a7ca">Even now vhen words are pr mted the great ublic is not the</l>
-               <l facs="#facs__eSc_line_2502498d">resder, or the paymaster. Nritten vords must please a silgle</l>
-               <l facs="#facs__eSc_line_a634c1c7">an in the first place, and tha Rarrisons volume is</l>
-               <l facs="#facs__eSc_line_ebca5c58">2. levte 4-es hafhere.</l>
-               <l facs="#facs__eSc_line_812aea6e">eremont usly _tended temdered to a Lord Comham in vords as</l>
+               <l facs="#facs__eSc_line_638dcfc4">words were written beautifully in lustrous ink upon valuable</l>
+               <l facs="#facs__eSc_line_81a6fc09">parchment, and the leaves bound together were chained to the</l>
+               <l facs="#facs__eSc_line_1cbdfff6">shelf and read in great discomfort on 
+            <choice>
+              <sic>ard nechces</sic>
+              <corr>hard benches</corr>
+            </choice> in the 
+            <choice>
+              <sic>cod</sic>
+              <corr>cold</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_d137a7ca">Even now when words are 
+            <choice>
+              <sic>pr nted</sic>
+              <corr>printed</corr>
+            </choice> the great 
+            <choice>
+              <sic>ublic</sic>
+              <corr>public</corr>
+            </choice> is not the</l>
+               <l facs="#facs__eSc_line_2502498d">reader, or the paymaster. Written words must please a single</l>
+               <l facs="#facs__eSc_line_ebca5c58"><add hand="ms" place="above">&amp; win his patronage.</add></l>
+               <l facs="#facs__eSc_line_a634c1c7"><choice>
+              <sic>an</sic>
+              <corr>man</corr>
+            </choice> in the first place, <del>and the</del> <rs type="literary-work" xml:id="lit-desc" key="Description of England, The">Harrisons volume</rs> is</l>
+               <l facs="#facs__eSc_line_812aea6e">ceremoniously <del hand="ms">tended</del> tendered to <del hand="ms">a</del> <rs type="person" xml:id="psn-wcob" key="Cobham, Lord William">Lord 
+            <choice>
+              <sic>Conham</sic>
+              <corr>Cobham</corr>
+            </choice></rs> in words as</l>
                <l facs="#facs__eSc_line_78df7323">ornate as the carvings and decorations that shocked him</l>
-               <l facs="#facs__eSc_line_093fb417">in the fashionable Elizavethan house. For the book must</l>
-               <l facs="#facs__eSc_line_2347d241">ind its way into the hall, into the great room where the</l>
-               <l facs="#facs__eSc_line_e142d65e">nobles and the gentry have leisure to read~it nhen they have</l>
-               <l facs="#facs__eSc_line_42c9fef7">&amp;ba 1K Iaunen Llseacee 9 fa-  4 p-c</l>
-               <l facs="#facs__eSc_line_20f49534">juutea-uhen they have orderéd their astatas, when the</l>
-               <l facs="#facs__eSc_line_7561304e">ni ht has come and the ladies are busied with their embroider</l>
-               <l facs="#facs__eSc_line_413e765d">1t is vritten for the great "ho ve~~ to learn ou their</l>
-               <l facs="#facs__eSc_line_7721ca42">anecstors lived; ant- W read aloud the exoloits o their</l>
-               <l facs="#facs__eSc_line_07ca523b">ncestors; or mho mant a song to sins to their lutes and</l>
-               <l facs="#facs__eSc_line_09833206">le-</l>
-               <l facs="#facs__eSc_line_89fc554e">eitherns.</l>
+               <l facs="#facs__eSc_line_093fb417">in the fashionable 
+            <choice>
+              <sic>Elizavethan</sic>
+              <corr>Elizabethan</corr>
+            </choice> house. For the book</l>
+               <l facs="#facs__eSc_line_2347d241">must find its way into the hall, into the great room where the</l>
+               <l facs="#facs__eSc_line_e142d65e">nobles and the gentry have leisure to read <del hand="ms">it when</del> they have</l>
+               <l facs="#facs__eSc_line_42c9fef7"><add hand="ms" place="above">after the business &amp; pleasure of the day is over</add></l>
+               <l facs="#facs__eSc_line_20f49534"><del hand="ms">
+            <choice>
+               <sic>hjnuted</sic>
+              <corr>hunted</corr>
+            </choice> when they have ordered their estates</del>, when the</l>
+               <l facs="#facs__eSc_line_7561304e">night has come and the ladies are busied with their 
+            <choice>
+              <sic>embroidey</sic>
+              <corr>embroidery</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_413e765d">It is written for the great who <del hand="ms">wish</del><add hand="ms" place="above">like</add> to <del hand="ms">learn how their</del></l>
+               <l facs="#facs__eSc_line_7721ca42"><del>
+            <choice>
+              <sic>anecstors</sic>
+              <corr>ancestors</corr>
+            </choice> lived; and who</del> <add hand="ms" place="above">to</add> read aloud the exploits of their</l>
+               <l facs="#facs__eSc_line_09833206"><add hand="ms" place="above">want</add></l>
+               <l facs="#facs__eSc_line_07ca523b">ancestors; or <del hand="ms">who want</del> a song to sing to their lutes and</l>
+               <l facs="#facs__eSc_line_89fc554e">citherns.</l>
             </ab></div>
       </body>
    </text>

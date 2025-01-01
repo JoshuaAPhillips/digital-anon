@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-1.tif" width="2768px" height="3500px"/>
@@ -47,33 +87,66 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+              <p>
                <l facs="#facs__eSc_line_8d44f082">1</l>
-               <l facs="#facs__eSc_line_a9c79b0c">24tn Nov. 1940</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_a9c79b0c">24th Nov. 1940</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_83bf9878">Anon.</l>
-               <l facs="#facs__eSc_line_6e0e8d8f">0218000èaeannn8</l>
-               <l facs="#facs__eSc_line_84547d04">1 r màny centuries aft Britain became an island'</l>
-               <l facs="#facs__eSc_line_5b477540">th historian says , "the untamed forest was king.</l>
-               <l facs="#facs__eSc_line_4cc48396">On the metted boughs of that forest inmumerable birds sang;</l>
-               <l facs="#facs__eSc_line_2a4b62d0">bu t their song vas only heard by a few skin clad hunters</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_6e0e8d8f">@@@@@@@@@@@@@@</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_84547d04"><quote source="#">For many centuries 
+            <choice>
+              <sic>aft</sic>
+              <corr>after</corr>
+            </choice></quote> Britain became an island</l>
+               <l facs="#facs__eSc_line_5b477540">the <rs type="person" xml:id="psn-gtre" key="Trevelyan, George">historian</rs> says, <quote source="#">the untamed forest was king.</quote></l>
+               <l facs="#facs__eSc_line_4cc48396">On the matted boughs of that forest innumerable birds sang;</l>
+               <l facs="#facs__eSc_line_2a4b62d0">but their song vas only heard by a few skin clad hunters</l>
                <l facs="#facs__eSc_line_b6eb452a">in the clearings. Did the desire to sing come to one</l>
-               <l facs="#facs__eSc_line_65398574">of those savages because he heard the birds sing? bid-ne</l>
+               <l facs="#facs__eSc_line_65398574">of those savages because he heard the birds sing? <add hand="ms" place="above">&amp; did</add><del hand="ms">Did he</del></l>
+               <l facs="#facs__eSc_line_609649cb"><add>Afterwards</add></l>
                <l facs="#facs__eSc_line_26f99a96">rest his stone axe against a tree for a moment? The tree</l>
-               <l facs="#facs__eSc_line_609649cb"/>
-               <l facs="#facs__eSc_line_a55b35f3">Was felled; some sort of hut wa made from its branches, and</l>
+               <l facs="#facs__eSc_line_a55b35f3">Was felled; some sort of hut <choice>
+              <sic>ws</sic>
+              <corr>was</corr>
+            </choice> made from its branches, and</l>
                <l facs="#facs__eSc_line_6767e9de">then by degrees, the clearing became larger; the birds</l>
-               <l facs="#facs__eSc_line_e25e0522">femer; and the muman voice sans instead. The first songs</l>
+               <l facs="#facs__eSc_line_e25e0522">fewer; and the human voice sung instead. <add hand="ms" place="inline">&amp;</add> The first songs</l>
                <l facs="#facs__eSc_line_4b53376e">are out of door songs; spring songs; summer songs; winter</l>
-               <l facs="#facs__eSc_line_f4538d23">songs. for there mas no comfort indoor , little</l>
-               <l facs="#facs__eSc_line_ece4d19d">1ight and no books. —</l>
-               <l facs="#facs__eSc_line_cad73a30">The eye therefore vas mumk more active in the first simxax</l>
-               <l facs="#facs__eSc_line_dff39cfe">singers than in ourselves. And some parts of dnglab</l>
-               <l facs="#facs__eSc_line_6c8796fc">can still be seen as they sam it. Now and then by choosing</l>
-               <l facs="#facs__eSc_line_97f151dd">a view carefully to shut out a chimney or a bungalwo,</l>
-               <l facs="#facs__eSc_line_be53d6a1">ve can still see a flat fen, reed whispering, vaterlogged;</l>
-               <l facs="#facs__eSc_line_c622951d">or a domn, covered w still vith turf only, And-over the</l>
-               <l facs="#facs__eSc_line_995b5a9e">domn 1ies a green scar, along which the travellers came,</l>
-               <l facs="#facs__eSc_line_c730a1a8">6ith the pack horses, dressed in vool , not in skins,</l>
-               <l facs="#facs__eSc_line_bc96770c">istory of naland by G. M. ~revelyan p.3</l>
+               <l facs="#facs__eSc_line_f4538d23">songs. <add hand="ms" place="inline">&amp;</add> for there was no comfort 
+            <choice>
+              <sic>indoor</sic>
+              <corr>indoors</corr>
+            </choice>, little</l>
+               <l facs="#facs__eSc_line_ece4d19d">light and no books.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_cad73a30">The eye therefore was <del>much</del> more acti<add hand="ms" place="inline">v</add>e in the first <del>sin ers</del></l>
+               <l facs="#facs__eSc_line_dff39cfe">singers than in ourselves. And some parts of 
+            <choice>
+              <sic>Englab</sic>
+              <corr>England</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_6c8796fc">can still be seen as they saw it. Now and then by choosing</l>
+               <l facs="#facs__eSc_line_97f151dd">a view carefully to shut out a chimney or a 
+            <choice>
+              <sic>bungalwo</sic>
+              <corr>bungalow</corr>
+            </choice>,</l>
+               <l facs="#facs__eSc_line_be53d6a1">we can still see a flat fen, reed whispering, waterlogged;</l>
+               <l facs="#facs__eSc_line_c622951d">or a down, covered w still with turf only <del hand="ms">And over</del><add hand="ms" place="above">But on</add> the</l>
+               <l facs="#facs__eSc_line_995b5a9e">down lies a green scar, along which the travellers came,</l>
+               <l facs="#facs__eSc_line_c730a1a8">with the pack horses, dressed in wool, not in skins,</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_bc96770c"><rs type="literary-work" xml:id="lit-hist" key="History of England">History of England</rs> by <rs type="person" xml:id="psn-gtre" key="Trevelyan, George">G. M. Trevelyan</rs> p. 3</l>
+            </p>
             </ab></div>
       </body>
    </text>

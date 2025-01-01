@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 11r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-21.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="1015,93 951,93 951,145 949,161 1015,173 1019,149 1019,97 1015,93" rendition="Line" xml:id="facs__eSc_line_ab7a3892" subtype="default"/>
             <zone points="2571,239 2552,239 2532,239 2513,239 2493,237 2474,237 2454,237 2435,237 2429,235 2388,243 2375,235 2357,235 2338,233 2318,233 2301,233 2281,241 2262,231 2260,231 2240,231 2221,231 2201,231 2182,229 2163,229 2143,229 2124,229 2104,227 2085,227 2065,227 2059,227 1951,235 1925,223 1910,223 1900,223 1861,233 1822,221 1812,221 1793,219 1600,229 1556,215 1554,215 1552,215 1550,215 1501,227 1480,211 1462,211 1383,225 1346,210 1344,210 1342,210 1340,210 1276,223 1165,223 1054,204 1054,252 1052,268 1163,283 1165,283 1478,278 1705,293 1707,293 1709,293 1748,283 1923,297 1925,297 2015,287 2063,299 2065,299 2067,299 2314,293 2361,305 2363,305 2365,305 2413,295 2507,307 2509,307 2573,295 2575,280 2573,239 2571,239" rendition="Line" xml:id="facs__eSc_line_f07ff959" subtype="default"/>
             <zone points="945,379 1231,398 1233,398 1235,398 1237,398 1256,386 1369,396 1371,396 1443,388 1460,400 1462,400 1464,400 1466,400 1521,390 1534,402 1536,402 1538,402 1540,402 1542,402 1575,390 1737,392 1752,404 1754,404 1756,404 1758,404 1810,394 1840,406 1842,406 1844,406 1845,406 1888,394 1929,408 1931,408 1933,408 2174,402 2277,412 2279,412 2281,412 2283,412 2301,400 2452,414 2454,414 2456,414 2493,400 2495,386 2489,338 2466,350 2421,338 2419,338 2417,338 2359,348 2221,334 2194,332 2192,332 2178,334 2071,350 1949,350 1923,336 1921,336 1919,336 1855,346 1836,334 1834,334 1832,334 1830,334 1828,334 1797,346 1758,328 1754,326 1752,326 1750,326 1740,328 1661,344 1546,330 1544,330 1542,330 1511,342 1439,338 1419,324 1418,324 1416,324 1414,324 1412,324 1371,340 1324,320 1320,320 1318,320 1235,320 1233,320 1231,320 1182,336 1118,326 1116,326 1007,334 949,316 947,365 945,379" rendition="Line" xml:id="facs__eSc_line_fde19673" subtype="default"/>
             <zone points="2614,443 2485,462 2425,441 2421,441 2419,441 2258,437 2256,437 2231,441 2143,460 1931,460 1873,441 1865,439 1863,439 1861,439 1849,441 1787,456 1758,441 1737,429 1735,429 1733,429 1731,429 1705,441 1684,451 1645,441 1600,429 1598,429 1596,429 1528,435 1526,435 1515,441 1497,451 1425,441 1396,437 1394,437 1369,441 1326,447 1277,441 1233,435 1231,435 1229,435 1211,441 1190,447 1178,441 1165,433 1163,433 1161,433 1116,441 1087,445 1065,441 1019,429 1017,429 947,439 947,472 945,488 1067,501 1069,501 1171,493 1178,493 1190,493 1305,505 1307,505 1488,499 1532,499 1567,501 1672,511 1674,511 1820,507 1898,505 1912,509 1929,515 1931,515 1933,515 1935,515 1954,509 1966,507 2614,523 2618,499 2616,445 2614,443" rendition="Line" xml:id="facs__eSc_line_65b5860c" subtype="default"/>
@@ -55,41 +94,99 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_ab7a3892">11</l>
-               <l facs="#facs__eSc_line_f07ff959">Le8-ges in a voice that stumbles, that uses the plain</l>
-               <l facs="#facs__eSc_line_fde19673">language of the farm from mhich he sprang, hut At is the</l>
-               <l facs="#facs__eSc_line_65b5860c">voice of of reason, of huamity, of comron sense. Me vill tell</l>
+              <p>
+               <l facs="#facs__eSc_line_f07ff959"><del hand="ms">He speaks</del> in a voice that stumbles, that uses the plain</l>
+               <l facs="#facs__eSc_line_fde19673">language of the farm from which he sprang, <del hand="ms">but</del><add hand="ms" place="inline">I</add>t is the</l>
+               <l facs="#facs__eSc_line_65b5860c">voice of of reason, of 
+            <choice>
+              <sic>huamity</sic>
+              <corr>humanity</corr>
+            </choice>, of common sense. <add hand="ms" place="inline">[</add>He will tell</l>
                <l facs="#facs__eSc_line_10f47117">the truth, even if it brings him as it brought the gentle</l>
-               <l facs="#facs__eSc_line_67074936">Ml, s ter Bilney to the faggot. He is aware that he has only</l>
-               <l facs="#facs__eSc_line_8997de06">a short time in which to state his case--Nhich is the case</l>
-               <l facs="#facs__eSc_line_945d2196">0f the poor, of the /There is an urgency in his preaching</l>
-               <l facs="#facs__eSc_line_216fd012">and there is</l>
-               <l facs="#facs__eSc_line_d6942702">WXiERX So that it It is not a learmed voice; it is not</l>
-               <l facs="#facs__eSc_line_d005eef5">a Curtly voice; it is the voice of a plain man, whose</l>
-               <l facs="#facs__eSc_line_690fa0b6">brumUxmxkmRnxevtxuxstmaxk r(te aring down supersition,</l>
+               <l facs="#facs__eSc_line_67074936">Master Bilney to the faggot.<add hand="ms" place="inline">]</add> He is aware that he has only</l>
+               <l facs="#facs__eSc_line_8997de06">a short time in which to state his case--which is the case</l>
+               <l facs="#facs__eSc_line_216fd012"><add>and there is</add></l>
+               <l facs="#facs__eSc_line_945d2196">of the poor, of the <add hand="ms" place="inline">]</add> there is an urgency in his preaching</l>
+               <l facs="#facs__eSc_line_d6942702"><del>which</del> so <del hand="ms">that it</del> It is not a 
+            <choice>
+              <sic>learmed</sic>
+              <corr>learned</corr>
+            </choice> voice; it is not</l>
+               <l facs="#facs__eSc_line_d005eef5">a 
+            <choice>
+              <sic>c urtly</sic>
+              <corr>courtly</corr>
+            </choice> voice; it is the voice of a plain man, whose</l>
+               <l facs="#facs__eSc_line_690fa0b6"><del>bringing before the Court</del> tearing down superstition,</l>
                <l facs="#facs__eSc_line_5cef1f48">a voice that does not issues from a</l>
                <l facs="#facs__eSc_line_08056a6d">before he too goes to join Master Bilney at the faggot.</l>
                <l facs="#facs__eSc_line_9fc86ddf">And yet for all his urgency, his severity, he is a man of</l>
-               <l facs="#facs__eSc_line_fea333ad"> lasele 2 h-lu</l>
-               <l facs="#facs__eSc_line_6186c161">uuvvatte,</l>
-               <l facs="#facs__eSc_line_278c695f">flesh and blood. -e cracks his joke. Be tells his story.</l>
+               <l facs="#facs__eSc_line_278c695f">He is a man of the people, with a love of 
+            <choice>
+              <sic>shotting</sic>
+              <corr>shooting</corr>
+            </choice>, with a</l>
                <l facs="#facs__eSc_line_a8cc73f6">2 a a scve-re —L is a man of the people, vith a love of shotting, vith a</l>
-               <l facs="#facs__eSc_line_2ed4fe06">lau Tahue lli</l>
-               <l facs="#facs__eSc_line_0fa1a3a7"> (4a leten</l>
-               <l facs="#facs__eSc_line_2b4c960f">a respect for the gentry. But he sees, as the courteir canno;</l>
-               <l facs="#facs__eSc_line_48fab228">as the poor cannot, what supersition and igno ance are</l>
+               <l facs="#facs__eSc_line_2b4c960f">respect for the gentry. But he sees, as the 
+            <choice>
+              <sic>courteir</sic>
+              <corr>courtier</corr>
+            </choice> cannot</l>
+               <l facs="#facs__eSc_line_48fab228">as the poor cannot, what 
+            <choice>
+              <sic>supersition</sic>
+              <corr>superstition</corr>
+            </choice> and <choice>
+              <sic>igno ance</sic>
+              <corr>ignorance</corr>
+            </choice> are</l>
                <l facs="#facs__eSc_line_4ae90acc">rife in the land. It is for light and learning that he cries.</l>
-               <l facs="#facs__eSc_line_fd365c47">Give the money , he implores that used to be</l>
-               <l facs="#facs__eSc_line_6327d093">Spent on pilgirmage maters, in trentalls and masses in</l>
-               <l facs="#facs__eSc_line_1a22f0ba">purga tory matters" to poor mens sons so thatthey may become</l>
-               <l facs="#facs__eSc_line_4bf0002a">8cholars. "here be now none but great mens sons in colleget</l>
-               <l facs="#facs__eSc_line_9a50a6a0">11t will comme tp pass there txmxmmx ve shall have nothing</l>
-               <l facs="#facs__eSc_line_cd7c257c">but a little English divinity , that will bring the realm</l>
-               <l facs="#facs__eSc_line_4d89933f">into a very barbarousness, and utter decay of learning.</l>
-               <l facs="#facs__eSc_line_70cfa8d0">ikn Ad Whi le th peasnts are starving, and continuing</l>
-               <l facs="#facs__eSc_line_facdcfea">their gross supe stitions, the gr at house in rising.</l>
-               <l facs="#facs__eSc_line_2293ab65">~ec heptla</l>
-               <l facs="#facs__eSc_line_e9bed256">9All the affection of men now adays is in buildins gay</l>
+               <l facs="#facs__eSc_line_fd365c47">Give the money he implores that used to be</l>
+               <l facs="#facs__eSc_line_6327d093">spent on <add hand="ms" place="inline">"</add><quote source="#" rend="inline">
+            <choice>
+              <sic>pilgirmage</sic>
+              <corr>pilgrimage</corr>
+            </choice> maters, in trentalls and masses in</quote></l>
+               <l facs="#facs__eSc_line_1a22f0ba"><quote source="#">purgatory matters"</quote> to poor mens sons so <choice>
+            <sic>thatthey</sic>
+            <corr>that they</corr>
+          </choice> may become</l>
+               <l facs="#facs__eSc_line_4bf0002a">scholars. <quote source="#">"There be now none but great mens sons in college"</quote></l>
+               <l facs="#facs__eSc_line_9a50a6a0"><quote source="#">It will come 
+            <choice>
+              <sic>tp</sic>
+              <corr>to</corr>
+            </choice> pass there <del>that be</del> we shall have nothing</quote></l>
+               <l facs="#facs__eSc_line_cd7c257c"><quote source="#" rend="inline">but a little English divinity , that will bring the realm</quote></l>
+               <l facs="#facs__eSc_line_4d89933f"><quote source="#" rend="inline">into a very barbarousness, and utter decay of learning."</quote></l>
+               <l facs="#facs__eSc_line_70cfa8d0"><del>Wil</del> And while 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> <choice>
+              <sic>peasnts</sic>
+              <corr>peasants</corr>
+            </choice> are starving, and continuing</l>
+               <l facs="#facs__eSc_line_2293ab65"><add hand="ms" place="above">he sees everywhere</add></l>
+               <l facs="#facs__eSc_line_facdcfea">their gross 
+            <choice>
+              <sic>supe stitions</sic>
+              <corr>superstitions</corr>
+            </choice>, the, the <choice>
+              <sic>gr at</sic>
+              <corr>great</corr>
+            </choice> house is rising.</l>
+               <l facs="#facs__eSc_line_e9bed256"><quote source="#">"All the affection of men now adays is in building gay"</quote></l>
+            </p>
+            <p>
+              <add>
+               <l facs="#facs__eSc_line_fea333ad">a people, a man of</l>
+               <l facs="#facs__eSc_line_6186c161">himour, of,</l>
+               <l>He has a curious</l>
+               <l facs="#facs__eSc_line_2ed4fe06"><del>human</del> sympathy</l>
+               <l facs="#facs__eSc_line_0fa1a3a7">for the human</l>
+              </add>
+            </p>
             </ab></div>
       </body>
    </text>

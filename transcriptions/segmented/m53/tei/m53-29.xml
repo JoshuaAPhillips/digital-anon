@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 15r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-29.tif" width="2768px" height="3500px"/>
@@ -48,34 +88,68 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_d20a2f20">follou the pace of the speakting voice. They could not</l>
-               <l facs="#facs__eSc_line_0d447c7e">ent r into the pravate vorld.</l>
-               <l facs="#facs__eSc_line_5a64e98d">Spenser then-- a little man vith short hair,</l>
-               <l facs="#facs__eSc_line_25ff3ec0">a small band and cuffs" standing on the threshold of the</l>
-               <l facs="#facs__eSc_line_99c5ddf9">gay ant sumptuous house" at Penshurst vas separate from</l>
-               <l facs="#facs__eSc_line_8fba617a">from the minstrel; from the chronicler; and sepa-ete from</l>
+              <p>
+               <l facs="#facs__eSc_line_d20a2f20">follow the pace of the speaking voice. They could not</l>
+               <l facs="#facs__eSc_line_0d447c7e"><choice>
+              <sic>ent r</sic>
+              <corr>enter</corr>
+            </choice> into the private world.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_5a64e98d"><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> then--<quote source="#">a little man with short hair,</quote></l>
+               <l facs="#facs__eSc_line_25ff3ec0"><quote source="#" rend="inline">a small band and cuffs"</quote> standing on the threshold of the</l>
+               <l facs="#facs__eSc_line_99c5ddf9"><quote source="#" rend="inline">"gay and sumptuous house"</quote> at <rs type="place" xml:id="pla-pens" key="Penshurst">Penshurst</rs> was separate from</l>
+               <l facs="#facs__eSc_line_8fba617a">from the minstrel; from the chronicler; and <del hand="ms">separate</del> from</l>
                <l facs="#facs__eSc_line_930f9a4b">his audience. They no longer joined in the song and added</l>
                <l facs="#facs__eSc_line_fa814981">their own verses to the poem. But the book that had given</l>
-               <l facs="#facs__eSc_line_4b7ede95">him a separate existnce had brought into being a little</l>
-               <l facs="#facs__eSc_line_534fc5b0">group of readers. ThatxeuaiencxnatroncrkegenMoxextitex</l>
-               <l facs="#facs__eSc_line_406b9653">BrkxRAxKZ I t ha d to find its vay into the great room where</l>
-               <l facs="#facs__eSc_line_c0dd2181">the gentry sat at lesiure when they had hunted and hamkeed</l>
-               <l facs="#facs__eSc_line_2613832c">and done the business of their estates. That audeince at</l>
-               <l facs="#facs__eSc_line_064e7eff">once began to exert its pressure. Nhat is the book that will</l>
-               <l facs="#facs__eSc_line_df25b667">please my patron Sir Philip Sidney? Vhat is the theme that</l>
-               <l facs="#facs__eSc_line_fead02ef">Will recommend itself to the queen? Whom must I praise, whom</l>
+               <l facs="#facs__eSc_line_4b7ede95">him a separate <choice>
+              <sic>existnce</sic>
+              <corr>existence</corr>
+            </choice> had brought into being a little</l>
+               <l facs="#facs__eSc_line_534fc5b0">group of readers. <del>That audience at once began to exert its</del></l>
+               <l facs="#facs__eSc_line_406b9653"><del>pressure</del>. It had to find its way into the great room where</l>
+               <l facs="#facs__eSc_line_c0dd2181">the gentry sat at lesiure when they had hunted and hawked</l>
+               <l facs="#facs__eSc_line_2613832c">and done the business of their estates. That <choice>
+              <sic>audeince</sic>
+              <corr>audience</corr>
+            </choice> at</l>
+               <l facs="#facs__eSc_line_064e7eff">once began to exert its pressure. What is the book that will</l>
+               <l facs="#facs__eSc_line_df25b667">please my patron <rs type="person" xml:id="psn-psid" key="Sidney, Philip">Sir Philip Sidney</rs>? What is the theme that</l>
+               <l facs="#facs__eSc_line_fead02ef">will recommend itself to <rs type="person" xml:id="psn-eliz" key="Elizabeth I">the Queen</rs>? Whom must I praise, whom</l>
                <l facs="#facs__eSc_line_aa10a9cc">may I satirise? At once come into existence some of</l>
-               <l facs="#facs__eSc_line_95680e2e">those inmumerable influences "at are to tug, to distort,</l>
-               <l facs="#facs__eSc_line_73b351cc">to thwart; as also they are to srimulate and draw out.</l>
-               <l facs="#facs__eSc_line_a901ae0f">The poet is no longer a nameless wandering voice, but</l>
-               <l facs="#facs__eSc_line_4b9036b4">8ttached to his audience. tehetred to one spot and played</l>
-               <l facs="#facs__eSc_line_f6fffa49">upon my outside influences. Some are visible to himself</l>
+               <l facs="#facs__eSc_line_95680e2e">those inmumerable influences <choice>
+              <sic>  at</sic>
+              <corr>that</corr>
+            </choice> are to tug, to distort,</l>
+               <l facs="#facs__eSc_line_73b351cc">to thwart; as also they are to <choice>
+              <sic>srimulate</sic>
+              <corr>stimulate</corr>
+            </choice> and draw out.</l>
+               <l facs="#facs__eSc_line_a901ae0f">The poet is no <choice>
+              <sic>long r</sic>
+              <corr>longer</corr>
+            </choice> a nameless wandering voice, but</l>
+               <l facs="#facs__eSc_line_4b9036b4">attached to his audience. <choice>
+              <sic>tehetred</sic>
+              <corr>tethered</corr>
+            </choice> to one spot and played</l>
+               <l facs="#facs__eSc_line_f6fffa49">upon <choice>
+              <sic>my</sic>
+              <corr>by</corr>
+            </choice> outside influences. Some are visible to himself</l>
                <l facs="#facs__eSc_line_bf99346f">only; others show themselves only when time has past.</l>
-               <l facs="#facs__eSc_line_ef38cf8d">As the book goes out into a larher, a more varied audience</l>
+               <l facs="#facs__eSc_line_ef38cf8d">As the book goes out into a <choice>
+              <sic>larher</sic>
+              <corr>larger</corr>
+            </choice>, a more varied audience</l>
                <l facs="#facs__eSc_line_56f0d7c9">these influences become more and more complex. According to</l>
-               <l facs="#facs__eSc_line_83c88da0">its velaht, its poverty, its education, its ignorance,</l>
-               <l facs="#facs__eSc_line_53745306">the pu btic demands what satisfies its own need--poetry,</l>
-               <l facs="#facs__eSc_line_ce23c3db">history, instruction, a story to makr them forget the</l>
+               <l facs="#facs__eSc_line_83c88da0">its <choice>
+              <sic>welaht</sic>
+              <corr>wealth</corr>
+            </choice>, its poverty, its education, its ignorance,</l>
+               <l facs="#facs__eSc_line_53745306">the public demands what satisfies its own need--poetry,</l>
+               <l facs="#facs__eSc_line_ce23c3db">history, instruction, a story to make them forget the</l>
+              </p>
             </ab></div>
       </body>
    </text>

@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 10r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-19.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="947,161 941,159 906,161 912,206 912,223 960,227 960,202 955,161 947,161" rendition="Line" xml:id="facs__eSc_line_0660f24b" subtype="default"/>
             <zone points="2398,274 2172,278 2149,276 2114,270 2102,270 2093,270 2081,276 2075,278 2065,276 2030,268 2028,268 2026,268 1997,276 1989,280 1707,280 1703,278 1684,270 1682,270 1680,270 1618,280 1610,280 1596,280 1472,270 1470,270 1408,281 1400,281 1394,281 1336,272 1334,272 1110,281 927,272 925,272 923,272 896,281 898,318 898,351 1046,332 1085,348 1087,348 1089,348 1091,348 1155,330 1239,348 1241,348 1242,348 1244,348 1305,330 1320,344 1322,344 1324,344 1326,344 1328,344 1357,336 1379,346 1386,350 1388,350 1390,350 1392,350 1400,346 1423,334 1474,340 1476,340 1544,328 1593,340 1595,340 1596,340 1653,328 1672,342 1674,342 1676,342 1678,342 1680,342 1735,336 1744,342 1754,348 1756,348 1758,348 1760,348 1762,348 1775,342 1805,328 1845,340 1865,346 1867,346 1869,346 1917,340 1995,328 2030,338 2059,346 2061,346 2063,346 2065,346 2087,338 2112,326 2170,336 2229,346 2231,346 2283,334 2305,330 2320,334 2359,346 2361,346 2363,346 2417,332 2417,313 2412,281 2398,274" rendition="Line" xml:id="facs__eSc_line_f03297f0" subtype="default"/>
             <zone points="2577,386 904,386 904,425 904,445 2579,445 2581,425 2579,414 2577,386" rendition="Line" xml:id="facs__eSc_line_8231e0ee" subtype="default"/>
             <zone points="902,536 902,552 2392,548 2394,532 2390,497 1809,488 1807,488 1805,488 1775,497 1768,501 1645,501 1624,497 1595,491 1593,491 1521,497 1472,501 1460,497 1439,490 1437,490 1435,490 1318,497 1264,501 1225,497 1145,490 1143,490 1077,497 1050,501 1044,497 1032,490 1030,490 1029,490 1027,490 900,497 902,536" rendition="Line" xml:id="facs__eSc_line_8085ad1b" subtype="default"/>
@@ -51,37 +90,105 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_0660f24b">10</l>
-               <l facs="#facs__eSc_line_f03297f0">no lo mer sho ing "ith the long bow, as his ather had</l>
-               <l facs="#facs__eSc_line_8231e0ee">taugnt him to shoot, but bowling, drinlcingl whoring. And inh</l>
-               <l facs="#facs__eSc_line_8085ad1b">in the sreets of London he sau the harlot goins to ec</l>
-               <l facs="#facs__eSc_line_c9d7d317">execution, making merry as she "ent and crying, "that if</l>
-               <l facs="#facs__eSc_line_395e9bfe">g00 fellows had lkept touch "ith her, she had not bin at</l>
-               <l facs="#facs__eSc_line_4548990c">this time in that case." Re noted the smell of</l>
-               <l facs="#facs__eSc_line_d9f47e2e">rotting bodies un the churchyard at 3t Pauls and</l>
+              <p>
+               <l facs="#facs__eSc_line_f03297f0">no longer 
+            <choice>
+              <sic>shot ing</sic>
+              <corr>shooting</corr>
+            </choice> with the long bow, as his father had</l>
+               <l facs="#facs__eSc_line_8231e0ee">taught him to shoot, but bowling, 
+            <choice>
+              <sic>drinkingl</sic>
+              <corr>drinking,</corr>
+            </choice> whoring. And 
+            <choice>
+              <sic>inh</sic>
+              <corr>in</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_8085ad1b">the streets of London he saw the harlot going to ec</l>
+               <l facs="#facs__eSc_line_c9d7d317">execution, making merry as she went and crying, <quote source="#">"that if</quote></l>
+               <l facs="#facs__eSc_line_395e9bfe"><quote source="#" rend="inline">
+            <choice>
+              <sic>goof</sic>
+              <corr>good</corr>
+            </choice> fellows had kept touch with her, she had not been at</quote></l>
+               <l facs="#facs__eSc_line_4548990c"><quote source="#" rend="inline">this time in that case."</quote> He noted the smell of</l>
+               <l facs="#facs__eSc_line_d9f47e2e">rotting bodies 
+            <choice>
+              <sic>un</sic>
+              <corr>in</corr>
+            </choice> the churchyard at <rs type="place" xml:id="pla-stpa" key="St Paul's Cathedral">St Pauls</rs> and</l>
                <l facs="#facs__eSc_line_6eabd6d3">foretold plague to come. And in every village he found the</l>
-               <l facs="#facs__eSc_line_cc684465">pe asants going on pilgrimages, setting up candles, vorshippig</l>
-               <l facs="#facs__eSc_line_13c86846">pgs bones, and follwing Robin Hood. Eow should they know</l>
-               <l facs="#facs__eSc_line_368b48d7">be t er vhen the re was no preaching in the pulpits, when</l>
-               <l facs="#facs__eSc_line_d52141c5">the uords they heard were in a tongue they couli not</l>
+               <l facs="#facs__eSc_line_cc684465">peasants going on pilgrimages, setting up candles, 
+            <choice>
+              <sic>worshippig</sic>
+              <corr>worshipping</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_13c86846"><choice>
+              <sic>p gs</sic>
+              <corr>pigs'</corr>
+            </choice> bones, and 
+            <choice>
+              <sic>follwing</sic>
+              <corr>following</corr>
+            </choice> Robin Hood. How should they know</l>
+               <l facs="#facs__eSc_line_368b48d7"><choice>
+              <sic>bet er</sic>
+              <corr>better</corr>
+            </choice> when 
+            <choice>
+              <sic>the re</sic>
+              <corr>there</corr>
+            </choice> was no preaching in the pulpits, when</l>
+               <l facs="#facs__eSc_line_d52141c5">the words they heard were in a tongue they could not</l>
                <l facs="#facs__eSc_line_3fcf3318">understand?</l>
+            </p>
+            <p>
                <l facs="#facs__eSc_line_76874174">So he vent about England preaching in English,</l>
-               <l facs="#facs__eSc_line_bdb52650">no matter if he preached on horsebaclt or stood under a tree.</l>
-               <l facs="#facs__eSc_line_61d20c0a">It did not matter either if he spoke to the King in person.</l>
-               <l facs="#facs__eSc_line_05e053e5">or preaching to the King in person. ae did not moderate</l>
-               <l facs="#facs__eSc_line_3ede2cdd">his words. He spoke to the -ing himself in a voice that</l>
-               <l facs="#facs__eSc_line_fb53dd64">— 204 Ges- stwl Leei</l>
-               <l facs="#facs__eSc_line_1816d184">9tumbles, that repeats, that loses the thread of its argument</l>
-               <l facs="#facs__eSc_line_0e24c842">uduut Mk no matter, he vill brins before the ing the real state of</l>
-               <l facs="#facs__eSc_line_5d901863">lLe aCu —</l>
-               <l facs="#facs__eSc_line_e414f4f1">ERal Englandas it ammxaxeamkoxu~~xim~~e vill unbeil,</l>
-               <l facs="#facs__eSc_line_5a0c21f1">show up, speake the truth, even if it brings him to the</l>
-               <l facs="#facs__eSc_line_2235a5ae">faggot as it brought his master, the gentle Mr Rilney.</l>
-               <l facs="#facs__eSc_line_97c61c47">1 Who mas for ever gisitng risoners and sick folk."</l>
+               <l facs="#facs__eSc_line_bdb52650">no matter if he preached on horseback or stood under a tree.</l>
+               <l facs="#facs__eSc_line_61d20c0a">It did not matter either if he spoke to the <rs type="person" xml:id="psn-hen8" key="Henry VIII">King</rs> in person.</l>
+               <l facs="#facs__eSc_line_05e053e5">or preaching to the King in person. He did not moderate</l>
+               <l facs="#facs__eSc_line_3ede2cdd">his words. He spoke to the King himself in a voice that</l>
+               <l facs="#facs__eSc_line_1816d184">stumbles, that repeats, that loses the thread of its argument</l>
+               <l facs="#facs__eSc_line_0e24c842">no matter, he will bring before the King the real state of</l>
+               <l facs="#facs__eSc_line_e414f4f1"><del>Eoal</del>
+            <choice>
+              <sic>Englandas</sic>
+              <corr>England as</corr>
+            </choice> it <del>appeared to his him</del> He will 
+            <choice>
+              <sic>unbeil</sic>
+              <corr>unveil</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_5a0c21f1">show up, speak the truth, even if it brings him to the</l>
+               <l facs="#facs__eSc_line_2235a5ae"><quote source="#">"who was for ever 
+            <choice>
+              <sic>visitng</sic>
+              <corr>visiting</corr>
+            </choice> <choice>
+              <sic>risoners</sic>
+              <corr>prisoners</corr>
+            </choice> and sick folk."</quote></l>
+               <l facs="#facs__eSc_line_97c61c47"><quote source="#">"who was for ever 
+            <choice>
+              <sic>visitng</sic>
+              <corr>visiting</corr>
+            </choice> <choice>
+              <sic>risoners</sic>
+              <corr>prisoners</corr>
+            </choice> and sick folk."</quote></l>
                <l facs="#facs__eSc_line_0b20c26b">There is only a short pace left him before he too will</l>
-               <l facs="#facs__eSc_line_b1c72223">stand outside the Bocardo at 'xford and feel the flames</l>
+               <l facs="#facs__eSc_line_b1c72223">stand outside the <rs type="place" xml:id="pla-boca" key="Bocardo">Bocardo</rs> at <rs type="place" xml:id="pla-oxfo" key="Oxford">Oxford</rs> and feel the flames</l>
                <l facs="#facs__eSc_line_932c8c43">on his own flesh. So he pours out his anger;</l>
-               <l facs="#facs__eSc_line_47d58fbc">80 he llghts up the state of England with his</l>
+               <l facs="#facs__eSc_line_47d58fbc">So he lights up the state of England with his</l>
+            </p>
+              <p>
+                <add>
+               <l facs="#facs__eSc_line_fb53dd64">— one can about see as</l>
+               <l>the first [sticky?]</l>
+               <l facs="#facs__eSc_line_5d901863">the pulpit —</l>
+                </add>
+              </p>
             </ab></div>
       </body>
    </text>

@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 5r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-9.tif" width="2768px" height="3500px"/>
@@ -59,45 +99,121 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_464e7b05">LaTins as they sat at their necdlework.</l>
+              <p>
+               <l facs="#facs__eSc_line_464e7b05">LaTins as they sat at their needlework.</l>
+              </p>
+              <p>
                <l facs="#facs__eSc_line_4aa1189f">In the back ground then stood the marble busts of</l>
-               <l facs="#facs__eSc_line_f878cdbc">Greek and  omans, overpwering Chaucer, and lydgate and</l>
-               <l facs="#facs__eSc_line_c43a56de">ycliffe. And in the foreground there is the house,</l>
-               <l facs="#facs__eSc_line_b15188eb">no longer a hut made mith branches, no longer thi~with</l>
+               <l facs="#facs__eSc_line_f878cdbc"><choice>
+              <sic>Greekd</sic>
+              <corr>Greeks</corr>
+            </choice> and Romans, <choice>
+              <sic>overpwering</sic>
+              <corr>overpowering</corr>
+            </choice><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, and <rs type="person" xml:id="psn-tlyd">Lydgate</rs> and</l>
+               <l facs="#facs__eSc_line_c43a56de"><rs type="person" xml:id="psn-jwyc" key="Wycliffe, John">Wycliffe</rs>. And in the foreground there is the house,</l>
+               <l facs="#facs__eSc_line_b15188eb">no longer a hut made with branches, no longer thi<add hand="ms" place="inline">ck</add> with</l>
+          <l>wood smoke. There is a pillow now, instead of the old log</l>
                <l facs="#facs__eSc_line_d87a060d">wo0d smokce. There is a pillow nov, instead of the old log</l>
-               <l facs="#facs__eSc_line_c27b5631">with a dip for the head to rest in; glass fills the vindows,</l>
-               <l facs="#facs__eSc_line_12641bcd">the ceilings are curiously vorlted;</l>
-               <l facs="#facs__eSc_line_192b28ce">and the spoons and plates are of silver or pewter. Beyom the</l>
-               <l facs="#facs__eSc_line_2ed49fb8">nuse there are roads, wiibmgnxanfmxx it great many roomd</l>
-               <l facs="#facs__eSc_line_c5e1ce95">c pte</l>
-               <l facs="#facs__eSc_line_b74d2759">Inns at intervals. Phe roads lead to ondon; a fine city;</l>
-               <l facs="#facs__eSc_line_38c6c0f3">and sometimes harrison he roade lead all across -nalant</l>
-               <l facs="#facs__eSc_line_8bd51aa8">1 4uu Alh</l>
-               <l facs="#facs__eSc_line_540b047a">thes—eme t0 the chanmel; GTeat tarvellers tere are who have</l>
-               <l facs="#facs__eSc_line_18fbc0b7">Aeca</l>
-               <l facs="#facs__eSc_line_042f6db6">crosses th clanmel and and been to aome to alestine. Put</l>
-               <l facs="#facs__eSc_line_b9d0a8e4">4Aa prison himself ie-ne traullar, Rerrison has never been</l>
-               <l facs="#facs__eSc_line_ad670580">more than forty miles from "adwinter, fe tells us. Ne tells s</l>
-               <l facs="#facs__eSc_line_8fa2bcfa">the t he has a garden; digs for coins; and owns a mastiff.</l>
-               <l facs="#facs__eSc_line_a7e8e4a2">hat ha</l>
-               <l facs="#facs__eSc_line_d70a2743">ILa </l>
-               <l facs="#facs__eSc_line_4834e3d5">Cne age of anoynmity is over,whan mammas~the vriter</l>
-               <l facs="#facs__eSc_line_dba49291">tells-ns that.</l>
+               <l facs="#facs__eSc_line_c27b5631">with a dip for the head to rest in; glass fills the windows,</l>
+               <l facs="#facs__eSc_line_12641bcd"><add hand="typewriter" place="above">the ceilings are curiously worked;</add></l>
+               <l facs="#facs__eSc_line_192b28ce">and the spoons and plates are of silver and pewter. 
+            <choice>
+              <sic>Beyo m</sic>
+              <corr>Beyond</corr>
+            </choice> the</l>
+               <l facs="#facs__eSc_line_c5e1ce95"><add hand="ms" place="above">a few</add></l>
+               <l facs="#facs__eSc_line_2ed49fb8"><choice>
+              <sic>h use</sic>
+              <corr>house</corr>
+            </choice> there are roads <del>with great Inns</del> with great many 
+            <choice>
+              <sic>roome</sic>
+              <corr>roomed</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_b74d2759">Inns at intervals. The roads lead to <rs type="place" xml:id="psn-lond" key="London">London</rs>; a fine city;</l>
+               <l facs="#facs__eSc_line_8bd51aa8"><add hand="ms" place="above">say here &amp; there</add></l>
+               <l facs="#facs__eSc_line_38c6c0f3">and sometimes harrison     <del hand="ms">The roads</del> lead all across England</l>
+               <l facs="#facs__eSc_line_18fbc0b7"><add hand="ms" place="above"><rs type="place" xml:id="pla-rlea" key="River Lea">Lea</rs></add></l>
+               <l facs="#facs__eSc_line_540b047a"><del hand="ms">they lead</del> to the <del hand="ms">channel</del>; Great 
+            <choice>
+              <sic>tarvellers</sic>
+              <corr>travellers</corr>
+            </choice> there are who have</l>
+               <l facs="#facs__eSc_line_042f6db6"><choice>
+              <sic>crosses</sic>
+              <corr>crossed</corr>
+            </choice> the 
+            <rs type="person" xml:id="pla-chan" key="Channel, The"><choice>
+              <sic>c annel</sic>
+              <corr>channel</corr>
+            </choice></rs> and been to <rs type="place" xml:id="pla-rome" key="Rome">Rome</rs> to <rs type="place" xml:id="pla-pale" key="Palestine">
+              <choice>
+                <sic> alestine</sic>
+                <corr>Palestine</corr>
+              </choice></rs>. But</l>
+               <l facs="#facs__eSc_line_b9d0a8e4"><rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs> himself <del hand="ms">is no 
+            <choice>
+              <sic>travller</sic>
+              <corr>traveller</corr>
+            </choice>. Harrison</del> has never been</l>
+               <l facs="#facs__eSc_line_ad670580">more than forty miles from <rs type="place" xml:id="pla-radw" key="Radwinter">Radwinter</rs><add hand="ms" place="inline">,</add> he tells us. He tells 
+            <choice>
+              <sic>s</sic>
+              <corr>us</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_a7e8e4a2"><add hand="ms" place="above">that he</add></l>
+               <l facs="#facs__eSc_line_d70a2743"><add hand="ms" place="above">that he</add></l>
+               <l facs="#facs__eSc_line_8fa2bcfa">that he has a garden; digs for coins; and owns a mastiff.</l>
+               <l facs="#facs__eSc_line_4834e3d5">The age of 
+            <choice>
+              <sic>anoynmity</sic>
+              <corr>anonymity</corr>
+            </choice> is over <del hand="ms">when <del>we see</del> the writer</del></l>
+               <l facs="#facs__eSc_line_dba49291"><del hand="ms">tells us that.</del></l>
+            </p>
+            <p>
                <l facs="#facs__eSc_line_889f1413">Wi nter is past".</l>
-               <l facs="#facs__eSc_line_23cd6854">Anon then has em ged from the forests and the floods.</l>
-               <l facs="#facs__eSc_line_703d93c5"> has a dos and a garden; Re has books; and he digs in the</l>
-               <l facs="#facs__eSc_line_0fe10a6e">aearth. exnxm~nmmkr'fantanrasmant. e has a name, too,</l>
-               <l facs="#facs__eSc_line_c98d0014">but his name is of no great moment. It may be Rarrison; it</l>
-               <l facs="#facs__eSc_line_19c111d1">mey be Paston; it may be "m th or Jennings. There is very</l>
-               <l facs="#facs__eSc_line_951973e9"/>
-               <l facs="#facs__eSc_line_b825a1f4">14ttle to nim, save his name. Ee has no expression</l>
-               <l facs="#facs__eSc_line_03f38dd4">on his face. -e conveys to us chiefle what he sees--England,</l>
-               <l facs="#facs__eSc_line_f8978bab">IA. &amp;up Ltiez q eu)</l>
-               <l facs="#facs__eSc_line_1a82025e">Xtsnetimmesxtitcseaxektrmsoemandtsgnxinx; i ts erp ti nes s;</l>
-               <l facs="#facs__eSc_line_bc1c8acb">1ts searcity o people; the predominence of individuals.</l>
-               <l facs="#facs__eSc_line_8c4cb459">6 feu lueui</l>
-               <l facs="#facs__eSc_line_a446ec85">phe Queen is the predominant figure. Ee counts her possessios</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_23cd6854"><rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> then has 
+            <choice>
+              <sic>em ged</sic>
+              <corr>emerged</corr>
+            </choice> from the forests and the floods.</l>
+               <l facs="#facs__eSc_line_703d93c5">He has a dog and a garden; He has books; and he digs in the</l>
+               <l facs="#facs__eSc_line_0fe10a6e"><choice>
+              <sic>aearth</sic>
+              <corr>earth</corr>
+            </choice>. e<del>he has a past. "Winter is past"</del>. He has a name too,</l>
+               <l facs="#facs__eSc_line_c98d0014">but his name is of no great moment. It may be Harrison; it</l>
+               <l facs="#facs__eSc_line_951973e9"><add hand="ms" place="above">it may be [illeg.] or <rs type="person" xml:id="psn-wlan" key="Langland, William">Langland</rs></add></l>
+               <l facs="#facs__eSc_line_19c111d1">may be <rs type="person" xml:id="lit-past" key="Pastons">Paston</rs>; it may be 
+            <choice>
+              <sic> m th</sic>
+              <corr>Smith</corr>
+            </choice> or Jennings. There is very</l>
+               <l facs="#facs__eSc_line_b825a1f4">little to him, save his name. He has no expression</l>
+               <l facs="#facs__eSc_line_f8978bab"><add>the emptiness of England</add></l>
+               <l facs="#facs__eSc_line_03f38dd4">on his face. He conveys to us chiefly what he sees--England,</l>
+               <l facs="#facs__eSc_line_1a82025e"><del>its emptiness the scarcity of roads; the;</del> its emptiness;</l>
+               <l facs="#facs__eSc_line_8c4cb459"><add hand="ms" place="above">its few roads;</add></l>
+               <l facs="#facs__eSc_line_bc1c8acb">its scarcity 
+            <choice>
+              <sic>o</sic>
+              <corr>of</corr>
+            </choice> people; the 
+            <choice>
+              <sic>predominence</sic>
+              <corr>predominance</corr>
+            </choice> of individuals.</l>
+               <l facs="#facs__eSc_line_a446ec85">The <rs type="person" xml:id="psn-eliz" key="Elizabeth I">Queen</rs> is the predominant figure. He counts her 
+            <choice>
+              <sic>possession</sic>
+              <corr>possessions</corr>
+            </choice></l>
                <l facs="#facs__eSc_line_c1035510">her ships; her palaces He watches her progresses from</l>
+            </p>
             </ab></div>
       </body>
    </text>

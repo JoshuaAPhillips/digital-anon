@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 18r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-35.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="980,122 935,128 941,178 941,198 997,198 997,175 990,124 980,122" rendition="Line" xml:id="facs__eSc_line_68f053cd" subtype="default"/>
             <zone points="2310,254 2291,254 2271,254 2252,254 2244,254 2238,256 2213,262 2170,254 2157,252 2155,252 2135,252 2122,252 2102,254 2034,260 2019,252 2013,250 1999,250 1997,250 1993,252 1974,260 1941,252 1935,250 1933,250 1931,250 1929,250 1923,250 1886,260 1810,250 1795,248 1785,248 1768,248 1740,258 1723,248 1721,246 1719,246 1717,246 1715,246 1702,248 1649,258 1618,246 1610,246 1591,246 1538,258 1447,258 1431,245 1429,245 1427,245 1425,245 1423,245 1402,256 1200,256 1184,243 1182,243 1180,243 1178,243 1118,252 1095,241 1093,241 1091,241 1089,241 993,252 929,239 929,287 927,303 1169,316 1171,316 2363,315 2365,299 2365,258 2312,254 2310,254" rendition="Line" xml:id="facs__eSc_line_c3c53636" subtype="default"/>
             <zone points="2563,375 2544,371 2524,365 2513,361 2398,375 2390,375 2382,375 2236,359 2235,359 2233,359 2192,373 2170,373 2118,373 2093,359 2091,359 2089,359 2028,373 2022,373 1999,373 1748,355 1746,355 1647,369 1645,369 1641,369 1544,355 1542,355 1484,369 1478,369 1474,369 1427,353 1425,353 1423,353 1303,367 1293,369 1204,369 1200,367 1169,353 1167,353 1165,353 1163,353 1114,365 1112,365 1108,365 972,355 970,355 929,363 929,400 927,416 951,427 953,427 955,427 1145,420 1149,420 1151,420 1204,429 1206,429 1585,425 1748,423 1758,427 1774,433 1775,433 1777,433 1851,429 1904,425 2567,437 2571,412 2571,404 2563,375" rendition="Line" xml:id="facs__eSc_line_7189298f" subtype="default"/>
             <zone points="925,528 2497,538 2501,519 2497,482 2279,482 2264,478 2244,472 2242,472 2240,472 2238,472 2219,478 2201,482 2174,478 2137,470 2135,470 2133,470 2112,476 2098,482 1987,482 1976,474 1966,470 1964,470 1962,470 1840,472 1651,478 1639,470 1637,468 1635,468 1633,468 1632,468 1630,468 1622,470 1596,478 1569,470 1558,466 1556,466 1554,466 1480,468 1307,476 1254,466 1241,464 1239,464 1237,464 1231,466 1206,474 1036,464 1034,464 1032,464 955,474 929,462 927,509 925,528" rendition="Line" xml:id="facs__eSc_line_ee05cf22" subtype="default"/>
@@ -29,7 +68,6 @@
             <zone points="1058,1382 1056,1400 2441,1411 2445,1392 2445,1357 2361,1345 2359,1345 2357,1345 2334,1355 2332,1355 2085,1355 2085,1353 2058,1343 2056,1343 2054,1343 1952,1353 1939,1353 1933,1353 1892,1341 1890,1341 1888,1341 1886,1341 1849,1351 1847,1351 1684,1341 1682,1341 1624,1351 1614,1351 1612,1351 1591,1339 1589,1339 1587,1339 1058,1345 1058,1382" rendition="Line" xml:id="facs__eSc_line_e45e127c" subtype="default"/>
             <zone points="2596,1458 923,1452 923,1491 923,1514 1844,1514 1855,1516 1882,1524 1884,1524 2168,1526 2170,1526 2305,1518 2318,1518 2328,1518 2417,1528 2419,1528 2600,1518 2602,1505 2602,1464 2596,1458" rendition="Line" xml:id="facs__eSc_line_5b21d6cd" subtype="default"/>
             <zone points="923,1594 922,1611 1023,1623 1025,1623 1102,1615 1124,1625 1126,1625 1128,1627 2336,1627 2338,1608 2338,1582 2305,1567 2303,1567 2301,1567 2205,1573 2137,1549 2135,1549 2133,1549 2131,1549 2087,1575 2085,1575 2056,1555 2054,1555 2052,1555 2050,1555 2048,1555 2046,1555 2019,1573 2017,1573 2011,1571 1970,1561 1968,1561 1966,1561 1964,1561 1962,1561 1949,1569 1935,1578 1919,1569 1914,1565 1912,1565 1910,1565 1908,1565 1906,1565 1892,1569 1857,1576 1812,1565 1795,1561 1793,1561 1791,1561 1760,1563 1655,1575 1630,1559 1628,1559 1626,1559 1624,1559 1610,1559 1445,1567 1381,1555 1379,1555 1377,1555 1346,1565 1274,1551 1272,1551 1186,1571 1167,1561 1165,1561 1163,1561 1083,1565 1044,1541 1044,1540 1042,1540 1040,1540 923,1538 923,1594" rendition="Line" xml:id="facs__eSc_line_f18a28ea" subtype="default"/>
-            <zone points="1855,1561 1855,1586 1917,1586 1917,1561 1917,1522 1855,1512 1855,1561" rendition="Line" xml:id="facs__eSc_line_3b12344e" subtype="default"/>
             <zone points="922,1709 922,1736 2270,1736 2273,1736 2303,1746 2305,1746 2306,1746 2552,1736 2554,1720 2554,1689 2404,1676 2402,1676 2285,1685 2213,1672 2211,1672 2118,1683 2048,1674 2046,1674 2044,1674 2042,1674 2026,1683 2007,1674 2005,1674 2003,1674 1834,1681 1789,1670 1787,1670 1785,1670 1686,1680 1659,1668 1657,1668 1655,1668 1653,1668 1628,1681 1517,1681 1418,1666 1416,1666 1194,1678 1159,1664 1157,1664 968,1664 966,1664 964,1664 922,1676 922,1709" rendition="Line" xml:id="facs__eSc_line_cc4eb00b" subtype="default"/>
             <zone points="2592,1800 2590,1794 2355,1781 2353,1781 2170,1790 2118,1792 1995,1788 1635,1775 1633,1775 1593,1785 1577,1786 1530,1783 1454,1777 1453,1777 1425,1783 1410,1785 1406,1781 1394,1773 1392,1773 1390,1773 1388,1773 1351,1781 1334,1785 1318,1781 1293,1773 1291,1773 1289,1773 920,1775 920,1818 918,1841 2590,1855 2594,1831 2592,1802 2592,1800" rendition="Line" xml:id="facs__eSc_line_f0d75155" subtype="default"/>
             <zone points="2441,1905 2373,1890 2371,1890 2369,1890 2328,1903 2306,1888 2305,1888 2303,1888 2301,1888 2299,1888 2266,1901 2242,1891 2240,1891 2238,1891 2143,1901 2116,1903 2110,1901 2085,1888 2083,1888 2081,1888 2079,1888 2044,1899 2038,1903 1941,1903 1935,1899 1927,1891 1925,1891 1923,1891 1921,1891 1875,1897 1849,1901 1840,1897 1801,1880 1799,1880 1680,1878 1678,1878 1676,1878 1674,1878 1647,1895 1639,1899 1591,1899 1585,1895 1548,1878 1546,1878 1544,1878 1542,1878 1513,1893 1503,1899 1486,1893 1445,1882 1443,1882 1441,1882 1233,1886 1231,1886 1217,1891 1198,1897 1165,1890 1116,1880 1114,1880 1112,1880 1077,1890 1046,1897 1007,1890 958,1878 957,1878 955,1878 953,1878 939,1888 931,1893 922,1888 920,1930 920,1956 2441,1956 2443,1938 2441,1905" rendition="Line" xml:id="facs__eSc_line_8ffcb3bf" subtype="default"/>
@@ -47,33 +85,92 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_68f053cd">1 6</l>
+              <p>
                <l facs="#facs__eSc_line_c3c53636">distance he sees them pictorially; grouped, like the</l>
-               <l facs="#facs__eSc_line_7189298f">figures in a fresco, "ith the flowers growing at their feet,</l>
-               <l facs="#facs__eSc_line_ee05cf22">behi d them marbie pillars, tree s "ith bright birds, and</l>
-               <l facs="#facs__eSc_line_a27e3756">the 1ibbard and the lion roaming or couchant. Mhere is</l>
-               <l facs="#facs__eSc_line_5c97f468">no tension; n o direction; but always movement,</l>
-               <l facs="#facs__eSc_line_4755e728">as the metre flings its curve of sound, to brealt, like a</l>
-               <l facs="#facs__eSc_line_625503ef">meve on the same place, and lilke a vave to withdraw, to</l>
-               <l facs="#facs__eSc_line_9cb34811">f411 again. Nolded in this intation we drwose and</l>
-               <l facs="#facs__eSc_line_10a3dba1">and sleep; bxumanayx~~ yet alwys sec througl the " ters,</l>
-               <l facs="#facs__eSc_line_e06f22c6">something iktmknxtarx~ lit up.</l>
-               <l facs="#facs__eSc_line_9294881c">Cuuscedel</l>
-               <l facs="#facs__eSc_line_e45e127c">Spenser standinn othe threshold of the great house</l>
-               <l facs="#facs__eSc_line_5b21d6cd">is half in shdow, half in light, axx Balf is still unrealised</l>
-               <l facs="#facs__eSc_line_f18a28ea">. camot confine emotions within ane hody. Re must</l>
-               <l facs="#facs__eSc_line_3b12344e">L.</l>
-               <l facs="#facs__eSc_line_cc4eb00b">Symbolise, exterirorise . Jealous ls not a passion to issue</l>
-               <l facs="#facs__eSc_line_f0d75155">on actual lips. Ne must float it outwards; makce it abtsract;</l>
-               <l facs="#facs__eSc_line_8ffcb3bf">give it a symbolical shape. Ne cannot speakk through the</l>
-               <l facs="#facs__eSc_line_fd8c91b5">mou ts of indivisuals. The body contianing within itself</l>
-               <l facs="#facs__eSc_line_bd8c5ef5">al l the passions is still sunk in shadow. But the other half</l>
-               <l facs="#facs__eSc_line_6aff5889">of him is in the light. Ee is amare of his art as Calucer</l>
-               <l facs="#facs__eSc_line_1d95d25f">mas not, nor Langland, nor Malory. His is no longer a</l>
-               <l facs="#facs__eSc_line_d6b93c4b">vanderine voice, but the voice of a man practising an art,</l>
+               <l facs="#facs__eSc_line_7189298f">figures in a fresco, with the flowers growing at their feet,</l>
+               <l facs="#facs__eSc_line_ee05cf22"><choice>
+              <sic>behi d</sic>
+              <corr>behind</corr>
+            </choice> them marble pillars, 
+            <choice>
+              <sic>tree s</sic>
+              <corr>trees</corr>
+            </choice> with bright birds, and</l>
+               <l facs="#facs__eSc_line_a27e3756">the libbard and the lion roaming or couchant. There is</l>
+               <l facs="#facs__eSc_line_5c97f468">no tension; no direction; but always movement,</l>
+               <l facs="#facs__eSc_line_4755e728">as the metre flings its curve of sound, to break, like a</l>
+               <l facs="#facs__eSc_line_625503ef">wave on the same place, and like a wave to withdraw, to</l>
+               <l facs="#facs__eSc_line_9cb34811">fill again. Folded in this 
+            <choice>
+              <sic>intation</sic>
+              <corr>incantation</corr>
+            </choice> we 
+            <choice>
+              <sic>drwose</sic>
+              <corr>drowse</corr>
+            </choice> and</l>
+               <l facs="#facs__eSc_line_10a3dba1">and sleep; <del>but always</del> yet 
+            <choice>
+              <sic>alwys</sic>
+              <corr>always</corr>
+            </choice> see through the 
+            <choice>
+              <sic>w ters</sic>
+              <corr>waters</corr>
+            </choice>,</l>
+               <l facs="#facs__eSc_line_9294881c"><add hand="ms" place="above">irradiated</add></l>
+               <l facs="#facs__eSc_line_e06f22c6">something <del>illuminated</del> lit up.</l>
+            </p>
+               <l facs="#facs__eSc_line_e45e127c">Spenser 
+            <choice>
+              <sic>standinn othe</sic>
+              <corr>standing on the</corr>
+            </choice> threshold of the great house</l>
+               <l facs="#facs__eSc_line_5b21d6cd">is half in 
+            <choice>
+              <sic>shdow</sic>
+              <corr>shadow</corr>
+            </choice>, half in light, <del>a</del> Half is still unrealised</l>
+               <l facs="#facs__eSc_line_f18a28ea"><add hand="ms" place="above">For </add>He cannot confine emotions within <del hand="ms">one body</del> <add hand="ms" place="above">[himself?]</add>. He must</l>
+               <l facs="#facs__eSc_line_cc4eb00b">symbolise, 
+            <choice>
+              <sic>exterirorise</sic>
+              <corr>exteriorise</corr>
+            </choice>. 
+            <choice>
+              <sic>Jealous</sic>
+              <corr>Jealousy</corr>
+            </choice> is not a passion to issue</l>
+               <l facs="#facs__eSc_line_f0d75155">on actual lips. He must float it outwards; make it 
+            <choice>
+              <sic>abtsract</sic>
+              <corr>abstract</corr>
+            </choice>;</l>
+               <l facs="#facs__eSc_line_8ffcb3bf">give it a symbolical shape. He cannot speak through the</l>
+               <l facs="#facs__eSc_line_fd8c91b5">mouths of 
+            <choice>
+              <sic>indivisuals</sic>
+              <corr>individuals</corr>
+            </choice>. The body 
+            <choice>
+              <sic>contianing</sic>
+              <corr>containing</corr>
+            </choice> within itself</l>
+               <l facs="#facs__eSc_line_bd8c5ef5">all of the passions is still sunk in shadow. But the other half</l>
+               <l facs="#facs__eSc_line_6aff5889">of him is in the light. He is aware of his art as 
+            <choice>
+              <sic>Cahucer</sic>
+              <corr>Chaucer</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_1d95d25f">was not, nor <rs type="person" xml:id="psn-wlan" key="Langland, William">Langland</rs>, nor Malory. His is no longer a</l>
+               <l facs="#facs__eSc_line_d6b93c4b">wandering voice, but 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> voice of a man practising an art,</l>
                <l facs="#facs__eSc_line_33d69443">asking for recognition, and bitterly conscious of his</l>
-               <l facs="#facs__eSc_line_1fcef439">aultuis</l>
-               <l facs="#facs__eSc_line_a731977f">separation fmom the vorld, of the worlds scorn.</l>
+               <l facs="#facs__eSc_line_1fcef439"><add hand="ms" place="above">relation</add></l>
+               <l facs="#facs__eSc_line_a731977f">separation from the world, of the worlds scorn.</l>
             </ab></div>
       </body>
    </text>

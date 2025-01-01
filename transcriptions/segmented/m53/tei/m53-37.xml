@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 19r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-37.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="1013,211 1015,229 1042,235 1042,208 1032,163 1005,165 1013,211" rendition="Line" xml:id="facs__eSc_line_67ee9baf" subtype="default"/>
             <zone points="2552,307 2532,303 2524,301 2342,307 2242,295 2223,293 2221,293 2203,295 2120,303 1797,299 1770,287 1766,285 1764,285 1762,285 1723,285 1591,291 1513,283 1495,281 1493,281 1491,281 1490,281 1468,291 1408,281 1394,280 1392,280 1369,280 1250,287 1034,276 1034,318 1032,336 2552,361 2555,346 2554,307 2552,307" rendition="Line" xml:id="facs__eSc_line_4ff78bc7" subtype="default"/>
             <zone points="984,427 982,443 1013,455 1015,455 1017,455 1408,453 1431,462 1433,462 1435,462 1495,453 1509,464 1511,464 1513,464 1515,464 1593,456 1626,466 1628,466 1630,466 1742,456 1914,470 1916,470 2124,464 2145,474 2147,474 2631,480 2633,480 2635,480 2661,468 2662,453 2661,418 2571,406 2569,406 2567,406 2542,414 2538,416 2534,414 2511,404 2509,404 2507,404 2326,410 2273,412 2200,408 1995,396 1993,396 1923,402 1888,406 1842,402 1756,392 1754,392 1678,398 1632,402 1579,396 1536,392 1534,392 1532,392 1519,396 1499,400 1488,394 1474,388 1472,388 1470,388 1418,394 1371,398 1344,392 1328,388 1326,388 1324,388 1295,390 1250,396 1235,390 1219,385 1217,385 1215,385 1174,388 1126,394 984,386 984,427" rendition="Line" xml:id="facs__eSc_line_fabe200d" subtype="default"/>
             <zone points="980,536 978,552 1067,565 1069,565 1252,560 1264,560 1272,560 1381,571 1383,571 1384,571 1418,563 1425,561 1447,563 1540,575 1542,575 1676,569 1723,567 1748,571 1805,579 1807,579 1931,575 1993,573 2040,577 2118,585 2120,585 2163,581 2205,575 2221,581 2235,587 2236,587 2238,587 2270,583 2310,577 2326,585 2332,587 2334,587 2336,587 2365,585 2431,579 2445,587 2448,591 2450,591 2452,591 2454,591 2456,591 2464,587 2480,581 2657,591 2661,565 2659,530 2563,515 2561,515 2250,521 2244,521 2205,507 2203,507 2201,507 2129,519 2128,519 2126,519 2085,503 2083,503 2081,503 2079,503 2056,513 1758,497 1756,497 1488,507 1447,507 1441,505 1418,497 1416,497 1414,497 1266,501 1213,503 1209,501 1188,490 1186,490 1184,490 1182,490 1147,499 1145,499 980,497 980,536" rendition="Line" xml:id="facs__eSc_line_1403669c" subtype="default"/>
@@ -57,43 +96,124 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_67ee9baf">6</l>
-               <l facs="#facs__eSc_line_4ff78bc7">nad the poet r mained in the great room, p offering his</l>
-               <l facs="#facs__eSc_line_fabe200d">bo0k to the little group of readers, English poetry might has</l>
-               <l facs="#facs__eSc_line_1403669c">remained bo0k poetry, read alouâ; (a recolketion; a reflectior</l>
-               <l facs="#facs__eSc_line_4c8de80d">som ine rxmkmamnt heard by the leisured listening in the</l>
-               <l facs="#facs__eSc_line_f091e9cc">great room to-mve~eereauine aloul. But there vas the</l>
-               <l facs="#facs__eSc_line_a3f6dc66">0ther voice; the voice at the back door. Ŝpenser had heard it</l>
-               <l facs="#facs__eSc_line_0ab476b3">.Ee recalled the voice of " misntrels making goodly merrime;</l>
-               <l facs="#facs__eSc_line_c41f549e">ith wanton bards and erhyjers impudent. ae had been,it</l>
-               <l facs="#facs__eSc_line_1b8932e3">18 said̂, at the pagenat at -enilworth "hen, to amuse the</l>
-               <l facs="#facs__eSc_line_c67d2ef0">Que een, an old story was staged. Ne had seen "the player</l>
-               <l facs="#facs__eSc_line_3d147700">21ab uu  au ~lf~~ orsa</l>
-               <l facs="#facs__eSc_line_1b685f49">drssed in green", the --the old play that the peasants acted</l>
-               <l facs="#facs__eSc_line_be53f9a3">mhen srping came and to placate the eartn, the mummer hung</l>
-               <l facs="#facs__eSc_line_cdf56c4a">A vlnc qlal l</l>
-               <l facs="#facs__eSc_line_4c0347c0">imself with green leaves.</l>
-               <l facs="#facs__eSc_line_813ed50b">lou que. muut Rsu</l>
-               <l facs="#facs__eSc_line_60d6e5c3">nenakknxftuxenx Tl)e 9ye en mus t have her mins tresl.</l>
-               <l facs="#facs__eSc_line_35006cd8">A.a scyl-b lues lct-αs ( 4cc¬</l>
-               <l facs="#facs__eSc_line_4f172f57">ue ler euien¬</l>
-               <l facs="#facs__eSc_line_9f3fbd4e">2nx nxmxhenever the Queen went to the g eat house,</l>
-               <l facs="#facs__eSc_line_a66b83a8">a tne minstrels acted before her. irnoically enough,</l>
-               <l facs="#facs__eSc_line_f5de3334">Gt.</l>
-               <l facs="#facs__eSc_line_a8dcee75">the preacher wno mas for banisning Ronin Nood and sueh</l>
-               <l facs="#facs__eSc_line_6468b90a">mr—TT es, had himself forged the very veapon that gave</l>
-               <l facs="#facs__eSc_line_0aa4de41">tne old minstrels a new lease of life. Nen ~atimer said the</l>
-               <l facs="#facs__eSc_line_7539e796">Lords praer in English at the beginning and endd of his</l>
-               <l facs="#facs__eSc_line_041774fb">sermons he Was putting English into high places. Re vas</l>
-               <l facs="#facs__eSc_line_626fb09e">rescuine it from the back door. Ne vas teaching the nobles</l>
-               <l facs="#facs__eSc_line_24b7c7cc">and the peasants to use their mother tongue. Ee vas making</l>
-               <l facs="#facs__eSc_line_4a5fc12b">4s</l>
-               <l facs="#facs__eSc_line_656375ae">that alliance between the nogres mmu tme pee-omrts tat vas</l>
-               <l facs="#facs__eSc_line_bf07d08d">nesscary "ere they to come together in theplayhouse.</l>
-               <l facs="#facs__eSc_line_ea5fddad">And already, even while the old mummers ca e before the</l>
-               <l facs="#facs__eSc_line_9aa46405">Que en, dressed in leaves at Kenilworth, the house was being</l>
-               <l facs="#facs__eSc_line_6845b679">built which was to give the minstrel a lodglng;</l>
-               <l facs="#facs__eSc_line_31bdf89b">maich mas to give him a name, a ~~/~</l>
+              <p>
+               <l facs="#facs__eSc_line_4ff78bc7">Had the poet 
+            <choice>
+              <sic>r mained</sic>
+              <corr>remained</corr>
+            </choice> in the great room, 
+            <choice>
+              <sic>p offering</sic>
+              <corr>proffering</corr>
+            </choice> his</l>
+               <l facs="#facs__eSc_line_fabe200d">book to the little group of readers, English poetry might 
+            <choice>
+              <sic>hav</sic>
+              <corr>have</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_1403669c">remained book poetry, read aloud; <add hand="ms" place="inline">[</add>a recollection; a reflection</l>
+               <l facs="#facs__eSc_line_4c8de80d"><choice>
+              <sic>som hing</sic>
+              <corr>something</corr>
+            </choice> <del>read aloud</del> heard by the leisured listening in the</l>
+               <l facs="#facs__eSc_line_f091e9cc">great room <del hand="ms">to a voice reading aloud.</del> But there was the</l>
+               <l facs="#facs__eSc_line_a3f6dc66">other voice: the voice at the back door. Spenser had heard it</l>
+               <l facs="#facs__eSc_line_0ab476b3">. He recalled the voice of <quote source="#" rend="inline">"
+            <choice>
+              <sic>misntrels</sic>
+              <corr>minstrels</corr>
+            </choice> making goodly 
+            <choice>
+              <sic>merrimen</sic>
+              <corr>merriment</corr>
+            </choice></quote></l>
+               <l facs="#facs__eSc_line_c41f549e"><quote source="#" rend="inline">With wanton bards and 
+            <choice>
+              <sic>erhyjers</sic>
+              <corr>rhymers</corr>
+            </choice> impudent."</quote> he had been, it</l>
+               <l facs="#facs__eSc_line_1b8932e3">is said, at the 
+            <choice>
+              <sic>pagenat</sic>
+              <corr>pageant</corr>
+            </choice> at <rs type="place" xml:id="pla-keni" key="Kenilworth">Kenilworth</rs> when, to amuse the</l>
+               <l facs="#facs__eSc_line_3d147700"><add>&amp; had used the player to reflect a [illeg.]</add></l>
+               <l facs="#facs__eSc_line_c67d2ef0"><rs type="person" xml:id="psn-eliz" key="Elizabeth I"><choice>
+              <sic>Queeen</sic>
+              <corr>Queen</corr>
+            </choice></rs>, an old story was staged. He had seen <quote source="#" rend="inline">"the player</quote></l>
+               <l facs="#facs__eSc_line_1b685f49"><quote source="#" rend="inline">
+            <choice>
+              <sic>drssed</sic>
+              <corr>dressed</corr>
+            </choice> in green"</quote>, the --the old play that the peasants acted</l>
+               <l facs="#facs__eSc_line_be53f9a3">when 
+            <choice>
+              <sic>srping</sic>
+              <corr>spring</corr>
+            </choice> came and to placate the earth, the mummer hung</l>
+               <l facs="#facs__eSc_line_4c0347c0">himself with green leaves.</l>
+            </p>
+            <p>
+              <add>
+               <l facs="#facs__eSc_line_cdf56c4a">Like other great people</l>
+               <l facs="#facs__eSc_line_813ed50b">the queen must have</l>
+               <l facs="#facs__eSc_line_4f172f57">her diversions</l>
+              </add>
+            </p>
+               <l facs="#facs__eSc_line_35006cd8"><add hand="ms" place="above">But English was coming to court.</add></l>
+               <l facs="#facs__eSc_line_60d6e5c3"><del>but the Queen</del> The 
+            <choice>
+              <sic>Qyeen</sic>
+              <corr>Queen</corr>
+            </choice> must have her 
+            <choice>
+              <sic>minstresl</sic>
+              <corr>minstrels</corr>
+            </choice>.</l>
+               <l facs="#facs__eSc_line_9f3fbd4e"><del>The Que</del> Whenever the Queen went to the 
+            <choice>
+              <sic>g eat</sic>
+              <corr>great</corr>
+            </choice> house,</l>
+               <l facs="#facs__eSc_line_f5de3334"><add hand="ms" place="above">in English</add></l>
+               <l facs="#facs__eSc_line_a66b83a8">a   the minstrels acted before her. <choice>
+              <sic>Irnoically</sic>
+              <corr>Ironically</corr>
+            </choice> enough,</l>
+               <l facs="#facs__eSc_line_a8dcee75">the preacher who was for banishing Robin Hood and <del hand="ms">such</del></l>
+               <l facs="#facs__eSc_line_6468b90a"><del hand="ms">mummeries</del>, had himself forged the very weapon that gave</l>
+               <l facs="#facs__eSc_line_0aa4de41">the old minstrels a new lease of life. When Latimer said the</l>
+               <l facs="#facs__eSc_line_7539e796"><rs type="literary-work" xml:id="lit-lord" key="Lord's Prayer">Lords 
+            <choice>
+              <sic>praer</sic>
+              <corr>Prayer</corr>
+            </choice></rs> in English at the beginning and the 
+            <choice>
+              <sic>endd</sic>
+              <corr>end</corr>
+            </choice> of his</l>
+               <l facs="#facs__eSc_line_041774fb">sermons he was putting English into high places. He was</l>
+               <l facs="#facs__eSc_line_626fb09e">rescuing it from the back door. He was teaching the nobles</l>
+               <l facs="#facs__eSc_line_4a5fc12b"><add hand="ms" place="above">respect</add></l>
+               <l facs="#facs__eSc_line_24b7c7cc">and the peasants to use their mother tongue. He was making</l>
+               <l facs="#facs__eSc_line_656375ae">that alliance between the <del hand="ms">nobles and the peasants</del> that was</l>
+               <l facs="#facs__eSc_line_bf07d08d"><choice>
+              <sic>nesscary</sic>
+              <corr>necessary</corr>
+            </choice> were they to come together in 
+            <choice>
+              <sic>theplayhouse</sic>
+              <corr>the playhouse</corr>
+            </choice>.</l>
+               <l facs="#facs__eSc_line_ea5fddad">And already, even while the old mummers 
+            <choice>
+              <sic>ca e</sic>
+              <corr>came</corr>
+            </choice> before the</l>
+               <l facs="#facs__eSc_line_9aa46405">Queen, dressed in leaves at Kenilworth, the house was being</l>
+               <l facs="#facs__eSc_line_6845b679">built which was to give the minstrel a lodging;</l>
+               <l facs="#facs__eSc_line_31bdf89b">which was to give him a name. a <add type="ms" place="inline">centre</add></l>
             </ab></div>
       </body>
    </text>

@@ -1,30 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 8r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-15.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="912,161 912,188 922,188 922,161 922,114 912,114 912,161" rendition="Line" xml:id="facs__eSc_line_dfc1f23f" subtype="default"/>
             <zone points="2410,239 2390,239 2371,239 2351,239 2340,239 2334,241 2326,239 2312,239 2293,239 2273,237 2254,237 2235,237 2215,237 2196,237 2176,237 2157,237 2137,237 2118,237 2098,235 2079,235 2065,235 1836,239 1820,239 1803,233 1787,233 1768,233 1748,231 1731,231 1497,239 1451,239 1447,239 1421,229 1418,229 1408,227 1377,237 1221,227 1219,227 894,235 894,272 894,297 2458,293 2460,278 2458,243 2429,239 2410,239" rendition="Line" xml:id="facs__eSc_line_981f5039" subtype="default"/>
             <zone points="890,386 890,408 2410,402 2412,385 2408,353 2289,353 2287,351 2268,342 2266,342 2264,342 2262,342 2242,351 2238,351 2120,342 2118,342 1939,351 1919,351 1906,351 1809,342 1807,342 1756,351 1748,351 1735,351 1645,342 1643,342 1593,350 1581,353 1431,353 1425,350 1414,342 1412,342 1410,342 1408,342 888,348 890,386" rendition="Line" xml:id="facs__eSc_line_a77bd9c6" subtype="default"/>
             <zone points="890,491 890,517 2435,513 2437,497 2437,462 2406,451 2404,451 2402,451 1978,460 1921,460 1904,460 1777,449 1775,449 1774,449 1744,458 1742,458 1633,449 1632,449 1630,449 1610,458 1608,460 1476,460 1468,458 1404,447 1402,447 1400,447 1398,447 1383,456 1274,447 1272,447 1270,447 1235,456 1233,456 1231,456 1147,447 1145,447 1143,447 1110,456 1106,456 1104,456 1065,447 1064,447 1062,447 890,455 890,491" rendition="Line" xml:id="facs__eSc_line_3aff5200" subtype="default"/>
             <zone points="892,602 890,622 2034,624 2038,606 2036,573 1954,556 1952,556 1951,556 1910,571 1908,571 1904,571 1836,556 1834,556 1832,556 1779,569 1772,573 1727,573 1721,569 1696,556 1694,556 1692,556 1690,556 1641,567 1628,571 1614,567 1575,556 1573,556 1571,556 1511,567 1495,571 1363,571 1357,565 1346,556 1346,554 1344,554 1342,554 1340,554 1291,565 1270,569 1211,563 1126,556 1124,556 1122,556 1099,563 1077,569 1036,561 988,554 986,554 892,560 892,602" rendition="Line" xml:id="facs__eSc_line_d9eb0e68" subtype="default"/>
-            <zone points="603,781 604,810 659,799 659,777 647,709 624,725 597,723 603,781" rendition="Line" xml:id="facs__eSc_line_9820e1f2" subtype="default"/>
             <zone points="733,727 735,752 838,744 838,715 826,655 727,684 733,727" rendition="Line" xml:id="facs__eSc_line_8aa43003" subtype="default"/>
             <zone points="2561,680 2505,680 2505,678 2497,672 2484,670 2468,668 2421,676 2229,666 2227,666 2225,666 2198,678 2198,680 1933,680 1929,678 1834,666 1832,666 1680,678 1674,678 1672,678 1633,666 1632,666 1630,666 1497,678 1490,678 1484,678 1402,666 1400,666 1274,678 1266,678 1246,666 1244,666 1242,666 1241,666 1178,676 1128,666 1126,666 1124,666 1122,666 1106,678 1104,680 1034,680 1030,678 995,666 993,666 992,666 990,666 968,676 968,715 966,727 1027,738 1029,740 1470,740 1470,738 1472,738 1493,731 1503,729 2565,738 2569,717 2567,703 2561,680" rendition="Line" xml:id="facs__eSc_line_38a01f72" subtype="default"/>
             <zone points="661,826 663,855 731,836 731,826 729,771 661,773 661,826" rendition="Line" xml:id="facs__eSc_line_7ef9ffc5" subtype="default"/>
             <zone points="667,941 700,943 700,894 694,847 657,845 663,898 667,941" rendition="Line" xml:id="facs__eSc_line_d7dad172" subtype="default"/>
-            <zone points="770,836 770,873 840,871 840,834 836,771 793,758 791,758 789,758 787,758 766,764 770,836" rendition="Line" xml:id="facs__eSc_line_ea8eab5b" subtype="default"/>
             <zone points="887,826 887,838 1680,849 1682,849 1768,838 1770,838 1828,847 1830,847 1832,847 1859,838 1917,847 1919,847 1966,838 2007,847 2009,847 2011,847 2071,838 2110,847 2112,847 2114,849 2472,849 2472,847 2474,847 2493,836 2493,822 2489,785 1729,775 1727,775 1725,775 1707,781 1682,787 1653,779 1637,777 1635,777 1633,777 1624,779 1600,789 1388,789 1361,779 1355,777 1353,777 1351,777 1349,777 1346,779 1330,787 1202,777 1182,777 1180,777 1178,777 1176,777 1159,787 1135,777 1134,777 1132,777 885,777 887,826" rendition="Line" xml:id="facs__eSc_line_522ff3fe" subtype="default"/>
             <zone points="916,933 916,948 1268,958 1270,958 1433,948 1472,946 1563,946 1567,948 1577,956 1579,956 1581,956 1583,956 1657,948 1674,946 1711,946 1910,956 1912,956 1997,946 2024,945 2050,946 2124,954 2126,954 2491,945 2491,927 2487,894 2256,894 2252,892 2231,880 2229,880 2227,880 2225,880 2188,892 2184,894 1960,896 1902,896 1896,890 1886,882 1884,882 1882,882 1880,882 1879,882 1849,890 1832,894 1807,890 1764,882 1762,882 1760,882 1742,890 1735,892 1676,888 1563,882 1561,882 1560,882 1558,882 1550,888 1540,894 1532,888 1523,882 1521,882 1519,882 1517,882 1410,884 1408,884 1394,888 1363,896 914,886 916,933" rendition="Line" xml:id="facs__eSc_line_97c06e61" subtype="default"/>
             <zone points="892,1036 892,1057 2408,1055 2410,1042 2408,1007 2180,993 2178,993 2098,1005 2091,1005 2085,1005 1995,993 1993,993 1991,993 1989,993 1976,1005 1974,1007 1929,1007 1927,1005 1900,991 1898,991 1828,991 1826,991 1824,991 1822,991 1805,1003 1723,993 1721,993 1532,1003 1513,1003 1509,1003 1466,991 1464,991 1462,991 1206,1001 1198,1001 1182,989 1180,989 1178,989 1176,989 1044,1001 1036,1001 1034,1001 1019,989 1017,989 1015,989 1013,989 1011,989 968,1001 966,1001 962,1001 931,989 929,989 927,989 925,989 892,999 892,1036" rendition="Line" xml:id="facs__eSc_line_57602f76" subtype="default"/>
@@ -55,41 +92,125 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_dfc1f23f">C</l>
-               <l facs="#facs__eSc_line_981f5039">the lizabethans. Ee tunrs avay from the present. Re does</l>
-               <l facs="#facs__eSc_line_a77bd9c6">not hear Anon singing at the back door, he ignores the</l>
-               <l facs="#facs__eSc_line_3aff5200">actors who were actins their cr ude dramas in the market</l>
+              <p>
+               <l facs="#facs__eSc_line_981f5039">the Elizabethans. He 
+            <choice>
+              <sic>tunrs</sic>
+              <corr>turns</corr>
+            </choice> away from the present. He does</l>
+               <l facs="#facs__eSc_line_a77bd9c6">not hear <rs xml:id="psn-anon">Anon</rs> singing at the back door; he ignores the</l>
+               <l facs="#facs__eSc_line_3aff5200">actors who were acting their crude dramas in the market</l>
                <l facs="#facs__eSc_line_d9eb0e68">place. Upstairs he says in the great room</l>
-               <l facs="#facs__eSc_line_9820e1f2"/>
-               <l facs="#facs__eSc_line_8aa43003"/>
-               <l facs="#facs__eSc_line_38a01f72">our ancient ladies of th court" are to be found reading</l>
-               <l facs="#facs__eSc_line_7ef9ffc5"/>
-               <l facs="#facs__eSc_line_d7dad172"/>
-               <l facs="#facs__eSc_line_ea8eab5b"/>
-               <l facs="#facs__eSc_line_522ff3fe">histoires and chornicles, the Gecks and the -atins as they</l>
-               <l facs="#facs__eSc_line_97c06e61">sit at their needlworkk. And the scholars were readong the</l>
-               <l facs="#facs__eSc_line_57602f76">clasics that "ere chained to the shelves in the colege</l>
-               <l facs="#facs__eSc_line_1c5fcc1e">1ibraries. Yet in spite of the printed book,</l>
-               <l facs="#facs__eSc_line_d52f0a01">the comon people Were still at teeir lewd pracises.</l>
-               <l facs="#facs__eSc_line_e8843a59">The preacher, going his round on horseback, from</l>
-               <l facs="#facs__eSc_line_8b4d8434">village to village found them at it and and raised his voice</l>
-               <l facs="#facs__eSc_line_9fea1038">1n anger. Latimer, "riding on a journey homewar from London' ~</l>
-               <l facs="#facs__eSc_line_a8676f34">iX about i549 went to the Church to preach and found the</l>
-               <l facs="#facs__eSc_line_1155a41d">door fast locked against him. Ne vaited; and t at last</l>
-               <l facs="#facs__eSc_line_8e1772be">h. here sheaae Raq h sldre</l>
-               <l facs="#facs__eSc_line_6c7a982d">H9ne of the parish came to me and said: Sir this is a</l>
-               <l facs="#facs__eSc_line_d5551c12">busy day vith us, we cannot hear you, it is Robin hoods</l>
-               <l facs="#facs__eSc_line_46dc2959">day. The parish are gone abroad to gather for Robin Rodd.</l>
-               <l facs="#facs__eSc_line_5b3928e6">I vas fain there to give place to Robin Rood. I thought my</l>
-               <l facs="#facs__eSc_line_4598c969">Roc. jet vould have been regarded, though I were not: but it</l>
-               <l facs="#facs__eSc_line_bd43f1c6">would not serve, it mas fain to give place to Rbin hoods men.</l>
-               <l facs="#facs__eSc_line_9b57d12c">1t is no laughing matter, my freinds, it is a veeping matter,</l>
-               <l facs="#facs__eSc_line_baef91b5">a heavy matter, a heavy matter, , unler the pretence for</l>
-               <l facs="#facs__eSc_line_679628a2">gathe ing for Robin Nood, a Traotor, and a Theif, to put out</l>
+               <l facs="#facs__eSc_line_38a01f72"><quote source="#" rend="inline">our ancient ladies of 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> court</quote> are to be found reading</l>
+               <l facs="#facs__eSc_line_522ff3fe"><choice>
+              <sic>histoires</sic>
+              <corr>histories</corr>
+            </choice> and <choice>
+              <sic>chornicles</sic>
+              <corr>chronicles</corr>
+            </choice>, the 
+            <choice>
+              <sic>Geeks and the atins</sic>
+              <corr>Greeks and the Latins</corr>
+            </choice> as they</l>
+               <l facs="#facs__eSc_line_97c06e61">sat at their 
+            <choice>
+              <sic>needlwork</sic>
+              <corr>needlework</corr>
+            </choice>. And the scholars were 
+            <choice>
+              <sic>readong</sic>
+              <corr>reading</corr>
+            </choice> the</l>
+               <l facs="#facs__eSc_line_57602f76"><choice>
+              <sic>clasics</sic>
+              <corr>classics</corr>
+            </choice> that were chained to the shelves in 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> <choice>
+              <sic>co  ege</sic>
+              <corr>college</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_1c5fcc1e">libraries. Yet in spite of the printed book,</l>
+               <l facs="#facs__eSc_line_d52f0a01">the common people were still at 
+            <choice>
+              <sic>tgeir</sic>
+              <corr>their</corr>
+            </choice> lewd 
+            <choice>
+              <sic>pracises</sic>
+              <corr>practices</corr>
+            </choice>.</l>
+            </p>
+            <p>
+              <add>
+               <l facs="#facs__eSc_line_8aa43003">not <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs></l>    
+               <l facs="#facs__eSc_line_7ef9ffc5">not</l>
+               <l facs="#facs__eSc_line_d7dad172"><rs type="person" xml:id="psn-wlan" key="Langland, William">Langland</rs></l>
+              </add>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_e8843a59">The preacher, going on his round on horseback, from</l>
+               <l facs="#facs__eSc_line_8b4d8434">village to village found them at it and raised his voice</l>
+               <l facs="#facs__eSc_line_9fea1038">in anger. <rs type="person" xml:id="psn-hlat" key="Latimer, Hugh">Latimer</rs> <quote source="#" rend="inline">"riding on a journey 
+            <choice>
+              <sic>homewar</sic>
+              <corr>homeward</corr>
+            </choice> from London"</quote> <add hand="ms" place="margin">[London? Latimer?]</add></l>
+               <l facs="#facs__eSc_line_a8676f34"><del>in</del> about 1549 went to the Church to preach and found the</l>
+               <l facs="#facs__eSc_line_8e1772be"><add hand="ms" place="above">For more than half an hour</add></l>
+               <l facs="#facs__eSc_line_1155a41d">door locked fast against him. He waited; and t at last</l>
+              <quote source="#">
+               <l facs="#facs__eSc_line_6c7a982d">one of the parish came to me and said: Sir this is a</l>
+               <l facs="#facs__eSc_line_d5551c12">busy day with us, we cannot hear you, it is <rs type="person" xml:id="psn-rhoo" key="Robin Hood">Robin hoods</rs></l>
+               <l facs="#facs__eSc_line_46dc2959">day. The parish are gone abroad to gather for 
+              <choice>
+                <sic>Robin Hodd</sic>
+                <corr>Robin Hood</corr>
+              </choice>.</l>
+               <l facs="#facs__eSc_line_5b3928e6">I was fain there to give place to Robin Hood. I thought my</l>
+               <l facs="#facs__eSc_line_4598c969"><choice>
+                <sic>Rocjet</sic>
+                <corr>[Pocket?]</corr>
+              </choice> would have been regarded, though I were not: but it</l>
+               <l facs="#facs__eSc_line_bd43f1c6">would not serve, it was fain to give place to 
+              <choice>
+                <sic>Rbin hoods</sic>
+                <corr>Robin Hood's</corr>
+              </choice> men.</l>
+               <l facs="#facs__eSc_line_9b57d12c">It is no laughing matter, my 
+              <choice>
+                <sic>freinds</sic>
+                <corr>friends</corr>
+              </choice>, it is a weeping matter,</l>
+               <l facs="#facs__eSc_line_baef91b5">a heavy matter, a heavy matter, under the pretence for</l>
+               <l facs="#facs__eSc_line_679628a2">gathering for Robin Hood, a 
+              <choice>
+                <sic>Traoter</sic>
+                <corr>Traitor</corr>
+              </choice>, and a 
+              <choice>
+                <sic>Theif</sic>
+                <corr>Thief</corr>
+              </choice>, to put out</l>
                <l facs="#facs__eSc_line_cbdcd2e6">a preacher.... "</l>
-               <l facs="#facs__eSc_line_ac9859f6">Latimer made. war against the minstrels and the</l>
-               <l facs="#facs__eSc_line_e2b93316">mumners. It Was his volce that riddled the old superstitons</l>
-               <l facs="#facs__eSc_line_0c9c17ee">With scorn. For he mas no antiquary. Ne did not dig in his</l>
+              </quote>
+          </p>
+          <p>
+               <l facs="#facs__eSc_line_ac9859f6">Latimer made war against the minstrels and the</l>
+               <l facs="#facs__eSc_line_e2b93316">mummers. It was his voice that riddled the old 
+            <choice>
+              <sic>superstitons</sic>
+              <corr>superstitions</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_0c9c17ee">with scorn. For he was no antiquary. He did not dig in his</l>
+            </p>
             </ab></div>
       </body>
    </text>

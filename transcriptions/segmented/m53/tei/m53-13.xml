@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 7r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-13.tif" width="2768px" height="3500px"/>
@@ -51,37 +91,115 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_230bc2bd">The grest Elizabetha house is still in existence,</l>
-               <l facs="#facs__eSc_line_4391a27a">standing in its green island of parlk, separated often from</l>
+              <p>
+               <l facs="#facs__eSc_line_230bc2bd">The great 
+            <choice>
+              <sic>Elizabetha</sic>
+              <corr>Elizabethan</corr>
+            </choice> house is still in existence,</l>
+               <l facs="#facs__eSc_line_4391a27a">standing in its green island of park, separated often from</l>
                <l facs="#facs__eSc_line_50a40d79">the high road only by a dip in the ground and a low red</l>
-               <l facs="#facs__eSc_line_08cbe230">mall. Il is out of proportion now; either it is too</l>
-               <l facs="#facs__eSc_line_b46930aa">large, or the village "ith its eighteenth nineteenth twentieh -</l>
-               <l facs="#facs__eSc_line_a868833a">century shops and villas is too small. With its congoler</l>
-               <l facs="#facs__eSc_line_a82c06e1">artion o roofs chapels, chimenys it dwarfs its neighoours.-</l>
-               <l facs="#facs__eSc_line_a375f0b6">Lnside all is kept as if the Queen, 8lizabeth, were</l>
-               <l facs="#facs__eSc_line_4dd728b8">expected. The rammsx~ upright Nlizabthan chairs stand round</l>
-               <l facs="#facs__eSc_line_27b53cce">th valls. Teir frimges and their tapestry are not much</l>
-               <l facs="#facs__eSc_line_858e4f62">faded. The great oalk tables are polished and heavy.</l>
-               <l facs="#facs__eSc_line_fd2deee8">The carved chests and cupbaords look brand new. .</l>
-               <l facs="#facs__eSc_line_d02458ec">The floor is ste vn with rugs; the windows curtained</l>
-               <l facs="#facs__eSc_line_473c0502">9ith red and green brocades; and cut glass chandeliers</l>
-               <l facs="#facs__eSc_line_e952e9bd">hane down from the mmkhingxx the decorated plaster vork of ta</l>
-               <l facs="#facs__eSc_line_46024948">ceiling. Rven the t ys and kickenacks have survived inate.</l>
+               <l facs="#facs__eSc_line_08cbe230">wall. I<add hand="ms" place="inline">t</add> is out of proportion now; either it is too</l>
+               <l facs="#facs__eSc_line_b46930aa">large, or the village with its eighteenth nineteenth 
+            <choice>
+              <sic>twentieh</sic>
+              <corr>twentieth</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_a868833a">century shops and villas is too small. With its 
+            <choice>
+              <sic>congoler</sic>
+              <corr>conglomeration</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_a82c06e1"><choice>
+              <sic>artion</sic>
+              <corr>conglomeration</corr>
+            </choice> 
+            <choice>
+              <sic>o</sic>
+              <corr>of</corr>
+            </choice> roofs chapels 
+            <choice>
+              <sic>chimenys</sic>
+              <corr>chimneys</corr>
+            </choice> it dwarfs its neighbours.</l>
+               <l facs="#facs__eSc_line_a375f0b6">Inside all is kept as if <rs type="person" xml:id="psn-eliz" key="Elizabeth I">the Queen, Elizabeth</rs>, were</l>
+               <l facs="#facs__eSc_line_4dd728b8">expected. The <del>rooms</del> upright 
+            <choice>
+              <sic>Elizabthan</sic>
+              <corr>Elizabethan</corr>
+            </choice> chairs stand round</l>
+               <l facs="#facs__eSc_line_27b53cce"><choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> walls. Their 
+            <choice>
+              <sic>frimges</sic>
+              <corr>fringes</corr>
+            </choice> and their tapestry are not much</l>
+               <l facs="#facs__eSc_line_858e4f62">faded. The great oak tables are polished and heavy.</l>
+               <l facs="#facs__eSc_line_fd2deee8">The carved chests and 
+            <choice>
+              <sic>cupbaords</sic>
+              <corr>cupboards</corr>
+            </choice> look brand new.</l>
+               <l facs="#facs__eSc_line_d02458ec">The floor is 
+            <choice>
+              <sic>ste wn</sic>
+              <corr>strewn</corr>
+            </choice> with rugs; the windows curtained</l>
+               <l facs="#facs__eSc_line_473c0502">with red and green brocades; and cut glass chandeliers</l>
+               <l facs="#facs__eSc_line_e952e9bd">hang down from 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice> <del>ceiling</del> the decorated plaster work of 
+            <choice>
+              <sic>th</sic>
+              <corr>the</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_46024948">ceiling. Even the 
+            <choice>
+              <sic>t ys</sic>
+              <corr>toys</corr>
+            </choice> and <choice>
+              <sic>kicknacks</sic>
+              <corr>knicknacks</corr>
+            </choice> have survived <del hand="ms">inate</del></l>
                <l facs="#facs__eSc_line_44f7b531">intact; and there is the varnished pear shaped lute</l>
-               <l facs="#facs__eSc_line_3599a94b">upon vhich the Queen once played.</l>
-               <l facs="#facs__eSc_line_54d92e55">Bu t where are the Elizabthans themselves? Ruman</l>
-               <l facs="#facs__eSc_line_b1188d5f">14f7 has recded from this convoluted iridescent shell.</l>
-               <l facs="#facs__eSc_line_2215b896">upon uhich the sun of i040 shines so brightly. he histurians</l>
-               <l facs="#facs__eSc_line_cfb60aab">have ransacked)their archives; their old chests; their</l>
-               <l facs="#facs__eSc_line_002afe2c">Writine table drawers, their muniment rooms. They have</l>
-               <l facs="#facs__eSc_line_ea282906">disnterred from the fifteenth century the ?astons of orfolk;</l>
-               <l facs="#facs__eSc_line_29766a24">h </l>
-               <l facs="#facs__eSc_line_100e8cb6">the Detsons and the 'aycockes of ssex. They have t~~~a</l>
-               <l facs="#facs__eSc_line_aeb83f36">roved that they fought; and baretred; and loved; for- they</l>
-               <l facs="#facs__eSc_line_911cc53b"> ~~.</l>
-               <l facs="#facs__eSc_line_eeda7545">begot chi ldren. But it is a rudimentary life immured in</l>
-               <l facs="#facs__eSc_line_d046c2b9">8ilence. The shell is polished; something moves and st</l>
-               <l facs="#facs__eSc_line_d9343aa6">8tirs inside the polished shell. But it the story of the</l>
+               <l facs="#facs__eSc_line_3599a94b">upon which the Queen once played.</l>
+            </p>
+               <l facs="#facs__eSc_line_54d92e55">But where are the 
+            <choice>
+              <sic>Elizabthans</sic>
+              <corr>Elizabethans</corr>
+            </choice> themselves? Human</l>
+               <l facs="#facs__eSc_line_b1188d5f">lif<add hand="ms" place="inline">e</add> has receded from this convoluted iridescent shell.</l>
+               <l facs="#facs__eSc_line_2215b896"><del hand="ms">upon which the sun of 1940 shines so brightly. The 
+            <choice>
+              <sic>histprians</sic>
+              <corr>historians</corr>
+            </choice></del></l>
+               <l facs="#facs__eSc_line_cfb60aab">have ransacked their archives; their old chests; their</l>
+               <l facs="#facs__eSc_line_002afe2c">writing table drawers, their muniment rooms. They have</l>
+               <l facs="#facs__eSc_line_29766a24"><add hand="ms" place="above">their faded pages</add></l>
+               <l facs="#facs__eSc_line_ea282906"><choice>
+              <sic>disnterred</sic>
+              <corr>disinterred</corr>
+            </choice> from the fifteenth century the <rs type="person" xml:id="lit-past" key="Pastons">Pastons</rs> of <rs type="place" xml:id="pla-norf" key="Norfolk">Norfolk</rs></l>
+               <l facs="#facs__eSc_line_100e8cb6">and the <rs xml:id="psn-tbet">Betsons</rs> and <rs type="person" xml:id="psn-payc" key="Paycockes">Paycockes</rs> of <rs type="place" xml:id="pla-esse" key="Essex">Essex</rs>. They have <add hand="ms" place="inline">[illeg.]</add></l>
+               <l facs="#facs__eSc_line_911cc53b"><add>[illeg.]</add></l>
+               <l facs="#facs__eSc_line_aeb83f36">proved that they fought; and 
+            <choice>
+              <sic>baretred</sic>
+              <corr>betrayed</corr>
+            </choice>; and loved; for they</l>
+               <l facs="#facs__eSc_line_eeda7545">begot 
+            <choice>
+              <sic>chi ldren</sic>
+              <corr>children</corr>
+            </choice>. But it is a rudimentary life immured in</l>
+               <l facs="#facs__eSc_line_d046c2b9">silence. <del hand="ms">The shell is polished</del>; something moves and st</l>
+               <l facs="#facs__eSc_line_d9343aa6">stirs inside the polished shell. But it the story of the</l>
             </ab></div>
       </body>
    </text>

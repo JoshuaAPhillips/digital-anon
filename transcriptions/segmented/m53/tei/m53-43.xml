@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 22r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-43.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="888,161 888,176 964,171 964,157 960,118 908,110 906,110 904,110 885,118 888,161" rendition="Line" xml:id="facs__eSc_line_45c2f826" subtype="default"/>
             <zone points="2468,239 2448,239 2429,239 2410,239 2390,239 2371,237 2351,237 2332,237 2312,237 2293,237 2273,237 2254,235 2235,235 2215,235 2196,235 2176,235 2157,235 2137,233 2118,233 2098,233 2079,233 2059,233 2040,233 2021,233 914,233 914,268 912,281 980,293 982,293 1334,287 1435,285 1462,287 1526,295 1528,295 1738,291 1902,287 1935,293 1962,297 1964,299 2482,299 2484,274 2482,239 2468,239" rendition="Line" xml:id="facs__eSc_line_a75ed7dd" subtype="default"/>
             <zone points="892,377 890,398 2398,404 2402,385 2402,346 892,340 892,377" rendition="Line" xml:id="facs__eSc_line_e12cda5f" subtype="default"/>
             <zone points="888,486 887,505 2429,509 2433,490 2429,449 1820,455 1807,445 1805,445 1803,445 1801,445 1799,445 1797,445 1781,456 1661,456 1626,443 1622,443 1620,443 1618,443 1616,443 1612,443 1587,453 1423,443 1412,443 1410,443 1408,443 1367,453 1297,443 1295,443 1293,443 1291,443 1206,453 1135,443 1134,443 1132,443 1130,443 1114,455 1023,455 993,443 992,443 990,443 988,443 955,453 888,441 888,486" rendition="Line" xml:id="facs__eSc_line_97c5c340" subtype="default"/>
@@ -48,34 +87,84 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_45c2f826">22</l>
-               <l facs="#facs__eSc_line_a75ed7dd">lhe ut st stretch of vords can scarely give body to this</l>
+               <l facs="#facs__eSc_line_a75ed7dd">The 
+            <choice>
+              <sic>ut  st</sic>
+              <corr>utmost</corr>
+            </choice> stretch of words can 
+            <choice>
+              <sic>scarely</sic>
+              <corr>scarcely</corr>
+            </choice> give body to this</l>
                <l facs="#facs__eSc_line_e12cda5f">vas t universe that is slruggling into exixtxaa being.</l>
-               <l facs="#facs__eSc_line_97c5c340">ords mount; pile on top of each other; over balance and</l>
-               <l facs="#facs__eSc_line_10b79f6c">tunble. Great nemes clash their cymbals. If, blown on by this</l>
+               <l facs="#facs__eSc_line_97c5c340">vast universe that is struggling into <del>existence</del> being.</l>
+               <l facs="#facs__eSc_line_10b79f6c">tumble. Great names clash their cymbals. If, blown on by this</l>
                <l facs="#facs__eSc_line_db8ddcb6">pressure, the poet veers aside</l>
-               <l facs="#facs__eSc_line_0d267f0e">S° poets say my lord</l>
-               <l facs="#facs__eSc_line_7ae03def">And ttis a pretty toy to be a poet</l>
+                <quote source="#">
+                 <l facs="#facs__eSc_line_0d267f0e">So poets say my lord</l>
+                 <l facs="#facs__eSc_line_7ae03def">And 'tis a pretty toy to be a poet</l>
+                </quote>
                <l facs="#facs__eSc_line_9e951386">he is urged on. There is no pause, no shade. Armies trample;</l>
-               <l facs="#facs__eSc_line_cddeddcb">norses neigh; Battles are fought. Blood floms. Over all</l>
-               <l facs="#facs__eSc_line_1772db88">the Gods are seated on their thrones. The Goss millexact</l>
-               <l facs="#facs__eSc_line_33db9ee5">tribute. Meanmaile let us boast:</l>
-               <l facs="#facs__eSc_line_f169600a">Qur souls, whose faculties can comprehend</l>
-               <l facs="#facs__eSc_line_d1d4a4bf">The vondrous architecture of the vorld,</l>
-               <l facs="#facs__eSc_line_f80aada2">And measure very wandering p anets course,</l>
-               <l facs="#facs__eSc_line_ede38a69">Still climbing after lknowledge infinite,</l>
-               <l facs="#facs__eSc_line_860ccc8c">And always movine as the restless psheres,</l>
-               <l facs="#facs__eSc_line_192e3126">ill us to wear ourselves, and never rest...</l>
-               <l facs="#facs__eSc_line_3bcfc232">Te su denly the the truimu triumph parts ausnder;</l>
-               <l facs="#facs__eSc_line_11321513">the poet changes is tune</l>
-               <l facs="#facs__eSc_line_22d2a3d5">hat is beauty, saith myr sufferings then?</l>
-               <l facs="#facs__eSc_line_3064aa8e">If all the pens that everpoets held,</l>
-               <l facs="#facs__eSc_line_aa7cf958">Aad fed the feelings of their masters thoughts.....</l>
+               <l facs="#facs__eSc_line_cddeddcb">horses neigh; Battles are fought. Blood flows. Over all</l>
+               <l facs="#facs__eSc_line_1772db88">the Gods are seated on their thrones. The Gods 
+            <choice>
+              <sic>willexact</sic>
+              <corr>will exact</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_33db9ee5">tribute. Meanwhile let us boast:</l>
+              <quote source="#">
+               <l facs="#facs__eSc_line_f169600a">Our souls, whose faculties can comprehend</l>
+               <l facs="#facs__eSc_line_d1d4a4bf">The wondrous architecture of the world,</l>
+               <l facs="#facs__eSc_line_f80aada2">And measure very wandering 
+              <choice>
+                <sic>p anets</sic>
+                <corr>planets</corr>
+              </choice> course,</l>
+               <l facs="#facs__eSc_line_ede38a69">Still climbing after knowledge infinite,</l>
+               <l facs="#facs__eSc_line_860ccc8c">And always moving as the restless 
+              <choice>
+                <sic>psheres</sic>
+                <corr>spheres</corr>
+              </choice>,</l>
+               <l facs="#facs__eSc_line_192e3126">Will us to wear ourselves, and never rest...</l>
+              </quote>
+            
+               <l facs="#facs__eSc_line_3bcfc232">Then 
+            <choice>
+              <sic>su denly</sic>
+              <corr>suddenly</corr>
+            </choice> the 
+            <choice>
+              <sic>truimu triumph</sic>
+              <corr>triumph</corr>
+            </choice> parts 
+            <choice>
+              <sic>ausnder</sic>
+              <corr>asunder</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_11321513">the poet changes 
+            <choice>
+              <sic>is</sic>
+              <corr>his</corr>
+            </choice> tune</l>
+              <quote source="#">
+               <l facs="#facs__eSc_line_22d2a3d5">What is beauty, saith my sufferings then?</l>
+               <l facs="#facs__eSc_line_3064aa8e">If all the pens that 
+              <choice>
+                <sic>everpoets</sic>
+                <corr>ever poets</corr>
+              </choice> held,</l>
+               <l facs="#facs__eSc_line_aa7cf958">Had fed the feelings of their masters thoughts.....</l>
                <l facs="#facs__eSc_line_68fe9d34">If these had made one poems period,</l>
-               <l facs="#facs__eSc_line_87765d53">And all combined in beautys vemmmxas~ vorthiness,</l>
+               <l facs="#facs__eSc_line_87765d53">And all combined in beautys <del>weariness</del> worthiness,</l>
                <l facs="#facs__eSc_line_aaf4a17d">Yet should there hover in their restless heads</l>
-               <l facs="#facs__eSc_line_6f4c335d">Qne thought, one gece, one vonder, at the least,</l>
-               <l facs="#facs__eSc_line_cf634e01">ich into "ords no virtue can digest.</l>
+               <l facs="#facs__eSc_line_6f4c335d">One thought, one 
+              <choice>
+                <sic>gace</sic>
+                <corr>grace</corr>
+              </choice>, one wonder, at the least,</l>
+               <l facs="#facs__eSc_line_cf634e01">Which into words no virtue can digest.</l>
+              </quote>
             </ab></div>
       </body>
    </text>

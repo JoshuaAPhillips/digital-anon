@@ -1,20 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 16r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-31.tif" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="970,136 970,153 1025,157 1027,157 1029,157 1030,157 1042,147 1042,132 1036,89 966,89 970,136" rendition="Line" xml:id="facs__eSc_line_4da06306" subtype="default"/>
             <zone points="2552,231 968,206 968,243 966,258 1062,270 1064,270 1108,262 1116,262 1122,264 1153,274 1155,274 1157,274 1227,266 1246,264 1258,266 1287,276 1289,276 1291,276 1556,274 1715,274 1729,280 1744,285 1746,285 1748,285 1803,281 1840,278 1880,283 1933,289 1935,289 1958,285 1982,280 2559,299 2563,276 2561,239 2552,231" rendition="Line" xml:id="facs__eSc_line_9941a78c" subtype="default"/>
             <zone points="964,353 962,375 2589,404 2592,385 2592,351 964,311 964,353" rendition="Line" xml:id="facs__eSc_line_a4d0ac0a" subtype="default"/>
             <zone points="960,464 958,478 1069,491 1071,491 1141,484 1174,493 1176,493 1178,493 1264,486 1268,486 1272,486 1398,497 1400,497 1466,490 1468,490 1470,490 1499,499 1501,499 1503,499 1548,491 1550,491 1610,501 1612,501 1700,493 1715,493 1740,495 1859,505 2581,511 2585,493 2585,458 2544,447 2542,447 2540,447 2474,456 2472,456 2468,456 2347,445 2345,445 2343,445 2314,453 2299,443 2297,443 2295,443 2293,443 2024,447 1933,447 1916,443 1884,437 1882,437 1822,441 1795,443 1789,441 1779,433 1777,433 1775,433 1774,433 1738,439 1715,443 1610,443 1598,435 1589,429 1587,429 1585,429 1583,429 1491,433 1408,437 1348,429 1309,425 960,421 960,464" rendition="Line" xml:id="facs__eSc_line_aa00f6bb" subtype="default"/>
@@ -51,37 +90,95 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_4da06306">16</l>
-               <l facs="#facs__eSc_line_9941a78c">their omn drab lives. The t ing that the writer has to say</l>
+              <p>
+               <l facs="#facs__eSc_line_9941a78c">their own drab lives. The 
+            <choice>
+              <sic>t ing</sic>
+              <corr>thing</corr>
+            </choice> that the writer has to say</l>
                <l facs="#facs__eSc_line_a4d0ac0a">becomes increasingly cumbered. It is only to be discovered</l>
-               <l facs="#facs__eSc_line_aa00f6bb">in a flash of recongition-- Thus some say that their beards</l>
-               <l facs="#facs__eSc_line_27c202a2">bristle "hen they hxamnxk coke upon it; others that a</l>
+               <l facs="#facs__eSc_line_aa00f6bb">in a flash of <choice>
+            <sic>recogition</sic>
+            <corr>recognition</corr>
+          </choice>-- Thus some say that their beards</l>
+               <l facs="#facs__eSc_line_27c202a2">bristle when they <del>hear it</del> 
+            <choice>
+              <sic>coke</sic>
+              <corr>come</corr>
+            </choice> upon it; others that a</l>
                <l facs="#facs__eSc_line_4e4ff569">thrill runs down the nerves of the thigh. To disengage the</l>
                <l facs="#facs__eSc_line_f76d3729">song from the effect of the audience becomes as time goes on</l>
-               <l facs="#facs__eSc_line_48836414">a tasle for the critic-- that specially equipped taster</l>
-               <l facs="#facs__eSc_line_95c54239">ho Was not yet in existence when the " aery Queen emerged</l>
+               <l facs="#facs__eSc_line_48836414">a task for the critic-- that specially equipped taster</l>
+               <l facs="#facs__eSc_line_95c54239">who was not yet in existence when the 
+            <rs type="literary-work" xml:id="lit-faer" key="Faerie Queene, The"><choice>
+              <sic>aery</sic>
+              <corr>Faery</corr>
+            </choice> Queen</rs> emerged</l>
+               <l facs="#facs__eSc_line_74129d6d"><add>depths</add></l>
                <l facs="#facs__eSc_line_2f5d4f3e">from the deeps of anonymity.</l>
-               <l facs="#facs__eSc_line_74129d6d">depths</l>
-               <l facs="#facs__eSc_line_85d30efc">hose depths, latx those long years of</l>
-               <l facs="#facs__eSc_line_0895d137">anonymous mins trelsy, fode song, legend and words that had</l>
-               <l facs="#facs__eSc_line_cc77c3f3">no name attached to them, lay behind him. Re vas conscious</l>
-               <l facs="#facs__eSc_line_78b58eea">Pheir confusion pressed upon him.</l>
-               <l facs="#facs__eSc_line_04cbe24b">of them. WFor why a Gods name " he exclaimed "</l>
-               <l facs="#facs__eSc_line_7205d8de">"mncay not ve, as else the Grecks, have the lingdom of our</l>
-               <l facs="#facs__eSc_line_66b0a3a8">0Nn language.... " ? He was vord conscious; an artist;</l>
-               <l facs="#facs__eSc_line_193f330c">aare of his mediu; that vords are not paint, nor music;</l>
-               <l facs="#facs__eSc_line_99484dcb">but have their possibilities; their limtations. To be thus</l>
-               <l facs="#facs__eSc_line_a98f9d0b">amare the writ must have a past behind him. To Spenser the</l>
-               <l facs="#facs__eSc_line_271fc64b">golden age was Calucers. "Dan Chaucer, well of English</l>
-               <l facs="#facs__eSc_line_65282248">undefiled..." He trusted that " the infusion sweet</l>
-               <l facs="#facs__eSc_line_83e0dc64">Of thine own xmrkk~ spirit which doth in me survive"</l>
-               <l facs="#facs__eSc_line_90424750">might help him. Ee looks back to ~ahucer; he descneds from</l>
-               <l facs="#facs__eSc_line_0458cfdf">Chaucer. 1t was Chaucer who gave him the standdard by which</l>
-               <l facs="#facs__eSc_line_166ec341">to measure his omn wor s. But where the modern writer</l>
-               <l facs="#facs__eSc_line_00ccc2d7">atta ks the actul work of some one of the generation that</l>
-               <l facs="#facs__eSc_line_57d01d2c">has just gone, maling that book th starting p oint</l>
-               <l facs="#facs__eSc_line_2daebbe7">in another direction, Spensers revolt vas against no</l>
-               <l facs="#facs__eSc_line_0897947e">per ticualr vriter-- who vas there writing English except</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_85d30efc">Those depths, <del>that</del> those long years of</l>
+               <l facs="#facs__eSc_line_0895d137">anonymous <choice>
+            <sic>minstrelsy</sic>
+            <corr>minstrelry</corr>
+          </choice>, 
+            <choice>
+              <sic>fo  </sic>
+              <corr>folk</corr>
+            </choice>, legend and words that had</l>
+               <l facs="#facs__eSc_line_78b58eea"><add>Their confusion pressed upon him.</add></l>
+               <l facs="#facs__eSc_line_cc77c3f3">no name attached to them, lay behind him. He was conscious</l>
+               <l facs="#facs__eSc_line_04cbe24b">of them. <quote source="#" rend="inline">"For why a Gods name "</quote> he exclaimed "</l>
+               <l facs="#facs__eSc_line_7205d8de"><quote source="#" rend="inline">may not we, as else the Greeks, have the kingdom of our</quote></l>
+               <l facs="#facs__eSc_line_66b0a3a8"><quote source="#" rend="inline">own language...." ?</quote> He was word conscious; an artist;</l>
+               <l facs="#facs__eSc_line_193f330c">aware of his medium; that words are not paint, nor music;</l>
+               <l facs="#facs__eSc_line_99484dcb">but have their possibilities; their limitations. To be thus</l>
+               <l facs="#facs__eSc_line_a98f9d0b">aware the 
+            <choice>
+              <sic>writ</sic>
+              <corr>writer</corr>
+            </choice> must have a past behind him. To Spenser the</l>
+               <l facs="#facs__eSc_line_271fc64b">golden age was 
+            <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey"><choice>
+              <sic>Cahucers</sic>
+              <corr>Chaucer's</corr>
+            </choice></rs>. <quote source="#" rend="inline">"Dan Chaucer, well of English</quote></l>
+               <l facs="#facs__eSc_line_65282248"><quote source="#" rend="inline">undefiled..."</quote> He trusted that <quote source="#" rend="inline">the infusion sweet</quote></l>
+               <l facs="#facs__eSc_line_83e0dc64"><quote source="#" rend="inline">Of thine own <del>sprit</del> spirit which doth in me survive"</quote></l>
+               <l facs="#facs__eSc_line_90424750">might help him. He looks back to 
+            <choice>
+              <sic>Cahucer</sic>
+              <corr>Chaucer</corr>
+            </choice>; he 
+            <choice>
+              <sic>descneds</sic>
+              <corr>descends</corr>
+            </choice> from</l>
+               <l facs="#facs__eSc_line_0458cfdf">Chaucer. It was Chaucer who gave him the <choice>
+              <sic>standdard</sic>
+              <corr>standard</corr>
+            </choice> by which</l>
+               <l facs="#facs__eSc_line_166ec341">to measure his own 
+            <choice>
+              <sic>wor s</sic>
+              <corr>works</corr>
+            </choice>. But where the modern writer</l>
+               <l facs="#facs__eSc_line_00ccc2d7">attacks the 
+            <choice>
+              <sic>actul</sic>
+              <corr>actual</corr>
+            </choice> work of some of the generation that</l>
+               <l facs="#facs__eSc_line_57d01d2c">has just gone, making that book the starting <choice>
+            <sic>p oint</sic>
+            <corr>point</corr>
+          </choice></l>
+               <l facs="#facs__eSc_line_2daebbe7">in another direction, Spensers revolt was against no</l>
+               <l facs="#facs__eSc_line_0897947e"><choice>
+              <sic>particular</sic>
+              <corr>particular</corr>
+            </choice> writer-- who was there writing English except</l>
+              </p>
             </ab></div>
       </body>
    </text>

@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m53</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M53. Anon. Typescript fragment, unsigned, dated Nov. 24, 1940. With the author's ms corrections. 26p. Paginated 1-25. Two pages paginated 22.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
          <graphic url="m53-3.tif" width="2768px" height="3500px"/>
@@ -40,26 +80,42 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_48ba122b">the common volce, singine out of doors. Re has no house.</l>
-               <l facs="#facs__eSc_line_258ce4f3">Ee has a uick eye. connected, for the eye is a youthful</l>
-               <l facs="#facs__eSc_line_c23170dc">sense, with the body, vith colour, mith substance, rather</l>
-               <l facs="#facs__eSc_line_ce68bb66">than with the mind. He lives a romaning life, goine from</l>
+              <p>
+               <l facs="#facs__eSc_line_48ba122b">the common voice, singing out of doors. He has no house.</l>
+               <l facs="#facs__eSc_line_258ce4f3">He has a quick eye. connected, for the eye is a youthful</l>
+               <l facs="#facs__eSc_line_c23170dc">sense, with the body, with colour, with substance, rather</l>
+               <l facs="#facs__eSc_line_ce68bb66">than with the mind. He lives a 
+            <choice>
+              <sic>romaning</sic>
+              <corr>roaming</corr>
+            </choice> life, going from</l>
                <l facs="#facs__eSc_line_8005b0df">house to house, stopping oftener at the back door than at</l>
-               <l facs="#facs__eSc_line_d1c0005c">the front. He crl̂sses the fields, mounts the hills, and</l>
-               <l facs="#facs__eSc_line_bef32017">1ies down on the grassy roa by the hawthorn to listen to</l>
+               <l facs="#facs__eSc_line_d1c0005c">the front. He crosses the fields, mounts the hills, and</l>
+               <l facs="#facs__eSc_line_bef32017">lies down on the grassy 
+            <choice>
+              <sic>roa </sic>
+              <corr>road</corr>
+            </choice> by the hawthorn to listen to</l>
                <l facs="#facs__eSc_line_3caa07a2">the nightingale.</l>
-               <l facs="#facs__eSc_line_b294bbfa">By choosing a vuem carefully to shut out a chimmey or a</l>
-               <l facs="#facs__eSc_line_831e494e">bungalow we can still see what Anon saw-- the bird haunted</l>
-               <l facs="#facs__eSc_line_2a7af864">reed whisperine fen; the dovn covered with turf, and the</l>
-               <l facs="#facs__eSc_line_f36dd008">scar long healed over the moor, over the domn, along which</l>
-               <l facs="#facs__eSc_line_f90c80f9">Anon came when he made his journeys. He vas</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_b294bbfa">By choosing a 
+            <choice>
+              <sic>vuew</sic>
+              <corr>view</corr>
+            </choice> carefully to shut out a chimney or a</l>
+               <l facs="#facs__eSc_line_831e494e">bungalow we can still see what <rs type="person" xml:id="psn-anon">Anon</rs> saw-- the bird haunted</l>
+               <l facs="#facs__eSc_line_2a7af864">reed whispering fen; the down covered with turf, and the</l>
+               <l facs="#facs__eSc_line_f36dd008">scar long healed over the moor, over the down, along which</l>
+               <l facs="#facs__eSc_line_f90c80f9"><rs type="person" xml:id="psn-anon">Anon</rs> came when he made his journeys. He was</l>
                <l facs="#facs__eSc_line_8452878d">for the most part a simple singer, lifting a song or a story</l>
+               <l facs="#facs__eSc_line_8387e8fa"><add hand="ms" place="above">audience</add></l>
                <l facs="#facs__eSc_line_8b221c31">from other peoples lips, and letting the country people</l>
-               <l facs="#facs__eSc_line_8387e8fa">Qw-ltuuce</l>
-               <l facs="#facs__eSc_line_24ddecf0">d04n in the chorus. But nou and againqhammaxmmmntmt~</l>
-               <l facs="#facs__eSc_line_0b43701a">he mede a feu linesthat exactly corresponded to his emotion.</l>
-               <l facs="#facs__eSc_line_761b37dc">Lmresi</l>
-               <l facs="#facs__eSc_line_72e84477">Re mas an artist.</l>
+               <l facs="#facs__eSc_line_24ddecf0">join in the chorus. But now and again <add hand="ms" place="inline"></add><del>he was an artist</del></l>
+               <l facs="#facs__eSc_line_761b37dc"><add place="above" hand="ms">himself</add></l>
+               <l facs="#facs__eSc_line_0b43701a">he made a few lines that exactly corresponded to his emotion.</l>
+               <l facs="#facs__eSc_line_72e84477">He was an artist.</l>
+              </p>
             </ab></div>
       </body>
    </text>
