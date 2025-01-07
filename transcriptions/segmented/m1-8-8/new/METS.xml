@@ -1,7 +1,7 @@
 <mets xmlns="http://www.loc.gov/METS/" xmlns:xlink="http://www.w3.org/1999/xlink">
   <fileSec>
     
-    <fileGrp USE="export">
+    <fileGrp USE="export" ID="PAGEXML">
       
         <file ID="export1">
           <FLocat xlink:href="m1-8-8-1.xml"/>
