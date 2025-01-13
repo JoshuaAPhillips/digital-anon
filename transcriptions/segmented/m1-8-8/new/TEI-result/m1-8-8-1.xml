@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8, 8 of 10. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-8</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8-8. The Reader. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], p. 31. 1p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2721" lry="3500" xml:id="facs_">
          <graphic url="m1-8-8-1.jpg" width="2721px" height="3500px"/>
@@ -22,22 +62,32 @@
             <zone points="861,678 861,698 904,715 906,715 908,715 910,715 912,715 937,694 1007,711 1009,711 1011,711 1013,711 1079,694 1131,701 1133,701 1135,701 1137,701 1170,676 1172,674 1209,672 1209,651 1205,624 1149,628 1141,624 1116,608 1114,608 1112,608 1110,608 1077,610 1075,610 1073,610 1054,624 1048,630 1038,624 1019,616 1017,616 1015,616 1013,616 1011,616 1011,618 1009,618 1003,626 993,637 929,645 908,628 908,626 906,626 904,626 902,626 855,626 861,678" rendition="Line" xml:id="facs__eSc_line_27d54f17" subtype="default"/>
             <zone points="896,770 898,799 1013,777 1060,787 1069,787 1071,787 1108,783 1244,762 1258,770 1260,771 1262,771 1264,771 1266,771 1328,764 1394,756 1410,758 1441,762 1443,762 1445,762 1447,762 1447,760 1448,760 1452,754 1454,750 1478,752 1532,756 1534,756 1909,715 1909,686 1908,663 1853,647 1851,647 1849,647 1740,672 1732,676 1620,682 1616,680 1604,672 1602,672 1600,672 1598,672 1596,672 1569,682 1559,686 1552,684 1536,678 1534,678 1532,678 1530,678 1511,686 1499,692 1130,713 1120,707 1104,698 1102,698 1100,698 1098,698 890,719 896,770" rendition="Line" xml:id="facs__eSc_line_9667249b" subtype="default"/>
             <zone points="820,847 822,878 859,878 865,878 927,898 929,898 931,898 986,894 988,894 989,894 1024,873 1034,867 1050,871 1098,886 1100,886 1102,886 1104,886 1182,865 1200,861 1209,865 1240,876 1242,876 1244,876 1246,876 1307,859 1312,859 1316,859 1367,869 1369,869 1371,869 1412,855 1460,840 1499,851 1507,853 1509,853 1511,853 1513,853 1515,853 1517,851 1544,832 1624,836 1625,836 1742,818 1783,838 1787,840 1789,840 1791,840 1911,832 1908,770 1902,740 1845,746 1837,744 1801,731 1799,731 1797,731 1795,731 1793,731 1793,733 1777,746 1738,735 1736,735 1734,735 1732,735 1731,735 1703,754 1696,760 1534,770 1499,770 1499,768 1482,754 1482,752 1480,752 1478,752 1476,752 1474,752 1472,752 1472,754 1454,771 1452,775 1392,779 1384,777 1349,762 1347,762 1345,762 1343,762 1293,773 1248,768 1246,768 1244,768 1178,791 1172,793 1168,793 1104,777 1102,777 1100,777 1060,801 1058,801 1056,801 995,785 993,785 991,785 989,785 988,785 988,787 966,805 956,799 954,799 953,799 951,799 949,799 916,808 881,793 879,793 877,793 875,793 816,814 820,847" rendition="Line" xml:id="facs__eSc_line_46d34005" subtype="default"/>
-            <zone points="2201,2963 2203,2986 2246,2996 2248,2996 2250,2996 2279,2980 2277,2953 2269,2926 2197,2936 2201,2963" rendition="Line" xml:id="facs__eSc_line_98712234" subtype="default"/>
          </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_0e6b565f">The sstrore lu</l>
-               <l facs="#facs__eSc_line_8847a122">Te Rende</l>
-               <l facs="#facs__eSc_line_6e3125aa">que trti</l>
-               <l facs="#facs__eSc_line_7c8eab0e">That is hulaine tue teader e pois</l>
-               <l facs="#facs__eSc_line_626e63a9">That es luzuly lulane le render is nons</l>
-               <l facs="#facs__eSc_line_27d54f17">Me reader</l>
-               <l facs="#facs__eSc_line_9667249b">Md'here nen cone epon ne Jds</l>
-               <l facs="#facs__eSc_line_46d34005">Ma tre duc la M clreu ci, to dun</l>
-               <l facs="#facs__eSc_line_98712234">NAAR</l>
+               <p>
+                  <l facs="#facs__eSc_line_0e6b565f">The <del>influence of the</del></l>
+               </p>
+               <p>
+                  <l facs="#facs__eSc_line_8847a122">The Reader</l>
+               </p>
+               <p>
+                  <l facs="#facs__eSc_line_6e3125aa">You will comp</l>
+               </p>
+               <p>
+                  <l facs="#facs__eSc_line_7c8eab0e">That is because the reader is now</l>
+                  <l facs="#facs__eSc_line_626e63a9">That is uniquely <del>because the reader is now</del></l>
+               </p>
+               <p>
+                  <l facs="#facs__eSc_line_27d54f17"><del>The reader</del></l>
+               </p>
+               <p>
+                  <l facs="#facs__eSc_line_9667249b">And <del>here we come upon one of the</del></l>
+                  <l facs="#facs__eSc_line_46d34005"><del>It is the due to the absence, today,</del></l>
+               </p>
             </ab></div>
       </body>
    </text>
