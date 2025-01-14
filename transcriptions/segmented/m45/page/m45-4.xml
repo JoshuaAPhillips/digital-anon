@@ -2,19 +2,9 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2024-05-13T16:51:21.015684+00:00</Created>
-        <LastChange>2024-05-14T09:39:34.465707+00:00</LastChange>
+	<Created>2024-12-17T22:12:38.162927+00:00</Created>
+        <LastChange>2025-01-07T14:26:35.747348+00:00</LastChange>
   </Metadata>
-  <Page imageFilename="m45-4.tif" imageWidth="2758" imageHeight="3500">
-    <TextRegion id="eSc_textblock_badd04c9"  custom="structure {type:text;}">
-      <Coords points="1361,1174 1427,1174 1443,1203 1353,1219 1338,1190 1361,1174"/>
-      <TextLine id="eSc_line_40eeaf2c" custom="structure {type:default;}">
-        <Coords points="1421,1201 1402,1174 1382,1174 1363,1174 1363,1203 1363,1236 1423,1244 1425,1203 1425,1201 1421,1201"/>
-        <Baseline points="1363,1203 1425,1203"/>
-        <TextEquiv>
-          <Unicode></Unicode>
-        </TextEquiv>
-      </TextLine>
-    </TextRegion>
+  <Page imageFilename="m45-4.jpg" imageWidth="2758" imageHeight="3500">
   </Page>
 </PcGts>
