@@ -30,6 +30,26 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../Downloads/export_doc195_m1_8_9_pagexml_202501140956/METS.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>eScrPage2Tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>transcriptions/segmented/m1-8-1/new/METS.xml</String>
                                 </field>
                                 <field name="scenarioIds">
