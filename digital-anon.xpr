@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../Downloads/export_doc202_m47_pagexml_202501202034/METS.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>eScrPage2Tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../../Downloads/export_doc196_m1_8_10_pagexml_202501141437/METS.xml</String>
                                 </field>
                                 <field name="scenarioIds">
