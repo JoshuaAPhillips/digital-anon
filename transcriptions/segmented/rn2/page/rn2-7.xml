@@ -2,37 +2,37 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata>
 	<Creator>escriptorium</Creator>
-	<Created>2025-01-07T16:09:02.641720+00:00</Created>
-        <LastChange>2025-01-07T17:11:54.921647+00:00</LastChange>
+	<Created>2025-01-21T19:32:59.367216+00:00</Created>
+        <LastChange>2025-01-21T20:01:48.468314+00:00</LastChange>
   </Metadata>
-  <Page imageFilename="rn2-7.jpg" imageWidth="10652" imageHeight="14204">
+  <Page imageFilename="rn2-7.jpg" imageWidth="2625" imageHeight="3500">
     <TextRegion id="eSc_dummyblock_">
-      <TextLine id="eSc_line_17a39fe6" >
-        <Coords points="3033,2450 3021,2592 3199,2675 3211,2675 3222,2675 3874,2627 4597,2710 4609,2710 4621,2710 4846,2639 5118,2722 5130,2722 5142,2722 5154,2722 5308,2651 5722,2651 5794,2722 5794,2734 5805,2734 5817,2734 5829,2734 7061,2686 7215,2769 7227,2769 7239,2769 8270,2698 8282,2568 8282,2367 3033,2284 3033,2450"/>
-        <Baseline points="3043,2462 8289,2578"/>
-        <TextEquiv conf="0.8766814464559922">
-          <Unicode>Defluena lue fote anpcoc. Un betrieur eteshe lemetud</Unicode>
+      <TextLine id="eSc_line_afa9fc98" >
+        <Coords points="755,612 752,653 793,676 805,676 895,653 956,653 982,673 982,676 994,676 1058,659 1117,676 1128,676 1155,653 1219,676 1227,676 1312,653 1408,656 1429,676 1435,676 1437,679 1510,679 1510,676 1516,676 1516,673 1537,656 1598,673 1735,662 1770,679 1942,679 1942,676 2085,650 2088,615 2085,571 755,560 755,612"/>
+        <Baseline points="757,614 2089,617"/>
+        <TextEquiv conf="0.9081499256469585">
+          <Unicode>deshuena 7lue bible au pcoce Un trtrieur stele lrmetud</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="eSc_line_07bd8256" >
-        <Coords points="3211,2852 3211,2971 4277,2923 4277,2817 4241,2604 3187,2615 3211,2852"/>
-        <Baseline points="3222,2855 4279,2820"/>
-        <TextEquiv conf="0.9098853956569325">
-          <Unicode>d&#x27;impheitte</Unicode>
+      <TextLine id="eSc_line_cc5f4be5" >
+        <Coords points="764,705 764,726 1070,723 1070,685 1061,632 758,662 764,705"/>
+        <Baseline points="767,707 1071,687"/>
+        <TextEquiv conf="0.9372961653603448">
+          <Unicode>&amp; mphetee</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="eSc_line_9ad9e2d4" >
-        <Coords points="3211,3113 3211,3231 4016,3195 4052,3219 4075,3243 4075,3255 4087,3255 4099,3255 4111,3255 4123,3255 4206,3219 4312,3172 4692,3195 4822,3207 4834,3207 4940,3195 5343,3124 6078,3160 6244,3160 6256,3160 6267,3160 6291,3148 6422,3089 6647,3136 6706,3148 6718,3148 6848,3136 7227,3077 8365,3077 8377,2911 8341,2722 3199,2923 3211,3113"/>
-        <Baseline points="3222,3115 8378,2918"/>
-        <TextEquiv conf="0.9543380637963613">
-          <Unicode>Me lentaipet vorch more a nue de- The Bercon Min</Unicode>
+      <TextLine id="eSc_line_0bb48ac5" >
+        <Coords points="784,755 784,781 877,799 880,799 1055,793 1058,793 1061,793 1061,790 1076,778 1085,772 1227,775 1464,781 1467,781 1551,778 1554,778 1557,778 1569,770 1586,758 1615,770 1630,775 1633,775 1636,775 1703,767 1814,755 1831,767 1834,770 1837,770 1840,770 1843,770 2070,761 2070,717 2062,667 781,717 784,755"/>
+        <Baseline points="787,756 2073,720"/>
+        <TextEquiv conf="0.9400341833631197">
+          <Unicode>Te cintraget voech more a nu dr - The Beccon Ein</Unicode>
         </TextEquiv>
       </TextLine>
-      <TextLine id="eSc_line_79af7936" >
-        <Coords points="3270,3373 3282,3598 3850,3479 4111,3574 4135,3574 4147,3574 4158,3574 4170,3574 4194,3562 4360,3479 4597,3551 4609,3551 4621,3551 4632,3551 5166,3527 5177,3527 5189,3527 5639,3408 7109,3444 7121,3219 7085,3065 5912,3101 5841,3089 5628,3042 5616,3042 5604,3042 5367,3101 5308,3113 5000,3113 4312,3101 4301,3101 4289,3101 4218,3124 4135,3172 4099,3136 4075,3113 4064,3113 4052,3113 4040,3113 4028,3113 3957,3136 3827,3184 3258,3160 3270,3373"/>
-        <Baseline points="3276,3375 7125,3222"/>
-        <TextEquiv conf="0.9290583627788644">
-          <Unicode>Me Jurle Laln cprete Nue cevent n valq</Unicode>
+      <TextLine id="eSc_line_749b58a7" >
+        <Coords points="778,837 778,883 910,883 910,880 924,875 942,860 1055,877 1076,857 1108,875 1254,875 1254,872 1335,840 1455,837 1583,857 1726,851 1863,816 1863,790 1855,749 1461,764 1379,749 1280,767 1248,755 1055,764 1032,784 1006,767 994,767 945,787 927,772 816,775 772,790 778,837"/>
+        <Baseline points="780,839 1865,793"/>
+        <TextEquiv conf="0.9078985704825475">
+          <Unicode>Me surle Laln  freet. Ne verent es vaq.</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

@@ -11,23 +11,23 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <surface ulx="0" uly="0" lrx="10652" lry="14204" xml:id="facs_">
-         <graphic url="rn2-7.jpg" width="10652px" height="14204px"/>
+      <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
+         <graphic url="rn2-7.jpg" width="2625px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="3033,2450 3021,2592 3199,2675 3211,2675 3222,2675 3874,2627 4597,2710 4609,2710 4621,2710 4846,2639 5118,2722 5130,2722 5142,2722 5154,2722 5308,2651 5722,2651 5794,2722 5794,2734 5805,2734 5817,2734 5829,2734 7061,2686 7215,2769 7227,2769 7239,2769 8270,2698 8282,2568 8282,2367 3033,2284 3033,2450" rendition="Line" xml:id="facs__eSc_line_17a39fe6"/>
-            <zone points="3211,2852 3211,2971 4277,2923 4277,2817 4241,2604 3187,2615 3211,2852" rendition="Line" xml:id="facs__eSc_line_07bd8256"/>
-            <zone points="3211,3113 3211,3231 4016,3195 4052,3219 4075,3243 4075,3255 4087,3255 4099,3255 4111,3255 4123,3255 4206,3219 4312,3172 4692,3195 4822,3207 4834,3207 4940,3195 5343,3124 6078,3160 6244,3160 6256,3160 6267,3160 6291,3148 6422,3089 6647,3136 6706,3148 6718,3148 6848,3136 7227,3077 8365,3077 8377,2911 8341,2722 3199,2923 3211,3113" rendition="Line" xml:id="facs__eSc_line_9ad9e2d4"/>
-            <zone points="3270,3373 3282,3598 3850,3479 4111,3574 4135,3574 4147,3574 4158,3574 4170,3574 4194,3562 4360,3479 4597,3551 4609,3551 4621,3551 4632,3551 5166,3527 5177,3527 5189,3527 5639,3408 7109,3444 7121,3219 7085,3065 5912,3101 5841,3089 5628,3042 5616,3042 5604,3042 5367,3101 5308,3113 5000,3113 4312,3101 4301,3101 4289,3101 4218,3124 4135,3172 4099,3136 4075,3113 4064,3113 4052,3113 4040,3113 4028,3113 3957,3136 3827,3184 3258,3160 3270,3373" rendition="Line" xml:id="facs__eSc_line_79af7936"/>
+            <zone points="755,612 752,653 793,676 805,676 895,653 956,653 982,673 982,676 994,676 1058,659 1117,676 1128,676 1155,653 1219,676 1227,676 1312,653 1408,656 1429,676 1435,676 1437,679 1510,679 1510,676 1516,676 1516,673 1537,656 1598,673 1735,662 1770,679 1942,679 1942,676 2085,650 2088,615 2085,571 755,560 755,612" rendition="Line" xml:id="facs__eSc_line_afa9fc98"/>
+            <zone points="764,705 764,726 1070,723 1070,685 1061,632 758,662 764,705" rendition="Line" xml:id="facs__eSc_line_cc5f4be5"/>
+            <zone points="784,755 784,781 877,799 880,799 1055,793 1058,793 1061,793 1061,790 1076,778 1085,772 1227,775 1464,781 1467,781 1551,778 1554,778 1557,778 1569,770 1586,758 1615,770 1630,775 1633,775 1636,775 1703,767 1814,755 1831,767 1834,770 1837,770 1840,770 1843,770 2070,761 2070,717 2062,667 781,717 784,755" rendition="Line" xml:id="facs__eSc_line_0bb48ac5"/>
+            <zone points="778,837 778,883 910,883 910,880 924,875 942,860 1055,877 1076,857 1108,875 1254,875 1254,872 1335,840 1455,837 1583,857 1726,851 1863,816 1863,790 1855,749 1461,764 1379,749 1280,767 1248,755 1055,764 1032,784 1006,767 994,767 945,787 927,772 816,775 772,790 778,837" rendition="Line" xml:id="facs__eSc_line_749b58a7"/>
          </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_17a39fe6">Defluena lue fote anpcoc. Un betrieur eteshe lemetud</l>
-               <l facs="#facs__eSc_line_07bd8256">d'impheitte</l>
-               <l facs="#facs__eSc_line_9ad9e2d4">Me lentaipet vorch more a nue de- The Bercon Min</l>
-               <l facs="#facs__eSc_line_79af7936">Me Jurle Laln cprete Nue cevent n valq</l>
+               <l facs="#facs__eSc_line_afa9fc98">deshuena 7lue bible au pcoce Un trtrieur stele lrmetud</l>
+               <l facs="#facs__eSc_line_cc5f4be5">&amp; mphetee</l>
+               <l facs="#facs__eSc_line_0bb48ac5">Te cintraget voech more a nu dr - The Beccon Ein</l>
+               <l facs="#facs__eSc_line_749b58a7">Me surle Laln  freet. Ne verent es vaq.</l>
             </ab></div>
       </body>
    </text>
