@@ -52,11 +52,29 @@
   </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
-         <graphic url="m53-4.tif" width="2768px" height="3500px"/>
+         <graphic url="m53-4.jpg" width="2768px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="939,154 939,189 985,192 988,154 988,116 939,116 939,154" rendition="Line" xml:id="facs__eSc_line_98651390"/>
+            <zone points="819,210 819,236 869,250 875,210 875,163 819,163 819,210" rendition="Line" xml:id="facs__eSc_line_d08a3e18"/>
+            <zone points="767,312 764,352 2272,344 2275,317 2269,259 767,265 767,312" rendition="Line" xml:id="facs__eSc_line_d996cf6e"/>
+            <zone points="755,428 755,455 927,455 927,425 918,358 752,379 755,428" rendition="Line" xml:id="facs__eSc_line_0290e2f9"/>
+         </zone>
       </surface>
    </facsimile>
    <text>
-      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/></div>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+              <p>
+               <l facs="#facs__eSc_line_98651390">2</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_d08a3e18">4</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_d996cf6e">But for him of course we have to wait until winter was</l>
+               <l facs="#facs__eSc_line_0290e2f9">past.</l>
+              </p>
+            </ab></div>
       </body>
    </text>
 </TEI>

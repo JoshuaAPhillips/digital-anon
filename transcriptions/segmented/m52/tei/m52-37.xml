@@ -1,82 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p, fol. 19r.</title>
-        <author>Virginia Woolf</author>
-        <respStmt>
-          <resp>Encoded by</resp>
-          <name>Joshua Phillips</name>
-        </respStmt>
-        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
-      </titleStmt>
-      <publicationStmt>
-        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
-        <availability>
-          <p>© Estate of Virginia Woolf 2022</p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <msDesc>
-          <msIdentifier>
-            <institution>New York Public Library</institution>
-            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
-            <idno>m52</idno>
-          </msIdentifier>        
-          <physDesc>
-            <p>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</p>
-          </physDesc>
-        </msDesc>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <handNotes>
-        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
-          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
-        </handNote>
-      </handNotes>
-    </profileDesc>
-    <encodingDesc>
-      <editorialDecl>
-        <correction method="markup">
-          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
-        </correction>
-        <interpretation>
-          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
-        </interpretation>
-      </editorialDecl>
-      <projectDesc>
-        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
-      </projectDesc>
-    </encodingDesc>
-  </teiHeader>
-
+   <teiHeader>
+      <fileDesc>
+         <titleStmt/>
+         <seriesStmt/>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+      </profileDesc>
+   </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2768" lry="3500" xml:id="facs_">
-         <graphic url="m52-37.tif" width="2768px" height="3500px"/>
+         <graphic url="m52-37.jpg" width="2768px" height="3500px"/>
          <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
-            <zone points="887,163 2587,170" rendition="Line" xml:id="facs__eSc_line_fec29b9a"/>
-            <zone points="902,277 2572,292" rendition="Line" xml:id="facs__eSc_line_f5e3cd29"/>
-            <zone points="898,395 2550,395" rendition="Line" xml:id="facs__eSc_line_2c169c5e"/>
-            <zone points="865,499 1663,506" rendition="Line" xml:id="facs__eSc_line_1fae4d1a"/>
+            <zone points="910,169 910,210 2546,204 2546,169 2546,131 1770,113 1767,113 1764,113 1723,128 1601,113 1598,113 1437,128 1414,113 1411,113 1408,113 1405,113 1312,128 1277,113 1274,113 1271,113 1268,113 1236,131 910,131 910,169" rendition="Line" xml:id="facs__eSc_line_a53644bc"/>
+            <zone points="918,271 915,300 2531,312 2537,280 2534,242 918,230 918,271" rendition="Line" xml:id="facs__eSc_line_4bd11c6b"/>
+            <zone points="924,387 924,428 1152,422 1187,440 1277,422 1332,440 1341,440 1400,422 1490,443 1499,443 1525,422 1732,422 1764,440 2135,443 2202,425 2222,443 2231,446 2415,446 2415,443 2450,428 2493,443 2502,443 2534,425 2534,350 2441,332 2394,347 2082,332 1957,347 1919,332 1665,347 1618,332 1607,332 1583,350 1233,350 1216,332 1058,332 924,347 924,387" rendition="Line" xml:id="facs__eSc_line_f517d4ca"/>
+            <zone points="918,495 921,545 997,527 1143,545 1146,545 1149,545 1152,545 1248,527 1388,545 1391,545 1394,545 1397,545 1551,527 1618,545 1627,492 1621,457 950,440 947,440 945,440 915,452 918,495" rendition="Line" xml:id="facs__eSc_line_ae53c6dd"/>
          </zone>
       </surface>
    </facsimile>
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_fec29b9a">and on that stage, without any scenery, but richly dressed,</l>
-               <l facs="#facs__eSc_line_f5e3cd29">the old mummers were to act not <rs type="person" xml:id="psn-rhoo" key="Hood, Robin">Robin Hood</rs>, not <rs type="literary-work" xml:id="lit-ever" key="Everyman">
+               <l facs="#facs__eSc_line_a53644bc">and on that stage, without any scenery, but richly dressed,</l>
+               <l facs="#facs__eSc_line_4bd11c6b">the old mummers were to act not <rs type="person" xml:id="psn-rhoo" key="Hood, Robin">Robin Hood</rs>, not <rs type="literary-work" xml:id="lit-ever" key="Everyman">
             <choice>
               <sic>E  ry man</sic>
               <corr>Everyman</corr>
             </choice></rs>,</l>
-               <l facs="#facs__eSc_line_2c169c5e">not <rs xml:id="psn-stge" key="Saint George">St Georges</rs> play but <rs type="literary-work" xml:id="lit-faus" key="Doctor Faustus">Faust</rs>, <rs type="literary-work" xml:id="lit-tamb" key="Tamburlaine">
+               <l facs="#facs__eSc_line_f517d4ca">not <rs xml:id="psn-stge" key="Saint George">St Georges</rs> play but <rs type="literary-work" xml:id="lit-faus" key="Doctor Faustus">Faust</rs>, <rs type="literary-work" xml:id="lit-tamb" key="Tamburlaine">
             <choice>
               <sic>Tamberlaine</sic>
               <corr>Tamburlaine</corr>
             </choice></rs>, <rs type="literary-work" xml:id="lit-haml" key="Hamlet">Hamlet</rs>, <rs type="literary-work" xml:id="lit-lear" key="King Lear">Lear</rs>, </l>
-               <l facs="#facs__eSc_line_1fae4d1a">and <rs type="literary-work" xml:id="lit-ancl" key="Antony and Cleopatra">Antony and 
+               <l facs="#facs__eSc_line_ae53c6dd">and <rs type="literary-work" xml:id="lit-ancl" key="Antony and Cleopatra">Antony and 
             <choice>
               <sic>Cleoptara</sic>
               <corr>Cleopatra</corr>
