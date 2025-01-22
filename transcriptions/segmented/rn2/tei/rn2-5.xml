@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 5r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
          <graphic url="rn2-5.jpg" width="2625px" height="3500px"/>
@@ -41,27 +81,38 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_bbae277b">1. Enon</l>
-               <l facs="#facs__eSc_line_7989e9e6">2 Handiena. Me Carathe t9</l>
-               <l facs="#facs__eSc_line_e5618abf">3. Re Audirue</l>
-               <l facs="#facs__eSc_line_d44b01e2">3. Te ndridat</l>
-               <l facs="#facs__eSc_line_8a9acb90">4. words ;</l>
-               <l facs="#facs__eSc_line_74eaa992">No 390 a Rhe</l>
-               <l facs="#facs__eSc_line_991095bd">The tar à she 29e.</l>
-               <l facs="#facs__eSc_line_64c11875">Mrci.. Theshhu Vre fonz latrr recguis</l>
-               <l facs="#facs__eSc_line_0dc370ec">le The Chones The toumd. Hhe touq comez lin</l>
-               <l facs="#facs__eSc_line_cf9d6792">Re Nomeme. Te Baily. romchhez rén decp.</l>
-               <l facs="#facs__eSc_line_f9ceea64">Dumítine. not Jet y finit</l>
-               <l facs="#facs__eSc_line_24a63bdc">Te 46. Jpenrer. Te pelhure</l>
-               <l facs="#facs__eSc_line_0094e3a9">Ihemérs Me Rlnactrance .. Lashigalion ? a Matin</l>
-               <l facs="#facs__eSc_line_3edf893e">Allesorg-martron sagntes taubte</l>
-               <l facs="#facs__eSc_line_eccfda14">Me Cmmotin fetuei secngt vehu :</l>
-               <l facs="#facs__eSc_line_bbfc7d22">Mecchal lyye10. Lemardo. Blate. Rosretti.</l>
-               <l facs="#facs__eSc_line_37cf43c6">A firingifs 42. thate be bou. depens) en</l>
-               <l facs="#facs__eSc_line_1d2d1671">Non Crot a Ritles.</l>
-               <l facs="#facs__eSc_line_99f36334">Uhe voutu neon betores a menti van</l>
-               <l facs="#facs__eSc_line_c7228822">tro fechnient</l>
-               <l facs="#facs__eSc_line_381b34e8">Shat  i Marer d uo teze Maautes - Vhe aphuen e Slne datra.</l>
+            <p>
+               <l facs="#facs__eSc_line_bbae277b">1. Anon</l>
+               <l facs="#facs__eSc_line_7989e9e6">2. <del>The Audience</del> The ear &amp; the eye</l>
+               <l facs="#facs__eSc_line_e5618abf">3. The Individual</l>
+               <l facs="#facs__eSc_line_d44b01e2">3. The Audience</l>
+               <l facs="#facs__eSc_line_8a9acb90">4. Words?</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_74eaa992"><del>The ear &amp; the</del></l>
+               <l facs="#facs__eSc_line_991095bd">The ear &amp; the Eye.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_64c11875">Music, rhythm, the young ladies singing</l>
+               <l facs="#facs__eSc_line_0dc370ec"><del>The</del> The chorus, the sound, the song comes in</l>
+               <l facs="#facs__eSc_line_cf9d6792">The nonsense. The [Beauty?], something very deep ––</l>
+               <l facs="#facs__eSc_line_f9ceea64">primitive, not yet extinct.</l>
+               <l facs="#facs__eSc_line_24a63bdc">The age. Spenser. The pictures.</l>
+               <l facs="#facs__eSc_line_0094e3a9">Spenser. The Renaissance... looking across? at Italy.</l>
+               <l facs="#facs__eSc_line_3edf893e">Allegory –– making thoughts visible...</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_eccfda14">The connection between seeing &amp; writing</l>
+               <l facs="#facs__eSc_line_bbfc7d22">Michel Angelo, Leonardo, Blake, Rossetti.</l>
+               <l facs="#facs__eSc_line_37cf43c6">A twin gift      <choice>
+          <sic>wh.</sic>
+          <corr>which</corr>
+        </choice> shall be born depends on</l>
+               <l facs="#facs__eSc_line_1d2d1671">Nin Crot &amp; Pulley</l>
+               <l facs="#facs__eSc_line_99f36334">The writer never becomes a musician...</l>
+               <l facs="#facs__eSc_line_c7228822">too technical?</l>
+               <l facs="#facs__eSc_line_381b34e8">What is 'manner' in writing –– manners –– the influence of the patron</l>
+            </p>
             </ab></div>
       </body>
    </text>

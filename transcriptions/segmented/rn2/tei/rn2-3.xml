@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
          <graphic url="rn2-3.jpg" width="2625px" height="3500px"/>
@@ -41,27 +81,50 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_c68eca30">The lony ungir</l>
-               <l facs="#facs__eSc_line_c1679801">Estust Mh^le. T penon ai courermes. S^le never</l>
-               <l facs="#facs__eSc_line_388a9863">brcntes Me Cureloses. sr dint cerunte de Venoir atont</l>
-               <l facs="#facs__eSc_line_4353bacf">hin Courphbily aspuner. lhente</l>
-               <l facs="#facs__eSc_line_bed37e20">n cantestion ctarer, ie n The pinson</l>
-               <l facs="#facs__eSc_line_a5312526">That chera tuch eter the postie hlaz ?</l>
-               <l facs="#facs__eSc_line_4100cb0c">echarate artecle</l>
-               <l facs="#facs__eSc_line_9c36fa03">Goistsmith. he pation</l>
-               <l facs="#facs__eSc_line_6df8dbb3">Eponp. Lu R^dl'ie.</l>
-               <l facs="#facs__eSc_line_6c484dc4">Cenen... The Femh. Martue du lesest</l>
-               <l facs="#facs__eSc_line_ba4d883b">Cutpon ...</l>
-               <l facs="#facs__eSc_line_35f938a1">Capt. Maigatt</l>
-               <l facs="#facs__eSc_line_c9bef46f">194 Centrin. Tue slene pr. nhete Rrs James</l>
-               <l facs="#facs__eSc_line_2399d9f9">sothu materert. Memones</l>
-               <l facs="#facs__eSc_line_a4ca6399">Luush frpprer ast ent o comparid</l>
-               <l facs="#facs__eSc_line_4238aba7">mh Chan</l>
-               <l facs="#facs__eSc_line_5b5a9c1d">Chridge</l>
-               <l facs="#facs__eSc_line_92130160">Re Levo</l>
-               <l facs="#facs__eSc_line_c334af00">Te ety^te lents Le Curtest en butlnes z hoophe</l>
-               <l facs="#facs__eSc_line_74031a94">Thop preent dun</l>
-               <l facs="#facs__eSc_line_bc4b98c0">le Chapti enthre future</l>
+              <p>
+               <l facs="#facs__eSc_line_c68eca30">The song singers.</l>
+               <l facs="#facs__eSc_line_c1679801">About <choice>
+            <sic>Sh<hi rend="superscript">re</hi></sic>
+            <corr>Shakespeare</corr>
+          </choice>: the person is consumed: <choice>
+            <sic>Sh<hi rend="superscript">re</hi></sic>
+            <corr>Shakespeare</corr>
+          </choice> never</l>
+               <l facs="#facs__eSc_line_388a9863">breaks the envelope: We dont want to know about</l>
+               <l facs="#facs__eSc_line_4353bacf">him: Completely expressed. <hi rend="underline">When the</hi></l>
+               <l facs="#facs__eSc_line_bed37e20"><hi rend="underline">incantation ceases, we see the person.</hi></l>
+               <l facs="#facs__eSc_line_a5312526"><hi rend="underline">That opera took over the poetic play?</hi></l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_4100cb0c"><hi rend="underline">separate article.</hi></l>
+               <l facs="#facs__eSc_line_9c36fa03">Goldsmith. The patron.</l>
+               <l facs="#facs__eSc_line_6c484dc4">Congreve. The French. Madam de Sevigne.</l>
+               <l facs="#facs__eSc_line_ba4d883b">Gibbon ...</l>
+               <l facs="#facs__eSc_line_6df8dbb3">Group: La <choice>
+            <sic>R<hi rend="superscript">d</hi></sic>
+            <corr>[Rochefoucauld]?</corr>
+          </choice> &amp;c.</l>
+               <l facs="#facs__eSc_line_35f938a1">Capt. [Marryat?]</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_c9bef46f">19<hi rend="superscript">th</hi> Century. The scene <choice>
+            <sic>fr.</sic>
+            <corr>from</corr>
+          </choice> which Henry James</l>
+               <l facs="#facs__eSc_line_2399d9f9">took his material. Memoirs.</l>
+               <l facs="#facs__eSc_line_a4ca6399">– Single figures all cut off – compared</l>
+               <l facs="#facs__eSc_line_4238aba7">with E<hi rend="superscript">than</hi></l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_5b5a9c1d">Coleridge</l>
+              </p>
+               <l facs="#facs__eSc_line_92130160"><del>The Fren</del></l>
+               <l facs="#facs__eSc_line_c334af00">The 19<hi rend="superscript">th</hi> <choice>
+            <sic>cent</sic>
+            <corr>century</corr>
+          </choice> to [consist of?] outlines of people. </l>
+               <l facs="#facs__eSc_line_74031a94">Skip present day</l>
+               <l facs="#facs__eSc_line_bc4b98c0">A chapter on the future</l>
             </ab></div>
       </body>
    </text>

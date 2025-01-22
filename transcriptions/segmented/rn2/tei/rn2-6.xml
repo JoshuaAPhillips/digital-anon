@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
          <graphic url="rn2-6.jpg" width="2625px" height="3500px"/>
@@ -52,38 +92,54 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_450c8bd1">Re brq humne thore he bort ii nas</l>
-               <l facs="#facs__eSc_line_e2df4cb1">ducriphus 9 Fensant. " Les Rut. Leez den y Vadvrick.</l>
-               <l facs="#facs__eSc_line_466ed0eb">lu Phdng- Henrer.</l>
-               <l facs="#facs__eSc_line_af14e6d2">Re arhut.</l>
-               <l facs="#facs__eSc_line_e2b6ba42">Enpraye.</l>
-               <l facs="#facs__eSc_line_5e999a0b">dhest mous tells a an aelut . Ts hn vens Tre franceroit .</l>
-               <l facs="#facs__eSc_line_f1b29422">Tre Eee. Mhe lai Me rem.</l>
-               <l facs="#facs__eSc_line_2accdd90">Is hhin prgertz ended.</l>
-               <l facs="#facs__eSc_line_69e3c9bd">Te mensuel. Iu rout.</l>
-               <l facs="#facs__eSc_line_094fb8ef">Te Ahsherea Lerroem Teasoy e Nen: Artiin</l>
-               <l facs="#facs__eSc_line_e14fc682">Me iors heais. 24 Polisite. es depte.</l>
-               <l facs="#facs__eSc_line_9709b5bd">Mrr e aster eut Teipore te he bous</l>
-               <l facs="#facs__eSc_line_5286a2cd">le cenbignon Elmet ente plag.</l>
-               <l facs="#facs__eSc_line_50857726">chaia te roeulhe vecot j mati nobte</l>
-               <l facs="#facs__eSc_line_d7e5ebd7">toote lu peint. het en mac hcph.</l>
-               <l facs="#facs__eSc_line_a94e268b">Jouchy.</l>
-               <l facs="#facs__eSc_line_fe7013e5">Me Telalion beroen Me mats hoien ⁊te biq</l>
-               <l facs="#facs__eSc_line_97d65ab1">The 5 ha gerpholay9.</l>
-               <l facs="#facs__eSc_line_bfe50582">toitetes</l>
-               <l facs="#facs__eSc_line_e066d824">Te hemhen &amp; Ehnerant</l>
-               <l facs="#facs__eSc_line_3e467581">Ara ne Emitu pant.</l>
-               <l facs="#facs__eSc_line_30d6fb33">Theuriter suf spatreshes tant ? Mas he</l>
-               <l facs="#facs__eSc_line_5fea96f6">lujogs deprucenatites. La c Jelit intres tustions sien ?</l>
-               <l facs="#facs__eSc_line_092f514c">The lendchion y Me S^te tentrer eche had no</l>
-               <l facs="#facs__eSc_line_936ea8fa">leterarg part entes vrd Clanis en Nau latue</l>
-               <l facs="#facs__eSc_line_392fd5ba">Prd I^r weus Chaace.</l>
-               <l facs="#facs__eSc_line_bc5b87eb">Unessiabily. mous reotront avcotiation</l>
-               <l facs="#facs__eSc_line_68160d74">no lonrenhon. ns desevente ; A. nivent</l>
-               <l facs="#facs__eSc_line_6f431991">Then cee mar she fent Theatre bailt</l>
-               <l facs="#facs__eSc_line_b42d51ca">Me Matre por Thore ntes cant vend</l>
-               <l facs="#facs__eSc_line_69fb7b27">trogut e tute sellez. Vout dis Un</l>
-               <l facs="#facs__eSc_line_ffb19116">Noble 50 totue ptez ?</l>
+              <p>
+               <l facs="#facs__eSc_line_450c8bd1">The big house where the book is read.</l>
+               <l facs="#facs__eSc_line_e2df4cb1">Description of Penshurst, of Lady Rich: Lady Bess of Hardwick</l>
+               <l facs="#facs__eSc_line_466ed0eb">Sir P Sidney Spenser</l>
+               <l facs="#facs__eSc_line_af14e6d2">The artist.</l>
+               <l facs="#facs__eSc_line_e2b6ba42">Language.</l>
+               <l facs="#facs__eSc_line_5e999a0b">What <del>books</del> tells on an artist: the thing seen the framework:</l>
+               <l facs="#facs__eSc_line_f1b29422">The eye, the ear, the senses</l>
+               <l facs="#facs__eSc_line_2accdd90">The thing properly ended</l>
+               <l facs="#facs__eSc_line_69e3c9bd">the individual, the soul</l>
+               <l facs="#facs__eSc_line_094fb8ef">The difference between reading &amp; seeing; acting;</l>
+               <l facs="#facs__eSc_line_e14fc682">The word heard, its solidity: its depth</l>
+               <l facs="#facs__eSc_line_9709b5bd">How an author cuts deeper to the bone</l>
+               <l facs="#facs__eSc_line_5286a2cd">The anonymous element in the play.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_50857726">Chaucer the society he wrote for small and noble</l>
+               <l facs="#facs__eSc_line_d7e5ebd7">took his points, hit off real people</l>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_a94e268b">Society.</l>
+               <l facs="#facs__eSc_line_fe7013e5">The relation between the small houses &amp; the big</l>
+               <l facs="#facs__eSc_line_97d65ab1">The E<hi rend="superscript">than</hi> psychology.</l>
+               <l facs="#facs__eSc_line_bfe50582"><hi rend="underline">Witches.</hi></l>
+               <l facs="#facs__eSc_line_e066d824">The number of ignorant</l>
+               <l facs="#facs__eSc_line_3e467581">And no English past.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_30d6fb33">The writer <del>the f</del> what is his mark? That he</l>
+               <l facs="#facs__eSc_line_5fea96f6">engages dispassionately: has a split in his consciousness?</l>
+               <l facs="#facs__eSc_line_092f514c">The condition? The E<hi rend="superscript">tn</hi> writer who had no</l>
+               <l facs="#facs__eSc_line_936ea8fa">literary past; only read classics in translation</l>
+               <l facs="#facs__eSc_line_392fd5ba">Did <choice>
+            <sic>Sh<hi rend="superscript">re</hi></sic>
+            <corr>Shakespeare</corr>
+          </choice> read Chaucer?</l>
+               <l facs="#facs__eSc_line_bc5b87eb">[Irresponsibility?] Words without associations</l>
+               <l facs="#facs__eSc_line_68160d74">No conventions; no difference; <choice>
+            <sic>cd.</sic>
+            <corr>could</corr>
+          </choice> invent.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_6f431991">When <del>did</del> was the first theatre built?</l>
+               <l facs="#facs__eSc_line_b42d51ca">The theatre for those who cant read.</l>
+               <l facs="#facs__eSc_line_69fb7b27">brought in [pit &amp; gallery?]. But did the</l>
+               <l facs="#facs__eSc_line_ffb19116">nobles 'go to the play'?</l>
+              </p>
             </ab></div>
       </body>
    </text>

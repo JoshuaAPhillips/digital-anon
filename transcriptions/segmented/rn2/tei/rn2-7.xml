@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 7r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
+         <graphic url="rn2-7.jpg" width="2625px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="755,612 752,653 793,676 805,676 895,653 956,653 982,673 982,676 994,676 1058,659 1117,676 1128,676 1155,653 1219,676 1227,676 1312,653 1408,656 1429,676 1435,676 1437,679 1510,679 1510,676 1516,676 1516,673 1537,656 1598,673 1735,662 1770,679 1942,679 1942,676 2085,650 2088,615 2085,571 755,560 755,612" rendition="Line" xml:id="facs__eSc_line_afa9fc98"/>
+            <zone points="764,705 764,726 1070,723 1070,685 1061,632 758,662 764,705" rendition="Line" xml:id="facs__eSc_line_cc5f4be5"/>
+            <zone points="784,755 784,781 877,799 880,799 1055,793 1058,793 1061,793 1061,790 1076,778 1085,772 1227,775 1464,781 1467,781 1551,778 1554,778 1557,778 1569,770 1586,758 1615,770 1630,775 1633,775 1636,775 1703,767 1814,755 1831,767 1834,770 1837,770 1840,770 1843,770 2070,761 2070,717 2062,667 781,717 784,755" rendition="Line" xml:id="facs__eSc_line_0bb48ac5"/>
+            <zone points="778,837 778,883 910,883 910,880 924,875 942,860 1055,877 1076,857 1108,875 1254,875 1254,872 1335,840 1455,837 1583,857 1726,851 1863,816 1863,790 1855,749 1461,764 1379,749 1280,767 1248,755 1055,764 1032,784 1006,767 994,767 945,787 927,772 816,775 772,790 778,837" rendition="Line" xml:id="facs__eSc_line_749b58a7"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+               <l facs="#facs__eSc_line_afa9fc98">Influence of the bible on prose. The biblical style limited</l>
+               <l facs="#facs__eSc_line_cc5f4be5">&amp; emphatic</l>
+               <l facs="#facs__eSc_line_0bb48ac5">The untaught wrote more as we do –– the Bacon letters</l>
+               <l facs="#facs__eSc_line_749b58a7">She quotes Latin &amp; French, the servant is racy.</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

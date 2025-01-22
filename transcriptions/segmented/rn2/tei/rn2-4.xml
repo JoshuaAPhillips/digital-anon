@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 4r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
          <graphic url="rn2-4.jpg" width="2625px" height="3500px"/>
@@ -53,39 +93,69 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_679a40dd">fun dances. Vancn purludes ? Sot Mii idee. &amp;t</l>
-               <l facs="#facs__eSc_line_7b3c65b2">frost uplans let. Jeun aen Commen Handpaur, t hracchers</l>
-               <l facs="#facs__eSc_line_0598fc3d">Tu ved-Men fratre arts. dur It ivoula hyuin</l>
-               <l facs="#facs__eSc_line_0a15b7a2">pour te coulin eurtr. Chatin: srs ete ful</l>
-               <l facs="#facs__eSc_line_9f6d4e17">Me dem de Crécti. he horcoutesz li trnine abrent</l>
-               <l facs="#facs__eSc_line_67da2dbe">ohhin e Me rame ceonditen Me mur lead l</l>
-               <l facs="#facs__eSc_line_7b27ce69">l astrodacton : ateut tre geou ⁊ tratin : its</l>
-               <l facs="#facs__eSc_line_d4996943">Revautoys. etn vouuh: entrcciptint len detrour.</l>
-               <l facs="#facs__eSc_line_9a04db3e">lan un lhen des tre ohhenentrre rame Ttatee</l>
-               <l facs="#facs__eSc_line_24288b88">Mhd Thorefme tatre a hrem e bared ap voud it</l>
-               <l facs="#facs__eSc_line_ef407805">Te roeutgnh. &amp; helpet. IMed. Latre a</l>
-               <l facs="#facs__eSc_line_0c661271">blnz rrd anon. posin. Vrhd. Chtgent betree</l>
-               <l facs="#facs__eSc_line_7bac65a0">Te actent scene. tre treathe lue hoier Vhe</l>
-               <l facs="#facs__eSc_line_0f1ced01">pation ; Jrrcchge mahe At chuolge cnl</l>
-               <l facs="#facs__eSc_line_89e39eb1">Trlus dercate Boin me lalen. Itaty- Frecce.</l>
-               <l facs="#facs__eSc_line_d1bfffb7">Re incotralinz Iri Greatie innchemt.</l>
-               <l facs="#facs__eSc_line_677a81da">Iun, mool. vens plur. bislum mons.</l>
-               <l facs="#facs__eSc_line_bdd6d63f">Choep Vuip tre vrche enche fore pur. Mahe autres</l>
-               <l facs="#facs__eSc_line_1ca0a2a4">Touhr plan 7he deshièrent helps ? hudrancue</l>
-               <l facs="#facs__eSc_line_f3427691">a Mhoth-a Jutn.</l>
-               <l facs="#facs__eSc_line_ab678a1e">Re prta. The Geil athe dou. Te menr eMe</l>
-               <l facs="#facs__eSc_line_bb933407">Min</l>
-               <l facs="#facs__eSc_line_1ee9628e">Enolue mn tre fom. Rre Grat hoise titt</l>
-               <l facs="#facs__eSc_line_b2a5492d">le leur rortie prophe Entre damhles de Roh</l>
-               <l facs="#facs__eSc_line_245bc6d5">ant a entre outir premre.</l>
-               <l facs="#facs__eSc_line_097abb4f">Nen enbreme d nrutre an tepirer</l>
-               <l facs="#facs__eSc_line_5a8023bf">Dauibe Re Gloroh e Lemtr. Uhe malt lontez toun</l>
-               <l facs="#facs__eSc_line_7119b1ef">Je anditne estre plas. At the fire tide</l>
-               <l facs="#facs__eSc_line_d9197d19">peip a trny commerten Le Jre Gttonat.</l>
-               <l facs="#facs__eSc_line_89243091">Te modem'.. te pouch y acticulatinen</l>
-               <l facs="#facs__eSc_line_34b32b79">Me vit note reure lexngn su conri</l>
-               <l facs="#facs__eSc_line_5bfefe5b">Crclumets- Leveus  Fant. Solutes. hatre</l>
-               <l facs="#facs__eSc_line_19431a47">Tutu a rehlut-vourgz..</l>
+              <p>
+               <l facs="#facs__eSc_line_679a40dd">From Duncan &amp; Vanessa yesterday I got this idea, a</l>
+               <l facs="#facs__eSc_line_7b3c65b2">book explaining lit. from our common standpoint to painters.</l>
+               <l facs="#facs__eSc_line_0598fc3d">This <choice>
+            <sic>wd.</sic>
+            <corr>would</corr>
+          </choice> then be the angle. <del>our</del> It would begin</l>
+               <l facs="#facs__eSc_line_0a15b7a2">from the writers angle. That is: we all feel</l>
+               <l facs="#facs__eSc_line_9f6d4e17">the desire to create, the [account?] to know about</l>
+               <l facs="#facs__eSc_line_67da2dbe">others in the same condition. This <choice>
+            <sic>wd.</sic>
+            <corr>would</corr>
+          </choice> lead to</l>
+               <l facs="#facs__eSc_line_7b27ce69">an introduction: about the germ of creation:</l>
+               <l facs="#facs__eSc_line_d4996943">[thwartings?]; our society; interruptions; conditions.</l>
+               <l facs="#facs__eSc_line_9a04db3e">Can we then see the others, in the same state ––</l>
+               <l facs="#facs__eSc_line_24288b88">I <choice>
+            <sic>shd.</sic>
+            <corr>should</corr>
+          </choice> therefore take a poem &amp; build up round it</l>
+               <l facs="#facs__eSc_line_ef407805">the society <choice>
+            <sic>wh.</sic>
+            <corr>which</corr>
+          </choice> <del>a</del> helped it. I <choice>
+            <sic>shd.</sic>
+            <corr>should</corr>
+          </choice> take a</l>
+               <l facs="#facs__eSc_line_0c661271">very old <choice>
+            <sic>anon.</sic>
+            <corr>anonymous</corr>
+          </choice> poem. I <choice>
+            <sic>shd.</sic>
+            <corr>should</corr>
+          </choice> distinguish between</l>
+               <l facs="#facs__eSc_line_7bac65a0">the actual scene: the weather: the house: the</l>
+               <l facs="#facs__eSc_line_0f1ced01">patron; society: make it chronological</l>
+               <l facs="#facs__eSc_line_89e39eb1">often deviate. Bring in Latin, Italy, Greece.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_d1bfffb7">The universality of the creative instinct...</l>
+               <l facs="#facs__eSc_line_677a81da">Stone, wool, words, paint. discuss words</l>
+               <l facs="#facs__eSc_line_bdd6d63f">Always keep the writer in the fore ground. Make out a</l>
+               <l facs="#facs__eSc_line_1ca0a2a4">rough plan of the different helps &amp; hinderances</l>
+               <l facs="#facs__eSc_line_f3427691">a sketch, a guess.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_ab678a1e">The patron, the Girl at the door, the wind &amp; the</l>
+               <l facs="#facs__eSc_line_bb933407">rain.</l>
+              </p>
+               <l facs="#facs__eSc_line_1ee9628e"><hi rend="underline">Evolve <del>in</del> the town</hi>: the Great house. Fill</l>
+               <l facs="#facs__eSc_line_b2a5492d">England with people. Take samples. <del>No</del> Both of</l>
+               <l facs="#facs__eSc_line_245bc6d5">art &amp; of the outer pressure.</l>
+               <l facs="#facs__eSc_line_097abb4f">Then increase the number of figures.</l>
+               <l facs="#facs__eSc_line_5a8023bf">Describe the growth of London. <hi rend="underline">The small county town.</hi></l>
+               <l facs="#facs__eSc_line_7119b1ef"><hi rend="underline">The audience at the play.</hi> <hi rend="underline">At the fireside.</hi></l>
+               <l facs="#facs__eSc_line_d9197d19">Keep a running commentary upon the external.</l>
+               <l facs="#facs__eSc_line_89243091">The "modern" the growth of articulateness</l>
+               <l facs="#facs__eSc_line_34b32b79">The split into several languages for writers</l>
+               <l facs="#facs__eSc_line_5bfefe5b">Advertisements, Reviews, Travel, Society. Make a</l>
+               <l facs="#facs__eSc_line_19431a47">sketch of 19<hi rend="superscript">th</hi> <choice>
+            <sic>cent.</sic>
+            <corr>century</corr>
+          </choice> society.</l>
             </ab></div>
       </body>
    </text>

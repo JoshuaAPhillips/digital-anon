@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
          <graphic url="rn2-2.jpg" width="2625px" height="3500px"/>
@@ -52,38 +92,47 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_4728c5aa">Evot, Nenu, Jillez - l dneshenles</l>
-               <l facs="#facs__eSc_line_27bd0adb">Mesune ne a fechition uvieu ce beade hest es n lt.</l>
-               <l facs="#facs__eSc_line_bb0e1713">echat et omits. Jegte coute lit lne cher men voud.</l>
-               <l facs="#facs__eSc_line_dd7c1dea">olitins Pue lushereer : Vhe Cchrart. Te prenth., Vhẽ</l>
-               <l facs="#facs__eSc_line_8e25d814">grcoudrio, ales lhe nner, Eue Ah 'ise ou rui</l>
-               <l facs="#facs__eSc_line_9aca59d5">fext berte voullue far Jillec. Lemnames - Monau</l>
-               <l facs="#facs__eSc_line_4c5b41ef">Cespaux - hrtche e fainiis</l>
-               <l facs="#facs__eSc_line_9a0e77f5">droeur en noneluts ents ventelognest : rtitoynits</l>
-               <l facs="#facs__eSc_line_3115d1f9">bchate ii Crcation Me een M^r 5 acnt.</l>
-               <l facs="#facs__eSc_line_90e6c3b4">Te vertue e our aye hat prophe dont ent teac</l>
-               <l facs="#facs__eSc_line_53c093d6">laures. Pesptvalln brohenup. Renhoy. Av</l>
-               <l facs="#facs__eSc_line_6a5ad277">Cenclecoin. Jehap The helmeng Estrete/ Eome 9</l>
-               <l facs="#facs__eSc_line_7a35bb20">Centfucccng astu je main otter venter: a pint choia y</l>
-               <l facs="#facs__eSc_line_0b13ced1">mebul- refmmples. Fomtau, hens adreiatin pa Rastero</l>
-               <l facs="#facs__eSc_line_8529cf14">Reving te ela facthcom. So fhat port. Lu gerts. Ihe</l>
-               <l facs="#facs__eSc_line_2574716e">Junes trs big? - es los ctou Ln- fe frat poury.</l>
-               <l facs="#facs__eSc_line_4215aeed">Mear ferthr dhape c hoit.</l>
-               <l facs="#facs__eSc_line_dcc86646">2e heen cootre Te Corntry. The Ege Ue gouthsul</l>
-               <l facs="#facs__eSc_line_01c58aa3">deie. lu staaits. Qui bus batt tue, toetduens</l>
-               <l facs="#facs__eSc_line_b4948567">Entez dous. Insron. no Uudz ns hbrarq</l>
-               <l facs="#facs__eSc_line_de4b6a7f">Rens runq athe don</l>
-               <l facs="#facs__eSc_line_613f54a3">Me emportance, Ue audience</l>
-               <l facs="#facs__eSc_line_f002d32e">Se pablie, en vur renne.</l>
-               <l facs="#facs__eSc_line_30991ca8">Enongnitn.</l>
-               <l facs="#facs__eSc_line_b0953054">The vong.. The cetet our preme b vi mortmnels</l>
-               <l facs="#facs__eSc_line_1eb4bba3">Rlothine Vrand srtits</l>
-               <l facs="#facs__eSc_line_978b8776">Harreson. et the reshit Iutrence at laits ee ree</l>
-               <l facs="#facs__eSc_line_164b369c">Fnntand. Ao me lorer brison Ioir</l>
-               <l facs="#facs__eSc_line_29c572dd">Vers Hloushmas. (Alos Chaules)</l>
-               <l facs="#facs__eSc_line_91e2ad68">Qhii fent Chaplis, 26</l>
-               <l facs="#facs__eSc_line_2a2d7227">Ieme Leuzh L Ren atardroiche</l>
-               <l facs="#facs__eSc_line_8ea499d0">The pazéart Tu Maigne. Ne plas</l>
+              <p>
+               <l facs="#facs__eSc_line_4728c5aa"><hi rend="underline">Crot, Ninn &amp; Pulley –– the 3 influences</hi></l>
+               <l facs="#facs__eSc_line_27bd0adb">Might <add place="above">begin</add> be a [fictitious?] review of a <del>book</del> <choice>
+            <sic>hist</sic>
+            <corr>history</corr>
+          </choice> of <choice>
+            <sic>Eng. Lit.</sic>
+            <corr>English literature</corr></choice></l>
+               <l facs="#facs__eSc_line_bb0e1713">What it omits. Try to write lit the other way round,</l>
+               <l facs="#facs__eSc_line_dd7c1dea">define the influences: the affect; the growth; the</l>
+               <l facs="#facs__eSc_line_8e25d814">surroundings, also the inner current   all left out in </l>
+               <l facs="#facs__eSc_line_9aca59d5">text books written for Pulley. Semiramis.</l>
+               <l facs="#facs__eSc_line_4c5b41ef">Aspasia –– witches &amp; faeries.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_9a0e77f5">[Division?] of novelists into ventriloquists: soliloquists</l>
+               <l facs="#facs__eSc_line_3115d1f9">What is creation? The <del>old m</del>Mrs F's account.</l>
+               <l facs="#facs__eSc_line_90e6c3b4">The virtue of our age that people don't rest on their</l>
+               <l facs="#facs__eSc_line_53c093d6">laurels. Perpetually broken up. Renewing. No</l>
+               <l facs="#facs__eSc_line_6a5ad277">conclusion. Perhaps the necessary effort of coming</l>
+               <l facs="#facs__eSc_line_7a35bb20">continuing after so many other writers: a great choice of</l>
+               <l facs="#facs__eSc_line_0b13ced1">models –– examples. For instance, Reads admiration for Ruskin.</l>
+               <l facs="#facs__eSc_line_8529cf14">Reviving the old fashion: No great poet: see Yeats. The</l>
+               <l facs="#facs__eSc_line_2574716e">times too big? – or too close to us – for great poetry.</l>
+              </p>
+               <l facs="#facs__eSc_line_4215aeed">Idea for the shape of the book.</l>
+               <l facs="#facs__eSc_line_dcc86646">To begin with the country. The eye the youthful</l>
+               <l facs="#facs__eSc_line_01c58aa3">scene. Our floods. This brings back the wildness.</l>
+               <l facs="#facs__eSc_line_b4948567">Out of doors. <hi rend="underline">Indoors no study no library</hi></l>
+               <l facs="#facs__eSc_line_de4b6a7f"><hi rend="underline">Songs sung at the door</hi></l>
+               <l facs="#facs__eSc_line_613f54a3">The importance of the audience.</l>
+               <l facs="#facs__eSc_line_f002d32e">No public, in our sense.</l>
+               <l facs="#facs__eSc_line_30991ca8">Anonymity.</l>
+               <l facs="#facs__eSc_line_b0953054">The song... The call to our primitive instincts.</l>
+               <l facs="#facs__eSc_line_1eb4bba3">Rhythm. Sound. Sight.</l>
+               <l facs="#facs__eSc_line_978b8776">Harrison: at the right distance, at last, to see</l>
+               <l facs="#facs__eSc_line_164b369c">England. No one looked before that.</l>
+               <l facs="#facs__eSc_line_29c572dd">Piers Plowman (after Chaucer)</l>
+               <l facs="#facs__eSc_line_91e2ad68">The first chapter <del>Th</del></l>
+               <l facs="#facs__eSc_line_2a2d7227">Some single figure. Bess of Hardwick.</l>
+               <l facs="#facs__eSc_line_8ea499d0">The pageant. The Masque. The play.</l>
             </ab></div>
       </body>
    </text>

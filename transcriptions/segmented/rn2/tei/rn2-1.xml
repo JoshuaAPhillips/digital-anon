@@ -1,15 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt/>
-         <seriesStmt/>
-         <sourceDesc>
-            <bibl/>
-         </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-      </profileDesc>
-   </teiHeader>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
    <facsimile>
       <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
          <graphic url="rn2-1.jpg" width="2625px" height="3500px"/>
@@ -55,41 +95,68 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
-               <l facs="#facs__eSc_line_6007ad57">S^a ept</l>
-               <l facs="#facs__eSc_line_ae437a58">Readuy at Randons. a lurnnq Me Jage</l>
-               <l facs="#facs__eSc_line_bcc18a93">1920</l>
-               <l facs="#facs__eSc_line_083e10b1">Notis.</l>
-               <l facs="#facs__eSc_line_ab66e411">J hgen urte sushit cotutres hefône 2h</l>
-               <l facs="#facs__eSc_line_d12905c4">Me offut ez coentce npencentieu Jatt. Volugched.</l>
-               <l facs="#facs__eSc_line_1ead3bc7">Recdea asi Vute es to fend me tud qu vult cez</l>
-               <l facs="#facs__eSc_line_0afaf30a">Vingr veendont. L'it ent bost regut anctu</l>
-               <l facs="#facs__eSc_line_0fc8fc0c">Rupte time de puna. Jn pou Cntélume E bropratetes,</l>
-               <l facs="#facs__eSc_line_49bf8af5">Lines ezhegple Echegs folloir The fentime slentV</l>
-               <l facs="#facs__eSc_line_e2d9d22e">cha eue moment. no periors : No tept boit.</l>
-               <l facs="#facs__eSc_line_9d9c05f6">Rend nn vedeles trste tahhe Jom memorq.</l>
-               <l facs="#facs__eSc_line_7da6c095">624</l>
-               <l facs="#facs__eSc_line_ad9b635d">Te Lese en n Bock.</l>
-               <l facs="#facs__eSc_line_c201c154">321</l>
-               <l facs="#facs__eSc_line_fe80be3a">Vahe a livrie hacte a tonee, tauethes ; il frunlz.</l>
-               <l facs="#facs__eSc_line_4b872ce6">Pouteh boite ? Pont Vup ven préc.</l>
-               <l facs="#facs__eSc_line_96375b51">Farnesoni Mabres Instand.</l>
-               <l facs="#facs__eSc_line_1936868e">Mre Martiff mouler ote en Rinthems.</l>
-               <l facs="#facs__eSc_line_9e850749">Mor mann depandments a peron tra. reidre hestruau</l>
-               <l facs="#facs__eSc_line_a1b392f1">putilguts, porli ne ti entertent.</l>
-               <l facs="#facs__eSc_line_b9f27fa1">re fonces télles eentr ha alletad towant te court p</l>
-               <l facs="#facs__eSc_line_18e2d7c3">Chorch. Ves reputs J perecud a Juttons</l>
-               <l facs="#facs__eSc_line_6ef8c38f"/>
-               <l facs="#facs__eSc_line_2e5d9375">Chant as à Caivier Varran ren ly Treminals, lchat +</l>
-               <l facs="#facs__eSc_line_60c4f4d3">parr pa tuthe in 1576. ne mhechionr nter thre medeain.</l>
-               <l facs="#facs__eSc_line_6016217a">Mue Marih en songe I5e Jnor ee un laitle a Brrenlz.</l>
-               <l facs="#facs__eSc_line_5a02abb3">Te jonq matay sertmit. Un map q lendon</l>
-               <l facs="#facs__eSc_line_a4ab5dbf">Alha Tenren. NonGth Lemes trad nastted : a</l>
-               <l facs="#facs__eSc_line_79bb0ff4">matun ven heti n Mhanl  soiss V. et L.</l>
-               <l facs="#facs__eSc_line_01438b17">Mn en Coutements- the ⟦⟧ie cetan Emnctious alut, ni</l>
-               <l facs="#facs__eSc_line_fe10cd08">beun. fett ho prople alvax.</l>
-               <l facs="#facs__eSc_line_76d4f6c9">fa de 19^b Centun. Ang. Hare. hai moher (retutiis)</l>
-               <l facs="#facs__eSc_line_cb0bd013">Ilene Mlintration teuy Jameés sutgmit. Orhert on</l>
-               <l facs="#facs__eSc_line_6ae60ae3">Jrs fencrahons. Letmeh merts Iure</l>
+              <p>
+                <add>
+               <l facs="#facs__eSc_line_6007ad57">18<hi rend="superscript">th</hi> Sept</l>
+               <l facs="#facs__eSc_line_bcc18a93">1940</l>
+                </add>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_ae437a58"><hi rend="underline">Reading at Random</hi> or Turning the Page</l>
+               <l facs="#facs__eSc_line_083e10b1"><hi rend="underline">Notes</hi>.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_ab66e411">To begin with English country before E<hi rend="superscript">th</hi>.</l>
+               <l facs="#facs__eSc_line_d12905c4">The effect of country upon writers. Hall [Holingshed?]</l>
+               <l facs="#facs__eSc_line_1ead3bc7">The idea of the book is to find the end of a ball of</l>
+               <l facs="#facs__eSc_line_0afaf30a">string &amp; wind out. Let one book suggest another.</l>
+               <l facs="#facs__eSc_line_0fc8fc0c">Keep to time sequence. Pass from criticism to biography.</l>
+               <l facs="#facs__eSc_line_49bf8af5">Lives of people. Always follow the genuine scent –– the</l>
+               <l facs="#facs__eSc_line_e2d9d22e">idea of the moment. No periods': no text book.</l>
+               <l facs="#facs__eSc_line_9d9c05f6">Read very widely. Write rather from memory.</l>
+            </p>
+            <p>
+              <add>
+                 <l facs="#facs__eSc_line_7da6c095">Oct</l>
+                 <l facs="#facs__eSc_line_c201c154">3<hi rend="superscript">rd</hi></l>
+              </add>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_ad9b635d">The Life of a Book</l>
+               <l facs="#facs__eSc_line_fe80be3a">Take a living book &amp; trace, vanishing, its family</l>
+               <l facs="#facs__eSc_line_4b872ce6">But <choice>
+            <sic>wh.</sic>
+            <corr>which</corr>
+          </choice> book? But keep very free.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_96375b51">Harrison. That was England.</l>
+               <l facs="#facs__eSc_line_1936868e">His mastiff. <hi rend="underline">Months with an R in them</hi></l>
+               <l facs="#facs__eSc_line_9e850749">How many departments a person has: needing historians,</l>
+               <l facs="#facs__eSc_line_a1b392f1">psychologists; poets &amp;c. to interpret.</l>
+               <l facs="#facs__eSc_line_b9f27fa1">The forces telling in H. his attitude to the court, the</l>
+               <l facs="#facs__eSc_line_18e2d7c3">Church. <hi rend="underline">His regrets for logs of wood as pillows.</hi></l>
+               <l facs="#facs__eSc_line_6ef8c38f"><hi rend="underline">Squire Waterton</hi>. The continuity of tradition. The RC</l>
+               <l facs="#facs__eSc_line_2e5d9375">Church as a carrier. Harrison seen by Furnivall. What F.</l>
+               <l facs="#facs__eSc_line_60c4f4d3">paid for [butter?] in 1878. The inflection; also the medium</l>
+               <l facs="#facs__eSc_line_6016217a">The snatch of song: if I were in my castle at [Bovenly?]</l>
+               <l facs="#facs__eSc_line_5a02abb3">The song making instinct. The map of London</l>
+               <l facs="#facs__eSc_line_a4ab5dbf">Alfred Tennyson. Mrs G H Lewes had reflected: a</l>
+               <l facs="#facs__eSc_line_79bb0ff4">meeting was held in [March?]... in Gower <choice>
+            <sic>St.</sic>
+            <corr>Street</corr>
+          </choice> at 8.</l>
+               <l facs="#facs__eSc_line_01438b17">This is [coutements?] –– the <del>extension</del> certain emotions always in</l>
+               <l facs="#facs__eSc_line_fe10cd08">being: felt by people always.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_76d4f6c9">For the 19<hi rend="superscript">th</hi> Century. <choice>
+            <sic>Aug.</sic>
+            <corr>[Augustus?]</corr>
+          </choice> Hare, his mother (repulsive)</l>
+               <l facs="#facs__eSc_line_cb0bd013">Scene illustrating Henry James's subject. Osbert on</l>
+               <l facs="#facs__eSc_line_6ae60ae3">Two generations. Sitwell meets Hare.</l>
+            </p>
             </ab></div>
       </body>
    </text>
