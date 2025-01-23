@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M47 [Anon: For why a gods name...]. Holograph fragments, undated. Some pages paginated 1-3. 11p.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m47</idno>
+          </msIdentifier>        
+          <physDesc>
+          <p>M47 [Anon: For why a gods name...]. Holograph fragments, undated. Some pages paginated 1-3. 11p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2770" lry="3500" xml:id="facs_">
+         <graphic url="m47-19.jpg" width="2770px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="332,253 332,277 2031,242 2031,218 2025,160 1914,145 1911,145 1908,145 1879,160 1865,166 1850,160 1824,151 1821,151 1818,151 1736,160 1675,169 1666,163 1654,151 1654,148 1652,148 1649,148 1602,148 1599,148 1438,163 1377,169 1357,166 1322,154 1319,154 1316,154 1252,166 1182,177 1100,166 1044,160 1042,160 1039,160 1036,160 1027,166 1001,186 723,189 528,172 516,172 513,172 510,172 507,172 455,195 329,175 332,253" rendition="Line" xml:id="facs__eSc_line_65e92da1"/>
+            <zone points="318,358 318,390 615,367 837,382 922,355 1141,367 1190,367 1190,364 1193,364 1208,347 1237,364 1325,361 1351,338 1392,358 1401,358 1532,335 1611,350 1625,350 1742,323 1765,344 1777,344 1868,320 2084,332 2089,288 2084,224 1938,227 1938,230 1917,250 1859,250 1710,236 1450,265 1430,250 1418,250 1339,271 1298,253 1290,253 1115,262 1094,280 1007,265 986,265 986,268 966,285 747,274 674,297 551,282 528,282 382,309 315,294 318,358" rendition="Line" xml:id="facs__eSc_line_ccc4b182"/>
+            <zone points="1862,297 1754,332 1631,320 1552,344 1523,317 1511,317 1409,355 1278,358 1225,335 1214,335 1214,338 1190,355 1053,344 1001,367 925,352 846,385 753,373 712,390 650,367 642,367 577,390 496,376 332,390 338,475 545,475 575,490 586,490 612,466 621,463 788,472 974,443 1071,460 1167,443 1258,452 1412,417 1614,431 2081,385 2145,399 2157,399 2186,376 2276,393 2276,347 2270,303 1996,303 1943,320 1876,297 1862,297" rendition="Line" xml:id="facs__eSc_line_ebe62856"/>
+            <zone points="364,539 364,571 467,571 467,568 487,554 575,565 683,542 788,554 843,533 1004,542 1004,539 1018,527 1155,533 1266,510 1403,519 1433,501 1558,510 1617,492 1736,501 1812,487 1856,475 2107,463 2154,478 2162,478 2212,460 2212,437 2203,396 2110,399 2060,382 2049,382 2049,385 2031,399 1961,387 1888,417 1366,420 1278,425 1249,449 1123,434 1094,457 989,440 916,466 834,449 776,478 674,481 633,460 627,460 359,484 364,539" rendition="Line" xml:id="facs__eSc_line_944d7638"/>
+            <zone points="338,615 338,641 399,659 408,659 481,635 572,653 866,635 866,632 869,632 884,615 989,632 1100,603 1278,618 1284,618 1345,592 1500,606 1523,580 1710,574 1818,592 1818,589 1844,568 1935,586 1987,562 2025,580 2037,580 2049,565 2049,530 2043,472 1914,472 1859,495 1730,487 1678,507 1582,490 1558,516 1506,516 1450,504 1403,498 1374,522 1258,527 1220,507 1208,507 1176,530 1091,513 1047,527 1015,542 858,548 706,536 674,557 504,542 455,562 440,571 335,571 338,615" rendition="Line" xml:id="facs__eSc_line_895e223c"/>
+            <zone points="370,697 373,749 446,732 475,743 484,743 554,708 642,737 977,723 1056,688 1217,705 1237,700 1249,691 1278,711 1290,711 1456,670 1561,679 1622,665 1640,673 1646,679 1654,679 1859,653 2215,673 2282,635 2282,618 2276,568 2206,574 2157,557 2078,574 2002,560 1798,568 1754,592 1730,574 1640,574 1567,603 1444,583 1357,586 1284,615 1223,595 1211,595 1182,618 1074,597 1004,630 919,630 893,612 878,612 878,615 858,632 782,621 647,641 364,641 370,697" rendition="Line" xml:id="facs__eSc_line_40069e6c"/>
+            <zone points="1952,632 1908,635 1859,650 1619,650 1579,682 1576,688 1438,694 1412,676 1398,676 1377,700 1266,705 1202,679 1132,682 1044,720 936,697 896,732 779,737 709,711 700,711 577,749 519,732 510,732 458,746 429,729 414,729 379,755 385,837 507,840 566,816 627,834 791,825 852,799 922,810 969,790 1050,802 1100,805 1132,784 1152,796 1167,799 1506,778 1506,775 1532,752 1859,732 2078,740 2078,702 2072,650 1952,632" rendition="Line" xml:id="facs__eSc_line_d94064f0"/>
+            <zone points="373,953 598,971 665,930 720,956 729,956 840,912 1015,901 1077,910 1117,895 1187,918 1258,907 1293,898 1371,918 1450,912 1497,877 1654,895 1981,848 2019,863 2151,854 2145,775 2139,723 2060,723 2051,737 1993,726 1946,749 1803,740 1786,764 1698,770 1450,770 1436,775 1401,796 1275,805 1202,790 1132,816 1062,802 989,828 863,822 843,842 709,851 560,842 560,845 531,866 452,854 423,875 370,860 373,953" rendition="Line" xml:id="facs__eSc_line_d3bf588c"/>
+            <zone points="391,1038 394,1073 642,1047 656,1050 677,1058 680,1058 683,1058 685,1058 688,1058 709,1047 720,1038 738,1044 788,1058 791,1058 793,1058 1357,980 1351,924 1342,880 1170,901 1152,898 1100,886 1097,886 1094,886 1018,910 971,924 942,918 901,910 899,910 896,910 834,927 770,947 729,939 703,933 700,933 630,942 627,942 624,942 624,945 618,950 601,971 484,982 458,965 455,965 452,965 449,965 382,971 391,1038" rendition="Line" xml:id="facs__eSc_line_41617e17"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+               <l facs="#facs__eSc_line_65e92da1">me pelteeomte mo abhlur tebes, mud Me had daits</l>
+               <l facs="#facs__eSc_line_ccc4b182">m'a Leeve Luyins. Lur the had veiur a Stome inthr</l>
+               <l facs="#facs__eSc_line_ebe62856">Nost sea ? muste tue Rigs chipe. Te Preut homne vu ne</l>
+               <l facs="#facs__eSc_line_944d7638">telent hen. M the tres There num boites entre trecn,</l>
+               <l facs="#facs__eSc_line_895e223c">à dap Menmen en oid frosrhn Vhys Maniez mithe</l>
+               <l facs="#facs__eSc_line_40069e6c">mond. Md dom tu mant came tre trandtun teylis</l>
+               <l facs="#facs__eSc_line_d94064f0">levd snctndut, tout le hineen laii but he tras dre</l>
+               <l facs="#facs__eSc_line_d3bf588c">phe has mon, at Tre frem player actin lis atrendey</l>
+               <l facs="#facs__eSc_line_41617e17">hant belvre Queinz Clnbethe</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

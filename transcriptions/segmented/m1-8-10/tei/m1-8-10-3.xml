@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 37-42. 6p, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m1-8-10</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M1-8, 10 of 10 [The great house is visible in the pages...]. In back [Articles, essays, fiction and reviews], vol. 8 [1938-39], pp. 42. 6p.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2721" lry="3500" xml:id="facs_">
+         <graphic url="m1-8-10-3.jpg" width="2721px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="712,253 721,282 878,236 872,207 846,142 794,177 767,175 735,172 732,172 729,172 726,172 726,175 694,201 712,253" rendition="Line" xml:id="facs__eSc_line_bfecf334"/>
+            <zone points="843,285 843,306 945,320 978,297 1091,317 1135,291 1237,312 1418,282 1448,300 1462,300 1494,280 1684,285 1824,265 1921,285 2020,259 2151,271 2166,253 2166,256 2218,277 2230,277 2259,256 2303,274 2481,268 2560,239 2560,224 2551,163 2382,177 2268,166 2265,172 2250,180 2140,169 2058,189 2017,177 1994,175 1961,195 1813,198 1769,183 1757,183 1728,201 1667,186 1655,186 1632,204 1532,192 1503,192 1503,195 1483,210 1453,195 1439,195 1424,212 1234,218 1170,204 1135,204 913,230 840,215 843,285" rendition="Line" xml:id="facs__eSc_line_648ee5cc"/>
+            <zone points="829,355 829,385 1045,393 1045,390 1071,367 1129,387 1138,387 1188,367 1208,385 1415,379 1471,355 1491,350 1611,370 1725,341 1789,361 1801,361 1801,358 1824,341 1926,358 1947,332 2040,352 2049,352 2078,326 2213,341 2213,338 2233,320 2291,320 2294,297 2285,245 1036,306 957,291 937,309 840,297 826,306 829,355" rendition="Line" xml:id="facs__eSc_line_2c0c9852"/>
+            <zone points="846,449 846,475 1197,443 1232,460 1243,460 1293,443 1395,455 1550,422 1643,431 1763,414 1786,428 1786,431 1801,431 1821,417 2034,417 2061,396 2169,408 2195,385 2215,399 2297,385 2443,393 2443,355 2437,315 2233,306 2140,329 2093,315 2084,315 2037,335 1988,320 1888,344 1856,329 1845,329 1833,347 1713,338 1588,361 1544,347 1532,347 1512,364 1340,358 1237,382 1039,376 840,405 846,449" rendition="Line" xml:id="facs__eSc_line_dc52375b"/>
+            <zone points="846,533 846,557 1100,530 1191,542 1232,522 1319,533 1319,530 1328,525 1337,513 1445,507 1705,507 1719,490 1956,490 2040,466 2055,481 2064,481 2213,472 2256,452 2370,460 2420,440 2420,425 2411,367 2151,402 2081,387 2064,387 2020,411 1953,402 1894,420 1789,408 1763,408 1725,431 1655,417 1637,417 1556,443 1488,428 1468,428 1451,449 1415,440 1404,440 1380,457 1121,472 1097,455 1088,455 966,463 916,487 840,475 846,533" rendition="Line" xml:id="facs__eSc_line_4eede2e1"/>
+            <zone points="1897,463 1888,463 1842,484 1713,478 1649,501 1445,498 1424,522 1392,507 1380,507 1351,530 1264,513 1141,545 1106,527 1094,527 1062,554 1033,545 1024,545 975,562 910,542 902,542 861,560 867,638 1068,635 1144,612 1191,630 1415,612 1480,586 1561,597 1632,571 1649,586 1664,586 1713,554 1956,536 2017,557 2026,557 2104,536 2160,545 2213,519 2283,539 2461,527 2452,443 2361,434 2347,455 2198,463 2175,446 2163,446 2125,466 2026,457 1918,478 1897,463" rendition="Line" xml:id="facs__eSc_line_2664a0a5"/>
+            <zone points="1480,644 1480,685 1550,685 1567,665 1678,679 1678,676 1707,653 1821,673 1891,644 1991,665 2023,635 2148,635 2192,656 2198,656 2280,650 2280,647 2303,630 2323,647 2338,647 2338,644 2361,624 2426,621 2426,603 2420,557 2213,539 2140,565 2087,545 1947,554 1874,586 1807,586 1772,560 1757,560 1731,592 1474,592 1480,644" rendition="Line" xml:id="facs__eSc_line_ab5fd404"/>
+            <zone points="948,711 948,726 1404,726 1404,691 1401,650 1354,627 1351,627 1348,627 1345,627 1267,653 1208,632 1205,632 1202,632 1199,632 1197,632 1164,656 1010,641 1007,641 1004,641 945,659 948,711" rendition="Line" xml:id="facs__eSc_line_a26baff9"/>
+            <zone points="878,787 878,816 972,813 1013,790 1185,799 1430,781 1433,775 1451,761 1667,767 1713,743 1973,746 2037,720 2271,708 2274,694 2268,644 2230,632 2002,670 1932,653 1780,662 1731,688 1681,670 1567,676 1547,694 1471,682 1424,708 1246,708 1214,723 1156,705 995,737 913,720 872,740 878,787" rendition="Line" xml:id="facs__eSc_line_2e49e61d"/>
+            <zone points="887,880 887,907 2230,796 2230,767 2221,711 1947,749 1903,737 1897,735 1894,735 1891,735 1888,735 1880,737 1842,758 1766,749 1745,746 1742,746 1740,746 1737,746 1731,749 1702,772 1366,799 1278,787 1261,787 1258,787 1255,787 1252,787 1249,790 1223,810 1188,802 1185,802 1182,802 1179,802 1118,819 1010,810 995,810 992,810 989,810 986,810 983,813 948,834 881,822 887,880" rendition="Line" xml:id="facs__eSc_line_6de515f6"/>
+            <zone points="875,962 875,980 1433,959 1518,933 1594,947 1602,947 1634,927 1702,936 1725,936 1725,933 1745,915 1894,907 1985,921 2029,898 2096,912 2110,912 2405,892 2405,857 2396,807 2242,819 2177,799 2166,799 2119,828 2002,810 1845,822 1783,851 1658,834 1582,863 1553,842 1538,842 1538,845 1512,869 1453,848 1445,848 1348,880 1313,866 1302,866 1272,889 1033,889 937,910 870,898 875,962" rendition="Line" xml:id="facs__eSc_line_63ec43ec"/>
+            <zone points="2046,883 2034,883 2008,904 1786,904 1745,921 1681,907 1661,910 1617,930 1532,918 1500,939 1410,933 1305,956 1182,945 881,985 887,1029 890,1099 934,1102 969,1076 1027,1093 1036,1093 1080,1070 1179,1073 1232,1055 1258,1073 1459,1061 1509,1023 1681,1026 1725,1006 1827,1032 1836,1032 1929,988 2020,982 2093,1009 2093,936 2087,895 2067,880 2046,883" rendition="Line" xml:id="facs__eSc_line_2453d3ca"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+              <p>
+               <l facs="#facs__eSc_line_bfecf334"><add>But</add></l>
+               <l facs="#facs__eSc_line_648ee5cc">It is only when she reads that she comments: when she goes to</l>
+               <l facs="#facs__eSc_line_2c0c9852">the play she says only "<quote rend="inline" source="#">Supped with my Lord &amp; Lady</quote></l>
+               <l facs="#facs__eSc_line_dc52375b"><quote source="#" rend="inline"><rs type="person" xml:id="psn-arun" key="Arundel, Lord and Lady">Arundel</rs> &amp; after supper I saw the play of the <rs xml:id="lit-madl">Mad Lover</rs> in </quote></l>
+               <l facs="#facs__eSc_line_4eede2e1"><quote source="#" rend="inline">the Hall</quote>.. or "<quote source="#" rend="inline">We stood to see the Masque in the</quote></l>
+               <l facs="#facs__eSc_line_2664a0a5"><quote source="#" rend="inline">box with my Lady <rs type="person" xml:id="psn-ruth">Ruthven</rs>.</quote>" For the reader was born</l>
+            </p>
+               <l facs="#facs__eSc_line_a26baff9"><del>The reader</del> <del>[is here?]</del></l>
+               <l facs="#facs__eSc_line_ab5fd404">presumably when the playhouse</l>
+               <l facs="#facs__eSc_line_2e49e61d">shut. The curious faculty of making [houses?] &amp;</l>
+               <l facs="#facs__eSc_line_6de515f6">countries visible, men &amp; women &amp; their emotions, from</l>
+               <l facs="#facs__eSc_line_63ec43ec">marks on a printed page, was in <del>abey</del> undeveloped</l>
+               <l facs="#facs__eSc_line_2453d3ca">so long as the play was dominant. The</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

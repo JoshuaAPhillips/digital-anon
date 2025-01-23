@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-12-17T22:12:25.081900+00:00</Created>
+        <LastChange>2025-01-07T14:26:17.268438+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="m45-1.jpg" imageWidth="2766" imageHeight="3500">
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_8c158017" >
+        <Coords points="989,991 977,1067 1067,1082 1070,1082 1073,1082 1091,1073 1120,1055 1152,1073 1158,1076 1161,1076 1164,1079 1257,1079 1266,1032 1269,985 1181,971 1152,942 1094,892 1094,889 1091,889 1088,889 1003,889 989,991"/>
+        <Baseline points="992,992 1267,1034"/>
+        <TextEquiv>
+          <Unicode>Anon</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-01-08T10:19:51.844218+00:00</Created>
+        <LastChange>2025-01-08T10:20:27.715359+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="m53-4.jpg" imageWidth="2768" imageHeight="3500">
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_98651390" >
+        <Coords points="939,154 939,189 985,192 988,154 988,116 939,116 939,154"/>
+        <Baseline points="940,156 989,156"/>
+        <TextEquiv conf="0.9998127818107605">
+          <Unicode>2</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d08a3e18" >
+        <Coords points="819,210 819,236 869,250 875,210 875,163 819,163 819,210"/>
+        <Baseline points="821,212 877,212"/>
+        <TextEquiv conf="0.9999836683273315">
+          <Unicode>4</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d996cf6e" >
+        <Coords points="767,312 764,352 2272,344 2275,317 2269,259 767,265 767,312"/>
+        <Baseline points="770,314 2277,319"/>
+        <TextEquiv>
+          <Unicode>m53-4 Dut for him of course we have to wait until winter was</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0290e2f9" >
+        <Coords points="755,428 755,455 927,455 927,425 918,358 752,379 755,428"/>
+        <Baseline points="758,430 930,428"/>
+        <TextEquiv conf="0.9999201416969299">
+          <Unicode>Dast.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

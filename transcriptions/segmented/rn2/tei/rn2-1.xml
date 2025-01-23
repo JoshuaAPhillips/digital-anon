@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 1r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
+         <graphic url="rn2-1.jpg" width="2625px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="565,653 568,708 618,685 667,697 688,702 691,702 694,702 778,685 781,647 775,589 662,568 659,568 656,568 562,595 565,653" rendition="Line" xml:id="facs__eSc_line_6007ad57"/>
+            <zone points="1114,618 1114,679 1292,688 1370,670 1382,670 1452,685 1516,667 1580,682 1639,650 1787,650 1857,679 1869,679 1869,676 1901,647 1960,647 2018,676 2027,676 2094,644 2094,603 2088,551 1916,539 1834,562 1703,542 1665,568 1522,554 1487,571 1437,548 1426,548 1394,574 1248,574 1169,551 1160,551 1111,562 1114,618" rendition="Line" xml:id="facs__eSc_line_ae437a58"/>
+            <zone points="600,740 600,767 755,764 755,735 749,685 595,682 600,740" rendition="Line" xml:id="facs__eSc_line_bcc18a93"/>
+            <zone points="1120,737 1120,767 1318,752 1321,735 1315,691 1117,685 1120,737" rendition="Line" xml:id="facs__eSc_line_083e10b1"/>
+            <zone points="1175,737 1160,737 1102,761 1085,749 1076,749 898,775 840,755 708,761 714,857 799,854 840,875 848,875 912,845 1026,840 1108,857 1195,831 1362,840 1496,831 1519,813 1566,825 1577,825 1577,822 1595,805 1621,816 1627,775 1621,714 1472,711 1443,735 1432,726 1420,726 1373,743 1175,737" rendition="Line" xml:id="facs__eSc_line_ab66e411"/>
+            <zone points="714,895 714,918 1884,842 1884,813 1878,778 708,845 714,895" rendition="Line" xml:id="facs__eSc_line_d12905c4"/>
+            <zone points="717,956 717,991 1776,912 1776,883 1770,845 1589,845 1586,845 1481,866 1472,866 1470,866 1437,854 1435,854 1432,854 1429,854 1388,872 1385,872 1373,872 1268,866 1265,866 1192,883 1175,886 1160,886 1096,877 1093,877 711,912 717,956" rendition="Line" xml:id="facs__eSc_line_1ead3bc7"/>
+            <zone points="717,1020 717,1038 1429,997 1432,997 1464,980 1467,980 1472,980 1528,988 1531,988 1849,947 1849,927 1840,886 711,977 717,1020" rendition="Line" xml:id="facs__eSc_line_0afaf30a"/>
+            <zone points="705,1087 705,1111 1927,1009 1927,980 1922,933 1382,988 1350,980 1341,977 1338,977 1335,977 1332,977 1318,982 1283,997 1260,985 1251,982 1248,982 1245,982 1242,982 1207,991 1137,1009 1102,1000 1087,997 1085,997 1082,997 1079,997 1058,1003 1003,1020 945,1012 924,1012 921,1012 918,1012 910,1015 877,1035 700,1035 705,1087" rendition="Line" xml:id="facs__eSc_line_0fc8fc0c"/>
+            <zone points="700,1137 700,1163 1201,1134 1394,1105 1432,1099 1437,1099 1461,1111 1464,1111 1467,1111 1764,1070 1779,1070 1782,1070 1863,1076 1866,1076 1869,1076 1872,1076 1895,1058 1895,1032 1890,991 694,1096 700,1137" rendition="Line" xml:id="facs__eSc_line_49bf8af5"/>
+            <zone points="705,1207 705,1227 1925,1122 1925,1099 1919,1055 930,1146 907,1134 904,1134 901,1134 898,1134 831,1155 740,1149 737,1149 735,1149 700,1163 705,1207" rendition="Line" xml:id="facs__eSc_line_e2d9d22e"/>
+            <zone points="720,1262 726,1306 825,1277 848,1295 851,1295 854,1295 857,1295 860,1295 866,1295 942,1271 1015,1280 1029,1280 1032,1280 1076,1274 1274,1239 1344,1248 1373,1251 1376,1251 1437,1239 1548,1216 1604,1222 1645,1227 1647,1227 1785,1204 1785,1172 1776,1122 784,1216 743,1207 740,1207 737,1207 735,1207 732,1207 714,1216 720,1262" rendition="Line" xml:id="facs__eSc_line_9d9c05f6"/>
+            <zone points="522,1356 522,1400 618,1376 618,1356 615,1292 522,1309 522,1356" rendition="Line" xml:id="facs__eSc_line_7da6c095"/>
+            <zone points="717,1356 717,1385 758,1400 761,1400 764,1400 767,1400 807,1382 810,1382 866,1402 869,1402 872,1402 1178,1367 1181,1338 1175,1300 1099,1283 1096,1283 982,1300 912,1309 889,1300 872,1292 869,1292 866,1292 831,1300 767,1315 714,1300 717,1356" rendition="Line" xml:id="facs__eSc_line_ad9b635d"/>
+            <zone points="536,1423 542,1455 621,1417 618,1402 606,1365 525,1382 536,1423" rendition="Line" xml:id="facs__eSc_line_c201c154"/>
+            <zone points="702,1449 702,1470 971,1470 1134,1432 1230,1443 1321,1411 1350,1426 1356,1426 1472,1420 1499,1397 1507,1394 1758,1394 1758,1391 1840,1365 1840,1335 1831,1277 1580,1300 1548,1327 1251,1341 1061,1373 1023,1359 1012,1359 985,1379 915,1370 875,1391 737,1385 697,1400 702,1449" rendition="Line" xml:id="facs__eSc_line_fe80be3a"/>
+            <zone points="700,1519 700,1545 746,1560 755,1560 796,1537 988,1534 1093,1499 1163,1513 1219,1487 1330,1496 1359,1472 1481,1478 1577,1443 1577,1420 1566,1367 1458,1400 1198,1426 1172,1417 1149,1414 1108,1435 1076,1426 910,1458 895,1455 875,1446 863,1446 837,1467 735,1461 694,1478 700,1519" rendition="Line" xml:id="facs__eSc_line_4b872ce6"/>
+            <zone points="700,1589 700,1618 851,1615 854,1615 857,1615 866,1607 877,1598 939,1598 1038,1601 1041,1601 1044,1601 1047,1601 1047,1598 1050,1598 1055,1586 1058,1583 1067,1586 1114,1595 1117,1595 1254,1566 1254,1542 1248,1502 1114,1493 1111,1493 1108,1493 1058,1513 1041,1519 997,1516 918,1510 915,1510 912,1510 889,1522 866,1534 694,1534 700,1589" rendition="Line" xml:id="facs__eSc_line_96375b51"/>
+            <zone points="688,1639 688,1668 1557,1612 1557,1575 1551,1534 682,1589 688,1639" rendition="Line" xml:id="facs__eSc_line_1936868e"/>
+            <zone points="1239,1601 1227,1601 688,1659 694,1706 694,1726 1857,1630 1857,1610 1852,1572 1653,1563 1650,1563 1647,1563 1551,1592 1542,1598 1507,1598 1239,1598 1239,1601" rendition="Line" xml:id="facs__eSc_line_9e850749"/>
+            <zone points="714,1758 714,1776 1408,1732 1592,1697 1592,1677 1583,1645 708,1720 714,1758" rendition="Line" xml:id="facs__eSc_line_a1b392f1"/>
+            <zone points="1134,1720 1117,1744 1058,1747 988,1732 971,1732 971,1735 936,1758 863,1761 840,1747 807,1750 778,1767 705,1752 711,1834 2067,1732 2062,1674 1817,1671 1761,1688 1750,1677 1662,1682 1662,1685 1642,1703 1519,1694 1519,1697 1496,1715 1414,1709 1370,1709 1260,1732 1134,1720" rendition="Line" xml:id="facs__eSc_line_b9f27fa1"/>
+            <zone points="1143,1785 1087,1785 1026,1793 708,1814 711,1887 825,1887 825,1884 898,1849 962,1875 971,1875 1047,1855 1064,1872 1172,1866 1216,1825 1528,1808 1601,1828 1610,1828 1650,1811 1674,1831 1805,1825 1892,1790 1892,1776 1887,1744 1152,1782 1143,1785" rendition="Line" xml:id="facs__eSc_line_18e2d7c3"/>
+            <zone points="" rendition="Line" xml:id="facs__eSc_line_6ef8c38f"/>
+            <zone points="720,1983 720,2012 974,1983 1085,1992 1190,1965 1408,1965 1440,1945 1475,1960 1843,1916 1983,1919 2015,1898 2044,1913 2053,1913 2117,1890 2117,1869 2108,1820 1688,1869 1551,1860 1505,1860 1461,1887 1397,1878 1367,1895 1262,1890 1233,1904 1195,1887 1187,1887 1079,1922 831,1939 714,1927 720,1983" rendition="Line" xml:id="facs__eSc_line_2e5d9375"/>
+            <zone points="708,2050 714,2082 737,2067 848,2070 895,2050 1184,2041 1283,2018 1312,2030 1321,2030 1356,2012 1449,2018 2056,1951 2056,1933 2050,1892 1939,1887 1758,1922 1478,1942 1429,1930 1417,1930 1388,1951 1318,1939 1280,1960 1219,1948 1050,1980 982,1968 910,1992 892,1977 883,1977 784,1986 784,1989 761,2003 702,1995 708,2050" rendition="Line" xml:id="facs__eSc_line_60c4f4d3"/>
+            <zone points="714,2105 714,2129 1000,2123 1006,2123 1017,2123 1020,2123 1023,2123 1050,2108 1052,2105 1067,2105 1152,2111 1155,2111 1157,2111 1160,2111 1178,2097 1187,2091 1207,2094 1251,2102 1254,2102 1257,2102 1260,2102 1260,2100 1262,2100 1271,2091 1274,2085 1335,2085 1449,2085 1452,2085 1455,2085 1478,2073 1490,2067 1499,2073 1513,2079 1516,2079 1519,2079 1522,2079 1566,2067 1598,2059 1671,2059 1752,2059 1755,2059 1758,2059 1782,2050 1822,2035 1989,2035 1986,1995 1980,1960 708,2067 714,2105" rendition="Line" xml:id="facs__eSc_line_6016217a"/>
+            <zone points="688,2152 688,2187 1723,2114 1723,2076 1717,2035 682,2108 688,2152" rendition="Line" xml:id="facs__eSc_line_5a02abb3"/>
+            <zone points="700,2219 700,2242 904,2228 907,2228 930,2245 933,2245 936,2245 939,2245 942,2245 1009,2222 1242,2222 1242,2219 1446,2184 1542,2193 1545,2193 1548,2193 1551,2193 1580,2170 1586,2170 1642,2184 1645,2184 1647,2184 1945,2137 1945,2111 1939,2076 694,2181 700,2219" rendition="Line" xml:id="facs__eSc_line_a4ab5dbf"/>
+            <zone points="691,2283 691,2301 819,2315 822,2315 1041,2275 1108,2263 1152,2266 1260,2275 1262,2275 1265,2275 1324,2251 1359,2237 1502,2228 1519,2237 1540,2248 1542,2248 1545,2248 1750,2228 1752,2228 1779,2216 1805,2205 1831,2213 1849,2216 1852,2216 1855,2216 1983,2199 1983,2164 1977,2126 685,2231 691,2283" rendition="Line" xml:id="facs__eSc_line_79bb0ff4"/>
+            <zone points="691,2339 691,2368 816,2374 819,2374 959,2345 977,2342 985,2342 1061,2350 1064,2350 1067,2350 1070,2350 1096,2330 1099,2330 1114,2330 1245,2333 1248,2333 1741,2286 1744,2286 1796,2263 1802,2263 1814,2263 1919,2269 1922,2269 2070,2237 2070,2207 2065,2172 685,2289 691,2339" rendition="Line" xml:id="facs__eSc_line_01438b17"/>
+            <zone points="720,2397 726,2435 767,2420 828,2423 877,2426 880,2426 883,2426 921,2412 977,2394 1003,2403 1029,2412 1032,2412 1035,2412 1038,2412 1041,2412 1058,2397 1073,2385 1105,2391 1149,2400 1152,2400 1155,2400 1204,2380 1227,2371 1268,2374 1379,2380 1382,2380 1385,2380 1388,2380 1417,2356 1423,2350 1472,2347 1472,2327 1464,2289 714,2356 720,2397" rendition="Line" xml:id="facs__eSc_line_fe10cd08"/>
+            <zone points="714,2487 717,2525 880,2496 912,2511 915,2511 918,2511 921,2511 982,2487 1012,2502 1015,2502 1017,2502 1026,2502 1522,2438 1977,2417 1977,2377 1971,2333 708,2432 714,2487" rendition="Line" xml:id="facs__eSc_line_76d4f6c9"/>
+            <zone points="729,2546 732,2581 977,2572 980,2572 982,2572 994,2560 1003,2555 1047,2555 1149,2557 1152,2557 1155,2557 1198,2540 1216,2534 1260,2534 1373,2537 1376,2537 1379,2537 1435,2517 1449,2514 1472,2514 1566,2520 1569,2520 1671,2496 1694,2490 1697,2493 1715,2505 1717,2505 1720,2505 1723,2505 1860,2493 2015,2461 2015,2429 2006,2385 723,2508 729,2546" rendition="Line" xml:id="facs__eSc_line_cb0bd013"/>
+            <zone points="761,2619 764,2665 974,2627 1087,2619 1111,2633 1114,2633 1117,2633 1120,2633 1122,2633 1128,2630 1181,2610 1254,2619 1265,2619 1268,2619 1271,2619 1283,2616 1359,2590 1741,2566 1738,2522 1732,2487 752,2566 761,2619" rendition="Line" xml:id="facs__eSc_line_6ae60ae3"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+              <p>
+                <add>
+               <l facs="#facs__eSc_line_6007ad57">18<hi rend="superscript">th</hi> Sept</l>
+               <l facs="#facs__eSc_line_bcc18a93">1940</l>
+                </add>
+            </p>
+              <p>
+               <l facs="#facs__eSc_line_ae437a58"><hi rend="underline">Reading at Random</hi> or Turning the Page</l>
+               <l facs="#facs__eSc_line_083e10b1"><hi rend="underline">Notes</hi>.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_ab66e411">To begin with English country before E<hi rend="superscript">th</hi>.</l>
+               <l facs="#facs__eSc_line_d12905c4">The effect of country upon writers. Hall [Holingshed?]</l>
+               <l facs="#facs__eSc_line_1ead3bc7">The idea of the book is to find the end of a ball of</l>
+               <l facs="#facs__eSc_line_0afaf30a">string &amp; wind out. Let one book suggest another.</l>
+               <l facs="#facs__eSc_line_0fc8fc0c">Keep to time sequence. Pass from criticism to biography.</l>
+               <l facs="#facs__eSc_line_49bf8af5">Lives of people. Always follow the genuine scent –– the</l>
+               <l facs="#facs__eSc_line_e2d9d22e">idea of the moment. No periods': no text book.</l>
+               <l facs="#facs__eSc_line_9d9c05f6">Read very widely. Write rather from memory.</l>
+            </p>
+            <p>
+              <add>
+                 <l facs="#facs__eSc_line_7da6c095">Oct</l>
+                 <l facs="#facs__eSc_line_c201c154">3<hi rend="superscript">rd</hi></l>
+              </add>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_ad9b635d">The Life of a Book</l>
+               <l facs="#facs__eSc_line_fe80be3a">Take a living book &amp; trace, vanishing, its family</l>
+               <l facs="#facs__eSc_line_4b872ce6">But <choice>
+            <sic>wh.</sic>
+            <corr>which</corr>
+          </choice> book? But keep very free.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_96375b51">Harrison. That was England.</l>
+               <l facs="#facs__eSc_line_1936868e">His mastiff. <hi rend="underline">Months with an R in them</hi></l>
+               <l facs="#facs__eSc_line_9e850749">How many departments a person has: needing historians,</l>
+               <l facs="#facs__eSc_line_a1b392f1">psychologists; poets &amp;c. to interpret.</l>
+               <l facs="#facs__eSc_line_b9f27fa1">The forces telling in H. his attitude to the court, the</l>
+               <l facs="#facs__eSc_line_18e2d7c3">Church. <hi rend="underline">His regrets for logs of wood as pillows.</hi></l>
+               <l facs="#facs__eSc_line_6ef8c38f"><hi rend="underline">Squire Waterton</hi>. The continuity of tradition. The RC</l>
+               <l facs="#facs__eSc_line_2e5d9375">Church as a carrier. Harrison seen by Furnivall. What F.</l>
+               <l facs="#facs__eSc_line_60c4f4d3">paid for [butter?] in 1878. The inflection; also the medium</l>
+               <l facs="#facs__eSc_line_6016217a">The snatch of song: if I were in my castle at [Bovenly?]</l>
+               <l facs="#facs__eSc_line_5a02abb3">The song making instinct. The map of London</l>
+               <l facs="#facs__eSc_line_a4ab5dbf">Alfred Tennyson. Mrs G H Lewes had reflected: a</l>
+               <l facs="#facs__eSc_line_79bb0ff4">meeting was held in [March?]... in Gower <choice>
+            <sic>St.</sic>
+            <corr>Street</corr>
+          </choice> at 8.</l>
+               <l facs="#facs__eSc_line_01438b17">This is [coutements?] –– the <del>extension</del> certain emotions always in</l>
+               <l facs="#facs__eSc_line_fe10cd08">being: felt by people always.</l>
+            </p>
+            <p>
+               <l facs="#facs__eSc_line_76d4f6c9">For the 19<hi rend="superscript">th</hi> Century. <choice>
+            <sic>Aug.</sic>
+            <corr>[Augustus?]</corr>
+          </choice> Hare, his mother (repulsive)</l>
+               <l facs="#facs__eSc_line_cb0bd013">Scene illustrating Henry James's subject. Osbert on</l>
+               <l facs="#facs__eSc_line_6ae60ae3">Two generations. Sitwell meets Hare.</l>
+            </p>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p, fol. 8r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m52</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2752" lry="3500" xml:id="facs_">
+         <graphic url="m52-15.tif" width="2752px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="2275,280 2256,280 2236,280 2217,280 2197,280 2178,280 2158,280 2139,280 2121,280 2077,285 2067,285 2061,285 2036,278 2022,278 2003,278 1983,278 1964,278 1944,278 1925,278 1905,278 1886,278 1874,278 1775,283 1756,283 1748,283 1699,276 1692,276 1672,276 1653,276 1633,276 1616,276 1590,281 1588,283 1515,283 1513,281 1501,274 1497,274 1478,274 1458,274 1429,280 1359,274 1341,274 1322,274 1303,272 1283,272 1264,272 1250,272 1231,280 935,280 935,315 933,342 2368,344 2372,322 2370,287 2277,280 2275,280" rendition="Line" xml:id="facs__eSc_line_dfb45fad" subtype="default"/>
+            <zone points="2421,396 2347,385 2345,385 2343,385 2300,396 2298,398 2254,398 2252,396 2238,385 2236,385 2234,385 2232,385 2182,396 2174,396 2166,394 2121,386 2119,386 2117,386 2092,394 2084,396 1937,394 1933,394 1909,383 1907,383 1905,383 1820,392 1816,392 1800,383 1799,383 1797,383 1795,383 1695,392 1678,392 1662,390 1581,381 1421,381 1419,381 1417,381 1400,388 1392,392 1351,388 1250,379 1248,379 1246,379 1213,388 1201,390 1186,388 1141,379 1139,379 1137,379 1135,379 1124,386 1118,390 939,386 939,425 937,462 1122,464 1124,464 1126,464 1129,462 1174,449 1213,462 1217,464 1219,464 1221,464 1223,464 1227,462 1264,449 1312,458 1314,458 1507,451 1571,462 1588,466 1590,466 1622,462 1717,453 1828,453 1863,462 1867,464 1869,464 1870,464 1882,462 1948,453 1970,462 1981,468 1983,468 2057,470 2059,470 2104,462 2147,456 2176,462 2195,468 2197,468 2199,468 2353,466 2355,466 2357,466 2361,462 2372,455 2425,462 2429,433 2427,408 2421,396" rendition="Line" xml:id="facs__eSc_line_234833ed" subtype="default"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+               <l facs="#facs__eSc_line_dfb45fad">no actors, <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">
+            <choice>
+              <sic>Shakeapere</sic>
+              <corr>Shakespeare</corr>
+            </choice></rs> might 
+            <choice>
+              <sic>hev eben</sic>
+              <corr>have been</corr>
+            </choice> 
+            <rs type="person" xml:id="psn-mich" key="Michelangelo"><choice>
+              <sic>Michael Angelo</sic>
+              <corr>Michelangelo</corr>
+            </choice></rs>.</l>
+               <l facs="#facs__eSc_line_234833ed"><rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs> <rs type="person" xml:id="psn-raph" key="Raphael">
+            <choice>
+              <sic> a hael</sic>
+              <corr>Raphael</corr>
+            </choice></rs>, and <rs type="person" xml:id="cmar" key="Marlowe, Christopher">
+              <choice>
+                <sic>Marloew</sic>
+                <corr>Marlowe</corr>
+              </choice></rs> our first great musician.</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

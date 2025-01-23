@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p, fol. 13r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m52</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2761" lry="3500" xml:id="facs_">
+         <graphic url="m52-25.tif" width="2761px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="951,134 947,132 912,132 910,176 908,192 955,196 959,180 959,140 951,134" rendition="Line" xml:id="facs__eSc_line_45161c49" subtype="default"/>
+            <zone points="1889,246 1869,246 1850,246 1830,246 1811,246 1792,245 1772,245 1753,245 1733,245 1714,245 898,245 898,280 896,299 928,311 930,311 932,311 1118,303 1173,301 1190,303 1233,313 1235,315 1332,315 1332,313 1334,313 1336,313 1344,307 1348,303 1416,303 1420,307 1426,311 1426,313 1428,313 1430,313 1432,313 1457,307 1476,303 1494,309 1507,313 1509,313 1511,315 1904,315 1906,285 1904,246 1889,246" rendition="Line" xml:id="facs__eSc_line_8a1c1189" subtype="default"/>
+            <zone points="895,396 895,412 970,412 972,412 992,423 994,423 996,423 998,423 1000,423 1027,412 1029,412 1046,412 1171,421 1173,421 1214,414 1227,412 1239,414 1264,421 1266,421 1268,421 1270,421 1290,414 1299,412 1377,416 1492,421 1494,421 1496,421 1507,418 1525,410 1552,418 1568,421 1570,421 1572,421 1893,420 1893,392 1889,359 1696,359 1681,346 1679,346 1677,346 1675,346 1673,346 1671,346 1657,359 1583,359 1521,346 1519,346 1453,357 1406,346 1404,346 1402,346 1400,346 1398,346 1383,359 1360,348 1358,348 1356,348 1221,359 1198,348 1196,348 1083,348 1081,348 1079,348 1077,348 1058,359 916,348 914,348 912,348 910,348 893,355 895,396" rendition="Line" xml:id="facs__eSc_line_784b5ad9" subtype="default"/>
+            <zone points="898,503 898,521 1972,521 1972,503 1972,468 1947,458 1945,458 1943,458 1883,468 1883,470 1708,470 1706,468 1694,458 1692,458 1690,458 1688,458 1686,458 1667,468 1663,468 1651,468 1579,458 1577,458 1535,466 1523,468 1515,466 1490,458 1488,458 1486,458 1484,458 1457,466 1445,468 898,462 898,503" rendition="Line" xml:id="facs__eSc_line_85d5c991" subtype="default"/>
+            <zone points="2420,583 900,571 900,610 900,635 1146,628 1165,635 1171,637 1173,637 1175,637 1188,635 1227,630 1313,635 1377,639 1379,639 1381,639 1398,635 1424,630 1449,635 1472,639 1474,639 1513,635 1556,630 1583,635 1611,639 1613,639 1636,633 1659,630 1677,633 1700,641 1702,641 1704,641 1939,633 2023,631 2091,633 2366,643 2367,643 2428,631 2430,618 2428,600 2420,583" rendition="Line" xml:id="facs__eSc_line_18dacaa0" subtype="default"/>
+            <zone points="1402,569 1402,589 1457,587 1457,569 1457,521 1402,519 1402,569" rendition="Line" xml:id="facs__eSc_line_1e9b8157" subtype="default"/>
+            <zone points="2504,692 2358,680 2356,680 2354,680 2321,690 2313,694 2144,694 2134,688 2118,680 2116,680 2115,680 2076,686 2046,692 2035,686 2017,678 2015,678 2013,678 1830,684 1616,690 1566,680 1546,676 1544,676 1517,678 1443,690 1291,690 1266,678 1264,678 1262,678 1175,688 1112,674 1112,721 1111,735 1147,746 1149,746 1151,746 2510,742 2511,727 2510,723 2504,692" rendition="Line" xml:id="facs__eSc_line_50a330a0" subtype="default"/>
+            <zone points="900,830 898,841 957,853 959,853 2430,845 2432,834 2430,795 900,795 900,830" rendition="Line" xml:id="facs__eSc_line_63f69d3d" subtype="default"/>
+            <zone points="972,937 972,958 1836,958 1854,958 2004,968 2006,968 2455,958 2457,943 2457,911 2436,900 2434,900 2432,900 2430,900 2387,910 2144,900 2142,900 2093,910 2091,910 2089,910 2054,900 2052,900 2050,900 1978,910 1971,910 1965,910 1916,898 1914,898 1556,908 1517,908 1511,908 1467,896 1465,896 1463,896 1416,906 1358,896 1356,896 1354,896 1315,906 1313,906 1311,906 1221,896 1219,896 1218,896 1181,906 1177,906 1169,906 1070,896 1068,896 972,904 972,937" rendition="Line" xml:id="facs__eSc_line_a5b1cc68" subtype="default"/>
+            <zone points="1153,894 1153,906 1231,915 1233,915 1235,915 1237,915 1237,913 1247,906 1264,906 1428,913 1430,913 1432,913 1453,904 1457,904 1614,904 1620,904 1704,913 1706,913 1758,902 1764,902 1768,902 1792,911 1793,911 1795,911 2027,900 2029,888 2025,859 1959,859 1959,857 1928,843 1926,843 1924,843 1922,843 1883,857 1883,859 1852,859 1852,857 1836,845 1836,843 1834,843 1832,843 1830,843 1745,857 1731,861 1640,861 1636,857 1628,849 1626,849 1624,849 1622,849 1620,849 1605,857 1591,847 1589,847 1587,847 1585,847 1583,847 1581,847 1568,857 1564,859 1539,857 1437,847 1435,847 1434,847 1432,847 1416,857 1414,859 1412,857 1402,847 1400,847 1398,847 1293,847 1291,847 1290,847 1288,847 1276,857 1270,861 1243,857 1190,847 1188,847 1151,855 1153,894" rendition="Line" xml:id="facs__eSc_line_6fb21121" subtype="default"/>
+            <zone points="2412,1013 963,1011 922,999 920,1042 920,1065 1718,1065 1737,1067 1819,1075 1821,1075 2035,1067 2056,1067 2070,1067 2194,1077 2196,1077 2410,1067 2412,1051 2412,1013" rendition="Line" xml:id="facs__eSc_line_5f574859" subtype="default"/>
+            <zone points="1871,995 1871,1009 2021,1011 2023,991 2019,958 1963,948 1961,948 1869,960 1871,995" rendition="Line" xml:id="facs__eSc_line_3590020e" subtype="default"/>
+            <zone points="898,1153 898,1180 1402,1170 1416,1178 1426,1182 1428,1182 1430,1182 1550,1176 1614,1174 1620,1176 1640,1184 1642,1184 1644,1186 1792,1186 1792,1184 2116,1172 2157,1172 2173,1172 2323,1184 2325,1184 2379,1170 2381,1156 2379,1125 2241,1114 2239,1114 1947,1121 1830,1123 1757,1120 1655,1114 1653,1114 1651,1114 1649,1114 1644,1120 1638,1123 1607,1118 1562,1112 1560,1112 1527,1118 1506,1121 1500,1118 1494,1112 1492,1112 1490,1112 1488,1112 1430,1118 1377,1121 898,1114 898,1153" rendition="Line" xml:id="facs__eSc_line_efb615cf" subtype="default"/>
+            <zone points="1978,1104 1978,1121 2260,1123 2262,1104 2262,1075 2015,1063 2013,1063 2011,1063 1978,1073 1978,1104" rendition="Line" xml:id="facs__eSc_line_d685c5e1" subtype="default"/>
+            <zone points="896,1258 895,1275 949,1287 951,1287 1842,1281 1881,1291 1883,1291 1885,1291 2371,1281 2373,1263 2371,1232 896,1223 896,1258" rendition="Line" xml:id="facs__eSc_line_db17bb79" subtype="default"/>
+            <zone points="2200,1211 2198,1240 2251,1230 2276,1244 2280,1246 2282,1246 2284,1246 2286,1246 2290,1244 2334,1230 2438,1236 2463,1252 2473,1260 2474,1260 2476,1260 2478,1260 2562,1256 2564,1238 2564,1195 2513,1193 2513,1191 2498,1180 2498,1178 2496,1178 2494,1178 2200,1166 2200,1211" rendition="Line" xml:id="facs__eSc_line_3568ecbf" subtype="default"/>
+            <zone points="947,1368 945,1384 2533,1392 2537,1374 2533,1337 2243,1339 2208,1333 2183,1330 2181,1330 2118,1333 2008,1339 1971,1331 1949,1328 1708,1328 1706,1328 1683,1330 1593,1337 1393,1326 1360,1326 1358,1326 1356,1326 1354,1326 1336,1335 1274,1326 1268,1326 1266,1326 1264,1326 1262,1326 1225,1335 1091,1326 1089,1326 1035,1335 947,1324 947,1368" rendition="Line" xml:id="facs__eSc_line_ed20fd08" subtype="default"/>
+            <zone points="896,1477 895,1497 2449,1506 2453,1483 2449,1436 1953,1446 1936,1436 1934,1436 1932,1436 896,1436 896,1477" rendition="Line" xml:id="facs__eSc_line_56e141a2" subtype="default"/>
+            <zone points="895,1582 895,1606 1609,1606 1626,1608 1714,1615 1716,1615 1932,1608 1951,1608 1959,1608 2043,1617 2044,1617 2354,1608 2356,1590 2354,1545 2198,1543 2196,1543 2194,1543 2188,1545 2155,1555 2111,1545 2101,1543 2099,1543 2097,1543 2091,1545 2056,1555 1881,1545 1793,1541 1792,1541 1747,1545 1683,1553 1667,1545 1657,1541 1655,1541 1653,1541 1651,1541 1640,1545 1624,1553 1577,1547 1552,1543 1550,1543 1463,1547 1354,1551 1330,1547 1290,1540 1288,1540 1286,1540 1268,1547 1258,1551 1251,1547 1231,1540 1229,1540 1227,1540 1153,1547 1134,1549 1116,1547 1044,1538 1042,1538 1040,1538 1039,1538 1025,1547 1025,1549 895,1549 895,1582" rendition="Line" xml:id="facs__eSc_line_ac497e0c" subtype="default"/>
+            <zone points="893,1693 891,1709 1004,1720 1005,1720 2486,1715 2488,1697 2486,1662 893,1650 893,1693" rendition="Line" xml:id="facs__eSc_line_308719cf" subtype="default"/>
+            <zone points="896,1802 895,1818 982,1831 1313,1833 1315,1833 1589,1823 1792,1835 1793,1835 1992,1825 2068,1835 2070,1835 2282,1827 2301,1837 2303,1837 2305,1837 2426,1827 2455,1837 2457,1837 2459,1837 2506,1827 2527,1837 2529,1837 2531,1837 2533,1837 2554,1825 2556,1810 2552,1765 896,1765 896,1802" rendition="Line" xml:id="facs__eSc_line_b5c34dff" subtype="default"/>
+            <zone points="896,1911 895,1934 2340,1940 2344,1919 2342,1884 2202,1870 2200,1870 2198,1870 2159,1880 2150,1884 1992,1884 1982,1878 1963,1868 1961,1868 1959,1868 1957,1868 1928,1876 1914,1880 1889,1876 1836,1868 1834,1868 1733,1874 1630,1880 1614,1872 1607,1866 1605,1866 1603,1866 1601,1866 1529,1870 1424,1878 1005,1868 1004,1868 1002,1868 972,1876 896,1862 896,1911" rendition="Line" xml:id="facs__eSc_line_e110fc20" subtype="default"/>
+            <zone points="896,2018 895,2043 1181,2045 1183,2045 1194,2043 1229,2035 1245,2043 1253,2047 1255,2047 1256,2047 1286,2043 1325,2037 1507,2043 1731,2049 1733,2049 1854,2041 1899,2039 1912,2041 1949,2049 1951,2049 1953,2049 1969,2041 1972,2039 2006,2041 2138,2051 2140,2051 2142,2051 2144,2051 2159,2041 2161,2041 2330,2041 2332,2026 2332,1993 2297,1981 2295,1981 2294,1981 2056,1989 1974,1991 1947,1987 1891,1979 1889,1979 1735,1985 1614,1989 1570,1983 1531,1977 1529,1977 1422,1981 1255,1987 896,1975 896,2018" rendition="Line" xml:id="facs__eSc_line_de92772c" subtype="default"/>
+            <zone points="2511,2100 2257,2088 2255,2088 2253,2088 2225,2096 2210,2100 2194,2096 2167,2088 2165,2088 2163,2088 2105,2094 2072,2098 2056,2094 2035,2088 2033,2088 2031,2088 2029,2088 2011,2094 1994,2100 1982,2094 1972,2086 1971,2086 1969,2086 1967,2086 1965,2086 1963,2086 1955,2092 1945,2098 1885,2092 1836,2088 1834,2088 1832,2088 1819,2092 1795,2098 1782,2092 1770,2086 1768,2086 1766,2086 1739,2090 1696,2100 1496,2100 1412,2088 1383,2084 1381,2084 1379,2084 1377,2084 1373,2086 1358,2096 1239,2086 1218,2084 1216,2084 1214,2084 1212,2084 1190,2098 1044,2098 1017,2084 1015,2084 1013,2084 937,2096 900,2082 898,2129 898,2152 2511,2152 2513,2135 2511,2100" rendition="Line" xml:id="facs__eSc_line_562c7671" subtype="default"/>
+            <zone points="896,2253 1572,2267 1574,2267 1692,2259 1696,2259 1700,2259 1772,2269 1774,2269 2350,2261 2352,2245 2348,2197 2229,2210 2194,2197 2192,2197 2124,2197 2122,2197 2120,2197 2081,2210 2033,2195 2031,2195 2029,2195 2021,2195 1887,2206 1858,2195 1856,2195 1854,2195 1852,2195 1768,2203 1733,2193 1729,2193 1727,2193 1725,2193 1718,2193 1657,2206 1620,2193 1618,2193 1616,2193 1614,2193 1613,2193 1611,2193 1599,2203 1548,2197 1546,2197 1502,2206 1476,2193 1472,2191 1470,2191 1469,2191 1467,2191 1459,2193 1410,2206 1264,2206 1247,2191 1245,2191 1243,2191 1241,2191 1202,2191 932,2203 900,2191 898,2236 896,2253" rendition="Line" xml:id="facs__eSc_line_1622818f" subtype="default"/>
+            <zone points="898,2346 896,2364 2459,2368 2463,2350 2461,2319 2278,2319 2274,2317 2253,2308 2251,2308 2249,2308 2208,2315 2198,2317 2188,2315 2157,2308 2155,2308 2066,2308 2064,2308 2062,2308 2060,2308 2052,2313 2048,2317 2037,2313 2015,2308 2013,2308 2011,2308 2009,2308 1988,2313 1972,2317 1949,2313 1916,2308 1914,2308 1875,2313 1836,2317 1790,2311 1755,2308 1753,2308 1751,2308 1743,2311 1727,2317 1696,2311 1679,2308 1677,2308 1616,2310 1502,2315 1488,2310 1484,2306 1482,2306 1480,2306 1478,2306 1476,2306 1467,2308 1445,2315 1183,2306 1161,2306 1159,2306 1157,2306 1105,2315 1064,2306 1062,2306 1060,2306 1058,2306 1056,2306 1042,2315 1027,2306 1025,2306 1023,2306 898,2304 898,2346" rendition="Line" xml:id="facs__eSc_line_7e57efb4" subtype="default"/>
+            <zone points="898,2455 896,2473 924,2485 926,2485 928,2485 976,2475 978,2475 980,2475 1085,2485 1087,2485 1280,2477 1354,2475 1383,2479 1445,2486 1447,2486 1611,2481 1714,2477 1723,2481 1733,2486 1735,2486 1737,2488 1864,2488 1864,2486 1883,2483 1912,2477 1971,2485 2011,2488 2013,2490 2099,2490 2099,2488 2101,2488 2103,2488 2107,2485 2116,2479 2533,2488 2537,2461 2533,2416 1992,2426 1941,2415 1939,2415 1937,2415 1774,2424 1708,2413 1706,2413 1704,2413 1673,2424 1657,2415 1655,2415 1653,2415 1651,2415 1649,2415 1618,2422 1506,2413 1504,2413 1502,2413 1465,2424 1447,2411 1445,2411 1443,2411 1441,2411 1437,2411 1383,2422 1194,2411 1192,2411 1111,2422 1093,2411 1091,2411 1089,2411 1087,2411 965,2422 898,2409 898,2455" rendition="Line" xml:id="facs__eSc_line_bb5392c9" subtype="default"/>
+            <zone points="896,2564 895,2582 1792,2593 1793,2593 2535,2584 2537,2568 2535,2529 896,2527 896,2564" rendition="Line" xml:id="facs__eSc_line_635163ee" subtype="default"/>
+            <zone points="895,2675 893,2691 2364,2704 2367,2683 2364,2636 895,2636 895,2675" rendition="Line" xml:id="facs__eSc_line_041e7e2b" subtype="default"/>
+            <zone points="893,2782 891,2800 902,2807 904,2807 906,2807 908,2807 1311,2800 1369,2800 1377,2801 1412,2809 1414,2809 1416,2809 1718,2803 1912,2801 1945,2807 1972,2811 1974,2813 2424,2813 2426,2788 2424,2753 2286,2741 2284,2741 2165,2751 2155,2751 2153,2751 2132,2741 2130,2741 2128,2741 1949,2751 1918,2751 1916,2751 1899,2739 1897,2739 1895,2739 1893,2739 1842,2749 1840,2749 1836,2749 1657,2739 1655,2739 1574,2749 1568,2749 1566,2749 1554,2739 1552,2739 1550,2739 1469,2739 1467,2739 1465,2739 1445,2749 1441,2749 1437,2749 1398,2737 1397,2737 1395,2737 893,2745 893,2782" rendition="Line" xml:id="facs__eSc_line_e759f81d" subtype="default"/>
+            <zone points="896,2889 896,2910 1959,2910 1965,2910 2008,2920 2009,2920 2317,2910 2319,2897 2315,2856 1965,2860 1951,2854 1937,2848 1936,2848 1934,2848 1891,2854 1864,2858 1825,2854 1760,2848 1758,2848 1669,2854 1609,2858 1552,2854 1457,2846 1455,2846 1453,2846 1451,2846 1443,2854 1439,2858 1255,2858 1237,2854 1188,2844 1186,2844 896,2852 896,2889" rendition="Line" xml:id="facs__eSc_line_7b491c02" subtype="default"/>
+            <zone points="895,2996 893,3013 2313,3025 2317,3006 2317,2971 2274,2959 2272,2959 2270,2959 2085,2967 2033,2969 2009,2967 1947,2957 1945,2957 1817,2963 1747,2967 1566,2967 1554,2961 1542,2955 1541,2955 1539,2955 1502,2959 1463,2965 1418,2959 1375,2953 1373,2953 1291,2957 1183,2963 1175,2955 1173,2955 1173,2953 1171,2953 1169,2953 895,2953 895,2996" rendition="Line" xml:id="facs__eSc_line_6f795990" subtype="default"/>
+            <zone points="2428,3076 2387,3062 2385,3062 2383,3062 2280,3072 2206,3062 2204,3062 2202,3062 2169,3072 2153,3078 1918,3078 1825,3068 1741,3060 1739,3060 1737,3060 1716,3066 1685,3076 1568,3076 1554,3064 1550,3060 1548,3060 1546,3060 1544,3060 1525,3064 1480,3074 1432,3062 1426,3062 1424,3062 1410,3062 1260,3072 1196,3060 1194,3060 1192,3060 1190,3060 1149,3074 953,3074 900,3056 898,3103 898,3126 2426,3126 2428,3109 2428,3076" rendition="Line" xml:id="facs__eSc_line_7dfcc77e" subtype="default"/>
+            <zone points="893,3210 891,3235 1089,3241 1091,3241 1093,3241 1109,3237 1130,3231 1235,3237 1344,3243 1346,3243 1441,3237 1517,3233 1570,3237 1646,3245 1648,3245 1649,3245 1651,3245 1661,3237 1667,3235 1823,3235 1848,3239 1902,3247 2146,3249 2148,3249 2150,3249 2179,3239 2181,3239 2183,3239 2206,3249 2208,3249 2210,3249 2457,3239 2459,3220 2459,3186 2420,3175 2418,3175 2416,3175 2323,3186 2313,3186 2311,3186 2288,3175 2286,3175 2202,3175 2200,3175 2161,3185 2146,3186 2126,3183 2072,3173 2070,3173 2068,3173 2039,3183 2029,3185 1974,3181 1832,3171 1830,3171 1795,3179 1774,3183 1751,3179 1714,3171 1712,3171 1657,3177 1599,3183 1474,3175 1393,3169 1391,3169 1336,3173 1218,3181 1200,3171 1196,3167 1194,3167 1192,3167 1190,3167 1188,3167 1181,3171 1161,3179 1042,3169 1021,3167 1019,3167 1017,3167 1015,3167 988,3179 968,3167 967,3167 965,3167 893,3167 893,3210" rendition="Line" xml:id="facs__eSc_line_769fcd81" subtype="default"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+              <p>
+               <l facs="#facs__eSc_line_45161c49">15</l>
+              </p>
+              <p>
+                <quote source="#">
+               <l facs="#facs__eSc_line_8a1c1189">With that a joyous fellowship issewed</l>
+               <l facs="#facs__eSc_line_784b5ad9">of Minsterls making goodly merriment</l>
+               <l facs="#facs__eSc_line_85d5c991">With wanton Bardes and Rhymers impudent</l>
+                </quote>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_1e9b8157"><add place="above">too</add></l>
+               <l facs="#facs__eSc_line_18dacaa0">That <del>was the</del> voice that was heard too in the great room.</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_50a330a0">For when we see the great 
+            <choice>
+              <sic>Elizabthan</sic>
+              <corr>Elizabethan</corr>
+            </choice> house--<rs type="place" xml:id="pla-wilt">Wilton</rs></l>
+               <l facs="#facs__eSc_line_63f69d3d">say, or <rs type="place" xml:id="pla-pens">
+            <choice>
+              <sic>Penshurt</sic>
+              <corr>Penshurst</corr>
+            </choice></rs>-- we see the stranded relic that has e</l>
+               <l facs="#facs__eSc_line_6fb21121"><add place="above">like the ribs of a wreck on the shore</add></l>
+               <l facs="#facs__eSc_line_a5b1cc68"><choice>
+              <sic>merged</sic>
+              <corr>emerged</corr>
+            </choice> from <del>the the</del> its surroundings. Could we see it</l>
+               <l facs="#facs__eSc_line_3590020e"><add hand="typewriter" place="above">field</add></l>
+               <l facs="#facs__eSc_line_5f574859">as it is said that the airman sees a village <del>with all</del></l>
+               <l facs="#facs__eSc_line_d685c5e1"><add hand="typewriter" place="above">old roads,</add></l>
+               <l facs="#facs__eSc_line_efb615cf"><del>the</del> from the air with the<del> old</del> scars of other villages</l>
+               <l facs="#facs__eSc_line_3568ecbf"><add place="above">not alone, but</add></l>
+               <l facs="#facs__eSc_line_db17bb79">and other houses on it. we should see the great house</l>
+               <l facs="#facs__eSc_line_ed20fd08">connected with the village. 
+            <choice>
+              <sic>W</sic>
+              <corr>We</corr>
+            </choice> should see a <del>ring</del>, an oasis</l>
+               <l facs="#facs__eSc_line_56e141a2">in the midst of 
+            <choice>
+              <sic>va c</sic>
+              <corr>vast</corr>
+            </choice> wild country; the 
+            <choice>
+              <sic>raod</sic>
+              <corr>road</corr>
+            </choice> a track only;</l>
+               <l facs="#facs__eSc_line_ac497e0c">and the oasis like a fortress holding out 
+            <choice>
+              <sic>agianst</sic>
+              <corr>against</corr>
+            </choice> the</l>
+               <l facs="#facs__eSc_line_308719cf">uncultivated land; stored against the everlasting siege of</l>
+               <l facs="#facs__eSc_line_b5c34dff">nature. If the enemy were man, there "as armour <choice>
+              <sic>i</sic>
+              <corr>in</corr>
+            </choice> the church.</l>
+               <l facs="#facs__eSc_line_e110fc20">If frost or winter there was grain in the great barn.</l>
+               <l facs="#facs__eSc_line_de92772c">That is the connection between great house and small</l>
+               <l facs="#facs__eSc_line_562c7671">between master and 
+            <choice>
+              <sic>la ouere</sic>
+              <corr>labourer</corr>
+            </choice> that is detailed in the <rs type="literary-work" xml:id="lit-past" key="Paston Letters">Paston</rs></l>
+               <l facs="#facs__eSc_line_1622818f"><rs type="literary-work" xml:id="lit-past" key="Paston Letters">letters</rs>, and makes indeed the staple of the 
+            <choice>
+              <sic>mediaveal</sic>
+              <corr>medieval</corr>
+            </choice></l>
+               <l facs="#facs__eSc_line_7e57efb4">letter writing. But there was also the other connection--</l>
+               <l facs="#facs__eSc_line_bb5392c9">the common belief. That bond between the great house and the</l>
+               <l facs="#facs__eSc_line_635163ee">small has faded, till it is like one of those perhaps rather</l>
+               <l facs="#facs__eSc_line_041e7e2b">greener rides 
+            <choice>
+              <sic>stillto</sic>
+              <corr>still to</corr>
+            </choice> be found in England along which,</l>
+               <l facs="#facs__eSc_line_e759f81d"><choice>
+              <sic>abntiquaries</sic>
+              <corr>antiquaries</corr>
+            </choice> say the <rs type="literary-work" xml:id="lit-cant" key="Canterbury Tales, The">Pilgrims</rs>rode to <rs type="place" xml:id="pla-cant" key="Canterbury">Canterbury</rs>. So the</l>
+               <l facs="#facs__eSc_line_7b491c02">scholars tell us of the roads now faded in the mind.</l>
+               <l facs="#facs__eSc_line_6f795990">Long before the 
+            <choice>
+              <sic>Christains</sic>
+              <corr>Christians</corr>
+            </choice> <choice>
+              <sic>ocame</sic>
+              <corr>came</corr>
+            </choice> the tree was a God;</l>
+               <l facs="#facs__eSc_line_7dfcc77e">the sun was a God; Earth was God; Death was a God. <add place="inline">the</add></l>
+               <l facs="#facs__eSc_line_769fcd81"><del>and how</del> this 
+            <choice>
+              <sic>anceint</sic>
+              <corr>ancient</corr>
+            </choice> worship lies beneath the other; how</l>
+              </p>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

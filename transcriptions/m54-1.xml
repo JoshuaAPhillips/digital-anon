@@ -60,7 +60,7 @@
           <l>7</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-1/m54-1-1/829,270,1881,1662/full/0/default.tif">
-          <l>The printing press brought the past into existence.</l>
+          <l>The <rs xml:id="obj-prin">printing press</rs> brought the past into existence.</l>
           <l>It brought into existence the man who is conscious of the 
             <choice>
               <sic>pat</sic>
@@ -85,7 +85,10 @@
               <corr>name</corr>
             </choice> is also <rs type="person" xml:id="psn-whar" key="Harrison, William">Harrison</rs>. Harrison emerging from the past</l>
           <l>tells us that he has a library; that he owns a mastiff;</l>
-          <l>that he digs up Roman coins. He tells us that he has <choice>
+          <l>that he digs up Roman coins. <choice>
+                <sic>Hetells</sic>
+                <corr>He tells</corr>
+              </choice> us that he has <choice>
                 <sic>nev</sic>
                 <corr>never</corr>
               </choice> 
@@ -147,7 +150,7 @@
               <corr>dramas</corr>
             </choice> in the market place. <del>He was not present</del></l>
           <l><del>at [the?] masques that were acted before the Queen when she</del></l>
-          <l>wexmxmxmxmxmxmxmxmxmxmxmxmxmxmxmxmmxx Yet in spite of</l>
+          <l><del>went in [illeg.] There was something</del> Yet in spite of</l>
           <l>the printed book and the new learning, the the</l>
           <l>common people were still at their lewd practises.</l>
         </p>

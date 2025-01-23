@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2025-01-08T10:18:15.478224+00:00</Created>
+        <LastChange>2025-01-08T10:19:01.392589+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="m52-37.jpg" imageWidth="2768" imageHeight="3500">
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_a53644bc" >
+        <Coords points="910,169 910,210 2546,204 2546,169 2546,131 1770,113 1767,113 1764,113 1723,128 1601,113 1598,113 1437,128 1414,113 1411,113 1408,113 1405,113 1312,128 1277,113 1274,113 1271,113 1268,113 1236,131 910,131 910,169"/>
+        <Baseline points="912,172 2549,170"/>
+        <TextEquiv>
+          <Unicode>m52-37 and on that stage, without any scenery, bu richly dressed,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bd11c6b" >
+        <Coords points="918,271 915,300 2531,312 2537,280 2534,242 918,230 918,271"/>
+        <Baseline points="919,274 2538,281"/>
+        <TextEquiv conf="0.9880131312779018">
+          <Unicode>the old rumers were to act no. Robin Hood, not E ry man,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f517d4ca" >
+        <Coords points="924,387 924,428 1152,422 1187,440 1277,422 1332,440 1341,440 1400,422 1490,443 1499,443 1525,422 1732,422 1764,440 2135,443 2202,425 2222,443 2231,446 2415,446 2415,443 2450,428 2493,443 2502,443 2534,425 2534,350 2441,332 2394,347 2082,332 1957,347 1919,332 1665,347 1618,332 1607,332 1583,350 1233,350 1216,332 1058,332 924,347 924,387"/>
+        <Baseline points="926,388 2535,388"/>
+        <TextEquiv conf="0.9694884565838596">
+          <Unicode>Not i Georges play, but Caust, Lamberlaine, Namlet, Lear,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ae53c6dd" >
+        <Coords points="918,495 921,545 997,527 1143,545 1146,545 1149,545 1152,545 1248,527 1388,545 1391,545 1394,545 1397,545 1551,527 1618,545 1627,492 1621,457 950,440 947,440 945,440 915,452 918,495"/>
+        <Baseline points="921,498 1628,495"/>
+        <TextEquiv conf="0.9963214564323425">
+          <Unicode>and intony and Cleoptare.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

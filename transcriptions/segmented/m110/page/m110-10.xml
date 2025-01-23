@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-05-16T13:11:43.203267+00:00</Created>
+        <LastChange>2024-05-16T13:18:04.732925+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="m110-10.tif" imageWidth="2773" imageHeight="3500">
+    <TextRegion id="eSc_dummyblock_">
+      <TextLine id="eSc_line_24bf9054" custom="structure {type:default;}">
+        <Coords points="1298,1473 1279,1473 1281,1495 1283,1520 1310,1516 1310,1493 1306,1473 1298,1473"/>
+        <Baseline points="1281,1495 1310,1493"/>
+        <TextEquiv conf="0.7102424502372742">
+          <Unicode>8</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

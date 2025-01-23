@@ -151,8 +151,8 @@
             <choice>
               <sic>vio;ent</sic>
               <corr>violent</corr>
-            </choice>; it xmxmxmmxmx</l>
-          <l>it is coarse; it is poexxx xmxmxmxm a parody, of actual</l>
+            </choice>; it <del>is poetry;</del></l>
+          <l>it is coarse; it is <del>poetry</del> <del>without</del> a parody, of actual</l>
           <l>facts. like our own detective stories and best sellers</l>
           <l>a 
             <choice>
@@ -186,11 +186,11 @@
           <add place="margin">
             <l>said nothing</l>
             <l>about the</l>
-            <l>[revelation?],</l>
+            <l>revelation,</l>
             <l>was not</l>
             <l>outraged, by</l>
             <l>an excited</l>
-            <l>- as seems to be the <del hand="ms">common</del> reader to a [illeg.] </l>
+            <l>- as seems to be the <del hand="ms">common</del> reader to a new work of fancy</l>
           </add>
         </p>
       </div>
@@ -223,7 +223,7 @@
             <corr>Marlowe</corr>
           </choice></rs> lying on the</l>
           <l>bed in Deptford reached out and stabbed <add place="inline"><rs type="person" xml:id="psn-ifriz" key="Ingram, Frizer">Ingram</rs> in the head</add></l>
-          <l><add place="above">whoever</add> in the back. Mr <add place="above">Ingram gave Marlowe a mortal wound</add> then drove his dagger through</l>
+          <l><add place="above">whereupon</add> in the back. Mr <add place="above">Ingram gave Marlowe a mortal wound</add> then drove his dagger through</l>
           <l><choice>
             <sic>Marloews</sic>
             <corr>Marlowe's</corr>
@@ -231,7 +231,10 @@
             <sic>eeeye</sic>
             <corr>eye</corr>
           </choice> <add place="above">over his right eye</add>. <rs type="person" xml:id="psn-bjon" key="Jonson, Ben">Ben Jonson</rs> S <rs type="person" xml:id="psn#gspe" key="Spenser, Gabriel">Gabriel Spenser</rs> through the</l>
-          <l>body with a sword that cost three and sixpence. So complete</l>
+          <l>body with a <choice>
+            <sic>ssword</sic>
+            <corr>sword</corr>
+          </choice> that cost three and sixpence. So complete</l>
           <l>was bacons contempt for this underworld that he could be</l>
           <l>tolerant. <quote source="#" rend="inline">The stage is more beholding to Love than the</quote></l>
           <l><quote source="#" rend="inline">Life of Man..... great spirits and great businesses do keep</quote></l>
@@ -261,7 +264,13 @@
             <sic>enurmarte</sic>
             <corr>enumerate</corr>
           </choice> those topics. "Of Truth. Of Death. Of Unity in</l>
-          <l>Religion. Of Revenge. Of Simulation and Dissimulation.</l>
+          <l><choice>
+            <sic>eligion</sic>
+            <corr>Religion</corr>
+          </choice>. Of <choice>
+            <sic>evenge</sic>
+            <corr>Revenge</corr>
+          </choice>. Of Simulation and Dissimulation.</l>
           <l>Those were the <choice>
             <sic>subjactes</sic>
             <corr>subjects</corr>
@@ -386,7 +395,7 @@
               <sic>critic</sic>
               <corr>critical</corr>
             </choice> <add hand="ms" place="above">share in bringing the shade</add></l>
-          <l>faculty into being. <add hand="ms" place="above">prose of the mind</add> He was making an end of anonymity. <add hand="ms" place="above">There by making the rage of the poet</add></l>
+          <l>faculty into being. <add hand="ms" place="above">prose of the mind</add> He was making an end of anonymity. <add hand="ms" place="above">There by making the range of the poet</add></l>
         </p>
       </div>
       <div xml:id="m110.3v" n="3 verso" facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m110/m110-6"/>
@@ -404,8 +413,11 @@
             </choice>; it</l>
           <l>gave us the songs. It allowed us to know nothing of the</l>
           <l>mans name. <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> had great privileges. He is not</l>
-          <l>resopnsible. He is not self conscious. He can borrow.</l>
-          <l>He can repeat. He can say what 
+          <l>responsible. He is not self conscious. He can borrow.</l>
+          <l><choice>
+            <sic>e</sic>
+            <corr>He</corr>
+          </choice> can repeat. He can say what 
             <choice>
               <sic>very</sic>
               <corr>every</corr>
@@ -575,7 +587,10 @@
               <sic>anony ous</sic>
               <corr>anonymous</corr>
             </choice> playwright is irresponsible. He cares nothing</l>
-          <l>has no conscieince about truth; he cares only for the plot.</l>
+          <l>has no <choice>
+            <sic>conscieince</sic>
+            <corr>conscience</corr>
+          </choice> about truth; he cares only for the plot.</l>
           <l>We are left in the end without an end. The emotion is e</l>
           <l>wasted.</l>
         </p>

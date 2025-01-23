@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p, fol. 2r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>m52</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>M52. Anon. Typescript fragment with the author's ms. corrections, unsigned and undated. 19p. Paginated [1]-19, wanting p. 5, 14 (two p. 15).</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2776" lry="3500" xml:id="facs_">
+         <graphic url="m52-3.tif" width="2776px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="" rendition="Line" xml:id="facs__eSc_line_374b659f"/>
+            <zone points="2344,301 2324,301 2305,301 2285,301 2266,301 2246,301 2227,299 2207,299 2188,299 2169,299 2149,299 2130,299 2110,297 2091,297 2071,297 2052,297 2032,297 2013,297 1993,295 1974,295 1955,295 1935,295 1916,295 1896,295 1877,293 1857,293 1838,293 1818,293 1801,293 1698,299 1657,291 1643,291 1624,289 1604,289 1585,289 1569,289 1567,289 1565,289 1552,301 1534,289 1532,289 1530,289 1529,289 1527,289 1476,303 1188,303 1167,289 1165,289 1163,289 941,289 939,289 937,289 904,301 906,334 906,353 1575,363 1577,363 1579,363 1581,363 1599,353 2176,361 2178,361 2297,351 2322,361 2324,361 2326,361 2328,361 2359,350 2359,330 2357,328 2344,301" rendition="Line" xml:id="facs__eSc_line_6eef97a6" subtype="default"/>
+            <zone points="908,441 908,468 1054,460 1089,468 1101,470 1103,470 1104,470 1106,470 1108,468 1126,458 1176,468 1192,470 1194,470 1196,470 1198,470 1200,468 1215,458 1246,468 1264,472 1266,472 1268,474 1433,474 1433,472 1435,472 1437,472 1443,466 1449,462 1490,466 1529,470 1530,470 1532,470 1542,466 1554,460 1585,466 1630,474 1632,474 1752,464 1797,462 1813,464 1846,472 1848,472 1912,464 1918,464 1920,464 1947,476 1949,476 1951,476 2054,464 2056,464 2058,464 2139,476 2141,476 2196,462 2198,449 2196,416 2126,398 2013,398 2011,398 2009,398 1986,410 1933,402 1931,402 1929,402 1908,412 1906,414 1900,412 1844,396 1842,396 1840,396 1838,396 1781,412 1779,412 1754,398 1752,398 1750,398 1748,398 1709,412 1706,412 1696,412 1597,398 1595,398 1593,398 1556,410 1554,410 1552,410 1488,394 1449,394 1447,394 1445,394 1443,394 1443,396 1427,410 1425,412 1239,412 1237,408 1233,402 1231,402 1231,400 1229,400 1227,400 1225,400 1114,406 1081,408 1075,406 1044,394 1042,394 1040,394 1038,394 1007,406 999,408 908,406 908,441" rendition="Line" xml:id="facs__eSc_line_37666520" subtype="default"/>
+            <zone points="904,552 904,569 1562,579 1564,579 1616,575 1696,567 1840,575 1875,577 1877,577 1879,577 1885,575 1916,567 1931,577 1933,577 1935,577 1937,579 2225,579 2227,548 2223,519 2116,503 2114,503 2056,517 2052,519 1957,519 1955,517 1935,503 1933,503 1931,503 1929,503 1669,515 1562,519 1532,513 1486,505 1484,505 1482,505 1455,513 1433,521 1377,521 1367,513 1359,505 1357,505 1355,505 1353,505 1315,513 1281,519 1245,513 1204,505 1091,505 1089,505 1087,505 1071,511 1054,517 1029,511 1013,507 1011,507 1009,507 1007,507 1005,507 1001,511 990,519 902,511 904,552" rendition="Line" xml:id="facs__eSc_line_8c664237" subtype="default"/>
+            <zone points="2523,635 2513,626 2460,616 2458,616 2456,616 2433,626 2431,626 2034,616 2032,616 1935,626 1923,626 1912,626 1830,616 1828,616 1754,626 1743,626 1737,626 1706,614 1704,614 1702,614 910,622 910,659 910,680 1494,676 1501,680 1515,686 1517,686 1519,686 1725,678 1772,678 1774,678 1785,688 1787,688 1789,688 1791,690 2040,690 2040,688 2042,688 2073,678 2075,678 2104,688 2106,688 2108,690 2336,690 2336,688 2400,678 2425,688 2427,688 2429,688 2525,676 2526,663 2525,637 2523,635" rendition="Line" xml:id="facs__eSc_line_942cc8be" subtype="default"/>
+            <zone points="912,766 910,783 1009,797 1011,797 1013,797 1050,787 1315,797 1316,797 1923,789 1941,799 1943,799 1945,799 1947,801 2188,801 2188,799 2190,799 2219,789 2503,799 2505,799 2573,787 2575,770 2573,735 2472,723 2470,723 2404,733 2394,733 2386,733 2346,721 2344,721 2342,721 2256,731 2231,733 2213,731 2155,719 2153,719 2097,729 2069,735 1914,735 1890,727 1863,719 1861,719 1859,719 1816,725 1772,733 1651,725 1626,723 1624,723 1616,723 1583,731 1538,723 1503,717 1501,717 1342,721 974,731 912,717 912,766" rendition="Line" xml:id="facs__eSc_line_a31db8a8" subtype="default"/>
+            <zone points="906,875 904,886 1034,900 1036,900 1126,894 1163,892 1171,896 1182,904 1184,904 1186,904 1188,904 1239,898 1270,894 1316,900 1348,904 1350,904 1352,904 1357,902 1379,892 1464,904 1468,878 1466,843 1348,826 1346,826 1344,826 1309,841 1307,843 1211,843 1210,841 1190,824 1188,824 1186,824 1184,824 1182,824 1143,840 1050,830 1048,830 1046,830 1044,830 1036,838 1021,826 1021,824 1019,824 1017,824 937,824 935,824 933,824 906,836 906,875" rendition="Line" xml:id="facs__eSc_line_67365dfe" subtype="default"/>
+            <zone points="1064,983 1064,1007 2443,1003 2445,987 2439,941 2418,950 2373,941 2369,941 2367,941 2363,941 2299,950 2277,941 2276,941 2274,941 2272,941 2270,941 2252,952 2135,952 2112,941 2110,941 2108,941 2106,941 2085,952 1832,952 1811,941 1809,941 1064,941 1064,983" rendition="Line" xml:id="facs__eSc_line_8e36802c" subtype="default"/>
+            <zone points="2007,1038 2005,1059 2048,1059 2050,1040 2050,1003 2007,1001 2007,1038" rendition="Line" xml:id="facs__eSc_line_45425a5e" subtype="default"/>
+            <zone points="2562,1057 2558,1055 908,1055 908,1088 906,1108 1743,1121 1744,1121 2573,1114 2575,1096 2573,1063 2562,1057" rendition="Line" xml:id="facs__eSc_line_09cc758e" subtype="default"/>
+            <zone points="902,1201 900,1217 933,1228 935,1228 937,1228 2573,1223 2575,1207 2575,1170 902,1156 902,1201" rendition="Line" xml:id="facs__eSc_line_81c06a1c" subtype="default"/>
+            <zone points="904,1310 904,1339 1112,1331 1178,1339 1198,1341 1200,1341 1202,1341 1208,1339 1227,1331 1274,1339 1289,1341 1291,1341 1293,1341 1297,1339 1315,1331 1363,1339 1392,1343 1394,1343 1457,1339 1534,1333 1608,1339 1678,1343 1680,1343 1682,1343 1694,1339 1706,1333 1717,1337 1731,1345 1733,1345 1735,1345 1813,1337 1848,1335 1881,1337 1958,1345 1960,1345 2064,1337 2099,1335 2112,1337 2163,1347 2165,1347 2207,1337 2211,1337 2225,1337 2441,1347 2443,1347 2546,1335 2548,1318 2546,1283 904,1275 904,1310" rendition="Line" xml:id="facs__eSc_line_db31fef9" subtype="default"/>
+            <zone points="904,1421 902,1456 1013,1458 1015,1458 1017,1458 1021,1456 1050,1444 1103,1456 1116,1458 1118,1458 1136,1456 1196,1444 1353,1454 1365,1454 1367,1454 1371,1454 1423,1444 1585,1452 1727,1460 1729,1460 1731,1460 1748,1452 1762,1446 1902,1446 1914,1450 1943,1462 1945,1462 1947,1462 1999,1450 2009,1448 2017,1450 2038,1458 2040,1458 2042,1458 2085,1450 2093,1448 2097,1450 2110,1462 2112,1462 2114,1462 2116,1464 2334,1464 2334,1462 2336,1462 2338,1462 2357,1448 2359,1448 2462,1448 2464,1427 2462,1392 2246,1392 2237,1390 2176,1378 2174,1378 2172,1378 2170,1378 2157,1388 2153,1392 1995,1392 1984,1388 1945,1376 1943,1376 1941,1376 1805,1386 1766,1390 1529,1390 1511,1384 1482,1376 1480,1376 1478,1376 1418,1382 1404,1384 1400,1382 1381,1374 1379,1374 1377,1374 1375,1374 1348,1382 1342,1384 1338,1382 1326,1374 1324,1374 1322,1374 1320,1374 1229,1382 1171,1386 1155,1380 1134,1374 1132,1374 1009,1374 1007,1374 1005,1374 994,1380 982,1386 904,1380 904,1421" rendition="Line" xml:id="facs__eSc_line_63177e6d" subtype="default"/>
+            <zone points="904,1536 904,1559 949,1573 951,1573 953,1573 1060,1571 1062,1571 1083,1565 1118,1555 1132,1567 1138,1530 1134,1495 902,1493 904,1536" rendition="Line" xml:id="facs__eSc_line_da9e637c" subtype="default"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+               <l facs="#facs__eSc_line_374b659f"/>
+              <p>
+               <l facs="#facs__eSc_line_6eef97a6">of what they saw-- a flat fen, reed whispering, water</l>
+               <l facs="#facs__eSc_line_37666520">logged; or a down still covered with turf only.</l>
+               <l facs="#facs__eSc_line_8c664237">On the down is the green scar still, to mark the</l>
+               <l facs="#facs__eSc_line_942cc8be">road along which the travellers came, past the circle where</l>
+               <l facs="#facs__eSc_line_a31db8a8">they were buried; past the stone that marks the meeting place</l>
+               <l facs="#facs__eSc_line_67365dfe">or the burial place.</l>
+              </p>
+               <l facs="#facs__eSc_line_8e36802c"><del>but if</del> <rs type="person" xml:id="psn-anon" key="Anon">Anon</rs> sings because love and spring make him</l>
+               <l facs="#facs__eSc_line_45425a5e"><add>But</add></l>
+               <l facs="#facs__eSc_line_09cc758e">vocal or the horror of the winter dark, who listens? Somebody</l>
+               <l facs="#facs__eSc_line_81c06a1c">heard that particular song, or it would not have been written</l>
+               <l facs="#facs__eSc_line_db31fef9">down. The singer then had his 
+                <choice>
+                  <sic>audeince</sic>
+                  <corr>audience</corr>
+                </choice>; but the audience was</l>
+               <l facs="#facs__eSc_line_63177e6d">so little interested in his name that he never thought to</l>
+               <l facs="#facs__eSc_line_da9e637c">give it.</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

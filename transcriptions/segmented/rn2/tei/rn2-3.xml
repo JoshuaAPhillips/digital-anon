@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>RN2. [Holograph reading notes] Notes for reading at random. Holograph notebook, dated Sept. 18, 1940. 8p, fol. 3r.</title>
+        <author>Virginia Woolf</author>
+        <respStmt>
+          <resp>Encoded by</resp>
+          <name>Joshua Phillips</name>
+        </respStmt>
+        <funder>The Leverhulme Trust: Grant ECF-2022-602</funder>
+      </titleStmt>
+      <publicationStmt>
+        <authority>The Estate of Virginia Woolf, administered by the Society of Authors</authority>
+        <availability>
+          <p>© Estate of Virginia Woolf 2022</p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <institution>New York Public Library</institution>
+            <repository>Henry W. and Albert A. Berg Collection of English and American Literature</repository>
+            <idno>rn2</idno>
+          </msIdentifier>        
+          <physDesc>
+            <p>Reading notes for Anon. Headed: Reading at Random or Turning the Page. Handbound notebook with sky blue covers, spine bound with tape. Only first 8 fols. of notebook have been written on.</p>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <handNotes>
+        <handNote  xml:id="ms" scribe="vwoo" script="handwritten">
+          <p>Holograph writing by the documents' main hand, Virginia Woolf</p>
+        </handNote>
+      </handNotes>
+    </profileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <correction method="markup">
+          <p>Apparent errors have been explicitly corrected in sic / corr tags, wrapped in a choice element.</p>
+        </correction>
+        <interpretation>
+          <p>Names and references to places and literary works have been wrapped in rs tags which link to annotations and secondary material.</p>
+        </interpretation>
+      </editorialDecl>
+      <projectDesc>
+        <p>Text encoded as part of 'The Digital "Anon": A Digital Genetic Edition of Virginia Woolf's Final Essays'. This project, funded by Leverhulme Grant ECF-2022-602, seeks to construct a TEI-XML based digital edition of the drafts of 'Anon' and 'The Reader', among the final documents Woolf wrote before her death.</p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="2625" lry="3500" xml:id="facs_">
+         <graphic url="rn2-3.jpg" width="2625px" height="3500px"/>
+         <zone points="" rendition="TextRegion" xml:id="facs__eSc_dummyblock_">
+            <zone points="665,630 662,667 1012,665 1015,632 1015,580 665,577 665,630" rendition="Line" xml:id="facs__eSc_line_c68eca30"/>
+            <zone points="656,717 656,743 758,735 799,749 915,726 1087,740 1125,723 1163,737 1172,737 1216,717 1242,735 1257,735 1274,714 1513,726 1519,726 1563,705 1592,723 1604,723 1668,702 1796,714 1863,691 1863,676 1855,632 1685,638 1636,624 1627,624 1575,644 1295,638 1239,656 1149,638 1128,656 1108,644 1087,641 1085,647 1067,662 1009,644 991,647 953,665 851,650 828,650 828,653 805,670 653,656 656,717" rendition="Line" xml:id="facs__eSc_line_c1679801"/>
+            <zone points="667,778 667,816 807,822 880,799 1003,813 1003,810 1015,802 1017,796 1163,807 1178,790 1225,805 1233,805 1283,784 1324,799 1335,799 1353,784 1516,793 1586,772 1685,784 1709,767 1872,778 2015,749 2015,723 2006,676 1087,723 1061,711 1052,711 945,729 901,717 889,717 740,737 665,729 667,778" rendition="Line" xml:id="facs__eSc_line_388a9863"/>
+            <zone points="676,857 679,895 732,877 764,889 775,889 802,869 875,880 1017,857 1111,872 1163,848 1210,866 1429,834 1531,848 1755,822 1755,799 1750,743 1642,767 1595,749 1586,749 1519,772 1373,767 1143,793 1117,778 1102,775 947,802 892,787 883,787 828,810 670,807 676,857" rendition="Line" xml:id="facs__eSc_line_4353bacf"/>
+            <zone points="676,927 676,950 1618,898 1618,880 1610,819 1359,848 1201,845 1137,845 1134,845 1131,845 1105,851 1067,863 1047,857 1026,848 1023,848 1020,848 1017,848 1015,848 1000,860 988,866 953,863 898,857 895,857 892,857 889,857 889,860 880,869 875,875 673,880 676,927" rendition="Line" xml:id="facs__eSc_line_bed37e20"/>
+            <zone points="1595,883 1566,883 1537,886 1507,886 1478,889 1449,889 1440,889 1420,892 1411,892 662,945 667,1000 667,1026 819,1015 834,1020 875,1035 877,1035 880,1035 1058,1006 1143,988 1365,982 1367,985 1382,997 1385,997 1388,997 1391,997 1394,997 1423,980 1446,968 1580,965 1601,968 1647,982 1650,982 1653,982 1656,982 1738,959 1738,927 1729,869 1595,877 1595,883" rendition="Line" xml:id="facs__eSc_line_a5312526"/>
+            <zone points="659,1090 662,1125 1044,1087 1044,1050 1038,1012 650,1029 659,1090" rendition="Line" xml:id="facs__eSc_line_4100cb0c"/>
+            <zone points="670,1152 673,1190 737,1169 1233,1131 1233,1099 1219,1047 1190,1064 1117,1061 1076,1058 1073,1058 907,1085 822,1099 802,1099 702,1093 700,1093 697,1093 694,1093 665,1108 670,1152" rendition="Line" xml:id="facs__eSc_line_9c36fa03"/>
+            <zone points="1365,1216 1365,1239 1475,1257 1478,1257 1589,1248 1592,1248 1595,1248 1595,1245 1598,1245 1607,1233 1612,1227 1630,1233 1656,1242 1659,1242 1662,1242 1665,1242 1668,1242 1668,1239 1677,1233 1688,1216 1738,1213 1849,1227 1852,1178 1846,1140 1359,1178 1365,1216" rendition="Line" xml:id="facs__eSc_line_6df8dbb3"/>
+            <zone points="676,1222 682,1260 717,1245 842,1248 918,1210 1041,1204 1090,1222 1099,1222 1137,1201 1257,1213 1341,1181 1505,1187 1537,1166 1633,1187 1834,1169 1834,1128 1828,1087 1577,1082 1540,1108 1385,1096 1262,1108 1227,1131 1195,1114 1187,1114 1108,1140 1073,1128 670,1172 676,1222" rendition="Line" xml:id="facs__eSc_line_6c484dc4"/>
+            <zone points="670,1297 670,1303 971,1286 971,1271 962,1222 805,1245 767,1239 711,1230 708,1230 705,1230 665,1245 670,1297" rendition="Line" xml:id="facs__eSc_line_ba4d883b"/>
+            <zone points="860,1283 837,1283 799,1303 659,1303 665,1359 667,1388 1052,1350 1052,1321 1041,1260 977,1286 889,1292 872,1280 860,1283" rendition="Line" xml:id="facs__eSc_line_35f938a1"/>
+            <zone points="676,1484 676,1510 735,1519 816,1496 860,1510 872,1510 898,1493 918,1507 933,1507 950,1487 962,1478 1020,1490 1117,1461 1227,1484 1265,1452 1297,1478 1309,1478 1388,1440 1481,1446 1583,1423 1659,1440 1846,1411 1843,1359 1831,1300 1478,1350 1443,1332 1435,1332 1271,1373 1204,1359 1105,1391 1055,1376 965,1397 918,1388 670,1437 676,1484" rendition="Line" xml:id="facs__eSc_line_c9bef46f"/>
+            <zone points="685,1551 688,1580 1175,1531 1245,1531 1414,1531 1417,1531 1420,1531 1458,1510 1458,1496 1452,1455 1321,1464 1318,1464 1297,1446 1295,1446 1292,1446 1289,1446 1286,1446 1201,1470 1166,1481 1038,1487 1029,1481 1015,1470 1015,1467 1012,1467 1009,1467 1006,1467 1003,1467 965,1484 945,1496 857,1499 840,1493 807,1481 805,1481 802,1481 799,1481 796,1481 796,1484 781,1499 772,1505 752,1499 705,1490 702,1490 700,1490 679,1499 685,1551" rendition="Line" xml:id="facs__eSc_line_2399d9f9"/>
+            <zone points="720,1621 720,1668 883,1674 883,1671 907,1650 953,1668 1114,1659 1152,1630 1271,1647 1335,1618 1397,1639 1405,1639 1475,1610 1525,1621 1633,1598 1659,1612 1665,1612 1787,1586 1787,1548 1779,1496 1359,1537 1271,1528 1227,1545 1190,1534 1099,1554 1026,1545 974,1563 933,1551 851,1572 758,1563 714,1577 720,1621" rendition="Line" xml:id="facs__eSc_line_a4ca6399"/>
+            <zone points="708,1694 708,1723 799,1735 802,1735 1038,1706 1038,1674 1029,1639 705,1650 708,1694" rendition="Line" xml:id="facs__eSc_line_4238aba7"/>
+            <zone points="679,1779 679,1811 912,1808 912,1764 904,1723 781,1729 758,1712 752,1706 749,1706 746,1706 743,1706 673,1706 679,1779" rendition="Line" xml:id="facs__eSc_line_5b5a9c1d"/>
+            <zone points="685,1881 685,1916 875,1901 875,1875 869,1828 679,1822 685,1881" rendition="Line" xml:id="facs__eSc_line_92130160"/>
+            <zone points="685,1951 688,1995 845,1995 845,1992 848,1992 918,1971 945,1962 953,1968 968,1977 971,1977 974,1977 977,1977 1090,1971 1093,1971 1096,1971 1096,1968 1117,1951 1122,1948 1137,1948 1192,1957 1195,1957 1198,1957 1268,1936 1295,1930 1312,1933 1388,1945 1391,1945 1394,1945 1397,1945 1423,1925 1470,1936 1472,1936 1475,1936 1478,1936 1560,1910 1770,1910 1773,1910 1776,1910 1866,1878 1863,1843 1857,1805 679,1904 685,1951" rendition="Line" xml:id="facs__eSc_line_c334af00"/>
+            <zone points="679,2062 679,2091 758,2111 761,2111 764,2111 805,2091 828,2105 831,2105 834,2105 837,2105 1012,2088 1015,2088 1017,2088 1020,2085 1050,2065 1152,2062 1204,2079 1207,2024 1201,1986 1111,1974 1108,1974 1000,1995 962,2000 942,1997 886,1989 883,1989 880,1989 854,2000 840,2012 673,2012 679,2062" rendition="Line" xml:id="facs__eSc_line_74031a94"/>
+            <zone points="688,2170 691,2207 746,2231 749,2231 752,2231 939,2196 965,2207 968,2207 971,2207 974,2207 977,2207 977,2205 1006,2181 1035,2190 1038,2190 1041,2190 1044,2190 1082,2170 1085,2170 1137,2190 1140,2190 1143,2190 1236,2184 1239,2184 1242,2184 1283,2152 1283,2149 1472,2132 1472,2094 1464,2041 682,2126 688,2170" rendition="Line" xml:id="facs__eSc_line_bc4b98c0"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
+            <ab facs="#facs__eSc_dummyblock_">
+              <p>
+               <l facs="#facs__eSc_line_c68eca30">The song singers.</l>
+               <l facs="#facs__eSc_line_c1679801">About <choice>
+            <sic>Sh<hi rend="superscript">re</hi></sic>
+            <corr>Shakespeare</corr>
+          </choice>: the person is consumed: <choice>
+            <sic>Sh<hi rend="superscript">re</hi></sic>
+            <corr>Shakespeare</corr>
+          </choice> never</l>
+               <l facs="#facs__eSc_line_388a9863">breaks the envelope: We dont want to know about</l>
+               <l facs="#facs__eSc_line_4353bacf">him: Completely expressed. <hi rend="underline">When the</hi></l>
+               <l facs="#facs__eSc_line_bed37e20"><hi rend="underline">incantation ceases, we see the person.</hi></l>
+               <l facs="#facs__eSc_line_a5312526"><hi rend="underline">That opera took over the poetic play?</hi></l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_4100cb0c"><hi rend="underline">separate article.</hi></l>
+               <l facs="#facs__eSc_line_9c36fa03">Goldsmith. The patron.</l>
+               <l facs="#facs__eSc_line_6c484dc4">Congreve. The French. Madam de Sevigne.</l>
+               <l facs="#facs__eSc_line_ba4d883b">Gibbon ...</l>
+               <l facs="#facs__eSc_line_6df8dbb3">Group: La <choice>
+            <sic>R<hi rend="superscript">d</hi></sic>
+            <corr>[Rochefoucauld]?</corr>
+          </choice> &amp;c.</l>
+               <l facs="#facs__eSc_line_35f938a1">Capt. [Marryat?]</l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_c9bef46f">19<hi rend="superscript">th</hi> Century. The scene <choice>
+            <sic>fr.</sic>
+            <corr>from</corr>
+          </choice> which Henry James</l>
+               <l facs="#facs__eSc_line_2399d9f9">took his material. Memoirs.</l>
+               <l facs="#facs__eSc_line_a4ca6399">– Single figures all cut off – compared</l>
+               <l facs="#facs__eSc_line_4238aba7">with E<hi rend="superscript">than</hi></l>
+              </p>
+              <p>
+               <l facs="#facs__eSc_line_5b5a9c1d">Coleridge</l>
+              </p>
+               <l facs="#facs__eSc_line_92130160"><del>The Fren</del></l>
+               <l facs="#facs__eSc_line_c334af00">The 19<hi rend="superscript">th</hi> <choice>
+            <sic>cent</sic>
+            <corr>century</corr>
+          </choice> to [consist of?] outlines of people. </l>
+               <l facs="#facs__eSc_line_74031a94">Skip present day</l>
+               <l facs="#facs__eSc_line_bc4b98c0">A chapter on the future</l>
+            </ab></div>
+      </body>
+   </text>
+</TEI>

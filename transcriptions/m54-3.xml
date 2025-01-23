@@ -106,8 +106,8 @@
             </choice> and uses the old language of</l>
           <l>his fathers house, &#41;&#41;<quote source="#" rend="inline">" they say in my country to the hogs</quote></l>
           <l><quote source="#" rend="inline">mingle mangle, cum pur, cum pur"</quote> <!-- this is from one of Latimer's sermons to Edward! -->--- he brought into the</l>
-          <l>light of day the hxmxmxmxmxmxmxmxmxmxmmx</l>
-          <l>xmxmxmxmxmxxx the harlot going to execution at <rs type="place" xml:id="pla-newg" key="Newgate">Newgate</rs></l>
+          <l>light of day the <del>hidden [illeg.] and suffering</del></l>
+          <l><del>present moment</del> the harlot going to execution at <rs type="place" xml:id="pla-newg" key="Newgate">Newgate</rs></l>
           <l>and saying as she went <quote source="#">"that 
             <choice>
               <sic> f</sic>
@@ -345,17 +345,17 @@
               <corr>minstrels</corr>
             </choice> a new lease of life. <del hand="ms">His English.</del> When he</l>
           <l>said the <rs type="literary-work" xml:id="lit-lord" key="Lord's Prayer">Lords prayer</rs> at the beginning and at</l>
-          <l>theend of his 
+          <l>the end of his 
             <choice>
               <sic>ermon</sic>
               <corr>sermon</corr>
-            </choice> he was putting English intpo high places.</l>
+            </choice> he was putting English into high places.</l>
           <l>He was rescuing it from the back door. He was teaching</l>
-          <l>Spenser and 
+          <l><rs xml:id="psn-espe">Spenser</rs> and <rs xml:id="psn-wsha">
             <choice>
               <sic>Shakespere</sic>
               <corr>Shakespeare</corr>
-            </choice> how to write.</l>
+            </choice></rs> how to write.</l>
         </p>
         <p facs="https://llkn576nqxepo6yucgfh2nl2ea0kkigc.lambda-url.eu-west-2.on.aws/iiif/2/m54-3/m54-3-5/823,966,1813,1982/full/0/default.tif">
           <l>Both Harrison and Latimer see the very same house <add hand="ms" place="above">[The house was being?]</add></l>
@@ -366,7 +366,7 @@
             </choice> that was being built on the foundations of the</l>
           <l>old house. We can still see the great Elizabethan house</l>
           <l>whose building was to both preacher and antiquary a</l>
-          <l>sign of <del>the [deary?] of</del> luxury. in all its glory.</l>
+          <l>sign of <del>the decay of</del> luxury. in all its glory.</l>
           <l>There it is, standing in its green island of Park 
             <choice>
               <sic>seapareted</sic>
@@ -395,7 +395,7 @@
               <sic>neighboyrs</sic>
               <corr>neighbours</corr>
             </choice>. Inside all is kept as</l>
-          <l>if the Queen Elizabeth were expected. The upright 
+          <l>if the Queen <rs xml:id="psn-eliz">Elizabeth</rs> were expected. The upright 
             <choice>
               <sic>Elizabetahn</sic>
               <corr>Elizabethan</corr>
@@ -502,7 +502,10 @@
               <sic>satte doucments</sic>
               <corr>state documents</corr>
             </choice>, intricate, involved,</l>
-          <l>circumtutious. She is a counsellor admonishing a subordinate;</l>
+          <l><choice>
+            <sic>circumtutious</sic>
+            <corr>circuitous</corr>
+          </choice>. She is a counsellor admonishing a subordinate;</l>
           <l>She 
             <choice>
               <sic>e hosrts</sic>
