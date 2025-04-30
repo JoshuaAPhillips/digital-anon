@@ -2676,22 +2676,220 @@
         <event type="death" when="1639?" />
         <note>John Ford was an English playwright best known today for <hi rend="italics">'Tis Pity She's a Whore</hi> (printed 1633), a tragedy whose action is spurred by the incestuous romance of siblings Giovanni and Anabella. Ford's practice as a dramatist was highly collaborative, and his dramas were richly intertextual: early in his career, Ford co-wrote plays with <rs xml:id="psn-tdek">Thomas Dekker</rs> and <rs xml:id="psn-tmid">Thomas Middleton</rs>, while his 1628 play <hi rend="italics">The Lover's Melancholy</hi> was printed with marginalia acknowledging <rs xml:id="psn-rbur">Robert Burton</rs>'s <rs xml:id="lit-anat">Anatomy of Melancholy</rs> as a source (Neill n.p.). Meanwhile, <hi rend="italics">'Tis Pity</hi> has often been read as a reworking of <rs xml:id="lit-rome">Romeo and Juliet</rs>. The Woolfs owned an 1888 edition of his plays, edited by Havelock Ellis and published as part of the Mermaid series 'The Best Plays of the Old Dramatists' (cf. <hi rend="italics">LLVW</hi>). Woolf took notes on <hi rend="italics">'Tis Pity</hi>, as well as <hi rend="italics">The Lover's Melancholy</hi> and <hi rend="italics">The Broken Heart</hi> (published 1633) in preparation for <hi rend="italics">CR1</hi> (cf. <hi rend="italics">RN</hi>9).</note>
         <idno type="viaf">http://viaf.org/viaf/44323561</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q503798</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Neill2007"
+          corresp="http://zotero.org/users/11267805/items/3HVSQ7KR">
+          <analytic>
+            <title level="a">Ford, John (bap. 1586, d. 1639x53?), playwright</title>
+            <author>
+              <forename>Michael</forename>
+              <surname>Neill</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2007</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-9861</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-frana">
         <persName>Frankford (Frankland), John</persName>
         <note>Master John Frankford (persistently referred to by Woolf as Frankland) is a major character in <rs>Thomas Heywood</rs>'s domestic tragedy <rs xml:id="lit-woma">A Woman Killed With Kindness</rs>. The play opens with his marriage to <rs xml:id="psn-franb">Anne Frankford</rs>, the sister of <rs xml:id="psn-acto">Sir Francis Acton</rs>, and his decision to invite <rs xml:id="psn-wend">Wendoll</rs> to stay in his household as a long-term, perhaps permanent, guest. Anne Frankford and Wendoll begin an affair, which Frankland later discovers, walking in on Anne and Wendoll in bed. He is restrained from killing Wendoll and exiles Anne, saying that he intends to 'not martyr thee | Nor mark thee for a strumpet, but with usage | Of more humility torment thy soul | And kill thee, even with kindness' (13.150-1). Seeking to repent, Anne starves herself. Hearing of her parlous health, Frankford rushes to Anne's sickbed and the two reconcile, but this is not enough to prevent her death.</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q3549497</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Heywood2017"
+          corresp="http://zotero.org/users/11267805/items/YNDK37HH">
+          <monogr>
+            <title level="m">A woman killed with kindness</title>
+            <idno type="ISBN">978-1-904271-58-1 978-1-4081-2997-5</idno>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Heywood</surname>
+            </author>
+            <editor>
+              <forename>Margaret Jane</forename>
+              <surname>Kidnie</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Arden Shakespeare</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Arden early modern drama</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-franb">
         <persName>Frankford (Frankland), Anne</persName>
         <note>Anne Frankford (consistently referred to by Woolf as Frankland) is a major character in one of the two subplots of <rs>Thomas Heywood</rs>'s domestic tragedy <rs xml:id="lit-woma">A Woman Killed With Kindness</rs>. She is the sister of <rs xml:id="psn-acto">Sir Francis Acton</rs>. The play opens with her marriage to <rs xml:id="psn-frana">Master John Frankland</rs>. John Frankland invites <rs xml:id="psn-wend">Wendoll</rs> to live in the newlyweds' home as a permanent guest, and Anne and Wendoll begin an affair. Frankford discovers the pair, and is restrained from killing Wendoll. In an act of retribution intended to 'torment [her] soul' and 'kill [her], even with kindness' (13.150-1), John exiles Anne and all of her possessions to a manor some seven miles from their home, and directs her to live out the rest of her days there. Her days are cut short as Anne starves herself, seeking to repent. Frankford is summoned to Anne's side, which gives the pair the chance to reconcile, but this is not enough to prevent Anne's death.</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q3549497</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Heywood2017"
+          corresp="http://zotero.org/users/11267805/items/YNDK37HH">
+          <monogr>
+            <title level="m">A woman killed with kindness</title>
+            <idno type="ISBN">978-1-904271-58-1 978-1-4081-2997-5</idno>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Heywood</surname>
+            </author>
+            <editor>
+              <forename>Margaret Jane</forename>
+              <surname>Kidnie</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Arden Shakespeare</publisher>
+              <date>2017</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Arden early modern drama</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-ifriz">
         <persName>Frizer, Ingram</persName>
         <event type="death" when="1627-08?" />
         <note>Little is known about Ingram Frizer's life, save that he killed <rs xml:id="psn-cmar">Christopher Marlowe</rs> in what is popularly believed to have been a tavern brawl on 30 May 1593 in <rs xml:id="pla-dept">Deptford</rs>, London, although more recently this popular conception has been called into question (cf. Nicholl, n.p.). Though it may have taken place in private rather than a tavern, the specific details of Frizer's fight with Marlowe are less doubtful. In M108 [The Reader: There is a jolt at the points.], fol. 5v, Woolf paraphrases G.B. Harrison's account of Marlowe's death, itself a paraphrase of contemporary court records: 'malicious words passed between Marlowe and Frizer about the payment of the reckoning, until Marlowe [...] sprang on Frizer [...] and taking Frizer's dagger from his back wounded him twice in the head. Frizer being then put in fear of his life strove to get his dagger back, and in the struggle gave Marlowe a mortal wound over the right eye of which he instantly died' (G.B. Harrison, 258). Woolf read and took notes on G.B. Harrison's <hi rend="italics">An Elizabethan Journal</hi> (1928) in 1940, in preparation for the 'Anon' drafts (cf. <hi rend="italics">RN</hi>37), and had a copy of his 1923 <hi rend="italics">Shakespeare's Fellows: Being a Brief Chronicle of the Shakespearean Age</hi> in her library (cf. <hi rend="italics">LLVW</hi>).</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1663270</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Harrison1929"
+          corresp="http://zotero.org/users/11267805/items/ZTE76VYP">
+          <monogr>
+            <title level="m">An Elizabethan journal: Being a record of those things most talked
+              about during the years 1591-1594</title>
+            <title type="short">An Elizabethan journal;</title>
+            <author>
+              <forename>G.B. (George Bagshawe)</forename>
+              <surname>Harrison</surname>
+            </author>
+            <imprint>
+              <date>1929</date>
+              <note type="accessed">2024-02-23T11:56:14Z</note>
+              <note type="url">http://archive.org/details/bwb_W8-BJX-249</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Nicholl2008"
+          corresp="http://zotero.org/users/11267805/items/JEBXADD6">
+          <analytic>
+            <title level="a">Marlowe [Marley], Christopher (bap. 1564, d. 1593), playwright and poet</title>
+            <author>
+              <forename>Charles</forename>
+              <surname>Nicholl</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18079</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-mfyt">
         <persName>Fytton, Mary</persName>
@@ -2699,6 +2897,91 @@
         <event type="death" when="1647?" />
         <note>Mary Fytton was the daughter of <rs xml:id="psn-efyt">Edward Fytton</rs> and, at some point between mid-1596 and early 1598, served as maid of honour at <rs xml:id="psn-eliz">Elizabeth I</rs>'s court (Larminie n.p.). Prior to her arrival at court, Sir <rs xml:id="psn-wkno">William Knollys</rs> wrote to her father that he would play the role of 'the Good Shepperd &amp; will to my power deffend the innocent lamb from the wolvyshe crueltye &amp; fox-like subtletye of the tame bests of this place' (Knollys in Newdigate-Newdegate 9) but he was not as good as his word and fell in love (unrequited) with Fytton, evidenced by a series of letters (unanswered). Fytton left the court shortly thereafter (Larminie n.p.), and the letters that Woolf quotes imply that she left in disgrace. VW read this narrative in Newdigate-Newdegate, which she took notes on in preparation for the 'Anon' drafts (<hi rend="italics">RN</hi>37). Mary Fytton's relationship with Knollys is one part of Newdigate-Newdegate's narrative but VW's notes focus on this strand. In his 1899 <hi rend="italics">Dictionary of National Biography</hi> entry on Fytton, Sidney Lee notes that she was 'fantastically alleged' as the Dark Lady of <rs xml:id="psn-wsha">Shakespeare</rs>'s sonnets, but that this is a 'fanciful theory, which does not admit of serious consideration' (Lee).</note>
         <idno type="viaf">http://viaf.org/viaf/105142299</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q4948169</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Larminie2008"
+          corresp="http://zotero.org/users/11267805/items/SLS7KFDR">
+          <analytic>
+            <title level="a">Fitton [married names Polewhele, Lougher], Mary (bap. 1578, d. 1641),
+              courtier and gentlewoman</title>
+            <author>
+              <forename>Vivienne</forename>
+              <surname>Larminie</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-9523</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Newdigate-Newdegate1897"
+          corresp="http://zotero.org/users/11267805/items/6N6JH4DX">
+          <monogr>
+            <title level="m">Gossip from a muniment room; being passages in the lives of Anne and
+              Mary Fitton, 1574 to 1618.</title>
+            <author>
+              <forename>Anne Emily Garnier</forename>
+              <surname>Newdigate-Newdegate</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>D. Nutt</publisher>
+              <date>1897</date>
+              <note type="url">//catalog.hathitrust.org/Record/000767029</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="dictionaryEntry" xml:id="Lee1889"
+        corresp="http://zotero.org/users/11267805/items/ZNV33JSH">
+        <analytic>
+          <title level="a">Fitton, Mary (fl 1600)</title>
+          <author>
+            <forename>Sidney</forename>
+            <surname>Lee</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="m">Dictionary of National Biography</title>
+          <imprint>
+            <pubPlace>Oxford</pubPlace>
+            <publisher>Oxford University Press</publisher>
+            <date>1889</date>
+            <note type="url">
+              https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-9523</note>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-efyt">
         <persName>Fytton, Sir Edward</persName>
@@ -2706,18 +2989,161 @@
         <event type="death" when="1606?" />
         <note>The father of <rs xml:id="psn-mfyt">Mary Fytton</rs>, Edward Fytton was from <rs xml:id="pla-gaws">Gawsworth</rs> in <rs xml:id="pla-ches">Cheshire</rs>. He was a prominent landowner and owned plantations in Ireland, though found this to be 'financially unrewarding' (Cunningham).</note>
         <idno type="viaf">http://viaf.org/viaf/29360176</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q5342912</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Cunningham2008"
+          corresp="http://zotero.org/users/11267805/items/MASMX5RZ">
+          <analytic>
+            <title level="a">Fitton, Sir Edward (1548/9–1606), administrator</title>
+            <author>
+              <forename>Bernadette</forename>
+              <surname>Cunningham</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-9522</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-gawa">
         <persName>Gawain</persName>
         <note>Sir Gawain was part of <rs xml:id="psn-kart">Arthur</rs>'s retinue, the knights of the <rs xml:id="obj-roun">Round Table</rs> in Arthurian legend. Despite (or perhaps because of) his manifold appearances across the Arthurian canon, his character is far from consistent: in the anonymous middle English poem <hi rend="italics">Sir Gawain and the Green Knight</hi> (late c. 14th) he is a figure of chivalric virtue; in Woolf's source for Arthurian mythology here, <rs xml:id="psn-tmal">Thomas Malory</rs>'s <rs xml:id="lit-mort">Morte Darthur</rs> (1485), he is a 'brash bully' who 'contributes to Britain's downfall by egging Arthur into a war with <rs xml:id="psn-lanc">Lancelot</rs>' (Bruce 211). In the <hi rend="italics">Morte</hi>, he is killed in battle at <rs xml:id="pla-dove">Dover</rs>. <rs xml:id="psn-wcax">Caxton</rs> writes in his Preface to Malory's work that Gawain's skull could still be seen at Dover Castle (Caxton in Malory 2).</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q831685</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+          corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+          <monogr>
+            <title level="m">The Arthurian name dictionary</title>
+            <idno type="ISBN">978-0-8153-2865-0</idno>
+            <idno type="callNumber">942.014</idno>
+            <author>
+              <forename>Christopher W.</forename>
+              <surname>Bruce</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Garland</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Garland reference library of the humanities</title>
+            <biblScope unit="volume">2063</biblScope>
+          </series>
+        </biblStruct>
+        </listBibl>
+        <biblStruct type="book" xml:id="Malory1899"
+        corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+        <monogr>
+          <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+            noble knights of the round table.: The text of Caxton</title>
+          <author>
+            <forename>Thomas</forename>
+            <surname>Malory</surname>
+          </author>
+          <editor>
+            <forename>Edward</forename>
+            <surname>Strachey</surname>
+          </editor>
+          <editor>
+            <forename>William</forename>
+            <surname>Caxton</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London; New York</pubPlace>
+            <publisher>Macmillan</publisher>
+            <date>1899</date>
+            <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+          </imprint>
+        </monogr>
+      </biblStruct>
       </person>
       <person xml:id="psn-jgow">
         <persName>Gower, John</persName>
         <event type="birth" when="1330?" />
         <event type="death" when="1408-10" />
-        <note>John Gower was a trilingual poet who wrote Latin, French, and English poems of extraordinary length: the Latin <hi rend="italics">Vox Clamantis</hi> [The Crying Voice] is over 10,000 lines long, while the Anglo-Norman <hi rend="italics">Mirour de l'Omme</hi> [The Mirror of Man] and the Middle English <hi rend="italics">Confessio Amantis</hi> [The Lover's Confession] are both roughly 30,000 lines in length. Little documentary evidence survives to speak to his life, though he was evidently friends with <rs xml:id="psn-gcha">Geoffrey Chaucer</rs>. In one manuscript tradition of <hi rend="italics">Confessio Amantis</hi>, Gower dedicates the poem to Chaucer, as the speaker asks Venus to 'gret wel Chaucer whan ye mete | As mi disciple and mi poete' (Gower 1.8, note to ll. 2941), while the penultimate stanza of Chaucer's <hi rend="italics">Troilus and Criseyde</hi> apostrophises Gower and dedicates the poem to him: 'O moral Gower, this book I directe | To the [...] | To vouchen sauf, there nede is, to correct | Of youre benignites and zeles goode' (Chaucer V.1856-8).</note>
+        <note>John Gower was a trilingual poet who wrote Latin, French, and English poems of extraordinary length: the Latin <hi rend="italics">Vox Clamantis</hi> [The Crying Voice] is over 10,000 lines long, while the Anglo-Norman <hi rend="italics">Mirour de l'Omme</hi> [The Mirror of Man] and the Middle English <hi rend="italics">Confessio Amantis</hi> [The Lover's Confession] are both roughly 30,000 lines in length. Little documentary evidence survives to speak to his life, though he was evidently friends with <rs xml:id="psn-gcha">Geoffrey Chaucer</rs>. In one manuscript tradition of <hi rend="italics">Confessio Amantis</hi>, Gower dedicates the poem to Chaucer, as the speaker asks Venus to 'gret wel Chaucer whan ye mete | As mi disciple and mi poete' (Gower 1.8, note to ll. 2941), while the penultimate stanza of Chaucer's <hi rend="italics">Troilus and Criseyde</hi> apostrophises Gower and dedicates the poem to him: 'O moral Gower, this book I directe | To the [...] | To vouchen sauf, there nede is, to correct | Of youre benignites and zeles goode' (Chaucer V.1856-8). There is no extant evidence to suggest that Woolf read Gower.</note>
         <idno type="viaf">http://viaf.org/viaf/120695167</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q365133</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Chaucer2008"
+          corresp="http://zotero.org/users/11267805/items/SDH97CRB">
+          <analytic>
+            <title level="a">Troilus and Criseyde</title>
+            <author>
+              <forename>Geoffrey</forename>
+              <surname>Chaucer</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The riverside Chaucer</title>
+            <idno type="ISBN">978-0-19-955209-2</idno>
+            <editor>
+              <forename>Larry Dean</forename>
+              <surname>Benson</surname>
+            </editor>
+            <editor>
+              <forename>Christopher</forename>
+              <surname>Cannon</surname>
+            </editor>
+            <editor>
+              <forename>Fred N.</forename>
+              <surname>Robinson</surname>
+            </editor>
+            <edition>Third edition</edition>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <biblScope unit="page">470-585</biblScope>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Gower2006"
+          corresp="http://zotero.org/users/11267805/items/LJ3UDF8J">
+          <monogr>
+            <title level="m">Confessio amantis</title>
+            <idno type="ISBN">978-1-58044-102-5</idno>
+            <extent>3</extent>
+            <author>
+              <forename>John</forename>
+              <surname>Gower</surname>
+            </author>
+            <editor>
+              <forename>Russell A.</forename>
+              <surname>Peck</surname>
+            </editor>
+            <respStmt>
+              <resp>contributor</resp>
+              <persName>
+                <forename>Andrew</forename>
+                <surname>Galloway</surname>
+              </persName>
+            </respStmt>
+            <edition>2nd ed.</edition>
+            <imprint>
+              <pubPlace>Kalamazoo, MI</pubPlace>
+              <publisher>Published for TEAMS (The Consortium for the Teaching of the Middle Ages) in
+                association with the University of Rochester by Medieval Institute Publications</publisher>
+              <date>2006</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Middle English texts series</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-greg">
         <persName>Greg, W. W. (Walter Wilson)</persName>
@@ -2725,6 +3151,7 @@
         <event type="death" when="1959-03-04" />
         <note>Walter Wilson Greg was an editor of Shakespeare (among others) and scholar of the renaissance stage whose work remains foundational to critical bibliography and therefore to modern Anglo-American textual scholarship. Woolf read Greg's landmark 1904-08 two-volume edition of <rs xml:id="psn-phen">Philip Henslowe</rs>'s diaries in preparation for work on the 'Anon' drafts, and cites it multiple times herein, though nothing written or edited by Greg appears in the Woolfs' library.</note>
         <idno type="viaf">http://viaf.org/viaf/14810300</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q7946039</idno>
       </person>
       <person xml:id="psn-egre">
         <persName>Grey, Elizabeth</persName>
@@ -2732,6 +3159,31 @@
         <event type="death" when="1651-12-06" />
         <note>Elizabeth Grey, Countess of Kent, was the granddaughter of Bess of Hardwick, and a literary figure in her own right. She was probably educated by translator John Florio (Considine n.p.), who dedicated his translation of the <rs xml:id="psn-mmon">Essais</rs> of <rs xml:id="psn-mmon">Michel de Montaigne</rs> to her.</note>
         <idno type="viaf">http://viaf.org/viaf/7520168453558166300004</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q5362878</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Considine2006"
+          corresp="http://zotero.org/users/11267805/items/VI49UQ4D">
+          <analytic>
+            <title level="a">Grey, Elizabeth [née Lady Elizabeth Talbot], countess of Kent
+              (1582–1651), literary patron and supposed author</title>
+            <author>
+              <forename>John</forename>
+              <surname>Considine</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2006</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-11530</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-whar">
         <persName>Harrison, William</persName>
@@ -2739,13 +3191,62 @@
         <event type="death" when="1593-04-24" />
         <note>William Harrison, was a cleric and historian. He was household chaplain to <rs xml:id="psn-wcob">William Brooke</rs>, tenth Baron Cobham, who would later institute him as rector of the parish of <rs xml:id="pla-radw">Radwinter</rs> in Essex. In the 1560s and '70s, he embarked on a historiographical project that was ambitious, to say the least, working on a manuscript titled <hi rend="italics">Chronological computations from the beginning of the world to his own times</hi>, which he later expanded into <hi rend="italics">The great English chronology</hi> (Parry n.p.). In 1576, <rs xml:id="psn-rhol">Raphael Holinshed</rs> commissioned Harrison to write <rs xml:id="lit-desc">A Description of England</rs>, which formed part of Holinshed's <rs xml:id="lit-chro">Chronicles</rs>. Harrison dedicated his <hi rend="italics">Description</hi> to Baron Cobham. </note>
         <idno type="viaf">http://viaf.org/viaf/30613815</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q8010943</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Harrison1877"
+          corresp="http://zotero.org/users/11267805/items/2297S3AF">
+          <monogr>
+            <title level="m">Harrison's Description of England in Shakespere's youth: Being the
+              second and third books of his Description of Britaine and England</title>
+            <extent>3</extent>
+            <author>
+              <forename>William</forename>
+              <surname>Harrison</surname>
+            </author>
+            <editor>
+              <forename>Frederick, J.</forename>
+              <surname>Furnivall</surname>
+            </editor>
+            <imprint>
+              <pubPlace>57, 59, Ludgate Hill, London, E.C.</pubPlace>
+              <publisher>N. Trübner &amp; Co.</publisher>
+              <date>1877</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Publisht for the New Shakspere Society</title>
+          </series>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Parry2004"
+          corresp="http://zotero.org/users/11267805/items/M8W3JWIF">
+          <analytic>
+            <title level="a">Harrison, William (1535–1593), historian and topographer</title>
+            <author>
+              <forename>Glyn</forename>
+              <surname>Parry</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2004</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-12453</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-hen8">
         <persName>Henry VIII of England</persName>
         <event type="birth" when="1491-06-28" />
         <event type="death" when="1547-01-28" />
-        <note>Henry Tudor was king of England and Ireland from 1509 until his death in 1547 and is best known now for his six wives. As ruler, he broke from <rs xml:id="pla-rome">Rome</rs> and the authority of the Pope in order to divorce his first wife, Catherine of Aragon, greatly expanding his own power in the process. In so doing, he established the Church of England with himself as the divinely annointed Supreme Head. <rs xml:id="psn-wsha">William Shakespeare</rs> and John Fletcher collaboratively wrote <hi rend="italics">King Henry VIII</hi>, which was first performed under the title <hi rend="italics">All is True</hi> in 1613 at the <rs xml:id="pla-glob">Globe</rs> theatre. At this performance, a cannon was discharged onstage: it misfired, setting the thatch roof of the 'wooden O' alight and burning down the playhouse.</note>
+        <note>Henry Tudor was king of England and Ireland from 1509 until his death in 1547. As ruler, he broke from <rs xml:id="pla-rome">Rome</rs> and the authority of the Pope in order to divorce his first wife, Catherine of Aragon, greatly expanding his own power in the process. In so doing, he established the Church of England with himself as the divinely annointed Supreme Head. <rs xml:id="psn-wsha">William Shakespeare</rs> and John Fletcher collaboratively wrote <hi rend="italics">King Henry VIII</hi>, which was first performed under the title <hi rend="italics">All is True</hi> in 1613 at the <rs xml:id="pla-glob">Globe</rs> theatre. At this performance, a cannon was discharged onstage: it misfired, setting the thatch roof of the playhoouse alight and burning down the structure.</note>
         <idno type="viaf">http://viaf.org/viaf/172419710</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q38370</idno>
       </person>
       <person xml:id="psn-phen">
         <persName>Henslowe, Philip</persName>
@@ -2753,6 +3254,72 @@
         <event type="death" when="1616-01-06" />
         <note>Philip Henslowe was a theatre financier and patron, whose diary provides an invaluable window into the business of the Jacobean stage. Henslowe financed and took an active interest in the construction of the <rs xml:id="pla-rose">Rose</rs> playhouse in <rs xml:id="pla-sout">Southwark</rs>, and its resident theatre company, Lord Strange's Men, later the Lord Admiral's Men. In 1600, he began work on another playhouse, the <rs xml:id="pla-fort">Fortune</rs>, as a joint venture with the actor Edward Alleyn. Henslowe was a success at the court of <rs xml:id="psn-kjam">King James</rs>, being appointed as gentleman sewer of the chamber in 1603 and jointly purchasing the mastership of the royal game with Alleyn, which would enable them to license bear baiting, in 1604 – they held baiting at the Rose fortnightly (cf. Cerasano n.p.) Henslowe's diary is somewhat of a composite volume: it contains accounts kept by a John Henslowe regarding the 'felling and disposal of timber and other matters in Ashdown forest' from 1576-1581, and thereafter contains a mixture of what Greg describes as 'accounts and memoranda relating both to private affairs, dramatic and other' from 1592 to 1609. It contains accounts of family business, matters relating to the Rose and the performances therein, details of monies lent and received, astrological formulae, medical recipes and charms, and details of a joint starch-making venture he undertook with Alleyn. The small folio volume lay undiscovered in the archives of Dulwich College, a boys' school in London, until 1780 where they remain today (Greg in Henslowe i.xii-xxiii). Woolf read the two-volume edition of Henslowe's diary edited by <rs xml:id="psn-greg">W. W. Greg</rs> in preparation for her work on the 'Anon' drafts, gleaning much of her information on the material conditions of the early stage from Greg's exhaustive commentary on the diary (Cf. <hi rend="italics">RN</hi>14, 37).</note>
         <idno type="viaf">http://viaf.org/viaf/100254817</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1349498</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Cerasano2008"
+          corresp="http://zotero.org/users/11267805/items/EARRGXRX">
+          <analytic>
+            <title level="a">Henslowe, Philip (c. 1555–1616), theatre financier</title>
+            <author>
+              <forename>S. P.</forename>
+              <surname>Cerasano</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-12991</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Henslowe1904"
+        corresp="http://zotero.org/users/11267805/items/8E5GQ45P">
+        <monogr>
+          <title level="m">Henslowe's diary</title>
+          <extent>2</extent>
+          <author>
+            <forename>Philip</forename>
+            <surname>Henslowe</surname>
+          </author>
+          <editor>
+            <forename>W. W. (Walter Wilson)</forename>
+            <surname>Greg</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>A.H. Bullen</publisher>
+            <date>1904</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-mher">
         <persName>Herbert, Mary</persName>
@@ -2760,6 +3327,29 @@
         <event type="death" when="?" />
         <note>Mary Herbert (née Sidney), was a poet, translator, and literary patron. She was the sister of <rs xml:id="psn-psid">Philip Sidney</rs> and their brother <rs xml:id="psn-rsid">Robert</rs>. She received a humanist education at home before joining the court of <rs xml:id="psn-eliz">Elizabeth I</rs>, marrying Henry Herbert, second earl of Pembroke in 1577. She and her husband lived at <rs xml:id="pla-wilt">Wilton House</rs>. Philip Sidney dedicated <hi rend="italics">The Countess of Pembroke's Arcadia</hi> (1593). After Philip's death in 1586 she continued to act as patron for many poets who had benefited from her brother's largesse, and she was a skilled poet and translator in her own right, creating a virtuosic translation of the Book of Psalms.</note>
         <idno type="viaf">http://viaf.org/viaf/32005754</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q469059</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Sidney1655a"
+          corresp="http://zotero.org/users/11267805/items/B8CTEEFS">
+          <monogr>
+            <title level="m">The Countess of Pembroke's Arcadia</title>
+            <author>
+              <forename>Sir Philip</forename>
+              <surname>Sidney</surname>
+            </author>
+            <edition>The tenth edition with his life and death, a brief table of the principal
+              heads, and som sic other new additions.</edition>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Printed by William Du-Gard, and are to be sold by George Calvert, at the
+                half Moon in the new buildings in Paul's Church-yard, and Thomas Pierrepoint at the
+                Sun in Paul's Church-yard, MDCLV</publisher>
+              <date>1655</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-they">
         <persName>Heywood, Thomas</persName>
