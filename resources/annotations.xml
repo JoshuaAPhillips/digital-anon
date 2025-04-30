@@ -4591,8 +4591,35 @@
         <persName>Kempe, William</persName>
         <event type="birth" when="1560?" />
         <event type="death" when="1603?" />
-        <note>William Kempe was an actor on the Elizabethan stage, who began his career as a 'jesting plaier' at courts in Europe. By 1594, he was part of the Lord Chamberlain's Men, <rs xml:id="psn-wsha">William Shakespeare</rs> and Richard Burbage's theatre company. He is known to have played the roles of Peter, the Nurse's servant in <rs xml:id="lit-rome">Romeo and Juliet</rs> and Dogberry in <hi rend="italics">Much Ado About Nothing</hi>, and it is conjectured that he played Bottom and Falstaff. By 1599 he had sold his share of the lease of the <rs xml:id="pla-glob">Globe</rs> and left the company. Kemp returned to clowning and his next public appearance was a highly unlikely one: in 1600, he performed a morris dance from <rs xml:id="pla-lond">London</rs> to <rs xml:id="pla-norw">Norwich</rs>, a journey of roughly 130 miles. He advertised this in a pamphlet, <hi rend="italics">Kemp's Nine Daies Wonder</hi>. The precise date of his death is unknown, though it is likely that he died in 1603, a particularly bad plague year (Eccles III 293-5).</note>
+        <note>William Kempe was an actor on the Elizabethan stage, who began his career as a 'jesting plaier' at courts in Europe. By 1594, he was part of the Lord Chamberlain's Men, <rs xml:id="psn-wsha">William Shakespeare</rs> and Richard Burbage's theatre company. He is known to have played the roles of Peter, the Nurse's servant in <rs xml:id="lit-rome">Romeo and Juliet</rs> and Dogberry in <hi rend="italics">Much Ado About Nothing</hi>, and it is conjectured that he played Bottom and Falstaff. By 1599 he had sold his share of the lease of the <rs xml:id="pla-glob">Globe</rs> and left the company. Kempe returned to clowning and his next public appearance was a highly unlikely one: in 1600, he performed a morris dance from <rs xml:id="pla-lond">London</rs> to <rs xml:id="pla-norw">Norwich</rs>, a journey of roughly 130 miles. He advertised this in a pamphlet, <hi rend="italics">Kemp's Nine Daies Wonder</hi>. The precise date of his death is unknown, though it is likely that he died in 1603, a particularly bad plague year (Eccles III 293-5).</note>
         <idno type="viaf">http://viaf.org/viaf/26090066</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2028014</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="journalArticle" xml:id="Eccles1992"
+          corresp="http://zotero.org/users/11267805/items/D5CZ2VEZ">
+          <analytic>
+            <title level="a">Elizabethan [Actors] III: K–R</title>
+            <idno type="DOI">10.1093/nq/39.3.293</idno>
+            <author>
+              <forename>Mark</forename>
+              <surname>Eccles</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Notes and Queries</title>
+            <idno type="ISSN">0029-3970</idno>
+            <imprint>
+              <biblScope unit="volume">39</biblScope>
+              <biblScope unit="issue">3</biblScope>
+              <biblScope unit="page">293-303</biblScope>
+              <date>1992</date>
+              <note type="accessed">2024-01-17</note>
+              <note type="url">https://doi.org/10.1093/nq/39.3.293</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-wkno">
         <persName>Knollys, Sir William</persName>
@@ -4600,6 +4627,27 @@
         <event type="death" when="1632-05-25" />
         <note>Sir William Knollys was the 1st Earl of Banbury and a cousin of <rs xml:id="psn-eliz">Elizabeth I</rs>. Of relevance here is his relationship with <rs xml:id="psn-mfyt">Mary Fytton</rs>. Prior to her arrival at Elizabeth's court, he wrote to Fytton's <rs xml:id="psn-efyt">father</rs> promising that he would play the role of 'the Good Shepperd &amp; will to my power deffend the innocent lamb from the wolvyshe crueltye &amp; fox-like subtletye of the tame bests of this place' (Knollys in Newdigate-Newdegate 9). His letters to Mary Fytton evidence quite a different relationship: one of an unrequited love for her. The letters went unanswered and Fytton left the court after only a very short stint there. The letters from Fytton's mother imply that she left the court in disgrace.</note>
         <idno type="viaf">http://viaf.org/viaf/50650036</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1968558</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Newdigate-Newdegate1897"
+          corresp="http://zotero.org/users/11267805/items/6N6JH4DX">
+          <monogr>
+            <title level="m">Gossip from a muniment room; being passages in the lives of Anne and
+              Mary Fitton, 1574 to 1618.</title>
+            <author>
+              <forename>Anne Emily Garnier</forename>
+              <surname>Newdigate-Newdegate</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>D. Nutt</publisher>
+              <date>1897</date>
+              <note type="url">//catalog.hathitrust.org/Record/000767029</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-tkyd">
         <persName>Kyd, Thomas</persName>
@@ -4607,16 +4655,164 @@
         <event type="death" when="1594-08-15?" />
         <note>Thomas Kyd was an English playwright, best-known for <rs xml:id="lit-span">The Spanish Tragedy</rs>, though it was not attributed to him until 1773, over 175 years after his death: the play was considered anonymous until that point (cf. Mulryne n.p.). Details of Kyd's life are scant until he was arrested on charges of libel on 11th May 1593: officers searched Kyd's lodgings and did not find libellous material; rather, they found material deeped heretical. Kyd was almost certainly tortured by 'strappado' and wrote letters upon his release claiming that the heretical material belonged to <rs xml:id="psn-cmar">Christopher Marlowe</rs>, with whom he was sharing lodgings. Kyd wrote these letters after Marlowe's death on 30th May 1593, and died himself shortly afterwards (Calvo and Tronch in Kyd 6-9).</note>
         <idno type="viaf">http://viaf.org/viaf/29614087</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q337082</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Kyd2013"
+          corresp="http://zotero.org/users/11267805/items/TETVKVE8">
+          <monogr>
+            <title level="m">The Spanish tragedy</title>
+            <idno type="ISBN">978-1-4081-2998-2 978-1-904271-60-4 978-1-4081-4016-1</idno>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Kyd</surname>
+            </author>
+            <editor>
+              <forename>Clara</forename>
+              <surname>Calvo</surname>
+            </editor>
+            <editor>
+              <forename>Jesús</forename>
+              <surname>Tronch Pérez</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Arden Shakespeare</publisher>
+              <date>2013</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Arden early modern drama</title>
+          </series>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Mulryne2004"
+          corresp="http://zotero.org/users/11267805/items/3KSTCDHJ">
+          <analytic>
+            <title level="a">Kyd, Thomas (bap. 1558, d. 1594), playwright and translator</title>
+            <author>
+              <forename>J. R.</forename>
+              <surname>Mulryne</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2004</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-15816</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-latr">
         <persName>La Trobe, Miss</persName>
-        <note>The semi-anonymous playwright in <hi rend="italics">BA</hi>. Miss La Trobe writes and directs the pageant that is performed in Woolf's 1941 novel. Eisenberg identifies La Trobe and <rs xml:id="psn-anon">Anon</rs> as counterparts (260) in an essay published in 1981 but drafted prior to Silver's publication of her edition of the 'Anon' drafts.</note>
-        <idno>N/A</idno>
+        <note>The author of <hi rend="italics">BA</hi>'s pageant. Miss La Trobe writes and directs the pageant that is performed in Woolf's 1941 novel. Eisenberg identifies La Trobe and <rs xml:id="psn-anon">Anon</rs> as counterparts (260) in an essay published in 1981 but drafted prior to Silver's publication of her edition of the 'Anon' drafts.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2342630</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Eisenberg1981"
+          corresp="http://zotero.org/users/11267805/items/ZSJ5Y4P3">
+            <analytic>
+              <title level="a">Virginia Woolf’s Last Words on Words: Between the Acts and ‘Anon’</title>
+              <author>
+                <forename>Nora</forename>
+                <surname>Eisenberg</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">New Feminist Essays on Virginia Woolf</title>
+              <idno type="ISBN">978-1-349-05486-2</idno>
+              <editor>
+                <forename>Jane</forename>
+                <surname>Marcus</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">253-266</biblScope>
+                <publisher>Palgrave Macmillan</publisher>
+                <date>1981</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2011"
+          corresp="http://zotero.org/users/11267805/items/6P4JRNGH">
+            <monogr>
+              <title level="m">Between the Acts</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Mark</forename>
+                <surname>Hussey</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2011</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-lanc">
         <persName>Lancelot</persName>
         <note>One of <rs xml:id="psn-kart">Arthur</rs>'s knights of the <rs xml:id="obj-roun">Round Table</rs> and perhaps the most famous. While Lancelot's roots are in French romances (Bruce 308) and a vast amount of medieval literature in English, French, and German, testifies to Lancelot's story, Woolf's source for Arthurian mythology here is <rs xml:id="psn-tmal">Thomas Malory</rs>'s <rs xml:id="lit-mort">Morte Darthur</rs> (1485). In this account, Lancelot performs valiant feats as part of Arthur's retinue and in so doing attains 'the greatest name of any knight of the world' (Malory 128), but falls in love, and begins an affair, with Guinevere, Arthur's wife. Arthur discovers the affair and sentences Guinevere to be burned at the stake; Lancelot rescues her and they retreat to Joyous Gard, Lancelot's keep. Arthur wins this battle and Lancelot is exiled but at great cost – Arthur's final defeat at the hands of his son Mordred follows shortly thereafter.</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q215681</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+          corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+          <monogr>
+            <title level="m">The Arthurian name dictionary</title>
+            <idno type="ISBN">978-0-8153-2865-0</idno>
+            <idno type="callNumber">942.014</idno>
+            <author>
+              <forename>Christopher W.</forename>
+              <surname>Bruce</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Garland</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Garland reference library of the humanities</title>
+            <biblScope unit="volume">2063</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Malory1899"
+        corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+        <monogr>
+          <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+            noble knights of the round table.: The text of Caxton</title>
+          <author>
+            <forename>Thomas</forename>
+            <surname>Malory</surname>
+          </author>
+          <editor>
+            <forename>Edward</forename>
+            <surname>Strachey</surname>
+          </editor>
+          <editor>
+            <forename>William</forename>
+            <surname>Caxton</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London; New York</pubPlace>
+            <publisher>Macmillan</publisher>
+            <date>1899</date>
+            <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-wlan">
         <persName>Langland, William</persName>
@@ -4624,13 +4820,100 @@
         <event type="death" when="1390?" />
         <note>Remarkably little can be reliably established about the life of William Langland, author of the long Middle English poem <hi rend="italics">The Vision of Piers Plowman</hi>. <hi rend="italics">Piers Plowman</hi> is an dream poem that sees the speaker travelling through an allegorical and at times surrealistic landscape in search of a goodly Christian life. Langland evidently worked on this text for years, if not decades, as three variant traditions of the poem are extant (A, B, and C), each one expanding on the last and each one referencing topical events that allow for them to be dated – tentatively, at least. Beyond internal evidence from the texts of his poem, the only reliable source describing Langland's life is a Latin inscription on the flyleaf of a copy of <hi rend="italics">Piers Plowman</hi> (Kane n.p.). If VW read Langland's poem, then no trace survives: their library does not contain a copy; she made no notes on it and she makes no reference to it in any published work.</note>
         <idno type="viaf">http://viaf.org/viaf/61560236</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q467672</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Kane2004"
+          corresp="http://zotero.org/users/11267805/items/XE6QFQSA">
+          <analytic>
+            <title level="a">Langland, William (c. 1325–c. 1390), poet</title>
+            <author>
+              <forename>George</forename>
+              <surname>Kane</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2004</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16021</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-hlat">
         <persName>Latimer, Hugh</persName>
         <event type="birth" when="1487?"/>
         <event type="death" when="16-10-1555"/>
-        <note>Reformation bishop, preacher, and, ultimately, martyr. During his early life Latimer was 'as obstinate a Papist as any in Europe' and in the oral examination for his theology degree preached against Lutheran reformer <rs xml:id="psn-pmel">Philip Melancthon</rs> until he was converted to the reformist cause at <rs xml:id="pla-camb">Cambridge</rs> by <rs xml:id="tbil">Thomas Bilney</rs>(Latimer 124v). As a reformist theologian, he won the (wavering) favour of <rs xml:id="psn-hen8">Henry VIII</rs> during the establishment of the Church of England but was imprisoned as a heretic by Mary I in the <rs xml:id="pla-boca">Bocardo</rs>, <rs xml:id="pla-oxfo">Oxford</rs> and burnt at the stake on 16 October 1555. LLVW contains a 1635 edition of Latimer's sermons, which VW took extensive notes on in 1940-1 in preparation for her Common History project, as much it seems for Latimer's socio-cultural commentary as for his theology (cf. RN 16).</note>
+        <note>Reformation bishop, preacher, and, ultimately, martyr. During his early life Latimer was 'as obstinate a Papist as any in Europe' and in the oral examination for his theology degree preached against Lutheran reformer <rs xml:id="psn-pmel">Philip Melancthon</rs> until he was converted to the reformist cause at <rs xml:id="pla-camb">Cambridge</rs> by <rs xml:id="tbil">Thomas Bilney</rs> (Latimer 124v). As a reformist theologian, he won the (wavering) favour of <rs xml:id="psn-hen8">Henry VIII</rs> during the establishment of the Church of England but was imprisoned as a heretic by Mary I in the <rs xml:id="pla-boca">Bocardo</rs>, <rs xml:id="pla-oxfo">Oxford</rs> and burnt at the stake on 16 October 1555. LLVW contains a 1635 edition of Latimer's sermons, which VW took extensive notes on in 1940-1 in preparation for her Common History project, as much it seems for Latimer's socio-cultural commentary as for his theology (cf. RN 16).</note>
         <idno type="viaf">http://viaf.org/viaf/45098193</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q710046</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Latimer1635"
+          corresp="http://zotero.org/users/11267805/items/L6TL8U2D">
+          <monogr>
+            <title level="m">Frvitfvll sermons</title>
+            <author>
+              <forename>Hugh</forename>
+              <surname>Latimer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Printed at London</pubPlace>
+              <publisher>by Thomas Cotes ...</publisher>
+              <date>1635</date>
+              <note type="url">//catalog.hathitrust.org/Record/010657959</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Wabuda2009"
+          corresp="http://zotero.org/users/11267805/items/6VDW5HNP">
+          <analytic>
+            <title level="a">Latimer, Hugh (c. 1485–1555), bishop of Worcester, preacher, and
+              protestant martyr</title>
+            <author>
+              <forename>Susan</forename>
+              <surname>Wabuda</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2009</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16100</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-jlel">
         <persName>Leland, John</persName>
@@ -4638,18 +4921,116 @@
         <event type="death" when="1552-04-18" />
         <note>John Leland was an English antiquary, historian, and collector of books whose <hi rend="italics">Itineraries</hi>, records of his journeys around England undertaken 1538-43, did much to establish local history as a methodology. Leland was a fervent believer in the historical reality of <rs xml:id="psn-kart">King Arthur</rs> and Arthurian legend: the only prose work he published in his lifetime was the Latin tract <hi rend="italics">Assertio inclytissimi Arturii regis Britanniae</hi>, which 'attempted to establish the validity of Arthur's historical existence' (Carley n.p.). His 1542 <hi rend="italics">Itinerary</hi> reports that Arthur's castle, <rs xml:id="pla-came">Camelot</rs>, was located in the Somerset village of <rs xml:id="pla-cadb">Cadbury</rs>, and that a silver horseshoe was found in the village (Leland I.151, cf. also Strachey in Malory xii).</note>
         <idno type="viaf">http://viaf.org/viaf/14849374</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1398356</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Carley2006"
+          corresp="http://zotero.org/users/11267805/items/FW9I2AML">
+          <analytic>
+            <title level="a">Leland, John (c. 1503–1552), poet and antiquary</title>
+            <author>
+              <forename>James P.</forename>
+              <surname>Carley</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2006</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-16416</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Leland1907"
+        corresp="http://zotero.org/users/11267805/items/9IREJFXH">
+        <monogr>
+          <title level="m">The itinerary of John Leland in or about the years 1535-1543</title>
+          <extent>5</extent>
+          <author>
+            <forename>John</forename>
+            <surname>Leland</surname>
+          </author>
+          <editor>
+            <forename>Lucy Toulmin</forename>
+            <surname>Smith</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>George Bell and Sons</publisher>
+            <date>1907</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+      <biblStruct type="book" xml:id="Malory1899"
+      corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+      <monogr>
+        <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+          noble knights of the round table.: The text of Caxton</title>
+        <author>
+          <forename>Thomas</forename>
+          <surname>Malory</surname>
+        </author>
+        <editor>
+          <forename>Edward</forename>
+          <surname>Strachey</surname>
+        </editor>
+        <editor>
+          <forename>William</forename>
+          <surname>Caxton</surname>
+        </editor>
+        <imprint>
+          <pubPlace>London; New York</pubPlace>
+          <publisher>Macmillan</publisher>
+          <date>1899</date>
+          <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+        </imprint>
+      </monogr>
+    </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-lmay">
         <persName>Lord Mayor of London</persName>
         <note>The Lord Mayor of London is the leader of the City of London Corporation and the mayor of the City of London, a historic district in the centre of <rs xml:id="pla-lond">London</rs> proper (which, as of 2000, has its own mayoralty). As the Lord Mayor is elected for a term of one year, and she does not specify a date, Woolf could be referring to any number of potential mayors. <rs xml:id="pla-sout">Southwark</rs> became a locus for early modern playhouse culture because it was close to the City of London, but outside of the Lord Mayor's jurisdiction.</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q73341</idno>
       </person>
       <person xml:id="psn-jlyd">
         <persName>Lydgate, John</persName>
         <event type="birth" when="1370?" />
         <event type="death" when="1451?" />
-        <note>John Lydgate was an English monk who wrote poems of ever-increasing length in a variety of genres. Among these is the <hi rend="italics">Troy Book</hi>, a 30,000-line Middle English poem that tells the complete history of Troy from its foundation to its fall. In 'The Journal of Mistress Joan Martyn,' the journal-writer is sent a 'manuscript from London; called The Palace of Glass, by Mr John Lydgate' (<hi rend="italics">CSF</hi> 46). Joan Martyn references Lydgate's <hi rend="italics">House of Glas</hi> here, but the narrative she recounts, 'about Helen and the Siege of Troy' is from his <hi rend="italics">Troy Book</hi>. If VW read any of Lydgate's poetry then no trace of that reading remains, and LLVW contains nothing by the poet.</note>
+        <note>John Lydgate was an English monk who wrote poems of ever-increasing length in a variety of genres. Among these is the <hi rend="italics">Troy Book</hi>, a 30,000-line Middle English poem that tells the complete history of Troy from its foundation to its fall. In 'The Journal of Mistress Joan Martyn,' Martyn is sent a 'manuscript from London; called The Palace of Glass, by Mr John Lydgate' (<hi rend="italics">CSF</hi> 46). Joan Martyn references Lydgate's <hi rend="italics">House of Glas</hi> here, but the narrative she recounts, 'about Helen and the Siege of Troy' is from his <hi rend="italics">Troy Book</hi>. If VW read any of Lydgate's poetry then no trace of that reading remains, and LLVW contains nothing by the poet.</note>
         <idno type="viaf">http://viaf.org/viaf/22158282</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q662063</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Woolf1989b"
+          corresp="http://zotero.org/users/11267805/items/845QZXE8">
+          <analytic>
+            <title level="a">[The Journal of Mistress Joan Martyn]</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+            <idno type="ISBN">070120852X : ¹20.00</idno>
+            <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+            <editor>
+              <forename>Susan</forename>
+              <surname>Dick</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="page">33-62</biblScope>
+              <publisher>Harcourt, Inc.</publisher>
+              <date>1989</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-tmal">
         <persName>Malory, Thomas</persName>
@@ -4657,24 +5038,274 @@
         <event type="death" when="14-03-1471" />
         <note>Little can be established for certain about the life of the author of <rs xml:id="lit-mort">Le Morte Darthur</rs>, beyond that which can be gathered from evidence internal to the book itself. Certainly, he was 'called Thomas Malory, he was a knight and a prisoner, and he finished his work dring the ninth year of King <rs xml:id="psn-edw4">Edward IV</rs>'s reign' (Lacy 294). While there were 'six Thomas Malorys known to have been alive at the same time' (294), the most likely candidate was Sir Thomas Malory of Newbold Revel. Though this Malory was a knight and MP early in life, by 1450 he had evidently had a startling change of heart and, on 4 January 1550 attempted to ambush and murder the Duke of Buckingham. He followed this with an eighteen month crime spree which encompassed 'extortion, theft, rape, cattle rustling, robbery of the local abbey, and deer stealing and enormous damage to property' (Field n.p.). He spent the rest of his life in and out of prisons: while out of prison he joined Edward IV and the Lancastrians in his war against Henry VI and the Yorkists. His fortunes varied dramatically depending on which side was ascendant. It is thought that he wrote the <hi rend="italics">Morte</hi> in the <rs xml:id="pla-towe">Tower of London</rs>, having been imprisoned without charge during the interregnum when Henry VI was restored to power (Field n.p.)</note>
         <idno type="viaf">http://viaf.org/viaf/54166393</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q309907</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Field2011"
+          corresp="http://zotero.org/users/11267805/items/V6ESRNAP">
+          <analytic>
+            <title level="a">Malory, Sir Thomas (1415x18–1471), author</title>
+            <author>
+              <forename>P. J. C.</forename>
+              <surname>Field</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2011</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-17899</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Lacy1996"
+          corresp="http://zotero.org/users/11267805/items/TUZHQ74G">
+          <monogr>
+            <title level="m">The new Arthurian encyclopedia</title>
+            <idno type="ISBN">978-0-8153-2303-7</idno>
+            <editor>
+              <forename>Norris J.</forename>
+              <surname>Lacy</surname>
+            </editor>
+            <edition>Updated paperback edition</edition>
+            <imprint>
+              <pubPlace>New York, NY</pubPlace>
+              <publisher>Garland Publishing</publisher>
+              <date>1996</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Garland reference library of the humanities</title>
+            <biblScope unit="volume">931</biblScope>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-fmann">
         <persName>Manners, Francis</persName>
         <event type="birth" when="1578-12-13" />
         <event type="death" when="1632-06-23" />
         <note>Francis Manners was the sixth earl of Rutland, and a participant in the courts of <rs xml:id="psn-kjam">King James I</rs> and Charles I, and was a key figure in the unsuccessful 'Spanish Match' that <rs xml:id="psn-tmid">Thomas Middleton</rs> allegorises in <hi rend="italics">A Game at Chess</hi> (Loomie n.p.). In his <hi rend="italics">Life of Shakespeare</hi> (1898, expanded ed. 1907), Sidney Lee reports that Manners paid <rs xml:id="psn-wsha">William Shakespeare</rs> and Richard Burbage to 'design[] an "impresa"' for a royal jousting tournament, though the design itself does not survive (Lee 455-6).</note>
-        <idno type="viaf">N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q3749346</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Loomie2014"
+          corresp="http://zotero.org/users/11267805/items/LJ98SE23">
+          <analytic>
+            <title level="a">Manners, Francis, sixth earl of Rutland (1578–1632), nobleman</title>
+            <author>
+              <forename>A. J.</forename>
+              <surname>Loomie</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2014</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-17953</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Lee1917"
+          corresp="http://zotero.org/users/11267805/items/2HQFL7XJ">
+          <monogr>
+            <title level="m">A Life of William Shakespeare</title>
+            <author>
+              <forename>Sidney</forename>
+              <surname>Lee</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York, NY</pubPlace>
+              <publisher>Macmillan</publisher>
+              <date>1917</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-cmar">
         <persName>Marlowe, Christopher</persName>
         <event type="birth" when="1564-02-26" />
         <event type="death" when="1593-05-30" />
-        <note>Playwright, poet, and possible spy for <rs xml:id="psn-eliz">Elizabeth I</rs>. He was killed in a bar brawl by <rs xml:id="psn-ifriz">Ingram Frizer</rs>: cf. note on Frizer for the gory details. Woolf first mentions Marlowe in a November 1901 letter to her brother Thoby Stephen, in which she writes that she has read '<rs xml:id="lit-faus">Dr Faustus</rs> and <hi rend="italics">Edward II</hi>' and thinks 'them very near the great man [<rs xml:id="psn-wsha">Shakespeare</rs>]——with more humanity I should say——not all on such a grand tragic scale' (<hi rend="italics">L</hi>1 46, §. 39). She does not mention <hi rend="italics">Edward II</hi> again. In August 1923 reads and takes notes on the second part of <rs xml:id="lit-tamb">Tamburlaine</rs> and <hi rend="italics">Faustus</hi> (cf. individual play entries for details), as well as <hi rend="italics">The Jew of Malta</hi>: she writes that Marlowe 'cant combine his lyrics with the structural framework of a tragedy' and sums up Barabas as 'having a great power of displaying hate' (<hi rend="italics">RN</hi> 25, fol. 32). She also takes notes on his long poem <hi rend="italics">Hero and Leander</hi> in the same notebook.
+        <note>Playwright, poet, and possible spy for <rs xml:id="psn-eliz">Elizabeth I</rs>. He was killed in a bar brawl by <rs xml:id="psn-ifriz">Ingram Frizer</rs> (cf. note on Frizer for the gory details). Woolf first mentions Marlowe in a November 1901 letter to her brother Thoby Stephen, in which she writes that she has read '<rs xml:id="lit-faus">Dr Faustus</rs> and <hi rend="italics">Edward II</hi>' and thinks 'them very near the great man [<rs xml:id="psn-wsha">Shakespeare</rs>]——with more humanity I should say——not all on such a grand tragic scale' (<hi rend="italics">L</hi>1 46, §. 39). She does not mention <hi rend="italics">Edward II</hi> again. In August 1923 reads and takes notes on the second part of <rs xml:id="lit-tamb">Tamburlaine</rs> and <hi rend="italics">Faustus</hi> (cf. individual play entries for details), as well as <hi rend="italics">The Jew of Malta</hi>: she writes that Marlowe 'cant combine his lyrics with the structural framework of a tragedy' and sums up Barabas as 'having a great power of displaying hate' (<hi rend="italics">RN</hi> 25, fol. 32). She also takes notes on his long poem <hi rend="italics">Hero and Leander</hi> in the same notebook.
 
-        In <hi rend="italics">VO</hi>, Marlowe's works are to be found in Ambrose Ridley's library, though he is unsure quite why they are there (192) and he is among the dead whose names are enumerated in 'The Evening Party' (<hi rend="italics">CSF</hi> 100). In <hi rend="italics">JR</hi>, he is a favourite of Jacob Flanders, who transcribes and 'collate[s] editions of Marlowe in the British Museum,' the outcome of which is an 'incredibly dull essay' (173-4). In <hi rend="italics">O</hi>, Marlowe is a literary hero of the young Orlando, and an associate of Nick Greene, who calls Marlowe a 'likely boy, but what can you say of a lad who died before he was thirty' (81-2). He recounts an anecdote of 'a night at the <rs xml:id="pla-cock">Cock Tavern</rs> in Fleet Street when Kit Marlowe was there and some others.' Drunkenly, Marlowe says to Shakespeare ' "Stap my vitals, Bill [...] There's a great wave coming and you're on top of it"' (82-3). He is mentioned as a forerunner necessary for Shakespeare to be able to write in <hi rend="italics">Room</hi> (59) and he is among the dramatists whose plays Donne sees in the <hi rend="italics">CR2</hi> essay 'Donne after Three Centuries' (<hi rend="italics">E</hi>5 351).
+        In <hi rend="italics">VO</hi>, Marlowe's works are to be found in Ambrose Ridley's library, though he is unsure quite why they are there (192) and he is among the dead whose names are enumerated in 'The Evening Party' (<hi rend="italics">CSF</hi> 100). In <hi rend="italics">JR</hi>, he is a favourite of Jacob Flanders, who transcribes and 'collate[s] editions of Marlowe in the British Museum,' the outcome of which is an 'incredibly dull essay' (173-4). In <hi rend="italics">O</hi>, Marlowe is a literary hero of the young Orlando, and an associate of Nick Greene. He is mentioned as a forerunner necessary for Shakespeare to be able to write in <hi rend="italics">Room</hi> (59) and he is among the dramatists whose plays Donne sees in the <hi rend="italics">CR2</hi> essay 'Donne after Three Centuries' (<hi rend="italics">E</hi>5 351).
 
         LLVW contains two collected editions of Marlowe, one of which is an 'unexpurgated' edition by sexologist Havelock Ellis, as well as a standalone edition of <hi rend="italics">Hero and Leander</hi>. In addition it contains a copy of Leslie Hotson's <hi rend="italics">The Death of Christopher Marlowe</hi> (1925) which VW used as a source herein (cf. <hi rend="italics">RN</hi> 37).</note>
         <idno type="viaf">http://viaf.org/viaf/32000005</idno>
+        <idno type="viaf">https://www.wikidata.org/wiki/Q28975</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+            corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+            <analytic>
+              <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+              <title type="short">WoolfNotes</title>
+              <author>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </author>
+              <author>
+                <forename>Brenda R.</forename>
+                <surname>Silver</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">WoolfNotes</title>
+              <imprint>
+                <date>2024</date>
+                <note type="accessed">2024-07-05</note>
+                <note type="url">http://www.woolfnotes.com/</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="King2003"
+            corresp="http://zotero.org/users/11267805/items/TM946PPU">
+            <monogr>
+              <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+              <author>
+                <forename>Julia</forename>
+                <surname>King</surname>
+              </author>
+              <author>
+                <forename>Laila</forename>
+                <surname>Miletic-Vejzovic</surname>
+              </author>
+              <imprint>
+                <pubPlace>Pullman, WA</pubPlace>
+                <publisher>Washington State University Press</publisher>
+                <date>2003</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2009q"
+            corresp="http://zotero.org/users/11267805/items/YVKSD7ZH">
+            <monogr>
+              <title level="m">The Voyage Out</title>
+              <idno type="ISBN">9780199539307 (pbk.) : ¹8.99 0199539308 (pbk.) : ¹8.99</idno>
+              <idno type="callNumber">823.912 22 British Library HMNTS H.2010/.8012</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Lorna</forename>
+                <surname>Sage</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Oxford University Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2020"
+            corresp="http://zotero.org/users/11267805/items/NNS54MLY">
+            <monogr>
+              <title level="m">Jacob’s Room</title>
+              <idno type="ISBN">978 0 5218 4674 5</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>David</forename>
+                <surname>Bradshaw</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2020</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1989e"
+            corresp="http://zotero.org/users/11267805/items/SBUZIZDZ">
+            <analytic>
+              <title level="a">The Evening Party</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+              <idno type="ISBN">070120852X : ¹20.00</idno>
+              <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+              <editor>
+                <forename>Susan</forename>
+                <surname>Dick</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">96-101</biblScope>
+                <publisher>Harcourt, Inc.</publisher>
+                <date>1989</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1993a"
+            corresp="http://zotero.org/users/11267805/items/Q3TAHMSP">
+            <analytic>
+              <title level="a">A Room of One's Own</title>
+              <title type="short">Room</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">A Room of One's Own and Three Guineas</title>
+              <editor>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">3-104</biblScope>
+                <publisher>Penguin</publisher>
+                <date>1993</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1975"
+            corresp="http://zotero.org/users/11267805/items/L3XAHC3Y">
+            <monogr>
+              <title level="m">The Letters of Virginia Woolf</title>
+              <title type="short">Letters</title>
+              <extent>6</extent>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Nigel</forename>
+                <surname>Nicolson</surname>
+              </editor>
+              <editor>
+                <forename>Joanne</forename>
+                <surname>Trautmann Banks</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1975</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-jmar">
         <persName>Marston, John</persName>
@@ -4682,6 +5313,48 @@
         <event type="death" when="1634-06-25" />
         <note>John Marston was a poet, playwright and priest perhaps best known for his long-running literary feud with <rs xml:id="psn-bjon">Ben Jonson</rs>. It is likely that Marston satirically portrayed Jonson in <hi rend="italics">Histriomastix</hi>, and that Marston was the target of several of Jonson's satirical forays. This, however, did not stop Marston from providing a prefatory poem to Jonson's <hi rend="italics">Sejanus</hi> (1605) or dedicating his own play, <hi rend="italics">The Malcontent</hi> (1603-4) to him. The latter play, a dark comedy, was one of Marston's most successful plays. By 1609, Marston had become ordained as a priest, and thereafter he slowly fades from the historical record (Knowles n.p.). The Woolfs' library contains an 1856 three-volume edition of Marston's plays, signed and annotated by Leslie Stephen. Woolf rebound (CHECK) volumes, but if she read any of the plays, no notes are extant.</note>
         <idno type="viaf">http://viaf.org/viaf/107028077</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q918279</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Knowles2009"
+          corresp="http://zotero.org/users/11267805/items/QNUSYWPU">
+          <analytic>
+            <title level="a">Marston, John (bap. 1576, d. 1634), poet and playwright</title>
+            <author>
+              <forename>James</forename>
+              <surname>Knowles</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2009</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18164</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="King2003"
+        corresp="http://zotero.org/users/11267805/items/TM946PPU">
+        <monogr>
+          <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+          <author>
+            <forename>Julia</forename>
+            <surname>King</surname>
+          </author>
+          <author>
+            <forename>Laila</forename>
+            <surname>Miletic-Vejzovic</surname>
+          </author>
+          <imprint>
+            <pubPlace>Pullman, WA</pubPlace>
+            <publisher>Washington State University Press</publisher>
+            <date>2003</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-pmel">
         <persName>Melancthon, Philipp</persName>
@@ -4689,18 +5362,154 @@
         <event type="death" when="1560-04-19" />
         <note>An early Lutheran theologian against whom <rs xml:id="psn-hlat">Hugh Latimer</rs> preached in the final examination for his degree in divinity. Latimer professes to have spent his 'whole Oration' preaching against Melancthon 'and his opinions.' <rs xml:id="psn-tbil">Thomas Bilney</rs> was in the congregation and later converted Latimer to a mode of the Lutheranism he had inveighed against (Latimer 124v). VW read the sermon in which Latimer discusses this in 1940-1, cf. <hi rend="italics">RN</hi> 16.</note>
         <idno type="viaf">http://viaf.org/viaf/76319978</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q76325</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Latimer1635"
+          corresp="http://zotero.org/users/11267805/items/L6TL8U2D">
+          <monogr>
+            <title level="m">Frvitfvll sermons</title>
+            <author>
+              <forename>Hugh</forename>
+              <surname>Latimer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Printed at London</pubPlace>
+              <publisher>by Thomas Cotes ...</publisher>
+              <date>1635</date>
+              <note type="url">//catalog.hathitrust.org/Record/010657959</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-merl">
         <persName>Merlin</persName>
         <note>In Arthurian legend, Merlin is a wizard and advisor to King <rs xml:id="psn-kart">Arthur</rs>. He first appears in Geoffrey of Monmouth's <hi rend="italics">Historia Regum Brittanae</hi> (1385), and is adapted from the Welsh prophet Myrddin. (Bruce 358-9). In <rs xml:id="lit-mort">Le Morte Darthur</rs>, VW's source for Arthurian myth, <rs xml:id="psn-tmal">Malory</rs> figures him as a a near-constant companion to Arthur who foretells many of his adventures, before being imprisoned under a rock by the Lady of the Lake (Malory 75-6).</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q188044</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+          corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+          <monogr>
+            <title level="m">The Arthurian name dictionary</title>
+            <idno type="ISBN">978-0-8153-2865-0</idno>
+            <idno type="callNumber">942.014</idno>
+            <author>
+              <forename>Christopher W.</forename>
+              <surname>Bruce</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Garland</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Garland reference library of the humanities</title>
+            <biblScope unit="volume">2063</biblScope>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Malory1899"
+        corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+        <monogr>
+          <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+            noble knights of the round table.: The text of Caxton</title>
+          <author>
+            <forename>Thomas</forename>
+            <surname>Malory</surname>
+          </author>
+          <editor>
+            <forename>Edward</forename>
+            <surname>Strachey</surname>
+          </editor>
+          <editor>
+            <forename>William</forename>
+            <surname>Caxton</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London; New York</pubPlace>
+            <publisher>Macmillan</publisher>
+            <date>1899</date>
+            <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-mich">
         <persName>Michelangelo</persName>
         <event type="birth" when="1475-03-06" />
         <event type="death" when="1564-02-18" />
-        <note>Michelangelo di Lodovico Buonarroti Simono is an Italian renaissance painter, sculptor and architect, famous enough to go by his first name. In <hi rend="italics">RF</hi>, VW quotes a letter Fry sends to G. Lowes Dickinson (Goldie) from Italy, in which he writes that the Medici Chapel ' "makes me quite certain that Michelangelo was the greatest architect that has lived since Greek times"' and that the chapel ' "expresses an idea at least as complete adn intelligible as a sonata of <rs xml:id="psn-lbet">Beethoven</rs>'s"' (71). Also writing from Italy, VW asks her sister '[h]ow did Miachel Angelo paint the ceiling [of the Sistine Chapel]? Slung on a board? What do you think of <rs xml:id="psn-raph">Raphael</rs>? and of Michael Angelo? Please tell me" (<hi rend="italics">L</hi>3 367, §. 1747).</note>
+        <note>Michelangelo di Lodovico Buonarroti Simono is an Italian renaissance painter, sculptor and architect, famous enough to go by his first name. In <hi rend="italics">RF</hi>, VW quotes a letter Fry sends to G. Lowes Dickinson (Goldie) from Italy, in which he writes that the Medici Chapel ' "makes me quite certain that Michelangelo was the greatest architect that has lived since Greek times"' and that the chapel ' "expresses an idea at least as complete and intelligible as a sonata of <rs xml:id="psn-lbet">Beethoven</rs>'s"' (71). Also writing from Italy, VW asks her sister '[h]ow did Miachel Angelo paint the ceiling [of the Sistine Chapel]? Slung on a board? What do you think of <rs xml:id="psn-raph">Raphael</rs>? and of Michael Angelo? Please tell me" (<hi rend="italics">L</hi>3 367, §. 1747).</note>
         <idno type="viaf">http://viaf.org/viaf/24585191</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q5592</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2003"
+          corresp="http://zotero.org/users/11267805/items/PFN6I45G">
+          <monogr>
+            <title level="m">Roger Fry: A Biography</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Vintage</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Woolf1975"
+        corresp="http://zotero.org/users/11267805/items/L3XAHC3Y">
+        <monogr>
+          <title level="m">The Letters of Virginia Woolf</title>
+          <title type="short">Letters</title>
+          <extent>6</extent>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+          <editor>
+            <forename>Nigel</forename>
+            <surname>Nicolson</surname>
+          </editor>
+          <editor>
+            <forename>Joanne</forename>
+            <surname>Trautmann Banks</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>The Hogarth Press</publisher>
+            <date>1975</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-tmid">
         <persName>Middleton, Thomas</persName>
@@ -4708,11 +5517,96 @@
         <event type="death" when="1627-07" />
         <note>Thomas Middleton is credited as the only English renaissance playwright other than <rs xml:id="psn-wsha">William Shakespeare</rs> to have 'created plays still considered masterpieces in four major dramatic genres: comedy, history, tragedy, and tragicomedy' (Taylor in Middleton i.25): he also wrote prose satire, masques and pageants. He collaborated with Shakespeare, writing part of <hi rend="italics">Timon of Athens</hi>, and sold Shakespeare's company, The King's Men, the text of <rs xml:id="lit-reve">The Revenger's Tragedy</rs> to perform, thereby beginning a commercial and artistic partnership that would endure past Shapespeare's death in 1616. Middleton was 'apparently the only playwright trusted by the King's Men to update Shakespeare's plays after his death' (Taylor n.p.). Middleton's final play, <hi rend="italics">A Game at Chess</hi> was his greatest commercial success but also proved his downfall. A theological and political satire that gives the Spanish Match, an unsuccessful attempt by <rs xml:id="psn-jam">King James I</rs> to ally Protestant England and Catholic Spain through marriage, allegorical form as a chess game. The play sees England and Spain locked in a ritualised, carefully choreographed intrigue – the play's characters are chess pieces moving across a board, struggling for advantage and to avoid '[t]he bag [which], like hell-mouth, opens | To take her due' (5.3.179-80). The play was performed for an unprecedented nine days, from 5-14th August 1624, before it was closed down. The Privy Council ordered a manhunt for Middleton, after which he was probably imprisoned: thereafter he stopped writing for the stage (Taylor n.p.). Unlike many of his contemporaries, VW did not make reading notes on Middleton (or at least none are extant), and none of his works are catalogued in their library.</note>
         <idno type="viaf">http://viaf.org/viaf/292459958</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q344865</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Taylor2021"
+          corresp="http://zotero.org/users/11267805/items/3IEUB6MD">
+          <analytic>
+            <title level="a">Middleton, Thomas (bap. 1580, d. 1627), playwright</title>
+            <author>
+              <forename>Gary</forename>
+              <surname>Taylor</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2021</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18682</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Middleton2007d"
+          corresp="http://zotero.org/users/11267805/items/56RQ6YM6">
+          <analytic>
+            <title level="a">A Game at Chess: A Later Form</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Middleton</surname>
+            </author>
+            <editor>
+              <forename>John</forename>
+              <surname>Lavagnino</surname>
+            </editor>
+            <editor>
+              <forename>Gary</forename>
+              <surname>Taylor</surname>
+            </editor>
+          </analytic>
+          <monogr>
+            <title level="m">Thomas Middleton: the Collected Works</title>
+            <idno type="ISBN">0-19-173310-5</idno>
+            <extent>2</extent>
+            <editor>
+              <forename>Gary</forename>
+              <surname>Taylor</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="page">1825-1885</biblScope>
+              <publisher>Oxford University Press</publisher>
+              <date>2007</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-smil">
         <persName>Miller, Sissy</persName>
         <note>A character in Woolf's short story 'The Legacy,' drafted 1940 for publication in <hi rend="italics">Harper's Bazaar</hi> but only published posthumously in <hi rend="italics">HH</hi>. Sissy Miller is the secretary of the recently deceased <rs xml:id="psn-acla">Angela Clandon</rs>, and the brother of the mysterious 'B.M.' Angela's husband <rs xml:id="psn-gcla">Gilbert</rs> reads through his wife's journals and becomes convinced that she had an affair with 'B.M.'.</note>
         <idno>N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Woolf1989c"
+          corresp="http://zotero.org/users/11267805/items/IAEKT739">
+          <analytic>
+            <title level="a">The Legacy</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+            <idno type="ISBN">070120852X : ¹20.00</idno>
+            <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+            <editor>
+              <forename>Susan</forename>
+              <surname>Dick</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="page">281-287</biblScope>
+              <publisher>Harcourt, Inc.</publisher>
+              <date>1989</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-mmon">
         <persName>Montaigne, Michel de</persName>
