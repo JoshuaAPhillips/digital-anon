@@ -58,7 +58,7 @@
         <idno type="viaf">http://viaf.org/viaf/24596804 (Henricus Cornelius Agrippa)</idno>
         <idno type="viaf">http://viaf.org/viaf/6352894 (Marcus Vipsanius Agrippa)</idno>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q76568 (Henricus Cornelius Agrippa)</idno>
-        <idno type="wikidata">https://www.wikidata.org/wiki/Q48174</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q48174 (Marcus Vipsanius Agrippa)</idno>
         <listBibl>
           <head>Works Cited</head>
           <biblStruct type="journalArticle" xml:id="Hoorens2012"
@@ -3484,7 +3484,7 @@
         <biblStruct type="manuscript" xml:id="Woolf"
         corresp="http://zotero.org/users/11267805/items/TPPLQNG7">
         <monogr>
-          <title level="m">Index by VW to &lt;u&gt;AN ENGLISH GARNER&lt;/u&gt; (1 vols 1877-1896)
+          <title level="m">Index by VW to "AN ENGLISH GARNER" (1 vols 1877-1896)
             by Edward ARBER</title>
           <title type="short">Arber Anthology Index</title>
           <idno type="callNumber">MH/B.2g</idno>
@@ -5612,13 +5612,151 @@
         <persName>Montaigne, Michel de</persName>
         <event type="birth" when="1533-02-28" />
         <event type="death" when="1592-09-13" />
-        <note>Michel Eyquem de Montaigne was a French essayist whose works were a continual touchstone for VW. Though she wouldn't publish on Montaigne until 1925, she reads him far earlier: cf. Allan, who traces this life-long relationship and their many affinities. In a letter of 25 January 1903, she writes to thank her brother Thoby for having 'routed out a Montaigne for me,' likely in translation by Charles Cotton, and tells him that she 'always read[s] Montaigne in bed' (<hi rend="italics">L</hi>1 66, §. 66). Two days later she writes to Thoby that 'the Montaigne and <rs xml:id="psn-fbac">Bacon</rs> are a continual delight to me" (67, §. 67). Her first published mention of Montaigne comes only two years later in the 1905 essay 'The Decay of Essay-Writing,' in which she calls him 'the first of the moderns' (<hi rend="italics">E</hi>1 25). Two decades later, <hi rend="italics">CR1</hi> essay on Montaigne, a review of a recent edition of Charles Cotton's translation of the <hi rend="italics">Essais</hi>, numbers him among the few writers who 'succeeded in drawing [himself] with a pen' (<hi rend="italics">E</hi>4 71). Woolf's diary entry of 25 April 1931 describes the trip that she and LW took to Montaigne's chateau at St. Michel-de-Montaigne and the tower in which he wrote, upon whose rafters Montaigne chalked lines from his essays, including his motto, 'Que S'cais je? [What do I know?]' (<hi rend="italics">D</hi>4 20-1). LLVW contains six editions of his writings: five editions of his essays, and the translation of the diaries he kept during his 1580-1 journey to Italy that the Hogarth Press published in 1929.</note>
+        <note>Michel Eyquem de Montaigne was a French essayist whose works were a continual touchstone for VW. Though she would not publish on Montaigne until 1925, she reads him far earlier: cf. Allan, who traces this life-long relationship and their many affinities. In a letter of 25 January 1903, she writes to thank her brother Thoby for having 'routed out a Montaigne for me,' likely in translation by Charles Cotton, and tells him that she 'always read[s] Montaigne in bed' (<hi rend="italics">L</hi>1 66, §. 66). Two days later she writes to Thoby that 'the Montaigne and <rs xml:id="psn-fbac">Bacon</rs> are a continual delight to me" (67, §. 67). Her first published mention of Montaigne comes only two years later in the 1905 essay 'The Decay of Essay-Writing,' in which she calls him 'the first of the moderns' (<hi rend="italics">E</hi>1 25). Two decades later, <hi rend="italics">CR1</hi> essay on Montaigne, a review of a recent edition of Charles Cotton's translation of the <hi rend="italics">Essais</hi>, numbers him among the few writers who 'succeeded in drawing [himself] with a pen' (<hi rend="italics">E</hi>4 71). Woolf's diary entry of 25 April 1931 describes the trip that she and LW took to Montaigne's chateau at St. Michel-de-Montaigne and the tower in which he wrote, upon whose rafters Montaigne chalked lines from his essays, including his motto, 'Que S'cais je? [What do I know?]' (<hi rend="italics">D</hi>4 20-1). LLVW contains six editions of his writings: five editions of his essays, and the translation of the diaries he kept during his 1580-1 journey to Italy that the Hogarth Press published in 1929.</note>
         <idno type="viaf">http://viaf.org/viaf/95153547</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q41568</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Woolf1986-decay"
+          corresp="http://zotero.org/users/11267805/items/NXUMV94I">
+          <analytic>
+            <title level="a">The Decay of Essay-Writing</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Essays of Virginia Woolf</title>
+            <extent>6</extent>
+            <editor>
+              <forename>Andrew</forename>
+              <surname>McNeillie</surname>
+            </editor>
+            <editor>
+              <forename>Stuart N.</forename>
+              <surname>Clarke</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="volume">I</biblScope>
+              <biblScope unit="page">24-7</biblScope>
+              <publisher>The Hogarth Press</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986aac"
+          corresp="http://zotero.org/users/11267805/items/FH6R2RVN">
+          <analytic>
+            <title level="a">Montaigne</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Essays of Virginia Woolf</title>
+            <extent>6</extent>
+            <editor>
+              <forename>Andrew</forename>
+              <surname>McNeillie</surname>
+            </editor>
+            <editor>
+              <forename>Stuart N.</forename>
+              <surname>Clarke</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="volume">IV</biblScope>
+              <biblScope unit="page">71-81</biblScope>
+              <publisher>The Hogarth Press</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1975"
+          corresp="http://zotero.org/users/11267805/items/L3XAHC3Y">
+          <monogr>
+            <title level="m">The Letters of Virginia Woolf</title>
+            <title type="short">Letters</title>
+            <extent>6</extent>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Nigel</forename>
+              <surname>Nicolson</surname>
+            </editor>
+            <editor>
+              <forename>Joanne</forename>
+              <surname>Trautmann Banks</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>The Hogarth Press</publisher>
+              <date>1975</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Woolf1977"
+        corresp="http://zotero.org/users/11267805/items/8Q482NMF">
+        <monogr>
+          <title level="m">The Diary of Virginia Woolf</title>
+          <title type="short">Diary</title>
+          <idno type="ISBN">0701204249 (v. 1)</idno>
+          <idno type="callNumber">PR6045.O72 Z494 1977b</idno>
+          <extent>5</extent>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+          <editor>
+            <forename>Anne Olivier</forename>
+            <surname>Bell</surname>
+          </editor>
+          <editor>
+            <forename>Quentin</forename>
+            <surname>Bell</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>Penguin</publisher>
+            <date>1977</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-morg">
         <persName>Morgan le Fay</persName>
         <note>In Arthurian mythology, Morgan le Fay is a sorceress who variously acts as an aid or antagonist to <rs xml:id="psn-kart">Arthur</rs>. In VW's source for Arthurian mythology, <rs xml:id="lit-mort">Le Morte Darthur</rs>, she is Arthur's half-brother. <rs xml:id="psn-tmal">Malory</rs> makes her Arthur's constant antagonist. She learns magic from <rs xml:id="psn-merl">Merlin</rs> and works to engineer her brother's downfall. However, this does not stop her from bearing Arthur's body away from the place of his final battle with Mordred to Avalon for healing (Bruce 368).</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q321305</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+          corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+          <monogr>
+            <title level="m">The Arthurian name dictionary</title>
+            <idno type="ISBN">978-0-8153-2865-0</idno>
+            <idno type="callNumber">942.014</idno>
+            <author>
+              <forename>Christopher W.</forename>
+              <surname>Bruce</surname>
+            </author>
+            <imprint>
+              <pubPlace>New York</pubPlace>
+              <publisher>Garland</publisher>
+              <date>1999</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Garland reference library of the humanities</title>
+            <biblScope unit="volume">2063</biblScope>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-mmor">
         <persName>Morgann, Maurice</persName>
@@ -5626,6 +5764,69 @@
         <event type="death" when="1802?" />
         <note>Maurice Morgann was a scholar of literature and a colonial administrator of whom little is known: he instructed his executors to destroy all his papers after his death (Cornish n.p.). He was best known in the centuries following his death as the author of <hi rend="italics">Morgann's Essay on the Dramatic Character of Sir John Falstaff</hi> (1777): as late as 1894, his entry in <hi rend="italics">DNB</hi> praises it, saying that it remained 'unsurpassed' for 'style, intellectuality, knowledge of human nature, and consequent profound appreciation of Shakespeare' (Seccombe n.p.). The Woolfs had an 1892 edition of in their library (<hi rend="italics">LLVW</hi>), though if VW made notes on it, none are extant.</note>
         <idno type="viaf">http://viaf.org/viaf/25816219</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q16998110</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Cornish2008"
+          corresp="http://zotero.org/users/11267805/items/QHWNTHK2">
+          <analytic>
+            <title level="a">Morgann, Maurice (1725–1802), colonial administrator and literary
+              scholar</title>
+            <author>
+              <forename>Rory T.</forename>
+              <surname>Cornish</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-19246</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="King2003"
+        corresp="http://zotero.org/users/11267805/items/TM946PPU">
+        <monogr>
+          <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+          <author>
+            <forename>Julia</forename>
+            <surname>King</surname>
+          </author>
+          <author>
+            <forename>Laila</forename>
+            <surname>Miletic-Vejzovic</surname>
+          </author>
+          <imprint>
+            <pubPlace>Pullman, WA</pubPlace>
+            <publisher>Washington State University Press</publisher>
+            <date>2003</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Seccombe1894"
+          corresp="http://zotero.org/users/11267805/items/5WNIP5AW">
+          <analytic>
+            <title level="a">Morgann, Maurice (1726–1802)</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Seccombe</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Dictionary of National Biography</title>
+            <edition>First Edition</edition>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>1894</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/odnb/9780192683120.001.0001/odnb-9780192683120-e-19246</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-wmor">
         <persName>Morris, William</persName>
@@ -5633,6 +5834,52 @@
         <event type="death" when="1896-10-03" />
         <note>Author, designer, leader of the Arts and Crafts movement, revolutionary socialist and founder of the Kelmscott <rs xml:id="obj-pres">Press</rs>. LLVW contains three copies of his first poetry collection <hi rend="italics">The Defence of Guenevere and Other Poems</hi> (1903) in their library, one a gift from Lytton Strachey to LW and another a gift from Philip Sidney Woolf and Cecil Woolf to LW, and a copy of his 1915 <hi>The Pilgrims of Hope and Chants for Socialists</hi>. In <hi rend="italics">MD</hi>, Sally Seton gives the young Clarissa volumes of William Morris at Bourton, and the two plan a society to abolish private property and 'reform the world'. Their plans have to be kept secret and the books have to be 'wrapped in brown paper' to escape the watchful gaze of Aunt Helena who 'never liked discussion of anything' (30).</note>
         <idno type="viaf">http://viaf.org/viaf/22146194</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q182589</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+      <biblStruct type="book" xml:id="Woolf2015"
+      corresp="http://zotero.org/users/11267805/items/YSXE2L5M">
+      <monogr>
+        <title level="m">Mrs. Dalloway</title>
+        <idno type="ISBN">978-1-107-02878-4</idno>
+        <author>
+          <forename>Virginia</forename>
+          <surname>Woolf</surname>
+        </author>
+        <editor>
+          <forename>Anne E.</forename>
+          <surname>Fernald</surname>
+        </editor>
+        <imprint>
+          <pubPlace>Cambridge</pubPlace>
+          <publisher>Cambridge University Press</publisher>
+          <date>2015</date>
+        </imprint>
+      </monogr>
+      <series>
+        <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+      </series>
+    </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-tnas">
         <persName>Nashe, Thomas</persName>
@@ -5640,55 +5887,429 @@
         <event type="death" when="1601?" />
         <note>Early modern playwright, poet, and prose pamphleteer. In 'A Society' (1920) Helen quotes from 'Spring, the sweete spring, is the yeres pleasant King,' a song in his 1600 comedy <hi rend="italics">Summers last will and testament</hi> (<hi rend="italics">CSF</hi> 127; Nashe 5). Beyond this, and mention of <rs xml:id="lit-trav">The Unfortunate Traveller</rs> herein, there is slender evidence to suggest VW encountered Nashe: no reading notes survive if she made any, LLVW contains no works by him, but her index to Edward Arber's <hi rend="italics">An English Garner</hi> contains one item by Nashe, 'Somewhat to read for them that liste,' a prefatory epistle to <rs xml:id="psn-psid">Philip Sidney</rs>'s <hi rend="italics">Astrophel and Stella</hi> (<hi rend="italics">RN</hi> Arber fol. 15r; Arber I.497-502). In the 1916 essay 'In a Library,' she quotes Nashe's poem 'In a Time of Pestilence' — or at least quotes a quotation thereof.</note>
         <idno type="viaf">http://viaf.org/viaf/1257713</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Nash1600"
+          corresp="http://zotero.org/users/11267805/items/CYZLXVZ5">
+          <monogr>
+            <title level="m">A pleasant comedie, called Summers last will and testament. Written by
+              Thomas Nash</title>
+            <author>
+              <forename>Thomas</forename>
+              <surname>Nash</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Imprinted at London by Simon Stafford, for Walter Burre</publisher>
+              <date>1600</date>
+              <note type="url">
+                https://www.proquest.com/books/pleasant-comedie-called-summers-last-will/docview/2248527404/se-2?accountid=13042</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="manuscript" xml:id="Woolf"
+          corresp="http://zotero.org/users/11267805/items/TPPLQNG7">
+          <monogr>
+            <title level="m">Index by VW to "AN ENGLISH GARNER" (1 vols 1877-1896)
+              by Edward ARBER</title>
+            <title type="short">Arber Anthology Index</title>
+            <idno type="callNumber">MH/B.2g</idno>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <imprint>
+              <pubPlace>The Keep, Sussex</pubPlace>
+              <date />
+              <note type="accessed">2024-03-15T15:45:04Z</note>
+              <note type="url">http://www.woolfnotes.com/notebook-display/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1989d"
+          corresp="http://zotero.org/users/11267805/items/9VKQEGVV">
+          <analytic>
+            <title level="a">A Society</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+            <idno type="ISBN">070120852X : ¹20.00</idno>
+            <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+            <editor>
+              <forename>Susan</forename>
+              <surname>Dick</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="page">124-136</biblScope>
+              <publisher>Harcourt, Inc.</publisher>
+              <date>1989</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-mnev">
         <persName>Neville, Mary (Moll)</persName>
         <note>Attended <rs xml:id="psn-aclif">Anne Clifford</rs>. "Daughter of Mary Sackville and Henry Neville, 7th Baron Abergavenny, niece and god-daughter of Richard Sackville, part of the household at Knole" (Malay 287)</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Malay2018"
+          corresp="http://zotero.org/users/11267805/items/7YXCMH9T">
+          <monogr>
+            <title level="m">Anne Clifford's Autobiographical Writing, 1590-1676</title>
+            <idno type="ISBN">978-1-5261-2515-6</idno>
+            <author>
+              <forename>Jessica L.</forename>
+              <surname>Malay</surname>
+            </author>
+            <imprint>
+              <pubPlace>Manchester</pubPlace>
+              <publisher>Manchester University Press</publisher>
+              <date>2018</date>
+              <note type="url">
+                http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=5446754</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-nin">
         <persName>Nin</persName>
         <note>Along with Crot and Pulley, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). According to Wright's dictionary, 'Nin' is a Cornish dialect verb meaning “to drink” but is also cross-referenced to 'none,' whose usage in various dialects bears similar valences to standard English usage (Nin, cf. also Phillips 214).</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="journalArticle" xml:id="Phillips2022"
+          corresp="http://zotero.org/users/11267805/items/PJEQLM9Y">
+          <analytic>
+            <title level="a">How Should One Read “The Reader”? New Approaches to Virginia Woolf’s
+              Late Archive</title>
+            <idno type="DOI">10.14434/tc.v14i2.33658</idno>
+            <author>
+              <forename>Joshua</forename>
+              <surname>Phillips</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Textual Cultures</title>
+            <imprint>
+              <biblScope unit="volume">14</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">195-219</biblScope>
+              <date>2022</date>
+              <note type="url">
+                https://scholarworks.iu.edu/journals/index.php/textual/article/view/33658</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="Wrightc"
+          corresp="http://zotero.org/users/11267805/items/859NDP3H">
+          <analytic>
+            <title level="a">Nin</title>
+          </analytic>
+          <monogr>
+            <title level="m">The English Dialect Dictionary Online 3.0</title>
+            <editor>
+              <forename>Joseph</forename>
+              <surname>Wright</surname>
+            </editor>
+            <imprint>
+              <publisher>University of Innsbruck</publisher>
+              <date />
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-duno">
-        <persName>Elizabeth Howard, Duchess of Norfolk</persName>
+        <persName>Elizabeth Howard (Stafford), Duchess of Norfolk</persName>
         <event type="birth" when="1497?" />
         <event type="death" when="1558-11-30" />
         <note>Lady Elizabeth Stafford was a lady-in-waiting to Katherine of Aragon but was known primarily for her abusive marriage to Thomas Howard, duke of Norfolk, and its collapse in the 1530s (Graves n.p.). She was patron to poet and playwright John Skelton and mother of <rs xml:id="psn-easu">Henry Howard, Earl of Surrey</rs>. What VW intended to quote in the blank in M50. Anon., fol. 9r is not apparent.</note>
         <idno type="viaf">http://viaf.org/viaf/78930966</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q4252416</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Graves2004"
+          corresp="http://zotero.org/users/11267805/items/ZM5R2J8C">
+          <analytic>
+            <title level="a">Howard [née Stafford], Elizabeth, duchess of Norfolk (1497–1558),
+              noblewoman</title>
+            <author>
+              <forename>Michael A. R.</forename>
+              <surname>Graves</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2004</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-13897</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-bart">
         <persName>Oliver, Bartholomew</persName>
         <note>The paterfamilias of the Oliver family in <hi rend="italics">BA</hi>, and one of the denizens of Pointz Hall. A retired member of the Indian Civil Service, he is father to <rs xml:id="psn-gile">Giles Oliver</rs> and father-in-law to <rs xml:id="psn-isa">Isabel (Isa) Oliver</rs>, brother to <rs xml:id="psn-lucy">Lucy Swithin</rs> and has an Afghan hound named <rs xml:id="psn-sohr">Sohrab</rs> – Hussey notes that Oliver's 'habit of yelling at [Sohrab] to heel' was reminiscent of LW's (194).</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2342630</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Hussey2011"
+          corresp="http://zotero.org/users/11267805/items/PG7JHST8">
+          <monogr>
+            <title level="m">Virginia Woolf A to Z: a comprehensive reference for students, teachers
+              and common readers to her life, work and critical reception</title>
+            <title type="short">Virginia Woolf A to Z</title>
+            <idno type="ISBN">978-1-907286-21-6</idno>
+            <author>
+              <forename>Mark</forename>
+              <surname>Hussey</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Cecil Woolf</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2011"
+          corresp="http://zotero.org/users/11267805/items/6P4JRNGH">
+          <monogr>
+            <title level="m">Between the Acts</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Mark</forename>
+              <surname>Hussey</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>Cambridge University Press</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-gile">
         <persName>Oliver, Giles</persName>
         <note>A member of the Oliver family in <hi rend="italics">BA</hi>, and an inhabitant of Pointz Hall. He is the (unfaithful) husband of <rs xml:id="psn-isa">Isabel (Isa) Oliver</rs>, with whom he has two children and the son of <rs xml:id="psn-bart">Bartholomew Oliver</rs>.</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2342630</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2011"
+          corresp="http://zotero.org/users/11267805/items/6P4JRNGH">
+          <monogr>
+            <title level="m">Between the Acts</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Mark</forename>
+              <surname>Hussey</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>Cambridge University Press</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-isa">
         <persName>Oliver, Isabel (Isa)</persName>
         <note>A member of the Oliver family in <hi rend="italics">BA</hi>, and an inhabitant of Pointz Hall along with her husband <rs xml:id="psn-gile">Giles</rs>, with whom she has two children, and father-in-law <rs xml:id="psn-bart">Bartholomew</rs>. Isa is somewhat of a frustrated poet, whose murmured lines of verse punctuate <hi rend="italics">BA</hi>.</note>
-        <idno>N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2342630</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2011"
+          corresp="http://zotero.org/users/11267805/items/6P4JRNGH">
+          <monogr>
+            <title level="m">Between the Acts</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Mark</forename>
+              <surname>Hussey</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Cambridge</pubPlace>
+              <publisher>Cambridge University Press</publisher>
+              <date>2011</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-payc">
         <persName>Paycocke, Thomas</persName>
         <note>A cloth-merchant from Cogeshall, <rs xml:id="pla-esse">Essex</rs>. He is the subject of a chapter of Eileen Power's <hi rend="italics">Medieval People</hi> (1924; LLVW contains 1937 reprint), Power draws on three sources to evidence his life: 'houses, brasses, and wills' which 'contain much evidence for the increasingly rapid growth during the last two centuries of the Middle Ages of a large and prosperous middle class, whose wealth was not based upon landed property but upon industry and trade' (158).</note>
         <idno type="viaf">http://viaf.org/viaf/66815720</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q18546896</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Power1929"
+          corresp="http://zotero.org/users/11267805/items/JCHMGGEV">
+          <monogr>
+            <title level="m">Medieval people.</title>
+            <author>
+              <forename>Eileen</forename>
+              <surname>Power</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Methnuen</publisher>
+              <date>1929</date>
+              <note type="url">https://catalog.hathitrust.org/Record/000631350</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-wpem">
-        <persName>Pembroke, William Herbert, 3rd Earl of</persName>
+        <persName>William Herbert, 3rd Earl of Pembroke</persName>
         <event type="birth" when="1580-04-08" />
         <event type="death" when="1630-04-10" />
         <note>Brother to <rs xml:id="psn-mher">Mary Sidney (neé Herbert)</rs> and hence brother-in-law to <rs xml:id="psn-psid">Philip</rs> and <rs xml:id="psn-rsid">Robert Sidney</rs>, and a patron of literature in his own right. He is the dedicatee of <rs xml:id="psn-wsha">Shakespeare</rs>'s first folio and a potential identity for the pseudonymous <rs xml:id="psn-mrwh">Mr W.H.</rs> to whom Shakespeare's sonnets are dedicated. However, in this narrative, he is more closely associated with <rs xml:id="psn-mfyt">Mary Fytton</rs> and <rs xml:id="pla-chop">The Chopping Knife</rs>.</note>
         <idno type="viaf">http://viaf.org/viaf/42632646</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q971331</idno>
       </person>
       <person xml:id="psn-spep">
         <persName>Pepys, Samuel</persName>
         <event type="birth" when="1633-02-23" />
         <event type="death" when="1703-05-26" />
-        <note>Samuel Pepys kept a diary from 01 January 1660 to 31 May 1669, only stopping because he feared blindness (FIND QUOTE). Though VW only took one line of notes on Pepys' diaries, copying out the line she quotes herein into RN 37 (1937-41), she first read Pepys over two weeks in the spring of 1897 (<hi rend="italics">PA</hi> 62-70). Barbara Lounsberry notes Pepys as a significant early influence on the young Virginia Stephen's diaries (1.31-4) and traces this influence throughout her career as a diarist, through to distinctly Pepysian echoes in her 1939 diary entries (3.28). In 1918, VW reviewed a publication of papers read at meetings of the Samuel Pepys Club (Papers on Pepys; <hi rend="italics">E</hi>2 233-8). LLVW contains three editions of Pepys' diary (one with Leslie Stephen's annotations), another of his correspondence and other papers, and Percy Lubbock's 1920 monograph on Pepys.</note>
+        <note>Samuel Pepys kept a diary from 01 January 1660 to 31 May 1669, only stopping because he feared blindness (CHECK - FIND QUOTE). Though VW only took one line of notes on Pepys' diaries, copying out the line she quotes herein into RN 37 (1937-41), she first read Pepys over two weeks in the spring of 1897 (<hi rend="italics">PA</hi> 62-70). Barbara Lounsberry notes Pepys as a significant early influence on the young Virginia Stephen's diaries (1.31-4) and traces this influence throughout her career as a diarist, through to distinctly Pepysian echoes in her 1939 diary entries (3.28). In 1918, VW reviewed a publication of papers read at meetings of the Samuel Pepys Club (Papers on Pepys; <hi rend="italics">E</hi>2 233-8). LLVW contains three editions of Pepys' diary (one with Leslie Stephen's annotations), another of his correspondence and other papers, and Percy Lubbock's 1920 monograph on Pepys.</note>
         <idno type="viaf">http://viaf.org/viaf/29602261</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q106143</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Lounsberry2018"
+          corresp="http://zotero.org/users/11267805/items/ZE4V5NPZ">
+          <monogr>
+            <biblStruct type="book" xml:id="Lounsberry2014"
+            corresp="http://zotero.org/users/11267805/items/7HGBXLFL">
+            <monogr>
+              <title level="m">Becoming Virginia Woolf: her early diaries &amp; the diaries she read</title>
+              <title type="short">Becoming Virginia Woolf</title>
+              <idno type="ISBN">978-0-8130-4991-5</idno>
+              <idno type="callNumber">PR6045.O72 Z8117 2014</idno>
+              <author>
+                <forename>Barbara</forename>
+                <surname>Lounsberry</surname>
+              </author>
+              <imprint>
+                <pubPlace>Gainesville</pubPlace>
+                <publisher>University Press of Florida</publisher>
+                <date>2014</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+            <title level="m">Virginia Woolf, the War Without, the War Within: Her Final Diaries and
+              the Diaries She Read</title>
+            <idno type="ISBN">978 0 8130 5693 7</idno>
+            <author>
+              <forename>Barbara</forename>
+              <surname>Lounsberry</surname>
+            </author>
+            <imprint>
+              <pubPlace>Gainesville, FL</pubPlace>
+              <publisher>University Press of Florida</publisher>
+              <date>2018</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986aaf"
+          corresp="http://zotero.org/users/11267805/items/ARYA62MU">
+          <analytic>
+            <title level="a">Papers on Pepys</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Essays of Virginia Woolf</title>
+            <extent>6</extent>
+            <editor>
+              <forename>Andrew</forename>
+              <surname>McNeillie</surname>
+            </editor>
+            <editor>
+              <forename>Stuart N.</forename>
+              <surname>Clarke</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="volume">II</biblScope>
+              <biblScope unit="page">233-8</biblScope>
+              <publisher>The Hogarth Press</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-plin">
         <event type="birth (Pliny the Elder)" when="23/4 CE" />
@@ -5698,17 +6319,144 @@
         <persName>Pliny the Elder or Pliny the Younger</persName>
         <note>Woolf refers to one of two first-century Latin authors. Pliny the Elder was a geographer whose <hi rend="italics">Naturalis Historia</hi> was encyclopedic in scope but was left unfinished at the time of his death at Pompeii in 79 CE, as Mount Vesuvius erupted. His nephew, Pliny the Younger, watched the eruption from across the Bay of Naples and provides an eyewitness account of the event. Pliny the Younger was a noted letter-writer, and LLVW contains an 1865 Latin edition collecting some of them. There is no evidence of VW having read this volume or any other of the letters; nor any of the works of Pliny the Elder.</note>
         <idno type="viaf">http://viaf.org/viaf/100219162 (Elder)</idno>
+        <idno type="Wikidata">https://www.wikidata.org/wiki/Q82778 (Elder)</idno>
         <idno type="viaf">http://viaf.org/viaf/10638270 (Younger)</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q168707 (Younger)</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-pull">
         <persName>Pully</persName>
         <note>Along with Nin and Crot, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). Out of the trio, Pulley's name is probably the most familiar to modern anglophone audiences: Wright defines it as the 'wheel placed over a pit over which the rope for drawing coals is passed' (Pulley, cf. also Phillips 215).</note>
         <idno>N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="journalArticle" xml:id="Phillips2022"
+          corresp="http://zotero.org/users/11267805/items/PJEQLM9Y">
+          <analytic>
+            <title level="a">How Should One Read “The Reader”? New Approaches to Virginia Woolf’s
+              Late Archive</title>
+            <idno type="DOI">10.14434/tc.v14i2.33658</idno>
+            <author>
+              <forename>Joshua</forename>
+              <surname>Phillips</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="j">Textual Cultures</title>
+            <imprint>
+              <biblScope unit="volume">14</biblScope>
+              <biblScope unit="issue">2</biblScope>
+              <biblScope unit="page">195-219</biblScope>
+              <date>2022</date>
+              <note type="url">
+                https://scholarworks.iu.edu/journals/index.php/textual/article/view/33658</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1978"
+          corresp="http://zotero.org/users/11267805/items/7VWTUXJW">
+          <monogr>
+            <title level="m">The Pargiters: the Novel-Essay Portion of 'The Years'</title>
+            <title type="short">Pargiters</title>
+            <idno type="ISBN">0701204354 : ¹6.50</idno>
+            <idno type="callNumber">823.91 18 British Library DSC 78/7131 British Library HMNTS
+              X.989/52030</idno>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Mitchell</forename>
+              <surname>Leaska</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Hogarth Press</publisher>
+              <date>1978</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="dictionaryEntry" xml:id="Wrighta"
+        corresp="http://zotero.org/users/11267805/items/GFLX3CIB">
+        <analytic>
+          <title level="a">Crot</title>
+        </analytic>
+        <monogr>
+          <title level="m">The English Dialect Dictionary Online 3.0</title>
+          <editor>
+            <forename>Joseph</forename>
+            <surname>Wright</surname>
+          </editor>
+          <imprint>
+            <publisher>University of Innsbruck</publisher>
+            <date />
+          </imprint>
+        </monogr>
+      </biblStruct>
+      <biblStruct type="dictionaryEntry" xml:id="Wrightb"
+        corresp="http://zotero.org/users/11267805/items/Z2YMHG2U">
+        <analytic>
+          <title level="a">Pulley</title>
+        </analytic>
+        <monogr>
+          <title level="m">The English Dialect Dictionary Online 3.0</title>
+          <editor>
+            <forename>Joseph</forename>
+            <surname>Wright</surname>
+          </editor>
+          <imprint>
+            <publisher>University of Innsbruck</publisher>
+            <date />
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-puri">
         <persName>Puritans</persName>
-        <note>Radical Protestant reformists who, in an English and British context, attempted to remove Roman Catholic influences from the newly-established Church of England. The sect grew in influence during the early 17th century and became associated with the Parliamentarians during the English Civil War. Chambers attests to their growing cultural influence and the effect that this influence had on the English stage - up to the moment that Parliament ordered playhouses to close at the outbreak of civil war on 2 September 1642 (1.TK).</note>
-        <idno>N/A</idno>
+        <note>Radical Protestant reformists who, in an English and British context, attempted to remove Roman Catholic influences from the newly-established Church of England. The sect grew in influence during the early 17th century and became associated with the Parliamentarians during the English Civil War. Chambers attests to their growing cultural influence and the effect that this influence had on the English stage - up to the moment that Parliament ordered playhouses to close at the outbreak of civil war on 2 September 1642 (1.TK - CHECK).</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Chambers2009"
+          corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+          <monogr>
+            <title level="m">The Elizabethan stage</title>
+            <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+            <extent>IV</extent>
+            <author>
+              <forename>Edmund K.</forename>
+              <surname>Chambers</surname>
+            </author>
+            <edition>Repr</edition>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Clarendon Press</publisher>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-wral">
         <persName>Raleigh, Sir Walter</persName>
@@ -5716,6 +6464,83 @@
         <event type="death" when="1618-10-29" />
         <note>Sir Walter Raleigh wore several hats: he was a courtier and favourite of <rs xml:id="psn-eliz">Elizabeth I</rs>, a soldier in Ireland, a colonist in Virginia, an explorer who searched for El Dorado, and a propagandist and poet. He is popularly credited with introducing tobacco and the potato to Britain; despite his putative contributions to British cuisine, he did not find favour with <rs xml:id="psn-kjam">James I</rs>, who had him executed (Nicholls and Williams n.p.). VW reviewed a selection of Raleigh's prose for <hi rend="italics">TLS</hi>, published 15 March 1917 (<hi rend="italics">E</hi>2 91-96). VW's handmade index to Edward Arber's <hi rend="italics">English Garner</hi> anthology notes has two entries for Raleigh's writing (<hi rend="italics">RN</hi> Arber fol. 20r).</note>
         <idno type="viaf">http://viaf.org/viaf/68938944</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q189144</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Nicholls2022"
+          corresp="http://zotero.org/users/11267805/items/E9NELGV9">
+          <analytic>
+            <title level="a">Ralegh [Raleigh], Sir Walter (1554–1618), courtier, explorer, and
+              author</title>
+            <author>
+              <forename>Mark</forename>
+              <surname>Nicholls</surname>
+            </author>
+            <author>
+              <forename>Penry</forename>
+              <surname>Williams</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2022</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-23039</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Woolf1986l"
+        corresp="http://zotero.org/users/11267805/items/HCMPUEBF">
+        <analytic>
+          <title level="a">Sir Walter Raleigh</title>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="m">The Essays of Virginia Woolf</title>
+          <extent>6</extent>
+          <editor>
+            <forename>Andrew</forename>
+            <surname>McNeillie</surname>
+          </editor>
+          <editor>
+            <forename>Stuart N.</forename>
+            <surname>Clarke</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <biblScope unit="volume">II</biblScope>
+            <biblScope unit="page">91-96</biblScope>
+            <publisher>The Hogarth Press</publisher>
+            <date>1986</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+      <biblStruct type="manuscript" xml:id="Woolf"
+        corresp="http://zotero.org/users/11267805/items/TPPLQNG7">
+        <monogr>
+          <title level="m">Index by VW to "AN ENGLISH GARNER" (1 vols 1877-1896)
+            by Edward ARBER</title>
+          <title type="short">Arber Anthology Index</title>
+          <idno type="callNumber">MH/B.2g</idno>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+          <imprint>
+            <pubPlace>The Keep, Sussex</pubPlace>
+            <date />
+            <note type="accessed">2024-03-15T15:45:04Z</note>
+            <note type="url">http://www.woolfnotes.com/notebook-display/</note>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-raph">
         <persName>Raphael</persName>
@@ -5723,18 +6548,128 @@
         <event type="death" when="1520-04-06" />
         <note>Rafaello Sanzino da Urbino, referred to in English as Raphael, was an Italian renaissance painter and architect. He is a constant presence in <hi rend="italics">RF</hi>, and she writes in a letter to Vanessa Bell dated 26 April 1927, sent from Rome, that among the works of art she has seen 'Raphael comes out very much better than I expected' and asks Bell her opinion of the painter, as well as whether <rs xml:id="psn-mich">Michelangelo</rs> painted the Sistine Chapel 'slung on a board' (<hi rend="italics">L</hi>6 367, §. 1747). In <hi rend="italics">TL</hi>, Lily Briscoe and William Bankes discuss the 'significance of mother and son' in painting, and Lily's 'neglect' of the subject: Briscoe saves face by teling Bankes that she does 'not intend to disparage a subject which, they agreed, Raphael had treated divinely' (145). </note>
         <idno type="viaf">http://viaf.org/viaf/64055977</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q5597</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2006-tl"
+          corresp="http://zotero.org/users/11267805/items/ZJVRR468">
+          <monogr>
+            <title level="m">To the Lighthouse</title>
+            <idno type="ISBN">9780192805607 (pbk.) : ¹6.99 0192805606 (pbk.) : ¹6.99</idno>
+            <idno type="callNumber">823.912 22 British Library HMNTS H.2007/4064</idno>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>David</forename>
+              <surname>Bradshaw</surname>
+            </editor>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2006</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2003"
+          corresp="http://zotero.org/users/11267805/items/PFN6I45G">
+          <monogr>
+            <title level="m">Roger Fry: A Biography</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>Vintage</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="Woolf1975"
+        corresp="http://zotero.org/users/11267805/items/L3XAHC3Y">
+        <monogr>
+          <title level="m">The Letters of Virginia Woolf</title>
+          <title type="short">Letters</title>
+          <extent>6</extent>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+          <editor>
+            <forename>Nigel</forename>
+            <surname>Nicolson</surname>
+          </editor>
+          <editor>
+            <forename>Joanne</forename>
+            <surname>Trautmann Banks</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <publisher>The Hogarth Press</publisher>
+            <date>1975</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-arus">
         <persName>Anne Dudley (neé Russell), Countess of Warwick</persName>
         <note>Anne Dudley (1548/9-1604; neé Russell) was maid of honour to <rs xml:id="psn-eliz">Elizabeth I</rs>, Countess of Warwick through her marriage to Ambrose Dudley, Earl of Warwick, and aunt and godmother to <rs xml:id="psn-aclif">Anne Clifford</rs> (Adams).</note>
-        <idno type="viaf">http://viaf.org/viaf/88545385 (Anne Dudley [neé Russell])</idno>
+        <idno type="viaf">http://viaf.org/viaf/88545385</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q3617953</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="Adams2008"
+          corresp="http://zotero.org/users/11267805/items/9I9ZV9IY">
+          <analytic>
+            <title level="a">Dudley [née Russell], Anne, countess of Warwick (1548/9–1604), courtier</title>
+            <author>
+              <forename>Simon</forename>
+              <surname>Adams</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>2008</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-69744</note>
+            </imprint>
+          </monogr>
+          </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-ruth">
         <persName>Ruthven, Barbara</persName>
         <event type="birth" when="1580?" />
         <event type="death" when="1625" />
         <note>According to Malay, this member of <rs xml:id="psn-aclif">Anne Clifford</rs>'s social circle was a "Lady of Queen Anne of Denmark's bedchamber" (290).</note>
-        <idno type="viaf">N/A</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q64031616</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Malay2018"
+          corresp="http://zotero.org/users/11267805/items/7YXCMH9T">
+          <monogr>
+            <title level="m">Anne Clifford's Autobiographical Writing, 1590-1676</title>
+            <idno type="ISBN">978-1-5261-2515-6</idno>
+            <author>
+              <forename>Jessica L.</forename>
+              <surname>Malay</surname>
+            </author>
+            <imprint>
+              <pubPlace>Manchester</pubPlace>
+              <publisher>Manchester University Press</publisher>
+              <date>2018</date>
+              <note type="url">
+                http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=5446754</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-msev">
         <persName>Sévigné, Marie de Rabutin-Chantal</persName>
@@ -5742,6 +6677,110 @@
         <event type="death" when="1696-04-17" />
         <note>French aristocratic letter-writer better known in English as Madame de Sévigné. VW wrote a 1939 essay on de Sévigné, which was only published posthumously. This essay compares the 'unconscious naturalness' of de Sévigné's letters with those of anglophones Horace Walpole and Thomas Gray (<hi rend="italics">E</hi>6 497 cf. 'The Humane Art' on Walpole's correspondence [1940 <hi rend="italics">E</hi>6 225-9]). Notes on de Sévigné's correspondence and secondary material can be found in RNs 16, 37, 54: the first two also contain notes for Woolf's literary history. LLVW contains three French-language editions of her letters in their library, as well as two copies of Edward FitzGerald's 1914 <hi rend="italics">Dictionary of Madame de Sévigné</hi>: VW has written an index in one of these copies.</note>
         <idno type="viaf">http://viaf.org/viaf/32002865</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q237103</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="King2003"
+        corresp="http://zotero.org/users/11267805/items/TM946PPU">
+        <monogr>
+          <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+          <author>
+            <forename>Julia</forename>
+            <surname>King</surname>
+          </author>
+          <author>
+            <forename>Laila</forename>
+            <surname>Miletic-Vejzovic</surname>
+          </author>
+          <imprint>
+            <pubPlace>Pullman, WA</pubPlace>
+            <publisher>Washington State University Press</publisher>
+            <date>2003</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986aae"
+          corresp="http://zotero.org/users/11267805/items/7VDLKXGM">
+          <analytic>
+            <title level="a">The Humane Art</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">The Essays of Virginia Woolf</title>
+            <extent>6</extent>
+            <editor>
+              <forename>Andrew</forename>
+              <surname>McNeillie</surname>
+            </editor>
+            <editor>
+              <forename>Stuart N.</forename>
+              <surname>Clarke</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <biblScope unit="volume">VI</biblScope>
+              <biblScope unit="page">225-9</biblScope>
+              <publisher>The Hogarth Press</publisher>
+              <date>1986</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Woolf1986aad"
+        corresp="http://zotero.org/users/11267805/items/R3DTZL7H">
+        <analytic>
+          <title level="a">Madame de Sévigné</title>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="m">The Essays of Virginia Woolf</title>
+          <extent>6</extent>
+          <editor>
+            <forename>Andrew</forename>
+            <surname>McNeillie</surname>
+          </editor>
+          <editor>
+            <forename>Stuart N.</forename>
+            <surname>Clarke</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <biblScope unit="volume">VI</biblScope>
+            <biblScope unit="page">497-504</biblScope>
+            <publisher>The Hogarth Press</publisher>
+            <date>1986</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-wsha">
         <persName>Shakespeare, William</persName>
@@ -5775,6 +6814,117 @@
         
         LLVW contains 39 separate editions of works by Shakespeare, including collected editions of his plays and standalone editions of 21 of the 38 plays he is known to have written. For more details of Woolf's citations of and interactions with plays referenced in the 'Anon' drafts, cf. individual entries for <rs xml:id="lit-ancl">Antony and Cleopatra</rs>, <rs xml:id="lit-come">The Comedy of Errors</rs>, <rs xml:id="lit-haml">Hamlet</rs>, <rs xml:id="lit-hen5">Henry V</rs>, <lit xml:id="hen6">1 Henry 6, 2 Henry 6, 3 Henry 6</lit>, <rs xml:id="lit-john">King John</rs>, <rs xml:id="lit-lear">King Lear</rs>, <rs xml:id="lit-macb">Macbeth</rs>, <rs xml:id="lit-rome">Romeo and Juliet</rs>, and <rs xml:id="lit-temp">The Tempest</rs>.</note>
         <idno type="viaf">http://viaf.org/viaf/96994048</idno>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q692</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+          corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+          <analytic>
+            <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+            <title type="short">WoolfNotes</title>
+            <author>
+              <forename>Michèle</forename>
+              <surname>Barrett</surname>
+            </author>
+            <author>
+              <forename>Brenda R.</forename>
+              <surname>Silver</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">WoolfNotes</title>
+            <imprint>
+              <date>2024</date>
+              <note type="accessed">2024-07-05</note>
+              <note type="url">http://www.woolfnotes.com/</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Fox1990"
+          corresp="http://zotero.org/users/11267805/items/2FEUCT3T">
+          <monogr>
+            <title level="m">Virginia Woolf and the literature of the English Renaissance</title>
+            <idno type="ISBN">978-0-19-812988-2</idno>
+            <author>
+              <forename>Alice</forename>
+              <surname>Fox</surname>
+            </author>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Oxford University Press</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Froula1990"
+        corresp="http://zotero.org/users/11267805/items/X474YNFV">
+        <analytic>
+          <title level="a">Virginia Woolf as Shakespeare's Sister: Chapters in a Woman Writer's
+            Autobiography</title>
+          <author>
+            <forename>Christine</forename>
+            <surname>Froula</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="m">Women's Re-Visions of Shakespeare: On the Responses of Dickinson,
+            Woolf, Rich, H.D., George Eliot, and Others</title>
+          <editor>
+            <forename>Marianne</forename>
+            <surname>Novy</surname>
+          </editor>
+          <imprint>
+            <pubPlace>Urbana and Chicago</pubPlace>
+            <biblScope unit="page">123-142</biblScope>
+            <publisher>University of Illinois Press</publisher>
+            <date>1990</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+          <biblStruct type="book" xml:id="King2003"
+          corresp="http://zotero.org/users/11267805/items/TM946PPU">
+          <monogr>
+            <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+            <author>
+              <forename>Julia</forename>
+              <surname>King</surname>
+            </author>
+            <author>
+              <forename>Laila</forename>
+              <surname>Miletic-Vejzovic</surname>
+            </author>
+            <imprint>
+              <pubPlace>Pullman, WA</pubPlace>
+              <publisher>Washington State University Press</publisher>
+              <date>2003</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="bookSection" xml:id="Woolf1993a"
+        corresp="http://zotero.org/users/11267805/items/Q3TAHMSP">
+        <analytic>
+          <title level="a">A Room of One's Own</title>
+          <title type="short">Room</title>
+          <author>
+            <forename>Virginia</forename>
+            <surname>Woolf</surname>
+          </author>
+        </analytic>
+        <monogr>
+          <title level="m">A Room of One's Own and Three Guineas</title>
+          <editor>
+            <forename>Michèle</forename>
+            <surname>Barrett</surname>
+          </editor>
+          <imprint>
+            <pubPlace>London</pubPlace>
+            <biblScope unit="page">3-104</biblScope>
+            <publisher>Penguin</publisher>
+            <date>1993</date>
+          </imprint>
+        </monogr>
+      </biblStruct>
+        </listBibl>
       </person>
       <person xml:id="psn-eshe">
         <persName>Sheffield, Edmund</persName>
@@ -5782,6 +6932,9 @@
         <event type="death" when="1658-08-24" />
         <note>Edmund Sheffield was an English courtier to <rs xml:id="psn-eliz">Elizabeth I</rs> and later <rs xml:id="psn-kjam">James I</rs>, who captained three ships as the Spanish Armada approached Britain in May 1588. On 4 March 1619, he married <rs xml:id="psn-mirw">Mariana Irwin</rs>, a marriage which <rs xml:id="psn-aclif">Anne Clifford</rs> described in her diary as 'a mean match, an undiscreet on part of him' (cf. Stater n.p., Clifford 89-90).</note>
         <idno type="viaf">N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-psid">
         <persName>Sidney, Sir Philip</persName>
@@ -5789,6 +6942,9 @@
         <event type="death" when="1586-10-17" />
         <note>Sir Philip Sidney, a poet, soldier and courtier to Queen Elizabeth who died after being shot in the leg in a battle in the Netherlands. In addition to writing poetry and prose, he acted as a patron for other writers including <rs xml:id="psn-espe">Edmund Spenser</rs>, and family's stately home, <rs xml:id="pla-pens">Penshurst</rs>, in Kent, was a locus of courtly literary activity both before and after his death. In 1907, VW reviews a reissue of <hi rend="italics">Sir Fulke Greville's Life of Sir Philip Sidney</hi> (<hi rend="italics">E</hi>1 139-43). She reads and takes notes on his prose <hi rend="italics">Defense of Poesie</hi> in 1924 as she was preparing to write <hi rend="italics">CR1</hi> (cf. <hi rend="italics">RN</hi> 47) and, in the essay 'The Elizabethan Lumber Room' compares this work with the writings of <rs xml:id="psn-mmon">Michel de Montaigne</rs>in order to explore '[h]ow little Elizabethan prose was fit for its office [and] how exquisitely French prose was already adapted' (<hi rend="italics">E</hi>4 56). She wrote on his prose pastoral romance <hi rend="italics">The Countess of Pembroke's Arcadia</hi> in <hi rend="italics">CR2</hi> (<hi rend="italics">E</hi>5 366-76). VW writes that 'in the <hi rend="italics">Arcadia</hi>, as in some luminous globe, all the seeds of English fiction lie latent. We can trace infinite possibilities: it may take one of many different directions' (373). LLVW has two editions of the <hi rend="italics">Arcadia</hi>, one dating from 1655 and the other from 1662: VW takes notes on the former in preparation for the <hi rend="italics">CR2</hi> essay, cf. <hi rend="italics">RN</hi> 8, 48. LLVW also contains the first volume of a 1873 two-volume set of his poetry. LW's brother was called Philip Sidney Woolf, and in her letter describing Vita Sackville-West (and her legs) to Jacques Raverat, she tells Raverat that Sackville-West 'descends from Dorset, Buckingham, Sir Philip Sidney, and the whole of English history' (<hi rend="italics">L</hi>3 150, §. 1520; 26 December 1924).</note>
         <idno type="viaf">http://viaf.org/viaf/71397821</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-rsid">
         <persName>Sidney, Robert</persName>
@@ -5796,15 +6952,24 @@
         <event type="death" when="1626-07-13" />
         <note>Robert Sidney, first earl of Leicester, was the brother of <rs xml:id="psn-psid">Sir Philip Sidney</rs> and <rs xml:id="psn-mher">Mary Herbert (née Sidney)</rs>, and the father of poet Mary Wroth. Much like his brother, he was a courtier and a poet: their father 'urged [Robert Sidney] to imitate his elder brother in all things' (Shephard n.p.). He met with the approval of both <rs xml:id="psn-eliz">Elizabeth I</rs> and her successor <rs xml:id="psn-kjam">James</rs> and later in life maintained <rs xml:id="pla-pens">Penshurst</rs> as a locus of courtly literary culture.</note>
         <idno type="viaf">http://viaf.org/viaf/9855501</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-skin">
         <event type="birth" when="1740" />
         <event type="death" when="1839" />
         <note>Potentially the Reverend John Skinner, one of the two parsons whose twin biography Woolf writes in her <hi rend="italics">CR2</hi> essay of that title (<hi rend="italics">E</hi>5 423-30). Like John Woodforde, the first of Woolf's two parsons, he spent much of his life as Rector in the village of Camerton, Somerset, and kept a diary. His diary details not just day-to-day life in rural England but also Skinner's work as an amateur antiquarian: he identified Camerton with the Roman Camalodunum (actually modern-day Colchester), 'where Ostorius established his colony, where <rs xml:id="psn-kart">Arthur</rs> had fought the traitor Mordred, where Alfred very nearly came in his misfortunes' (426). Skinner's antiquarianism was met with scorn, including from his own sons, and Woolf reports his death by suicide.</note>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-sohr">
         <persName>Sohrab</persName>
         <note>Bartholomew Oliver's Afghan Hound named Sohrab. The <hi>locus classicus</hi> for the name Sohrab is Matthew Arnold's 1853 quasi-Miltonic epic poem 'Sohrab and Rustum.' Woolf knew this poem: her library contain's Arnold's 1859 Poems, which prints 'Sohrab and Rustum,' while she reports in a diary entry of 9th May 1897 that Leslie Stephen recited the poem 'after dinner' (PA 83). Arnold's poem relates how Rustum, an Iranian warrior, killed Sohrab, a warrior in the Tatar host and the son Rustum did not know he had, in single combat (Arnold 302-331). The name Sohrab is a double intertext: within Woolf's own corpus it recalls Old Rustum in Orlando (cf. O 131), the gypsy who disabuses the newly female Orlando of her pride in what she had previously considered her illustrious heritage (O 136). As a further doggy aside, Orlando has a 'seluchi' (or saluki) in Turkey (O 129)—a type of sighthound related to the Afghan hound.</note>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
         <idno>N/A</idno>
       </person>
       <person xml:id="psn-espe">
@@ -5813,6 +6978,9 @@
         <event type="death" when="1599-01-13" />
         <note>The author of <rs xml:id="lit-faer">The Faerie Queene</rs> and <rs xml:id="lit-shep">The Shepherd's Calendar</rs>, among other poems (cf. individual entries for more information on VW's interaction with these). <rs xml:id="psn-psid">Philip Sidney</rs> acted as his patron. Spenser appears as a character in the <hi rend="italics">CR2</hi> essay 'The Strange Elizabethans' (<hi rend="italics">E</hi>5 335-48) as an interlocutor with Gabriel Harvey: he sits with Harvey in 'small, smoky rooms' and 'discuss[] poetry and language and the future of English literature' (342). LLVW contains two editions of Spenser's work, a five-volume 1862 edition edited by J. Payne Collier (which was presented to, and annotated by, Leslie Stephen) and a single-volume 1899 edition edited by R. Morris. It is likely that Woolf found the description of Spenser as a 'small man with cuffs and a band' in the 1862 edition, which contains a brief, unattributed biography of Spenser with this line.</note>
         <idno type="viaf">http://viaf.org/viaf/100170015</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-gspe">
         <persName>Spenser, Gabriel</persName>
@@ -5820,15 +6988,24 @@
         <event type="death" when="1598-09-22" />
         <note>Little is known of Gabriel Spencer, an actor on the Elizabethan stage who is most famous for his death. Spencer killed one James Feake in 1596, and was himself killed in a duel by <rs xml:id="psn-bjon">Ben Jonson</rs> in 1598. Beyond this, all that has been established is that he spoke four lines as a messenger in <rs xml:id="lit-hen6">3 Henry VI</rs> (cf. Eccles IV 172).</note>
         <idno>N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-stge">
         <persName>St George</persName>
         <note>Saint George is the patron saint of England, whose saint's day is celebrated on 23 April (incidentally, the day on which <rs xml:id="psn-wsha">Shakespeare</rs> is thought to have been born and died). In popular legend, Saint George is known for slaying a dragon. The 'Saint Georges play' to which Woolf refers is a mummer's play which stages a battle between crusader forces, led by Saint George, and Turkish knights. In Hardy's <hi rend="italics">Return of the Native</hi> (1878), the Edgon mummers rehearse and perform the 'well-known play of Saint George' at Christmas (157 et passim). Saint George is introduced by '[h]ump-backed Father Christmas [...] swinging [a] huge club, and in a general way clearing the stage for the actors proper' (171). Hardy's narrative excerpts extensively from the play, and we see Saint George vanquish all comers — but Hardy does not dwell on the miraculous resurrection of the dead that occurs at the end of the play (171-4). VW read and took notes on Hardy's novels between February 1919 and January 1921 in readiness for an eventual obituary she had been comissioned to write for <hi rend="italics">TLS</hi> on February 14 1919, when the ' "evil hour"' of Hardy's death came (cf. <hi rend="italics">RN</hi> 42). The obituary was not published until 11 January 1928 (<hi rend="italics">E</hi>4 507-19, cf. 517 n. 1), and it was reprinted in <hi rend="italics">CR2</hi> (<hi rend="italics">E</hi>5 561-72). In 1928, theatrical publisher Samuel French printed an edition of the <hi rend="italics">Play of St. George</hi> whose text was provided by Hardy, based in no small part on the mummery scene in <hi rend="italics">Return</hi>. The 1928 edition also contained a 'modernized' version of the play that features among its dramatis personae <rs xml:id="psn-kart">King Arthur</rs> and Mussolini (Hardy and Loomis). There is no evidence VW encountered this peculiar text.</note>
         <idno>N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-stat">
         <note>The Worshipful Company of Stationers (or Stationers' Company) is a livery company of the City of London, who were responsible for regulating the book trade and whose membership had a monopoly on book production. The Stationers' Register maintained records of all works legally published, and all plays performed, in Britain prior to the Copyright Act of 1710, and as such constitutes a valuable source for the early modern playhouse. They were also empowered to act as censors for state and for church.</note>
         <idno>N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-suet">
         <persName>Suetonius</persName>
@@ -5836,6 +7013,9 @@
         <event type="death" when="122?" />
         <note>Gaius Suetonius Tranquillus was a Roman historian whose most significant work was the 121 BCE <hi rend="italics">De vita Caesarum</hi> or <hi rend="italics">The lives of the Caesars</hi>, a set of biographies of twelve Roman rulers, beginning with Julius Caesar's rule and the end of the Roman Republic, and ending with the emperor Domitian. LLVW contains a 1893 Latin edition of his surviving works titled <hi rend="italics">C. Suetoni Tranquili quae supersunt omnia</hi> in their library, with LW's signature and annotations.</note>
         <idno type="viaf">http://viaf.org/viaf/89599270</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-easu">
         <persName>Henry Howard, Earl of Surrey</persName>
@@ -5843,11 +7023,17 @@
         <event type="death" when="1547-01-19" />
         <note>Henry Howard, earl of Surrey, was a poet and a soldier who had the dubious honour of being the last person executed on the orders of Henry VIII. While putting down an uprising in Lincolnshire and East Anglia, a folk ballad emerged that questioned Howard's loyalties. He fell from grace, and though Henry VIII sent him to lead troops in northern France in October 1543, his failure in this campaign led to his downfall. He was put on trial for treason on New Year's Day of 1547 and by the 19th of that month he was dead (cf. Brigden n.p.).</note>
         <idno type="viaf">http://viaf.org/viaf/17378697</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-lucy">
         <persName>Swithin, Lucy</persName>
         <note>A member of the Oliver family in <hi rend="italics">BA</hi>, and a denizen of Pointz Hall along with her brother <rs xml:id="psn-bart">Bartholomew Oliver</rs> and his descendants. Lucy's surname, Swithin, is most likely a reference to St. Swithin (c. 800-862), and his eponymous saints' day on July 15th (cf. Brewer's). According to English folkloric tradition, if it rains on St. Swithin's day then it will rain for forty days thereafter; if the weather is fine then the next forty days will be fine. Rather than predicting the weather, this Swithin 'retire[s] to Hastings' to escape cold Pointz Hall winters (<hi rend="italics">BA</hi> 6). She has several nicknames, including Batty (7), Cindy (15), and Old Flimsy (20). After the pageant, she seeks out <rs xml:id="psn-latr">Miss La Trobe</rs> to congratulate her on the pageant. Swithin can only 'lay[] hold to a fraction of her meaning' but La Trobe interpolates: Swithin is trying to say 'I could have played... <rs xml:id="lit-anc">Cleopatra</rs>' and that she has 'stirred in me my unacted part' (110).</note>
         <idno>N/A</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-arun">
         <persName>Howard, Aletheia, Countess of Arundel</persName>
@@ -5855,6 +7041,9 @@
         <event type="death" when="1654-06-09" />
         <note>Aletheia Howard, Countess of Arundel, of Surrey, and of Norfolk, is mentioned in passing here as an associate of <rs xml:id="psn-aclif">Anne Clifford</rs> but important in her own right. A granddaughter of Bess of Hardwick, and sister to <rs xml:id="psn-egre">Elizabeth Grey, countess of Kent</rs>, Howard was a patron of the visual arts both in Britain and in Italian cities including Venice, where she lived in 1622. During her sojourn there, she was accused of treason by the Doge but exonerated herself. She spent the final fourteen years of her life in exile in Amsterdam. A work of domestic science bearing her engraving on the flyleaf and titled <hi rend="italics">Natura Exenterata</hi> has been attributed to her (cf. DiMeo, Anonymous [attr. Aletheia Howard, Countess of Arundel]).</note>
         <idno type="viaf">http://viaf.org/viaf/78504431</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-aten">
         <persName>Tennyson, Alfred</persName>
@@ -5862,6 +7051,9 @@
         <event type="death" when="1892-10-06" />
         <note>Victorian poet with whom Leslie Stephen was personally close and with whose work he was intimately familiar: VW came to associate Tennyson's poetry inextricably with her father. In 'Impressions of Sir Leslie Stephen,' the obituary of her father commissioned by F.W. Maitland as part of his <hi rend="italics">Life and Letters of Sir Leslie Stephen</hi>, she writes that Stephen had 'long acquired all the famous poems of Wordsworth, Tennyson, Keats, and Matthew Arnold, among moderns,' and that he would recite these poems by heart such that his audience 'felt that he was speaking not merely the words of Tennyson or Wordsworth, but what he himself felt and knew' (<hi rend="italics">E</hi>1 128-9). In <hi rend="italics">TL</hi>, Mr Ramsay is given to reciting (often at great volume) lines from Tennyson's 'The Charge of the Light Brigade' throughout the novel. Tennyson is one of the characters of <hi rend="italics">Freshwater</hi>, and in <hi rend="italics">O</hi> the narrator names him as the 'last person to suffer from' genius 'in the British Isles' (190), though Nick Greene cites him as example that ' "the great days are over. We live in degenerate times"' (254-5). For more on Woolf's life-long engagement (both biographical and literary) with Tennyson, cf. Kopley.</note>
         <idno type="viaf">http://viaf.org/viaf/61540536</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-ctou">
         <persName>Tourneur, Cyril</persName>
@@ -5869,6 +7061,9 @@
         <event type="death" when="1626-02-28" />
         <note>Cyril Tourneur was a poet and playwright best known today for his first play <hi rend="italics">The Atheist's Tragedy: Or, The Honest Man's Revenge</hi>, a twist on the revenge tragedy wherein Charlemont, the play's revenger, is counselled by his father's ghost to 'Attend with patience the success of things | But leave revenge unto the King of kings' (Tourneur ii.VI 21-22). <rs xml:id="lit-reve">The Revenger's Tragedy</rs> was attributed to Tourneur, but is now more commonly attributed to <rs xml:id="psn-tmid">Thomas Middleton</rs> (Gunby n.p.). The Woolfs had the first volume of an 1878 two-volume collection of his plays and poems in their library (<hi rend="italics">LLVW</hi>).</note>
         <idno type="viaf">http://viaf.org/viaf/100952064</idno>
+        <listBibl>
+          <head>Works Cited</head>
+        </listBibl>
       </person>
       <person xml:id="psn-gtre">
         <persName>Trevelyan, George Macaulay</persName>
