@@ -12323,18 +12323,122 @@
           <objectName>Comma (Butterfly)</objectName>
         </objectIdentifier>
         <note>A comma is a butterfly of the species Polygonia c-album. In <hi rend="italics">A History of British Butterflies</hi> (1853 but reprinted well into the twentieth century), naturalist F.O. Morris notes that this 'handsome and singularly shaped species' appeared across Britain, but evidently it was rare enough (at least in the south-west London suburb of Surbiton) by the time Woolf wrote to justify being mentioned in the newspaper. With its wings closed, the butterfly looks like a fallen autumn leaf; its wings open to reveal a 'beautiful rich fulvous orange colour.' Cf. Morris (70-72). Francis Orpen Morris (1810-1893) was a popular British naturalist, cleric, and anti-Darwinist. In <hi rend="italics">JR</hi>, the young Jacob Flanders corrects one of Morris's works, probably the four-volume <hi rend="italics">History of British Moths</hi> (1859-70), cf. <hi rend="italics">JR</hi> 34</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q754675</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Morris1853"
+            corresp="http://zotero.org/users/11267805/items/TJCK5C6H">
+            <monogr>
+              <title level="m">A History of British Butterflies</title>
+              <author>
+                <forename>Francis Orpen</forename>
+                <surname>Morris</surname>
+              </author>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Groombridge and Sons</publisher>
+                <date>1853</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2020"
+            corresp="http://zotero.org/users/11267805/items/NNS54MLY">
+            <monogr>
+              <title level="m">Jacob’s Room</title>
+              <idno type="ISBN">978 0 5218 4674 5</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>David</forename>
+                <surname>Bradshaw</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2020</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </object>
       <object xml:id="obj-exca">
         <objectIdentifier>
           <objectName>Excalibur</objectName>
         </objectIdentifier>
         <note>The mythical sword of <rs xml:id="psn-kart">King Arthur</rs>. <rs xml:id="psn-tmal">Malory</rs> offers conflicting accounts of how Arthur acquired the sword: his sword is referred to as Excalibur (32) shortly after pulling an unnamed sword out of the stone and thereby proving himself to be the 'rightwise king born of all England' (28), though later in the narrative Excalibur is bestowed upon him by the Lady of the Lake (47-8). In the aftermath of his final battle against Mordred, the dying Arthur commands Sir Bedivere to cast Excalibur back into the water, whereupon it is caught by an 'arm and a hand' (480).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q187880</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </object>
       <object xml:id="obj-gral">
         <objectIdentifier>
           <objectName>Holy Grail (Sang Gral)</objectName>
         </objectIdentifier>
         <note>In Arthurian legend, the Holy Grail is the cup used by Jesus at the Last Supper. It is sought by various members of <rs xml:id="psn-kart">Arthur</rs>'s retinue: in <rs xml:id="psn-tmal">Malory</rs>'s version of Arthurian legend, many of Arthur's knights seek the Grail, most notably <rs xml:id="psn-lanc">Lancelot</rs> and his son, Galahad, as well as <rs xml:id="psn-gawa">Gawain</rs>. Only the purest and most morally upstanding of knights can complete the quest for the Grail, which knocks most of Arthur's retinue out of the running save for Galahad, though he dies shortly afterwards.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q162808</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </object>
       <object xml:id="obj-mono">
         <objectIdentifier>
@@ -12343,12 +12447,139 @@
         <note>A form of hot metal typesetting that does not require a compositor to arrange individual sorts by hand, but rather to type text for printing on a keyboard at an automatic casting machine. The machine would arrange copper matrices (letter moulds) into the correct order and then injected molten lead alloy into these matrices, which would cool to produce solid metal type. The set type could then be used for printing and then melted down for reuse. The first commercially successful machine of this kind was the Merganthaler Linotype machine, which, as the name suggests, cast a single line of type (referred to as a 'slug') at once (Linotype [1925] xxix). It was primarily used to print newspapers and cheaper paperbacks (<hi rend="italics">OCB</hi> 884-5). However, the Mergenthaler Linotype Company did attempt to position their product as an aid for 'fine book-printing' (cf. Linotype [1923] vi). It was first commercially used in 1866 (<hi rend="italics">OCB</hi> 884-5)
           
         Monotype was a later development: the first monotype system was sold in 1900 (<hi rend="italics">OCB</hi> 884-5). The monotype system could cast a page of type at a time, but more importantly, it also separated the work of composition from the work of casting. A Monotype system was composed of two separate machines. The first was a keyboard which at which a typist would create a representation of the print page on a 'paper ribbon' or punched tape (Monotype Keyboard 9-10). This punched tape would serve as instructions for the asting machine. The operator of the casting machine would feed the tape into the second machine, which would read the instructions punched into the tape and arrange the letter matrices into the order specified, which then could be cast (Monotype Casting Machine 48-55). This process was slower but more precise than Linotype, and the paper ribbon could be reused for later printings even after the original type had been melted back down, making it better-suited to literary texts. Hot metal typesetting represented one of the most significant developments in printing since the development of movable type and the introduction of the <rs xml:id="obj-pres">printing press</rs> to Europe.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q4897699</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="zoteroItem_VIPUFGIF"
+            corresp="http://zotero.org/users/11267805/items/VIPUFGIF">
+            <monogr>
+              <title level="m">The 'Monotype' casting machine manual</title>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>National Committee of Monotype Users' Associations in association with
+                  the
+                  Monotype Corporation</publisher>
+                <date>1952</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="zoteroItem_AVB5IZTW"
+            corresp="http://zotero.org/users/11267805/items/AVB5IZTW">
+            <monogr>
+              <title level="m">The 'Monotype' keyboard operator's manual</title>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>National Committee of Monotype Users' Associations in association with
+                  the
+                  Monotype Corporation</publisher>
+                <date>1950</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Orcutt1923"
+            corresp="http://zotero.org/users/11267805/items/YRWBRNSU">
+            <monogr>
+              <title level="m">The manual of linotype typography : prepared to aid users and
+                producers of
+                printing in securing greater unity and real beauty in the printed page</title>
+              <author>
+                <forename>William Dana</forename>
+                <surname>Orcutt</surname>
+              </author>
+              <author>
+                <forename>Edward Everett</forename>
+                <surname>Bartlett</surname>
+              </author>
+              <imprint>
+                <pubPlace>Brooklyn, N.Y</pubPlace>
+                <publisher>Mergenthaler linotype company</publisher>
+                <date>1923</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Linotype typography.</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Rogers1925"
+            corresp="http://zotero.org/users/11267805/items/XKPV65AK">
+            <monogr>
+              <title level="m">Linotype instruction book: a detailed description of the mechanism
+                and
+                operation of the linotype with instructions for its erection, maintenance, and care</title>
+              <author>
+                <forename>John R.</forename>
+                <surname>Rogers</surname>
+              </author>
+              <imprint>
+                <pubPlace>Brooklyn, N.Y</pubPlace>
+                <publisher>Mergenthaler Linotype Company</publisher>
+                <date>1925</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Suarez2010"
+            corresp="http://zotero.org/users/11267805/items/IGDKX8GP">
+            <monogr>
+              <title level="m">The Oxford companion to the book</title>
+              <idno type="ISBN">978-0-19-860653-6</idno>
+              <idno type="callNumber">002.03</idno>
+              <extent>2</extent>
+              <editor>
+                <forename>Michael Felix</forename>
+                <surname>Suarez</surname>
+              </editor>
+              <editor>
+                <forename>H. R.</forename>
+                <surname>Woudhuysen</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Oxford university press</publisher>
+                <date>2010</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </object>
       <object xml:id="obj-pill">
         <objectIdentifier>
           <objectName>Pilliwinks</objectName>
         </objectIdentifier>
         <note>'An instrument of torture for squeezing the fingers, similar to a thumbscrew' (<hi rend="italics">OED</hi>). They were used to extract a confession of witchcraft from Geilles Duncane in the <rs xml:id="pla-nber">North Berwick</rs> witch trials, cf. 'Newes from Scotland...' (3).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1172972</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="zoteroItem_6NR4JJ96"
+            corresp="http://zotero.org/users/11267805/items/6NR4JJ96">
+            <analytic>
+              <title level="a">pilliwinks, n.</title>
+            </analytic>
+            <monogr>
+              <title level="m">Oxford English Dictionary</title>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Oxford University Press</publisher>
+                <date>2023</date>
+                <note type="url">https://doi.org/10.1093/OED/1035649698</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Anonymous1591"
+            corresp="http://zotero.org/users/11267805/items/G5PH95EQ">
+            <monogr>
+              <title level="m">Newes from Scotland, declaring the damnable life and death of doctor
+                Fian, a notable sorcerer, who was burned at Edenbrough in Ianuary last, 1591.</title>
+              <author>
+                <name>Anonymous</name>
+              </author>
+              <imprint>
+                <pubPlace>Lond</pubPlace>
+                <publisher>for W. Wright</publisher>
+                <date>1591</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </object>
       <object xml:id="obj-pres">
         <objectIdentifier>
@@ -12361,12 +12592,197 @@
         VW's own experience of print technology, through the Hogarth Press, was formative for her literary practice. Battershill and Staveley provide brief summaries of the Press's commercial and literary activities, and Willis remains the standard history of the Woolfs' press. The name 'Hogarth Press' refers to both the publishing house that the Woolfs started in 1917, named for their house in Richmond, London, from which they printed and published, and to the handpress which they used to print works from 1917 to 1932. LW and VW bought a handpowered tabletop printing press (a platen-jobber press, though the precise model is unrecorded) in the spring of 1917, from the Excelsior Printers' Supply Co. on Farringdon Road, in London's Clerkenwell, with the aim of publishing their own work and that of their friends. The two were necessarily self-taught, as training could only be provided to apprentices (LW <hi rend="italics">Beginning</hi> 233). By the end of the year, they had printed their first work, <hi rend="italics">Two Stories</hi>. The Press's early works were printed in small runs: only 150 copies of <hi rend="italics">Two Stories</hi> were printed, while their next publication, <hi rend="italics">Prelude</hi> had a run of 200 and their third, Eliot's <hi rend="italics">Poems</hi> less than 250 (Woolmer §. 1-3), but the press outsourced printing with increasing regularity from their second publication onwards, and by 1920, had started to employ the services 'commercial printers' (LW <hi rend="italics">Downhill</hi> 65-6) whose mechanised presses diverged from the essentially Gutenbergian hand-powered press that the Woolfs themselves had purchased in 1917. By 1922, the Press published more commercially-printed works than hand-printed works (Wilson CHECK). Nevertheless, the Hogarth Press continued to issue books that the Woolfs themselves printed, first on the Excelsior press then on a treadle-powered Minerva platen press purchased in 1921 (Southworth ix). The final book they printed themselves was Dorothy Wellesley's <hi rend="italics">Jupiter and the Nun</hi> (Woolmer §. 313).
       
         The Hogarth Press both worked in the wake of, and rejected, the revival of fine printing that originated with <rs xml:id="psn-wmor">William Morris</rs> and his Kelmscott Press (1891-8, cf. LW <hi rend="italics">Downhill</hi> 79-80, Wilson 36-7). Though LW talks vividly about the Press's use of brightly-coloured papers and cloths to cover their early works, and Vanessa Bell's designs for the dust-jackets of Hogarth books would become famous in their own right, their aesthetic was more homespun: Wilson suggests that Roger Fry's Omega Workshop acted as a precursor for Leonard and Virginia Woolf's work at the Hogarth Press (10-13).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q144334</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Southworth2010"
+            corresp="http://zotero.org/users/11267805/items/UBA9CXZG">
+            <monogr>
+              <title level="m">Leonard and Virginia Woolf, The Hogarth Press and the Networks of
+                Modernism</title>
+              <idno type="ISBN">978-0-7486-4227-4</idno>
+              <author>
+                <forename>Helen</forename>
+                <surname>Southworth</surname>
+              </author>
+              <imprint>
+                <publisher>Edinburgh University Press</publisher>
+                <date>2010</date>
+                <note type="accessed">2024-10-31T16:35:21Z</note>
+                <note type="url">https://academic.oup.com/edinburgh-scholarship-online/book/28913</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Staveley2021"
+            corresp="http://zotero.org/users/11267805/items/F79TF7N5">
+            <analytic>
+              <title level="a">The Hogarth Press</title>
+              <author>
+                <forename>Alice</forename>
+                <surname>Staveley</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Oxford Handbook of Virginia Woolf</title>
+              <idno type="ISBN">978-0-19-881158-9</idno>
+              <editor>
+                <forename>Anne E.</forename>
+                <surname>Fernald</surname>
+              </editor>
+              <imprint>
+                <biblScope unit="page">0</biblScope>
+                <publisher>Oxford University Press</publisher>
+                <date>2021</date>
+                <note type="accessed">2024-10-30</note>
+                <note type="url">https://doi.org/10.1093/oxfordhb/9780198811589.013.16</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Suarez2010"
+            corresp="http://zotero.org/users/11267805/items/IGDKX8GP">
+            <monogr>
+              <title level="m">The Oxford companion to the book</title>
+              <idno type="ISBN">978-0-19-860653-6</idno>
+              <idno type="callNumber">002.03</idno>
+              <extent>2</extent>
+              <editor>
+                <forename>Michael Felix</forename>
+                <surname>Suarez</surname>
+              </editor>
+              <editor>
+                <forename>H. R.</forename>
+                <surname>Woudhuysen</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Oxford university press</publisher>
+                <date>2010</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Willis1992"
+            corresp="http://zotero.org/users/11267805/items/7IL3D9XN">
+            <monogr>
+              <title level="m">Leonard and Virginia Woolf as publishers: the Hogarth Press, 1917-41</title>
+              <title type="short">Leonard and Virginia Woolf as publishers</title>
+              <idno type="ISBN">978-0-8139-1361-2</idno>
+              <idno type="callNumber">Z232.H73 W54 1992</idno>
+              <author>
+                <forename>J. H.</forename>
+                <surname>Willis</surname>
+              </author>
+              <imprint>
+                <pubPlace>Charlottesville</pubPlace>
+                <publisher>University Press of Virginia</publisher>
+                <date>1992</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1964"
+            corresp="http://zotero.org/users/11267805/items/SB7X3KAM">
+            <monogr>
+              <title level="m">Beginning again: an autobiography of the years 1911-1918</title>
+              <author>
+                <forename>Leonard</forename>
+                <surname>Woolf</surname>
+              </author>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1964</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1967"
+            corresp="http://zotero.org/users/11267805/items/2A5AX3LL">
+            <monogr>
+              <title level="m">Downhill all the way: an autobiography of the years 1919-1939</title>
+              <author>
+                <forename>Leonard</forename>
+                <surname>Woolf</surname>
+              </author>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Hogarth Press</publisher>
+                <date>1967</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolmer1986"
+            corresp="http://zotero.org/users/11267805/items/Y7M9W5F7">
+            <monogr>
+              <title level="m">A checklist of the Hogarth Press: 1917 - 1946</title>
+              <title type="short">A checklist of the Hogarth Press</title>
+              <idno type="ISBN">978-0-906795-38-5</idno>
+              <author>
+                <forename>J. H.</forename>
+                <surname>Woolmer</surname>
+              </author>
+              <edition>Rev. and enl. ed., 1. pr</edition>
+              <imprint>
+                <pubPlace>Winchester</pubPlace>
+                <publisher>St. Paul's Bibliographies</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </object>
       <object xml:id="obj-roun">
         <objectIdentifier>
           <objectName>Round Table</objectName>
         </objectIdentifier>
         <note>In Arthurian myth, the Round Table is both a metonym for <rs xml:id="psn-kart">King Arthur</rs>'s retinue of knights, and the table where he and the knights would convene. <rs xml:id="wcax">Caxton</rs>, in his preface to <rs xml:id="psn-tmal">Thomas Malory</rs>'s <hi rend="italics">Morte Darthur</hi> wrote that one could see 'at <rs xml:id="pla-winc">Winchester</rs> the Round Table' (Caxton in Malory 2): a large round table (or at least a tabletop) is kept in Winchester Castle (cf. Bruce 430).</note>
+        <idno type="wikidata"></idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+            corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+            <monogr>
+              <title level="m">The Arthurian name dictionary</title>
+              <idno type="ISBN">978-0-8153-2865-0</idno>
+              <idno type="callNumber">942.014</idno>
+              <author>
+                <forename>Christopher W.</forename>
+                <surname>Bruce</surname>
+              </author>
+              <imprint>
+                <pubPlace>New York</pubPlace>
+                <publisher>Garland</publisher>
+                <date>1999</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Garland reference library of the humanities</title>
+              <biblScope unit="volume">2063</biblScope>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </object>
     </listObject>
     <listPlace>
