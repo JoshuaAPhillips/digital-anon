@@ -12791,84 +12791,465 @@
         <region>Wiltshire, England</region>
         <geo decls="#WGS">51.169567 -1.767126</geo>
         <note>Amesbury is a small town in Wiltshire, some two miles from <rs xml:id="pla-ston">Stonehenge</rs>. VW's sketch of her two visits to Stonehenge in 1903 (<hi rend="italics">PA</hi> 198-200) make no mention of Amesbury.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q470299</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf1990"
+          corresp="http://zotero.org/users/11267805/items/BL2NV6AP">
+          <monogr>
+            <title level="m">A Passionate Apprentice: The Early Journals</title>
+            <title type="short">Passionate Apprentice</title>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Mitchell</forename>
+              <surname>Leaska</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>The Hogarth Press</publisher>
+              <date>1990</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-bank">
         <placeName>Bankside</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.508176 -0.099134</geo>
         <note>An area of <rs xml:id="pla-lond">London</rs> in the borough of <rs xml:id="pla-sout">Southwark</rs> immediately south of the Thames, across the river from <rs xml:id="pla-stpa">St Paul's Cathedral</rs> and the City of London. Early modern public playhouses were found here as early as 1576, preceded by bear- and bull-baiting rings (Chambers ii.355). The public playhouses built along the Bankside were typically round, open-air constructions with a 'pit' into which a stage thrust. They were banned from the City of London as early as April 1559 but there was no such prohibition preventing their establishment across the river (Chambers ii.357).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2660320</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Chambers2009"
+          corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+          <monogr>
+            <title level="m">The Elizabethan stage</title>
+            <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+            <extent>IV</extent>
+            <author>
+              <forename>Edmund K.</forename>
+              <surname>Chambers</surname>
+            </author>
+            <edition>Repr</edition>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Clarendon Press</publisher>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-barg">
         <placeName>Barge, The</placeName>
         <region>London, England?</region>
-        <geo decls="#wgs">???</geo>
         <note>This site was a tenement attested to in a lease for the neighbouring <rs xml:id="pla-rose">Rose</rs> playhouse, dating from the reign of <rs xml:id="psn-hen8">Henry VIII</rs>. It and its neighbours were described as lying "vppon the banke called Stewes"' (cf. Chambers ii.405). Stew is a euphemism: it is at once an obsolete word for brothel and a kind of 'lock hospital' where 'prostitutes were confined, and received the benefits of surgical assistance' (<hi rend="italics">OED</hi> "stew n2, I.4a").</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="zoteroItem_2RRHKDFI"
+          corresp="http://zotero.org/users/11267805/items/2RRHKDFI">
+          <analytic>
+            <title level="a">stew, n. I.4</title>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford English Dictionary</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2024</date>
+              <note type="url">https://doi.org/10.1093/OED/1021425139</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Chambers2009"
+          corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+          <monogr>
+            <title level="m">The Elizabethan stage</title>
+            <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+            <extent>IV</extent>
+            <author>
+              <forename>Edmund K.</forename>
+              <surname>Chambers</surname>
+            </author>
+            <edition>Repr</edition>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Clarendon Press</publisher>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-bell">
         <placeName>Bell, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.51248341 -0.08521206</geo>
         <note>Little is known for certain about this playhouse. Chambers evidences its existence in 1560 and that it was assigned to the Queen's Men 'by a civic order of 28 November 1583 for their first winter season' (ii.381-2). A lease dating to <rs xml:id="psn-hen8">Henry VIII</rs>'s reign mentions that it abutted the site of <rs xml:id="psn-phen">Philip Henslowe</rs>'s <rs xml:id="pla-rose">Rose</rs> playhouse and describes it and its neighbours as lying "vppon the banke called Stewes"' (cf. Chambers ii.405). Stew is a euphemism: it is at once an obsolete word for brothel and a kind of 'lock hospital' where 'prostitutes were confined, and received the benefits of surgical assistance' (<hi rend="italics">OED</hi> "stew n2, I.4a").</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="zoteroItem_2RRHKDFI"
+          corresp="http://zotero.org/users/11267805/items/2RRHKDFI">
+          <analytic>
+            <title level="a">stew, n. I.4</title>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford English Dictionary</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2024</date>
+              <note type="url">https://doi.org/10.1093/OED/1021425139</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+          <biblStruct type="book" xml:id="Chambers2009"
+          corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+          <monogr>
+            <title level="m">The Elizabethan stage</title>
+            <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+            <extent>IV</extent>
+            <author>
+              <forename>Edmund K.</forename>
+              <surname>Chambers</surname>
+            </author>
+            <edition>Repr</edition>
+            <imprint>
+              <pubPlace>Oxford</pubPlace>
+              <publisher>Clarendon Press</publisher>
+              <date>2009</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-blac">
         <placeName>Blackfriars</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.512205 -0.103956</geo>
         <note>A district in the City of London between <rs xml:id="pla-stpa">St Paul's Cathedral</rs> and the Thames, centred around Blackfriars Bridge, which gave its name to two indoor, private playhouses, the latter associated with <rs xml:id="psn-wsha">William Shakespeare</rs> and his theatre company, The King's Men. The area is named for a priory of Dominican friars (known as 'black' friars owing to the colour of their garb), who acquired land here in 1275 (Chambers ii.473). Over the next three centuries the priory waned in influence, and its estates were dissolved in 1538 by <rs xml:id="hen8">Henry VIII</rs> (ii.476). A theatre was established in the former priory in 1576 (ii.496-7). This first theatre hosted companies of boy actors and shuttered in 1587. In 1596, the building's refectory was sold to James Burbage, father of the Shakespearean actor Richard Burbage (ii.503). On James Burbage's death, his son inherited the theatre but he and the King's Men were prohibited from using it due to a combination of legal and business strictures until 1609 (Edmond n.p.), after which time its decades-long association with Shakespeare began: Shakespeare's company used it as an indoor playhouse during London's cold winters. Though it was smaller than outdoor public theatres such as the King's Men's other theatre, the <rs xml:id="pla-glob">Globe</rs>, it attracted an aristocratic and royal audience, though as Gurr notes, it was this royal association that proved 'one of the kisses of death that destroyed the King's Men and all the other players' in the wake of the English civil war, 'when Parliament signaled its opposition to their royal attachment by closing the playhouses in September 1642' (Gurr in Menzer 29). In Woolf, upon her return to England, Orlando's property is siezed pending a court case to decide her legal status and, consequently, whether she has the right to own property. She is permitted to live in Blackfriars for the duration of the case – CHECK note.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q880829</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Chambers2009"
+            corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+            <monogr>
+              <title level="m">The Elizabethan stage</title>
+              <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+              <extent>IV</extent>
+              <author>
+                <forename>Edmund K.</forename>
+                <surname>Chambers</surname>
+              </author>
+              <edition>Repr</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Clarendon Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Menzer2006"
+            corresp="http://zotero.org/users/11267805/items/BQW2LUDF">
+            <analytic>
+              <title level="a">London's Blackfriars Playhouse and the Chamberlain's Men</title>
+              <author>
+                <forename>Andrew</forename>
+                <surname>Gurr</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Inside Shakespeare: essays on the Blackfriars stage</title>
+              <idno type="ISBN">978-1-57591-077-2</idno>
+              <editor>
+                <forename>Paul</forename>
+                <surname>Menzer</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Selinsgrove</pubPlace>
+                <publisher>Susquehanna University Press</publisher>
+                <date>2006</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2018b"
+            corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+            <monogr>
+              <title level="m">Orlando: A Biography</title>
+              <idno type="ISBN">978 0 5218 7896 8</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Suzanne</forename>
+                <surname>Raitt</surname>
+              </editor>
+              <editor>
+                <forename>Ian</forename>
+                <surname>Blyth</surname>
+              </editor>
+              <imprint>
+                <publisher>Cambridge University Press</publisher>
+                <date>2018</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-boca">
         <placeName>Bocardo, The</placeName>
         <region>Oxford, England</region>
         <geo decls="#wgs">51.753750 -1.258361</geo>
         <note>A historic prison in <rs xml:id="pla-oxfo">Oxford</rs> which held <rs xml:id="psn-hlat">Hugh Latimer</rs> and Thomas Cramner, among others, before they were burnt at the stake. It stood from some time in the thirteenth century to 1771, when it was demolished (Hibbert 49).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q4936146</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Hibbert1988"
+            corresp="http://zotero.org/users/11267805/items/S27HD6Y3">
+            <monogr>
+              <title level="m">The encyclopaedia of Oxford</title>
+              <idno type="ISBN">0-333-39917-X</idno>
+              <editor>
+                <forename>Christopher</forename>
+                <surname>Hibbert</surname>
+              </editor>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Hibbert</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1988</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-cadb">
         <placeName>Cadbury</placeName>
         <region>Somerset, England</region>
         <geo decls="#wgs">50.836706 -3.544679</geo>
         <note>South Cadbury is a small village in Somerset, England, and the site of Cadbury Castle, a sprawling neolithic hillfort that spans some 18 acres. In his <hi rend="italics">Itinerary</hi> of 1542, antiquary <rs xml:id="psn-jlel">John Leland</rs> identifies Cadbury Castle as the site of <rs xml:id="psn-kart">King Arthur</rs>'s castle, <rs xml:id="pla-came">Camelot</rs> (Leland I.151).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1025082</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Leland1907"
+          corresp="http://zotero.org/users/11267805/items/9IREJFXH">
+          <monogr>
+            <title level="m">The itinerary of John Leland in or about the years 1535-1543</title>
+            <extent>5</extent>
+            <author>
+              <forename>John</forename>
+              <surname>Leland</surname>
+            </author>
+            <editor>
+              <forename>Lucy Toulmin</forename>
+              <surname>Smith</surname>
+            </editor>
+            <imprint>
+              <pubPlace>London</pubPlace>
+              <publisher>George Bell and Sons</publisher>
+              <date>1907</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-camb">
         <placeName>Cambridge</placeName>
         <region>Cambridgeshire, England</region>
         <geo decls="#wgs">52.204714 0.119390</geo>
         <note>A city in south-east England and home to one of England's two ancient universities (the other being <rs xml:id="pla-oxfo">Oxford</rs>). Though VW did not attend either university, many in her immediate family did, and the Bloomsbury coterie had its roots in the Apostles (the Cambridge Conversazione Society), of which (inter alia) LW, E.M. Forster, Roger Fry, John Maynard Keynes, Lytton Strachey and Saxon Sydney-Turner were members, and Leslie Stephen had been a member a generation prior. Banfield traces the profound influence that the Apostles and Cambridge philosophy had on Bloomsbury aesthetics and Woolf's writing (cf. in particular 8-14; 26-36). <hi rend="italics">Room</hi> has its roots in talks VW gave at Girton and Newnham Colleges, in October 1928.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q350</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Banfield2000"
+            corresp="http://zotero.org/users/11267805/items/QFHMVZR6">
+            <monogr>
+              <title level="m">The Phantom Table: Woolf, Fry, Russell, and the Epistemology of
+                Modernism</title>
+              <author>
+                <forename>Ann</forename>
+                <surname>Banfield</surname>
+              </author>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2000</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1993a"
+            corresp="http://zotero.org/users/11267805/items/Q3TAHMSP">
+            <analytic>
+              <title level="a">A Room of One's Own</title>
+              <title type="short">Room</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">A Room of One's Own and Three Guineas</title>
+              <editor>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">3-104</biblScope>
+                <publisher>Penguin</publisher>
+                <date>1993</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-came">
         <placeName>Camelot</placeName>
         <region>England</region>
         <geo decls="#wgs">N/A</geo>
         <note>The legendary castle of <rs xml:id="psn-kart">King Arthur</rs> and his <rs xml:id="obj-roun">retinue</rs>, and the capital of Arthurian Britain kingdom. Though there was likely no historical Camelot, <rs xml:id="psn-wcax">Caxton</rs> and <rs xml:id="psn-tmal">Malory</rs> both identify Winchester as Camelot in <rs xml:id="lit-mort">Le Morte Darthur</rs>, while in his <hi rend="italics">Itinerary</hi> of 1543, antiquary <rs xml:id="psn-jlel">John Leland</rs> locates it at the site of a neolithic hill fort just south of the Somerset town of <rs xml:id="pla-cadb">Cadbury</rs>.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q220437</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Leland1907"
+            corresp="http://zotero.org/users/11267805/items/9IREJFXH">
+            <monogr>
+              <title level="m">The itinerary of John Leland in or about the years 1535-1543</title>
+              <extent>5</extent>
+              <author>
+                <forename>John</forename>
+                <surname>Leland</surname>
+              </author>
+              <editor>
+                <forename>Lucy Toulmin</forename>
+                <surname>Smith</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>George Bell and Sons</publisher>
+                <date>1907</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-cant">
         <placeName>Canterbury</placeName>
         <region>Kent, England</region>
         <geo decls="#wgs">51.280028 1.080253</geo>
         <note>A medieval city in Kent, southern England. Canterbury Cathedral was founded in 597 (though the structure is largely twelfth century) and is the locus of the saint's cult dedicated to Thomas à Beckett, the 'turbulent priest' Henry II assassinated. In <rs xml:id="psn-gcha">Chaucer</rs>'s <rs xml:id="lit-cant">Canterbury Tales</rs>, the pilgrims journey to the cathedral to pray at Beckett's shrine.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q29303</idno>
       </place>
       <place xml:id="pla-carl">
         <placeName>Carlisle</placeName>
         <region>Cumbria, England</region>
         <geo decls="#wgs">54.895443 -2.937573</geo>
         <note>A city in the northwest of England, close to the Scottish border. Woolf refers to the city's connections to Arthurian mythology. In <rs xml:id="lit-mort">Le Morte Darthur</rs>, Carlisle is a significant location. Tristram and Palamides fight here, and Palamides is christened after Tristram defeats him (Malory 347); <rs xml:id="psn-kart">Arthur</rs> heals Sir Urre at 'the meadow of Carlisle' (447), and, having discovered <rs xml:id="psn-lanc">Lancelot</rs> and Guinevere's affair, sentences Guinevere to burn at the stake here: Lancelot rescues Guinevere and in the process kills many of Arthur's retinue (458-9). In other Arthurian writings, <rs xml:id="psn-gawa">Gawain</rs> is tested by the Carl of Carlisle (Bruce 105).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q192896</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+            corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+            <monogr>
+              <title level="m">The Arthurian name dictionary</title>
+              <idno type="ISBN">978-0-8153-2865-0</idno>
+              <idno type="callNumber">942.014</idno>
+              <author>
+                <forename>Christopher W.</forename>
+                <surname>Bruce</surname>
+              </author>
+              <imprint>
+                <pubPlace>New York</pubPlace>
+                <publisher>Garland</publisher>
+                <date>1999</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Garland reference library of the humanities</title>
+              <biblScope unit="volume">2063</biblScope>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-chan">
-        <placeName>Channel, English</placeName>
+        <placeName>English Channel</placeName>
         <region>North Sea</region>
         <geo decls="#wgs">51.062113 1.647949</geo>
         <note>The English Channel is the stretch of sea separating southern England from northern France. <rs xml:id="pla-dove">Dover</rs> is a major port as it is located closest to France: the Strait of Dover is only 33km wide.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q34640</idno>
       </place>
       <place xml:id="pla-chea">
         <placeName>Cheapside</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.514266 -0.094374</geo>
         <note>A street in the City of <rs xml:id="pla-lond">London</rs> to the west of <rs xml:id="pla-stpa">St Paul's Cathedral</rs>.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1068693</idno>
       </place>
       <place xml:id="pla-ches">
         <placeName>Cheshire</placeName>
         <region>Cheshire, England</region>
         <geo decls="#wgs">53.191225 -2.891464</geo>
-        <note>A street in the City of <rs xml:id="pla-lond">London</rs> to the west of <rs xml:id="pla-stpa">St Paul's Cathedral</rs>.</note>
+        <note>Ceremonial county in northern England, to the south of Liverpool and bordering Wales. The <rs xml:id="psn-mfyt">Fytton</rs> family originated here.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q23064</idno>
       </place>
       <place xml:id="pla-chop">
         <placeName>The Chopping Knife near Ludgate</placeName>
@@ -12878,19 +13259,189 @@
 
           One Mrs Martin who dwelt at the Chopinge Knife near Ludgate tould me [that] she hath seene preists mary gentlewomen at the Courte, in that tyme when that Mrs Fytton was in great fauour, and one of her Majestie's maids of honour, and duringe the time yt the Earle of Pembrooke fauord her she would put off her head tire and tucke upp her clothes and take a large white cloake and marche as though she had bene a man to meete the said Earle out of the Courte. (36)
           
-        Beyond this, little evidence attests to the existence of a place named the Chopping Knife or its function. The City of London Corporation Library contains a collection of seventeenth century tradesman's tokens, effectively an illegal form of coinage issued not by the state but by individual traders, collected by Henry Beaufoy. The 1855 edition of this collection's catalogue references a coin with a 'chopping knife.' On its obverse is written 'IN THE STRAND' and on its reverse 'IN WESTMINSTER' and the initials 'S. S. M.' (Burns 232, §. 1122). The Strand is a historic street in the City of London that runs from Trafalgar Square to Temple Bar and then (as Fleet Street) up to Ludgate Hill and <rs xml:id="pla-stpa">St Paul's Cathedral</rs>. What kind of establishment the Chopping Knife was is not recorded.VW read Newdigate-Newdegate in preparation for the 'Anon' drafts, and specifically notes down this part of the narrative (<hi rend="italics">RN</hi>37). </note>
+        Beyond this, little evidence attests to the existence of a place named the Chopping Knife or its function. The City of London Corporation Library contains a collection of seventeenth century tradesman's tokens, effectively an illegal form of coinage issued not by the state but by individual traders, collected by Henry Beaufoy. The 1855 edition of this collection's catalogue references a coin with a 'chopping knife.' On its obverse is written 'IN THE STRAND' and on its reverse 'IN WESTMINSTER' and the initials 'S. S. M.' (Burns 232, §. 1122). The Strand is a historic street in the City of London that runs from Trafalgar Square to Temple Bar and then (as Fleet Street) up to Ludgate Hill and <rs xml:id="pla-stpa">St Paul's Cathedral</rs>. What kind of establishment the Chopping Knife was is not recorded. VW read Newdigate-Newdegate in preparation for the 'Anon' drafts, and specifically notes down this part of the narrative (<hi rend="italics">RN</hi>37). </note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+            corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+            <analytic>
+              <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+              <title type="short">WoolfNotes</title>
+              <author>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </author>
+              <author>
+                <forename>Brenda R.</forename>
+                <surname>Silver</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">WoolfNotes</title>
+              <imprint>
+                <date>2024</date>
+                <note type="accessed">2024-07-05</note>
+                <note type="url">http://www.woolfnotes.com/</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Burn1855"
+            corresp="http://zotero.org/users/11267805/items/FVHRV6MS">
+            <monogr>
+              <title level="m">A descriptive catalogue of the London traders, tavern, and coffee-house
+                tokens current in the seventeenth century; presented to the Corporation Library by
+                Henry Benjamin Hanbury Beaufoy. By Jacob Henry Burn</title>
+              <author>
+                <forename>Jacob Henry</forename>
+                <surname>Burn</surname>
+              </author>
+              <imprint>
+                <pubPlace>England</pubPlace>
+                <publisher>Printed for the use of the members of the Corporation of the City of London</publisher>
+                <date>1855</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Newdigate-Newdegate1897"
+            corresp="http://zotero.org/users/11267805/items/6N6JH4DX">
+            <monogr>
+              <title level="m">Gossip from a muniment room; being passages in the lives of Anne and
+                Mary Fitton, 1574 to 1618.</title>
+              <author>
+                <forename>Anne Emily Garnier</forename>
+                <surname>Newdigate-Newdegate</surname>
+              </author>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>D. Nutt</publisher>
+                <date>1897</date>
+                <note type="url">//catalog.hathitrust.org/Record/000767029</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-cock">
         <placeName>The Cock</placeName>
         <region>London, England</region>
-        <geo decls="#wgs">???</geo>
         <note>This site was a tenement attested to in a lease for the neighbouring <rs xml:id="pla-rose">Rose</rs> playhouse, dating from the reign of <rs xml:id="psn-hen8">Henry VIII</rs>. It and its neighbours were described as lying "vppon the banke called Stewes"' (cf. Chambers ii.405). Stew is a euphemism: it is at once an obsolete word for brothel and a kind of 'lock hospital' where 'prostitutes were confined, and received the benefits of surgical assistance' (<hi rend="italics">OED</hi>). In <hi rend="italics">O</hi>, Nick Greene recounts an anecdote involving <rs xml:id="psn-cmar">Christopher Marlowe</rs> and <rs xml:id="psn-wsha">William Shakespeare</rs> which takes place at 'the Cock Tavern in Fleet Street' (82): on returning from their honeymoon, VW and LW lived in rooms off Fleet Street and frequented a Cock Tavern (Lee CHECK).</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="zoteroItem_2RRHKDFI"
+            corresp="http://zotero.org/users/11267805/items/2RRHKDFI">
+            <analytic>
+              <title level="a">stew, n. I.4</title>
+            </analytic>
+            <monogr>
+              <title level="m">Oxford English Dictionary</title>
+              <imprint>
+                <publisher>Oxford University Press</publisher>
+                <date>2024</date>
+                <note type="url">https://doi.org/10.1093/OED/1021425139</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Chambers2009"
+            corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+            <monogr>
+              <title level="m">The Elizabethan stage</title>
+              <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+              <extent>IV</extent>
+              <author>
+                <forename>Edmund K.</forename>
+                <surname>Chambers</surname>
+              </author>
+              <edition>Repr</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Clarendon Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Lee2007"
+            corresp="http://zotero.org/users/11267805/items/KKVMH4BE">
+            <monogr>
+              <title level="m">Virginia Woolf</title>
+              <idno type="ISBN">978-0-09-973251-8</idno>
+              <author>
+                <forename>Hermione</forename>
+                <surname>Lee</surname>
+              </author>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Vintage Books</publisher>
+                <date>2007</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2018b"
+            corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+            <monogr>
+              <title level="m">Orlando: A Biography</title>
+              <idno type="ISBN">978 0 5218 7896 8</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Suzanne</forename>
+                <surname>Raitt</surname>
+              </editor>
+              <editor>
+                <forename>Ian</forename>
+                <surname>Blyth</surname>
+              </editor>
+              <imprint>
+                <publisher>Cambridge University Press</publisher>
+                <date>2018</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-crow">
         <placeName>The Crown</placeName>
         <region>London, England</region>
-        <geo decls="#wgs">???</geo>
         <note>A playhouse on the <rs xml:id="pla-sout">Bankside</rs>, close to the <rs xml:id="pla-rose">Rose</rs>. Chambers does not discuss it but it is described by <rs xml:id="psn-greg">Greg</rs> as a 'recognized stew' (ii.3), using almost identical language to that of a lease that describes the Rose, <rs xml:id="pla-barg">Barge</rs> and <rs xml:id="pla-bell">Bell</rs> as lying "vppon the banke called Stewes"' (cf. Chambers ii.405). Stew is a euphemism: it is at once an obsolete word for brothel and a kind of 'lock hospital' where 'prostitutes were confined, and received the benefits of surgical assistance' (<hi rend="italics">OED</hi>).</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="zoteroItem_2RRHKDFI"
+            corresp="http://zotero.org/users/11267805/items/2RRHKDFI">
+            <analytic>
+              <title level="a">stew, n. I.4</title>
+            </analytic>
+            <monogr>
+              <title level="m">Oxford English Dictionary</title>
+              <imprint>
+                <publisher>Oxford University Press</publisher>
+                <date>2024</date>
+                <note type="url">https://doi.org/10.1093/OED/1021425139</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Chambers2009"
+            corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+            <monogr>
+              <title level="m">The Elizabethan stage</title>
+              <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+              <extent>IV</extent>
+              <author>
+                <forename>Edmund K.</forename>
+                <surname>Chambers</surname>
+              </author>
+              <edition>Repr</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Clarendon Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-dept">
         <placeName>Deptford</placeName>
@@ -12903,54 +13454,357 @@
         <region>Kent, England</region>
         <geo decls="#wgs">51.126152 1.317158</geo>
         <note>A major port on the south coast of England, on the <rs xml:id="pla-chan">Channel</rs>. In <rs xml:id="psn-tmal">Thomas Malory</rs>'s <rs xml:id="lit-mort">Le Morte Darthur</rs>, Dover is the site of <rs xml:id="psn-kart">Arthur</rs>'s first battle with Mordred, who had usurped his throne (Malory 475): his nephew <rs xml:id="psn-gawa">Gawain</rs> is killed in this battle, and interred in a chapel in Dover Castle with his skull left visible to all (477). In his prologue to the <hi rend="italics">Morte</hi>, <rs xml:id="psn-wcax">William Caxton</rs> writes that Gawain's skull could still be seen at the castle.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q179224</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-esse">
         <placeName>Essex</placeName>
         <region>Essex, England</region>
         <geo decls="#wgs">51.734533 0.473053</geo>
         <note>Essex is a large county in south-east England, abutting <rs xml:id="pla-lond">London</rs>. It is bounded to the south by the Thames Estuary. It plays a minor role in the 'Anon' drafts: Woolf notes that <rs xml:id="psn-tbet">Thomas Betson</rs> was from Essex.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q67442940</idno>
       </place>
       <place xml:id="pla-fort">
         <placeName>Fortune, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.5222396 -0.09408404</geo>
         <note>The Fortune was a playhouse located north of the Thames, in the parish of St Giles' Cripplegate (the medieval church in the present-day Barbican complex) and therefore outside of the jurisdiction of the City of London. It was built in 1600 by theatre financier <rs xml:id="psn-phen">Philip Henslowe</rs> and actor Edward Alleyn, whose instructions for the builders specifically referenced the <rs xml:id="pla-glob">Globe</rs>. This building burnt down in December 1622, and it was later rebuilt, though this was dismantled in 1649 (Chambers ii.435-442). Cf. Orrell for a detailed examination of the playhouse's construction.</note>
+        <idno type="wikidata"></idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="journalArticle" xml:id="Orrell1993"
+            corresp="http://zotero.org/users/11267805/items/QELV6D7C">
+            <analytic>
+              <title level="a">Building the Fortune</title>
+              <idno type="DOI">10.2307/2871135</idno>
+              <author>
+                <forename>John</forename>
+                <surname>Orrell</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Shakespeare Quarterly</title>
+              <idno type="ISSN">00373222, 15383555</idno>
+              <imprint>
+                <biblScope unit="volume">44</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">127-144</biblScope>
+                <date>1993</date>
+                <note type="accessed">2024-04-12</note>
+                <note type="url">http://www.jstor.org.ezproxy-prd.bodleian.ox.ac.uk/stable/2871135</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Chambers2009"
+            corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+            <monogr>
+              <title level="m">The Elizabethan stage</title>
+              <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+              <extent>IV</extent>
+              <author>
+                <forename>Edmund K.</forename>
+                <surname>Chambers</surname>
+              </author>
+              <edition>Repr</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Clarendon Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-gaws">
         <placeName>Gawsworth</placeName>
         <region>Cheshire, England</region>
         <geo decls="#wgs">53.230444 -2.166839</geo>
         <note>Gawsworth is a village in <rs xml:id="pla-ches">Cheshire</rs>, England. It is the ancestral home of the Fytton family: <rs xml:id="psn-mfyt">Mary Fytton</rs> and her father <rs xml:id="psn-efyt">Edward</rs> both originated here.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q5528491</idno>
       </place>
       <place xml:id="pla-glob">
         <placeName>Globe, The</placeName>
         <region>Southwark, England</region>
         <geo decls="#wgs">51.508108 -0.097096</geo>
         <note>Almost certainly the best-known of the <rs xml:id="pla-bank">Bankside</rs> playhouses, the Globe was home to the Lord Chamberlain's Men, later the King's Men: <rs xml:id="psn-wsha">William Shakespeare</rs>'s theatre company for much of his career. Built in 1599 from the dismantled timbers of the Theatre playhouse, Gurr describes its construction as an 'attempt to retrieve something from the disaster of the Theatre's closure and the ban on the use of the <rs xml:id="pla-blac">Blackfriars</rs> hall playhouse' (369). Its lease was initially held in common by members of the Lord Chamberlain's Men, including Shakespeare, actor <rs xml:id="psn-wkem">William Kempe</rs> and financier Richard Burbage: this is notable because 'for the first time, actors became joint owners of the playhouse in which they worked, and the Globe became the first playhouse designed for a specific company' (White 317). The 'wooden O' that the prologue of <rs xml:id="lit-hen5">Henry V</rs> (prologue, 13) most likely references was burnt down in a 1613 performance of Henry VIII ' "by negligent discharge of a peal of ordinance"' which landed in the building's thatched roof, setting light to it (Chambers ii.419). The playhouse was almost immediately rebuilt, and only met its end when the building was ' "pulled downe to the ground [...] on Munday the 15 of April 1644, to make tenements in the room of it"' (ii.427).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q272434</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Chambers2009"
+            corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+            <monogr>
+              <title level="m">The Elizabethan stage</title>
+              <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+              <extent>IV</extent>
+              <author>
+                <forename>Edmund K.</forename>
+                <surname>Chambers</surname>
+              </author>
+              <edition>Repr</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Clarendon Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Gurr2009"
+            corresp="http://zotero.org/users/11267805/items/2PE25RWV">
+            <analytic>
+              <title level="a">Shakespeare's Playhouses</title>
+              <author>
+                <forename>Andrew</forename>
+                <surname>Gurr</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">A Companion to Shakespeare</title>
+              <idno type="ISBN">978-1-4051-6534-1</idno>
+              <author>
+                <forename>David Scott</forename>
+                <surname>Kastan</surname>
+              </author>
+              <imprint>
+                <biblScope unit="page">362-376</biblScope>
+                <date>2009</date>
+                <note type="accessed">2024-04-12</note>
+                <note type="url">https://doi.org/10.1111/b.9780631218784.1999.00023.x</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Shakespeare2009a"
+            corresp="http://zotero.org/users/11267805/items/9U7WPHCZ">
+            <monogr>
+              <title level="m">King Henry V</title>
+              <idno type="ISBN">978-1-904271-08-6 978-1-904271-07-9</idno>
+              <author>
+                <forename>William</forename>
+                <surname>Shakespeare</surname>
+              </author>
+              <editor>
+                <forename>Thomas Wallace</forename>
+                <surname>Craik</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Arden Shakespeare</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Arden Shakespeare. Third series</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Milling2004"
+            corresp="http://zotero.org/users/11267805/items/Z9EP49KS">
+            <analytic>
+              <title level="a">London professional playhouses and performances</title>
+              <author>
+                <forename>Martin</forename>
+                <surname>White</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Cambridge History of British Theatre: Volume 1: Origins to 1660</title>
+              <idno type="ISBN">978-0-521-65040-3</idno>
+              <editor>
+                <forename>Jane</forename>
+                <surname>Milling</surname>
+              </editor>
+              <editor>
+                <forename>Peter</forename>
+                <surname>Thomson</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <biblScope unit="volume">1</biblScope>
+                <biblScope unit="page">298-338</biblScope>
+                <publisher>Cambridge University Press</publisher>
+                <date>2004</date>
+                <note type="url">
+                  https://www.cambridge.org/core/product/BC529CD81E81225B3127D339006F2272</note>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge History of British Theatre</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-gorh">
         <placeName>Gorhambury</placeName>
         <region>Hertfordshire, England</region>
         <geo decls="#wgs">51.766667 -0.366667</geo>
         <note>A country estate to the west of the city of <rs xml:id="pla-stal">St Albans</rs>, Hertfordshire. It is the ancestral home of the Bacon family, and both <rs xml:id="psn-abac">Anne Bacon</rs> and <rs xml:id="psn-fbac">her son, Francis</rs> lived here, though the Elizabethan house they inhabited is now in ruins.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q98785932</idno>
       </place>
       <place xml:id="pla-gray">
         <placeName>Gray's Inn</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.520415 -0.113844</geo>
         <note>One of London's four Inns of Court at which lawyers would train and practice law. It was also a site of early modern performance. Students would perform plays and masques, and theatrical companies would visit, most notably the Lord Chamberlain's Company, in which <rs xml:id="psn-wsha">Shakespeare</rs> acted: they performed <rs xml:id="lit-come">The Comedy of Errors</rs> here in 1594 (<hi rend="italics">SHaLT</hi> Gray's Inn). In <hi rend="italics">JR</hi>, Jacob signs papers in Gray's Inn: he is perhaps training to be a lawyer or works as a clerk (145).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q157412</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="zoteroItem_BNS2PV9U"
+            corresp="http://zotero.org/users/11267805/items/BNS2PV9U">
+            <analytic>
+              <title level="a">Gray's Inn | Shakespearean London Theatres</title>
+            </analytic>
+            <monogr>
+              <imprint>
+                <date />
+                <note type="accessed">2024-05-30T15:57:50Z</note>
+                <note type="url">https://shalt.dmu.ac.uk/locations/grays-inn/indepth.html</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2020"
+            corresp="http://zotero.org/users/11267805/items/NNS54MLY">
+            <monogr>
+              <title level="m">Jacob’s Room</title>
+              <idno type="ISBN">978 0 5218 4674 5</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>David</forename>
+                <surname>Bradshaw</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2020</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-gren">
         <placeName>Greenwich</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.483638 -0.004542</geo>
         <note>A district of south-east London, on the banks of the Thames. Greenwich Palace (originally referred to as the Palace of Placentia) was rebuilt by Henry VII and served as the primary location of the Tudor and early Stewart courts, until the Civil War. In <hi rend="italics">O</hi>, the newly-crowned King James attempts to 'curry favour with the citizens' by turning the frozen Thames at Greenwich into a 'park or pleasure ground, with arbours, mazes, alleys, drinking booths, etc. at his expense' and sets up his court behnd a 'silken rope' in this winter wonderland (32-3).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q693450</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2018b"
+          corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+          <monogr>
+            <title level="m">Orlando: A Biography</title>
+            <idno type="ISBN">978 0 5218 7896 8</idno>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Suzanne</forename>
+              <surname>Raitt</surname>
+            </editor>
+            <editor>
+              <forename>Ian</forename>
+              <surname>Blyth</surname>
+            </editor>
+            <imprint>
+              <publisher>Cambridge University Press</publisher>
+              <date>2018</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-hard">
         <placeName>Hardwick Hall</placeName>
         <region>Derbyshire, England</region>
         <geo decls="#wgs">53.168797 -1.308671</geo>
         <note>An Elizabethan country house built from 1590-97 by Elizabeth Talbot (Bess of Hardwick). VW stayed at Teversal in summer 1904, two miles away, while convalescing from a period of mental illness (<hi rend="italics">PA</hi> 249, n. 12). On 15 November 1940, she writes to VSW that it is 'angelic of [her] to wish me to write another book. But at the same time devilish. Havent I 20 books sizzling in my head at the moment. Then you tempt me with old Bess.' Evidently VSW has suggested that VW write a book about Bess of Hardwick; Woolf suggests that VSW writes it instead (<hi rend="italics">L</hi>6 455, §. 3659). This does not stop Woolf from writing to VSW on 26 December of the same year to ask her for a 'life of Bess of Hardwick,' probably as research for this literary history. There is no evidence to suggest whether or not Woolf read Talbot's biography.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2526406</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf1975"
+            corresp="http://zotero.org/users/11267805/items/L3XAHC3Y">
+            <monogr>
+              <title level="m">The Letters of Virginia Woolf</title>
+              <title type="short">Letters</title>
+              <extent>6</extent>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Nigel</forename>
+                <surname>Nicolson</surname>
+              </editor>
+              <editor>
+                <forename>Joanne</forename>
+                <surname>Trautmann Banks</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1975</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1990"
+            corresp="http://zotero.org/users/11267805/items/BL2NV6AP">
+            <monogr>
+              <title level="m">A Passionate Apprentice: The Early Journals</title>
+              <title type="short">Passionate Apprentice</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Mitchell</forename>
+                <surname>Leaska</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1990</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-keni">
         <placeName>Kenilworth</placeName>
@@ -12961,24 +13815,159 @@
         <rs xml:id="psn-espe">Edmund Spenser</rs> appears briefly (and perhaps anachronistically) in the narrative (ii.114), though not in relation to any of the pageants. 
           
         LLVW contains a 1821 edition of Scott's historical romance, though no reading notes on it remain extant. Woolf may also have known about the contemporaneous Kenilworth Castle Pageant, held 08-15 July 1939 (cf. Bartie et al.). This was a sizeable affair, attracting some 20,000 spectators over its week-long run, and was reported in the <hi rend="italics">Manchester Guardian</hi> and the London <hi rend="italics">Times</hi>.</note>
+        <idno type="wikidata"></idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="webpage" xml:id="Bartie"
+            corresp="http://zotero.org/users/11267805/items/I7SDSBEL">
+            <analytic>
+              <title level="a">The Kenilworth Castle Pageant</title>
+              <author>
+                <forename>Angela</forename>
+                <surname>Bartie</surname>
+              </author>
+              <author>
+                <forename>Linda</forename>
+                <surname>Fleming</surname>
+              </author>
+              <author>
+                <forename>Tom</forename>
+                <surname>Hulme</surname>
+              </author>
+              <author>
+                <forename>Mark</forename>
+                <surname>Freeman</surname>
+              </author>
+              <author>
+                <forename>Alex</forename>
+                <surname>Hutton</surname>
+              </author>
+              <author>
+                <forename>Paul</forename>
+                <surname>Readman</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Redress of the Past: Historical Pageants in Britain</title>
+              <imprint>
+                <date />
+                <note type="accessed">2024-10-07</note>
+                <note type="url">https://historicalpageants.ac.uk/pageants/1104/</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="King2003"
+            corresp="http://zotero.org/users/11267805/items/TM946PPU">
+            <monogr>
+              <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+              <author>
+                <forename>Julia</forename>
+                <surname>King</surname>
+              </author>
+              <author>
+                <forename>Laila</forename>
+                <surname>Miletic-Vejzovic</surname>
+              </author>
+              <imprint>
+                <pubPlace>Pullman, WA</pubPlace>
+                <publisher>Washington State University Press</publisher>
+                <date>2003</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Scott1821"
+            corresp="http://zotero.org/users/11267805/items/RTNB8ASP">
+            <monogr>
+              <title level="m">Kenilworth: a romance.</title>
+              <extent>3</extent>
+              <author>
+                <forename>Walter</forename>
+                <surname>Scott</surname>
+              </author>
+              <imprint>
+                <pubPlace>Edinburgh</pubPlace>
+                <publisher>Printed for Archibald Constable and Co.; and John Ballantyne, Edinburgh;
+                  and Hurst, Robinson, and Co., London.</publisher>
+                <date>1821</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-knol">
         <placeName>Knole</placeName>
         <region>Kent, England</region>
         <geo decls="#wgs">51.266191 0.205361</geo>
         <note>A house and estate in Sevenoaks, Kent, and the ancestral home of the Sackville-West family, as well as the fictional home of Orlando. Lady <rs xml:id="psn-aclif">Anne Clifford</rs> was mistress of Knole from 1509 onwards through her marriage to Richard Sackville. One important manuscript for her diary was copied and stored at Knole, and Vita Sackville-West used the Knole manuscript as copy-text for her edition of Clifford's diary, which Woolf cites throughout the 'Anon' drafts (cf. Malay 8).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1285144</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Malay2018"
+          corresp="http://zotero.org/users/11267805/items/7YXCMH9T">
+          <monogr>
+            <title level="m">Anne Clifford's Autobiographical Writing, 1590-1676</title>
+            <idno type="ISBN">978-1-5261-2515-6</idno>
+            <author>
+              <forename>Jessica L.</forename>
+              <surname>Malay</surname>
+            </author>
+            <imprint>
+              <pubPlace>Manchester</pubPlace>
+              <publisher>Manchester University Press</publisher>
+              <date>2018</date>
+              <note type="url">
+                http://ebookcentral.proquest.com/lib/oxford/detail.action?docID=5446754</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-rlea">
         <placeName>Lea, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.910814 -0.460085</geo>
         <note>A tributary of the River Thames that flows from its source in Luton, Bedfordshire, and south through the Chiltern hills and through east London, where it joins the Thames.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q10675?wprov=acrw1_0</idno>
       </place>
       <place xml:id="pla-lond">
         <placeName>London</placeName>
         <region>England</region>
         <geo decls="#wgs">51.489766 -0.088180</geo>
-        <note>Capital of England and the United Kingdom. VW spent much of her life here (whether in Kensington, Richmond, or Bloomsbury), as did her family and most of her social circle, and Bradshaw calls Woolf 'synonymous with' London (229). Most of her novels (bar <hi rend="italics">TL</hi> and <hi rend="italics">BA</hi>) have scenes set in the city, and as the locus for early modern theatre, print culture, and court, London is a place of vital importance to Woolf's literary history.</note>
+        <note>Capital of England and the United Kingdom. VW spent much of her life here (whether in Kensington, Richmond, or Bloomsbury), as did her family and most of her social circle, and Bradshaw calls Woolf 'synonymous with' London (229). All of her novels (bar <hi rend="italics">TL</hi> and <hi rend="italics">BA</hi>) have scenes set in the city. As the locus for early modern theatre, print culture, and court, London is a place of vital importance to Woolf's literary history.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q84</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Randall2012"
+            corresp="http://zotero.org/users/11267805/items/UX3EXILF">
+            <analytic>
+              <title level="a">Woolf’s London, London’s Woolf</title>
+              <author>
+                <forename>David</forename>
+                <surname>Bradshaw</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">Virginia Woolf in Context</title>
+              <idno type="ISBN">978-1-107-00361-3</idno>
+              <editor>
+                <forename>Bryony</forename>
+                <surname>Randall</surname>
+              </editor>
+              <editor>
+                <forename>Jane</forename>
+                <surname>Goldman</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <biblScope unit="page">229-242</biblScope>
+                <publisher>Cambridge University Press</publisher>
+                <date>2012</date>
+                <note type="url">
+                  https://www.cambridge.org/core/product/195113F3497151FE37966A05E0A5B69E</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-lobr">
         <placeName>London Bridge</placeName>
