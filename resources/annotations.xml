@@ -13173,6 +13173,42 @@
         <geo decls="#wgs">51.280028 1.080253</geo>
         <note>A medieval city in Kent, southern England. Canterbury Cathedral was founded in 597 (though the structure is largely twelfth century) and is the locus of the saint's cult dedicated to Thomas à Beckett, the 'turbulent priest' Henry II assassinated. In <rs xml:id="psn-gcha">Chaucer</rs>'s <rs xml:id="lit-cant">Canterbury Tales</rs>, the pilgrims journey to the cathedral to pray at Beckett's shrine.</note>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q29303</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Chaucer2008"
+            corresp="http://zotero.org/users/11267805/items/Q9G56XYB">
+            <analytic>
+              <title level="a">The Canterbury Tales. General Prologue</title>
+              <author>
+                <forename>Geoffrey</forename>
+                <surname>Chaucer</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The riverside Chaucer</title>
+              <idno type="ISBN">978-0-19-955209-2</idno>
+              <editor>
+                <forename>Larry Dean</forename>
+                <surname>Benson</surname>
+              </editor>
+              <editor>
+                <forename>Christopher</forename>
+                <surname>Cannon</surname>
+              </editor>
+              <editor>
+                <forename>Fred N.</forename>
+                <surname>Robinson</surname>
+              </editor>
+              <edition>Third edition</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <biblScope unit="page">470-585</biblScope>
+                <publisher>Oxford University Press</publisher>
+                <date>2008</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-carl">
         <placeName>Carlisle</placeName>
@@ -13973,25 +14009,106 @@
         <placeName>London Bridge</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.507961 -0.087622</geo>
-        <note>A historical bridge crossing the River Thames, linking the City of London and <rs xml:id="pla-sout">Southwark</rs>. There has been a bridge at this location since at least 1209. In <hi rend="italics">O</hi>, the Thames at London Bridge has frozen 'to a depth of twenty fathoms' and an 'old bumboat woman, who was carrying her fruit to market on the Surrey side' has frozen solid there (33), while centuries later, the ship on which Orlando returns to England weighs anchor close to the bridge (154).</note>
+        <note>A bridge crossing the River Thames, linking the City of London and <rs xml:id="pla-sout">Southwark</rs>. There has been a bridge at this location since at least 1209 (the one Woolf would have known was opened in 1831 and transplanted to Lake Havasu City, Arizona, in 1971). In <hi rend="italics">O</hi>, the Thames at London Bridge has frozen 'to a depth of twenty fathoms' and an 'old bumboat woman, who was carrying her fruit to market on the Surrey side' has frozen solid there (33), while centuries later, the ship on which Orlando returns to England weighs anchor close to the bridge (154).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q56739974</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2018b"
+          corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+          <monogr>
+            <title level="m">Orlando: A Biography</title>
+            <idno type="ISBN">978 0 5218 7896 8</idno>
+            <author>
+              <forename>Virginia</forename>
+              <surname>Woolf</surname>
+            </author>
+            <editor>
+              <forename>Suzanne</forename>
+              <surname>Raitt</surname>
+            </editor>
+            <editor>
+              <forename>Ian</forename>
+              <surname>Blyth</surname>
+            </editor>
+            <imprint>
+              <publisher>Cambridge University Press</publisher>
+              <date>2018</date>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+          </series>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-loth">
         <placeName>Lothian</placeName>
         <region>Scotland</region>
         <geo decls="#wgs">55.951987 -3.188438</geo>
         <note>Historic province of Scotland encompassing Edinburgh, the capital, and, of note here, <rs xml:id="pla-nber">North Berwick</rs>. The witch trial that Woolf relates happened in North Berwick, and the witchy happenings that the trial sought to uncover were carried out both in North Berwick and in Lothian more broadly. Cf. entry on North Berwick for more details.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q642024</idno>
       </place>
       <place xml:id="pla-lund">
         <placeName>Lundy</placeName>
         <region>Devon, England</region>
         <geo decls="#wgs">51.176276 -4.667988</geo>
         <note>Lundy is a small island in the Bristol Channel, off the coast of Devon, England, inhabited by a flock of puffins and other seabirds. It is unclear why VW mentions Lundy in this context, though in <rs xml:id="lit-macb">Macbeth</rs>, the First Witch says that she will sail 'in a sieve' to Aleppo (<hi rend="italics">Macb</hi> I.iii, l. 8).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q324812</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Shakespeare2006"
+            corresp="http://zotero.org/users/11267805/items/7JAVRXJN">
+            <monogr>
+              <title level="m">Macbeth</title>
+              <idno type="ISBN">978-1-903436-48-6</idno>
+              <author>
+                <forename>William</forename>
+                <surname>Shakespeare</surname>
+              </author>
+              <editor>
+                <forename>Kenneth</forename>
+                <surname>Muir</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Arden Shakespeare</publisher>
+                <date>2006</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Arden Shakespeare. Third series</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-merm">
         <placeName>Mermaid, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.513003 -0.095277</geo>
-        <note>A seventeenth century tavern on <rs xml:id="pla-lond">London</rs>'s <rs xml:id="pla-chea">Cheapside</rs>. The tavern continues to have literary-historical resonances: playwright and poet <rs xml:id="psn-bjon">Ben Jonson</rs> was among its frequenters, as was <rs xml:id="psn-fbeau">Francis Beaumont</rs> and his collaborator John Fletcher. A drinking society named the 'Fraternitie of Sireniacal gentlemen' are also associated with the tavern: O'Callaghan suggests that John Donne was part of this group. Popular legend also places <rs xml:id="psn-wral">Sir Walter Raleigh</rs>, <rs xml:id="psn-tdek">Thomas Dekker</rs> and one <rs xml:id="psn-wsha">William Shakespeare</rs> here as part of a quasi-mythological Mermaids Club, but O'Callaghan is sceptical of this club's existence.</note>
+        <note>A seventeenth century tavern on <rs xml:id="pla-lond">London</rs>'s <rs xml:id="pla-chea">Cheapside</rs>. The tavern had literary-historical resonances: playwright and poet <rs xml:id="psn-bjon">Ben Jonson</rs> was among its frequenters, as was <rs xml:id="psn-fbeau">Francis Beaumont</rs> and his collaborator John Fletcher. A drinking society named the 'Fraternitie of Sireniacal gentlemen' are also associated with the tavern: O'Callaghan suggests that John Donne was part of this group. Popular legend also places <rs xml:id="psn-wral">Sir Walter Raleigh</rs>, <rs xml:id="psn-tdek">Thomas Dekker</rs> and one <rs xml:id="psn-wsha">William Shakespeare</rs> here as part of a quasi-mythological Mermaids Club, but O'Callaghan is sceptical of this club's existence.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q6819863</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="dictionaryEntry" xml:id="O_Callaghan2006"
+          corresp="http://zotero.org/users/11267805/items/RL27GQ25">
+          <analytic>
+            <title level="a">Patrons of the Mermaid tavern (act. 1611)</title>
+            <author>
+              <forename>Michelle</forename>
+              <surname>O'Callaghan</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Oxford Dictionary of National Biography</title>
+            <imprint>
+              <publisher>Oxford University Press</publisher>
+              <date>2006</date>
+              <note type="url">
+                https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-95279</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-norf">
         <placeName>Norfolk</placeName>
@@ -14000,12 +14117,273 @@
         <note>A county in the east of England with many Woolfian resonances. VW most of August 1906 in Norfolk when the Stephens rented the Elizabethan manor house Blo' Norton Hall, in a remote part of the county: it was '7 miles from a railway; &amp; every mile seems to draw a thicker curtain than the last between you &amp; the world' (<hi rend="italics">PA</hi> 310). While at Blo' Norton, she wrote the short story 'The Journal of Mistress Joan Martyn,' set in the locale. Some decades later, in a letter to Vanessa Bell dated 25 May 1928 VW writes that she and LW are considering selling Monks House after 'some hanky panky with the agent behind [their] backs' leads to the sale of their terrace and the threat of building work thereon: VW 'see[s] from advertisements one can get the most ravishing old houses with gardens and orchards in Dorset, Suffolk or Norfolk for a mere song' (<hi rend="italics">L</hi>3 500, §. 1895). They drive along the north Norfolk coast in March 1932: VW's joy in the 'lovely lonely coast' between King's Lynn and Cromer is tempered by her grief at the recent death by suicide of Dora Carrington (<hi rend="italics">D</hi>4 84).
           
         In <hi rend="italics">VO</hi>, St John Hirst comes from Norfolk 'the son of the Reverend Sidney Hirst, vicar of Great Wappyng in Norfolk' and later refutes the rumour that he has 'Jewish blood in [him]' as his family has 'been in Norfolk, Hirst of Hirstborne Hall, for three centuries at least' (160, 232), while in Woolf's next novel, Ralph Denham takes a cottage in Norfolk (310) but does not leave London before the novel's end. The county is part of the mental landscape of several characters in <hi rend="italics">MD</hi>. Richard Dalloway is not a fan of his wife's parties: in an aside we learn that 'to do Richard justice he would have been happier farming in Norfolk' (69), and his thoughts turn to Norfolk and its 'soft warm wind' as he shops for jewelery with Hugh Whitbread (101). Among the credits to Whitbread's name is 'the protection of owls in Norfolk' (92), while Mrs Hilbery questions whether 'some Mongol had been wrecked on the coast of Norfolk [and] had mixed with the Dalloway ladies' (110). Captain Frederick Marryat, whose writings and <hi rend="italics">Life and Letters</hi> Woolf reviews in the 1935 essay 'The Captain's Death Bed' died in Langham, ' "two miles from the sea, on the coast of Norfolk'" (<hi rend="italics">E</hi>6 65). <rs xml:id="psn-tbro">Sir Thomas Browne</rs> lived in the county town, <rs xml:id="pla-norw">Norwich</rs> (cf. entry on Browne for more details), and the <rs xml:id="lit-past">Paston</rs> family took their name from the town of Paston, on the north Norfolk coast (cf. 'The Pastons and Chaucer,' <hi rend="italics">E</hi>4 20-38).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q67535211</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Woolf1989b"
+            corresp="http://zotero.org/users/11267805/items/845QZXE8">
+            <analytic>
+              <title level="a">[The Journal of Mistress Joan Martyn]</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+              <idno type="ISBN">070120852X : ¹20.00</idno>
+              <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+              <editor>
+                <forename>Susan</forename>
+                <surname>Dick</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">33-62</biblScope>
+                <publisher>Harcourt, Inc.</publisher>
+                <date>1989</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2009-voyage"
+            corresp="http://zotero.org/users/11267805/items/YVKSD7ZH">
+            <monogr>
+              <title level="m">The Voyage Out</title>
+              <idno type="ISBN">9780199539307 (pbk.) : ¹8.99 0199539308 (pbk.) : ¹8.99</idno>
+              <idno type="callNumber">823.912 22 British Library HMNTS H.2010/.8012</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Lorna</forename>
+                <surname>Sage</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Oxford University Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2015"
+            corresp="http://zotero.org/users/11267805/items/YSXE2L5M">
+            <monogr>
+              <title level="m">Mrs. Dalloway</title>
+              <idno type="ISBN">978-1-107-02878-4</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Anne E.</forename>
+                <surname>Fernald</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2015</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986c"
+            corresp="http://zotero.org/users/11267805/items/AIY4SPJB">
+            <analytic>
+              <title level="a">The Pastons and Chaucer</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Essays of Virginia Woolf</title>
+              <extent>6</extent>
+              <editor>
+                <forename>Andrew</forename>
+                <surname>McNeillie</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="volume">IV</biblScope>
+                <biblScope unit="page">20-38</biblScope>
+                <publisher>The Hogarth Press</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986av"
+            corresp="http://zotero.org/users/11267805/items/56YC3PCD">
+            <analytic>
+              <title level="a">The Captain's Death Bed</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Essays of Virginia Woolf</title>
+              <extent>6</extent>
+              <editor>
+                <forename>Andrew</forename>
+                <surname>McNeillie</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="volume">VI</biblScope>
+                <biblScope unit="page">64-73</biblScope>
+                <publisher>The Hogarth Press</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1990"
+            corresp="http://zotero.org/users/11267805/items/BL2NV6AP">
+            <monogr>
+              <title level="m">A Passionate Apprentice: The Early Journals</title>
+              <title type="short">Passionate Apprentice</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Mitchell</forename>
+                <surname>Leaska</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1990</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1975"
+            corresp="http://zotero.org/users/11267805/items/L3XAHC3Y">
+            <monogr>
+              <title level="m">The Letters of Virginia Woolf</title>
+              <title type="short">Letters</title>
+              <extent>6</extent>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Nigel</forename>
+                <surname>Nicolson</surname>
+              </editor>
+              <editor>
+                <forename>Joanne</forename>
+                <surname>Trautmann Banks</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1975</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf1977"
+            corresp="http://zotero.org/users/11267805/items/8Q482NMF">
+            <monogr>
+              <title level="m">The Diary of Virginia Woolf</title>
+              <title type="short">Diary</title>
+              <idno type="ISBN">0701204249 (v. 1)</idno>
+              <idno type="callNumber">PR6045.O72 Z494 1977b</idno>
+              <extent>5</extent>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Anne Olivier</forename>
+                <surname>Bell</surname>
+              </editor>
+              <editor>
+                <forename>Quentin</forename>
+                <surname>Bell</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Penguin</publisher>
+                <date>1977</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-norw">
         <placeName>Norwich</placeName>
         <region>Norfolk, England</region>
         <geo decls="#wgs">52.628596 1.296451</geo>
         <note>The county town and largest city in <rs xml:id="pla-norf">Norfolk</rs>, East Anglia. It was home to <rs xml:id="psn-tbro">Sir Thomas Browne</rs> (cf. entry on Browne for more details), and in the <hi rend="italics">CR1</hi> essay 'The Pastons and Chaucer,' Woolf writes that John Paston was buried roughly twenty miles north of Norwich (<hi rend="italics">E</hi>4 20) and that William Paston 'retained' Norwich monks to 'pray for his soul "for ever"' (23). The early short story 'The Journal of Mistress Joan Martyn' is set in the vicinity of Norwich: the frame narrative takes place as historian Rosamond Merridew is making her way along the Thetford road from Norwich to East Harling (<hi rend="italics">CSF</hi> 35) while the titular Joan Martyn spent her early life in a hall along this road (41-62).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q130191</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Woolf1989b"
+            corresp="http://zotero.org/users/11267805/items/845QZXE8">
+            <analytic>
+              <title level="a">[The Journal of Mistress Joan Martyn]</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+              <idno type="ISBN">070120852X : ¹20.00</idno>
+              <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+              <editor>
+                <forename>Susan</forename>
+                <surname>Dick</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">33-62</biblScope>
+                <publisher>Harcourt, Inc.</publisher>
+                <date>1989</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986c"
+            corresp="http://zotero.org/users/11267805/items/AIY4SPJB">
+            <analytic>
+              <title level="a">The Pastons and Chaucer</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Essays of Virginia Woolf</title>
+              <extent>6</extent>
+              <editor>
+                <forename>Andrew</forename>
+                <surname>McNeillie</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="volume">IV</biblScope>
+                <biblScope unit="page">20-38</biblScope>
+                <publisher>The Hogarth Press</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-nber">
         <placeName>North Berwick</placeName>
@@ -14018,120 +14396,974 @@
         Agnis Tompson confessed that she was among some 200 who 'went by Sea, each one in a Riddle or Cive [...] to the Kerke of North Barrick in Lowthian' (7) where they took part in a Sabbat. Moreover, Tompson confessed that she was among those who christened a cat, 'bound to each part of that Cat, the cheefest partes of a dead man, and several ioints of his bodie, and that in the night following the said Cat was conveyed into the midst of the Sea' (16-7). This was the 'cause that the Kinges Maiesties Ship at his comming foorth of Denmarke, had a contrary winde to the rest of his Ships' (17). The 'contrary winde' that 'Newes' discusses delayed King James's marriage to Anne of Denmark, and was popularly attributed to witchcraft (Willumsen). 
         
         James VI wrote a three-volume dialogue titled <hi rend="italics">Daemonologie</hi> on sorcery, witchcraft and magic. LLVW contains a 1924 volume that reprints both 'Newes...' and <hi rend="italics">Daemonologie</hi>. VW notes both titles separately as part of a reading list for her literary history (RN 37), though if she took notes on them then they do not survive.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1012054</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Anonymous1591"
+            corresp="http://zotero.org/users/11267805/items/G5PH95EQ">
+            <monogr>
+              <title level="m">Newes from Scotland, declaring the damnable life and death of doctor
+                Fian, a notable sorcerer, who was burned at Edenbrough in Ianuary last, 1591.</title>
+              <author>
+                <name>Anonymous</name>
+              </author>
+              <imprint>
+                <pubPlace>Lond</pubPlace>
+                <publisher>for W. Wright</publisher>
+                <date>1591</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="webpage" xml:id="Barrett2024"
+            corresp="http://zotero.org/users/11267805/items/EA5XEM3G">
+            <analytic>
+              <title level="a">WoolfNotes – Virginia Woolf’s Reading Notebooks</title>
+              <title type="short">WoolfNotes</title>
+              <author>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </author>
+              <author>
+                <forename>Brenda R.</forename>
+                <surname>Silver</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">WoolfNotes</title>
+              <imprint>
+                <date>2024</date>
+                <note type="accessed">2024-07-05</note>
+                <note type="url">http://www.woolfnotes.com/</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="James_I1924"
+            corresp="http://zotero.org/users/11267805/items/TU4AP3FQ">
+            <monogr>
+              <title level="m">King James, the First : Dæmonologie (1597). Newes from Scotland,
+                declaring the damnable life and death of Doctor Fian, a notable sorcerer who was
+                burned at Edenbrough in Ianuary last (1591)</title>
+              <author>
+                <name>James I</name>
+              </author>
+              <editor>
+                <forename>G. B. (George Bagshawe)</forename>
+                <surname>Harrison</surname>
+              </editor>
+              <editor>
+                <forename>James</forename>
+                <surname>Carmichael</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>John Lane</publisher>
+                <date>1924</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Bodley Head quartos ; [no. IX]</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="King2003"
+            corresp="http://zotero.org/users/11267805/items/TM946PPU">
+            <monogr>
+              <title level="m">The Library of Leonard and Virginia Woolf: A Short-Title Catalog</title>
+              <author>
+                <forename>Julia</forename>
+                <surname>King</surname>
+              </author>
+              <author>
+                <forename>Laila</forename>
+                <surname>Miletic-Vejzovic</surname>
+              </author>
+              <imprint>
+                <pubPlace>Pullman, WA</pubPlace>
+                <publisher>Washington State University Press</publisher>
+                <date>2003</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Willumsen2020"
+            corresp="http://zotero.org/users/11267805/items/XM7Y5FFK">
+            <analytic>
+              <title level="a">Witchcraft against Royal Danish Ships in 1589 and the Transnational
+                Transfer of Ideas</title>
+              <idno type="DOI">10.21083/irss.v45i0.5801</idno>
+              <author>
+                <forename>Liv Helene</forename>
+                <surname>Willumsen</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">International Review of Scottish Studies</title>
+              <idno type="ISSN">1923-5763, 1923-5755</idno>
+              <imprint>
+                <biblScope unit="volume">45</biblScope>
+                <biblScope unit="page">54-99</biblScope>
+                <date>2020</date>
+                <note type="accessed">2024-10-07T16:48:51Z</note>
+                <note type="url">https://www.irss.uoguelph.ca/index.php/irss/article/view/5801</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-oxfo">
         <placeName>Oxford</placeName>
         <region>Oxfordshire, England</region>
         <geo decls="#wgs">51.753423 -1.254019</geo>
         <note>A city in southern England, and home to one of England's two ancient universities (the other being <rs xml:id="pla-camb">Cambridge</rs>). These drafts focus on Oxford's long history as a locus of religious dissent in the fourteenth, fifteenth and sixteenth centuries, which was viewed as heresy by the authorities of the time. Dissenters discussed herein include <rs xml:id="psn-jwyc">John Wycliffe</rs> and <rs xml:id="psn-hlat">Hugh Latimer</rs>. Other figures from these drafts associated with Oxford include <rs xml:id="psn-rbur">Robert Burton</rs>, author of <rs xml:id="lit-anat">An Anatomy of Melancholy</rs>, and <rs xml:id="psn-acbr">A. C. Bradley</rs> who was Oxford Professor of Poetry. </note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q34217</idno>
       </place>
       <place xml:id="pla-pale">
         <placeName>Palestine</placeName>
         <region>Middle East</region>
         <geo decls="#wgs">N/A</geo>
-        <note>Not coterminous with the present-day Palestinian states: rather, this usage typically refers to the eastern Mediterranean more broadly, centred around the city of Jerusalem.</note>
+        <note>Not coterminous with present-day Palestine: rather, this usage typically refers to the eastern Mediterranean more broadly, centred around the city of Jerusalem.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q23792</idno>
       </place>
       <place xml:id="pla-pens">
         <placeName>Penshurst</placeName>
         <region>Kent, England</region>
         <geo decls="#wgs">51.174604 0.183672</geo>
         <note>The family seat of the Sidneys from the sixteenth century onwards and home to <rs xml:id="psn-psid">Sir Philip Sidney</rs>, his brother <rs xml:id="psn-rsid">Robert Sidney</rs> and, before her marriage, <rs xml:id="psn-mher">Mary Sidney Herbert</rs>. The stately home was a locus of courtly literary culture: in several fragments herein, VW figures its doorway as the portal to an incipient literary modernity. VW visited the house with Vita Sackville-West, meeting its contemporary inhabitants, on 14 June 1940, the day that German troops entered Paris and, according to Woolf, 'the first day that invasion becomes serious' (<hi rend="italics">D</hi>5 296-7).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1227477</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf1977"
+            corresp="http://zotero.org/users/11267805/items/8Q482NMF">
+            <monogr>
+              <title level="m">The Diary of Virginia Woolf</title>
+              <title type="short">Diary</title>
+              <idno type="ISBN">0701204249 (v. 1)</idno>
+              <idno type="callNumber">PR6045.O72 Z494 1977b</idno>
+              <extent>5</extent>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Anne Olivier</forename>
+                <surname>Bell</surname>
+              </editor>
+              <editor>
+                <forename>Quentin</forename>
+                <surname>Bell</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Penguin</publisher>
+                <date>1977</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-radw">
         <placeName>Radwinter</placeName>
         <region>Essex, England</region>
         <geo decls="#wgs">52.011355 0.340748</geo>
         <note>A parish in <rs xml:id="pla-esse">Essex</rs>, centred around a village of the same name. <rs xml:id="psn-whar">William Harrison</rs> was rector of this parish from 1591, recommended to the position by his patron <rs xml:id="psn-wcob">William Brooke, Lord Cobham</rs>.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1878744</idno>
       </place>
       <place xml:id="pla-rome">
         <placeName>Rome</placeName>
         <region>Lazio, Italy</region>
         <geo decls="#wgs">41.889851 12.488129</geo>
         <note>The seat of three regimes or powers relevant to VW's literary history: the Roman empire, the Catholic Church, and Mussolini's fascist Italy.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q220</idno>
       </place>
       <place xml:id="pla-rose">
         <placeName>Rose, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.5072 -0.09547</geo>
         <note>The Rose playhouse in London's <rs xml:id="pla-bank">Bankside</rs> was named after its location, in a former rose garden and a ' tennement then called the little rose wirth twoe gardens"' (cf. Chambers ii.405). The site was purchased by <rs xml:id="psn-phen">Philip Henslowe</rs> in 1585. It abutted several other tenements that would become playhouses: a lease refers to the <rs xml:id="pla-barg">Barge</rs>, <rs xml:id="pla-bell">Bell</rs> and <rs xml:id="pla-cock">Cock</rs> on its boundary, which 'lay "vppon the banke called Stewes"' (ii.405). At least two of Shakespeare's early plays were performed here, prior to the formation of the Lord Chamberlain's Men: Henslowe's diary records performances of <hi rend="italics">1 Henry VI</hi> and <hi rend="italics">Titus Andronicus</hi> from 1592-4 (cf. Gurr 365). Henslowe's diary attests that began building the playhouse in 1592 and provides some insight into the activities of the playhouse. Its foundations were excavated in 1989 and archaeological work at the site has evidenced the construction both of this specific theatre and others like it (Orrell and Gurr).</note>
+        <idno type="wikidata"></idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Gurr2009"
+            corresp="http://zotero.org/users/11267805/items/2PE25RWV">
+            <analytic>
+              <title level="a">Shakespeare's Playhouses</title>
+              <author>
+                <forename>Andrew</forename>
+                <surname>Gurr</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">A Companion to Shakespeare</title>
+              <idno type="ISBN">978-1-4051-6534-1</idno>
+              <author>
+                <forename>David Scott</forename>
+                <surname>Kastan</surname>
+              </author>
+              <imprint>
+                <biblScope unit="page">362-376</biblScope>
+                <date>2009</date>
+                <note type="accessed">2024-04-12</note>
+                <note type="url">https://doi.org/10.1111/b.9780631218784.1999.00023.x</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="dictionaryEntry" xml:id="zoteroItem_2RRHKDFI"
+            corresp="http://zotero.org/users/11267805/items/2RRHKDFI">
+            <analytic>
+              <title level="a">stew, n. I.4</title>
+            </analytic>
+            <monogr>
+              <title level="m">Oxford English Dictionary</title>
+              <imprint>
+                <publisher>Oxford University Press</publisher>
+                <date>2024</date>
+                <note type="url">https://doi.org/10.1093/OED/1021425139</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="journalArticle" xml:id="Orrell1989"
+            corresp="http://zotero.org/users/11267805/items/YYZ634W6">
+            <analytic>
+              <title level="a">What the Rose can tell us</title>
+              <idno type="DOI">10.1017/S0003598X00076390</idno>
+              <author>
+                <forename>John</forename>
+                <surname>Orrell</surname>
+              </author>
+              <author>
+                <forename>Andrew</forename>
+                <surname>Gurr</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Antiquity</title>
+              <idno type="ISSN">0003-598X</idno>
+              <imprint>
+                <biblScope unit="volume">63</biblScope>
+                <biblScope unit="issue">240</biblScope>
+                <biblScope unit="page">421-429</biblScope>
+                <date>1989</date>
+                <note type="url">
+                  https://www.cambridge.org/core/product/E6547E79795F723C95FB825640F362EF</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-sout">
         <placeName>Southwark</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.507721 -0.095336</geo>
         <note>District of London on the south bank of the Thames, across the river from the City of London and centred around <rs xml:id="pla-lobr">London Bridge</rs>. The <rs xml:id="pla-rose">Rose</rs> was the first playhouse to be built here in 1592, with several others, including the <rs xml:id="pla-glob">Globe</rs> following thereafter. In <rs xml:id="psn-gcha">Geoffrey Chaucer</rs>'s <rs xml:id="lit-cant">Canterbury Tales</rs>, the pilgrims set out from the Tabard Inn, in Southwark.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q730706</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="bookSection" xml:id="Chaucer2008"
+            corresp="http://zotero.org/users/11267805/items/Q9G56XYB">
+            <analytic>
+              <title level="a">The Canterbury Tales. General Prologue</title>
+              <author>
+                <forename>Geoffrey</forename>
+                <surname>Chaucer</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The riverside Chaucer</title>
+              <idno type="ISBN">978-0-19-955209-2</idno>
+              <editor>
+                <forename>Larry Dean</forename>
+                <surname>Benson</surname>
+              </editor>
+              <editor>
+                <forename>Christopher</forename>
+                <surname>Cannon</surname>
+              </editor>
+              <editor>
+                <forename>Fred N.</forename>
+                <surname>Robinson</surname>
+              </editor>
+              <edition>Third edition</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <biblScope unit="page">470-585</biblScope>
+                <publisher>Oxford University Press</publisher>
+                <date>2008</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-stal">
         <placeName>St Albans</placeName>
         <region>Hertfordshire, England</region>
         <geo decls="#wgs">51.754668 -0.336161</geo>
         <note>St Albans is a small cathedral city in Hertfordshire, to the northwest of London. St Albans Cathedral is the oldest site of continual Christian worship in the United Kingdom, and <rs xml:id="pla-gorh">Gorhambury House</rs>, several miles outside the city, was home to both <rs xml:id="psn-abac">Anne Bacon</rs> and her son, <rs xml:id="psn-fbac">Francis</rs>. In <rs xml:id="psn-tmal">Malory</rs>, it is the site of the final battle of Uther Pendragon, <rs xml:id="psn-kart">King Arthur</rs>'s father (Malory 27-8, cf. also Bruce 434).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q6226</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+            corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+            <monogr>
+              <title level="m">The Arthurian name dictionary</title>
+              <idno type="ISBN">978-0-8153-2865-0</idno>
+              <idno type="callNumber">942.014</idno>
+              <author>
+                <forename>Christopher W.</forename>
+                <surname>Bruce</surname>
+              </author>
+              <imprint>
+                <pubPlace>New York</pubPlace>
+                <publisher>Garland</publisher>
+                <date>1999</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Garland reference library of the humanities</title>
+              <biblScope unit="volume">2063</biblScope>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-stpa">
         <placeName>St Paul's Cathedral</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.513777 -0.098330</geo>
         <note>VW writes about this central <rs xml:id="pla-lond">London</rs> cathedral most sustainedly in 'Abbeys and Cathedrals,' the fourth of the six 'London Scene' essays she published in <hi rend="italics">Good Housekeeping</hi> magazine 1931-2 (<hi rend="italics">E</hi>5 301-6), contrasting it with the nearby <rs xml:id="pla-wmab">Westminster Abbey</rs>. She writes of the cathedral's 'colourless serenity' and its complete lack of mystery compared to the Abbey close by (302). In <hi rend="italic">Y</hi>'s 1914 chapter, Sara and Martin bump into one another on the cathedral's front steps and share a meal in a chop-house close by. In <hi rend="italics">O</hi>, the dome of St Paul's Cathedral is one of the first sights Orlando sees on her return to London, though not the building that she remembers: rather, she sees 'the dome of St. Paul's which Mr. Wren had built during her absence' (152). The older construction had been destroyed in the 1666 Great Fire of London and Wren had designed the new, domed, cathedral in the years that Orlando was absent.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q173882</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2018b"
+            corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+            <monogr>
+              <title level="m">Orlando: A Biography</title>
+              <idno type="ISBN">978 0 5218 7896 8</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Suzanne</forename>
+                <surname>Raitt</surname>
+              </editor>
+              <editor>
+                <forename>Ian</forename>
+                <surname>Blyth</surname>
+              </editor>
+              <imprint>
+                <publisher>Cambridge University Press</publisher>
+                <date>2018</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986ay"
+            corresp="http://zotero.org/users/11267805/items/C5BARNE8">
+            <analytic>
+              <title level="a">Abbeys and Cathedrals</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Essays of Virginia Woolf</title>
+              <extent>6</extent>
+              <editor>
+                <forename>Andrew</forename>
+                <surname>McNeillie</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="volume">V</biblScope>
+                <biblScope unit="page">301-6</biblScope>
+                <publisher>The Hogarth Press</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2012"
+            corresp="http://zotero.org/users/11267805/items/3AV85YKX">
+            <monogr>
+              <title level="m">The Years</title>
+              <title type="short">Years</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Anna</forename>
+                <surname>Snaith</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2012</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-ston">
         <placeName>Stonehenge</placeName>
         <region>Wiltshire, England</region>
         <geo decls="#wgs">51.178859 -1.826187</geo>
         <note>Prehistoric standing stone circle on Salisbury Plain, two miles from <rs xml:id="pla-ames">Amesbury</rs>. While staying in Salisbury, August 1903, VW visited Stonehenge twice with Vanessa Bell. She wrote a sketch in her diary on each occasion. In the first sketch, she writes that 'The singular, &amp; intoxicating charm of Stonehenge to me, &amp; to most I think, is that no one in the world can tell you anything about it. There are these great blocks of stone; [...] &amp; what more? Who piled them there &amp; when, &amp; for what purpose, no one in the world [...] can tell,' and calls the circle 'a piece of wreckage washed up from Oblivion.' Given that the culture that built Stonehenge left no written records, many of VW's questions remained unanswered or unanswerable. Later on she writes that the most 'attractive, &amp; I suppose most likely' theory about the megalith's purpose is that 'some forgotten people [...] built here a Temple where they worshipped the sun,' and conjectures that a fallen stone in the middle 'may have been an altar' on which 'the Priest of that savage people slaughtered his victim [...] in honour of the Sun God' (PA 199-200). In her second, briefer, sketch describing their second visit, she calls the megalith 'a kind of altar made of earth, on which the whole world might do sacrifice' (205). These early descriptions and suppositions are of a piece with her invocation of Stonehenge as a site of ancient ritual in M.54-8.</note>
+        <idno type="wikidata"></idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf1990"
+            corresp="http://zotero.org/users/11267805/items/BL2NV6AP">
+            <monogr>
+              <title level="m">A Passionate Apprentice: The Early Journals</title>
+              <title type="short">Passionate Apprentice</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Mitchell</forename>
+                <surname>Leaska</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1990</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-surb">
         <placeName>Surbiton</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.392431 -0.304227</geo>
         <note>A south-western <rs xml:id="pla-lond">London</rs> suburb, south of the Thames and across the river from Hampton Court Park.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q2453259</idno>
       </place>
       <place xml:id="pla-swan">
         <placeName>Swan, The</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.507587 -0.102729</geo>
         <note>This playhouse stood at the western end of the <rs xml:id="pla-bank">Bankside</rs>. It held performances as early as 1596 (Chambers ii.412) and is last attested to in 1637 as ' "fallen to decay and like a dying swanne hanging down her head seem[ing] to sing her own dierge"' (cf. Chambers ii.414).</note>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Chambers2009"
+            corresp="http://zotero.org/users/11267805/items/P96S7P9J">
+            <monogr>
+              <title level="m">The Elizabethan stage</title>
+              <idno type="ISBN">978-0-19-956749-2 978-0-19-956747-8</idno>
+              <extent>IV</extent>
+              <author>
+                <forename>Edmund K.</forename>
+                <surname>Chambers</surname>
+              </author>
+              <edition>Repr</edition>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <publisher>Clarendon Press</publisher>
+                <date>2009</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-towe">
         <placeName>Tower of London</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.508061 -0.076110</geo>
         <note>Woolf refers to this Norman keep infrequently in her work. It is one of the first sights that Orlando sees on her return to London (<hi rend="italics">O</hi> 152), while in the 1940 short story 'The Legacy,' <rs xml:id="psn-acla">Angela Clandon</rs> writes in her diary that she visited the castle with 'B.M.' (<hi rend="italics">CSF</hi> 285). The tower sits at the western extremity of London's historic docklands and in 'The Docks of London' (1931), the first of the six 'London Scene' essays VW wrote for <hi rend="italics">Good Housekeeping</hi>, Woolf describes it as 'the knot, the clue, the hub of all those scattered miles of skeleton desolation and ant-like activity' (<hi rend="italics">E</hi>5 277).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q62378</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2018b"
+            corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+            <monogr>
+              <title level="m">Orlando: A Biography</title>
+              <idno type="ISBN">978 0 5218 7896 8</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Suzanne</forename>
+                <surname>Raitt</surname>
+              </editor>
+              <editor>
+                <forename>Ian</forename>
+                <surname>Blyth</surname>
+              </editor>
+              <imprint>
+                <publisher>Cambridge University Press</publisher>
+                <date>2018</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986az"
+            corresp="http://zotero.org/users/11267805/items/522AIEQG">
+            <analytic>
+              <title level="a">The Docks of London</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Essays of Virginia Woolf</title>
+              <extent>6</extent>
+              <editor>
+                <forename>Andrew</forename>
+                <surname>McNeillie</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="volume">V</biblScope>
+                <biblScope unit="page">275-82</biblScope>
+                <publisher>The Hogarth Press</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1989c"
+            corresp="http://zotero.org/users/11267805/items/IAEKT739">
+            <analytic>
+              <title level="a">The Legacy</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Complete Shorter Fiction of Virginia Woolf</title>
+              <idno type="ISBN">070120852X : ¹20.00</idno>
+              <idno type="callNumber">823.912 19 British Library HMNTS YC.1989.b.5561</idno>
+              <editor>
+                <forename>Susan</forename>
+                <surname>Dick</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">281-287</biblScope>
+                <publisher>Harcourt, Inc.</publisher>
+                <date>1989</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-wmab">
         <placeName>Westminster Abbey</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.499420 -0.127330</geo>
         <note>VW writes about this Anglican place of worship in 'Abbeys and Cathedrals' (1932), the fourth of the six 'London Scene' essays she published in <hi rend="italics">Good Housekeeping</hi> magazine 1931-2 (<hi rend="italics">E</hi>5 301-6). She contrasts it to <rs xml:id="pla-stpa">St Paul's Cathedral</rs>: whereas St Paul's Cathedral is 'spacious and serene,' Westminster Abbey is 'narrow and pointed, worn, restless and animated' (301) and far from being silent, the dead interred there, the 'Kings and Queens, poets and statesman still act their parts and are not suffered to turn quietly to dust' (302). It is among the first sights that Orlando sees on her return to <rs xml:id="pla-lond">London</rs> (<hi rend="italics">O</hi> 152). The narrator of <hi rend="italics">Room</hi> tells her audience that '[a]ll women together ought to let flowers fall upon the tomb of Aphra Behn, which is, most scandalously but rather appropriately, in Westminster Abbey' (60). Behn is interred in the abbey, though not in Poets' Corner, where a number of writers relevant to the 'Anon' fragments are either buried or memorialised, including (<hi rend="italics">inter alia</hi>) <rs xml:id="psn-gcha">Chaucer</rs>, <rs xml:id="psn-stco">Coleridge</rs>, <rs xml:id="psn-bjon">Ben Jonson</rs>, <rs xml:id="psn-sjoh">Samuel Johnson</rs>, <rs xml:id="psn-cmar">Marlowe</rs> (disputed), and <rs xml:id="psn-wsha">Shakespeare</rs>.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q5933</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf2018b"
+            corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+            <monogr>
+              <title level="m">Orlando: A Biography</title>
+              <idno type="ISBN">978 0 5218 7896 8</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Suzanne</forename>
+                <surname>Raitt</surname>
+              </editor>
+              <editor>
+                <forename>Ian</forename>
+                <surname>Blyth</surname>
+              </editor>
+              <imprint>
+                <publisher>Cambridge University Press</publisher>
+                <date>2018</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1986ay"
+            corresp="http://zotero.org/users/11267805/items/C5BARNE8">
+            <analytic>
+              <title level="a">Abbeys and Cathedrals</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">The Essays of Virginia Woolf</title>
+              <extent>6</extent>
+              <editor>
+                <forename>Andrew</forename>
+                <surname>McNeillie</surname>
+              </editor>
+              <editor>
+                <forename>Stuart N.</forename>
+                <surname>Clarke</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="volume">V</biblScope>
+                <biblScope unit="page">301-6</biblScope>
+                <publisher>The Hogarth Press</publisher>
+                <date>1986</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-west">
         <placeName>Westmorland</placeName>
         <region>Cumbria, England</region>
         <geo decls="#wgs">54.328440 -2.746362</geo>
         <note>Historic county in the north of England which now forms part of Cumbria. <rs xml:id="psn-aclif">Anne Clifford</rs> inherited her father's estates in Westmorland, though not after a lengthy legal struggle. In so doing, she became a wealthy landowner in her own right. Clifford's diary makes reference to her active role as landowner, collecting rents and pursuing lawsuits against her tenants.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q23326</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Clifford1923"
+            corresp="http://zotero.org/users/11267805/items/8ZM9L2T6">
+            <monogr>
+              <title level="m">The Diary of the Lady Anne Clifford: With an Introductory Note by V.
+                Sackville-West</title>
+              <author>
+                <forename>Anne</forename>
+                <surname>Clifford</surname>
+              </author>
+              <editor>
+                <forename>Vita</forename>
+                <surname>Sackville-West</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Heinemann</publisher>
+                <date>1923</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-whit">
         <placeName>Whitehall</placeName>
         <region>London, England</region>
         <geo decls="#wgs">51.503504 -0.126147</geo>
         <note>A street in Westminster, <rs xml:id="pla-lond">London</rs> leading from Trafalgar Square to the Houses of Parliament. In Woolf's time and contemporaneously, many departments of the British Civil Service are located here, and as such it has become a metonym for the Civil Service more broadly: cf. for instance, Woolf's multiple uses of the term in <hi rend="italics">TG</hi>. Within the timeframe that the 'Reader' fragments describe, Whitehall was the site of a palace occupied by British royals from <rs xml:id="psn-hen8">Henry VIII</rs>'s reign to its near-total destruction by fire in 1698. It is to this palace that <rs xml:id="psn-eliz">Elizabeth I</rs> summons the young Orlando (<hi rend="italics">O</hi> 23). In <hi rend="italics">MD</hi>, Peter Walsh watches a procession of '[b]oys in uniform' march up Whitehall to lay a wreath at the Cenotaph (46). <hi rend="italics">BA</hi> refers to this street in its allusion to a sexual assault that took place at Horse Guards Parade, a barracks on Whitehall (<hi rend="italics">BA</hi> 15 cf. Clarke 3-4). M111, set 3 of 3 [The Reader: Anonymity was a great possession] contains a draft of this portion of <hi rend="italics">BA</hi> at fol. 5v (cf. Phillips 198-207 for analysis of this folio).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q214820</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="journalArticle" xml:id="Phillips2022"
+            corresp="http://zotero.org/users/11267805/items/PJEQLM9Y">
+            <analytic>
+              <title level="a">How Should One Read “The Reader”? New Approaches to Virginia Woolf’s
+                Late Archive</title>
+              <idno type="DOI">10.14434/tc.v14i2.33658</idno>
+              <author>
+                <forename>Joshua</forename>
+                <surname>Phillips</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="j">Textual Cultures</title>
+              <imprint>
+                <biblScope unit="volume">14</biblScope>
+                <biblScope unit="issue">2</biblScope>
+                <biblScope unit="page">195-219</biblScope>
+                <date>2022</date>
+                <note type="url">
+                  https://scholarworks.iu.edu/journals/index.php/textual/article/view/33658</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2015"
+            corresp="http://zotero.org/users/11267805/items/YSXE2L5M">
+            <monogr>
+              <title level="m">Mrs. Dalloway</title>
+              <idno type="ISBN">978-1-107-02878-4</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Anne E.</forename>
+                <surname>Fernald</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2015</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2018b"
+            corresp="http://zotero.org/users/11267805/items/FRCNADHA">
+            <monogr>
+              <title level="m">Orlando: A Biography</title>
+              <idno type="ISBN">978 0 5218 7896 8</idno>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Suzanne</forename>
+                <surname>Raitt</surname>
+              </editor>
+              <editor>
+                <forename>Ian</forename>
+                <surname>Blyth</surname>
+              </editor>
+              <imprint>
+                <publisher>Cambridge University Press</publisher>
+                <date>2018</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1993b"
+            corresp="http://zotero.org/users/11267805/items/MQSQSC8U">
+            <analytic>
+              <title level="a">Three Guineas</title>
+              <title type="short">TG</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">A Room of One's Own and Three Guineas</title>
+              <editor>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">117-272</biblScope>
+                <publisher>Penguin</publisher>
+                <date>1993</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Woolf2011"
+            corresp="http://zotero.org/users/11267805/items/6P4JRNGH">
+            <monogr>
+              <title level="m">Between the Acts</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Mark</forename>
+                <surname>Hussey</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Cambridge</pubPlace>
+                <publisher>Cambridge University Press</publisher>
+                <date>2011</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">The Cambridge Edition of the Works of Virginia Woolf</title>
+            </series>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-wilt">
         <placeName>Wilton House</placeName>
         <region>Salisbury, England</region>
         <geo decls="#wgs">51.078023 -1.859372</geo>
         <note>A village in Wiltshire, England, which gives its name to a country house, which was the home of the Herbert family, the earls of Pembroke: <rs xml:id="psn-mher">Mary Herbert</rs> lived here after marrying Henry Herbert, third earl. VW visited Wilton on a family holiday to Wiltshire in 1903, writing two sketches about her trip. The first, 'Wilton – From Outside the Walls' describes the village of Wilton as 'more smug &amp; well pleased with itself than the majority of English villages [...] that sit in the shadow of a great house,' leading her to conclude that 'it is safe to say that the feudal spirit in England is not yet dead' (<hi rend="italics">PA</hi> 188-90). VW returned at a later date, when the house was open to the public and 'the public [could] enter the great gates of Wilton as freely as any Herbert in the land.' She was not altogether pleased with the excursion: 'Honestly, I was disappointed in my first view of a great house. I had imagined something more spacious &amp; more harmonious.' Returning to the diary entry a week later, she writes: 'I can find nothing very profitable to say about the beauties of Wilton' (196).</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q1429120</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Woolf1990"
+            corresp="http://zotero.org/users/11267805/items/BL2NV6AP">
+            <monogr>
+              <title level="m">A Passionate Apprentice: The Early Journals</title>
+              <title type="short">Passionate Apprentice</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+              <editor>
+                <forename>Mitchell</forename>
+                <surname>Leaska</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>The Hogarth Press</publisher>
+                <date>1990</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-winc">
         <placeName>Winchester</placeName>
         <region>Hampshire, England</region>
         <geo decls="#wgs">51.060710 -1.313290</geo>
-        <note>Winchester is a cathedral city in Hampshire, southern England. <rs xml:id="psn-tmal">Thomas Malory</rs> identifies Winchester as the site of <rs xml:id="pla-came">Camelot</rs>, perhaps influenced by the large <rs xml:id="obj-roun">round table</rs> kept in Winchester Castle (and which hangs in the castle's hall at the time of writing). In asserting the veracity of Arthurian legend and the historical reality of <rs xml:id="psn-kart">Arthur</rs>, <rs xml:id="psn-wcax">Caxton</rs> argues that 'at Winchester [one can see] the Round Table,' as well as 'many other things' (Caxton in Malory 2). Cf. Bruce 430, 496.</note>
+        <note>Winchester is a cathedral city in Hampshire, southern England. <rs xml:id="psn-tmal">Thomas Malory</rs> identifies Winchester as the site of <rs xml:id="pla-came">Camelot</rs>, perhaps influenced by the large <rs xml:id="obj-roun">round table</rs> kept in Winchester Castle (the table-top hangs in the castle's hall at the time of writing). In asserting the veracity of Arthurian legend and the historical reality of <rs xml:id="psn-kart">Arthur</rs>, <rs xml:id="psn-wcax">Caxton</rs> argues that 'at Winchester [one can see] the Round Table,' as well as 'many other things' (Caxton in Malory 2). Cf. Bruce 430, 496.</note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q172157</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Bruce1999"
+            corresp="http://zotero.org/users/11267805/items/F3UKVSLB">
+            <monogr>
+              <title level="m">The Arthurian name dictionary</title>
+              <idno type="ISBN">978-0-8153-2865-0</idno>
+              <idno type="callNumber">942.014</idno>
+              <author>
+                <forename>Christopher W.</forename>
+                <surname>Bruce</surname>
+              </author>
+              <imprint>
+                <pubPlace>New York</pubPlace>
+                <publisher>Garland</publisher>
+                <date>1999</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Garland reference library of the humanities</title>
+              <biblScope unit="volume">2063</biblScope>
+            </series>
+          </biblStruct>
+          <biblStruct type="book" xml:id="Malory1899"
+            corresp="http://zotero.org/users/11267805/items/YPWKPHHX">
+            <monogr>
+              <title level="m">Le morte Darthur: Sir Thomas Malory's book of King Arthur and of his
+                noble knights of the round table.: The text of Caxton</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Malory</surname>
+              </author>
+              <editor>
+                <forename>Edward</forename>
+                <surname>Strachey</surname>
+              </editor>
+              <editor>
+                <forename>William</forename>
+                <surname>Caxton</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London; New York</pubPlace>
+                <publisher>Macmillan</publisher>
+                <date>1899</date>
+                <note type="url">https://catalog.hathitrust.org/Record/009038156</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
       <place xml:id="pla-york">
         <placeName>Yorkshire</placeName>
         <region>Yorkshire, England</region>
         <geo decls="#wgs">53.962168 -1.083688</geo>
         <note>Ancient county in the north of England composed of the North, West and East Ridings of Yorkshire and centred on the city of York. In <rs xml:id="lit-woma">A Woman Killed with Kindness</rs>, <rs xml:id="psn-wend">Wendoll</rs> makes reference to Yorkshire (6.40), while <rs xml:id="psn-tmid">Thomas Middleton</rs> wrote a play called <hi rend="italics">A Yorkshire Tragedy</hi> (1606?, initially attributed to <rs xml:id="psn-wsha">William Shakespeare).</rs></note>
+        <idno type="wikidata">https://www.wikidata.org/wiki/Q163</idno>
+        <listBibl>
+          <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Heywood2017"
+            corresp="http://zotero.org/users/11267805/items/YNDK37HH">
+            <monogr>
+              <title level="m">A woman killed with kindness</title>
+              <idno type="ISBN">978-1-904271-58-1 978-1-4081-2997-5</idno>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Heywood</surname>
+              </author>
+              <editor>
+                <forename>Margaret Jane</forename>
+                <surname>Kidnie</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Arden Shakespeare</publisher>
+                <date>2017</date>
+              </imprint>
+            </monogr>
+            <series>
+              <title level="s">Arden early modern drama</title>
+            </series>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Middleton2007b"
+            corresp="http://zotero.org/users/11267805/items/FRWJRJQA">
+            <analytic>
+              <title level="a">A Yorkshire Tragedy</title>
+              <author>
+                <forename>Thomas</forename>
+                <surname>Middleton</surname>
+              </author>
+              <editor>
+                <forename>John</forename>
+                <surname>Lavagnino</surname>
+              </editor>
+              <editor>
+                <forename>Gary</forename>
+                <surname>Taylor</surname>
+              </editor>
+            </analytic>
+            <monogr>
+              <title level="m">Thomas Middleton: the Collected Works</title>
+              <idno type="ISBN">0-19-173310-5</idno>
+              <extent>2</extent>
+              <editor>
+                <forename>Stanley</forename>
+                <surname>Wells</surname>
+              </editor>
+              <imprint>
+                <pubPlace>Oxford</pubPlace>
+                <biblScope unit="volume">1</biblScope>
+                <biblScope unit="page">452-66</biblScope>
+                <publisher>Oxford University Press</publisher>
+                <date>2007</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </listBibl>
       </place>
     </listPlace>
   </body>
