@@ -67,17 +67,18 @@
    <text>
       <body><div><pb facs="#facs_" n="" xml:id="img_NaN"/>
             <ab facs="#facs__eSc_dummyblock_">
+               <p>
+                  <add>
+                     <l facs="#facs__eSc_line_5e3269e2">at this grave</l>
+                     <l facs="#facs__eSc_line_6c055159">hour, this</l>
+                     <l facs="#facs__eSc_line_2b25e214">[holiday?] <choice>
+                           <sic>shd</sic>
+                           <corr>should</corr>
+                        </choice></l>
+                  </add>
+               </p>
               <p>
-               <l facs="#facs__eSc_line_5e3269e2">at this grave</l>
-               <l facs="#facs__eSc_line_6c055159">hour, this</l>
-               <l facs="#facs__eSc_line_2b25e214">[holiday?] 
-                  <choice>
-                    <sic>shd</sic>
-                    <corr>should</corr>
-                  </choice></l>
-              </p>
-              <p>
-               <l facs="#facs__eSc_line_f143352d">39</l>
+               <l facs="#facs__eSc_line_f143352d"><add>39</add></l>
               </p>
                <l facs="#facs__eSc_line_f8bb8742">And the play could not disregard the <del>presence</del> in</l>
                <l facs="#facs__eSc_line_a3a98968">presence, at court, in the loud room at the</l>
@@ -132,10 +133,12 @@
                <l facs="#facs__eSc_line_b3eb9f5a">spies</l>
                <l facs="#facs__eSc_line_4232a702">They</l>
                <l facs="#facs__eSc_line_f6a6de4d">And so, Bacon</l>
-              <p>
-               <l facs="#facs__eSc_line_313d8879">Their</l>
-               <l facs="#facs__eSc_line_d636b9d7">irrepresible</l>
-               <l facs="#facs__eSc_line_0e915d7f">number</l>
+               <p>
+                  <add>
+                     <l facs="#facs__eSc_line_313d8879">Their</l>
+                     <l facs="#facs__eSc_line_d636b9d7">irrepressible</l>
+                     <l facs="#facs__eSc_line_0e915d7f">number</l>
+                  </add>
               </p>
             </ab></div>
       </body>
