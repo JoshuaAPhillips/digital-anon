@@ -91,9 +91,9 @@
       </person>
       <person xml:id="psn-anon">
         <persName>Anon</persName>
-        <note>If these drafts can be said to have a hero, Anon is he. Anon is VW's figuration for the oral ballad tradition that pre-dates and prefigures English literature and literary language: Anon's 'common voice singing out of doors' (M51. Anon... fol. 1r) is the necessary precondition for English literature. Anon is not gendered, 'sometimes woman; sometimes man' (M45. Anon. fol. 5r) but VW uses masculine pronouns to refer to Anon. 
+        <note>If these drafts can be said to have a hero, Anon is that hero. Anon is VW's figuration for the oral ballad tradition that pre-dates and prefigures English literature and literary language: Anon's 'common voice singing out of doors' (M51. Anon... fol. 1r) is the necessary precondition for English literature. In these drafts, Anon is 'sometimes woman; sometimes man' (M45. Anon. fol. 5r), and the narrator of <hi rend="italics">Room</hi>, theorising about a 'lost novelist, a suppressed poet', 'venture[s] to guess that Anon, who wrote so many poems without signing them, was often a woman', but VW uses masculine pronouns almost exclusively to refer to Anon herein. 
 
-        Anon is born from the primeval forests that cover Britain's landmass prior to recorded history, his song emerging from the mimicry of the songs of 'innumerable birds' (M.53. Anon... fol. 1r).
+        Anon is born from the primeval forests that cover Britain's landmass prior to recorded history, his song emerging from the mimicry of the songs of 'innumerable birds'  that <rs xml:id="psn-gtre">Trevelyan</rs> discusses(3; cf. M.53. Anon... fol. 1r), and whom Woolf quotes throughout these drafts.
           
         However, Anon's work is knowable only because Anon has been killed. In some fragments, <rs xml:id="psn-wcax">William Caxton</rs> kills Anon through the introduction of the <rs xml:id="obj-pres">printing press</rs> to England in the 1470s (M45. Anon. fol. 6r), in others it is the printed book itself that kills Anon (cf. M.1-8-2. Anon... fol. 1r) while in others he is to be found in the early modern playhouse, and his death comes at the moment that this drama outgrows the stage and is 'replaced by the theatre of the brain' (M.112-2, fol. 2r). Just as Anon's voice is a necessary precondition to literature in English, so too is Anon's death. In a curious aporetic, though, Anon's voice is only audible at the moment of his death.
           
@@ -110,6 +110,21 @@
         <idno>N/A</idno>
         <listBibl>
           <head>Works Cited</head>
+          <biblStruct type="book" xml:id="Trevelyan1926"
+          corresp="http://zotero.org/users/11267805/items/LIN5XYUU">
+            <monogr>
+              <title level="m">History of England</title>
+              <author>
+                <forename>George Macaulay</forename>
+                <surname>Trevelyan</surname>
+              </author>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <publisher>Longmans, Green</publisher>
+                <date>1926</date>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct type="bookSection" xml:id="Van_Hulle2024"
             corresp="http://zotero.org/users/11267805/items/THZYMKEG">
             <analytic>
@@ -138,6 +153,30 @@
                 <note type="accessed">2025-03-23T19:00:37Z</note>
                 <note type="url">
                   https://www.openbookpublishers.com/books/10.11647/obp.0426/chapters/10.11647/obp.0426.08</note>
+              </imprint>
+            </monogr>
+          </biblStruct>
+          <biblStruct type="bookSection" xml:id="Woolf1993a"
+            corresp="http://zotero.org/users/11267805/items/Q3TAHMSP">
+            <analytic>
+              <title level="a">A Room of One's Own</title>
+              <title type="short">Room</title>
+              <author>
+                <forename>Virginia</forename>
+                <surname>Woolf</surname>
+              </author>
+            </analytic>
+            <monogr>
+              <title level="m">A Room of One's Own and Three Guineas</title>
+              <editor>
+                <forename>Michèle</forename>
+                <surname>Barrett</surname>
+              </editor>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <biblScope unit="page">3-104</biblScope>
+                <publisher>Penguin</publisher>
+                <date>1993</date>
               </imprint>
             </monogr>
           </biblStruct>
@@ -2061,7 +2100,7 @@
       </person>
       <person xml:id="psn-crot">
         <persName>Crot</persName>
-        <note>Along with Nin and Pulley, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). Wright defines a 'crot' as a 'very small part' (Crot), but <hi rend="italics">OED</hi> cites an older usage in the c.1400 poem <hi rend="italics">Cursor Mundi</hi>, where it is used to denote a 'particle, bit, atom [or] individual piece' (crot | crote (n), cf. also Phillips 215).</note>
+        <note>Along with <rs xml:id="psn-nin">Nin</rs> and <rs xml:id="psn-pull">Pulley</rs>, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). Wright defines a 'crot' as a 'very small part' (Crot), but <hi rend="italics">OED</hi> cites an older usage in the c.1400 poem <hi rend="italics">Cursor Mundi</hi>, where it is used to denote a 'particle, bit, atom [or] individual piece' (crot | crote (n), cf. also Phillips 215).</note>
         <idno>N/A</idno>
         <listBibl>
           <head>Works Cited</head>
@@ -5989,7 +6028,7 @@
       </person>
       <person xml:id="psn-nin">
         <persName>Nin</persName>
-        <note>Along with Crot and Pulley, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). According to Wright's dictionary, 'Nin' is a Cornish dialect verb meaning “to drink” but is also cross-referenced to 'none,' whose usage in various dialects bears similar valences to standard English usage (Nin, cf. also Phillips 214).</note>
+        <note>Along with <rs xml:id="psn-crot">Crot</rs> and <rs xml:id="psn-pull">Pulley</rs>, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). According to Wright's dictionary, 'Nin' is a Cornish dialect verb meaning “to drink” but is also cross-referenced to 'none,' whose usage in various dialects bears similar valences to standard English usage (Nin, cf. also Phillips 214).</note>
         <listBibl>
           <head>Works Cited</head>
           <biblStruct type="journalArticle" xml:id="Phillips2022"
@@ -6176,7 +6215,7 @@
       </person>
       <person xml:id="psn-payc">
         <persName>Paycocke, Thomas</persName>
-        <note>A cloth-merchant from Cogeshall, <rs xml:id="pla-esse">Essex</rs>. He is the subject of a chapter of Eileen Power's <hi rend="italics">Medieval People</hi> (1924; LLVW contains 1937 reprint), Power draws on three sources to evidence his life: 'houses, brasses, and wills' which 'contain much evidence for the increasingly rapid growth during the last two centuries of the Middle Ages of a large and prosperous middle class, whose wealth was not based upon landed property but upon industry and trade' (158).</note>
+        <note>A cloth-merchant from Cogeshall, <rs xml:id="pla-esse">Essex</rs>. He is the subject of a chapter of Eileen Power's <hi rend="italics">Medieval People</hi> (1924; LLVW contains 1937 reprint). Power draws on three sources to evidence his life: 'houses, brasses, and wills' which 'contain much evidence for the increasingly rapid growth during the last two centuries of the Middle Ages of a large and prosperous middle class, whose wealth was not based upon landed property but upon industry and trade' (158).</note>
         <idno type="viaf">http://viaf.org/viaf/66815720</idno>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q18546896</idno>
         <listBibl>
@@ -6203,7 +6242,7 @@
           <biblStruct type="book" xml:id="Power1929"
           corresp="http://zotero.org/users/11267805/items/JCHMGGEV">
           <monogr>
-            <title level="m">Medieval people.</title>
+            <title level="m">Medieval People</title>
             <author>
               <forename>Eileen</forename>
               <surname>Power</surname>
@@ -6381,8 +6420,8 @@
         </listBibl>
       </person>
       <person xml:id="psn-pull">
-        <persName>Pully</persName>
-        <note>Along with Nin and Crot, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). Out of the trio, Pulley's name is probably the most familiar to modern anglophone audiences: Wright defines it as the 'wheel placed over a pit over which the rope for drawing coals is passed' (Pulley, cf. also Phillips 215).</note>
+        <persName>Pulley</persName>
+        <note>Along with <rs xml:id="psn-nin">Nin</rs> and <rs xml:id="psn-crot">Crot</rs>, one of a trio of 'invisible influences' that interpellate the early English singer as a subject and shape their song. Woolf begins to discuss these influences as early as RN2. [Holograph reading notes] Notes for reading at random. The names of all three of the trio are defined by Joseph Wright in his <hi rend="italics">English Dialect Dictionary</hi>, with which Woolf was evidently familiar (cf. Leaska in Woolf 1978, xii). Out of the trio, Pulley's name is probably the most familiar to modern anglophone audiences: Wright defines it as the 'wheel placed over a pit over which the rope for drawing coals is passed' (Pulley, cf. also Phillips 215).</note>
         <idno>N/A</idno>
         <listBibl>
           <head>Works Cited</head>
@@ -6580,7 +6619,7 @@
         <persName>Raphael</persName>
         <event type="birth" when="1483-03-28?" />
         <event type="death" when="1520-04-06" />
-        <note>Rafaello Sanzino da Urbino, referred to in English as Raphael, was an Italian renaissance painter and architect. He is a constant presence in <hi rend="italics">RF</hi>, and she writes in a letter to Vanessa Bell dated 26 April 1927, sent from Rome, that among the works of art she has seen 'Raphael comes out very much better than I expected' and asks Bell her opinion of the painter, as well as whether <rs xml:id="psn-mich">Michelangelo</rs> painted the Sistine Chapel 'slung on a board' (<hi rend="italics">L</hi>6 367, §. 1747). In <hi rend="italics">TL</hi>, Lily Briscoe and William Bankes discuss the 'significance of mother and son' in painting, and Lily's 'neglect' of the subject: Briscoe saves face by teling Bankes that she does 'not intend to disparage a subject which, they agreed, Raphael had treated divinely' (145). </note>
+        <note>Rafaello Sanzino da Urbino, referred to in English as Raphael, was an Italian renaissance painter and architect. He is a constant presence in <hi rend="italics">RF</hi>. Woolf writes in a letter to Vanessa Bell dated 26 April 1927, sent from Rome, that among the works of art she has seen 'Raphael comes out very much better than I expected' and asks Bell her opinion of the painter, as well as whether <rs xml:id="psn-mich">Michelangelo</rs> painted the Sistine Chapel 'slung on a board' (<hi rend="italics">L</hi>6 367, §. 1747). In <hi rend="italics">TL</hi>, Lily Briscoe and William Bankes discuss the 'significance of mother and son' in painting, and Lily's 'neglect' of the subject: Briscoe saves face by teling Bankes that she does 'not intend to disparage a subject which, they agreed, Raphael had treated divinely' (145). </note>
         <idno type="viaf">http://viaf.org/viaf/64055977</idno>
         <idno type="wikidata">https://www.wikidata.org/wiki/Q5597</idno>
         <listBibl>
