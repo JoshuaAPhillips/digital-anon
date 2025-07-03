@@ -10,6 +10,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../Downloads/export_doc255_m53_pagexml_202507031515/METS.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>eScrPage2Tei</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>../../Downloads/export_doc211_tl1_pagexml_202501212015%20(1)/METS.xml</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -1579,5 +1599,6 @@
     </meta>
     <projectTree name="digital-anon.xpr">
         <folder path="."/>
+        <folder path="../../Downloads/export_doc255_m53_pagexml_202507031515/"/>
     </projectTree>
 </project>

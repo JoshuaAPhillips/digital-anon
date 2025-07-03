@@ -120,7 +120,7 @@
             <choice>
               <sic>lnaguage</sic>
               <corr>language</corr>
-            </choice> as <rs type="person" key="Trevelyan, George">the historian</rs> tells us had gone</l>
+            </choice> as <rs type="person" key="Trevelyan, George" xml:id="psn-gtre">the historian</rs> tells us had gone</l>
                <l facs="#facs__eSc_line_e7aba489"><add hand="ms" place="above">after the conquest</add></l>
                <l facs="#facs__eSc_line_c1ce1c58">underground for two centuries. Up stairs they talked French.</l>
                <l facs="#facs__eSc_line_c17176d9">English <del hand="ms">language</del> had gone 
@@ -163,7 +163,7 @@
             <choice>
               <sic>ross</sic>
               <corr>cross</corr>
-            </choice> the <rs type="place" xml:id="pla-cha" key="Channel, The">channel</rs>;</l>
+            </choice> the <rs type="place" xml:id="pla-chan" key="Channel, The">channel</rs>;</l>
                <l facs="#facs__eSc_line_fa52528d">his 
             <choice>
               <sic>anc stors</sic>
@@ -190,7 +190,7 @@
             <choice>
               <sic>quite</sic>
               <corr>quote</corr>
-            </choice><rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, or <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs>, or <rs type="person" xml:id="psn-tbro" key="Browne, Sir Thomas">Sir Thomas 
+            </choice> <rs type="person" xml:id="psn-gcha" key="Chaucer, Geoffrey">Chaucer</rs>, or <rs type="person" xml:id="psn-espe" key="Spenser, Edmund">Spenser</rs>, or <rs type="person" xml:id="psn-tbro" key="Browne, Sir Thomas">Sir Thomas 
               <choice>
                 <sic>Brwone</sic>
                 <corr>Browne</corr>
