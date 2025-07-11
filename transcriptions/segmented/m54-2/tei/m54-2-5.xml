@@ -148,11 +148,11 @@
                     <sic>Michael</sic>
                     <corr>Michelangelo</corr>
                   </choice></rs></l>
-               <l facs="#facs__eSc_line_5a0d3e08"><rs type="person" xml:id="psn-mich">Angelo</rs>; 
-            <choice>
+               <l facs="#facs__eSc_line_5a0d3e08"><rs type="person" xml:id="psn-mich">Angelo</rs>; <rs xml:id="psn-espe"><choice>
               <sic>Soenser</sic>
               <corr>Spenser</corr>
-            </choice> may be <rs type="person" xml:id="psn-perg" key="Pergolesi">Pergolesi</rs>. It seems possible that the</l>
+            </choice> </rs>
+            may be Pergolesi. It seems possible that the</l>
                <l facs="#facs__eSc_line_d9b332b6">great English art may not be the art of poetry.</l>
             </ab></div>
       </body>
