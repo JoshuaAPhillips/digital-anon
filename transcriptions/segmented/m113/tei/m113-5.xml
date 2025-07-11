@@ -156,19 +156,26 @@
                <l facs="#facs__eSc_line_5ba1f94b">world <del type="handwriter">are</del> is the life of man. The titles of Bacons essays</l>
             </p>
             <p>
-               <l facs="#facs__eSc_line_3bd521db">A <rs type="person" xml:id="psn-wsha" key="Shakespeare, William">poet</rs> wrote</l>
-               <l facs="#facs__eSc_line_e57b4a84">sonnets to</l>
-               <l facs="#facs__eSc_line_39165152"><rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W. H.</rs></l>
-               <l facs="#facs__eSc_line_b6abfe3b">Who is</l>
-               <l facs="#facs__eSc_line_3d012b07">W H?</l>
-               <l facs="#facs__eSc_line_60b2f967">The <choice>
-                  <sic>E<hi rend="superscript">thn</hi></sic>
-                  <corr>Elizabethan</corr></choice></l>
-               <l facs="#facs__eSc_line_dac405e6">audience</l>
-               <l facs="#facs__eSc_line_9d23a4a9">have no</l>
-               <l facs="#facs__eSc_line_97518d57">interest</l>
-               <l facs="#facs__eSc_line_8e82ecb4">in the</l>
-               <l facs="#facs__eSc_line_ae7a6b98">matter</l>
+              <add>
+                <l facs="#facs__eSc_line_3bd521db">A <rs type="person" xml:id="psn-wsha"
+                    key="Shakespeare, William">poet</rs> wrote</l>
+                <l facs="#facs__eSc_line_e57b4a84">sonnets to</l>
+                <l facs="#facs__eSc_line_39165152">
+                  <rs type="person" xml:id="psn-mrwh" key="Mr W. H.">Mr W. H.</rs>
+                </l>
+                <l facs="#facs__eSc_line_b6abfe3b">Who is</l>
+                <l facs="#facs__eSc_line_3d012b07">W H?</l>
+                <l facs="#facs__eSc_line_60b2f967">The <choice>
+                    <sic>E<hi rend="superscript">thn</hi></sic>
+                    <corr>Elizabethan</corr>
+                  </choice></l>
+                <l facs="#facs__eSc_line_dac405e6">audience</l>
+                <l facs="#facs__eSc_line_9d23a4a9">have no</l>
+                <l facs="#facs__eSc_line_97518d57">interest</l>
+                <l facs="#facs__eSc_line_8e82ecb4">in the</l>
+                <l facs="#facs__eSc_line_ae7a6b98">matter</l>
+              </add>
+
             </p>
             </ab></div>
       </body>
